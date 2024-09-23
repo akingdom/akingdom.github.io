@@ -15,7 +15,7 @@ AUTHOR:      Andrew Kingdom
 	}
 </style>
 
-## <img alt="Cartoon of me" src="https://github.io/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> <a href="https://akingdom.github.io>Andrew Kingdom</a>
+## <img alt="Cartoon of me" src="https://github.io/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io)
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
