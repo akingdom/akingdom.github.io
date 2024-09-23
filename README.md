@@ -12,8 +12,9 @@ AUTHOR:      Andrew Kingdom
 <style>
 </style>
 
+## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> Andrew Kingdom
 
-**[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://github.com/akingdom#interests) · [Software](https://github.com/akingdom#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom#platforms) · [Everything Else](https://github.com/akingdom#interests) · [Quotes](https://github.com/akingdom#quotes)
+**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
 <div id="purpose"></div>
 
@@ -27,11 +28,6 @@ AUTHOR:      Andrew Kingdom
 </script>
 
 
-## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> Andrew Kingdom
-
-**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
-
-*How do you use this website? Use the links in this page*
 
 ### Work I do
 
