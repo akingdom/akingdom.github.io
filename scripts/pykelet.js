@@ -32,7 +32,8 @@ function getPykeletFromComment(pykeletComment = undefined) {
 	if(pykeletComment === undefined) {
 		// Unspecified, so get the first PYKELET comment found
 		// Retrieve comments from the root element
-		const comments = getComments(document);
+		const githubBody = document.getElementsByClassName('markdown-body')[0];  // use github target if present
+		const comments = getComments(githubBody ? githubBody : document);
 		
 		// Find the PYKELET comment
 		pykeletComment = comments.find(comment => comment.nodeValue.trim().startsWith('PYKELET'));
