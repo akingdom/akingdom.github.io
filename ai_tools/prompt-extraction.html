@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Extraction</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { position: sticky; top: 0; background-color: #f9f9f9; padding: 10px; border-bottom: 1px solid #ccc; z-index: 100; }
+        header h1 { display: inline; }
+        #fileInput, #downloadButton, #copyButton { margin-left: 20px; }
+        #status { margin-left: 20px; color: green; }
+        #instructions { padding: 20px; height: 100vh; overflow-y: auto; }
+        #spinner { display: none; margin: 20px 0; border: 8px solid #f3f3f3; /* Light grey */ border-top: 8px solid #3498db; /* Blue */ border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; padding: 0px; }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Prompt Extraction</h1>
+    <input type="file" id="fileInput" aria-label="Upload a text file" />
+    <button id="downloadButton" disabled aria-label="Download processed file">Download Processed File</button>
+    <button id="copyButton" disabled aria-label="Copy processed text to clipboard">Copy to Clipboard</button>
+    <span id="status"></span>
+    <span id="spinner"></span> <!-- Loading spinner -->
+</header>
+
+<div id="instructions">
+    <h2>Instructions</h2>
+    <p>This page extracts text from image 'alt' descriptions and 'prompt' values embedded within a web page.</p>
+    <p>Select a text file to upload and process. The output will replace this section, and you will be able to download the processed file afterward.</p>
+</div>
+
+<script>
+
+function status(message, showSpinner = null) {
+	console.log(message);
+	document.getElementById('status').textContent = message;
+    if(showSpinner == true) 
+        document.getElementById('spinner').style.display = 'block'; // Show spinner
+    if(showSpinner == false)
+        document.getElementById('spinner').style.display = 'none'; // Hide spinner
+    // else we leave it.
+}
+
+function validateFileType(file) {
+  // Add MIME types for .mht and .mhtml files
+  const validTypes = ['text/plain', 'text/html', 'message/rfc822', 'multipart/related'];
+  
+  if (!validTypes.includes(file.type)) {
+    alert(`Unsupported file type (${file.type}).`);
+    return false;
+  }
+  return true;
+}
+      
+
+
+function getDynamicChunkSize(fileSize) {
+  if (fileSize > 10 * 1024 * 1024) { // > 10MB
+    return 2 * 1024 * 1024; // 2MB chunks
+  }
+  return 1024 * 1024; // Default to 1MB chunks
+}
+
+
+
+// Placeholder for decoding Unicode escape sequences
+function decodeEscapedCharacters(text) {
+    return text
+        // Handle \uXXXX (Unicode escape sequences)
+		.replace(/\\u([\dA-Fa-f]{4})/g, (match, grp) => String.fromCharCode(parseInt(grp, 16)))
+        // Handle &#xHHHH; (HTML entity hex codes)
+        .replace(/&#x([A-Fa-f0-9]+);/g, (match, code) => String.fromCharCode(parseInt(code, 16)))
+        // Handle &#DDDD; (HTML entity decimal codes)
+        .replace(/&#([0-9]+);/g, (match, code) => String.fromCharCode(code));
+
+}
+
+
+// Function to decode HTML entities
+function decodeHtmlEntities(text) {
+  try {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'text/html');
+    return doc.documentElement.textContent;
+  } catch (e) {
+    console.error('DOMParser issue:', e);
+    return text; // Fallback to original text in case of an error
+  }
+}
+
+
+// Function to check if the file is MHT/MHTML based on header patterns, and return the MimeHTML boundary marker if so.
+function mhtBoundaryMarker(initialChunk) {
+    const lines = initialChunk.split(/\r?\n/);
+    const first10Lines = lines.slice(0, 10).join('\n');
+
+    // Check for 'From:', 'MIME-Version:', and 'Content-Type: multipart/related;' in the first 10 lines
+    const fromMatch = /^From: /.test(lines[0]);
+    if(!fromMatch) return '';
+    const mimeMatch = first10Lines.match(/MIME-Version: /);
+    if(!mimeMatch) return '';
+    const contentTypeMatch = initialChunk.match(/Content-Type: multipart\/related;\s*type="text\/html";\s*boundary="(----MultipartBoundary--([^-]*)----)"/);
+	if(!contentTypeMatch) return '';
+	return contentTypeMatch[1];
+}
+
+
+// Function to detect encoding
+function detectEncoding(arrayBuffer) {
+    const uint8 = new Uint8Array(arrayBuffer);
+    if (uint8[0] === 0xFE && uint8[1] === 0xFF) return 'utf-16be';
+    if (uint8[0] === 0xFF && uint8[1] === 0xFE) return 'utf-16le';
+    if (uint8[0] === 0xEF && uint8[1] === 0xBB && uint8[2] === 0xBF) return 'utf-8';
+    return 'utf-8'; // Default to UTF-8
+}
+
+// Function to extract prompts and alt texts
+function extractPromptsAndAlts(content) {
+    // Step 2: Decode Unicode escape sequences
+    const cleanedContents = decodeEscapedCharacters(content);
+    const prompts = [...cleanedContents.matchAll(/"prompt":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => m[1]);
+    const alts = [...cleanedContents.matchAll(/alt="([^"]*)"/gs)].map(m => m[1]);
+    return { prompts, alts };
+}
+
+// Function to merge and deduplicate
+function mergeAndDeduplicate(prompts, alts) {
+    const mergedTexts = [...new Set([...prompts, ...alts])];
+    return mergedTexts.join('\n—\n'); // Join with a delimiter
+}
+            
+// Function to display processed text
+function displayProcessedText() {
+	const maxLength = 250000; // 250k characters
+    let displayText = document.processedText;
+    if (displayText.length > maxLength) {
+        displayText = displayText.substring(0, maxLength) + '... (more in download)';
+	}
+	document.getElementById('instructions').innerHTML = `<pre>${displayText}</pre>`;
+    enableDownload();
+    enableCopyButton();
+    status("File processed successfully!", false);
+}
+           
+function disableDownload() {
+    document.getElementById('downloadButton').disabled = true;
+}
+
+function disableCopyButton() {
+    document.getElementById('copyButton').disabled = true;
+}
+let currentBlobUrl = null;
+
+function enableCopyButton() {
+    document.getElementById('copyButton').disabled = false;
+}
+
+// Function to handle the processed file download
+function enableDownload() {
+
+    const blob = new Blob([document.processedText], { type: 'text/plain;charset=utf-8' });
+    const newUrl = URL.createObjectURL(blob);
+
+    // Revoke the previous URL if it exists
+    if (currentBlobUrl) {
+        URL.revokeObjectURL(currentBlobUrl);
+    }
+
+    currentBlobUrl = newUrl;
+
+    // Update the download button with the new URL and filename
+    downloadButton.href = newUrl;
+    downloadButton.download = document.modifiedFileName;
+    downloadButton.disabled = false;  // Enable the button
+}
+
+
+disableDownload();
+disableCopyButton();
+
+// Copy to Clipboard Function
+document.getElementById('copyButton').addEventListener('click', function() {
+    navigator.clipboard.writeText(document.processedText);
+    status("Copied to clipboard!", false);
+});
+
+// Add a single event listener for the download button
+downloadButton.addEventListener('click', function() {
+    if (!downloadButton.disabled && currentBlobUrl) {
+        // Revoke the object URL after a short delay to ensure the download is triggered
+        setTimeout(() => {
+            URL.revokeObjectURL(currentBlobUrl);
+        }, 5000);  // Adjust the delay as needed
+    }
+});
+
+// Add a single event listener for the upload button
+document.getElementById('fileInput').addEventListener('change', function(event) {
+    disableDownload();
+    disableCopyButton();
+    const file = event.target.files[0];
+    if (!file) {
+        status("No file selected.", false)
+        return;
+    }
+	if (!validateFileType(file)) {
+// 		event.target.value = ''; // Reset file input -- no, we'll allow it, but with the warning.
+		status("Unsupported file type.", false)
+// 		return;
+	}
+
+    document.originalFileName = file.name;
+	// Modify the filename as needed, e.g., adding '-processed' to the name
+	document.modifiedFileName = document.originalFileName.replace(/\.[^/.]+$/, "") + "-processed.txt";
+
+	status(`Processing file ${document.originalFileName}...`, true)
+	
+	const reader = new FileReader();
+	reader.onload = function(e) {
+		try {
+            let arrayBuffer = e.target.result;
+            e = null;  // flag object as releasable memory
+            const encoding = detectEncoding(arrayBuffer);
+            let decoder = new TextDecoder(encoding);
+            const fileContent = decoder.decode(arrayBuffer);
+            arrayBuffer = null;  // flag object as releasable memory
+            decoder = null;  // flag object as releasable memory
+            
+			const chunkSize = getDynamicChunkSize(file.size);
+
+            const chunkCount = Math.ceil(fileContent.length / chunkSize);
+            
+            let prompts = [];
+			let alts = [];
+            let chunkIndex = 0;
+            let startPosition = 0;
+            let endPosition = fileContent.length;
+            let boundaryMarker = '';
+            let mhtDetected = false;
+            let nextStartPosition = NaN;  // This MUST be a let not const as we MODIFY this during our pre-check for regex patterns that straddle the chunk boundary. 
+
+            // Process chunks
+            function processNextChunk() {
+                if (chunkIndex >= chunkCount || startPosition >= endPosition) {
+                    document.processedText = mergeAndDeduplicate(prompts, alts);
+                    displayProcessedText();
+                    return;
+                }
+            
+                nextStartPosition = Math.min(startPosition + chunkSize, endPosition);  // IMPORTANT start of next chunk -- we change this value when we truncate the chunk, to ensure the next chunk starts earlier, to include the truncated data. DO NOT REMOVE THIS CODE.
+                let chunk = fileContent.slice(startPosition, nextStartPosition);
+            	
+                // Detect MHT boundary marker in the first chunk
+                if (chunkIndex === 0) {
+                    boundaryMarker = mhtBoundaryMarker(chunk);
+                    if (boundaryMarker) {
+                        mhtDetected = true;
+                    }
+	
+					if (mhtDetected) {
+						status("(Multipart file format)")
+						
+						// Drop up to and including the first boundary marker
+						const firstBoundaryIndex = chunk.indexOf(boundaryMarker);
+						if (firstBoundaryIndex !== -1) {
+							chunk = chunk.slice(firstBoundaryIndex + boundaryMarker.length + 4); // Adjust to start after the boundary
+						} else {
+							status("Failed to extract multipart content. Try saving as HTML only.")
+							return;
+						}
+							
+					} else {
+						status("Treating as plain HTML file.")
+					}
+                }
+            
+				if(mhtDetected) {
+					// Check for the concluding boundary marker
+					const secondBoundaryIndex = chunk.indexOf(`--${boundaryMarker}`);
+					if (secondBoundaryIndex !== -1) {
+						endPosition = startPosition + secondBoundaryIndex; // Update end position
+						chunk = chunk.slice(0, secondBoundaryIndex); // Drop after this boundary
+						chunkIndex = chunkCount;  // finish at end of this loop
+						nextStartPosition = endPosition;  // required for completeness
+					}
+				}
+				
+                // Search last 4096 characters of chunk for alt or prompt markers
+                const lookAheadStart = Math.max(0, chunk.length - 4096);
+                const lookAhead = chunk.slice(lookAheadStart);
+                const altMatch = lookAhead.match(/alt="/);  // start of match ONLY
+                const promptMatch = lookAhead.match(/"prompt":"/);  // start of match ONLY
+
+                if (altMatch || promptMatch) {
+                    const truncateIndex = lookAhead.indexOf(altMatch ? altMatch[0] : promptMatch[0]);
+                    if (truncateIndex !== -1) {
+                    	const chunkLength = lookAheadStart + truncateIndex;
+						chunk = chunk.slice(0, chunkLength); // Truncate to just before the marker
+						nextStartPosition = startPosition + chunkLength;  // shorten the start position
+                    }
+                }
+                
+				// Extract prompts and alts
+                const { prompts: extractedPrompts, alts: extractedAlts } = extractPromptsAndAlts(chunk);
+                prompts = prompts.concat(extractedPrompts);
+                alts = alts.concat(extractedAlts);
+
+                chunkIndex += 1;
+
+                setTimeout(processNextChunk, 0); // Delay the next iteration
+            }
+
+            processNextChunk(); // Start processing
+        } catch (error) {
+            status("Error processing file.", false)
+        }
+    };
+
+    reader.onerror = function() {
+		reader.abort(); // Ensure cleanup on error
+        status("Error reading file.", false)
+    };
+        
+	reader.readAsArrayBuffer(file);  // trigger the read.
+});
+          
+
+
+</script>
+
+</body>
+</html>
