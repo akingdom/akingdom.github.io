@@ -4,16 +4,20 @@ DESCRIPTION: This is my general website. Some links
 
 TITLE:       Andrew Kingdom
 SITE: 	     akingdom.github.io
-HOST:	     github.com
+HOST:	     github.io
 FILENAME:    README.md
 AUTHOR:      Andrew Kingdom
 
 --><script src="scripts/pykelet.js"></script>
 <style>
+	body {
+		background-color: #f3f3ef;
+	}
 </style>
 
+## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io)
 
-**[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://github.com/akingdom#interests) · [Software](https://github.com/akingdom#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom#platforms) · [Everything Else](https://github.com/akingdom#interests) · [Quotes](https://github.com/akingdom#quotes)
+**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
 <div id="purpose"></div>
 
@@ -22,16 +26,11 @@ AUTHOR:      Andrew Kingdom
 
 <script>
 	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
-	if(h1_0) h1_0.textContent = document.pykelet.comment.TITLE;
+	if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
 	document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
 </script>
 
 
-## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> Andrew Kingdom
-
-**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
-
-*How do you use this website? Use the links in this page*
 
 ### Work I do
 
