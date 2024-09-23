@@ -10,6 +10,9 @@ AUTHOR:      Andrew Kingdom
 
 --><script src="scripts/pykelet.js"></script>
 <style>
+	body {
+		background-color: #f3f3ef;
+	}
 </style>
 
 ## <img alt="Cartoon of me" src="https://github.io/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> <a href="https://akingdom.github.io>Andrew Kingdom</a>
