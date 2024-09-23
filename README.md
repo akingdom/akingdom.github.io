@@ -1,16 +1,18 @@
 <!--PYKELET
 
-DESCRIPTION: This tool helps identify the most common repeated parts in a text (prompt section, phrase, words).
+DESCRIPTION: Website
 
-TITLE:       Text Frequency Analysis Tool
-FILENAME:    text_frequency_analysis_tool.html
+TITLE:       akingdom.github.io
+FILENAME:    README.md
 AUTHOR:      Andrew Kingdom
 
 --><script src="scripts/pykelet.js"></script>
+<style>
+</style>
 <h1 id="title"></h1>
 <div id="purpose"></div>
 
-# akingdom.github.io
+akingdom.github.io
 Website served from Github
 
 
