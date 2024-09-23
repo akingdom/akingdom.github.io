@@ -11,7 +11,6 @@ AUTHOR:      Andrew Kingdom
 --><script src="scripts/pykelet.js"></script>
 <style>
 </style>
-<h1 id="title"></h1>
 
 ## <img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;">
 
