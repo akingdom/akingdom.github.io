@@ -1,6 +1,6 @@
 <!--PYKELET
 
-DESCRIPTION: This is my general website. Some links 
+DESCRIPTION: This is my general website. Some links open external websites.
 
 TITLE:       Andrew Kingdom
 SITE: 	     akingdom.github.io
@@ -13,6 +13,12 @@ AUTHOR:      Andrew Kingdom
 	body {
 		background-color: #f3f3ef;
 	}
+	#aitools {
+	    background-color: blanchedalmond;
+	    padding: 0.8em;
+	    border-radius: 0.6em;
+	    margin-left: -0.8em;
+	}
 </style>
 
 ## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io)
@@ -21,7 +27,8 @@ AUTHOR:      Andrew Kingdom
 
 <div id="purpose"></div>
 
-## <img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools - [Prompts Extraction](ai_tools/prompt-extraction.html)
+<h2 id="aitools">
+	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
 
 
 <script>
