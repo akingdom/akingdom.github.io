@@ -4,7 +4,7 @@ DESCRIPTION: This is my general website. Some links
 
 TITLE:       Andrew Kingdom
 SITE: 	     akingdom.github.io
-HOST:	     github.com
+HOST:	     github.io
 FILENAME:    README.md
 AUTHOR:      Andrew Kingdom
 
