@@ -6,7 +6,7 @@ TITLE:       Text Frequency Analysis Tool
 FILENAME:    text_frequency_analysis_tool.html
 AUTHOR:      Andrew Kingdom
 
---><script src="pykelet.js"></script>
+--><script src="scripts/pykelet.js"></script>
 <h1 id="title"></h1>
 <div id="purpose"></div>
 
