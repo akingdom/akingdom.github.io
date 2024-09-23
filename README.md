@@ -12,11 +12,13 @@ AUTHOR:      Andrew Kingdom
 <style>
 </style>
 
-## <img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;">
 
-**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
+**[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://github.com/akingdom#interests) · [Software](https://github.com/akingdom#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom#platforms) · [Everything Else](https://github.com/akingdom#interests) · [Quotes](https://github.com/akingdom#quotes)
 
 <div id="purpose"></div>
+
+## <img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools - [Prompts Extraction](ai_tools/prompt-extraction.html)
+
 
 <script>
 	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
