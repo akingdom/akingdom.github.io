@@ -1,6 +1,6 @@
 <!--PYKELET
 
-DESCRIPTION: This is my general website. Some links 
+DESCRIPTION: This is my general website. Some links open external websites.
 
 TITLE:       Andrew Kingdom
 SITE: 	     akingdom.github.io
