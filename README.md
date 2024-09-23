@@ -20,6 +20,7 @@ AUTHOR:      Andrew Kingdom
 <div id="purpose"></div>
 
 <script>
-		document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
-		document.getElementById('title').innerText = document.pykelet.comment.TITLE;
+	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
+	if(h1_0) h1_0.textContent = document.pykelet.comment.TITLE;
+	document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
 </script>
