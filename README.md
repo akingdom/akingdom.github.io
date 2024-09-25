@@ -1,6 +1,6 @@
 <!--PYKELET
 
-DESCRIPTION: This is my general website. Some links open external websites.
+DESCRIPTION: Together, let’s turn ideas into reality. Reach out to start your journey!
 
 TITLE:       Andrew Kingdom
 SITE: 	     akingdom.github.io
@@ -8,7 +8,7 @@ HOST:	     github.io
 FILENAME:    README.md
 AUTHOR:      Andrew Kingdom
 
---><script src="scripts/pykelet.js"></script>
+-->
 <style>
 	body {
 		background-color: #f3f3ef;
@@ -31,29 +31,24 @@ AUTHOR:      Andrew Kingdom
 	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
 
 
-<script>
-	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
-	if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
-	document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
-</script>
 
 <div id="quote-container"></div>
 
 
 ### Work I do
 
-- Freelancer for hire
-- Advice and help with any IT issue, large or small.
-- Tutor in programming, electronics and English language (for non-native speakers).
-- Maintain mobile apps
-- Translate programs between computer languages
-- Build data transformation pipelines
-- Much else
+- **Freelancer for hire**: I provide support with any IT challenge, big or small.
+- **Tutor**: I offer tutoring in programming, electronics, and English for non-native speakers.
+- **App Maintenance**: Keeping your mobile apps running smoothly.
+- **Language Translation**: Translating programs between computer languages.
+- **Data Solutions**: Building data transformation pipelines.
+- And much more!
 
 ### Interests
-- Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
-- Practical Thinking (inc. philosophy, religion, neurology, psychology, [mathematics](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76), epistemology, metaphysics, information science)
-- Technology (too many to name, most branches, everything; I've helped design and build simple computers, websites, small data centres, networks, software, mobile apps, servers, websites, IOT, embedded systems, [programmable systems](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff), much much more)
+- **Nature and Science**: Enthusiast of biology, geology, cosmology, and physics.
+- **Practical Thinking**: Exploring philosophy, religion, psychology, mathematics, and epistemology.
+	- **Read more**: [Mathematical finds](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76
+- Technology: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum. Links: [programmable systems](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 - History (including archaeology, philology, [etymology](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9), genealogy, living history)
 - Language (I'm learning a few spoken languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
 - [Food](https://github.com/akingdom/food-recipes) (cooking and how not to burn water)
@@ -127,6 +122,12 @@ The above are the current main languages, of about 300 languages and dialects I'
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
 
 
+<script src="scripts/pykelet.js"></script>
+<script>
+	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
+	if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
+	document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
+</script>
 <!-- START QUOTE HANDLING -->
 <script>
 // Function to find two or more sequential blockquotes at the same depth
