@@ -34,9 +34,10 @@ AUTHOR:      Andrew Kingdom
 <script>
 	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
 	if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
-	// document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
+	document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
 </script>
 
+<div id="quote-container"></div>
 
 
 ### Work I do
@@ -171,7 +172,7 @@ The above are the current main languages, of about 300 languages and dialects I'
         console.log('First chain of blockquotes:', firstChain);
 
         // Clone a random blockquote from the chain into the div
-        cloneRandomBlockquote(firstChain, document.getElementById('purpose'));
+        cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
 	</script>
 <!-- END QUOTE HANDLING-->
 
