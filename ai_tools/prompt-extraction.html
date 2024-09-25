@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<!--
+FILENAME: prompt-extraction.html
+AUTHOR: Andrew Kingdom. Copyright (C) 2024. All rights reserved.
+-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,9 +10,12 @@
     <title>Prompt Extraction</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-        header { position: sticky; top: 0; background-color: #e9e0ff; padding: 10px; border-bottom: 1px solid #ccc; z-index: 100; }
+        #content {z-index: 1;}
+        .background-shape {position: absolute;top: -150%;left: 0px;width: 150%;aspect-ratio: 1;background-color: #fafaff;border-radius: 50%;z-index: -1;}
+        header { position: sticky; top: 0; background-color: #ffffffee; padding: 10px; border-bottom: 1px solid #ccc; z-index: 100; }
         header h1 { display: inline; }
         #fileInput, #downloadButton, #copyButton { margin-left: 20px; }
+        #fileInput { background-color: #fbf982;}
         #status { margin-left: 20px; color: green; }
         #instructions { padding: 20px; height: 100vh; overflow-y: auto; }
         #spinner { display: none; margin: 20px 0; border: 8px solid #f3f3f3; /* Light grey */ border-top: 8px solid #3498db; /* Blue */ border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; padding: 0px; }
@@ -27,32 +34,41 @@
 </head>
 <body>
 
-<header>
-    <h1>Prompt Extraction</h1>
-    <input type="file" id="fileInput" aria-label="Upload a text file" />
-    <button id="downloadButton" disabled aria-label="Download processed file">Download Processed File</button>
-    <button id="copyButton" disabled aria-label="Copy processed text to clipboard">Copy to Clipboard</button>
-    <span id="status"></span>
-    <span id="spinner"></span> <!-- Loading spinner -->
-</header>
+<div id="content">
+    <header>
+        <h1>Prompt Extraction</h1>
+        <input type="file" id="fileInput" aria-label="Upload a text file">
+        <button id="downloadButton" disabled aria-label="Download processed file">Download Processed File</button>
+        <button id="copyButton" disabled aria-label="Copy processed text to clipboard">Copy to Clipboard</button>
+        <span id="status"></span>
+        <span id="spinner"></span> <!-- Loading spinner -->
+    </header>
 
-<div id="instructions">
-    <h2>Instructions</h2>
-    <span class="strong">Select a saved web page to view its prompts.</span>
+    <div id="instructions">
+        <h2>Instructions</h2>
+        <span class="strong">To view the prompts in a saved web page, use the <em id="browseButtonName" style="background-color: #fbf982;">Choose File</em> button above.</span>
+
+        <p>
+        <span class="strong">Tip:</span>
+        <ul><li>If the web page was saved from a graphic CANVAS editor, make sure all images are fully visible.</li><li>If it was saved from an image FEED, ensure you've scrolled through all images and that none are missing or blank.</li>
+        </ul>
+        Once selected, the page will extract and display text from the image 'alt' descriptions and 'prompt' values embedded in the web page. You can easily copy the entire result using the 'copy' button. 
+        </p>
+        <p>
+        No data is saved on the server.
+        </p>
     
-    <span class="strong">Tip:</span>
-    <ul><li>If the web page was saved from a graphic CANVAS editor, make sure all images are fully visible.</li><li>If it was saved from an image FEED, ensure you've scrolled through all images and that none are missing or blank.</li>
-    </ul>
-    Once selected, the page will extract and display text from the image 'alt' descriptions and 'prompt' values embedded in the web page. You can easily copy the entire result using the 'copy' button. 
-    
-    <p>
-    No data is saved on the server.
-    </p>
-   <span style="color:red;">Apologies - there is an issue with files saved as 'Web Page, Single File' at present. Files saved as 'Web Page, HTML only' works fine. I'll fix this in the next few days. - AK</span> 
-	<a href="https://akingdom.github.io/">Andrew</a>
+        <a href="https://akingdom.github.io/">Andrew</a>
+    </div>
+    <div class="background-shape"></div>
 </div>
 
 <script>
+
+function debugstatus(message) {
+	console.log(message);
+	// document.getElementById('status').textContent = message;
+}
 
 function status(message, showSpinner = null) {
 	console.log(message);
@@ -64,17 +80,25 @@ function status(message, showSpinner = null) {
     // else we leave it.
 }
 
+const fileTypePlain = "html";
+const fileTypeMHT = "mhtml";
+const fileTypeUnknown = "unknown";
 function validateFileType(file) {
   // Add MIME types for .mht and .mhtml files
-  const validTypes = ['text/plain', 'text/html', 'message/rfc822', 'multipart/related'];
-  
-  if (!validTypes.includes(file.type)) {
-    alert(`Unsupported file type (${file.type}).`);
-    return false;
+  const validPlainTypes = ['text/plain', 'text/html'];
+  const validMHTMLTypes = ['message/rfc822', 'multipart/related'];
+  if (validPlainTypes.includes(file.type)) {
+    debugstatus(`*** FILE MIME ${fileTypePlain} (${file.type})`);
+    return fileTypePlain;
   }
-  return true;
+  if (validMHTMLTypes.includes(file.type)) {
+    debugstatus(`*** FILE MIME ${fileTypeMHT} (${file.type})`);
+    return fileTypeMHT;
+  }
+  alert(`Unsupported file type (${file.type}).`);
+  debugstatus(`*** FILE MIME unknown (${file.type})`);
+  return fileTypeUnknown;
 }
-      
 
 
 function getDynamicChunkSize(fileSize) {
@@ -84,8 +108,42 @@ function getDynamicChunkSize(fileSize) {
   return 1024 * 1024; // Default to 1MB chunks
 }
 
+function detectBrowser() {
+    const userAgent = navigator.userAgent;
+    if (userAgent.includes("Chrome") && !userAgent.includes("Edg") && !userAgent.includes("OPR")) {
+        return "Google Chrome";
+    } else if (userAgent.includes("Safari") && !userAgent.includes("Chrome")) {
+        return "Safari";
+    } else if (userAgent.includes("Firefox")) {
+        return "Mozilla Firefox";
+    } else if (userAgent.includes("OPR") || userAgent.includes("Opera")) {
+        return "Opera";
+    } else if (userAgent.includes("Edg")) {
+        return "Microsoft Edge";
+    } else if (userAgent.includes("MSIE") || userAgent.includes("Trident")) {
+        return "Internet Explorer";
+    } else {
+        return "Unknown Browser";
+    }
+}
 
+function detectFileInputTitle() {
+    const browser = detectBrowser();
+    if (browser === "Safari") {
+        return "Choose File";
+    } else if (browser === "Google Chrome") {
+        return "Choose File";
+    } else if (browser === "Mozilla Firefox") {
+        return "Browse";
+    } else if (browser === "Opera") {
+        return "Choose";        
+    } else {
+        return "Browse";
+    }
+}
 
+// Customize the label text based on the browser
+document.querySelector('#browseButtonName').textContent = detectFileInputTitle();
 // Placeholder for decoding Unicode escape sequences
 function decodeEscapedCharacters(text) {
     return text
@@ -119,16 +177,209 @@ function mhtBoundaryMarker(initialChunk) {
 
     // Check for 'From:', 'MIME-Version:', and 'Content-Type: multipart/related;' in the first 10 lines
     const fromMatch = /^From: /.test(lines[0]);
-    if(!fromMatch) return '';
+    if(!fromMatch) {debugstatus(`*** MHT INVALID - 'From:' missing `); return '';}
     const mimeMatch = first10Lines.match(/MIME-Version: /);
-    if(!mimeMatch) return '';
+    if(!mimeMatch) {debugstatus(`*** MHT INVALID - 'Mime-Version:' missing `); return '';}
     const contentTypeMatch = initialChunk.match(/Content-Type: multipart\/related;\s*type="text\/html";\s*boundary="(----MultipartBoundary--([^-]*)----)"/);
-	if(!contentTypeMatch) return '';
-	return contentTypeMatch[1];
+	if(!contentTypeMatch) {debugstatus(`*** MHT INVALID - 'Content-Type:' missing/malformed `); return '';}
+
+    debugstatus(`*** MHT VALID - marker = '${contentTypeMatch[1]}' `);
+    return contentTypeMatch[1];
+}
+
+// MHT Function to check if Content-Type is text/html
+function mhtValidateContentType(contentType) {
+    const typeRegex = /^text\/html(?:\s*;\s*charset=.*)?$/i;
+    return typeRegex.test(contentType);
+}
+
+// MHT Function to check if Content-Transfer-Encoding is quoted-printable
+function mhtValidateTransferEncoding(transferEncoding) {
+    return transferEncoding.trim().toLowerCase() === 'quoted-printable';
+}
+
+function utf8Decode(encodedString) {
+    // Create a Uint8Array from the encoded string's bytes
+    const bytes = new Uint8Array([...encodedString].map(char => char.charCodeAt(0)));
+    // Decode the Uint8Array into a UTF-8 string
+    const decoder = new TextDecoder('utf-8');
+    return decoder.decode(bytes);
+}
+
+const markersToCheck = ['alt="', '"prompt":'];
+
+// MHT Function to decode quoted-printable text
+function mhtDecodeQuotedPrintableWithMarkers(encodedChunk, contentType, transferEncoding, boundaryMarker, markersToCheck, wholeDataStartIndex, wholeDataLength) {
+    debugger; // CHECK ABOVE PARAMETERS ARE CORRECT
+    let decoded = '';
+    let originalIndex = 0;
+    const originalLength = encodedChunk.length;
+    let foundMarkers = {};
+
+    while (originalIndex < originalLength) {
+        const char = encodedChunk[originalIndex];
+
+        // Check for the multipart boundary marker in the encoded data
+        if (encodedChunk.substr(originalIndex, boundaryMarker.length) === boundaryMarker) {
+            console.log("Found multipart boundary marker, exiting early.");
+            break;  // Exit on finding the boundary marker
+        }
+
+        // Early exit checks for encoded characters or data markers
+        if (originalLength - originalIndex <= 4096) {
+            const lookAhead = encodedChunk.slice(originalIndex);
+            
+            // Check for soft line breaks and encoded characters
+            if (lookAhead.includes('=')) {
+                const equalsIndex = lookAhead.indexOf('=');
+
+                // Check for =xx or line breaks
+                if (equalsIndex !== -1) {
+                    // Check specific patterns
+                    if (lookAhead.startsWith('=\r\n', equalsIndex) ||
+                        lookAhead.startsWith('=\r', equalsIndex) ||
+                        lookAhead.startsWith('=\n', equalsIndex) ||
+                        /^[A-Fa-f0-9]{2}$/.test(lookAhead.substr(equalsIndex + 1, 2))) {
+                        console.log("Found encoded sequence or soft line break, exiting early.");
+                        break;  // Exit if found
+                    }
+                }
+
+                // Check for data markers in the decoded part
+                const last4096 = decoded.slice(-4096);
+                markersToCheck.forEach(marker => {
+                    if (!foundMarkers[marker] && last4096.includes(marker)) {
+                        foundMarkers[marker] = true;
+                        console.log(`Found data marker: ${marker}`);
+                    }
+                });
+
+                // Early exit if any marker has been found
+                if (Object.values(foundMarkers).some(found => found)) {
+                    console.log("Found a data marker, exiting early.");
+                    break;
+                }
+            }
+        }
+
+        // Handle soft line breaks (=\r\n)
+        if (char === '=' && (encodedChunk[originalIndex + 1] === '\r' || encodedChunk[originalIndex + 1] === '\n')) {
+            if (encodedChunk[originalIndex + 1] === '\r' && encodedChunk[originalIndex + 2] === '\n') {
+                originalIndex += 3;  // Skip `=\r\n`
+            } else if (encodedChunk[originalIndex + 1] === '\n') {
+                originalIndex += 2;  // Skip `=\n`
+            }
+            continue;  // No character to add to decoded
+        }
+
+        // Handle encoded characters (=XX)
+        if (char === '=' && /^[A-Fa-f0-9]{2}$/.test(encodedChunk.substring(originalIndex + 1, originalIndex + 3))) {
+            // Extract the next two characters as hex digits
+            const hex = encodedChunk.substring(originalIndex + 1, originalIndex + 3);
+            // Convert hex to a character (fromCharCode)
+            const decodedChar = String.fromCharCode(parseInt(hex, 16));
+            // Append decoded character to the result
+            decoded += decodedChar;
+
+            originalIndex += 3;  // Move past the `=XX`
+            continue;  // Encoding done
+        }
+
+        // Direct character, no encoding
+        decoded += char;
+        originalIndex += 1;
+    
+    }
+
+    // Optional: Validate Content-Type and Content-Transfer-Encoding
+    // Assuming these values are extracted from headers prior to this function call
+    const contentTypeValid = /text\/html(;.*)?/.test(contentType); // Example for Content-Type
+    const transferEncodingValid = /quoted-printable/i.test(transferEncoding); // Example for Content-Transfer-Encoding
+
+    decoded = utf8Decode(decoded);
+
+    return {
+        decoded: decoded,
+        remainderLength: originalLength - originalIndex,
+        contentTypeValid: contentTypeValid,
+        transferEncodingValid: transferEncodingValid,
+        foundMarkers: foundMarkers
+    };
+}
+
+// Function to validate the first chunk of a multipart part
+function mhtDecodeHeader(initialPartChunk) {
+    const CHUNK_SIZE = 4096;
+
+    // Split headers and body for processing (headers first, then the body)
+    const [headers, body] = initialPartChunk.split("\r\n\r\n", 2);
+
+    // Parse headers
+    const headerLines = headers.split("\r\n");
+    let headerLength = headers.length;
+    let contentType = null;
+    let transferEncoding = null;
+    let contentLocation = null;
+    let isValid = true;
+
+    for (const line of headerLines) {
+        if (line.startsWith("Content-Type:")) {
+            contentType = line.split(":")[1].trim();
+        } else if (line.startsWith("Content-Transfer-Encoding:")) {
+            transferEncoding = line.split(":")[1].trim();
+        } else if (line.startsWith("Content-Location:")) {
+            contentLocation = line.split(":")[1].trim();  // Optional field
+        }
+    }
+
+    // Validate Content-Type
+    if (!mhtValidateContentType(contentType)) {
+        debugstatus("Invalid Content-Type. Must be text/html.");
+        isValid = false;
+    }
+
+    // Validate Content-Transfer-Encoding
+    if (!mhtValidateTransferEncoding(transferEncoding)) {
+        console.error("Invalid Content-Transfer-Encoding. Must be quoted-printable.");
+        isValid = false;
+    }
+
+    return { 
+        validPartHeader: isValid, 
+        partHeaderLength: headerLength,
+        partContentType: contentType,
+        partTransferEncoding: transferEncoding,
+        partContentLocation: contentLocation
+     };
+}
+
+// TODO OBSOLETE???
+function mhtProcessChunk() {
+    // Process chunk body
+    let prematureEnd = false;
+    if (body.length >= CHUNK_SIZE) {
+        // Check if there's an '=' in the last 4096 characters of the chunk
+        const last4096 = body.slice(-CHUNK_SIZE);
+        if (last4096.includes('=')) {
+            prematureEnd = true;
+            console.warn("Premature chunk end detected due to '=' in the last 4096 characters.");
+        }
+    }
+
+    // Decode the quoted-printable body only if not ending prematurely
+    if (!prematureEnd) {
+        const decodedBody = decodeQuotedPrintable(body);
+        console.log("Decoded Body:", decodedBody);
+    }
+
+    // If Content-Location is present, handle it (optional step, here for demo)
+    if (contentLocation) {
+        console.log("Content Location:", contentLocation);
+    }
 }
 
 
-// Function to detect encoding
+// Overall function to detect encoding
 function detectEncoding(arrayBuffer) {
     const uint8 = new Uint8Array(arrayBuffer);
     if (uint8[0] === 0xFE && uint8[1] === 0xFF) return 'utf-16be';
@@ -226,9 +477,11 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
         status("No file selected.", false)
         return;
     }
-	if (!validateFileType(file)) {
+	document.fileType = validateFileType(file);
+    if (document.fileType === fileTypeUnknown) {
 // 		event.target.value = ''; // Reset file input -- no, we'll allow it, but with the warning.
 		status("Unsupported file type.", false)
+        alert('Unsupported file type, please choose another (we\'ll try to process it anyway)');
 // 		return;
 	}
 
@@ -252,64 +505,161 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
 			const chunkSize = getDynamicChunkSize(file.size);
 
             const chunkCount = Math.ceil(fileContent.length / chunkSize);
-            
+
+            debugstatus(`*** FILE LENGTH = ${fileContent.length} (we process as roughly ${chunkCount} chunks)`);
+
             let prompts = [];
 			let alts = [];
             let chunkIndex = 0;
-            let startPosition = 0;
-            let endPosition = fileContent.length;
+            let contentEndOverall = fileContent.length;  // this is where we stop
+            let startPositionOverall = 0;  // Start of chunk within file content.
+            let endPositionOverall = NaN;  // End of chunk within file content. This MUST be a let not const as we MODIFY this during our pre-check for regex patterns that straddle the chunk boundary. 
             let boundaryMarker = '';
             let mhtDetected = false;
-            let nextStartPosition = NaN;  // This MUST be a let not const as we MODIFY this during our pre-check for regex patterns that straddle the chunk boundary. 
 
             // Process chunks
             function processNextChunk() {
-                if (chunkIndex >= chunkCount || startPosition >= endPosition) {
+                if (chunkIndex >= chunkCount || startPositionOverall >= contentEndOverall) {
                     document.processedText = mergeAndDeduplicate(prompts, alts);
                     displayProcessedText();
                     return;
                 }
-            
-                nextStartPosition = Math.min(startPosition + chunkSize, endPosition);  // IMPORTANT start of next chunk -- we change this value when we truncate the chunk, to ensure the next chunk starts earlier, to include the truncated data. DO NOT REMOVE THIS CODE.
-                let chunk = fileContent.slice(startPosition, nextStartPosition);
+                
+                endPositionOverall = Math.min(startPositionOverall + chunkSize, contentEndOverall);  // IMPORTANT start of next chunk -- we change this value when we truncate the chunk, to ensure the next chunk starts earlier, to include the truncated data. DO NOT REMOVE THIS CODE.
+                debugstatus(`*** CHUNK @ ${startPositionOverall} - ${endPositionOverall}`);
+                let chunk = fileContent.slice(startPositionOverall, endPositionOverall);
             	
                 // Detect MHT boundary marker in the first chunk
                 if (chunkIndex === 0) {
-                    boundaryMarker = mhtBoundaryMarker(chunk);
-                    if (boundaryMarker) {
-                        mhtDetected = true;
-                    }
-	
-					if (mhtDetected) {
-						status("(Multipart file format)")
+                    
+                    if(document.fileType === fileTypeMHT) {
+
+                        debugstatus(`*** MHT scanning for marker`);
+                        
+                        boundaryMarker = mhtBoundaryMarker(chunk);
+                        if (boundaryMarker?.length > 0) {
+                            
+                            // Drop up to and including the initial boundary marker definition
+                            const definitionBoundaryIndex = chunk.indexOf(boundaryMarker);
+                            if (definitionBoundaryIndex !== -1) {
+                                const skipLength = definitionBoundaryIndex + boundaryMarker.length + 2;  // normally + 4
+                                debugstatus(`*** MHT TRUNCATING CHUNK FROM ${startPositionOverall + skipLength} AFTER INITIAL MARKER DEFINITION`);
+                                chunk = chunk.slice(skipLength); // Adjust to begin after the boundary
+                                startPositionOverall += skipLength;  // Adjust start for truncated length
+                                if( startPositionOverall >= endPositionOverall ) {
+                                    status("Failed to extract multipart content. Try saving as HTML only.")
+                                    debugstatus(`Hit the end of (too small?) chunk buffer unexpectedly.`);
+                                    return;
+                                }
+                                debugstatus(`*** CHUNK TRUNCATED @ ${startPositionOverall} - ${endPositionOverall}`);
+                            } else {
+                                status("Failed to extract multipart content. Try saving as HTML only.")
+                                debugstatus(`Didn't find definition marker again, which is plainly weird.`);
+                                return;
+                            }
+
+                            mhtDetected = true;
+                            debugstatus(`*** MHT DETECTED`);
+                        } else {
+                            debugstatus(`*** PLAIN HTML DETECTED`);
+                        }
+        
+                        if (mhtDetected) {
+                            status("(Multipart file format)")
 						
-						// Drop up to and including the first boundary marker
-						const firstBoundaryIndex = chunk.indexOf(boundaryMarker);
-						if (firstBoundaryIndex !== -1) {
-							chunk = chunk.slice(firstBoundaryIndex + boundaryMarker.length + 4); // Adjust to start after the boundary
-						} else {
-							status("Failed to extract multipart content. Try saving as HTML only.")
-							return;
-						}
-							
-					} else {
-						status("Treating as plain HTML file.")
-					}
+                            // Drop up to and including the first boundary marker
+                            const firstBoundaryIndex = chunk.indexOf(boundaryMarker);
+                            if (firstBoundaryIndex !== -1) {
+                                const skipLength = firstBoundaryIndex + boundaryMarker.length + 2;  // normally + 4
+                                debugstatus(`*** MHT TRUNCATING CHUNK FROM ${startPositionOverall + skipLength} AFTER FIRST BOUNDARY MARKER`);
+                                chunk = chunk.slice(skipLength); // Adjust to begin after the boundary
+                                startPositionOverall += skipLength;  // Adjust start for truncated length
+                                if( startPositionOverall >= endPositionOverall ) {
+                                    status("Failed to extract multipart content. Try saving as HTML only.")
+                                    debugstatus(`Hit the end of (too small?) chunk buffer unexpectedly.`);
+                                    return;
+                                }
+                                debugstatus(`*** CHUNK TRUNCATED @ ${startPositionOverall} - ${endPositionOverall}`);
+
+                                // Process the header
+                                const { 
+                                    validPartHeader: validPartHeader, 
+                                    partHeaderLength: partHeaderLength,
+                                    partContentType: partContentType,
+                                    partTransferEncoding: partTransferEncoding,
+                                    partContentLocation: partContentLocation
+                                } = mhtDecodeHeader(chunk);
+                                debugger; // CHECK ABOVE PARAMETERS ARE CORRECT
+                                if( !validPartHeader ) {
+                                    status("Failed to extract part content. Try saving as HTML only.")
+                                    debugstatus(`*** MHT Required part header details are missing.`);
+                                    return;
+                                }
+                                debugstatus(`*** MHT Part header is valid.`);
+                                document.partContentType = partContentType;
+                                document.partTransferEncoding = partTransferEncoding;
+                                document.partContentLocation = partContentLocation;
+
+                                // Update chunk remainder
+                                debugstatus(`*** MHT TRUNCATING CHUNK FROM ${startPositionOverall + partHeaderLength} AFTER FIRST PART HEADER`);
+                                chunk = chunk.slice(partHeaderLength); // Adjust to begin after the header
+                                startPositionOverall += partHeaderLength;  // Adjust start for truncated length
+                                if( startPositionOverall >= endPositionOverall ) {
+                                    status("Failed to extract multipart content. Try saving as HTML only.")
+                                    debugstatus(`Hit the end of (too small?) chunk buffer unexpectedly.`);
+                                    return;
+                                }
+                                
+                            } else {
+                                status("Failed to extract multipart content. Try saving as HTML only.")
+                                return;
+                            }
+                                
+                        }
+                    }
                 }
-            
-				if(mhtDetected) {
-					// Check for the concluding boundary marker
-					const secondBoundaryIndex = chunk.indexOf(`--${boundaryMarker}`);
-					if (secondBoundaryIndex !== -1) {
-						endPosition = startPosition + secondBoundaryIndex; // Update end position
-						chunk = chunk.slice(0, secondBoundaryIndex); // Drop after this boundary
-						chunkIndex = chunkCount;  // finish at end of this loop
-						nextStartPosition = endPosition;  // required for completeness
-					}
-				}
-				
-                // Search last 4096 characters of chunk for alt or prompt markers
-                const lookAheadStart = Math.max(0, chunk.length - 4096);
+
+                if(mhtDetected) {
+                    if(document.fileType === fileTypeMHT) {
+                        // Check for the concluding boundary marker (and don't exit yet)
+                        const secondBoundaryIndex = chunk.indexOf(`--${boundaryMarker}`);
+                        if (secondBoundaryIndex !== -1) {
+                            endPositionOverall = startPositionOverall + secondBoundaryIndex; // Update end position for truncated length
+                            contentEndOverall = endPositionOverall;  // End early -- don't process the remaining content data.
+                            debugstatus(`*** MHT TRUNCATING CHUNK TO ${startPositionOverall + secondBoundaryIndex} BEFORE SECOND BOUNDARY MARKER`);
+                            chunk = chunk.slice(0, secondBoundaryIndex); // Drop after this boundary
+                            debugstatus(`*** CHUNK TRUNCATED @ ${startPositionOverall} - ${endPositionOverall}`);
+                            chunkIndex = chunkCount;  // finish at end of this loop
+                        }
+                    }
+
+                    // Process the encoded chunk remainder
+                    const {
+                        decoded: partDecoded,
+                        remainderLength: remainderLength,
+                        contentTypeValid: contentTypeValid,
+                        transferEncodingValid: transferEncodingValid,
+                        foundMarkers: foundMarkers
+                    } =
+                    mhtDecodeQuotedPrintableWithMarkers (
+                        chunk, 
+                        document.partContentType, 
+                        document.partTransferEncoding,
+                        boundaryMarker, 
+                        markersToCheck, 
+                        startPositionOverall, 
+                        contentEndOverall
+                    );
+
+                    // Update chunk remainder
+                    endPositionOverall -= remainderLength;
+                    debugstatus(`*** MHT TRUNCATING CHUNK END TO ${endPositionOverall} BEFORE SOME MARKER`);
+                    chunk = partDecoded;  // process the decoded part chunk for the remainder of this loop.
+
+                }
+
+                // Search last 4096 characters of chunk for data markers (alt or prompt)  (and don't exit yet)
+                const lookAheadStart = Math.max(0, chunk.length - 4096);  // MUST be less than the remaining CHUNK length! -- TODO BUG CHECK
                 const lookAhead = chunk.slice(lookAheadStart);
                 const altMatch = lookAhead.match(/alt="/);  // start of match ONLY
                 const promptMatch = lookAhead.match(/"prompt":"/);  // start of match ONLY
@@ -318,8 +668,14 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
                     const truncateIndex = lookAhead.indexOf(altMatch ? altMatch[0] : promptMatch[0]);
                     if (truncateIndex !== -1) {
                     	const chunkLength = lookAheadStart + truncateIndex;
-						chunk = chunk.slice(0, chunkLength); // Truncate to just before the marker
-						nextStartPosition = startPosition + chunkLength;  // shorten the start position
+                        if( startPositionOverall + chunkLength < endPositionOverall) {  // we check this incase the MHT code above changed the end index. This might occur? It's a sanity check if not.
+                            debugstatus(`*** LATE DATA, AVOID CHUNK OVERFLOW, TRUNCATING CHUNK TO ${startPositionOverall + chunkLength} BEFORE SECOND BOUNDARY MARKER`);
+                            chunk = chunk.slice(0, chunkLength); // Truncate to just before the next data marker
+                            endPositionOverall = startPositionOverall + chunkLength;  // shorten the end position
+                            debugstatus(`*** CHUNK TRUNCATED @ ${startPositionOverall} - ${endPositionOverall}`);
+                        } else {
+                            debugstatus(`*** LATE DATA, AVOID CHUNK OVERFLOW, BUT IGNORING AS THIS IS AFTER THE SECOND BOUNDARY MARKER. THIS IS UNEXPECTED.`);
+                        }
                     }
                 }
                 
@@ -329,6 +685,7 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
                 alts = alts.concat(extractedAlts);
 
                 chunkIndex += 1;
+                startPositionOverall = endPositionOverall;  // IMPORTANT - next time we start where we left off.
 
                 setTimeout(processNextChunk, 0); // Delay the next iteration
             }
