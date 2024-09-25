@@ -30,8 +30,6 @@ AUTHOR:      Andrew Kingdom
 <h2 id="aitools">
 	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
 
-
-
 <div id="quote-container"></div>
 
 
@@ -47,8 +45,9 @@ AUTHOR:      Andrew Kingdom
 ### Interests
 - **Nature and Science**: Enthusiast of biology, geology, cosmology, and physics.
 - **Practical Thinking**: Exploring philosophy, religion, psychology, mathematics, and epistemology.
-	- **Read more**: [Mathematical finds](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76
-- Technology: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum. Links: [programmable systems](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
+	- **Read more**: [Mathematical finds](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76)
+- Technology: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
+	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 - History (including archaeology, philology, [etymology](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9), genealogy, living history)
 - Language (I'm learning a few spoken languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
 - [Food](https://github.com/akingdom/food-recipes) (cooking and how not to burn water)
