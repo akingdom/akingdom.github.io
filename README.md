@@ -244,14 +244,26 @@ cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
 // Custom AK script.
 // Function to replace text/code with some new code
 function replaceTextCode(targetText, replacementHTML) {
-  const allElements = document.body.querySelectorAll('*');
+  // Escape special characters in the target text for RegExp
+  const escapedTargetText = targetText.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
 
-  allElements.forEach(element => {
+  // Select all elements that have children and can contain text
+  const textElements = document.body.querySelectorAll('*:not(script):not(style)');
+
+  textElements.forEach(element => {
+    // Check if the element contains the target text
     if (element.innerHTML.includes(targetText)) {
-      element.innerHTML = element.innerHTML.replace(new RegExp(targetText, 'g'), replacementHTML);
+      // Replace the text using a safe regular expression
+      element.innerHTML = element.innerHTML.replace(new RegExp(escapedTargetText, 'g'), replacementHTML);
     }
   });
 }
+
+// Usage:
+replaceTextCode(
+  '[Contact Me]',
+  '<button id="contact-me">Contact me</button>'
+);
 // Initialize
 function tawk_init() {
 	replaceTextCode(
