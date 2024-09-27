@@ -21,7 +21,7 @@ AUTHOR:      Andrew Kingdom
 	}
 </style>
 
-## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io)
+## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) &middot; <button id="contact-me>Contact me</button>
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
@@ -223,6 +223,17 @@ The above are the current main languages, of about 300 languages and dialects I'
 <!-- END QUOTE HANDLING-->
 
 <!--Start of Tawk.to Script-->
+<script >
+// Custom AK script.
+// Initialize
+function tawk_init() {
+	document.getElementById("contact-me").onclick = function() {
+		Tawk_API.maximize();
+	}};
+}
+window.addEventListener('load', tawk_init); // Initialise once the window loads
+</script>
+
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -232,6 +243,7 @@ s1.src='https://embed.tawk.to/602a13f6918aa261273edfe7/1eui5rv0l';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
+document.tawk_loaded();
 })();
 </script>
 <!--End of Tawk.to Script-->
