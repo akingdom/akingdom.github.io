@@ -272,6 +272,9 @@ function tawk_init() {
 	);
 	document.getElementById("contact-me").onclick = function() {
 		Tawk_API.maximize();
+		setTimeout(function() {
+		    document.querySelector('.tawk-chat-input').focus();
+		}, 500); // Adjust the timeout as necessary
 	};
 }
 window.addEventListener('load', tawk_init); // Initialise once the window loads
