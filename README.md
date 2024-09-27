@@ -259,7 +259,6 @@ s1.src='https://embed.tawk.to/602a13f6918aa261273edfe7/1eui5rv0l';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
-document.tawk_loaded();
 })();
 </script>
 <!--End of Tawk.to Script-->
