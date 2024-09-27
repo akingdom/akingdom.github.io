@@ -72,6 +72,7 @@ body {
   border-radius: 4px;
   font-size: 16px;
   cursor: pointer;
+  align-vertical: bottom;
 }
 
 .btn-primary:hover {
@@ -84,8 +85,8 @@ body {
   color: #FFFFFF;
   border: none;
   padding: 10px 20px
-  vertical-align: bottom;
   border-radius: 4px;
+  align-vertical: bottom;
 }
 
 .btn-secondary:hover {
