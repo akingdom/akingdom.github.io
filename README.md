@@ -11,28 +11,29 @@ AUTHOR:      Andrew Kingdom
 -->
 <style> /* ALL STYLING */
 
-	body {
-		background-color: #f3f3ef;
-	}
-	#aitools {
-	    background-color: blanchedalmond;
-	    padding: 0.8em;
-	    border-radius: 0.6em;
-	    margin-left: -0.8em;
-	}
-	button#contact-me {
-	    border: 0;
-	    line-height: 2.5;
-	    padding: 0 20px;
-	    font-size: 1rem;
-	    text-align: center;
-	    color: #fff;
-	    text-shadow: 1px 1px 1px #000;
-	    border-radius: 10px;
-	    background-color: rgba(220, 0, 0, 1);
-	    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
-	    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-	}
+body {
+	background-color: #f3f3ef;
+}
+#aitools {
+    background-color: blanchedalmond;
+    padding: 0.8em;
+    border-radius: 0.6em;
+    margin-left: -0.8em;
+}
+button#contact-me {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
 </style>
 
 ## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) &middot; <button id="contact-me>Contact me</button>
@@ -185,57 +186,57 @@ The above are the current main languages, of about 300 languages and dialects I'
 <!-- ALL SCRIPTING -->
 <script src="scripts/pykelet.js"></script>
 <script>
-	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
-	if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
-	document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
+let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
+if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
+document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
 </script>
 <!-- START QUOTE HANDLING -->
 <script>
 // Function to find two or more sequential blockquotes at the same depth
-        function findSequentialBlockquotes() {
-            const allBlockquotes = document.querySelectorAll('blockquote');
-            const blockquoteChains = [];
-            let currentChain = [];
+function findSequentialBlockquotes() {
+    const allBlockquotes = document.querySelectorAll('blockquote');
+    const blockquoteChains = [];
+    let currentChain = [];
 
-            // Traverse all blockquotes
-            allBlockquotes.forEach((blockquote, index) => {
-                if (index === 0 || blockquote.previousElementSibling.tagName === 'BLOCKQUOTE') {
-                    // Add to current chain if it's the first blockquote or previous is also a blockquote
-                    currentChain.push(blockquote);
-                } else {
-                    // Push current chain and reset if a break occurs
-                    if (currentChain.length >= 2) {
-                        blockquoteChains.push([...currentChain]);
-                    }
-                    currentChain = [blockquote];
-                }
-            });
+    // Traverse all blockquotes
+    allBlockquotes.forEach((blockquote, index) => {
+	if (index === 0 || blockquote.previousElementSibling.tagName === 'BLOCKQUOTE') {
+	    // Add to current chain if it's the first blockquote or previous is also a blockquote
+	    currentChain.push(blockquote);
+	} else {
+	    // Push current chain and reset if a break occurs
+	    if (currentChain.length >= 2) {
+		blockquoteChains.push([...currentChain]);
+	    }
+	    currentChain = [blockquote];
+	}
+    });
 
-            // Check final chain
-            if (currentChain.length >= 2) {
-                blockquoteChains.push([...currentChain]);
-            }
+    // Check final chain
+    if (currentChain.length >= 2) {
+	blockquoteChains.push([...currentChain]);
+    }
 
-            // Return the first valid chain (with 2 or more blockquotes)
-            return blockquoteChains.length > 0 ? blockquoteChains[0] : [];
-        }
+    // Return the first valid chain (with 2 or more blockquotes)
+    return blockquoteChains.length > 0 ? blockquoteChains[0] : [];
+}
 
-        // Function to clone a random blockquote from the array to a div
-        function cloneRandomBlockquote(chain,parent) {
-            if (chain.length > 0) {
-                const randomIndex = Math.floor(Math.random() * chain.length);
-                const randomBlockquote = chain[randomIndex].cloneNode(true);
-                parent.appendChild(randomBlockquote);
-            }
-        }
+// Function to clone a random blockquote from the array to a div
+function cloneRandomBlockquote(chain,parent) {
+    if (chain.length > 0) {
+	const randomIndex = Math.floor(Math.random() * chain.length);
+	const randomBlockquote = chain[randomIndex].cloneNode(true);
+	parent.appendChild(randomBlockquote);
+    }
+}
 
-        // Find the first chain of sequential blockquotes
-        const firstChain = findSequentialBlockquotes();
-        console.log('First chain of blockquotes:', firstChain);
+// Find the first chain of sequential blockquotes
+const firstChain = findSequentialBlockquotes();
+console.log('First chain of blockquotes:', firstChain);
 
-        // Clone a random blockquote from the chain into the div
-        cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
-	</script>
+// Clone a random blockquote from the chain into the div
+cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
+</script>
 <!-- END QUOTE HANDLING-->
 
 <!--Start of Tawk.to Script-->
