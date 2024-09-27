@@ -244,7 +244,7 @@ function tawk_init() {
 	document.getElementById("contact-me").onclick = function() {
 		Tawk_API.maximize();
 		setTimeout(function() {
-		    document.querySelector('.tawk-chatinput').focus();
+		    document.getElementsByClassName('tawk-chatinput-editor')[1].focus()
 		}, 500); // Adjust the timeout as necessary
 	};
 }
