@@ -10,18 +10,6 @@ AUTHOR:      Andrew Kingdom
 
 -->
 <link rel="stylesheet" href="styles/common.css">
-<style> /* PAGE STYLING */
-body {
-	background-color: #f3f3ef;
-}
-#aitools {
-    background-color: blanchedalmond;
-    padding: 0.8em;
-    border-radius: 0.6em;
-    margin-left: -0.8em;
-}
-
-</style>
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
