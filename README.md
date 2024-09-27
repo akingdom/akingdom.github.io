@@ -20,20 +20,6 @@ body {
     border-radius: 0.6em;
     margin-left: -0.8em;
 }
-button#contact-me {
-    border: 0;
-    line-height: 2.5;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: center;
-    vertical-align: bottom;
-    color: #fff;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-    background-color: rgba(220, 0, 0, 1);
-    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
-    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-}
 
 </style>
 
@@ -244,6 +230,7 @@ cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
 <script >
 // Custom AK script.
 // Function to replace text/code with some new code
+// TODO FUTURE -- add a call to feed JSON through this, with {"old": "[My Template]", "new": "my new text/html"}
 function replaceTextCode(targetText, replacementHTML) {
   // Escape special characters in the target text for RegExp
   const escapedTargetText = targetText.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
@@ -260,16 +247,11 @@ function replaceTextCode(targetText, replacementHTML) {
   });
 }
 
-// Usage:
-replaceTextCode(
-  '[Contact Me]',
-  '<button id="contact-me">Contact me</button>'
-);
 // Initialize
 function tawk_init() {
 	replaceTextCode(
 		'[Contact Me]',
-		'<button id="contact-me">Contact me</button>'
+		'<button id="contact-me" class="btn-primary">Contact me</button>'
 	);
 	document.getElementById("contact-me").onclick = function() {
 		Tawk_API.maximize();
