@@ -1,6 +1,6 @@
 <!--PYKELET
 
-DESCRIPTION: This is my general website. Some links open external websites.
+DESCRIPTION: Together, let’s turn ideas into reality. Reach out to start your journey!
 
 TITLE:       Andrew Kingdom
 SITE: 	     akingdom.github.io
@@ -8,20 +8,36 @@ HOST:	     github.io
 FILENAME:    README.md
 AUTHOR:      Andrew Kingdom
 
---><script src="scripts/pykelet.js"></script>
-<style>
-	body {
-		background-color: #f3f3ef;
-	}
-	#aitools {
-	    background-color: blanchedalmond;
-	    padding: 0.8em;
-	    border-radius: 0.6em;
-	    margin-left: -0.8em;
-	}
+-->
+<style> /* ALL STYLING */
+
+body {
+	background-color: #f3f3ef;
+}
+#aitools {
+    background-color: blanchedalmond;
+    padding: 0.8em;
+    border-radius: 0.6em;
+    margin-left: -0.8em;
+}
+button#contact-me {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    vertical-align: bottom;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
 </style>
 
-## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io)
+## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
@@ -30,35 +46,76 @@ AUTHOR:      Andrew Kingdom
 <h2 id="aitools">
 	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
 
-
-<script>
-	let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
-	if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
-	document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
-</script>
-
+<div id="quote-container"></div>
 
 
 ### Work I do
 
-- Freelancer for hire
-- Advice and help with any IT issue, large or small.
-- Tutor in programming, electronics and English language (for non-native speakers).
-- Maintain mobile apps
-- Translate programs between computer languages
-- Build data transformation pipelines
-- Much else
+- **Freelancer for hire**: I provide support with any IT challenge, big or small.
+- **Tutor**: I offer tutoring in programming, electronics, and English for non-native speakers.
+- **App Maintenance**: Keeping your mobile apps running smoothly.
+- **Language Translation**: Translating programs between computer languages.
+- **Data Solutions**: Building data transformation pipelines.
+- And much more!
 
 ### Interests
-- Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
-- Practical Thinking (inc. philosophy, religion, neurology, psychology, [mathematics](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76), epistemology, metaphysics, information science)
-- Technology (too many to name, most branches, everything; I've helped design and build simple computers, websites, small data centres, networks, software, mobile apps, servers, websites, IOT, embedded systems, [programmable systems](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff), much much more)
-- History (including archaeology, philology, [etymology](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9), genealogy, living history)
-- Language (I'm learning a few spoken languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
-- [Food](https://github.com/akingdom/food-recipes) (cooking and how not to burn water)
+I have a wide range of interests that inform my work and approach:
+
+- **Nature and Science:** Enthusiast of biology, geology, cosmology, and physics.
+- **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
+	- **Read more**: [Mathematical finds](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76)
+- **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
+	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
+- **History and Language:** Delving into archaeology, etymology, genealogy, and more. I'm currently learning modern Greek and enjoy foreign films and shows.
+	- **Read more**: [Words and their meanings](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9)
+- **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
+	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
+- **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
+	- **Read more**: [music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
+[stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b)
+[software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+
+### Technology Expertise
+- **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
+- **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
+
+
 - Reading and creative writing... ([music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ), [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b), [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c), legal, much more)
 - Visuals such as user interface, artwork and more
 - Everything else
+
+
+
+
+
+---
+Certainly! Here’s a revised version of your updated text for your website, ensuring it aligns closely with the language and style of your LinkedIn profile:
+
+---
+
+**[Cartoon of me] MY NAME HERE**  
+**Areas of Expertise:** Language · Software · Technology · Everything Else · Quotes
+
+Welcome to my general website. Some links will take you to external sites.
+
+**"Together, let’s turn ideas into reality. Reach out to start your journey!"**
+
+### Work I Do
+I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
+
+- **Freelancer for hire:** I provide support with any IT challenge, big or small.
+- **Tutor:** I offer tutoring in programming, electronics, and English for non-native speakers.
+- **App Maintenance:** Keeping your mobile apps running smoothly.
+- **Language Translation:** Translating programs between computer languages.
+- **Data Solutions:** Building data transformation pipelines.
+- **And much more!**
+
+---
+
+
+
+
+
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.
 
@@ -126,7 +183,104 @@ The above are the current main languages, of about 300 languages and dialects I'
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
 
 
+
+<!-- ALL SCRIPTING -->
+<script src="scripts/pykelet.js"></script>
+<script>
+let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
+if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
+document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
+</script>
+<!-- START QUOTE HANDLING -->
+<script>
+// Function to find two or more sequential blockquotes at the same depth
+function findSequentialBlockquotes() {
+    const allBlockquotes = document.querySelectorAll('blockquote');
+    const blockquoteChains = [];
+    let currentChain = [];
+
+    // Traverse all blockquotes
+    allBlockquotes.forEach((blockquote, index) => {
+	if (index === 0 || blockquote.previousElementSibling.tagName === 'BLOCKQUOTE') {
+	    // Add to current chain if it's the first blockquote or previous is also a blockquote
+	    currentChain.push(blockquote);
+	} else {
+	    // Push current chain and reset if a break occurs
+	    if (currentChain.length >= 2) {
+		blockquoteChains.push([...currentChain]);
+	    }
+	    currentChain = [blockquote];
+	}
+    });
+
+    // Check final chain
+    if (currentChain.length >= 2) {
+	blockquoteChains.push([...currentChain]);
+    }
+
+    // Return the first valid chain (with 2 or more blockquotes)
+    return blockquoteChains.length > 0 ? blockquoteChains[0] : [];
+}
+
+// Function to clone a random blockquote from the array to a div
+function cloneRandomBlockquote(chain,parent) {
+    if (chain.length > 0) {
+	const randomIndex = Math.floor(Math.random() * chain.length);
+	const randomBlockquote = chain[randomIndex].cloneNode(true);
+	parent.appendChild(randomBlockquote);
+    }
+}
+
+// Find the first chain of sequential blockquotes
+const firstChain = findSequentialBlockquotes();
+console.log('First chain of blockquotes:', firstChain);
+
+// Clone a random blockquote from the chain into the div
+cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
+</script>
+<!-- END QUOTE HANDLING-->
+
 <!--Start of Tawk.to Script-->
+<script >
+// Custom AK script.
+// Function to replace text/code with some new code
+function replaceTextCode(targetText, replacementHTML) {
+  // Escape special characters in the target text for RegExp
+  const escapedTargetText = targetText.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+
+  // Select all elements that have children and can contain text
+  const textElements = document.body.querySelectorAll('*:not(script):not(style)');
+
+  textElements.forEach(element => {
+    // Check if the element contains the target text
+    if (element.innerHTML.includes(targetText)) {
+      // Replace the text using a safe regular expression
+      element.innerHTML = element.innerHTML.replace(new RegExp(escapedTargetText, 'g'), replacementHTML);
+    }
+  });
+}
+
+// Usage:
+replaceTextCode(
+  '[Contact Me]',
+  '<button id="contact-me">Contact me</button>'
+);
+// Initialize
+function tawk_init() {
+	replaceTextCode(
+		'[Contact Me]',
+		'<button id="contact-me">Contact me</button>'
+	);
+	document.getElementById("contact-me").onclick = function() {
+		Tawk_API.maximize();
+		setTimeout(function() {
+		    document.querySelector('.tawk-chatinput').focus();
+		}, 500); // Adjust the timeout as necessary
+	};
+}
+window.addEventListener('load', tawk_init); // Initialise once the window loads
+</script>
+
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
