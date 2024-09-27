@@ -9,8 +9,8 @@ FILENAME:    README.md
 AUTHOR:      Andrew Kingdom
 
 -->
-<style> /* ALL STYLING */
-
+<link rel="stylesheet" href="styles/common.css">
+<style> /* PAGE STYLING */
 body {
 	background-color: #f3f3ef;
 }
