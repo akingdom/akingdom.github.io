@@ -247,7 +247,7 @@ function tawk_init() {
 	document.getElementById("contact-me").onclick = function() {
 		this.tag = 'button';  // changes the <a id="contact-me">Contact me</a> --> <button id="contact-me>Contact me</button>
 		Tawk_API.maximize();
-	}};
+	};
 }
 window.addEventListener('load', tawk_init); // Initialise once the window loads
 </script>
