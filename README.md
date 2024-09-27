@@ -17,7 +17,7 @@ AUTHOR:      Andrew Kingdom
 
 <div id="purpose"></div>
 
-<h2 id="aitools">
+<h2 id="aitools" class="feature">
 	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
 
 <div id="quote-container"></div>
