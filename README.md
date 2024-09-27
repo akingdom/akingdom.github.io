@@ -256,7 +256,7 @@ function replaceTextCode(targetText, replacementHTML) {
 function tawk_init() {
 	replaceTextCode(
 		'[Contact Me]',
-		'<button id="contact-me>Contact me</button>'
+		'<button id="contact-me">Contact me</button>'
 	);
 	document.getElementById("contact-me").onclick = function() {
 		Tawk_API.maximize();
