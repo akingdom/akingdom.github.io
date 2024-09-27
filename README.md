@@ -26,6 +26,7 @@ button#contact-me {
     padding: 0 20px;
     font-size: 1rem;
     text-align: center;
+    vertical-align: bottom;
     color: #fff;
     text-shadow: 1px 1px 1px #000;
     border-radius: 10px;
@@ -273,7 +274,7 @@ function tawk_init() {
 	document.getElementById("contact-me").onclick = function() {
 		Tawk_API.maximize();
 		setTimeout(function() {
-		    document.querySelector('.tawk-chat-input').focus();
+		    document.querySelector('.tawk-chatinput').focus();
 		}, 500); // Adjust the timeout as necessary
 	};
 }
