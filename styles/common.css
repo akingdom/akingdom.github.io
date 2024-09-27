@@ -3,7 +3,7 @@
 /* General Body Styling */
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif; /* Clean, modern font */
-  background-color: #F5F5F5; /* Light Cool Gray - Subtle background for overall page */
+  background-color: #F5F5F3; /* Light Cool Gray - Subtle background for overall page */
   color: #333333; /* Charcoal - Default text color for readability */
   margin: 0;
   padding: 0;
@@ -15,8 +15,9 @@ blockquote {
   background-color: #F0EDE5; /* Soft Sand - Subtle background for quotes */
   border-left: 4px solid #1E3A5F; /* Navy Blue - Accent for blockquote */
   color: #333333; /* Charcoal - Text color inside blockquote */
-  margin: 20px 0;
-  padding: 10px 20px;
+  margin: -1.5em 0;
+  padding: 0.8em 1.5em;
+  border-radius: 0.6em;
   font-style: italic; /* Italics to emphasize the quote */
 }
 
