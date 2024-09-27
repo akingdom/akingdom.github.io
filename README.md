@@ -36,7 +36,7 @@ button#contact-me {
 
 </style>
 
-## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) &middot; <button id="contact-me>Contact me</button>
+## <img alt="Cartoon of me" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) &middot; [Contact Me]()
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
@@ -245,6 +245,7 @@ cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
 // Initialize
 function tawk_init() {
 	document.getElementById("contact-me").onclick = function() {
+		this.tag = 'button';  // changes the <a id="contact-me">Contact me</a> --> <button id="contact-me>Contact me</button>
 		Tawk_API.maximize();
 	}};
 }
