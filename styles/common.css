@@ -84,3 +84,72 @@ body {
   color: #FFFFFF;
   border: none;
   padding: 10px 20px
+  vertical-align: bottom;
+  border-radius: 4px;
+}
+
+.btn-secondary:hover {
+  background-color: #FF6F61; /* Light Coral - Hover state for secondary buttons */
+}
+
+/* Links and Interactive Text */
+.link-primary {
+  color: #007BFF; /* Electric Blue - Main link color */
+  text-decoration: none;
+}
+
+.link-primary:hover {
+  color: #17A589; /* Teal - Hover effect for links */
+}
+
+.link-highlight {
+  color: #FF6F61; /* Light Coral - Used for special links or important highlights */
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #1E3A5F; /* Navy Blue - Nav bar background */
+  color: #FFFFFF; /* White text for contrast */
+}
+
+.navbar a {
+  color: #FFFFFF; /* White links in the navigation */
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+.navbar a:hover {
+  color: #007BFF; /* Electric Blue - Hover state for nav links */
+}
+
+/* Section Dividers */
+.section-divider {
+  border-bottom: 2px solid #17A589; /* Teal - Divider for sections */
+  margin: 20px 0;
+}
+
+/* Content Cards */
+.card {
+  background-color: #F5F5F5; /* Cool Gray - Background for content cards */
+  border: 1px solid #E5E5E5; /* Light border for content separation */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Footer */
+.footer {
+  background-color: #333333; /* Charcoal - Footer background */
+  color: #FFFFFF; /* White text for contrast */
+  padding: 20px;
+  text-align: center;
+}
+
+.footer a {
+  color: #007BFF; /* Electric Blue - Links in the footer */
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #FF6F61; /* Light Coral - Hover state for footer links */
+}
