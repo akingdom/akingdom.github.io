@@ -262,8 +262,12 @@ function handleExitingSingleView() {
 
 
 function handleExitPage() {
-    // Exit the slideshow entirely
-	window.location.href = '../'; // Adjust path as necessary
+	if(isMultiView) {
+		// Exit the slideshow entirely
+		window.location.href = '../'; // Adjust path as necessary
+	} else {
+		handleExitingSingleView();
+	}
 }
 
 // Toggle full-screen mode
