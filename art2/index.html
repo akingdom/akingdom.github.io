@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="./css/baguetteBox.min.css">
+    <link rel="stylesheet" href="./css/gallery.css">
+</head>
+<body>
+    <header>
+        <h1>Image Gallery</h1>
+    </header>
+
+    <!-- Image gallery container -->
+	<div class="gallery-container">
+		<div class="gallery">
+			<!-- This structure will repeat for each image -->
+			<div class="gallery-item">
+				<a href="" data-caption="Image caption here">
+					<img src="" alt="Image description">
+				</a>
+			</div>
+			<!-- Repeat for each image -->
+		</div>
+	</div>
+
+    <!-- Back Link -->
+    <footer>
+        <a href="../">Back to previous page</a>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="./js/baguetteBox.min.js"></script>
+    <script src="./data/imagelist.js"></script> <!-- Your image data -->
+    <script src="./js/gallery.js"></script> <!-- JavaScript to generate the gallery -->
+    
+    <script>
+        // Initialize baguetteBox once images are loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            baguetteBox.run('.gallery',
+            {
+				// Options for baguetteBox if needed
+            }); // Initialize lightbox on gallery
+        });
+    </script>
+</body>
+</html>
