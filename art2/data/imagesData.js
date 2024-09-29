@@ -186,12 +186,6 @@ document.imagesData = [
     "modified": 1727629516.3199728
   },
   {
-    "title": "76123da749be42ed88701045cb8fc28d.jpeg",
-    "path": "./images/76123da749be42ed88701045cb8fc28d.jpeg",
-    "thumbnail": "./thumbnails/76123da749be42ed88701045cb8fc28d.jpeg",
-    "modified": 1727629516.659841
-  },
-  {
     "title": "9bdcf12af596407294c57283ffceb1b0.jpeg",
     "path": "./images/9bdcf12af596407294c57283ffceb1b0.jpeg",
     "thumbnail": "./thumbnails/9bdcf12af596407294c57283ffceb1b0.jpeg",
@@ -390,12 +384,6 @@ document.imagesData = [
     "modified": 1727287458.5764642
   },
   {
-    "title": "2750157d32da44789deb5ed011b5a626.jpeg",
-    "path": "./images/2750157d32da44789deb5ed011b5a626.jpeg",
-    "thumbnail": "./thumbnails/2750157d32da44789deb5ed011b5a626.jpeg",
-    "modified": 1727629521.1128612
-  },
-  {
     "title": "d4856d38436b4842802260d23fc012a8.jpeg",
     "path": "./images/d4856d38436b4842802260d23fc012a8.jpeg",
     "thumbnail": "./thumbnails/d4856d38436b4842802260d23fc012a8.jpeg",
@@ -448,12 +436,6 @@ document.imagesData = [
     "path": "./images/a23a365d74da48d280ae4e1a65efca70.jpeg",
     "thumbnail": "./thumbnails/a23a365d74da48d280ae4e1a65efca70.jpeg",
     "modified": 1727629519.8107874
-  },
-  {
-    "title": "be02b773422a498e97649799abb58cb2.jpeg",
-    "path": "./images/be02b773422a498e97649799abb58cb2.jpeg",
-    "thumbnail": "./thumbnails/be02b773422a498e97649799abb58cb2.jpeg",
-    "modified": 1727629521.0634272
   },
   {
     "title": "65df523c8b8340ebab624bc80b971573.jpeg",
