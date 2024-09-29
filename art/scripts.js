@@ -71,6 +71,8 @@ function initializeContent(rows, columns, startIndex) {
     }
 }
 
+
+// BUG -- doesn't resize in time -- remove or fix
 // Function to resize images in single view
 function resizeImagesInSingleView() {
     const img = document.querySelector('.single-view img');
