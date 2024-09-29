@@ -3,6 +3,9 @@ function initializeGallery() {
     const galleryElement = document.querySelector('.gallery');
     galleryElement.innerHTML = ''; // Clear content
 
+    // Sort imagesData by the 'modified' field in descending order
+    document.imagesData.sort((a, b) => b.modified - a.modified);
+
 	document.imagesData.forEach(imageData => {
 		const galleryItem = document.createElement('div');
 		galleryItem.classList.add('gallery-item');
