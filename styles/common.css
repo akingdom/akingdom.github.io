@@ -1,5 +1,28 @@
 /* COMMON CSS */
 
+/* General Body Styling */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif; /* Clean, modern font */
+  background-color: #F5F5F5; /* Light Cool Gray - Subtle background for overall page */
+  color: #333333; /* Charcoal - Default text color for readability */
+  margin: 0;
+  padding: 0;
+  line-height: 1.6; /* Comfortable line spacing */
+}
+
+/* Feature Styling */
+.feature {
+  background-color: #F0EDE5; /* Soft Sand - Subtle background for quotes */
+  border-left: 4px solid #1E3A5F; /* Navy Blue - Accent for blockquote */
+  color: #333333; /* Charcoal - Text color inside blockquote */
+  margin: -1.5em 0;
+  padding: 0.8em 1.5em;
+  border-radius: .6em;
+  padding: 1.2em 1.5em;
+  margin: 0.8em -1.5em;
+  font-style: italic; /* Italics to emphasize the quote */
+}
+
 /* Primary Backgrounds and Sections */
 .bg-primary {
   background-color: #1E3A5F; /* Navy Blue - For headers or major sections */
@@ -49,6 +72,7 @@
   border-radius: 4px;
   font-size: 16px;
   cursor: pointer;
+  vertical-align: bottom;
 }
 
 .btn-primary:hover {
@@ -60,8 +84,9 @@
   background-color: #17A589; /* Teal - Secondary button color */
   color: #FFFFFF;
   border: none;
-  padding: 10px 20px;
+  padding: 10px 20px
   border-radius: 4px;
+  vertical-align: bottom;
 }
 
 .btn-secondary:hover {
