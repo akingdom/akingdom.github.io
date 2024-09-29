@@ -1,0 +1,179 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+	width: 100%;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: #111; /* Example background */
+    overflow: hidden;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Space between top and bottom controls */
+}
+
+.controls-top, .controls-bottom {
+    display: flex;
+    justify-content: space-between; /* Distribute children evenly (left, middle, right) */
+    align-items: center;
+    padding: 10px;
+    color: white;
+    opacity: 1; /* Ensure controls are initially visible */
+	transition: opacity 1s ease-in-out; /* Add fade effect for opacity */
+	z-index: 1;
+}
+
+.controls-top {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Optional translucent background */
+}
+
+.controls-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Optional translucent background */
+}
+
+/* Control sections (left, middle, right) */
+.control-left, .control-middle, .control-right {
+    flex: 1; /* Make each section take equal space */
+    text-align: center;
+    padding: 5px;
+}
+
+.control-left {
+    text-align: left;
+}
+
+.control-middle {
+    text-align: center;
+}
+
+.control-right {
+    text-align: right;
+}
+
+.slideshow-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+
+button {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    font-size: 3.3em;
+    padding: 0px;
+    cursor: pointer;
+    border-radius: 50%;
+    height: 1.25em;
+    padding-top: 0.1em;
+    width: 1.25em;
+    vertical-align: middle;
+}
+
+button:focus {
+    outline: none;
+}
+
+button svg {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: text-top;
+    transform: ;
+    msFilter: ;
+}
+
+.hidden {
+    display: none; /* Hide element without reserving space */
+}
+
+/* Additional transition rules for smooth image fade */
+.content-grid img {
+    transition: opacity 1s ease-in; /* Smooth transition for image fade */
+}
+
+.content-grid img.hidden {
+    opacity: 0; /* Hidden state for fading out images */
+}
+/* end transition */
+
+.content-grid {
+  	display: grid;
+  	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    justify-content: center;
+    gap: 5px; /* Optional gap between images */
+    width: 100%; /* Ensure the container takes the full width */
+    height: 100%; /* Allow the container height to adjust as per content */
+    z-index: 0;
+}
+
+/*grid*/.single-view {
+	justify-items: center;
+}
+
+/*grid*/.single-view img {
+    max-width: 100vh;
+    max-height: 100vh;
+    margin: 0px;
+    border: none;
+    object-fit: cover;
+    cursor: pointer;
+    padding: 1em;
+    border-radius: 1.6em;
+}
+
+/*grid*/.multi-view {
+    grid-template-columns: repeat(auto-fill, 180px); /* Each column is 180px wide */
+    grid-template-rows: repeat(auto-fill, 180px);    /* Each row is 180px tall */
+    justify-content: center; /* Optional: center grid within the container */
+    align-content: center;   /* Optional: align grid items within the container */
+	justify-items: center;
+}
+
+/*grid*/.multi-view img {
+    max-width: 180px;
+    max-height: 180px;
+    margin: 5px;
+    border: 2px solid transparent;
+    object-fit: cover;
+    cursor: pointer;
+    flex-basis: 180px; /* Make each image take up 180px of space in the grid */
+    box-sizing: border-box;
+    overflow: hidden; /* Ensure that the content fits within the 180x180 square */
+    border-radius: 0.6em;
+    transition: transform .2s ease-out; /* Smooth scaling transition */
+}
+
+/*grid*/.multi-view img:hover {
+    transform: scale(1.1); /* Scale the image on hover */
+}
+
+
+.single-view img.selected,
+.multi-view img.selected {
+    border: 2px solid #fff;
+}
