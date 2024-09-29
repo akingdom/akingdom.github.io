@@ -158,13 +158,13 @@ function slideInterval() {
 	return setInterval(() => {
         const imgElements = document.querySelectorAll('.content-grid img');
 		imgElements.forEach(img => {
-			img.style.opacity = 0; // Fade out before loading new image
+// 			img.style.opacity = 0; // Fade out before loading new image -- BUG ON SLOW IMAGES
 			setTimeout(() => {
 				currentIndex = (currentIndex + 1) % document.imagesData.length; // Wrap around
 				img.src = isMultiView ? document.imagesData[currentIndex].thumbnail : document.imagesData[currentIndex].path;
 				img.alt = document.imagesData[currentIndex].title;
-				img.style.opacity = 1; // Fade in new image
-			}, crossfadeDuration); // Wait for fade out before loading new image		
+// 				img.style.opacity = 1; // Fade in new image
+			}, crossfadeDuration); // Wait for fade out before loading new image -- BUG ON SLOW IMAGES
 		});
     }, displayDuration); // Change image every 3 seconds
 }
