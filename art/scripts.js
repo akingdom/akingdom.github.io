@@ -211,14 +211,14 @@ document.addEventListener('mousemove', () => {
 // click + gesture + keyboard handling
 
 function handleNextImage() {
-	if(isPlaying) {  // BUG -- this should page on the multi view too. more code needed.
+	if(isMultiView) {  // BUG -- this should page on the multi view too. more code needed.
 		currentIndex = (currentIndex + 1) % document.imagesData.length; // Wrap around
 		setupSingleView(currentIndex);
     }
 }
 
 function handlePreviousImage() {
-	if(isPlaying) {  // BUG -- this should page on the multi view too. more code needed.
+	if(!isMultiView) {  // BUG -- this should page on the multi view too. more code needed.
 		currentIndex = (currentIndex - 1 + document.imagesData.length) % document.imagesData.length; // Wrap around
 		setupSingleView(currentIndex);
 	}
