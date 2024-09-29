@@ -46,6 +46,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
 	- **Read more**: [music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
+	- **Read more**: [art](art/index)
 [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b)
 [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
