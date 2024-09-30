@@ -399,7 +399,7 @@ function extractPromptsAndAlts(content) {
 }
 
 // Function to merge and deduplicate
-function mergeAndDeduplicate(prompts, alts) {
+function mergeAndDeduplicate(titles, prompts, alts) {
     const mergedTexts = [...new Set([...titles, ...prompts, ...alts])];
     return mergedTexts.join('\n—\n'); // Join with a delimiter
 }
@@ -509,6 +509,7 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
 
             debugstatus(`*** FILE LENGTH = ${fileContent.length} (we process as roughly ${chunkCount} chunks)`);
 
+			let titles = [];
             let prompts = [];
 			let alts = [];
             let chunkIndex = 0;
@@ -521,7 +522,7 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
             // Process chunks
             function processNextChunk() {
                 if (chunkIndex >= chunkCount || startPositionOverall >= contentEndOverall) {
-                    document.processedText = mergeAndDeduplicate(prompts, alts);
+                    document.processedText = mergeAndDeduplicate(titles, prompts, alts);
                     displayProcessedText();
                     return;
                 }
