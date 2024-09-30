@@ -160,7 +160,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 
 <!-- ALL SCRIPTING -->
-<script src="scripts/pykelet.js"></script>
+<script src="js/pykelet.js"></script>
 <script>
 let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
 if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;

@@ -31,7 +31,7 @@
         setupFileUpload('document_uploadButton', 'docuphrases', 'text/plain');
 	-or-
         <label for="biginput>">Prompts: <label for="document_fileInput" class="file-upload" id="document_uploadButton">&hellip;</label>
-		<script src="ai_commons.js"></script>
+		<script src="js/ai_commons.js"></script>
 		<script>setupFileUpload('document_uploadButton', 'biginput', 'text/plain', 'document_fileInput');</script>
 		
  Note: acceptType is comma-delimited within the string.
