@@ -392,7 +392,10 @@ function detectEncoding(arrayBuffer) {
 function extractPromptsAndAlts(content) {
     // Step 2: Decode Unicode escape sequences
     const cleanedContents = decodeEscapedCharacters(content);
-    const titles = [...cleanedContents.matchAll(/"title":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => `# ${m[1]}`);  // adds a '# ' to each string
+    const titles1 =  [...cleanedContents.matchAll(/title=\"(.*?(?:\\.|[^"])*?)"/gs)].map(m => `# ${m[1]}`);  // adds a '# ' to each string
+    const titles2 = [...cleanedContents.matchAll(/"title":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => `# ${m[1]}`);  // adds a '# ' to each string
+    const titles3 =  [...cleanedContents.matchAll(/aria-label=\"(.*?(?:\\.|[^"])*?)"/gs)].map(m => `# ${m[1]}`);  // adds a '# ' to each string
+    const titles = titles1.concat(titles2).concat(titles3);
     const prompts = [...cleanedContents.matchAll(/"prompt":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => m[1]);
     const alts = [...cleanedContents.matchAll(/alt="([^"]*)"/gs)].map(m => m[1]);
     return { titles, prompts, alts };
