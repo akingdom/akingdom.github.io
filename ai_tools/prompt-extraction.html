@@ -682,7 +682,8 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
                 }
                 
 				// Extract prompts and alts
-                const { prompts: extractedPrompts, alts: extractedAlts } = extractPromptsAndAlts(chunk);
+                const { titles: extractedTitles, prompts: extractedPrompts, alts: extractedAlts } = extractPromptsAndAlts(chunk);
+                titles = titles.concat(extractedTitles);
                 prompts = prompts.concat(extractedPrompts);
                 alts = alts.concat(extractedAlts);
 
