@@ -91,7 +91,7 @@ var Tawk_API = Tawk_API || {},
 })();
 // WIDGET END ==================================
 
-console.log('AK+Tawk 1.0.9');
+console.log('AK+Tawk 1.0.10');
 
 // Initialize
 function tawk_init() {
