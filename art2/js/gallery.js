@@ -19,6 +19,9 @@ function initializeGallery() {
 		img.alt = imageData.title;
 	
 		link.appendChild(img);
+		
+		appendCopyIcon(link,imageData.title);
+		
 		galleryItem.appendChild(link);
 		document.querySelector('.gallery').appendChild(galleryItem);
 	});
