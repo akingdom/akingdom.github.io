@@ -18,6 +18,63 @@ function replaceTextCode(targetText, replacementHTML) {
   });
 }
 
+// Function to pass a prompt to the Tawk.to widget input
+function passPromptToTawk(prompt) {
+
+	if(!document.tawk_loaded) { console.warn('Tawk not ready'); return; }
+	
+	// Use a delay to ensure the widget is ready before inserting the text
+	setTimeout(function() {
+		// Get the Tawk widget iframe
+		var iframe = document.querySelector('iframe[id^="tawk-"]');
+
+		if (iframe) {
+			// Access the iframe's document
+			var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
+
+			// Find the input field (assuming there's only one input for messages)
+			var inputField = iframeDocument.querySelector('textarea');
+
+			if (inputField) {
+				// Set the value to the prompt (but don't send it)
+				inputField.value = prompt;
+
+				// Open the chat widget
+				Tawk_API.maximize();
+
+				// Optionally focus on the input field
+				inputField.focus();
+			
+				console.log('Prompt passed to Tawk input field.');
+			} else {
+				console.error('Could not find the input field in Tawk widget.');
+			}
+		} else {
+			console.error('Could not find the Tawk iframe.');
+		}
+	}, 100); // Adjust the timeout duration if needed
+}
+
+function tawk_loaded() {
+	document.tawk_loaded = true;
+}
+
+
+// WIDGET ======================================
+
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/602a13f6918aa261273edfe7/1eui5rv0l';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+Tawk_API.onLoad = tawk_loaded();
+})();
+
+// WIDGET END ==================================
+
 // Initialize
 function tawk_init() {
 	replaceTextCode(
@@ -34,55 +91,3 @@ function tawk_init() {
 }
 window.addEventListener('load', tawk_init); // Initialise once the window loads
 
-// Function to pass a prompt to the Tawk.to widget input
-function passPromptToTawk(prompt) {
-    // Wait for the Tawk API to be ready
-    var Tawk_API = Tawk_API || {};
-    Tawk_API.onLoad = function() {
-        console.log('Tawk widget loaded!');
-
-        // Open the chat widget
-        Tawk_API.maximize();
-
-        // Use a delay to ensure the widget is ready before inserting the text
-        setTimeout(function() {
-            // Get the Tawk widget iframe
-            var iframe = document.querySelector('iframe[id^="tawk-"]');
-
-            if (iframe) {
-                // Access the iframe's document
-                var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
-
-                // Find the input field (assuming there's only one input for messages)
-                var inputField = iframeDocument.querySelector('textarea');
-
-                if (inputField) {
-                    // Set the value to the prompt (but don't send it)
-                    inputField.value = prompt;
-
-                    // Optionally focus on the input field
-                    inputField.focus();
-
-                    console.log('Prompt passed to Tawk input field.');
-                } else {
-                    console.error('Could not find the input field in Tawk widget.');
-                }
-            } else {
-                console.error('Could not find the Tawk iframe.');
-            }
-        }, 1500); // Adjust the timeout duration if needed
-    };
-}
-
-
-// WIDGET
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/602a13f6918aa261273edfe7/1eui5rv0l';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-// WIDGET END
