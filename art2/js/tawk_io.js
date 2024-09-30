@@ -26,37 +26,48 @@ function passPromptToTawk(prompt) {
     }
 
     // Use a delay to ensure the widget is ready before inserting the text
-    setTimeout(function() {
-        // Get the Tawk widget iframe
-        var iframe = document.querySelector('iframe[id^="tawk-"]');
+    setTimeout(function () {
+        // Get all iframes on the page
+        var iframes = document.querySelectorAll('iframe');
+        var found = false;
 
-        if (iframe) {
+        // Iterate through each iframe
+        for (var i = 0; i < iframes.length; i++) {
+            var iframe = iframes[i];
             try {
                 // Access the iframe's document
                 var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
 
-                // Find the input field (assuming there's only one input for messages)
-                var inputField = iframeDocument.querySelector('textarea');
+                // Check if the iframe has a <head> with a link to Tawk.to or Tawk.io
+                var linkTags = iframeDocument.querySelectorAll('head link[href*="tawk.to"], head link[href*="tawk.io"]');
 
-                if (inputField) {
-                    // Set the value to the prompt (but don't send it)
-                    inputField.value = prompt;
+                if (linkTags.length > 0) {
+                    // Found the Tawk iframe; now find the input field
+                    var inputField = iframeDocument.querySelector('textarea');
+                    if (inputField) {
+                        // Set the value to the prompt (but don't send it)
+                        inputField.value = prompt;
 
-                    // Open the chat widget
-                    Tawk_API.maximize();
+                        // Open the chat widget
+                        Tawk_API.maximize();
 
-                    // Optionally focus on the input field
-                    inputField.focus();
+                        // Optionally focus on the input field
+                        inputField.focus();
 
-                    console.log('Prompt passed to Tawk input field.');
-                } else {
-                    console.error('Could not find the input field in Tawk widget.');
+                        console.log('Prompt passed to Tawk input field.');
+                        found = true;
+                        break; // Exit the loop after finding the correct iframe
+                    } else {
+                        console.error('Could not find the input field in Tawk widget.');
+                    }
                 }
             } catch (e) {
-                console.error('Error accessing Tawk iframe: ', e);
+                console.error('Access to iframe denied:', e);
             }
-        } else {
-            console.error('Could not find the Tawk iframe.');
+        }
+
+        if (!found) {
+            console.error('Could not find the Tawk iframe with a valid link.');
         }
     }, 100); // Adjust the timeout duration if needed
 }
