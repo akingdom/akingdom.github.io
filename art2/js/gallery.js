@@ -27,5 +27,7 @@ function initializeGallery() {
 	});
 }
 
+console.log('AK+gallery 1.0.23');
+
 // Load gallery on page load
 document.addEventListener('DOMContentLoaded', initializeGallery);
