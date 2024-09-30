@@ -43,7 +43,7 @@ function passPromptToTawk(prompt) {
 
                 if (linkTags.length > 0) {
                     // Found the Tawk iframe; now find the input field
-                    var inputField = iframeDocument.querySelector('textarea');
+                    var inputField = iframeDocument.querySelector('textarea.tawk-chatinput-editor');
                     if (inputField) {
                         // Set the value to the prompt (but don't send it)
                         inputField.value = prompt;
@@ -91,7 +91,7 @@ var Tawk_API = Tawk_API || {},
 })();
 // WIDGET END ==================================
 
-console.log('AK+Tawk 1.0.10');
+console.log('AK+Tawk 1.0.11');
 
 // Initialize
 function tawk_init() {
