@@ -206,7 +206,7 @@ function utf8Decode(encodedString) {
     return decoder.decode(bytes);
 }
 
-const markersToCheck = ['alt="', '"prompt":'];
+const markersToCheck = ['alt="', '"prompt":', '"title":'];
 
 // MHT Function to decode quoted-printable text
 function mhtDecodeQuotedPrintableWithMarkers(encodedChunk, contentType, transferEncoding, boundaryMarker, markersToCheck, wholeDataStartIndex, wholeDataLength) {
@@ -392,6 +392,7 @@ function detectEncoding(arrayBuffer) {
 function extractPromptsAndAlts(content) {
     // Step 2: Decode Unicode escape sequences
     const cleanedContents = decodeEscapedCharacters(content);
+    const titles = [...cleanedContents.matchAll(/"title":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => m[1]);
     const prompts = [...cleanedContents.matchAll(/"prompt":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => m[1]);
     const alts = [...cleanedContents.matchAll(/alt="([^"]*)"/gs)].map(m => m[1]);
     return { prompts, alts };
@@ -399,7 +400,7 @@ function extractPromptsAndAlts(content) {
 
 // Function to merge and deduplicate
 function mergeAndDeduplicate(prompts, alts) {
-    const mergedTexts = [...new Set([...prompts, ...alts])];
+    const mergedTexts = [...new Set([...titles, ...prompts, ...alts])];
     return mergedTexts.join('\n—\n'); // Join with a delimiter
 }
             
