@@ -60,4 +60,14 @@ footer a:hover {
     text-decoration: underline;
 }
 
+/* Copy Button */
+    width: 2em;
+    background-color: #ffffff33;
+    border-radius: .3em;
+    padding: .1em;
+    right: 0.1em;
+    bottom: 0.1em;
+    position: absolute;
+}
+
 

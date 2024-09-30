@@ -20,14 +20,14 @@ function initializeGallery() {
 	
 		link.appendChild(img);
 		
-		appendCopyIcon(link,imageData.title);
+		appendCopyIcon(link,`${imageData.title} `);  // TODO FUTURE add description if defined
 		
 		galleryItem.appendChild(link);
 		document.querySelector('.gallery').appendChild(galleryItem);
 	});
 }
 
-console.log('AK+gallery 1.0.23');
+console.log('AK+gallery 1.0.24');
 
 // Load gallery on page load
 document.addEventListener('DOMContentLoaded', initializeGallery);
