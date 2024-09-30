@@ -20,7 +20,7 @@ function initializeGallery() {
 	
 		link.appendChild(img);
 		
-		appendCopyIcon(link,`${imageData.title} `);  // TODO FUTURE add description if defined
+// 		appendCopyIcon(link,`${imageData.title} `);  // TODO FUTURE add description if defined
 		
 		galleryItem.appendChild(link);
 		document.querySelector('.gallery').appendChild(galleryItem);
