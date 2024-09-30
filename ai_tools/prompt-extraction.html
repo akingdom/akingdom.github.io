@@ -395,7 +395,7 @@ function extractPromptsAndAlts(content) {
     const titles = [...cleanedContents.matchAll(/"title":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => m[1]);
     const prompts = [...cleanedContents.matchAll(/"prompt":"(.*?(?:\\.|[^"])*?)"/gs)].map(m => m[1]);
     const alts = [...cleanedContents.matchAll(/alt="([^"]*)"/gs)].map(m => m[1]);
-    return { prompts, alts };
+    return { titles, prompts, alts };
 }
 
 // Function to merge and deduplicate
