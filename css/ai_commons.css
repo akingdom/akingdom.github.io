@@ -1,0 +1,19 @@
+.button-commons,
+.file-upload {
+    display: inline-block;
+    background-color: white;
+    color: #007BFF;
+    padding: 0.6em 1.2em;
+    border-radius: 0.6em;
+    cursor: pointer;
+    font-size: 1.2em;
+    line-height: .6em;
+    width: auto;
+    margin: 0.0em 0.6em;
+    border-style: solid;
+    border-width: thin;
+    margin-bottom: .3em;
+}
+.file-upload {
+    font-weight: 600;
+}

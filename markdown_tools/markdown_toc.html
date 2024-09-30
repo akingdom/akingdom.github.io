@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown TOC Generator</title>
+    <link rel="stylesheet" href="../css/ai_commons.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin-top: 10px;
+            padding: 10px;
+        }
+        .controls {
+        	margin: 1.5em 1.8em;
+        }
+        button {
+            margin-top: 10px;
+        }
+        label {
+            display: block;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Markdown Table of Contents Generator</h1>
+    <p>This tool generates a table of contents (TOC) from markdown headers.</p>
+
+    <label for="markdownInput">Markdown Input <label for="document_fileInput" class="file-upload" id="document_uploadButton">&hellip;</label>
+        <textarea id="markdownInput" placeholder="Enter your markdown here..."></textarea> 
+    </label>
+
+    <div class="controls">
+		<button type="button" id="generate" class="button-commons" onclick="generateTOC()">Generate</button>
+	</div>
+	
+    <label for="tocOutput">Generated Table of Contents
+        <textarea id="tocOutput" readonly placeholder="The TOC will appear here..."></textarea>
+    </label>
+        
+	<div class="controls">
+	<button type="button" id="copy-button" class="button-commons" onclick="copyToClipboard('tocOutput', 'copy-button')">Copy</button>
+	</div>
+
+	<script src="../scripts/ai_commons.js"></script>
+    <script>
+
+        // Function to generate a table of contents from markdown input
+        function generateTOC() {
+            const input = document.getElementById('markdownInput').value;
+            const toc = generateMarkdownTOC(input);
+            document.getElementById('tocOutput').value = toc;
+        }
+
+        // Simple function to generate a TOC (this is a basic example)
+        function generateMarkdownTOC(markdown) {
+            const lines = markdown.split('\n');
+            let toc = '';
+
+            lines.forEach(line => {
+                const headerMatch = line.match(/^(#{1,6})\s+(.+)/);
+                if (headerMatch) {
+                    const headerLevel = headerMatch[1].length; // Number of #
+                    const headerText = headerMatch[2];
+                    toc += `${' '.repeat((headerLevel - 1) * 2)}- [${headerText}](#${headerText.toLowerCase().replace(/\s+/g, '-')})\n`;
+                }
+            });
+
+            return toc || 'No headers found.';
+        }
+        
+        setupFileUpload(
+			'document_uploadButton', 
+			'markdownInput', 
+			'.txt,text/plain,.md,text/markdown; charset=UTF-8', 
+			'document_fileInput'
+        );
+
+    </script>
+</body>
+</html>
