@@ -1,3 +1,5 @@
+console.log('AK+Copybutton 1.0.6');
+
 // Function to create and append the copy icon SVG
 function appendCopyIcon(parentSelector, text = undefined) {
     // Create an SVG element
@@ -13,8 +15,11 @@ function appendCopyIcon(parentSelector, text = undefined) {
         </svg>
     `;
 
-    // Append the SVG to the specified parent element
-    const parentElement = document.querySelector(parentSelector);
+    // Determine if parentSelector is a string or a DOM element
+    const parentElement = typeof parentSelector === 'string' 
+        ? document.querySelector(parentSelector) 
+        : parentSelector;
+
     if (parentElement) {
         parentElement.insertAdjacentHTML('beforeend', svg);
 
@@ -62,5 +67,7 @@ function appendCopyIcon(parentSelector, text = undefined) {
     }
 }
 
-// Call the function with your desired parent element selector
+// Call the function with your desired parent element selector or element
 // appendCopyIcon('#your-parent-element'); // Replace with your parent element's selector
+// OR
+// appendCopyIcon(document.getElementById('your-parent-element')); // Replace with your parent element directly
