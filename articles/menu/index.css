@@ -1,0 +1,130 @@
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    background-color: #f8f9fa;
+    padding: 15px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+	transition: width 0.3s;
+}
+
+.sidebar.collapsed {
+    width: 60px;
+    height: 50px; 
+}
+
+.sidebar .side-controls {
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sidebar .side-heading {
+	font-size: 1.5rem;
+	vertical-align: top;
+}
+.sidebar ul {
+	list-style: none;
+	padding: 0;
+}
+
+.sidebar ul li {
+}
+
+.sidebar a {
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	text-decoration: none;
+	color: #000;
+}
+
+.sidebar h4 {
+	margin-top: 1.0rem;
+    margin-bottom: 0.3rem;}
+
+.sidebar.group {
+}
+
+.sidebar li.link {
+    list-style: none; /* Remove default bullet */
+}
+.sidebar button {
+    border-style: none;
+}
+.sidebar .octicon {
+    width: 1.4rem;
+    height: 1.4rem;
+}
+.sidebar li.link a {
+	padding:10px 0;
+}
+.sidebar li.link a svg {
+	display: inline-block;
+    user-select: none;
+    vertical-align: text-bottom;
+    overflow: visible;
+    margin-right: 1rem;
+    margin-top: .2rem;
+    align-self: self-start;
+}
+
+.github-icon {
+	margin-left: auto;
+}
+
+.toggle-btn {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.edit-mode-btn {
+    float: right;
+}
+
+
+
+
+.group-header {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+/* Main Content Area */
+.content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+/* Editor-specific styles */
+textarea {
+    width: 100%;
+    font-family: monospace;
+}
+
+
+/* Add some basic styles for the bordered elements */
+.bordered-container {
+	border: 1px solid;
+	border-radius: 0.6em;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.input-group {
+	display: flex;
+	align-items: center;
+}
+
+.input-group input {
+	margin-right: 10px;
+	flex: 1;
+}
+
+.input-group button {
+	flex-shrink: 0;
+}
+
+.hidden { display: none; }
