@@ -24,6 +24,7 @@ AUTHOR:      Andrew Kingdom
 
 
 ### Work I do
+I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 
 - **Freelancer for hire**: I provide support with any IT challenge, big or small.
 - **Tutor**: I offer tutoring in programming, electronics, and English for non-native speakers.
@@ -31,6 +32,8 @@ AUTHOR:      Andrew Kingdom
 - **Language Translation**: Translating programs between computer languages.
 - **Data Solutions**: Building data transformation pipelines.
 - And much more!
+
+**"Together, let’s turn ideas into reality. Reach out to start your journey!"**
 
 ### Interests
 I have a wide range of interests that inform my work and approach:
@@ -40,6 +43,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Mathematical finds](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76)
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
+	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom,github.io/ai-nomenclature)
 - **History and Language:** Delving into archaeology, etymology, genealogy, and more. I'm currently learning modern Greek and enjoy foreign films and shows.
 	- **Read more**: [Words and their meanings](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9)
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
@@ -52,76 +56,12 @@ I have a wide range of interests that inform my work and approach:
 
 ### Technology Expertise
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
+	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
+	- **Read more**: [Source Code Extracts](https://gist.github.com/akingdom) Gist
+	- **Read more**: [Guides](index.md#guides) - Excel, Xcode, Blender
+	- **Read more**: [Standards](index.md#standards) - mostly formats for data storage and transport
 - **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
-
-
-- Reading and creative writing... ([music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ), [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b), [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c), legal, much more)
-- Visuals such as user interface, artwork and more
-- Everything else
-
-
-
-
-
----
-Certainly! Here’s a revised version of your updated text for your website, ensuring it aligns closely with the language and style of your LinkedIn profile:
-
----
-
-**[Cartoon of me] MY NAME HERE**  
-**Areas of Expertise:** Language · Software · Technology · Everything Else · Quotes
-
-Welcome to my general website. Some links will take you to external sites.
-
-**"Together, let’s turn ideas into reality. Reach out to start your journey!"**
-
-### Work I Do
-I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
-
-- **Freelancer for hire:** I provide support with any IT challenge, big or small.
-- **Tutor:** I offer tutoring in programming, electronics, and English for non-native speakers.
-- **App Maintenance:** Keeping your mobile apps running smoothly.
-- **Language Translation:** Translating programs between computer languages.
-- **Data Solutions:** Building data transformation pipelines.
-- **And much more!**
-
----
-
-
-
-
-
-
-I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.
-
-### Technology "Hello, World" 👋 
-
-- [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
-- [Source Code](https://github.com/akingdom?tab=repositories) Repositories
-- [Source Code Extracts](https://gist.github.com/akingdom) Gist
-- [Guides](index.md#guides) - Excel, Xcode, Blender
-- [Standards](index.md#standards) - mostly formats for data storage and transport
-- 
-
-### Current Programming and Markup Languages
-
-- Objective-C
-- Java
-- C# (C-Sharp)
-- Swift
-- HTML, JavaScript, CSS
-
-The above are the current main languages, of about 300 languages and dialects I've used. Here are [language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom) of my current public GitHub repositories:
-
-![Language statistics of my public repositories.](https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom) 
-
-### Platforms
-
-- Cloud (AWS, Azure, Google, local), 
-- Servers (Windows, Linux, VMS, multi-site, web, file, other)
-- Desktop (MacOS, Windows, Linux, Unix, other)
-- Mobile (iOS, Android, Bada, other)
-- Embedded (MicroChip, Raspberry Pi, other)
 
 ### Quotes
 
