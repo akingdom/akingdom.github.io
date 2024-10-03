@@ -29,8 +29,8 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 
 **"Together, let’s turn ideas into reality. Reach out to start your journey!"**
 
-<h2 id="aitools" class="feature">
-	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
+<div id="aitools" class="feature">
+	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> <h2>AI Tools</h2> to transform your creative process. Shorten and sharpen you AI prompt text with my <a href="duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</div>
 
 <div id="quote-container"></div>
 
