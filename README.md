@@ -64,7 +64,7 @@ I have a wide range of interests that inform my work and approach:
 - **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
 - **Development Tools**: Streamlining development of software. 
 	- **Read more**: [Generate markdown Table-of-contents](https://akingdom.github.io/markdown_tools/markdown_toc.html)
-	- **Read more**: [Github Menu tool](https://akingdom.github.io/git-me/) - list all your repositories and gists in markdown format.
+	- **Read more**: [Markdown links to all your Github projects](https://akingdom.github.io/git-me/) - list all your repositories and gists in markdown format.
 	- **Read more**: [Duplicate Word Highlighter](https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html) - quickly locating duplicate words in text.
 ### Quotes
 
