@@ -29,7 +29,7 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 
 **"Together, let’s turn ideas into reality. Reach out to start your journey!"**
 
-<div id="aitools" dir="auto">
+<div id="aitools" dir="auto" class="feature">
 	<div>
 		<a target="_blank" rel="noopener noreferrer nofollow" href="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg">
 			<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="max-width: 100%;">
