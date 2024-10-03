@@ -34,23 +34,11 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 		<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d01062c374fd23e63e433679e33d1fcac494bdcf90eeaa92d101370dbcc3dab5/68747470733a2f2f616b696e67646f6d2e6769746875622e696f2f696d616765732f7777772d7768696d736963616c2d636172746f6f6e6973682d696c6c757374726174696f6e2d796f756e672d626f792d6461726b2d6f70742d2e737667"><img alt="Whimsical www" src="https://camo.githubusercontent.com/d01062c374fd23e63e433679e33d1fcac494bdcf90eeaa92d101370dbcc3dab5/68747470733a2f2f616b696e67646f6d2e6769746875622e696f2f696d616765732f7777772d7768696d736963616c2d636172746f6f6e6973682d696c6c757374726174696f6e2d796f756e672d626f792d6461726b2d6f70742d2e737667" width="180px" height="180px" data-canonical-src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" style="max-width: 100%;"></a>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">AI Tools</h2><a id="user-content-ai-tools" class="anchor" aria-label="Permalink: AI Tools" href="#ai-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 	</div>
-	<div>Transform your creative process. Shorten and sharpen you AI prompt text with my <a href="/akingdom/akingdom.github.io/blob/main/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="/akingdom/akingdom.github.io/blob/main/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</div>
-</div>
+	<div>
+		<p>Transform your creative process. Shorten and sharpen your AI prompt text with my <a href="/akingdom/akingdom.github.io/blob/main/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="/akingdom/akingdom.github.io/blob/main/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</p>
+	</div>
 
-<div class="feature" id="user-content-aitools" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d01062c374fd23e63e433679e33d1fcac494bdcf90eeaa92d101370dbcc3dab5/68747470733a2f2f616b696e67646f6d2e6769746875622e696f2f696d616765732f7777772d7768696d736963616c2d636172746f6f6e6973682d696c6c757374726174696f6e2d796f756e672d626f792d6461726b2d6f70742d2e737667">
-        <img alt="Whimsical www" src="https://camo.githubusercontent.com/d01062c374fd23e63e433679e33d1fcac494bdcf90eeaa92d101370dbcc3dab5/68747470733a2f2f616b696e67646f6d2e6769746875622e696f2f696d616765732f7777772d7768696d736963616c2d636172746f6f6e6973682d696c6c757374726174696f6e2d796f756e672d626f792d6461726b2d6f70742d2e737667" width="180px" height="180px" data-canonical-src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" style="max-width: 100%;">
-    </a>
-    <div class="markdown-heading" dir="auto">
-        <h2 tabindex="-1" class="heading-element heading-primary" dir="auto">AI Tools</h2>
-        <a id="user-content-ai-tools" class="anchor" aria-label="Permalink: AI Tools" href="#ai-tools">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-            </svg>
-        </a>
-    </div>
-    <p>to transform your creative process. Shorten and sharpen your AI prompt text with my <a href="/akingdom/akingdom.github.io/blob/main/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="/akingdom/akingdom.github.io/blob/main/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</p>
-</div>
+
 
 
 <div id="quote-container"></div>
