@@ -417,6 +417,9 @@ function init() {
 
     window.previousContent = document.editor.innerHTML; // Track initial content for change detection
 	document.statusText.innerText = document.pykelet.DESCRIPTION;
+	
+	const range = saveSelection();
+	updateDisplayContent(document.editor, '', range);  // Update editor content with highlights
     updateStatusText("Initialization"); // Initial status update
 }
 
