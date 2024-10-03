@@ -9,7 +9,7 @@ FILENAME:    README.md
 AUTHOR:      Andrew Kingdom
 
 -->
-<link rel="stylesheet" href="styles/common.css">
+<link rel="stylesheet" href="css/common.css">
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
