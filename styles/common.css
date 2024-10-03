@@ -12,6 +12,10 @@ body {
 
 /* Feature Styling */
 .feature {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
   background-color: #F0EDE5; /* Soft Sand - Subtle background for quotes */
   border-left: 4px solid #1E3A5F; /* Navy Blue - Accent for blockquote */
   color: #333333; /* Charcoal - Text color inside blockquote */
@@ -21,6 +25,18 @@ body {
   padding: 1.2em 1.5em;
   margin: 0.8em -1.5em;
   font-style: italic; /* Italics to emphasize the quote */
+}
+
+.feature img {
+    margin-bottom: 10px;
+}
+
+.feature p {
+    max-width: 600px;
+}
+
+.feature .markdown-heading {
+    margin-bottom: 10px;
 }
 
 /* Primary Backgrounds and Sections */
