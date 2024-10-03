@@ -13,7 +13,8 @@ body {
 /* Feature Styling */
 .feature {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  gap: 1em;
   align-items: center;
   text-align: center;
   background-color: #F0EDE5; /* Soft Sand - Subtle background for quotes */
@@ -33,6 +34,7 @@ body {
 
 .feature p {
     max-width: 600px;
+    text-align: left;
 }
 
 .feature .markdown-heading {
