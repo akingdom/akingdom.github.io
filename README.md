@@ -31,10 +31,10 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 
 <div id="aitools" dir="auto" class="feature">
 	<div>
+		<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">AI Tools</h2></div>
 		<a target="_blank" rel="noopener noreferrer nofollow" href="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg">
 			<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="max-width: 100%;">
 		</a>
-		<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">AI Tools</h2></div>
 	</div>
 	<div>
 		<p>Transform your creative process. Shorten and sharpen your AI prompt text with my <a href="/akingdom/akingdom.github.io/blob/main/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="/akingdom/akingdom.github.io/blob/main/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</p>
