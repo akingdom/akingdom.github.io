@@ -118,7 +118,7 @@ AUTHOR:      Andrew Kingdom
         <button id="pasteButton">Paste</button>
         <button id="copyButton">Copy Plain Text</button>
         <label>
-            <input type="checkbox" id="highlightToggle" checked placeholder="Type or paste here">Highlight On</input>
+            <input type="checkbox" id="highlightToggle" checked>
         </label>
         <div id="purpose"></div>
     </div>
@@ -164,7 +164,7 @@ function saveCursorPosition() {
 
 // Update the editor's content and manage cursor position
 function updateDisplayContent(editor, newText, range) {
-    document.display.innerHTML = newText;
+    document.display.innerHTML = newText || document.editor.getAttribute('placeholder');
     restoreSelection(range);
 	updateStatusText("Update Editor Content"); // Debug info
 }
