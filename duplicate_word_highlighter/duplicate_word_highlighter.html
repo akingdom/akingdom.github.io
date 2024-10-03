@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<!--PYKELET
+
+DESCRIPTION: This tool aids in the quick identification and editing of duplicate words in text. It highlights duplicate words based on frequency.
+
+FILENAME:    duplicate_word_highlighter.html
+AUTHOR:      Andrew Kingdom
+
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duplicate Word Highlighter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #000; /* Default text color for light mode */
+            background-color: #f5f5f5; /* Background color for the editor  for light mode */
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+        }
+
+        #controls {
+            z-index: 9999;
+			position: sticky;
+			top: 0;
+			height: 1.6em;
+            width: 100%;
+
+            padding: 10px;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+
+            background-color: #ebebff;
+            border-bottom: 1px solid #ccc;
+        }
+
+        #controls button {
+            margin-right: 10px;
+        }
+        
+        .editor {
+			
+			position: absolute;
+			left: 0px;
+			right: 0px;
+			top: calc(1em + 1.6em);
+			padding: 10px;
+			white-space: pre-wrap;
+			position: absolute;
+			min-height: calc(100vh - 1.6em - 1em - 5px);
+			margin-top: 5px;
+			
+            box-sizing: border-box;
+            outline: none; /* Remove default outline */
+            font-size: 16px;
+
+            border: 1px solid #ccc;
+        }
+        #display-field {
+            z-index: 1; /* Overlay the editor-field */
+            pointer-events: none; /* Makes it unclickable */
+        }
+        #editor-field {
+            z-index: 0; /* Base layer */
+
+			color: rgba(0, 0, 0, 0.67); /* Normal text color */
+            caret-color: black; /* Ensures cursor is visible */
+        }
+
+        .highlighted {
+        }
+
+
+        #purpose {
+            flex: auto;
+            text-align: right;
+            margin-left: 10px;
+            margin-right: 10px;
+            font-size: 14px;
+            color: #666; /* Light grey for purpose statement */
+        }
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                color: #fff;
+                background-color: #141414;
+            }
+
+            #controls {
+                background-color: #000014;
+				border-bottom: 1px solid #333;
+            }
+
+            #display-field {
+				pointer-events: none; /* Makes it unclickable */
+			}
+			#editor-field {
+			    color: rgba(255, 255, 255, 0.67);
+                background-color: #333; /* Dark mode background */
+            	caret-color: white; /* Ensures cursor is visible */
+			}
+			
+			.highlighted {
+            }
+
+            #purpose {
+                color: #999; /* Dark grey for purpose statement */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="controls">
+        <button id="pasteButton">Paste</button>
+        <button id="copyButton">Copy Plain Text</button>
+        <label>
+            <input type="checkbox" id="highlightToggle" checked> Highlight On
+        </label>
+        <div id="purpose"></div>
+    </div>
+	<div id="editor-field" class="editor" contenteditable="true" placeholder="Paste your text here..."></div>
+	<div id="display-field" class="editor"></div>
+
+    <script>// duplicate_word_highlighter.js
+
+
+
+// Utility function to get current cursor position
+function getCursorPosition() {
+    const sel = window.getSelection();
+    if (sel.rangeCount > 0) {
+        const range = sel.getRangeAt(0);
+        return { start: range.startOffset, end: range.endOffset };
+    }
+    return { start: 0, end: 0 };
+}
+
+// Utility function to format position info for display
+function formatCursorInfo(cursorInfo) {
+    return `Start: ${cursorInfo.start}, End: ${cursorInfo.end}`;
+}
+
+// Function to update status text
+function updateStatusText(action) {
+	return;// DEBUGGING IS OFF
+    const statusText = document.getElementById('purpose');
+    const cursorInfo = getCursorPosition();
+    statusText.innerText = `${action} - Stored Position: ${JSON.stringify(window.storedCursorPosition || {})}, ` +
+        `Current Position: ${formatCursorInfo(cursorInfo)}, ` +
+        `Previous Position: ${formatCursorInfo(window.previousCursorPosition || {})}, ` +
+        `Text Content: ${document.editor.innerText}`;
+    console.log(statusText.innerText);
+}
+
+// Save cursor position
+function saveCursorPosition() {
+    window.previousCursorPosition = window.storedCursorPosition;
+    window.storedCursorPosition = getCursorPosition();
+}
+
+// Update the editor's content and manage cursor position
+function updateDisplayContent(editor, newText, range) {
+    document.display.innerHTML = newText;
+    restoreSelection(range);
+	updateStatusText("Update Editor Content"); // Debug info
+}
+
+// Debounce function to handle frequent updates
+function debounce(func, wait) {
+    let timeout;
+    return function(...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => func.apply(this, args), wait);
+    };
+}
+
+// Handle typing and keystroke events
+const handleTyping = debounce(function(event) {
+	if (document.isUpdating) return;
+	document.isUpdating = true;
+
+	event.preventDefault(); // Prevent default action when necessary
+	const range = saveSelection();
+	const text = document.editor.innerText;
+	
+	saveCursorPosition(); // Save cursor position before update
+	
+	const highlightedText = processDuplicates(text);
+	updateDisplayContent(document.editor, highlightedText, range);  // Update editor content with highlights
+
+
+	document.isUpdating = false;
+}, 100); // Debounce time to manage frequent keystrokes
+
+// Handle paste events
+function handlePaste(event) {
+    event.preventDefault(); // Prevent default paste behavior
+    
+    navigator.clipboard.readText().then(text => {
+		if (document.isUpdating) return;
+		document.isUpdating = true;
+	
+        const range = saveSelection();
+
+        saveCursorPosition(); // Save cursor position before update
+
+        document.execCommand('insertHTML', false, `<p>${text}</p>`);
+        const highlightedText = processDuplicates(document.editor.innerText);
+        updateDisplayContent(document.editor, highlightedText, range);
+
+		document.isUpdating = false;
+    });
+}
+
+// Handle cut events
+function handleCut(event) {
+    handleClipboardAction(event, 'cut');
+}
+
+// Handle clear events
+function handleClear(event) {
+    handleClipboardAction(event, 'clear');
+}
+
+// Handle delete events
+function handleDelete(event) {
+    handleClipboardAction(event, 'delete');
+}
+
+// Handle clipboard actions (cut, clear, delete)
+function handleClipboardAction(event, action) {
+    if (document.isUpdating) return;
+    document.isUpdating = true;
+
+    const range = saveSelection();
+    const text = document.editor.innerText;
+
+    saveCursorPosition(); // Save cursor position before update
+
+    // Manage text based on action
+    if (action === 'cut') {
+        document.execCommand('cut');
+    } else if (action === 'clear') {
+        document.execCommand('delete');
+    } else if (action === 'delete') {
+        document.execCommand('delete');
+    }
+	
+    const highlightedText = processDuplicates(document.editor.innerText);
+    updateDisplayContent(document.editor, highlightedText, range);
+
+    document.isUpdating = false;
+}
+
+// Copy text to clipboard
+function copyText() {
+    const text = document.editor.innerText;
+    navigator.clipboard.writeText(text).then(() => {
+        alert("Plain text copied to clipboard!");
+    });
+}
+
+// Save the current cursor position
+function saveSelection() {
+    const sel = window.getSelection();
+    if (sel.rangeCount > 0) {
+        return sel.getRangeAt(0).cloneRange(); // Clone the range to preserve the cursor position
+    }
+    return null; // Return null if no selection exists
+}
+
+// Restore the saved cursor position
+function restoreSelection(range) {
+    if (range) {
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(range);
+    }
+}
+
+// Process and return highlighted text based on duplicate detection
+function processDuplicates(text) {
+    // Split text into words and count frequency
+    const words = text.match(/\b\w{1,}\b/g); // Matches words with 1 or more letters
+    const frequency = {};
+    const sequences = {};
+
+    if (!words) return text; // No words to process
+
+    // Helper to escape regex special characters
+    const escapeRegExp = (string) => {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    };
+
+    // Helper to hash a string to a number
+    const hashString = (str) => {
+        let hash = 0;
+        for (let i = 0; i < str.length; i++) {
+            hash = str.charCodeAt(i) + ((hash << 5) - hash);
+        }
+        return hash;
+    };
+
+    // Generate a hue from a hash value
+    const hashToHue = (hash) => Math.abs(hash % 360);
+
+    // Calculate word frequency and sequence frequency
+    words.forEach((word, index) => {
+        word = word.toLowerCase(); // Normalize to lowercase
+        frequency[word] = (frequency[word] || 0) + 1; // Count word frequency
+
+        // Identify sequences of words (up to 4-word sequences for example)
+        for (let length = 2; length <= 4; length++) {
+            if (index + length <= words.length) {
+                const sequence = words.slice(index, index + length).join(' ').toLowerCase();
+                sequences[sequence] = (sequences[sequence] || 0) + 1;
+            }
+        }
+    });
+
+    // Filter sequences by frequency to find repeated sequences
+    const repeatedSequences = Object.keys(sequences).filter(seq => sequences[seq] > 1);
+    
+    // Create a map of sequences to their highlights
+    const highlightMap = repeatedSequences.reduce((map, sequence) => {
+        const hue = hashToHue(hashString(sequence)); // Generate a hue for the sequence
+        const color = `hsl(${hue}, 100%, 50%)`; // Create an HSL color with the generated hue
+        map[escapeRegExp(sequence)] = color;
+        return map;
+    }, {});
+
+    // Function to safely highlight sequences without interfering with existing HTML tags
+    const safeHighlight = (text, sequence, color) => {
+        const regex = new RegExp(`(?!<[^>]*?)\\b${sequence}\\b(?![^<]*?>)`, 'gi');
+        return text.replace(regex, match => `<span class="highlighted" style="color: ${color};">${match}</span>`);
+    };
+
+    // Highlight sequences based on frequency and calculated color
+    let highlightedText = text;
+    for (const [sequence, color] of Object.entries(highlightMap)) {
+        highlightedText = safeHighlight(highlightedText, sequence, color);
+    }
+
+    return highlightedText;
+}
+
+
+
+// Handle blur events to check for content changes
+function handleBlur() {
+    const currentContent = document.editor.innerHTML;
+    if (window.previousContent !== currentContent) {
+        console.log('Content changed!');
+        window.previousContent = currentContent;
+        // Additional change handling can be added here
+    }
+}
+
+// Initialize all event listeners
+function initializeEventListeners() {
+    document.pasteButton.addEventListener('click', handlePaste);
+    document.copyButton.addEventListener('click', copyText);
+    document.highlightToggle.addEventListener('change', handleTyping); // Trigger re-highlight on toggle
+    document.editor.addEventListener('input', handleTyping); // Re-highlight on text input
+    document.editor.addEventListener('cut', handleCut); // Handle cut
+    document.editor.addEventListener('clear', handleClear); // Handle clear
+    document.editor.addEventListener('delete', handleDelete); // Handle delete
+    document.editor.addEventListener('blur', handleBlur); // Handle blur
+}
+
+// Returns an object of key:value pairs from the first '<!--PYKELET' comment found in this file.
+function getPykeletFromComment() {
+	function getComments(elem) {
+	  return Array.from(elem.childNodes).filter(node => node.nodeType === Node.COMMENT_NODE);
+	}
+    // Retrieve comments from the root element
+    const comments = getComments(document);
+    
+    // Find the PYKELET comment
+    const pykeletComment = comments.find(comment => comment.nodeValue.trim().startsWith('PYKELET'));
+
+    if (pykeletComment) {
+        const metadata = {};
+        const lines = pykeletComment.nodeValue
+                        .trim()
+                        .replace(/<!--\s*PYKELET\s*/g, '')
+                        .replace(/\s*-->/g, '')
+                        .split('\n');
+        
+        lines.forEach(line => {
+            const [key, ...valueParts] = line.trim().split(':');
+            const fullKey = `${key.trim()}`.toUpperCase();
+            if (fullKey) {
+                metadata[fullKey] = valueParts.join(':').trim();
+            }
+        });
+
+        return metadata;
+    }
+    return null;  // No PYKELET comment found
+}
+
+// Initialize
+function init() {
+    document.pasteButton = document.getElementById('pasteButton');
+    document.copyButton = document.getElementById('copyButton');
+    document.highlightToggle = document.getElementById('highlightToggle');
+    document.editor = document.getElementById('editor-field');
+    document.display = document.getElementById('display-field');
+    document.statusText = document.getElementById('purpose');
+
+    initializeEventListeners(); // Set up all event listeners
+
+    window.previousContent = document.editor.innerHTML; // Track initial content for change detection
+	document.statusText.innerText = document.pykelet.DESCRIPTION;
+    updateStatusText("Initialization"); // Initial status update
+}
+
+document.pykelet = getPykeletFromComment();  // grab details from Pykelet Resume immediately.
+window.addEventListener('load', init); // Initialise once the window loads
+
+
+
+    </script>
+</body>
+</html>
