@@ -31,13 +31,15 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 
 <div id="aitools" dir="auto">
 	<div>
-		<a target="_blank" rel="noopener noreferrer nofollow" href="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg"><img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="max-width: 100%;"></a>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">AI Tools</h2><a id="user-content-ai-tools" class="anchor" aria-label="Permalink: AI Tools" href="#ai-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+		<a target="_blank" rel="noopener noreferrer nofollow" href="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg">
+			<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="max-width: 100%;">
+		</a>
+		<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">AI Tools</h2></div>
 	</div>
 	<div>
 		<p>Transform your creative process. Shorten and sharpen your AI prompt text with my <a href="/akingdom/akingdom.github.io/blob/main/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="/akingdom/akingdom.github.io/blob/main/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</p>
 	</div>
-
+</div>
 
 
 
