@@ -65,6 +65,7 @@ I have a wide range of interests that inform my work and approach:
 - **Development Tools**: Streamlining development of software. 
 	- **Read more**: [Generate markdown Table-of-contents](https://akingdom.github.io/markdown_tools/markdown_toc.html)
 	- **Read more**: [Github Menu tool](https://akingdom.github.io/git-me/) - list all your repositories and gists in markdown format.
+	- **Read more**: [Duplicate Word Highlighter](https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html) - quickly locating duplicate words in text.
 ### Quotes
 
 > A movie is never really finished, just released. - Bonnie Arnold, a producer of the 'How to Train Your Dragon' movies.
