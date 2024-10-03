@@ -20,11 +20,9 @@ body {
   background-color: #F0EDE5; /* Soft Sand - Subtle background for quotes */
   border-left: 4px solid #1E3A5F; /* Navy Blue - Accent for blockquote */
   color: #333333; /* Charcoal - Text color inside blockquote */
-  margin: -1.5em 0;
-  padding: 0.8em 1.5em;
   border-radius: .6em;
   padding: 1.2em 1.5em;
-  margin: 0.8em -1.5em;
+  margin: 3.8em -1.5em 1.8em -1.5em;
   font-style: italic; /* Italics to emphasize the quote */
 }
 
