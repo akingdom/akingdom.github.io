@@ -61,9 +61,10 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Source Code Extracts](https://gist.github.com/akingdom) Gist
 	- **Read more**: [Guides](index.md#guides) - Excel, Xcode, Blender
 	- **Read more**: [Standards](index.md#standards) - mostly formats for data storage and transport
-	- **Read more**: [Github Menu tool](https://akingdom.github.io/git-me/) - list all your repositories and gists in markdown format.
 - **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
-
+- **Development Tools**: Streamlining development of software. 
+	- **Read more**: [Generate markdown Table-of-contents](https://akingdom.github.io/markdown_tools/markdown_toc.html)
+	- **Read more**: [Github Menu tool](https://akingdom.github.io/git-me/) - list all your repositories and gists in markdown format.
 ### Quotes
 
 > A movie is never really finished, just released. - Bonnie Arnold, a producer of the 'How to Train Your Dragon' movies.
