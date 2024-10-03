@@ -17,12 +17,6 @@ AUTHOR:      Andrew Kingdom
 
 <div id="purpose"></div>
 
-<h2 id="aitools" class="feature">
-	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
-
-<div id="quote-container"></div>
-
-
 ### Work I do
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 
@@ -34,6 +28,11 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 - And much more!
 
 **"Together, let’s turn ideas into reality. Reach out to start your journey!"**
+
+<h2 id="aitools" class="feature">
+	<img alt="Whimsical www" src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg" width="180px" height="180px" style="border-radius: 25px;"> AI Tools feature - <a href="ai_tools/prompt-extraction.html">Prompts Extraction</a></h2>
+
+<div id="quote-container"></div>
 
 ### Interests
 I have a wide range of interests that inform my work and approach:
