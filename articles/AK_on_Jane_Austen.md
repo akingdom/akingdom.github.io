@@ -1,8 +1,9 @@
 # Jane Austen - Thoughts on Writing - for Aspiring Authors
-Jane Austen’s approach to writing, as glimpsed in her manuscripts, letters and observations. 
 
-[![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)
-*My arrangement of a portrait of a confirmed portrait of Jane Austen*
+[![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)<br>
+*My AI-artwork based on a confirmed portrait of Jane Austen*
+
+Jane Austen’s approach to writing, as glimpsed in her manuscripts, letters and observations. 
 
 ## Crafting Your Novel
 
