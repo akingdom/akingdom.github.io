@@ -3,7 +3,7 @@ The Goose Bride
 
 In the English midlands, in the land that used to be known as Mercia, there once lived a certain young woman, named Beatrice, whose eyes were the colour of a summer sky and hair as wild as a windswept meadow. She lived alone with her father, Harold, an ageing war veteran, whose past glories were now overshadowed by ill health and the winter gnawed hard on his bones, or so he told his old friends when they visited. 
 
-On this particular day, there was a visitor, a messenger who announced that the king would be hunting nearby, demanding a tribute of two feathered arrows and a fowl for his table. Beatrice looked fearfully at her father, because Goosie (a plump white goose which she had raised by hand), was their only fowl fit for a king’s larder. It was Beatrice's beloved companion, and tears welled up in her eyes as her father made a difficult decision. "This is our duty, daughter," he rasped, his voice heavy with regret (for the goose laid a many eggs).
+On this particular day, there was a visitor, a messenger who announced that the king would be hunting nearby, demanding a tribute of two feathered arrows and a fowl for his table. Beatrice looked fearfully at her father, because Goosie (a plump white goose which she had raised by hand), was their only fowl fit for a king’s larder. It was Beatrice's beloved companion, and tears welled up in her eyes as her father made a difficult decision. "This is our duty, daughter," he rasped, his voice heavy with regret (for the goose laid many an egg).
 
 Beatrice understood, yet, her free spirit couldn't bear the thought of her pet goose dying. “Who is he to demand our dear Goosie!? Haven’t you done enough, Father? I’d like to give that king a piece of my mind.”
 
