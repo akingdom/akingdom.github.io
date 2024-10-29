@@ -1080,12 +1080,6 @@ document.imagesData = [
     "modified": 1727629518.2150037
   },
   {
-    "title": "3178eebb-4ce3-42c7-a3af-1fd9cc8c6839.jpeg",
-    "path": "./images/3178eebb-4ce3-42c7-a3af-1fd9cc8c6839.jpeg",
-    "thumbnail": "./thumbnails/3178eebb-4ce3-42c7-a3af-1fd9cc8c6839.jpeg",
-    "modified": 1727164354.795856
-  },
-  {
     "title": "40cdf5fc67934f31bc5b64495eb1b86d.jpeg",
     "path": "./images/40cdf5fc67934f31bc5b64495eb1b86d.jpeg",
     "thumbnail": "./thumbnails/40cdf5fc67934f31bc5b64495eb1b86d.jpeg",
