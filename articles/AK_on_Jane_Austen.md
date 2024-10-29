@@ -1,4 +1,4 @@
-# Jane Austen - Thoughts on Writing for Aspiring Authors
+# Jane Austen - Thoughts on Writing - for Aspiring Authors
 
 [![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)
 
