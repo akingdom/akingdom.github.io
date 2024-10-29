@@ -55,8 +55,8 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom,github.io/ai-nomenclature)
 - **History and Language:** Delving into archaeology, etymology, genealogy, and more. I'm currently learning modern Greek and enjoy foreign films and shows.
-	- **Read more**: [Words and their meanings](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9)
-	- **Read more**: [Shapes and their meanings (Shape Theory)](https://akingdom.github.io/articles/ShapeTheory)
+	- **Read more**: [Words and their meanings](https://akingdom.github.io/articles/etymology.md) (Etymology)
+	- **Read more**: [Shapes and their meanings](https://akingdom.github.io/articles/ShapeTheory) (Shape Theory)
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
