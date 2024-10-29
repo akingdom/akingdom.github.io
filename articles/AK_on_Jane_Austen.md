@@ -1,10 +1,11 @@
 # Jane Austen - Thoughts on Writing - for Aspiring Authors
+Jane Austen’s approach to writing, as glimpsed in her manuscripts, letters, and observations, provides a wealth of guidance for writers. 
 
 [![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)
 
 ## Crafting Your Novel
 
-Jane Austen’s approach to writing, as glimpsed in her manuscripts, letters, and observations, provides a wealth of guidance for writers. Here’s how you might follow in her footsteps:
+Here’s how you might follow in her footsteps:
 
 ### A Guide to Novel Planning and Inspiration:
 
