@@ -62,7 +62,7 @@ I have a wide range of interests that inform my work and approach:
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
 	- **Read more**: [music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
 	- **Read more**: [art](art2/)
-	- **Read more**: [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b)
+	- **Read more**: [stories](https://akingdom.github.io/articles/AK_on_writing)
 	- **Read more**: [Jane Austen and writing](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 	- **Read more**: [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
