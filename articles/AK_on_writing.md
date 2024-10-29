@@ -11,3 +11,4 @@ Several unpublished novels.
   - Walking through a fictional online game
   - Many others
 
+For writing tips see my [Jane Austen notes](http://akingdom.github.io/articles/AK_on_Jane_Austen).
