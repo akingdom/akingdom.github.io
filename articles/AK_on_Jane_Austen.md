@@ -2,6 +2,7 @@
 Jane Austen’s approach to writing, as glimpsed in her manuscripts, letters, and observations, provides a wealth of guidance for writers. 
 
 [![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)
+*My arrangement of a portrait of a confirmed portrait of Jane Austen*
 
 ## Crafting Your Novel
 
