@@ -21,7 +21,7 @@
 ---
 ## Etymology
 
-- **Etymbology** is the study of the origin and history of words and their meanings. This word relates to the Ancient Greek words ἐτεός (*eteós*, in the sense of true, stable, real) and λογία (*logía*, in the sense of a descriptive account, a story), in other words, a real story. 
+- **Etymology** is the study of the origin and history of words and their meanings. This word relates to the Ancient Greek words ἐτεός (*eteós*, in the sense of true, stable, real) and λογία (*logía*, in the sense of a descriptive account, a story), in other words, a real story. 
 
 - **True** relates to the word *tree* in the sense that a tree is not easily moved, compared to a stone boundary marker for instance. Possibly also relates to *health* in the sense of wishing someone to be as healthy (strong) as a tree.
 
