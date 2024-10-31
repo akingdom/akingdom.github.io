@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--PYKELET
 
-DESCRIPTION: Intent: Swap cross-eye-stereograph image halves, optionally flipping one half horizontally. This is useful for incorrectly created stereo images. Drag and drop an image onto this page or paste an image from the clipboard.
+DESCRIPTION: Swap cross-eye-stereograph image halves, optionally flipping one half horizontally. This is useful for incorrectly created stereo images. Drag and drop an image onto this page or paste an image from the clipboard.
 
 TITLE:       Text analysis produces new prompt
 FILENAME:    ai_prompt_analyzer.html
@@ -84,7 +84,7 @@ LICENSE:     CC-BY license
         document.body.addEventListener('paste', handlePaste);
 
         function init() {            
-            fetchAndProcessImage('https://akingdom.github.io/design_tools/stereo-sample1.jpeg');  // set default example image
+            fetchAndProcessImage('https://akingdom.github.io/design_tools/samples/stereo1.jpeg');  // set default example image
         }
         function handleDrop(event) {
             event.preventDefault();
