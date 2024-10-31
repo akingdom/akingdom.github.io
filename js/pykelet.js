@@ -89,5 +89,5 @@ function getPykeletsFromComments(elem) {
 
 initPykeletFromComment();
 
-if(!disabled_fillDocumentFromPykeletComments)
+if(typeof(disabled_fillDocumentFromPykeletComments) === 'undefined')
 	fillDocumentFromPykeletComments();
