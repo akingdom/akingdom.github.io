@@ -7,7 +7,21 @@ function initPykeletFromComment() {
 		comment: getPykeletFromComment()  // grab details from Pykelet Resume immediately.
 	};
 }
+function fillDocumentFromPykeletComments() {
+	const comments = document.pykelet.comment;
+	for (let key in comments) {
+		if (comments.hasOwnProperty(key)) {
+			const element = document.getElementById(key);
+			if (element) {
+				element.textContent = comments[key];
+			}
+		}
+	}
+}
 
+// Example usage:
+const data = { DESCRIPTION: "my description", TITLE: "my title", ANOTHER: "another value" };
+updateContent(data);
 
 // Returns an object of key:value pairs from the first '<!--PYKELET' comment found in the root level of this file.
 // Normally this result should be saved in document.window.pykelet.metadata
@@ -77,3 +91,4 @@ function getPykeletsFromComments(elem) {
 
 
 initPykeletFromComment();
+fillDocumentFromPykeletComments();
