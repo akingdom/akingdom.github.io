@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- 
+ HTML/JavaScript
+
+ Intent: Swap cross-eye-stereograph image halves, optionally flipping one half horizontally.
+ This is useful for incorrectly created stereo images.
+
+ By Andrew Kingdom
+ CC-BY license
+
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Swapper</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        #outputCanvas {
+            border: 2px solid #ccc;
+            margin: 10px;
+        }
+        #downloadButton {
+            margin-left: 2em;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Drag and drop an image onto this page or paste an image from the clipboard.</p>
+        <label>
+            Flip Left
+            <input type="checkbox" id="flipLeftCheckbox">
+        </label>
+        <label>
+            Flip Right
+            <input type="checkbox" id="flipRightCheckbox">
+        </label>
+    	<button id="downloadButton">Download Result</button>
+    </div>
+    <canvas id="outputCanvas"></canvas>
+
+    <script>
+        const outputCanvas = document.getElementById('outputCanvas');
+        const downloadButton = document.getElementById('downloadButton');
+        const flipRightCheckbox = document.getElementById('flipRightCheckbox');
+        const flipLeftCheckbox = document.getElementById('flipLeftCheckbox');
+
+        // Retrieve checkbox values from localStorage
+        flipRightCheckbox.checked = localStorage.getItem('flipRight') === 'true';
+        flipLeftCheckbox.checked = localStorage.getItem('flipLeft') === 'true';
+
+        document.body.addEventListener('drop', handleDrop);
+        document.body.addEventListener('paste', handlePaste);
+
+        function handleDrop(event) {
+            event.preventDefault();
+
+            if (event.dataTransfer.items) {
+                for (let i = 0; i < event.dataTransfer.items.length; i++) {
+                    const item = event.dataTransfer.items[i];
+                    if (item.kind === 'file' && item.type.startsWith('image/')) {
+                        const file = item.getAsFile();
+                        processImage(file);
+                        break; // Process only the first image
+                    }
+                }
+            }
+        }
+
+        function handlePaste(event) {
+            const items = (event.clipboardData || event.originalEvent.clipboardData).items;
+
+            for (let i = 0; i < items.length; i++) {
+                if (items[i].type.indexOf('image') !== -1) {
+                    const blob = items[i].getAsFile();
+                    processImage(blob);
+                    break; // Process only the first image
+                }
+            }
+        }
+
+        function processImage(imageBlob) {
+            const reader = new FileReader();
+
+            reader.onload = function (e) {
+                const img = new Image();
+                img.onload = function () {
+                    outputCanvas.width = img.width;
+                    outputCanvas.height = img.height;
+                    const ctx = outputCanvas.getContext('2d');
+
+                    if (flipRightCheckbox.checked) {
+                        // Draw the left half
+                        ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
+
+                        // Flip the right half horizontally
+                        ctx.save();
+                        ctx.scale(-1, 1);
+                        ctx.translate(-outputCanvas.width / 2, 0);
+                        ctx.drawImage(img, 0, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
+                        ctx.restore();
+                    } else if (flipLeftCheckbox.checked) {
+                        // Draw the right half
+                        ctx.drawImage(img, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
+
+                        // Flip the left half horizontally
+                        ctx.save();
+                        ctx.scale(-1, 1);
+                        ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
+                        ctx.restore();
+                    } else {
+                        // Swap left and right halves without flipping
+                        ctx.drawImage(img, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
+                        ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
+                    }
+
+                    // Allow the resultant image to be saved or copied
+                    outputCanvas.addEventListener('contextmenu', function (e) {
+                        e.preventDefault();
+                        const dataUrl = outputCanvas.toDataURL('image/png');
+                        const a = document.createElement('a');
+                        a.href = dataUrl;
+                        a.download = 'swapped_image.png';
+                        a.click();
+                    });
+
+                    // Enable download button
+                    downloadButton.addEventListener('click', function () {
+                        const dataUrl = outputCanvas.toDataURL('image/png');
+                        const a = document.createElement('a');
+                        a.href = dataUrl;
+                        a.download = 'swapped_image.png';
+                        a.click();
+                    });
+
+                    // Save checkbox values to localStorage
+                    localStorage.setItem('flipRight', flipRightCheckbox.checked);
+                    localStorage.setItem('flipLeft', flipLeftCheckbox.checked);
+                };
+                img.src = e.target.result;
+            };
+
+            reader.readAsDataURL(imageBlob);
+        }
+    </script>
+</body>
+</html>
