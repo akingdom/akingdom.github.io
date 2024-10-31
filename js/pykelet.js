@@ -8,7 +8,8 @@ function initPykeletFromComment() {
 	};
 }
 
-function fillDocumentFromPykeletComments() {
+function fillDocumentFromPykeletComments(force = false) {
+	if(!force && typeof(disabled_fillDocumentFromPykeletComments) !== 'undefined') return;  // don't fill the document if disabled_fillDocumentFromPykeletComments is defined, unless the caller overrides this.
 	const comments = document.pykelet.comment;
 	for (let key in comments) {
 		if (comments.hasOwnProperty(key)) {
@@ -88,6 +89,4 @@ function getPykeletsFromComments(elem) {
 
 
 initPykeletFromComment();
-
-if(typeof(disabled_fillDocumentFromPykeletComments) === 'undefined')
-	fillDocumentFromPykeletComments();
+window.addEventListener('DOMContentLoaded', fillDocumentFromPykeletComments); // Initialise once the window loads
