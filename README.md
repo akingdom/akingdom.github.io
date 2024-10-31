@@ -50,7 +50,7 @@ I have a wide range of interests that inform my work and approach:
 
 - **Nature and Science:** Enthusiast of biology, geology, cosmology, and physics.
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
-	- **Read more**: [Mathematical finds](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76)
+	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
@@ -60,11 +60,11 @@ I have a wide range of interests that inform my work and approach:
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
-	- **Read more**: [music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
-	- **Read more**: [art](art2/)
-	- **Read more**: [stories](https://akingdom.github.io/articles/AK_on_writing)
-	- **Read more**: [Jane Austen and writing](https://akingdom.github.io/articles/AK_on_Jane_Austen)
-	- **Read more**: [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+	- **Read more**: [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
+	- **Read more**: [Art](art2/)
+	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
+	- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
+	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
 ### Technology Expertise
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
