@@ -7,6 +7,7 @@ function initPykeletFromComment() {
 		comment: getPykeletFromComment()  // grab details from Pykelet Resume immediately.
 	};
 }
+
 function fillDocumentFromPykeletComments() {
 	const comments = document.pykelet.comment;
 	for (let key in comments) {
@@ -87,4 +88,6 @@ function getPykeletsFromComments(elem) {
 
 
 initPykeletFromComment();
-fillDocumentFromPykeletComments();
+
+if(!disabled_fillDocumentFromPykeletComments)
+	fillDocumentFromPykeletComments();
