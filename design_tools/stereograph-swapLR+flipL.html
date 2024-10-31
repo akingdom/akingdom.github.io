@@ -115,103 +115,70 @@ LICENSE:     CC-BY license
 
         function processImage(imageBlob) {
         	if (currentImageBlob != imageBlob) currentImageBlob = imageBlob;
-            const reader = new FileReader();
-
-            reader.onload = function (e) {
-                const img = new Image();
-                img.onload = function () {
-                    outputCanvas.width = img.width;
-                    outputCanvas.height = img.height;
-                    const ctx = outputCanvas.getContext('2d');
-
-            // Draw right half if needed
-            if (flipRightCheckbox.checked) {
-                ctx.save();
-                ctx.scale(-1, 1);
-                ctx.translate(-img.width / 2, 0);
-                ctx.drawImage(img, 0, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
-                ctx.restore();
-            } else {
-                ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
-            }
-
-            // Draw left half if needed
-            if (flipLeftCheckbox.checked) {
-                ctx.save();
-                ctx.scale(-1, 1);
-                ctx.translate(-img.width, 0);
-                ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
-                ctx.restore();
-            } else {
-                ctx.drawImage(img, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
-            }
-            // if (flipRightCheckbox.checked && flipLeftCheckbox.checked) {
-            //     // Both sides flipped
-            //     // Draw the left half flipped
-            //     ctx.save();
-            //     ctx.scale(-1, 1);
-            //     ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
-            //     ctx.restore();
-                
-            //     // Draw the right half flipped
-            //     ctx.save();
-            //     ctx.scale(-1, 1);
-            //     ctx.translate(-outputCanvas.width, 0);
-            //     ctx.drawImage(img, 0, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
-            //     ctx.restore();
-
-            // } else if (flipRightCheckbox.checked) {
-            //             // Draw the left half
-            //             ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
-
-            //             // Flip the right half horizontally
-            //             ctx.save();
-            //             ctx.scale(-1, 1);
-            //             ctx.translate(-outputCanvas.width / 2, 0);
-            //             ctx.drawImage(img, 0, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
-            //             ctx.restore();
-            //         } else if (flipLeftCheckbox.checked) {
-            //             // Draw the right half
-            //             ctx.drawImage(img, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
-
-            //             // Flip the left half horizontally
-            //             ctx.save();
-            //             ctx.scale(-1, 1);
-            //             ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
-            //             ctx.restore();
-            //         } else {
-            //             // Swap left and right halves without flipping
-            //             ctx.drawImage(img, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
-            //             ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
-            //         }
-
-                    // Allow the resultant image to be saved or copied
-                    outputCanvas.addEventListener('contextmenu', function (e) {
-                        e.preventDefault();
-                        const dataUrl = outputCanvas.toDataURL('image/png');
-                        const a = document.createElement('a');
-                        a.href = dataUrl;
-                        a.download = 'swapped_image.png';
-                        a.click();
-                    });
-
-                    // Enable download button
-                    downloadButton.addEventListener('click', function () {
-                        const dataUrl = outputCanvas.toDataURL('image/png');
-                        const a = document.createElement('a');
-                        a.href = dataUrl;
-                        a.download = 'swapped_image.png';
-                        a.click();
-                    });
-
-                    // Save checkbox values to localStorage
-                    localStorage.setItem('flipRight', flipRightCheckbox.checked);
-                    localStorage.setItem('flipLeft', flipLeftCheckbox.checked);
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    const img = new Image();
+                    img.onload = function () {
+                        outputCanvas.width = img.width;
+                        outputCanvas.height = img.height;
+                        const ctx = outputCanvas.getContext('2d');
+            
+                        // Prepare the left half
+                        const leftHalf = document.createElement('canvas');
+                        leftHalf.width = img.width / 2;
+                        leftHalf.height = img.height;
+                        const leftCtx = leftHalf.getContext('2d');
+                        
+                        if (flipLeftCheckbox.checked) {
+                            leftCtx.scale(-1, 1);
+                            leftCtx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
+                        } else {
+                            leftCtx.drawImage(img, 0, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
+                        }
+            
+                        // Prepare the right half
+                        const rightHalf = document.createElement('canvas');
+                        rightHalf.width = img.width / 2;
+                        rightHalf.height = img.height;
+                        const rightCtx = rightHalf.getContext('2d');
+            
+                        if (flipRightCheckbox.checked) {
+                            rightCtx.scale(-1, 1);
+                            rightCtx.drawImage(img, 0, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
+                        } else {
+                            rightCtx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
+                        }
+            
+                        // Draw both halves on the main canvas
+                        ctx.drawImage(leftHalf, 0, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
+                        ctx.drawImage(rightHalf, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
+            
+                        // Allow the resultant image to be saved or copied
+                        outputCanvas.addEventListener('contextmenu', function (e) {
+                            e.preventDefault();
+                            const dataUrl = outputCanvas.toDataURL('image/png');
+                            const a = document.createElement('a');
+                            a.href = dataUrl;
+                            a.download = 'swapped_image.png';
+                            a.click();
+                        });
+            
+                        // Enable download button
+                        downloadButton.addEventListener('click', function () {
+                            const dataUrl = outputCanvas.toDataURL('image/png');
+                            const a = document.createElement('a');
+                            a.href = dataUrl;
+                            a.download = 'swapped_image.png';
+                            a.click();
+                        });
+            
+                        // Save checkbox values to localStorage
+                        localStorage.setItem('flipRight', flipRightCheckbox.checked);
+                        localStorage.setItem('flipLeft', flipLeftCheckbox.checked);
+                    };
+                    img.src = e.target.result;
                 };
-                img.src = e.target.result;
-            };
-
-            reader.readAsDataURL(imageBlob);
+                reader.readAsDataURL(imageBlob);
         }
 
         function fetchAndProcessImage(imageUrl) {
