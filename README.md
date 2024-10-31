@@ -62,7 +62,7 @@ I have a wide range of interests that inform my work and approach:
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
 	- **Read more**: [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
 	- **Read more**: [Art](art2/)
-	- **Read more**: [Stereograph tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html)
+	- **Read more**: [Stereograph correction tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html)
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 	- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
