@@ -19,10 +19,6 @@ function fillDocumentFromPykeletComments() {
 	}
 }
 
-// Example usage:
-const data = { DESCRIPTION: "my description", TITLE: "my title", ANOTHER: "another value" };
-updateContent(data);
-
 // Returns an object of key:value pairs from the first '<!--PYKELET' comment found in the root level of this file.
 // Normally this result should be saved in document.window.pykelet.metadata
 // Normally the pykeleComment parameter is unused (call with empty parenthesis).
