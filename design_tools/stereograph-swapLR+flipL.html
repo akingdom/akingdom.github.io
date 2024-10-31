@@ -52,6 +52,7 @@
         const downloadButton = document.getElementById('downloadButton');
         const flipRightCheckbox = document.getElementById('flipRightCheckbox');
         const flipLeftCheckbox = document.getElementById('flipLeftCheckbox');
+<<<<<<< HEAD
         let currentImageBlob = null; // Store the current image blob
 
         // Retrieve checkbox values from localStorage
@@ -74,6 +75,9 @@
             }
         });
 
+=======
+        
+>>>>>>> 2bf25d86406128e96ba206438622151a8e203885
         // Retrieve checkbox values from localStorage
         flipRightCheckbox.checked = localStorage.getItem('flipRight') === 'true';
         flipLeftCheckbox.checked = localStorage.getItem('flipLeft') === 'true';
@@ -81,6 +85,10 @@
         document.body.addEventListener('drop', handleDrop);
         document.body.addEventListener('paste', handlePaste);
 
+        function init() {            
+
+            fetchAndProcessImage('https://akingdom.github.io/design_tools/stereo-sample1.jpeg');  // set default example image
+        }
         function handleDrop(event) {
             event.preventDefault();
 
@@ -172,6 +180,15 @@
 
             reader.readAsDataURL(imageBlob);
         }
+
+        function fetchAndProcessImage(imageUrl) {
+            fetch(imageUrl) 
+                .then(response => response.blob()) 
+                .then(blob => { processImage(blob); }) 
+                .catch(error => { console.error('Error fetching the image:', error); }); 
+        }
+        
+        window.addEventListener('DOMContentLoaded', init); // Initialise once the window load
     </script>
 </body>
 </html>
