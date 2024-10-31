@@ -52,6 +52,27 @@
         const downloadButton = document.getElementById('downloadButton');
         const flipRightCheckbox = document.getElementById('flipRightCheckbox');
         const flipLeftCheckbox = document.getElementById('flipLeftCheckbox');
+        let currentImageBlob = null; // Store the current image blob
+
+        // Retrieve checkbox values from localStorage
+        flipRightCheckbox.checked = localStorage.getItem('flipRight') === 'true';
+        flipLeftCheckbox.checked = localStorage.getItem('flipLeft') === 'true';
+
+        // Event listeners for drag and drop, and paste events
+        document.body.addEventListener('drop', handleDrop);
+        document.body.addEventListener('paste', handlePaste);
+
+        // Event listeners for checkbox changes
+        flipRightCheckbox.addEventListener('change', () => {
+            if (currentImageBlob) {
+                processImage(currentImageBlob);
+            }
+        });
+        flipLeftCheckbox.addEventListener('change', () => {
+            if (currentImageBlob) {
+                processImage(currentImageBlob);
+            }
+        });
 
         // Retrieve checkbox values from localStorage
         flipRightCheckbox.checked = localStorage.getItem('flipRight') === 'true';
@@ -88,6 +109,7 @@
         }
 
         function processImage(imageBlob) {
+        	if (currentImageBlob != imageBlob) currentImageBlob = imageBlob;
             const reader = new FileReader();
 
             reader.onload = function (e) {
