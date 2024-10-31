@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--PYKELET
 
-DESCRIPTION: Intent: Swap cross-eye-stereograph image halves, optionally flipping one half horizontally. This is useful for incorrectly created stereo images.
+DESCRIPTION: Intent: Swap cross-eye-stereograph image halves, optionally flipping one half horizontally. This is useful for incorrectly created stereo images. Drag and drop an image onto this page or paste an image from the clipboard.
 
 TITLE:       Text analysis produces new prompt
 FILENAME:    ai_prompt_analyzer.html
@@ -11,6 +11,7 @@ LICENSE:     CC-BY license
 -->
 <html lang="en">
 <head>
+    <script src="../js/pykelet.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Swapper</title>
@@ -34,7 +35,7 @@ LICENSE:     CC-BY license
 </head>
 <body>
     <div>
-        <p>Drag and drop an image onto this page or paste an image from the clipboard.</p>
+        <p id="DESCRIPTION"></p>
         <label>
             Flip Left
             <input type="checkbox" id="flipLeftCheckbox">
@@ -52,6 +53,7 @@ LICENSE:     CC-BY license
         const downloadButton = document.getElementById('downloadButton');
         const flipRightCheckbox = document.getElementById('flipRightCheckbox');
         const flipLeftCheckbox = document.getElementById('flipLeftCheckbox');
+        
         let currentImageBlob = null; // Store the current image blob
 
         // Retrieve checkbox values from localStorage
@@ -82,7 +84,6 @@ LICENSE:     CC-BY license
         document.body.addEventListener('paste', handlePaste);
 
         function init() {            
-
             fetchAndProcessImage('https://akingdom.github.io/design_tools/stereo-sample1.jpeg');  // set default example image
         }
         function handleDrop(event) {
