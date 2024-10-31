@@ -48,12 +48,11 @@
     <canvas id="outputCanvas"></canvas>
 
     <script>
-        function init() {
-            const outputCanvas = document.getElementById('outputCanvas');
-            const downloadButton = document.getElementById('downloadButton');
-            const flipRightCheckbox = document.getElementById('flipRightCheckbox');
-            const flipLeftCheckbox = document.getElementById('flipLeftCheckbox');
-            
+        const outputCanvas = document.getElementById('outputCanvas');
+        const downloadButton = document.getElementById('downloadButton');
+        const flipRightCheckbox = document.getElementById('flipRightCheckbox');
+        const flipLeftCheckbox = document.getElementById('flipLeftCheckbox');
+        function init() {            
             // Retrieve checkbox values from localStorage
             flipRightCheckbox.checked = localStorage.getItem('flipRight') === 'true';
             flipLeftCheckbox.checked = localStorage.getItem('flipLeft') === 'true';
