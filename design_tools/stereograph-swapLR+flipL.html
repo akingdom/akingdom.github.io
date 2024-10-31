@@ -113,7 +113,74 @@ LICENSE:     CC-BY license
             }
         }
 
+        // This is fully tested for correct origin flipping - This require much less technical knowledge to get correct results.
         function processImage(imageBlob) {
+        	if (currentImageBlob != imageBlob) currentImageBlob = imageBlob;
+            const reader = new FileReader();
+
+            reader.onload = function (e) {
+                const img = new Image();
+                img.onload = function () {
+                    outputCanvas.width = img.width;
+                    outputCanvas.height = img.height;
+                    const ctx = outputCanvas.getContext('2d');
+
+                    if (flipRightCheckbox.checked) {
+                        // Draw the left half
+                        ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
+
+                        // Flip the right half horizontally
+                        ctx.save();
+                        ctx.scale(-1, 1);
+                        ctx.translate(-outputCanvas.width / 2, 0);
+                        ctx.drawImage(img, 0, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
+                        ctx.restore();
+                    } else if (flipLeftCheckbox.checked) {
+                        // Draw the right half
+                        ctx.drawImage(img, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
+
+                        // Flip the left half horizontally
+                        ctx.save();
+                        ctx.scale(-1, 1);
+                        ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, -img.width / 2, 0, img.width / 2, img.height);
+                        ctx.restore();
+                    } else {
+                        // Swap left and right halves without flipping
+                        ctx.drawImage(img, 0, 0, img.width / 2, img.height, img.width / 2, 0, img.width / 2, img.height);
+                        ctx.drawImage(img, img.width / 2, 0, img.width / 2, img.height, 0, 0, img.width / 2, img.height);
+                    }
+
+                    // Allow the resultant image to be saved or copied
+                    outputCanvas.addEventListener('contextmenu', function (e) {
+                        e.preventDefault();
+                        const dataUrl = outputCanvas.toDataURL('image/png');
+                        const a = document.createElement('a');
+                        a.href = dataUrl;
+                        a.download = 'swapped_image.png';
+                        a.click();
+                    });
+
+                    // Enable download button
+                    downloadButton.addEventListener('click', function () {
+                        const dataUrl = outputCanvas.toDataURL('image/png');
+                        const a = document.createElement('a');
+                        a.href = dataUrl;
+                        a.download = 'swapped_image.png';
+                        a.click();
+                    });
+
+                    // Save checkbox values to localStorage
+                    localStorage.setItem('flipRight', flipRightCheckbox.checked);
+                    localStorage.setItem('flipLeft', flipLeftCheckbox.checked);
+                };
+                img.src = e.target.result;
+            };
+
+            reader.readAsDataURL(imageBlob);
+        }
+
+        // This is untested for correct origin flipping - This is suitable for a more technical person.
+        function processImageAlternate(imageBlob) {
         	if (currentImageBlob != imageBlob) currentImageBlob = imageBlob;
                 const reader = new FileReader();
                 reader.onload = function (e) {
