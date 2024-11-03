@@ -10,7 +10,7 @@ Shape theory examines how humans perceive, interpret, and utilize shapes across 
 To understand the psychological basis of shape theory, we must delve into the cognitive processes that underpin our perception of visual forms. 
 
 <img alt="A letter T made up of small embedded letter P" src="shapetheorypix/Navon-figure.png" style="width:12em;aspect-ratio:auto;border-radius:0.6em;"><br />
-*A Navon figure tests various aspects of field dependence vs. independence. Some people see the letter T first, and for ohers, the embedded letter P is dominant.*
+*A Navon figure tests various aspects of field dependence vs. independence. Some people see the letter T first, and for others, the embedded letter P is dominant.*
 
 * **Gestalt Principles:** These principles, such as similarity, proximity, and closure, explain how we organize visual information into meaningful patterns. 
 * **Independent Elemental Structure:** This perspective is primarily based on the analysis of individual elements, rather than the holistic configuration. By breaking down stimuli into their constituent parts, we can understand the underlying structure and meaning. 
