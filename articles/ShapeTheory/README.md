@@ -63,6 +63,8 @@ Scribbling and Symbolic Development: Scribbling in early childhood reflects deve
 ## Historical and Cognitive Evolution in Writing Systems:
 
 <a href="shapetheorypix/linearb-edit-ak.jpg"><img alt="Artist's representation of a clay tablet inscribed with Linear-B script, from the Mycenaen palace of Pylos in Greece. Such tablets were preserved when they baked in the fire that destroyed the palace around 1200 BC" src="shapetheorypix/linearb-edit-ak.jpg" style="width:12em;aspect-ratio:auto;border-radius:10px;"></a><br />
+*Linear B, a syllabic script used to write Mycenaean Greek, is a significant early writing system as it provides invaluable insights into the Bronze Age Greek language and culture, revealing details about their society, economy, and religion.*
+
 The understood development of writing systems provides insight into the human ability to abstract shapes and symbols for communication purposes. Early writing systems, such as cuneiform, oracle bone script and Egyptian hieroglyphs, illustrate the progression from pictographic to ideographic representations. These early forms often incorporated visual symbols that were abstracted from natural shapes or objects to represent concepts or sounds. The shift to alphabetic systems, including the Semitic and later Greek alphabets, represents a significant abstraction from logographic and syllabic scripts. This transition reflects a move towards more standardized and efficient forms of written communication, paralleling the increasing complexity of human thought and language. Understanding these historical shifts in symbolic representation enhances our comprehension of shape theory, illustrating the innate human capacity to abstract and communicate through visual forms.<br />
 &nbsp;<br />
 
