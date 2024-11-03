@@ -6,7 +6,7 @@ The term **Algorithmic Cognitive Insight and Decision Governance (ACIDG)** encap
 2. **Decision Governance**: A framework within which decisions are made, ensuring transparency, ethical considerations, and accountability while allowing flexible, data-driven exploration within predefined constraints.
 
 ### Background
-Modern artificial intelligence (AI) systems have evolved significantly but remain tools designed and operated by humans to perform complex tasks. Unlike speculative models of AI "deriving itself" or evolving independently, **ACIDG** reflects systems that are **deliberately designed** with constraints and boundaries set by human operators. These systems exhibit **intelligence in specific domains** based on programmed algorithms and defined objectives, but always within a **governance structure** that ensures decisions remain within acceptable ethical, legal, and operational boundaries.
+Modern artificial intelligence (AI) systems have evolved significantly, yet are tools designed and operated by humans to perform complex tasks. Unlike speculative models of AI "deriving itself" or evolving independently, **ACIDG** reflects systems that are **deliberately designed** with constraints and boundaries set by human operators. These systems exhibit **intelligence in specific domains** based on programmed algorithms and defined objectives, but always within a **governance structure** that ensures decisions remain within acceptable ethical, legal, and operational boundaries.
 
 ### Core Concepts of ACIDG
 
