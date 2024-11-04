@@ -1,6 +1,13 @@
-// pykelet.js 
-// by Andrew Kingdom
-// include this file as early as possible in an HTML document, ideally as first item in header..
+// ---
+// FILENAME:     pykelet.js 
+// VERSION:      2.0.1
+//
+// IMPORTANT:    Include this file as early as possible in an HTML document, ideally as first item in the HTML header.
+// DESCRIPTION:  This copies all front-matter variables into document.pykelet.comments. This also copies each variable as text into an HTML element with matching id (to disable this define const disabled_fillDocumentFromPykeletComments=true in a script before this file is called). Part of the Pykelet suite. 
+//  
+// AUTHOR:       Andrew Kingdom
+// LICENSE:      MIT (3-clause BSD) · You MAY freely use this file but you SHALL NOT remove the author credentials.
+// ---
 
 function initPykeletFromComment() {
 	document.pykelet = {
@@ -24,6 +31,7 @@ function fillDocumentFromPykeletComments(force = false) {
 // Returns an object of key:value pairs from the first '<!--PYKELET' comment found in the root level of this file.
 // Normally this result should be saved in document.window.pykelet.metadata
 // Normally the pykeleComment parameter is unused (call with empty parenthesis).
+// This is essentially a YAML front matter block, except we use <!-- ... --> rather than --- ... ---
 //
 // Example
 // <!--PYKELET
@@ -88,5 +96,5 @@ function getPykeletsFromComments(elem) {
 }
 
 
-initPykeletFromComment();
-window.addEventListener('DOMContentLoaded', fillDocumentFromPykeletComments); // Initialise once the window loads
+initPykeletFromComment();  // Immediate
+window.addEventListener('DOMContentLoaded', fillDocumentFromPykeletComments); // Deferred, initialise once the window loads
