@@ -15,7 +15,7 @@ AUTHOR:      Andrew Kingdom
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
-<div id="purpose"></div>
+<div id="DESCRIPTION"></div>
 
 ### Work I do
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
@@ -121,105 +121,10 @@ I have a wide range of interests that inform my work and approach:
 <!-- ALL SCRIPTING -->
 <script src="js/pykelet.js"></script>
 <script>
-let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
-if(h1_0) h1_0.textContent = '';//document.pykelet.comment.TITLE;
-document.getElementById('purpose').textContent = document.pykelet.comment.DESCRIPTION;
+  let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
+  if(h1_0) h1_0.textContent = '';
 </script>
-<!-- START QUOTE HANDLING -->
-<script>
-// Function to find two or more sequential blockquotes at the same depth
-function findSequentialBlockquotes() {
-    const allBlockquotes = document.querySelectorAll('blockquote');
-    const blockquoteChains = [];
-    let currentChain = [];
-
-    // Traverse all blockquotes
-    allBlockquotes.forEach((blockquote, index) => {
-	if (index === 0 || blockquote.previousElementSibling.tagName === 'BLOCKQUOTE') {
-	    // Add to current chain if it's the first blockquote or previous is also a blockquote
-	    currentChain.push(blockquote);
-	} else {
-	    // Push current chain and reset if a break occurs
-	    if (currentChain.length >= 2) {
-		blockquoteChains.push([...currentChain]);
-	    }
-	    currentChain = [blockquote];
-	}
-    });
-
-    // Check final chain
-    if (currentChain.length >= 2) {
-	blockquoteChains.push([...currentChain]);
-    }
-
-    // Return the first valid chain (with 2 or more blockquotes)
-    return blockquoteChains.length > 0 ? blockquoteChains[0] : [];
-}
-
-// Function to clone a random blockquote from the array to a div
-function cloneRandomBlockquote(chain,parent) {
-    if (chain.length > 0) {
-	const randomIndex = Math.floor(Math.random() * chain.length);
-	const randomBlockquote = chain[randomIndex].cloneNode(true);
-	parent.appendChild(randomBlockquote);
-    }
-}
-
-// Find the first chain of sequential blockquotes
-const firstChain = findSequentialBlockquotes();
-console.log('First chain of blockquotes:', firstChain);
-
-// Clone a random blockquote from the chain into the div
-cloneRandomBlockquote(firstChain, document.getElementById('quote-container'));
-</script>
+<script src="js/random_quote.js"></script>
 <!-- END QUOTE HANDLING-->
 
-<!--Start of Tawk.to Script-->
-<script >
-// Custom AK script.
-// Function to replace text/code with some new code
-// TODO FUTURE -- add a call to feed JSON through this, with {"old": "[My Template]", "new": "my new text/html"}
-function replaceTextCode(targetText, replacementHTML) {
-  // Escape special characters in the target text for RegExp
-  const escapedTargetText = targetText.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-
-  // Select all elements that have children and can contain text
-  const textElements = document.body.querySelectorAll('*:not(script):not(style)');
-
-  textElements.forEach(element => {
-    // Check if the element contains the target text
-    if (element.innerHTML.includes(targetText)) {
-      // Replace the text using a safe regular expression
-      element.innerHTML = element.innerHTML.replace(new RegExp(escapedTargetText, 'g'), replacementHTML);
-    }
-  });
-}
-
-// Initialize
-function tawk_init() {
-	replaceTextCode(
-		'[Contact Me]',
-		'<button id="contact-me" class="btn-primary">Contact me</button>'
-	);
-	document.getElementById("contact-me").onclick = function() {
-		Tawk_API.maximize();
-		setTimeout(function() {
-		    document.getElementsByClassName('tawk-chatinput-editor')[1].focus()
-		}, 500); // Adjust the timeout as necessary
-	};
-}
-window.addEventListener('load', tawk_init); // Initialise once the window loads
-</script>
-
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/602a13f6918aa261273edfe7/1eui5rv0l';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+<script src="js/tawk_to.js"></script>
