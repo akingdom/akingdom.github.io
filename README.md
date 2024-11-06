@@ -104,7 +104,7 @@ I have a wide range of interests that inform my work and approach:
 
 > Un-deception is the successful resolution of misapprehension, that is, the changing of your mind concerning a misbelief. This is not the same as trying to change someone's mind. 
 
-> I.Q. tests are a measure of a person's mental ability to solve certain problems within a very narrow set. They assume a certain mindset which generally excludes: a person's full intellect, emotional quotient, physical intellect, spatial intellect, spirit, love, kindness, ethics, operational organisation, or many other capabilities. Often they assume there is only one correct answer whereas there are often many ways to answer the question, depending how you consider it. - Andrew Kingdom
+> I.Q. tests are intended as a measure of a person's mental ability to solve certain problems within a very narrow mindset, which generally excludes: a person's full intellect, emotional quotient, physical intellect, spatial intellect, spirit, love, kindness, ethics, operational organisation, and many other capabilities. Often they assume a single correct answer, whereas in reality there are often many ways to answer the question, depending how you consider it. - Andrew Kingdom
 
 > The Role of Emotional Context in Effective Decision-Making and Communication:
 > - **Understanding context** when making informed decisions enhances relationships and communication (acknowledging emotions is part of the context).
