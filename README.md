@@ -120,9 +120,6 @@ I have a wide range of interests that inform my work and approach:
 
 <!-- ALL SCRIPTING -->
 <script src="js/pykelet.js"></script>
-<script>
-  let h1_0 = document.getElementsByTagName('h1')[0]?.getElementsByTagName('a')[0];
-  if(h1_0) h1_0.textContent = '';
-</script>
+<script src="js/hide_github_title.js"></script>
 <script src="js/random_quote.js"></script>
 <script src="js/tawk_to.js"></script>
