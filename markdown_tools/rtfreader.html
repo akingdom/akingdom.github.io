@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!--PYKELET
+XX:XX
+DESCRIPTION:	This page will allow users to upload a RTF file and display it. 
+
+TITLE:			View a Markdown (.md) document.
+FILENAME:   	markdown_viewer.html
+AUTHOR:     	Andrew Kingdom
+LICENSE:        MIT (3-clause) - You may freely use this file but shall not remove the author credentials.
+DEPENDENCY:     [RTF basic rendering library](https://chatgpt.com/c/672835de-7a64-8006-b5d2-282022f5c0ef#:~:text=GitHub%20Markdown%20rendering%20library)
+-->
+<html lang="en">
+<head>
+    <script src="../js/pykelet.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 20px;
+        }
+        #rtf-container {
+			width: 100%;
+			max-width: 95vw;
+        }
+        input[type="file"] {
+            margin-bottom: 20px;
+        }
+        .keyword {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        /* Color Classes with light-dark format */
+        .color-1 { background-color: light-dark(#FFB3B3, #FF5733); color: light-dark(#000, #FFF); }
+        .color-2 { background-color: light-dark(#B3FFCC, #33FF57); color: light-dark(#000, #FFF); }
+        .color-3 { background-color: light-dark(#B3D1FF, #3357FF); color: light-dark(#000, #FFF); }
+        .color-4 { background-color: light-dark(#FFB3E6, #FF33A1); color: light-dark(#000, #FFF); }
+        .color-5 { background-color: light-dark(#B3FFF2, #33FFD5); color: light-dark(#000, #FFF); }
+        .color-6 { background-color: light-dark(#FFD1B3, #FFA533); color: light-dark(#000, #FFF); }
+        .color-7 { background-color: light-dark(#E1B3FF, #D433FF); color: light-dark(#000, #FFF); }
+        .color-8 { background-color: light-dark(#FFE6B3, #FFD133); color: light-dark(#000, #FFF); }
+        .color-9 { background-color: light-dark(#D1B3FF, #5C33FF); color: light-dark(#000, #FFF); }
+        .color-10 { background-color: light-dark(#B3FFE6, #33FFD1); color: light-dark(#000, #FFF); }
+        .color-11 { background-color: light-dark(#FFC6B3, #FF5733); color: light-dark(#000, #FFF); }
+        .color-12 { background-color: light-dark(#FFEBB3, #FFBD33); color: light-dark(#000, #FFF); }
+        .color-13 { background-color: light-dark(#D6B3FF, #A533FF); color: light-dark(#000, #FFF); }
+        .color-14 { background-color: light-dark(#FFCCB3, #FF8C33); color: light-dark(#000, #FFF); }
+        .color-15 { background-color: light-dark(#B3FFD9, #33FFBD); color: light-dark(#000, #FFF); }
+        .color-16 { background-color: light-dark(#B3B8FF, #336FFF); color: light-dark(#000, #FFF); }
+    </style>
+</head>
+<body>
+<a style="position: absolute;left: .6em;top: 0.4em;" href="https://akingdom.github.io/">Andrew Kingdom</a>
+    <h1 id="title">RTF Viewer</h1>
+    <input type="file" id="file-input" accept=".rtf" />
+    <div id="keywords-container"></div>
+    <div id="rtf-container" class="markdown-body"></div>
+    <script src="="../js/RTFReader.js"></script>
+    <script>
+        
+
+		// Browser: Use <input type="file" /> to select an RTF file and pass it to the parser
+        document.getElementById('file-input').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file && file.type === 'text/rtf') {
+				document.getElementById('title').textContent = file.name;
+                const rtfReader = new RTFReader();
+				rtfReader.parseFile(file, (output) => {
+					// console.log(output);
+					const containerDiv = document.getElementById('rtf-container');
+// 					const encoding = rtfReader.encodingName;
+                    document.getElementById('rtf-container').innerHTML = output;
+				});
+            } else {
+                alert('Please upload a valid RTF (.rtf) file.');
+            }
+        });
+
+
+    </script>
+
+</body>
+</html>
