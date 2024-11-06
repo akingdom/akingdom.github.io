@@ -125,6 +125,4 @@ I have a wide range of interests that inform my work and approach:
   if(h1_0) h1_0.textContent = '';
 </script>
 <script src="js/random_quote.js"></script>
-<!-- END QUOTE HANDLING-->
-
 <script src="js/tawk_to.js"></script>
