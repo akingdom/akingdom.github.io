@@ -1,4 +1,6 @@
 // File: RTFReader.js
+// Version: 1.2.0, Nov 2024
+// Author: Andrew Kingdom
 // Purpose: JavaScript RTF Reader based on Microsoft RTF parser structure
 
 
@@ -30,15 +32,38 @@ class RTFReader {
     }
 
 	encodingNameTable(codepage) { return {
-		'1252': 'windows-1252',             // Windows Western European (Latin-1)
+		'437': 'IBM437',                    // IBM PC (original MS-DOS character set)
+		'850': 'IBM850',                    // IBM 850 (Multilingual Latin 1)
+		'858': 'IBM858',                    // IBM 858 (Multilingual Latin 1 with Euro symbol)
+		'874': 'windows-874',               // Windows Thai
+		'932': 'shift_jis',                 // Shift-JIS (Japanese)
+		'936': 'gb2312',                    // GB2312 (Simplified Chinese)
+		'949': 'ks_c_5601-1987',            // KS X 1001 (Korean)
+		'950': 'big5',                      // Big5 (Traditional Chinese)
+		'1200': 'utf-16',                   // UTF-16
+		'1201': 'utf-16be',                 // UTF-16 Big Endian
 		'1250': 'windows-1250',             // Windows Central European
 		'1251': 'windows-1251',             // Windows Cyrillic
+		'1252': 'windows-1252',             // Windows Western European (Latin-1)
 		'1253': 'windows-1253',             // Windows Greek
 		'1254': 'windows-1254',             // Windows Turkish
 		'1255': 'windows-1255',             // Windows Hebrew
 		'1256': 'windows-1256',             // Windows Arabic
 		'1257': 'windows-1257',             // Windows Baltic
 		'1258': 'windows-1258',             // Windows Vietnamese
+		'1361': 'johab',                    // Johab (Korean)
+		'10000': 'macintosh',               // Macintosh (Mac OS Roman)
+		'10001': 'x-mac-japanese',          // Mac Japanese
+		'10003': 'x-mac-chinesetrad',       // Mac Traditional Chinese
+		'10004': 'x-mac-korean',            // Mac Korean
+		'10005': 'x-mac-arabic',            // Mac Arabic
+		'10006': 'x-mac-hebrew',            // Mac Hebrew
+		'10007': 'x-mac-greek',             // Mac Greek
+		'10008': 'x-mac-cyrillic',          // Mac Cyrillic
+		'10029': 'x-mac-turkish',           // Mac Turkish
+		'10081': 'x-mac-chinesesimp',       // Mac Simplified Chinese
+		'20127': 'us-ascii',                // US ASCII
+		'20833': 'gbk',                     // GBK (Extended Simplified Chinese)
 		'20866': 'koi8-r',                  // KOI8-R (Russian)
 		'21866': 'koi8-u',                  // KOI8-U (Ukrainian)
 		'28591': 'iso-8859-1',              // ISO 8859-1 Latin-1 (Western European)
@@ -57,77 +82,34 @@ class RTFReader {
 		'28607': 'iso-8859-14',             // ISO 8859-14 Celtic
 		'28608': 'iso-8859-15',             // ISO 8859-15 Latin-9 (Western European)
 		'28609': 'iso-8859-16',             // ISO 8859-16 Romanian
-		'65001': 'utf-8',                   // UTF-8
-		'1200': 'utf-16',                   // UTF-16
-		'1201': 'utf-16be',                 // UTF-16 Big Endian
 		'65000': 'utf-7',                   // UTF-7
-		'20127': 'us-ascii',                // US ASCII
-		'28598': 'iso-8859-8-i',            // ISO 8859-8 with interactive Hebrew
-		'874': 'windows-874',               // Windows Thai
-		'437': 'IBM437',                    // IBM PC (original MS-DOS character set)
-		'850': 'IBM850',                    // IBM 850 (Multilingual Latin 1)
-		'858': 'IBM858',                    // IBM 858 (Multilingual Latin 1 with Euro symbol)
-		'932': 'shift_jis',                 // Shift-JIS (Japanese)
-		'936': 'gb2312',                    // GB2312 (Simplified Chinese)
-		'949': 'ks_c_5601-1987',            // KS X 1001 (Korean)
-		'950': 'big5',                      // Big5 (Traditional Chinese)
-		'1361': 'johab',                    // Johab (Korean)
-		'1253': 'windows-1253',             // Windows Greek
-		'20833': 'gbk',                     // GBK (Extended Simplified Chinese)
-		'28596': 'iso-8859-6',              // ISO 8859-6 Arabic
-		'437': 'IBM437',                    // IBM437 (original MS-DOS character set)
-		'10000': 'macintosh',               // Macintosh (Mac OS Roman)
-		'10001': 'x-mac-japanese',          // Mac Japanese
-		'10003': 'x-mac-chinesetrad',       // Mac Traditional Chinese
-		'10004': 'x-mac-korean',            // Mac Korean
-		'10005': 'x-mac-arabic',            // Mac Arabic
-		'10006': 'x-mac-hebrew',            // Mac Hebrew
-		'10007': 'x-mac-greek',             // Mac Greek
-		'10008': 'x-mac-cyrillic',          // Mac Cyrillic
-		'10029': 'x-mac-turkish',           // Mac Turkish
-		'10081': 'x-mac-chinesesimp',       // Mac Simplified Chinese
-		'1200': 'utf-16',                   // UTF-16
-		'1255': 'windows-1255',             // Windows Hebrew
-		'1256': 'windows-1256',             // Windows Arabic
-		'1257': 'windows-1257',             // Windows Baltic
-		'1258': 'windows-1258',             // Windows Vietnamese
-		'1361': 'johab',                    // Johab (Korean)
-		'437': 'IBM437',                    // IBM PC (original MS-DOS character set)
-		'850': 'IBM850',                    // IBM 850 (Multilingual Latin 1)
-		'858': 'IBM858',                    // IBM 858 (Multilingual Latin 1 with Euro symbol)
-		'932': 'shift_jis',                 // Shift-JIS (Japanese)
-		'936': 'gb2312',                    // GB2312 (Simplified Chinese)
-		'949': 'ks_c_5601-1987',            // KS X 1001 (Korean)
-		'950': 'big5',                      // Big5 (Traditional Chinese)
+		'65001': 'utf-8',                   // UTF-8
 		}[codepage];
 	}
 
-    parse(rtfStringEncoded) {
-		let rtfString = '';
-		
-		const ansiRegex = /\\ansicpg(\d{4})/;
-		// Assuming rtfStringEncoded is a UTF-8 string. Let's find encoding first.
+	// decodes text if possible, and remembers the encoding name.
+	convertEncoding(rtfStringEncoded) {
+		const ansiRegex = /\\ansicpg(\d{3,5})/;
 		const match = rtfStringEncoded.match(ansiRegex);
 		
 		if (match) {
-			const encoding = match[1]; // Extract encoding number from '\ansicpg1252'
-			const encodingName = this.encodingNameTable(encoding); // Lookup encoding name
-			this.encodingName = encodingName;
-			if (encodingName) {
-				// Convert rtfStringEncoded to a buffer (e.g., assuming it's already in UTF-8).
-				const encoder = new TextEncoder(); // TextEncoder to encode the string into a buffer
-				const rtfContentBuffer = encoder.encode(rtfStringEncoded); // Converts the string to a buffer
-				
-				// Map encoding name to actual TextDecoder encoding (e.g., 'windows-1252')
-				const textDecoder = new TextDecoder(encodingName);
-				rtfString = textDecoder.decode(rtfContentBuffer); // Decode with the correct encoding
+			this.encodingName = this.encodingNameTable(match[1]);
+			if (this.encodingName) {
+				const encoder = new TextEncoder();
+				const rtfContentBuffer = encoder.encode(rtfStringEncoded);
+				const textDecoder = new TextDecoder(this.encodingName);
+				const decodedText = textDecoder.decode(rtfContentBuffer);
+				return decodedText;
 			}
 		}
+		// Fallback if encoding conversion fails
+		this.encodingName = this.encodingNameTable(65001);
+		return rtfStringEncoded;
+	}
 	
-		// If no encoding was found or decoding failed, return the original string
-		if (!rtfString) {
-			rtfString = rtfStringEncoded;  // Fallback to the original string
-		}
+	// Usage in `parse`:
+	parse(rtfStringEncoded) {
+		let rtfString = this.convertEncoding(rtfStringEncoded);
 		
 		// Begin parsing...
 		let i = 0;
@@ -158,7 +140,7 @@ class RTFReader {
 					// For regular text characters, fall through to destination keyword handling
 					break;
 			}
-	
+			// handle destinations
 			switch (this.currentState.destination) {
 				case "field": // Field start 
 					this.handleFieldStart(char);
@@ -190,12 +172,7 @@ class RTFReader {
 	}
 
 	priorState() {
-		const l = this.stateStack.length;
-		if (l > 0) {
-        	return this.stateStack[l-1];
-		} else {
-			return this.initializeState();  // TODO: ok, or should we set destination to '' ?
-		}
+		return this.stateStack[this.stateStack.length - 1];
 	}
 	
     pushState() {
@@ -217,34 +194,54 @@ class RTFReader {
         }
     }
 
+	handleNewLine(index, rtfString) {
+		if (rtfString[index] === '\r' && rtfString[index + 1] === '\n') {
+			this.applyKeyword('\n');
+			return index + 2;
+		} else if (rtfString[index] === '\n') {
+			this.applyKeyword('\n');
+			return index + 1;
+		}
+		return null; // No match
+	}
+	
+	handleControlSequence(index, rtfString) {
+		if(index >= rtfString.length) return index;
+		const control = rtfString[index];
+		const data = rtfString.slice(index+1,index+9);  // maximum lookahead data needed for all encodings
+
+		// Handle single quote or unicode
+		if (control === '\'') {
+			const match = data.match(/^([a-fA-F0-9]{2})/);
+			if(match) this.applyKeyword('hexchar', match[1]);
+			return index+3;
+		}
+		if (control === 'u') {
+			const match = data.match(/^([a-fA-F0-9]{4})/);
+			if(match) this.applyKeyword('hexchar', match[1]);
+			return index+5;
+		}
+		if (control === 'U') {
+			const match = data.match(/^([a-fA-F0-9]{8})/);
+			if(match) this.applyKeyword('hexchar', match[1]);
+			return index+9;
+		}
+		return null;  // no match
+	}
+
 	handleKeyword(rtfString, index) {
+
+		// Handle new line
+        let newIndex = this.handleNewLine(index, rtfString);
+		if (newIndex !== null) return newIndex;
+
+		// Handle encoded characters
+		newIndex = this.handleControlSequence(index, rtfString);
+		if (newIndex !== null) return newIndex;
+
         let keyword = "";
         let param = null;
 
-		// Handle new line
-		if(index+2 < rtfString.length && rtfString[index+0] === '\r' && rtfString[index+1] === '\n') {
-			this.applyKeyword('\n', param);
-			return  index + 2;
-		} else if (index+1 < rtfString.length && rtfString[index+0] === '\n') {
-			this.applyKeyword('\n', param);
-			return  index + 1;
-		}
-		
-		// Handle single quote or unicode
-		if (index+3 < rtfString.length && rtfString[index+0] === '\'' && /[a-fA-F0-9]/.test(rtfString[index+1]) && /[a-fA-F0-9]/.test(rtfString[index+2])) {
-			param = rtfString[index+1] + rtfString[index+2];
-			this.applyKeyword('hexchar', param);
-			return  index + 3;
-		} else if (index+5 < rtfString.length && rtfString[index+0] === 'u' && /[a-fA-F0-9]/.test(rtfString[index+1]) && /[a-fA-F0-9]/.test(rtfString[index+2]) && /[a-fA-F0-9]/.test(rtfString[index+3]) && /[a-fA-F0-9]/.test(rtfString[index+4])) {
-			param = rtfString[index+1] + rtfString[index+2] + rtfString[index+3] + rtfString[index+4];
-			this.applyKeyword('hexchar', param);
-			return  index + 5;
-		} else if (index+9 < rtfString.length && rtfString[index+0] === 'U' && /[a-fA-F0-9]/.test(rtfString[index+1]) && /[a-fA-F0-9]/.test(rtfString[index+2]) && /[a-fA-F0-9]/.test(rtfString[index+3]) && /[a-fA-F0-9]/.test(rtfString[index+4]) && /[a-fA-F0-9]/.test(rtfString[index+5]) && /[a-fA-F0-9]/.test(rtfString[index+6]) && /[a-fA-F0-9]/.test(rtfString[index+7]) && /[a-fA-F0-9]/.test(rtfString[index+8])) {
-			param = rtfString[index+1] + rtfString[index+2] + rtfString[index+3] + rtfString[index+4] + rtfString[index+5] + rtfString[index+6] + rtfString[index+7] + rtfString[index+8];
-			this.applyKeyword('hexchar', param);
-			return  index + 9;
-		}
-		
         // Capture the keyword characters
         while (index < rtfString.length && /[a-zA-Z]/.test(rtfString[index])) {
             keyword += rtfString[index++];
@@ -275,6 +272,46 @@ class RTFReader {
 		this.output += char;
 	}
 
+	applyKeyword_hexcode(param) {
+		if (!param) return;
+		
+		// Check if we need to decode from a specified encoding
+		if (this.encodingName) {
+			const encoder = new TextEncoder();
+			const decoder = new TextDecoder(this.encodingName); // Uses the encoding name to decode
+			let byteArray = [];
+			// Convert param (hex string) to byte array
+			for (let i = 0; i < param.length; i += 2) {
+				let byte = parseInt(param.substr(i, 2), 16);
+				byteArray.push(byte);
+			}
+			// Decode the byte array using the encoding specified in `this.encodingName`
+			try {
+				const decodedString = decoder.decode(new Uint8Array(byteArray));
+				this.appendCharacter(decodedString);
+			} catch (e) {
+				console.error('Error decoding character:', e);
+			}
+		} else {
+			// Fallback if encoding is not set
+			if (param.length === 2) {
+				// 2-digit hexadecimal (8-bit character, basic extended ASCII type character)
+				const charCode = parseInt(param, 16);
+				this.appendCharacter(String.fromCharCode(charCode));                    
+			} else if (param.length === 4) {
+				// 4-digit hexadecimal (16-bit character, basic Unicode plane)
+				const charCode = parseInt(param, 16);
+				this.appendCharacter(String.fromCharCode(charCode));
+			} else if (param.length === 8) {
+				// 8-digit hexadecimal (32-bit character, potentially out of BMP)
+				const codePoint = parseInt(param, 16);
+				this.appendCharacter(String.fromCodePoint(codePoint)); // Use String.fromCodePoint for full Unicode range
+			} else {
+				console.error(`unsupported hex character length (${param.length})`);
+			}
+		}
+	}
+
     applyKeyword(keyword, param) {
 		if(this.debug) console.log(`KEYWORD: ${keyword}  (${param})`);
         switch (keyword) {
@@ -294,9 +331,7 @@ class RTFReader {
                 this.currentState.font = this.fontTable[param];
                 break;
             case "fs":  // Font size in half-points
-                if (param) {
-					this.currentState.fontSize = param / 2;
-                }
+                if (param) this.currentState.fontSize = param / 2;
                 break;
             case "colortbl":
                 this.currentState.destination = 'colortbl';
@@ -326,47 +361,7 @@ class RTFReader {
                 this.currentState.destination = keyword; 
                 break;
 			case "hexchar": // Handle hexadecimal character encoding with the `'` keyword
-				if (param) {
-					// Check if we need to decode from a specified encoding
-					if (this.encodingName) {
-						const encoder = new TextEncoder();
-						const decoder = new TextDecoder(this.encodingName); // Uses the encoding name to decode
-			
-						let byteArray = [];
-			
-						// Convert param (hex string) to byte array
-						for (let i = 0; i < param.length; i += 2) {
-							let byte = parseInt(param.substr(i, 2), 16);
-							byteArray.push(byte);
-						}
-			
-						// Decode the byte array using the encoding specified in `this.encodingName`
-						try {
-							const decodedString = decoder.decode(new Uint8Array(byteArray));
-							this.appendCharacter(decodedString);
-						} catch (e) {
-							console.error('Error decoding character:', e);
-						}
-					} else {
-						// Fallback if encoding is not set
-						if (param.length === 2) {
-							// 2-digit hexadecimal (8-bit character, basic extended ASCII type character)
-							const charCode = parseInt(param, 16);
-							this.appendCharacter(String.fromCharCode(charCode));                    
-						} else if (param.length === 4) {
-							// 4-digit hexadecimal (16-bit character, basic Unicode plane)
-							const charCode = parseInt(param, 16);
-							this.appendCharacter(String.fromCharCode(charCode));
-						} else if (param.length === 8) {
-							// 8-digit hexadecimal (32-bit character, potentially out of BMP)
-							const codePoint = parseInt(param, 16);
-							this.appendCharacter(String.fromCodePoint(codePoint)); // Use String.fromCodePoint for full Unicode range
-						} else {
-							console.error(`unsupported hex character length (${param.length})`);
-						}
-					}
-				}
-
+				this.applyKeyword_hexcode(param);
 				break;
             case "\n":
 				this.output += "<br>";
@@ -467,7 +462,7 @@ class RTFReader {
             formattedChar = `</i>${formattedChar}`;
             prior.italic = this.currentState.italic;
 		}        
-        if (this.priorState.underline && !this.currentState.underline) {
+        if (prior.underline && !this.currentState.underline) {
             formattedChar = `</u>${formattedChar}`;
             prior.underline = this.currentState.underline;
 		}        
