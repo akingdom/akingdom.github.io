@@ -4,7 +4,6 @@
 ## 1. Join the exiles ❤️
 - [Friendly Chat Community for Playgrounders](https://discord.gg/3QK2B3zhGb)
 
-
 ## 2. Back up your images and prompts
 
 The quickest way I know to download ALL your images is this:
@@ -74,7 +73,7 @@ This assumes you are comfortable with your web browser's Javascript Console.
 
 
 ## 4. Find alternate services (as necessary).
-- AI text-to-image (you could stay with Playground.com for this using the newer system).
+- AI text-to-image (you could stay with Playground.com for this - [have a look at the newer system](https://playground.com/design/c/art)).
 - Artwork publishing and community site.
 
 For these I suggest a [read through the recommendations on this discussion](https://discord.com/channels/1108515559164883107/1138316277211996181/1306088534008008736)
