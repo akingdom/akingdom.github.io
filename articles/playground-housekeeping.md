@@ -10,7 +10,7 @@
 The quickest way I know to download ALL your images is this:
 - [Go to your 'My Creations' page](https://playground.com/me)
 - Scroll (carefully) through ALL your images to make sure they are ALL loaded and there are no black gaps (except the natural gaps where images don't quite fit). This can be quite tedious if you have a lot of images.
-- Press `Control-S`/`command-S` to save them (same as `File > Save As Complete Web Page`). *For the purpose of saving images, ideally don't save as type 'Single file web page' (.mht) as it's harder to get your images out.*
+- Press `Control-S` (on Windows) or `command-S` (on Mac) to save them (same as `File > Save As Complete Web Page`). *For the purpose of saving images, ideally don't save as type 'Single file web page' (.mht) as it's harder to get your images out.*
 
 This gives you a folder with all your loaded/cached images, usually with a _files ending in the name. If you are missing the images, you chose the wrong 'save as' type, just try again. 🙂
 
@@ -18,15 +18,15 @@ This also gives you a HTML file which does contain all your prompts.
 
 To get the prompts there are two main ways I use: *My decoder* or the below *Javascript*. 
 
-### A. My page can decode prompts fairly well.
+### A. Prompt Extractor (less technical)
+See your prompts by uploading your saved .html file as mentioned above) to my [Prompt extractor](https://akingdom.github.io/ai_tools/prompt-extraction.html).
 
 Caveat: I've not tested if Playground truncates (cuts short) prompts in this manner versus when you're viewing the individual images.
 
-[Prompt extractor](https://akingdom.github.io/ai_tools/prompt-extraction.html)
-
 -or-
 
-### B. Javascript (assembles a JSON result for you)
+### B. Javascript (More Technically Advanced)
+(This assembles your prompt data as JSON text)
 
 While your *My Creations* page is open and all images loaded as mentioned above, bring up your Web Browser Javascript Console and paste in the following code:
 
