@@ -1,5 +1,5 @@
 
-# Things to do before Playground shuts off the community feed:
+# Backing up your data before Playground shuts off the community feed:
 
 ## 1. Join the exiles ❤️
 - [Friendly Chat Community for Playgrounders](https://discord.gg/3QK2B3zhGb)
