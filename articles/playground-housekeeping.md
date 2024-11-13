@@ -8,7 +8,7 @@
 
 The quickest way I know to download ALL your images is this:
 - [Go to your 'My Creations' page](https://playground.com/me)
-- Scroll (carefully) through ALL your images to make sure they are ALL loaded and there are no black gaps (except the natural gaps where images don't quite fit). This can be quite tedious if you have a lot of images.
+- Scroll (carefully) through ALL your images to make sure they are ALL loaded and there are no black gaps (except the natural gaps where images don't quite fit). This can be quite tedious if you have a lot of images. You can cut this down by using the Time option to select each month one at a time (*Thanks JohnFromOz*).
 - Press `Control-S` (on Windows) or `command-S` (on Mac) to save them (same as `File > Save As Complete Web Page`). *For the purpose of saving images, ideally don't save as type 'Single file web page' (.mht) as it's harder to get your images out.*
 
 This gives you a folder with all your loaded/cached images, usually with a _files ending in the name. If you are missing the images, you chose the wrong 'save as' type, just try again. 🙂
