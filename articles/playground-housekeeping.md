@@ -60,17 +60,17 @@ While your *My Creations* page is open, bring up your Web Browser Javascript Con
 This assumes you are comfortable with your web browser's Javascript Console.
 
 
-// ❤️ Here's your followers and followings, as lists of http links:
-
-// Step 1. Go to https://playground.com/profile/ (your profile)
-
-// Step 2. Paste the following into your browser console and copy BOTH text results
-let v=JSON.parse(document.getElementById('__NEXT_DATA__').innerHTML);
-console.log('FOLLOWING\n\n'+v.props.pageProps.followingIds.map(followingId => `https://playground.com/profile/${followingId}`).join('\n')+'\n\n')
-console.log('FOLLOWERS\n\n'+v.props.pageProps.followerIds.map(followerId => `https://playground.com/profile/${followerId}`).join('\n')+'\n\n')
-
-// My purpose in this is to grab a list of profiles I can go to if they remain on the 17th.
-// I'd be delighted if any coder can add names... possibly they are buried in 'v'.
+    // ❤️ Here's your followers and followings, as lists of http links:
+    
+    // Step 1. Go to https://playground.com/profile/ (your profile)
+    
+    // Step 2. Paste the following into your browser console and copy BOTH text results
+    let v=JSON.parse(document.getElementById('__NEXT_DATA__').innerHTML);
+    console.log('FOLLOWING\n\n'+v.props.pageProps.followingIds.map(followingId => `https://playground.com/profile/${followingId}`).join('\n')+'\n\n')
+    console.log('FOLLOWERS\n\n'+v.props.pageProps.followerIds.map(followerId => `https://playground.com/profile/${followerId}`).join('\n')+'\n\n')
+    
+    // My purpose in this is to grab a list of profiles I can go to if they remain on the 17th.
+    // I'd be delighted if any coder can add names... possibly they are buried in 'v'.
 
 
 ## 4. Find alternate services (as necessary).
