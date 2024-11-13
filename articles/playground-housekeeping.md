@@ -28,7 +28,7 @@ Caveat: I've not tested if Playground truncates (cuts short) prompts in this man
 
 ### B. Javascript (assembles a JSON result for you)
 
-While your *My Creations* page is open, bring up your Web Browser Javascript Console and paste in the following code:
+While your *My Creations* page is open and all images loaded as mentioned above, bring up your Web Browser Javascript Console and paste in the following code:
 
     // This is what I use regularly to back up my prompts, if you're comfortable using your browser's console. Copy the result and save it to file.
     const elements = document.querySelectorAll('.grid.gap-1');
