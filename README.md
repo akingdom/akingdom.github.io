@@ -38,6 +38,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	</div>
 	<div>
 		<p>Transform your creative process. Shorten and sharpen your AI prompt text with my <a href="https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="https://akingdom.github.io/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</p>
+		<p><a href="art2/">Samples of my AI Art</a></p>
 	</div>
 </div>
 
