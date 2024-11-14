@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <style>
+        .image-container {
+            position: relative;
+            display: inline-block;
+            margin: 10px;
+        }
+        .image-container img {
+            max-width: 220px;
+            max-height: 220px;
+            border-radius: 5px;
+        }
+        .caption {
+            text-align: center;
+            margin-top: 5px;
+        }
+        .likes, .copy-prompt {
+            position: absolute;
+			background-color: rgba(255, 255, 255, 0.7);
+			padding: 4px 7px 2px 5px;
+			margin-bottom: 3px;
+			border-radius: 5px;
+        }
+        .likes {
+            top: 5px;
+            right: 5px;
+        }
+        .copy-prompt {
+            bottom: 5px;
+            right: 5px;
+            cursor: pointer;
+        }
+        .error-message {
+            color: red;
+            font-weight: bold;
+        }
+        .copy-icon {
+            width: 24px;
+            height: 24px;
+            fill: rgba(0, 0, 0, 1);
+        } 
+        .sticky-message { position: fixed; top: 10px; left: 10px; right: 10px; background-color: rgba(226, 226, 226, 0.9); color: white; padding: 10px; border-radius: 5px; z-index: 1000; display: none; text-align: center;
+        }
+        #jsonInput {
+        	margin: .1em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Image Gallery</h1>
+    <div id="error-message" class="error-message"></div>
+	<div id="sticky-message" class="sticky-message"></div>
+
+    <label for="jsonInput">Prompt &amp; image data in 'JSON' format: · <button onclick="loadJSONFile()">Load JSON File</button> · <button onclick="clearJSON()">Clear JSON</button></label>
+    <br>
+    <textarea id="jsonInput" rows="10" cols="50" placeholder="or paste JSON here  [
+    {
+        &quot;href&quot;: &quot;/post/cat-ate-my-fish-cm2gwt33c01mfqpglua1mkku&quot;,
+        &quot;src&quot;: &quot;https://images.example.com/0404fbabfd8f96a1434ab.jpeg&quot;,
+        &quot;alt&quot;: &quot;That was my last fish&quot;,
+        &quot;likes&quot;: &quot;999&quot;
+    }, 
+...];
+"></textarea>
+    <br>
+    
+    <input type="file" id="jsonFileInput" style="display:none" accept=".json, .txt" onchange="handleFileLoad(event)" />
+    <br>
+
+    <label for="folderName">Name of images folder:</label>
+    <br>
+    <label for="folderName"><em>The images folder MUST be in the same folder as this web file</em></label>
+    <br>
+    <input type="text" id="folderName" placeholder="Enter folder name" />
+    <br>
+    <br>
+    <br>    
+    <button onclick="loadImages()">Display Images</button>
+    <div id="gallery"></div>
+    <script>
+        let jsonData = [];
+
+        function clearJSON() {
+            document.getElementById('jsonInput').value = '';
+            jsonData = [];
+        }
+
+        function loadJSONFile() {
+            document.getElementById('jsonFileInput').click();
+        }
+
+        function handleFileLoad(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    try {
+                        jsonData = JSON.parse(e.target.result);
+                        document.getElementById('jsonInput').value = JSON.stringify(jsonData, null, 2);
+                    } catch (err) {
+                        alert('Error parsing JSON file');
+                    }
+                };
+                reader.readAsText(file);
+            }
+        }
+		function showStickyMessage(message, color = 'black', weight = 'normal', time = 3000) {
+			const stickyMessage = document.getElementById('sticky-message');
+			stickyMessage.innerHTML = message;
+			stickyMessage.style.display = 'block';
+			stickyMessage.style.color = color;
+			stickyMessage.style.fontWeight = weight;
+			setTimeout(() => {
+				stickyMessage.style.display = 'none';
+			}, time); // Hide after n milliseconds
+		}
+		function showStickyError(message) {
+			showStickyMessage(message, 'red', 'bold', 10000);
+		}
+        function loadImages() {
+            const folderName = document.getElementById('folderName').value;
+            const gallery = document.getElementById('gallery');
+            gallery.innerHTML = '';
+
+            try {
+            	const json = document.getElementById('jsonInput').value;
+            	if(json == '') return;
+                jsonData = JSON.parse(json);
+            } catch (err) {
+                showStickyError('Invalid JSON data');
+                return;
+            }
+
+            let failedCount = 0;
+            let folderValid = false;
+
+            jsonData.forEach((data, index) => {
+                const imgContainer = document.createElement('div');
+                imgContainer.className = 'image-container';
+
+                const img = document.createElement('img');
+                img.alt = data.alt;
+
+                const likes = document.createElement('div');
+                likes.className = 'likes';
+                likes.innerHTML = `❤️ ${data.likes}`;
+
+                const copyPrompt = document.createElement('div');
+                copyPrompt.className = 'copy-prompt';
+                copyPrompt.innerHTML = ` <svg xmlns="http://www.w3.org/2000/svg" class="copy-icon" viewBox="0 0 24 24"> <path d="M20 2H10c-1.103 0-2 .897-2 2v4H4c-1.103 0-2 .897-2 2v10c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2v-4h4c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zM4 20V10h10l.002 10H4zm16-6h-4v-4c0-1.103-.897-2-2-2h-4V4h10v10z"></path> </svg> `;
+                copyPrompt.onclick = () => {
+                    navigator.clipboard.writeText(data.alt).then(() => {
+                        alert('Prompt copied to clipboard');
+                    });
+                };
+
+                imgContainer.appendChild(img);
+                imgContainer.appendChild(likes);
+                imgContainer.appendChild(copyPrompt);
+                gallery.appendChild(imgContainer);
+
+                const srcUrl = data.src.replace('https://images.playground.com', folderName);
+                const hrefUrl = `${folderName}${data.href.replace('/post', '')}`;
+
+                img.src = srcUrl;
+
+                img.onload = () => {
+                    if (!folderValid) {
+                        localStorage.setItem('folderName', folderName);
+                        folderValid = true;
+                    }
+                };
+
+                img.onerror = () => {
+                    img.src = `${hrefUrl}.jpeg`;
+                    img.onerror = () => {
+                        img.src = `${hrefUrl}.jpg`;
+                        img.onerror = () => {
+                            img.src = `${hrefUrl}.png`;
+                            img.onerror = () => {
+                                imgContainer.innerHTML = `${data.src} - ${data.href} not found in your ${folderName} folder (in the same place as this ${window.location.pathname} file).`;
+                                failedCount++;
+                                if (index < 20 && failedCount === 20) {
+                                    showStickyError('The folder seems not to be found.');
+                                }
+                            };
+                        };
+                    };
+                };
+            });
+        }
+
+        // Load the previously successful folder name if available
+        window.onload = () => {
+            const savedFolderName = localStorage.getItem('folderName');
+            if (savedFolderName) {
+                document.getElementById('folderName').value = savedFolderName;
+                loadImages();
+            }
+        };
+    </script>
+</body>
+</html>
