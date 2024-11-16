@@ -10,6 +10,7 @@ AUTHOR:      Andrew Kingdom
 
 -->
 <link rel="stylesheet" href="styles/common.css">
+<svg xmlns="http://www.w3.org/2000/svg" class="copy-icon" viewBox="0 0 24 24" style="position: absolute; left: 1em; top: 1em; clear:both;"></svg>
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
