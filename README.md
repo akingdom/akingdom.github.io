@@ -10,7 +10,7 @@ AUTHOR:      Andrew Kingdom
 
 -->
 <link rel="stylesheet" href="styles/common.css">
-<svg xmlns="http://www.w3.org/2000/svg" class="copy-icon" viewBox="0 0 24 24" style="position: absolute; left: 1em; top: 1em; clear:both;"></svg>
+<div id="qrcode" style="position: absolute; left: 1em; top: 1em; clear:both;"></div>
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
@@ -124,5 +124,8 @@ I have a wide range of interests that inform my work and approach:
 <!-- ALL SCRIPTING -->
 <script src="js/pykelet.js"></script>
 <script src="js/hide_github_title.js"></script>
+<script src="js/qrcode.js"></script>
+<script>// generateQRCode
+	QRCode(document.getElementById('qrcode'), { text: 'https://akingdom.github.io', width: 128, height: 128 }); }</script>
 <script src="js/random_quote.js"></script>
 <script src="js/tawk_to.js"></script>
