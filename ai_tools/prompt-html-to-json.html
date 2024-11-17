@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML File Data Extractor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        label {
+            font-weight: bold;
+        }
+        .error {
+            color: red;
+            margin-top: 10px;
+        }
+        iframe {
+            width: 100%;
+            height: 300px;
+            border: 1px solid #ccc;
+            margin-top: 10px;
+        }
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin-top: 10px;
+        }
+        button {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML File Data Extractor</h1>
+    <p>This tool allows you to open an HTML file in a fully sandboxed environment, extract data using JavaScript, and download the extracted data as a JSON file.</p>
+
+    <button id="openFileButton">Open HTML File</button>
+    <label for="jsonOutput">Extracted prompt JSON Data (save this to the same folder that contains your saved images folder):</label>
+    <textarea id="jsonOutput" readonly></textarea>
+    <button id="saveJsonButton">Save prompt JSON as text</button>
+    <br>&nbsp;
+    <br>(You can use this saved JSON text file with the <a href="prompt-backup-viewer.html">Prompt-backup-viewer</a>, which also needs to be saved to the same folder that contains your saved images folder, either via right-click on the link here and save-as, or open the page and save it via control-S (Windows computer) or command-S (Mac computer).)
+    <p id="errorText" class="error"></p>
+
+	<label id = "sandboxLabel" for="sandboxFrame" style="display: none;">Ignore the following, it's a temporary copy of the web page (HTML) file:</label>
+    <iframe id="sandboxFrame" sandbox="allow-same-origin" style="display: none;"></iframe>
+
+    <script>
+        const openFileButton = document.getElementById('openFileButton');
+        const jsonOutput = document.getElementById('jsonOutput');
+        const saveJsonButton = document.getElementById('saveJsonButton');
+        const errorText = document.getElementById('errorText');
+        const sandboxFrame = document.getElementById('sandboxFrame');
+        const sandboxLabel = document.getElementById('sandboxLabel');
+
+        openFileButton.addEventListener('click', () => {
+            errorText.textContent = ''; // Clear any previous errors
+            const input = document.createElement('input');
+            input.type = 'file';
+            input.accept = '.html,.htm';
+
+            input.onchange = () => {
+                const file = input.files[0];
+                if (!file) {
+                    errorText.textContent = 'No file selected.';
+                    return;
+                }
+
+                const reader = new FileReader();
+                reader.onload = () => {
+					sandboxLabel.style.display = 'block';
+                    sandboxFrame.style.display = 'block';
+                    sandboxFrame.srcdoc = reader.result;
+
+                    sandboxFrame.onload = () => {
+                        try {
+                            const frameDocument = sandboxFrame.contentDocument || sandboxFrame.contentWindow.document;
+                            const elements = frameDocument.querySelectorAll('.grid.gap-1');
+                            const extractedData = [];
+
+                            elements.forEach(element => {
+                                const imageLink = element.querySelector('a')?.getAttribute('href') || '';
+                                const imageUrl = element.querySelector('img')?.getAttribute('src') || '';
+                                const imageAlt = element.querySelector('img')?.getAttribute('alt') || '';
+                                const likesCount = element.querySelector('.LikeButton_like_button__vXTZb span:nth-child(1)')?.textContent.trim() || '-1';
+
+                                const data = {
+                                    href: imageLink,
+                                    src: imageUrl,
+                                    alt: imageAlt,
+                                    likes: likesCount
+                                };
+
+                                extractedData.push(data);
+                            });
+
+                            jsonOutput.value = JSON.stringify(extractedData, null, 2);
+                        } catch (error) {
+                            errorText.textContent = 'An error occurred while processing the file: ' + error.message;
+                        }
+                    };
+                };
+
+                reader.onerror = () => {
+                    errorText.textContent = 'Failed to read the file.';
+                };
+
+                reader.readAsText(file);
+            };
+
+            input.click();
+        });
+
+        saveJsonButton.addEventListener('click', () => {
+            try {
+                const blob = new Blob([jsonOutput.value], { type: 'text/plain' });
+                const a = document.createElement('a');
+                a.href = URL.createObjectURL(blob);
+                a.download = 'extracted_data.txt';
+                a.click();
+            } catch (error) {
+                errorText.textContent = 'Failed to save the file: ' + error.message;
+            }
+        });
+    </script>
+</body>
+</html>
