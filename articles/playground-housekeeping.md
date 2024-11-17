@@ -29,7 +29,7 @@ Caveat: I've not tested if Playground truncates (cuts short) prompts in this man
 ## 3. Gallery Viewer
 If we lose access to our Playground graphics, this is a gallery web file which you can open in on your computer with no internet needed after setting it up. Essentially on your computer you need in the same folder:
 
-- Your prompts and images from PlayGround saved as .html with your images (typically in a ..._files folder) as described in step 2 above.
+- Your prompts and images *saved from PlayGround* as .html with your images (typically in a ..._files folder) as described in step 2 above.
 - Your prompts converted to JSON data file (step B above).
 - Saved gallery viewer [viewer - raw web page](../ai_tools/prompt-backup-viewer.html) or download and uncompress [viewer - compressed zip file](../ai_tools/prompt-backup-viewer.html.zip). 
 
