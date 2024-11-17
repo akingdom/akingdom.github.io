@@ -18,47 +18,34 @@ This also gives you a HTML file which does contain all your prompts.
 
 To get the prompts there are two main ways I use: *My decoder* or the below *Javascript*. 
 
-### A. Prompt Extractor (less technical)
-See your prompts by uploading your saved .html file as mentioned above) to my [Prompt extractor](https://akingdom.github.io/ai_tools/prompt-extraction.html).
+### A. Simple Prompt tool
+See your prompts by uploading your saved .html file (as mentioned above) via my [Prompt extractor](https://akingdom.github.io/ai_tools/prompt-extraction.html). This works for several AI art tools, not only Playground.
+
+### B. Data format Prompt tool (recommended)
+Grab your prompts along with their likes by uploading your saved .html file (as mentioned above) via my [prompt HTML to JSON tool](https://github.com/akingdom/akingdom.github.io/ai_tools/prompt-html-to-json.html). This lets you save your prompts, likes and image links for use with my gallery viewer on your computer (see below).
 
 Caveat: I've not tested if Playground truncates (cuts short) prompts in this manner versus when you're viewing the individual images.
 
--or-
+## 3. Gallery Viewer
+If we lose access to our Playground graphics, this is a gallery web file which you can open in on your computer with no internet needed after setting it up. Essentially on your computer you need in the same folder:
 
-### B. Javascript (More Technically Advanced)
-(This assembles your prompt data as JSON text)
+- Your prompts and images *saved from PlayGround* as .html with your images (typically in a ..._files folder) as described in step 2 above.
+- Your prompts converted to JSON data file (step B above).
+- Saved gallery viewer [viewer - raw web page](../ai_tools/prompt-backup-viewer.html) or download and uncompress [viewer - compressed zip file](../ai_tools/prompt-backup-viewer.html.zip). 
 
-While your *My Creations* page is open and all images loaded as mentioned above, bring up your Web Browser Javascript Console and paste in the following code:
+1. Open the gallery viewer html file from the above folder.
+2. Open the html file.
+3. Use the html file to load your file containing the above JSON data (or you can paste it straight in).
+4. Type in the name of your images folder.
+5. Click the Display button.
 
-    // This is what I use regularly to back up my prompts, if you're comfortable using your browser's console. Copy the result and save it to file.
-    const elements = document.querySelectorAll('.grid.gap-1');
-    
-    const extractedData = [];
-    
-    elements.forEach(element => {
-      const imageLink = element.querySelector('a')?.getAttribute('href') || ''; 
-      const imageUrl = element.querySelector('img')?.getAttribute('src') || '';
-      const imageAlt = element.querySelector('img')?.getAttribute('alt') || ''; 
-      const likesCount = element.querySelector('.LikeButton_like_button__vXTZb span:nth-child(1)')?.textContent.trim() || '-1'; // Get text content and trim spaces
-    
-      const data = {
-        href: imageLink,
-        src: imageUrl,
-        alt: imageAlt,
-        likes: likesCount
-      };
-    
-      extractedData.push(data);
-    });
-    
-    console.log(extractedData);
-	// end of javascript.
+If all goes well you'll see a grid with all your images, likes and the option to copy any of the prompts. 
 
-> Note: There is now a viewer for this, available as [viewer - raw web page](../ai_tools/prompt-backup-viewer.html) or [viewer - compressed zip file](../ai_tools/prompt-backup-viewer.html.zip). 1. Save (and uncompress if zipped) the html file to the same folder that contains your backed up images files. 2. Open the html file. 3. Use the html file to load your file containing the above JSON data (or you can paste it straight in). 4. Type in the name of your images folder. 5. Click the Display button. If all goes well you'll see a grid with all your images, likes and the option to copy any of the prompts. If all didn't go well, try these steps again, or check that the image names match the src or href values in the JSON data (the web page does try very hard to match them up), or some systems with extra security might not allow the page to access the images.
+If all didn't go well, try these steps again, or check that the image names match the src or href values in the JSON data (the web page does try very hard to match them up), or some systems with extra security might not allow the page to access the images.
 
+For advanced users, you can paste a 'file:///' path into the folder name and it should work, even from the online web gallery page.
 
-
-## 3. Back up your followers and followings.
+## 4. Back up your followers and followings.
 This assumes you are comfortable with your web browser's Javascript Console.
 
 
@@ -75,7 +62,7 @@ This assumes you are comfortable with your web browser's Javascript Console.
     // I'd be delighted if any coder can add names... possibly they are buried in 'v'.
 
 
-## 4. Find alternate services (as necessary).
+## 5. Find alternate services (as necessary).
 - AI text-to-image (you could stay with Playground.com for this - [have a look at the newer system](https://playground.com/design/c/art)).
 - Artwork publishing and community site.
 
