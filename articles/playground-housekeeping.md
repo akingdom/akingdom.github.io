@@ -26,7 +26,7 @@ Grab your prompts along with their likes by uploading your saved .html file (as 
 
 Caveat: I've not tested if Playground truncates (cuts short) prompts in this manner versus when you're viewing the individual images.
 
-## 3. Saved Gallery
+## 3. Gallery Viewer
 This is a gallery web page file but you can open in on your computer with no internet needed after setting it up. Essentially on your computer you need in the same folder:
 
 - Your prompts and images from PlayGround saved as .html with your images (typically in a ..._files folder) as described in step 2 above.
