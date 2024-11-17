@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Gallery</title>
     <style>
+    	body {
+			background-color: #28282a;
+			color: white;
+		}
         .image-container {
             position: relative;
             display: inline-block;
-            margin: 10px;
+            margin: .52em .45em;
         }
         .image-container img {
             max-width: 220px;
@@ -29,6 +32,7 @@
         .likes {
             top: 5px;
             right: 5px;
+            color: black;
         }
         .copy-prompt {
             bottom: 5px;
@@ -49,38 +53,84 @@
         #jsonInput {
         	margin: .1em;
         }
+		.search-container { position: relative; display: flex; align-items: center; margin-bottom: 10px; max-width: fit-content; }
+		.search-input { width: 200px; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; } 
+		.search-icon,
+		.cancel-icon { position: absolute; cursor: pointer; } 
+		.search-icon { right: 30px; display:none; } 
+		.cancel-icon { right: 10px; display: none; }
+		#promptContainer {     border-color: rgb(226, 226, 226);
+			border-radius: .6em;
+			border-style: solid;
+			padding: .9em;
+			background-color: #f9f8f3;
+			margin-bottom: 1em;
+			max-width: fit-content;
+		}}
+		#likesFilter {
+			background-color: #f9f8f3;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			padding: 10px;
+			margin-bottom: 10px;
+			display: inline-block;
+		}
+		
+		#likesFilter label {
+			margin-right: .3em;
+			font-weight: bold;
+			vertical-align: baseline;
+			margin-left: 1em;
+		}
+		
+		#likesFilter input[type="range"] {
+			margin: 5px 10px;
+		}
     </style>
 </head>
 <body>
     <h1>Image Gallery</h1>
-    <div id="error-message" class="error-message"></div>
-	<div id="sticky-message" class="sticky-message"></div>
+	<div id="sticky-message" class="sticky-message" style="display: none; color: red; font-weight: bold;"></div>
 
-    <label for="jsonInput">Prompt &amp; image data in 'JSON' format: · <button onclick="loadJSONFile()">Load JSON File</button> · <button onclick="clearJSON()">Clear JSON</button></label>
-    <br>
-    <textarea id="jsonInput" rows="10" cols="50" placeholder="or paste JSON here  [
-    {
-        &quot;href&quot;: &quot;/post/cat-ate-my-fish-cm2gwt33c01mfqpglua1mkku&quot;,
-        &quot;src&quot;: &quot;https://images.example.com/0404fbabfd8f96a1434ab.jpeg&quot;,
-        &quot;alt&quot;: &quot;That was my last fish&quot;,
-        &quot;likes&quot;: &quot;999&quot;
-    }, 
+	<div id="promptContainer">
+		<label for="jsonInput">Prompt &amp; image data in 'JSON' format: · <button onclick="loadJSONFile()">Load JSON File</button> · <button onclick="clearJSON()">Clear JSON</button></label>
+		<br>
+		<textarea id="jsonInput" rows="10" cols="50" placeholder="or paste JSON here  [
+{
+    &quot;href&quot;: &quot;/post/cat-ate-my-fish-cm2gwt33c01mfqpglua1mkku&quot;,
+    &quot;src&quot;: &quot;https://images.example.com/0404fbabfd8f96a1434ab.jpeg&quot;,
+    &quot;alt&quot;: &quot;That was my last fish&quot;,
+    &quot;likes&quot;: &quot;99&quot;
+}, 
 ...];
-"></textarea>
-    <br>
-    
-    <input type="file" id="jsonFileInput" style="display:none" accept=".json, .txt" onchange="handleFileLoad(event)" />
-    <br>
+	"></textarea>
+		<br>
+		
+		<input type="file" id="jsonFileInput" style="display:none" accept=".json, .txt" onchange="handleFileLoad(event)">
+		<br>
+	
+		<label for="folderName">Name of images folder:</label>
+		<br>
+		<label for="folderName"><em>The images folder MUST be in the same folder as this web file</em></label>
+		<br>
+		<input type="text" id="folderName" placeholder="Enter folder name">
+		<br>
+		<br>
+		<br>    
+		<button onclick="loadImages()">Display Images</button>
+    </div>
+	<div>
+	<!-- Search Box --> <span class="search-container"> <input type="text" id="searchInput" class="search-input" placeholder="Search..." oninput="filterImages()" /> <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 2c-4.418 0-8 3.582-8 8 0 1.842.636 3.539 1.707 4.892l-3.707 3.707 1.414 1.414 3.707-3.707c1.354 1.071 3.05 1.707 4.892 1.707 4.418 0 8-3.582 8-8s-3.582-8-8-8zm0 14c-3.313 0-6-2.687-6-6s2.687-6 6-6 6 2.687 6 6-2.687 6-6 6zm13.293 5.293l-4.939-4.939c1.167-1.44 1.847-3.253 1.847-5.354 0-4.418-3.582-8-8-8s-8 3.582-8 8 3.582 8 8 8c2.101 0 4.063-.684 5.495-1.848l4.939 4.939 1.414-1.414z"/></svg> <svg class="cancel-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" onclick="clearSearch()"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6 16.5l-1.5 1.5-4.5-4.5-4.5 4.5-1.5-1.5 4.5-4.5-4.5-4.5 1.5-1.5 4.5 4.5 4.5-4.5 1.5 1.5-4.5 4.5 4.5 4.5z"/></svg> </span> 
+	<span id="likesFilter">
+		<label for="minLikes">Likes minimum:</label>
+		<input type="range" id="minLikes" min="0" max="1000" step="1" value="0" oninput="updateLikesFilter()">
+		<span id="minLikesValue">0</span>
+		<label for="maxLikes">maximum:</label>
+		<input type="range" id="maxLikes" min="0" max="1000" step="1" value="1000" oninput="updateLikesFilter()">
+		<span id="maxLikesValue">1000</span>
+	</span>
+	</div>
 
-    <label for="folderName">Name of images folder:</label>
-    <br>
-    <label for="folderName"><em>The images folder MUST be in the same folder as this web file</em></label>
-    <br>
-    <input type="text" id="folderName" placeholder="Enter folder name" />
-    <br>
-    <br>
-    <br>    
-    <button onclick="loadImages()">Display Images</button>
     <div id="gallery"></div>
     <script>
         let jsonData = [];
@@ -138,6 +188,7 @@
 
             let failedCount = 0;
             let folderValid = false;
+            let maxLikes = 0;
 
             jsonData.forEach((data, index) => {
                 const imgContainer = document.createElement('div');
@@ -149,7 +200,8 @@
                 const likes = document.createElement('div');
                 likes.className = 'likes';
                 likes.innerHTML = `❤️ ${data.likes}`;
-
+				maxLikes = Math.max(maxLikes, parseInt(data.likes, 10));
+				
                 const copyPrompt = document.createElement('div');
                 copyPrompt.className = 'copy-prompt';
                 copyPrompt.innerHTML = ` <svg xmlns="http://www.w3.org/2000/svg" class="copy-icon" viewBox="0 0 24 24"> <path d="M20 2H10c-1.103 0-2 .897-2 2v4H4c-1.103 0-2 .897-2 2v10c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2v-4h4c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zM4 20V10h10l.002 10H4zm16-6h-4v-4c0-1.103-.897-2-2-2h-4V4h10v10z"></path> </svg> `;
@@ -193,7 +245,59 @@
                     };
                 };
             });
+            // Postprocessing
+			const minElement = document.getElementById('minLikes');
+			const maxElement = document.getElementById('maxLikes');
+			minElement.max = maxLikes;
+			maxElement.max = maxLikes;
+			if(minElement.value > maxLikes) minElement.value = maxLikes;
+			if(maxElement.value > maxLikes) maxElement.value = maxLikes;
+			minElement.dispatchEvent(new Event("change"));
+			maxElement.dispatchEvent(new Event("change"));
         }
+
+		function filterImages() {
+            const searchText = document.getElementById('searchInput').value.toLowerCase();
+            const imageContainers = document.querySelectorAll('.image-container');
+			const minLikes = parseInt(document.getElementById('minLikes').value, 10);
+			const maxLikes = parseInt(document.getElementById('maxLikes').value, 10);
+		
+			document.getElementById('minLikesValue').textContent = minLikes;
+			document.getElementById('maxLikesValue').textContent = maxLikes;
+
+            imageContainers.forEach(container => {
+                const altText = container.querySelector('img').alt.toLowerCase();
+                const likes = parseInt(container.querySelector('.likes').textContent.slice(2), 10);
+                let visible = true;
+				if (likes < minLikes || likes > maxLikes) {
+					visible = false;
+				}
+                if (!altText.includes(searchText)) {
+                    visible = false;
+				}
+				if(visible) {
+					container.style.display = 'inline-block';
+                } else {
+                    container.style.display = 'none';
+                }
+            });
+
+            const cancelIcon = document.querySelector('.cancel-icon');
+            if (searchText) {
+                cancelIcon.style.display = 'block';
+            } else {
+                cancelIcon.style.display = 'none';
+            }
+        }
+		function updateLikesFilter() {
+			filterImages();		
+		}
+
+        function clearSearch() {
+            document.getElementById('searchInput').value = '';
+            filterImages();
+		}
+		
 
         // Load the previously successful folder name if available
         window.onload = () => {
