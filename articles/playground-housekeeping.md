@@ -43,6 +43,8 @@ If all goes well you'll see a grid with all your images, likes and the option to
 
 If all didn't go well, try these steps again, or check that the image names match the src or href values in the JSON data (the web page does try very hard to match them up), or some systems with extra security might not allow the page to access the images.
 
+For advanced users, you can paste a 'file:///' path into the folder name and it should work, even from the online web gallery page.
+
 ## 4. Back up your followers and followings.
 This assumes you are comfortable with your web browser's Javascript Console.
 
