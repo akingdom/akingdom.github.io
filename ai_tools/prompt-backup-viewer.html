@@ -8,6 +8,12 @@
 			background-color: #28282a;
 			color: white;
 		}
+		button {
+			background-color: #ccc;
+			color: blue;
+			border-color: blue;
+			padding: .3em .6em;
+		}
         .image-container {
             position: relative;
             display: inline-block;
@@ -50,8 +56,9 @@
         } 
         .sticky-message { position: fixed; top: 10px; left: 10px; right: 10px; background-color: rgba(226, 226, 226, 0.9); color: white; padding: 10px; border-radius: 5px; z-index: 1000; display: none; text-align: center;
         }
-        #jsonInput {
+        #jsonInput, #folderName {
         	margin: .1em;
+        	width: calc(100% - 0.5em);
         }
 		.search-container { position: relative; display: flex; align-items: center; margin-bottom: 10px; max-width: fit-content; }
 		.search-input { width: 200px; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; } 
@@ -59,13 +66,15 @@
 		.cancel-icon { position: absolute; cursor: pointer; } 
 		.search-icon { right: 30px; display:none; } 
 		.cancel-icon { right: 10px; display: none; }
-		#promptContainer {     border-color: rgb(226, 226, 226);
+		#promptContainer, #controlsContainer {    
+			border-color: rgb(226, 226, 226);
 			border-radius: .6em;
 			border-style: solid;
 			padding: .9em;
 			background-color: #f9f8f3;
 			margin-bottom: 1em;
 			max-width: fit-content;
+			color: black;
 		}}
 		#likesFilter {
 			background-color: #f9f8f3;
@@ -75,17 +84,24 @@
 			margin-bottom: 10px;
 			display: inline-block;
 		}
-		
 		#likesFilter label {
 			margin-right: .3em;
 			font-weight: bold;
 			vertical-align: baseline;
 			margin-left: 1em;
 		}
-		
 		#likesFilter input[type="range"] {
 			margin: 5px 10px;
 		}
+		#sortFilter, #sizeFilter {
+			margin: 10px 10px 10px 0;
+			display: inline-block;
+		}		
+		#sortFilter label, #sizeFilter label {
+			margin-right: 10px;
+			font-weight: bold;
+		}
+
     </style>
 </head>
 <body>
@@ -111,28 +127,54 @@
 	
 		<label for="folderName">Name of images folder:</label>
 		<br>
-		<label for="folderName"><em>The images folder MUST be in the same folder as this web file</em></label>
-		<br>
-		<input type="text" id="folderName" placeholder="Enter folder name">
-		<br>
+<input type="text" id="folderName" placeholder="Enter folder name">
+		<label for="folderName"><em>(The images folder MUST be in the same folder as this web file)</em></label>
 		<br>
 		<br>    
 		<button onclick="loadImages()">Display Images</button>
     </div>
-	<div>
-	<!-- Search Box --> <span class="search-container"> <input type="text" id="searchInput" class="search-input" placeholder="Search..." oninput="filterImages()" /> <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 2c-4.418 0-8 3.582-8 8 0 1.842.636 3.539 1.707 4.892l-3.707 3.707 1.414 1.414 3.707-3.707c1.354 1.071 3.05 1.707 4.892 1.707 4.418 0 8-3.582 8-8s-3.582-8-8-8zm0 14c-3.313 0-6-2.687-6-6s2.687-6 6-6 6 2.687 6 6-2.687 6-6 6zm13.293 5.293l-4.939-4.939c1.167-1.44 1.847-3.253 1.847-5.354 0-4.418-3.582-8-8-8s-8 3.582-8 8 3.582 8 8 8c2.101 0 4.063-.684 5.495-1.848l4.939 4.939 1.414-1.414z"/></svg> <svg class="cancel-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" onclick="clearSearch()"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6 16.5l-1.5 1.5-4.5-4.5-4.5 4.5-1.5-1.5 4.5-4.5-4.5-4.5 1.5-1.5 4.5 4.5 4.5-4.5 1.5 1.5-4.5 4.5 4.5 4.5z"/></svg> </span> 
-	<span id="likesFilter">
-		<label for="minLikes">Likes minimum:</label>
-		<input type="range" id="minLikes" min="0" max="1000" step="1" value="0" oninput="updateLikesFilter()">
-		<span id="minLikesValue">0</span>
-		<label for="maxLikes">maximum:</label>
-		<input type="range" id="maxLikes" min="0" max="1000" step="1" value="1000" oninput="updateLikesFilter()">
-		<span id="maxLikesValue">1000</span>
-	</span>
+	<div id="controlsContainer">
+		<!-- Search Box --> <span class="search-container"> <input type="text" id="searchInput" class="search-input" placeholder="Search..." oninput="filterImages()" /> <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 2c-4.418 0-8 3.582-8 8 0 1.842.636 3.539 1.707 4.892l-3.707 3.707 1.414 1.414 3.707-3.707c1.354 1.071 3.05 1.707 4.892 1.707 4.418 0 8-3.582 8-8s-3.582-8-8-8zm0 14c-3.313 0-6-2.687-6-6s2.687-6 6-6 6 2.687 6 6-2.687 6-6 6zm13.293 5.293l-4.939-4.939c1.167-1.44 1.847-3.253 1.847-5.354 0-4.418-3.582-8-8-8s-8 3.582-8 8 3.582 8 8 8c2.101 0 4.063-.684 5.495-1.848l4.939 4.939 1.414-1.414z"/></svg> <svg class="cancel-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" onclick="clearSearch()"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6 16.5l-1.5 1.5-4.5-4.5-4.5 4.5-1.5-1.5 4.5-4.5-4.5-4.5 1.5-1.5 4.5 4.5 4.5-4.5 1.5 1.5-4.5 4.5 4.5 4.5z"/></svg> </span> 
+		<span id="sizeFilter">
+			<label for="sizeOptions">Size:</label>
+			<select id="sizeOptions" onchange="filterImages()">
+				<option value="s0">1. Small</option>
+				<option value="s1">2. Medium</option>
+				<option value="s2">3. Large</option>
+				<option value="s3">4. Extra Large</option>
+			</select>
+		</span>
+		<span id="sortFilter">
+			<label for="sortOptions">Sort by:</label>
+			<select id="sortOptions" onchange="filterImages()">
+				<option value="original">Unsorted</option>
+				<option value="likesAsc">Likes (Ascending)</option>
+				<option value="likesDesc">Likes (Descending)</option>
+				<option value="nameAsc">Image Name (A-Z)</option>
+				<option value="nameDesc">Image Name (Z-A)</option>
+				<option value="altAsc">Image Prompt (A-Z)</option>
+				<option value="altDesc">Image Prompt (Z-A)</option>
+			</select>
+		</span>
+		<span id="likesFilter">
+			<label for="minLikes">Likes minimum:</label>
+			<input type="range" id="minLikes" min="0" max="1000" step="1" value="0" oninput="updateLikesFilter()">
+			<span id="minLikesValue">0</span>
+			<label for="maxLikes">maximum:</label>
+			<input type="range" id="maxLikes" min="0" max="1000" step="1" value="1000" oninput="updateLikesFilter()">
+			<span id="maxLikesValue">1000</span>
+		</span>
 	</div>
 
     <div id="gallery"></div>
+    
     <script>
+		const imageSizes = {
+			s0: 120,
+			s1: 220,
+			s2: 320,
+			s3: 620,
+		};
         let jsonData = [];
 
         function clearJSON() {
@@ -193,33 +235,42 @@
             jsonData.forEach((data, index) => {
                 const imgContainer = document.createElement('div');
                 imgContainer.className = 'image-container';
-
+				imgContainer.dataset.index = index;
+                imgContainer.dataset.src = data.src;
+                imgContainer.dataset.href = data.href;
+                imgContainer.dataset.alt = data.alt;
+                imgContainer.dataset.likes = parseInt(data.likes, 10);;
+				
                 const img = document.createElement('img');
                 img.alt = data.alt;
 
-                const likes = document.createElement('div');
-                likes.className = 'likes';
-                likes.innerHTML = `❤️ ${data.likes}`;
-				maxLikes = Math.max(maxLikes, parseInt(data.likes, 10));
+                const likesbox = document.createElement('div');
+                likesbox.className = 'likes';
+                likesbox.innerHTML = `❤️ ${imgContainer.dataset.likes}`;
+				maxLikes = Math.max(maxLikes, imgContainer.dataset.likes);
 				
                 const copyPrompt = document.createElement('div');
                 copyPrompt.className = 'copy-prompt';
                 copyPrompt.innerHTML = ` <svg xmlns="http://www.w3.org/2000/svg" class="copy-icon" viewBox="0 0 24 24"> <path d="M20 2H10c-1.103 0-2 .897-2 2v4H4c-1.103 0-2 .897-2 2v10c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2v-4h4c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zM4 20V10h10l.002 10H4zm16-6h-4v-4c0-1.103-.897-2-2-2h-4V4h10v10z"></path> </svg> `;
                 copyPrompt.onclick = () => {
-                    navigator.clipboard.writeText(data.alt).then(() => {
+                    navigator.clipboard.writeText(imgContainer.dataset.alt).then(() => {
                         showStickyMessage('Prompt copied to clipboard');
                     });
                 };
 
                 imgContainer.appendChild(img);
-                imgContainer.appendChild(likes);
+                imgContainer.appendChild(likesbox);
                 imgContainer.appendChild(copyPrompt);
                 gallery.appendChild(imgContainer);
 
                 const srcUrl = data.src.replace('https://images.playground.com', folderName);
                 const hrefUrl = `${folderName}${data.href.replace('/post', '')}`;
+				const srcFile = srcUrl.slice(folderName.length + 1);
+				const hrefFile = hrefUrl.slice(folderName.length + 1);
+				const thisFile = window.location.pathname.split('/').at(-1);
 
                 img.src = srcUrl;
+                imgContainer.dataset.url = img.src;
 
                 img.onload = () => {
                     if (!folderValid) {
@@ -230,12 +281,15 @@
 
                 img.onerror = () => {
                     img.src = `${hrefUrl}.jpeg`;
+					imgContainer.dataset.url = img.src;
                     img.onerror = () => {
                         img.src = `${hrefUrl}.jpg`;
+						imgContainer.dataset.url = img.src;
                         img.onerror = () => {
                             img.src = `${hrefUrl}.png`;
+							imgContainer.dataset.url = img.src;
                             img.onerror = () => {
-                                imgContainer.innerHTML = `${data.src} - ${data.href} not found in your ${folderName} folder (in the same place as this ${window.location.pathname} file).`;
+                                imgContainer.innerHTML = `No image named '${srcFile}' or '${hrefFile}' was found in your '${folderName}' folder, assuming that it is in the same parent folder as this '${thisFile}' file.`;
                                 failedCount++;
                                 if (index < 20 && failedCount === 20) {
                                     showStickyError('The folder seems not to be found.');
@@ -256,18 +310,43 @@
 			maxElement.dispatchEvent(new Event("change"));
         }
 
+		// Resize images based on selected size
+		function updateImageSizes() {
+			const selectedSize = document.getElementById('sizeOptions').value;
+			const newSize = imageSizes[selectedSize];
+		
+			const images = document.querySelectorAll('.image-container img');
+			images.forEach((img) => {
+				img.style.maxWidth = `${newSize}px`;
+				img.style.maxHeight = `${newSize}px`;
+			});
+		
+			// Save the selection to localStorage
+			localStorage.setItem('selectedImageSize', selectedSize);
+		}
+		
+		// Restore image size from localStorage
+		function restoreImageSize() {
+			const savedSize = localStorage.getItem('selectedImageSize') || 's1'; // Default to 's1'
+			document.getElementById('sizeOptions').value = savedSize;
+			updateImageSizes();
+		}
+		
 		function filterImages() {
             const searchText = document.getElementById('searchInput').value.toLowerCase();
             const imageContainers = document.querySelectorAll('.image-container');
 			const minLikes = parseInt(document.getElementById('minLikes').value, 10);
 			const maxLikes = parseInt(document.getElementById('maxLikes').value, 10);
-		
+		    const sortOption = document.getElementById('sortOptions').value;
+			
 			document.getElementById('minLikesValue').textContent = minLikes;
 			document.getElementById('maxLikesValue').textContent = maxLikes;
+			
+			updateImageSizes();
 
             imageContainers.forEach(container => {
-                const altText = container.querySelector('img').alt.toLowerCase();
-                const likes = parseInt(container.querySelector('.likes').textContent.slice(2), 10);
+                const altText = container.dataset.alt.toLowerCase();
+                const likes = container.dataset.likes;
                 let visible = true;
 				if (likes < minLikes || likes > maxLikes) {
 					visible = false;
@@ -281,7 +360,32 @@
                     container.style.display = 'none';
                 }
             });
-
+			// Sort based on the selected option
+			const containerArray = Array.from(imageContainers);
+			switch (sortOption) {
+				case 'likesAsc':
+					containerArray.sort((a, b) => a.dataset.likes - b.dataset.likes);
+					break;
+				case 'likesDesc':
+					containerArray.sort((a, b) => b.dataset.likes - a.dataset.likes);
+					break;
+				case 'altAsc':
+					containerArray.sort((a, b) => a.dataset.alt.localeCompare(b.dataset.alt));
+					break;
+				case 'altDesc':
+					containerArray.sort((a, b) => b.dataset.alt.localeCompare(a.dataset.alt));
+					break;
+				case 'nameAsc':
+					containerArray.sort((a, b) => a.dataset.url.localeCompare(b.dataset.url));
+					break;
+				case 'nameDesc':
+					containerArray.sort((a, b) => b.dataset.url.localeCompare(a.dataset.url));
+					break;
+				// No sorting for 'original'
+			}
+			// Re-append sorted elements to the container 
+			containerArray.forEach(container => { container.parentNode.appendChild(container); });
+            
             const cancelIcon = document.querySelector('.cancel-icon');
             if (searchText) {
                 cancelIcon.style.display = 'block';
@@ -301,6 +405,10 @@
 
         // Load the previously successful folder name if available
         window.onload = () => {
+			
+			restoreImageSize();
+			document.getElementById('sizeOptions').addEventListener('change', filterImages);
+			
             const savedFolderName = localStorage.getItem('folderName');
             if (savedFolderName) {
                 document.getElementById('folderName').value = savedFolderName;
@@ -308,5 +416,5 @@
             }
         };
     </script>
-</body>
+</body><!--Gallery Viewer by Andrew Kingdom-->
 </html>
