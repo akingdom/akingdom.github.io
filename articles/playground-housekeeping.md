@@ -19,10 +19,10 @@ This also gives you a HTML file which does contain all your prompts.
 To get the prompts there are two main ways I use: *My decoder* or the below *Javascript*. 
 
 ### A. Simple Prompt tool
-See your prompts by uploading your saved .html file (as mentioned above) via my [Prompt extractor](https://akingdom.github.io/ai_tools/prompt-extraction.html). This works for several AI art tools, not only Playground.
+See your prompts by uploading your saved .html file (as mentioned above) via my [Prompt extractor](../ai_tools/prompt-extraction.html). This works for several AI art tools, not only Playground.
 
 ### B. Data format Prompt tool (recommended)
-Grab your prompts along with their likes by uploading your saved .html file (as mentioned above) via my [prompt HTML to JSON tool](https://akingdom.github.io/ai_tools/prompt-html-to-json.html). This lets you save your prompts, likes and image links for use with my gallery viewer on your computer (see below).
+Grab your prompts along with their likes by uploading your saved .html file (as mentioned above) via my [prompt HTML to JSON tool](../ai_tools/prompt-html-to-json.html). This lets you save your prompts, likes and image links for use with my gallery viewer on your computer (see below).
 
 Caveat: I've not tested if Playground truncates (cuts short) prompts in this manner versus when you're viewing the individual images.
 
