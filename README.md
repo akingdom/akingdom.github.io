@@ -21,12 +21,12 @@ AUTHOR:      Andrew Kingdom
 ### Work I do
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 
-- <span class="icon-mobile"></span><label>App Maintenance</label>: Keeping your mobile apps running smoothly.
-- <span class="icon-web"></span><label>Minimalist Websites</label>: Streamlined one page websites.
-- <span class="icon-person"></span><label>English Language</label>: Help with English for non-native speakers.
-- <span class="icon-thing1"></span><label>Freelancer & Tutor for hire</label>: I provide support with any IT challenge, big or small. I offer tutoring in programming, electronics, genealogy.
-- <span class="icon-thing2"></span><label>Code Language Translation</label>: Translating programs between computer languages.
-- <span class="icon-game"></span><label>English Language</label>: Building data transformation pipelines.
+- <span class="xicon-mobile"></span><label>App Maintenance</label>: Keeping your mobile apps running smoothly.
+- <span class="xicon-web"></span><label>Minimalist Websites</label>: Streamlined one page websites.
+- <span class="xicon-person"></span><label>English Language</label>: Help with English for non-native speakers.
+- <span class="xicon-thing1"></span><label>Freelancer & Tutor for hire</label>: I provide support with any IT challenge, big or small. I offer tutoring in programming, electronics, genealogy.
+- <span class="xicon-thing2"></span><label>Code Language Translation</label>: Translating programs between computer languages.
+- <span class="xicon-game"></span><label>English Language</label>: Building data transformation pipelines.
 - And much more!
 
 **"Together, let’s turn ideas into reality. Reach out to start your journey!"**
