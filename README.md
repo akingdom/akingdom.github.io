@@ -128,6 +128,7 @@ I have a wide range of interests that inform my work and approach:
 <script src="js/hide_github_title.js"></script>
 <script src="js/qrcode.js"></script>
 <script type="text/javascript">// generateQRCode
-    new QRCode(document.getElementById("qrcode"), 'https://akingdom.github.io'); </script>
+    window.addEventListener('DOMContentLoaded', () => {
+        new QRCode(document.getElementById("qrcode"), 'https://akingdom.github.io'); } </script>
 <script src="js/random_quote.js"></script>
 <script src="js/tawk_to.js"></script>
