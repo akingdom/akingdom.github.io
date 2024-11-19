@@ -24,8 +24,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 - **App Maintenance**: Keeping your mobile apps running smoothly.
 - **Minimalist Websites**: Streamlined one page websites.
 - **English Language**: Help with English for non-native speakers.
-- **Freelancer for hire**: I provide support with any IT challenge, big or small.
-- **Tutor**: I offer tutoring in programming, electronics.
+- **Freelancer & Tutor for hire**: I provide support with any IT challenge, big or small. I offer tutoring in programming, electronics, genealogy.
 - **Language Translation**: Translating programs between computer languages.
 - **Data Solutions**: Building data transformation pipelines.
 - And much more!
