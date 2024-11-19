@@ -194,7 +194,7 @@ body {
     text-align: center;
     width: 60px;
     height: 60px;
-    background: url('/images/icons.png') no-repeat;
+    background: url('https://akingdom.github.io/images/icons.png') no-repeat;
     background-size: 240px 240px; /* Adjust based on your sprite sheet size */
 }
 .icon-contact { background-position: 0 0; }

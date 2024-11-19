@@ -21,6 +21,7 @@ AUTHOR:      Andrew Kingdom
 ### Work I do
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 
+- <div class="icon-contact"><label>App Maintenance</label>: Keeping your mobile apps running smoothly.</div>
 - **App Maintenance**: Keeping your mobile apps running smoothly.
 - **Minimalist Websites**: Streamlined one page websites.
 - **English Language**: Help with English for non-native speakers.
