@@ -172,21 +172,25 @@ body {
 }
 
 /* icon set */
-.icon-contact,
-.icon-expertise,
-.icon-maintenance,
-.icon-websites,
-.icon-language,
-.icon-tutor,
-.icon-translation,
-.icon-data,
-.icon-ai,
-.icon-technology,
-.icon-nature,
-.icon-thinking,
-.icon-history,
-.icon-food,
-.icon-creative,
+.icon-pencil,
+.icon-document,
+.icon-mobile,
+.icon-desktop,
+.icon-tablet,
+.icon-art,
+.icon-web,
+.icon-chat,
+.icon-thing1,
+.icon-person,
+.icon-controls,
+.icon-lightbulb,
+.icon-emailapp,
+.icon-email,
+.icon-smartdoc,
+.icon-thing2,
+.icon-chat2,
+.icon-game,
+.icon-odddoc,
 .icon-gear
 {
     display: inline-block;
@@ -196,19 +200,26 @@ body {
     background-size: calc(941px / 4) calc(1024px / 5);
     vertical-align: middle; /* Align icons with text */
 }
-.icon-contact { background-position: calc(-42px * 0) calc(-56px * 0); }
-.icon-expertise { background-position: calc(-42px * 1) calc(-56px * 0); }
-.icon-maintenance { background-position: calc(-42px * 2) calc(-56px * 0); }
-.icon-websites { background-position: calc(-42px * 3) calc(-56px * 0); }
-.icon-language { background-position: calc(-42px * 0) calc(-56px * 1); }
-.icon-tutor { background-position: calc(-42px * 1) calc(-56px * 1); }
-.icon-translation { background-position: calc(-42px * 2) calc(-56px * 1); }
-.icon-data { background-position: calc(-42px * 3) calc(-56px * 1); }
-.icon-ai { background-position: calc(-42px * 0) calc(-56px * 2); }
-.icon-technology { background-position: calc(-42px * 1) calc(-56px * 2); }
-.icon-nature { background-position: calc(-42px * 2) calc(-56px * 2); }
-.icon-thinking { background-position: calc(-42px * 3) calc(-56px * 2); }
-.icon-history { background-position: calc(-42px * 0) calc(-56px * 3); }
-.icon-food { background-position: calc(-42px * 1) calc(-56px * 3); }
-.icon-creative { background-position: calc(-42px * 2) calc(-56px * 3); }
-.icon-gear { background-position: calc(-42px * 3) calc(-56px * 3); }
+.icon-pencil { background-position: calc(-42px * 0) calc(-56px * 0); }
+.icon-document { background-position: calc(-42px * 1) calc(-56px * 0); }
+.icon-mobile { background-position: calc(-42px * 2) calc(-56px * 0); }
+.icon-desktop { background-position: calc(-42px * 3) calc(-56px * 0); }
+.icon-tablet { background-position: calc(-42px * 4) calc(-56px * 0); }
+
+.icon-art { background-position: calc(-42px * 0) calc(-56px * 1); }
+.icon-web { background-position: calc(-42px * 1) calc(-56px * 1); }
+.icon-chat { background-position: calc(-42px * 2) calc(-56px * 1); }
+.icon-thing1 { background-position: calc(-42px * 3) calc(-56px * 1); }
+.icon-person { background-position: calc(-42px * 4) calc(-56px * 1); }
+
+.icon-controls { background-position: calc(-42px * 0) calc(-56px * 2); }
+.icon-lightbulb { background-position: calc(-42px * 1) calc(-56px * 2); }
+.icon-emailapp { background-position: calc(-42px * 2) calc(-56px * 2); }
+.icon-email { background-position: calc(-42px * 3) calc(-56px * 2); }
+.icon-smartdoc { background-position: calc(-42px * 4) calc(-56px * 2); }
+
+.icon-thing2 { background-position: calc(-42px * 0) calc(-56px * 3); }
+.icon-chat2 { background-position: calc(-42px * 1) calc(-56px * 3); }
+.icon-game { background-position: calc(-42px * 2) calc(-56px * 3); }
+.icon-odddoc { background-position: calc(-42px * 3) calc(-56px * 3); }
+.icon-gear { background-position: calc(-42px * 4) calc(-56px * 3); }
