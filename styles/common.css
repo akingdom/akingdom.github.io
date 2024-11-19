@@ -170,3 +170,45 @@ body {
 .footer a:hover {
   color: #FF6F61; /* Light Coral - Hover state for footer links */
 }
+
+/* icon set */
+.icon-contact,
+.icon-expertise,
+.icon-maintenance,
+.icon-websites,
+.icon-language,
+.icon-tutor,
+.icon-translation,
+.icon-data,
+.icon-ai,
+.icon-technology,
+.icon-nature,
+.icon-thinking,
+.icon-history,
+.icon-food,
+.icon-creative
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    background: url('/images/icons.png') no-repeat;
+    background-size: 240px 240px; /* Adjust based on your sprite sheet size */
+}
+.icon-contact { background-position: 0 0; }
+.icon-expertise { background-position: -60px 0; }
+.icon-maintenance { background-position: -120px 0; }
+.icon-websites { background-position: -180px 0; }
+.icon-language { background-position: 0 -60px; }
+.icon-tutor { background-position: -60px -60px; }
+.icon-translation { background-position: -120px -60px; }
+.icon-data { background-position: -180px -60px; }
+.icon-ai { background-position: 0 -120px; }
+.icon-technology { background-position: -60px -120px; }
+.icon-nature { background-position: -120px -120px; }
+.icon-thinking { background-position: -180px -120px; }
+.icon-history { background-position: 0 -180px; }
+.icon-food { background-position: -60px -180px; }
+.icon-creative { background-position: -120px -180px; }
