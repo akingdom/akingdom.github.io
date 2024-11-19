@@ -21,9 +21,10 @@ AUTHOR:      Andrew Kingdom
 ### Work I do
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 
+- **App Maintenance**: Keeping your mobile apps running smoothly.
+- **Minimalist Websites**: Streamlined one page websites.
 - **Freelancer for hire**: I provide support with any IT challenge, big or small.
 - **Tutor**: I offer tutoring in programming, electronics, and English for non-native speakers.
-- **App Maintenance**: Keeping your mobile apps running smoothly.
 - **Language Translation**: Translating programs between computer languages.
 - **Data Solutions**: Building data transformation pipelines.
 - And much more!
@@ -47,6 +48,21 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 
 <div id="quote-container"></div>
 
+### Technology Expertise
+- **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
+	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
+	- **Read more**: [Source Code Extracts](https://gist.github.com/akingdom) Gist
+	- **Read more**: [Guides](index.md#guides) - Excel, Xcode, Blender
+	- **Read more**: [Standards](index.md#standards) - mostly formats for data storage and transport
+- **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
+- **Development Tools**: Streamlining development of software. 
+	- **Read more**: [RTF viewer](https://akingdom.github.io/markdown_tools/rtfreader.html) (simple)
+	- **Read more**: [Markdown viewer](https://akingdom.github.io/markdown_tools/markdown_viewer.html) (simple)
+	- **Read more**: [Generate markdown Table-of-contents](https://akingdom.github.io/markdown_tools/markdown_toc.html)
+	- **Read more**: [Markdown links to all your Github projects](https://akingdom.github.io/git-me/) - list all your repositories and gists in markdown format.
+	- **Read more**: [Duplicate Word Highlighter](https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html) - quickly locating duplicate words in text.
+
 ### Interests
 I have a wide range of interests that inform my work and approach:
 
@@ -69,20 +85,6 @@ I have a wide range of interests that inform my work and approach:
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
-### Technology Expertise
-- **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
-	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
-	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
-	- **Read more**: [Source Code Extracts](https://gist.github.com/akingdom) Gist
-	- **Read more**: [Guides](index.md#guides) - Excel, Xcode, Blender
-	- **Read more**: [Standards](index.md#standards) - mostly formats for data storage and transport
-- **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
-- **Development Tools**: Streamlining development of software. 
-	- **Read more**: [RTF viewer](https://akingdom.github.io/markdown_tools/rtfreader.html) (simple)
-	- **Read more**: [Markdown viewer](https://akingdom.github.io/markdown_tools/markdown_viewer.html) (simple)
-	- **Read more**: [Generate markdown Table-of-contents](https://akingdom.github.io/markdown_tools/markdown_toc.html)
-	- **Read more**: [Markdown links to all your Github projects](https://akingdom.github.io/git-me/) - list all your repositories and gists in markdown format.
-	- **Read more**: [Duplicate Word Highlighter](https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html) - quickly locating duplicate words in text.
 ### Quotes
 
 > A movie is never really finished, just released. - Bonnie Arnold, a producer of the 'How to Train Your Dragon' movies.
