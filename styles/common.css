@@ -186,7 +186,8 @@ body {
 .icon-thinking,
 .icon-history,
 .icon-food,
-.icon-creative
+.icon-creative,
+.icon-gear
 {
     display: inline-block;
     width: 45px; /* Adjust size as needed */
@@ -195,18 +196,19 @@ body {
     background-size: calc(941px / 4) calc(1024px / 5);
     vertical-align: middle; /* Align icons with text */
 }
-.icon-contact { background-position: 0 0; }
-.icon-expertise { background-position: -60px 0; }
-.icon-maintenance { background-position: -120px 0; }
-.icon-websites { background-position: -180px 0; }
-.icon-language { background-position: 0 -60px; }
-.icon-tutor { background-position: -60px -60px; }
-.icon-translation { background-position: -120px -60px; }
-.icon-data { background-position: -180px -60px; }
-.icon-ai { background-position: 0 -120px; }
-.icon-technology { background-position: -60px -120px; }
-.icon-nature { background-position: -120px -120px; }
-.icon-thinking { background-position: -180px -120px; }
-.icon-history { background-position: 0 -180px; }
-.icon-food { background-position: -60px -180px; }
-.icon-creative { background-position: -120px -180px; }
+.icon-contact { background-position: calc(-42px * 0) calc(-56px * 0); }
+.icon-expertise { background-position: calc(-42px * 1) calc(-56px * 0); }
+.icon-maintenance { background-position: calc(-42px * 2) calc(-56px * 0); }
+.icon-websites { background-position: calc(-42px * 3) calc(-56px * 0); }
+.icon-language { background-position: calc(-42px * 0) calc(-56px * 1); }
+.icon-tutor { background-position: calc(-42px * 1) calc(-56px * 1); }
+.icon-translation { background-position: calc(-42px * 2) calc(-56px * 1); }
+.icon-data { background-position: calc(-42px * 3) calc(-56px * 1); }
+.icon-ai { background-position: calc(-42px * 0) calc(-56px * 2); }
+.icon-technology { background-position: calc(-42px * 1) calc(-56px * 2); }
+.icon-nature { background-position: calc(-42px * 2) calc(-56px * 2); }
+.icon-thinking { background-position: calc(-42px * 3) calc(-56px * 2); }
+.icon-history { background-position: calc(-42px * 0) calc(-56px * 3); }
+.icon-food { background-position: calc(-42px * 1) calc(-56px * 3); }
+.icon-creative { background-position: calc(-42px * 2) calc(-56px * 3); }
+.icon-gear { background-position: calc(-42px * 3) calc(-56px * 3); }
