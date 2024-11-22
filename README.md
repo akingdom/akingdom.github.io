@@ -10,7 +10,7 @@ AUTHOR:      Andrew Kingdom
 
 -->
 <link rel="stylesheet" href="styles/common.css">
-<div id="qrcode" style="position: absolute; left: 1em; top: 1em; clear:both;"></div>
+<div id="qrcode" style="position: absolute; left: 1em; top: 1em; width:4em; height:4em;"></div>
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
@@ -21,13 +21,12 @@ AUTHOR:      Andrew Kingdom
 ### Work I do
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 
-- <div class="icon-contact"><label>App Maintenance</label>: Keeping your mobile apps running smoothly.</div>
-- **App Maintenance**: Keeping your mobile apps running smoothly.
-- **Minimalist Websites**: Streamlined one page websites.
-- **English Language**: Help with English for non-native speakers.
-- **Freelancer & Tutor for hire**: I provide support with any IT challenge, big or small. I offer tutoring in programming, electronics, genealogy.
-- **Language Translation**: Translating programs between computer languages.
-- **Data Solutions**: Building data transformation pipelines.
+- <span class="xicon-mobile"></span><label>App Maintenance</label>: Keeping your mobile apps running smoothly.
+- <span class="xicon-web"></span><label>Minimalist Websites</label>: Streamlined one page websites.
+- <span class="xicon-person"></span><label>English Language</label>: Help with English for non-native speakers.
+- <span class="xicon-thing1"></span><label>Freelancer & Tutor for hire</label>: I provide support with any IT challenge, big or small. I offer tutoring in programming, electronics, genealogy.
+- <span class="xicon-thing2"></span><label>Code Language Translation</label>: Translating programs between computer languages.
+- <span class="xicon-game"></span><label>English Language</label>: Building data transformation pipelines.
 - And much more!
 
 **"Together, let’s turn ideas into reality. Reach out to start your journey!"**
@@ -128,7 +127,8 @@ I have a wide range of interests that inform my work and approach:
 <script src="js/pykelet.js"></script>
 <script src="js/hide_github_title.js"></script>
 <script src="js/qrcode.js"></script>
-<script>// generateQRCode
-	QRCode(document.getElementById('qrcode'), { text: 'https://akingdom.github.io', width: 128, height: 128 });</script>
+<script type="text/javascript">// generateQRCode
+    window.addEventListener('DOMContentLoaded', () => {
+        new QRCode(document.getElementById("qrcode"), 'https://akingdom.github.io'); }); </script>
 <script src="js/random_quote.js"></script>
 <script src="js/tawk_to.js"></script>
