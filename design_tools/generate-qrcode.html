@@ -26,6 +26,10 @@
 			border-style: dotted;
 			width: fit-content;
         }
+        #footer {
+        	position:absolute;
+        	bottom: 0.6em;
+        }
     </style>
     <script src="../js/qrcode.js"></script>
 </head>
@@ -46,6 +50,9 @@
         <p id="usage-text">Scan the QR code with your smartphone's camera or a QR code reader app to open the web address on your phone.</p>
 		<button onclick="copyUsageText()">Copy Explanation</button>
     </div>
+
+	<div id="footer">The word "QR Code" is registered trademark of <a href="http://www.denso-wave.com/qrcode/faqpatent-e.html">Denso Wave Incorporated</a>
+	</div>
 
     <script>
         function generateQRCode() {
