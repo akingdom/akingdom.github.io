@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <style>
+        body {
+            background-color: #F5DEB3; /* Slightly warm background color */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        #qrcode {
+            margin-top: 20px;
+            margin-bottom: 20px;
+			justify-items: center;
+        }
+        #instructions, #usage {
+            margin-top: 30px;
+            justify-items: center;
+        }
+        #usage-text {
+			background-color: white;
+			border-color: #777777;
+			border-style: dotted;
+			width: fit-content;
+        }
+    </style>
+    <script src="../js/qrcode.js"></script>
+</head>
+<body>
+    <a href="..">Menu</a>
+    <h1>QR Code Generator</h1>
+    <p>This tool generates a QR code based on the web address you enter. Simply type or paste the URL in the field below, and the QR code will update automatically. You can also copy the QR code image to the clipboard or download the image.</p>
+
+    <label for="url-input">Web Address the QR code will link to:</label><br>
+    <input type="text" id="url-input" placeholder="Enter URL here" oninput="generateQRCode()" style="width: 80%; padding: 10px; margin-top: 10px;"><br>
+
+    <div id="qrcode"></div>
+    <button onclick="copyQRCode()">Copy QR Code</button>
+    <button onclick="downloadQRCode()">Download QR Code</button>
+
+    <div id="instructions">
+        <h4>How people should use your QR Code</h4>
+        <p id="usage-text">Scan the QR code with your smartphone's camera or a QR code reader app to open the web address on your phone.</p>
+		<button onclick="copyUsageText()">Copy Explanation</button>
+    </div>
+
+    <script>
+        function generateQRCode() {
+            var url = document.getElementById("url-input").value;
+            var qrcodeContainer = document.getElementById("qrcode");
+            qrcodeContainer.innerHTML = "";
+            var qrcode = new QRCode(qrcodeContainer, {
+                text: url,
+                width: 128,
+                height: 128
+            });
+        }
+
+        function sanitizeFilename(url) {
+            return url.replace(/^.*:\/\//, '') // Remove scheme
+                      .replace(/[ $_.+!'(),<>:"/\\|?*$\x00-\x1f]/g, '-') // Replace specified chars with hyphens
+                      .replace(/^-+|-+$/g, '') // Trim leading/trailing hyphens
+                      .substring(0, 40); // Limit to first 40 characters
+        }
+
+        function copyQRCode() {
+            var canvas = document.querySelector('#qrcode canvas');
+            canvas.toBlob(function(blob) {
+                var item = new ClipboardItem({'image/png': blob});
+                navigator.clipboard.write([item]).then(function() {
+                    alert("QR code copied to clipboard!");
+                });
+            });
+        }
+
+        function downloadQRCode() {
+            var canvas = document.querySelector('#qrcode canvas');
+            var url = document.getElementById("url-input").value;
+            var filename = sanitizeFilename(url) + ".png";
+            var link = document.createElement('a');
+            link.href = canvas.toDataURL();
+            link.download = filename;
+            link.click();
+        }
+
+        function copyUsageText() {
+            var usageText = document.getElementById("usage-text").textContent;
+            navigator.clipboard.writeText(usageText).then(function() {
+                alert("Usage explanation copied to clipboard!");
+            });
+        }
+    </script>
+
+</body>
+</html>
