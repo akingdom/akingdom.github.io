@@ -1,6 +1,6 @@
 ### **Promoting and Selling External Digital Content in Apple Apps**
 
-This document is intended to be fair, accurate, and comprehensive, based on the latest Apple Developer Program License Agreement:
+This document is intended to help provide clarity and comprehensiveness regarding Apple's requirements for promoting and selling external digital content within apps, based on the latest Apple Developer Program License Agreement, in a fair, accurate, and comprehensive manner:
 
 #### **Promoting External Digital Content**
 
@@ -64,4 +64,3 @@ This document is intended to be fair, accurate, and comprehensive, based on the 
 
 ---
 
-This should ensure clarity and comprehensiveness regarding Apple's requirements for promoting and selling external digital content within apps. Let me know if you need any more adjustments or further information! 😊
