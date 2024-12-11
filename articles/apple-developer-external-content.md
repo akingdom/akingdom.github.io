@@ -1,4 +1,4 @@
-### **Promoting and Selling External Digital Content in Apple Apps**
+### **Promoting and Selling External Digital Content in Apple Apps** - December 2024
 
 This document is intended to help provide clarity and comprehensiveness regarding Apple's requirements for promoting and selling external digital content within apps, based on the latest Apple Developer Program License Agreement, in a fair, accurate, and comprehensive manner:
 
