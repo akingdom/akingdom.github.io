@@ -57,8 +57,8 @@ This document is intended to help provide clarity and comprehensiveness regardin
 
 ---
 
-### **Practical Example for a Puppy Care PDF Guide**
-- **Promotion**: A dedicated page in your app can highlight your puppy care guide.
+### **Practical Example (a PDF Guide)**
+- **Promotion**: A dedicated page in your app can highlight your guide.
 - **Free Manual**: Embed the guide in your app or link to an external PDF. No App Store link is required.
 - **Paid Guide**: Offer it via in-app purchase or provide an App Store link to an equivalent item. If sold externally, include the required warning notice.
 
