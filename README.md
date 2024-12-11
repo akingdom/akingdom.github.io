@@ -56,6 +56,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	- **Read more**: [Guides](index.md#guides) - Excel, Xcode, Blender
 	- **Read more**: [Standards](index.md#standards) - mostly formats for data storage and transport
 - **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
+	- **Read more**: [Promoting and Selling External Digital Content in Apple Apps](https://akingdom.github.io/articles/apple-developer-external-content.md) 
 - **Development Tools**: Streamlining development of software. 
 	- **Read more**: [RTF viewer](https://akingdom.github.io/markdown_tools/rtfreader.html) (simple)
 	- **Read more**: [Markdown viewer](https://akingdom.github.io/markdown_tools/markdown_viewer.html) (simple)
