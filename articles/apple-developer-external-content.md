@@ -22,7 +22,7 @@ This document is intended to help provide clarity and comprehensiveness regardin
 3. **Warning Notice**:
    - **Relevant Text**: "Apps must display a warning to users that Apple is not responsible for the privacy or security of purchases made through external links."
    - **Clarification**: Apps must display a clear notice if users are directed to external purchase platforms. For example:
-     - **Example Warning**: “Purchases made outside this app are not Apple transactions. Apple is not responsible for the privacy or security of these transactions.”
+     - **Example Warning**: “Purchases made outside this app are not Apple transactions, thus Apple is not responsible for the privacy or security of these transactions.”
      - This notice helps users understand that purchases made outside of Apple’s ecosystem carry risks, such as different privacy policies or transaction protections.
 
 #### **Selling External Digital Content**
