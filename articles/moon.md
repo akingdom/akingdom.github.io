@@ -1,6 +1,6 @@
 ## Our Moon: A Celestial Companion
 
-<img src="/articles/moon-PIA00405~large.jpg" style="height:360px; aspect-ratio: 1; background-color: black; margin: 18px; border-radius: 9px;">
+<a href="/articles/moon-PIA00405~large.jpg"><img src="/articles/moon-PIA00405~large.jpg" style="height:360px; aspect-ratio: 1; background-color: black; padding: 18px; border-radius: 9px;"></a>
 
 The Moon, our closest celestial neighbor, has a deep influence on our life on Earth. 
 
