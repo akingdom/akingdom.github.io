@@ -1,7 +1,9 @@
 // File: RTFReader.js
-// Version: 1.2.0, Nov 2024
 // Author: Andrew Kingdom
-// Purpose: JavaScript RTF Reader based on Microsoft RTF parser structure
+// Purpose: A pure JavaScript RTF Reader.
+// Reference: Based on Microsoft RTF parser structure and in part on the related C language example code.
+// Nov 2024
+this.versions={...(this.versions||{}), RTFReader:'1.2.1'};
 
 
 class RTFReader {
