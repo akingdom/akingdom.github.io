@@ -11,7 +11,7 @@ AUTHOR:      Andrew Kingdom
 -->
 <link rel="stylesheet" href="styles/common.css">
 <div id="qrcode" style="position: absolute; left: 1em; top: 1em; width:4em; height:4em;"></div>
-[duckmouse](https://github.com/akingdom/akingdom.github.io/blob/main/ab061526-7358-4d29-9d41-7e72eb1e935d.jpeg)
+<img src="https://github.com/akingdom/akingdom.github.io/blob/main/ab061526-7358-4d29-9d41-7e72eb1e935d.jpeg">
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
