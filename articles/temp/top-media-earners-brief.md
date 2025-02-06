@@ -4,12 +4,7 @@
 <script type="text/javascript">// generateQRCode
     window.addEventListener('DOMContentLoaded', () => {
         new QRCode(document.getElementById("qrcode"), document.location.href); }); </script>
-
-- Andrew K (Article director)
-- AK prompt tools
-- Deepseek
-- ChatGPT
-
+        
 ---
 
 # Maximizing Your Social Media Income: Strategies, Platforms, and Best Practices
