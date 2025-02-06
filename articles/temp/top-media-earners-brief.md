@@ -1,4 +1,9 @@
 <!-- top-media-earners-brief.md -->
+<div id="qrcode" style="position: absolute; left: 1em; top: 1em; width:4em; height:4em;"></div>
+<script src="js/qrcode.js"></script>
+<script type="text/javascript">// generateQRCode
+    window.addEventListener('DOMContentLoaded', () => {
+        new QRCode(document.getElementById("qrcode"), document.location.href); }); </script>
 ---
 - Andrew K (Article director)
 - AK prompt tools
