@@ -55,16 +55,32 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
         .color-14 { background-color: light-dark(#FFCCB3, #FF8C33); color: light-dark(#000, #FFF); }
         .color-15 { background-color: light-dark(#B3FFD9, #33FFBD); color: light-dark(#000, #FFF); }
         .color-16 { background-color: light-dark(#B3B8FF, #336FFF); color: light-dark(#000, #FFF); }
+        #tts-buttons {
+			width: 80%;
+			max-width: 800px;
+        }
+        #tts-buttons button {
+            margin: 0 8px 0 0;
+        }
     </style>
 </head>
 <body>
-<a style="position: absolute;left: .6em;top: 0.4em;" href="https://akingdom.github.io/">Andrew Kingdom</a>
+    <div id="tts-buttons" style="position: absolute;left: .6em;top: 0.4em;">
+<a href="https://akingdom.github.io/" style="padding-right: 8px;">Andrew Kingdom</a>
+    <!-- TTS Buttons -->
+
+      <button id="speakButton">Speak Content</button>
+      <button id="toggleVoiceSelector">Voice Options</button>
+      <select id="voiceSelector" style="display: none;"></select>
+    </div>
     <h1 id="title">Markdown Viewer</h1>
-    <input type="file" id="file-input" accept=".md" />
+      <input type="file" id="file-input" accept=".md" />
     <div id="keywords-container"></div>
     <div id="markdown-container" class="markdown-body"></div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/5.0.2/marked.min.js"></script>
+    <!-- Include the TTS script (adjust the path as needed) -->
+    <script src="../js/tts.js"></script>
     <script>
         
         function displayKeywords(keywords) {
@@ -100,6 +116,7 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
                     const markdownText = e.target.result;
                     const htmlContent = marked.parse(markdownText);
                     document.getElementById('markdown-container').innerHTML = htmlContent;
+					TTS.show();
 
 					// Get PYKELET comments from the markdown container
 					const pykeletComments = getPykeletsFromComments(document.getElementById('markdown-container'));
@@ -126,7 +143,22 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
                 alert('Please upload a valid Markdown (.md) file.');
             }
         });
-    </script>
 
+        // Initialize TTS with element references via parameters.
+        TTS.init({
+          speakButton: '#speakButton',
+          toggleButton: '#toggleVoiceSelector',
+          // Optionally, you can provide a pre-created voice selector element.
+          // If omitted, one will be created and appended to the document.
+          voiceSelector: '#voiceSelector',
+          // Function that returns the text to be spoken (using the rendered Markdown).
+          textProvider: function() {
+            return document.getElementById('markdown-container').innerText;
+          }
+        });
+        document.addEventListener("DOMContentLoaded", (event) => {
+			TTS.hide();
+		});
+    </script>
 </body>
 </html>
