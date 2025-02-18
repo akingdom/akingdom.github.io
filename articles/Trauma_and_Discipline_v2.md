@@ -4,11 +4,9 @@
     window.addEventListener('DOMContentLoaded', () => {
         new QRCode(document.getElementById("qrcode"), document.location.href); }); </script>
 <!-- TTS Buttons -->
-
       <button id="speakButton">Speak Content</button>
       <button id="toggleVoiceSelector">Voice Options</button>
       <select id="voiceSelector" style="display: none;"></select>
-    </div>
 <script src="/js/tts.js"></script>
 <script type="text/javascript">// Text to Speech
 // Initialize TTS with element references via parameters.
