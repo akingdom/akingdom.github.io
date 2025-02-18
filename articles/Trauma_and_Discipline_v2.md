@@ -1,29 +1,31 @@
+<!-- QR Code -->
 <div id="qrcode" style="position: absolute; left: 1em; top: 1em; width:8em; height:8em;"></div>
 <script src="/js/qrcode.js"></script>
 <script type="text/javascript">// generateQRCode
     window.addEventListener('DOMContentLoaded', () => {
-        new QRCode(document.getElementById("qrcode"), document.location.href); }); </script>
+        new QRCode(document.getElementById("qrcode"), document.location.href); }); 
+    </script>
 <!-- TTS Buttons -->
 <button id="speakButton">Speak Content</button>
 <button id="toggleVoiceSelector">Voice Options</button>
 <select id="voiceSelector" style="display: none;"></select>
 <script src="/js/tts.js"></script>
 <script type="text/javascript">// Text to Speech
-    // Initialize TTS with element references via parameters.
-    TTS.init({
-    speakButton: '#speakButton',
-    toggleButton: '#toggleVoiceSelector',
-    // Optionally, you can provide a pre-created voice selector element.
-    // If omitted, one will be created and appended to the document.
-    voiceSelector: '#voiceSelector',
-    // Function that returns the text to be spoken (using the rendered Markdown).
-    textProvider: function() {
-    return document.getElementById('markdown-container').innerText;
-    }
-    });
-    document.addEventListener("DOMContentLoaded", (event) => {
-    TTS.hide();
-    });</script>
+// Initialize TTS with element references via parameters.
+TTS.init({
+speakButton: '#speakButton',
+toggleButton: '#toggleVoiceSelector',
+// Optionally, you can provide a pre-created voice selector element.
+// If omitted, one will be created and appended to the document.
+voiceSelector: '#voiceSelector',
+// Function that returns the text to be spoken (using the rendered Markdown).
+textProvider: function() {
+return document.getElementById('markdown-container').innerText;
+}
+});
+document.addEventListener("DOMContentLoaded", (event) => {
+TTS.show();
+}); </script>
 
 # Trauma and Discipline: A Path to Healing and Wholeness
 
