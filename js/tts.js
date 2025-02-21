@@ -144,10 +144,10 @@ this.versions={...(this.versions||{}), tts:'1.0.15'};
   function togglePauseResume() {
     if (isPaused) {
       window.speechSynthesis.resume();
-      config.speakButton.textContent = 'Pause';
+      config.speakButton.textContent = 'Pause Speech';
     } else {
       window.speechSynthesis.pause();
-      config.speakButton.textContent = 'Resume';
+      config.speakButton.textContent = 'Resume Speech';
     }
     isPaused = !isPaused;
   }
@@ -160,11 +160,11 @@ this.versions={...(this.versions||{}), tts:'1.0.15'};
         const text = config.textProvider();
         if (isPaused) {
           window.speechSynthesis.resume();
-          btn.textContent = 'Pause';
+          btn.textContent = 'Speak Content';
           isPaused = false;
         } else {
           speak(text);
-          btn.textContent = 'Pause';
+          btn.textContent = 'Stop Speech';
           isPaused = true;
         }
       });
