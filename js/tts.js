@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.7'};
+this.versions={...(this.versions||{}), tts:'1.0.8'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -23,6 +23,7 @@ this.versions={...(this.versions||{}), tts:'1.0.7'};
   function createVoiceSelector() {
     const selector = document.createElement('select');
     selector.style.display = 'none'; // Hidden by default
+	selector.id = "voiceSelector"; // Add an ID for easy selection (optional)
     return selector;
   }
 
@@ -74,7 +75,46 @@ this.versions={...(this.versions||{}), tts:'1.0.7'};
     config.voiceSelector.addEventListener('change', () => {
       localStorage.setItem(storageKey, config.voiceSelector.value);
     });
-  }
+
+    // Language Detection and Initial Voice Selection (Correctly placed):
+    let selectedLanguage;
+    const preferredLanguages = navigator.languages;
+    if (preferredLanguages && preferredLanguages.length > 0) {
+		for (const lang of preferredLanguages) {
+			const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(lang));
+			if (availableVoices.length > 0) {
+				selectedLanguage = lang;
+				break;
+			}
+		}
+    }
+
+    if (!selectedLanguage) {
+        const browserLanguage = navigator.language;
+            const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(browserLanguage));
+            if (availableVoices.length > 0) {
+                selectedLanguage = browserLanguage;
+            }
+    }
+
+    if (!selectedLanguage) {
+        selectedLanguage = 'en-US'; // Fallback default
+	}
+
+	const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(selectedLanguage));
+
+	if (availableVoices.length > 0) {
+		let initialVoiceIndex = localStorage.getItem(storageKey);
+		if (initialVoiceIndex && availableVoices[initialVoiceIndex] && availableVoices[initialVoiceIndex].lang.startsWith(selectedLanguage)) {
+			config.voiceSelector.value = initialVoiceIndex;
+		} else {
+			config.voiceSelector.value = 0;
+		}
+	} else {
+		console.error("No suitable voices found for selected language. Using fallback.");
+		config.voiceSelector.value = -1;
+	}
+}
 
   // Speak the provided text using the selected voice.
   function speak(text) {
@@ -83,45 +123,18 @@ this.versions={...(this.versions||{}), tts:'1.0.7'};
 	window.speechSynthesis.cancel();
 	  
     const utterance = new SpeechSynthesisUtterance(text);
-	// Language Detection and Voice Selection:
-	let selectedLanguage;
 
-	const preferredLanguages = navigator.languages;
-	if (preferredLanguages && preferredLanguages.length > 0) {
-		for (const lang of preferredLanguages) {
-			const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(lang));
-			if (availableVoices.length > 0) {
-				selectedLanguage = lang;
-				utterance.voice = availableVoices[0]; // Use the first available voice for the language
-				break;
-			}
-		}
-	}
+        const selectedVoiceIndex = config.voiceSelector.value;
+        if (selectedVoiceIndex >= 0 && voices[selectedVoiceIndex]) {
+            utterance.voice = voices[selectedVoiceIndex];
+        } else {
+            console.error("No voice selected or available.");
+            return;
+    }
 
-	if (!selectedLanguage) {
-		const browserLanguage = navigator.language;
-		const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(browserLanguage));
-		if (availableVoices.length > 0) {
-		  selectedLanguage = browserLanguage;
-		  utterance.voice = availableVoices[0];
-		}
-	}
-
-	if (!selectedLanguage) {
-		selectedLanguage = 'en-US'; // Fallback default
-		const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(selectedLanguage));
-		if (availableVoices.length > 0) {
-			utterance.voice = availableVoices[0];
-		} else {
-			console.error("No suitable voice found for the selected language.");
-			return; // Don't try to speak if no voice is found.
-		}
-	}
-	
-	// Set default values for rate, pitch, and volume
-	utterance.rate = 1;      // Normal speed == 1
-	utterance.pitch = 1;     // Normal pitch == 1
-	utterance.volume = 1;    // Normal volume (0 to 1) == 1
+        utterance.rate = 1;
+        utterance.pitch = 1;
+        utterance.volume = 1;
 
     window.speechSynthesis.speak(utterance);
   }
@@ -189,9 +202,6 @@ this.versions={...(this.versions||{}), tts:'1.0.7'};
       initVoiceSelector();
       attachSpeakButtonListener();
       attachToggleButtonListener();
-	  // Initial language detection and voice setting (optional, but good to do on load)
-	  // Call speak with an empty string or a very short string to trigger the language/voice selection
-	  speak(""); // Or speak("Initializing...");
     },
     speak: speak,
     show: show,
@@ -229,4 +239,6 @@ document.addEventListener('DOMContentLoaded', () => {  // Wait for the DOM to lo
     })
 
 });
+// Clear the default voice if desired for testing
+// localStorage.removeItem('selectedVoice'); 
 */
