@@ -248,5 +248,5 @@ document.addEventListener('DOMContentLoaded', () => {  // Wait for the DOM to lo
 
 });
 // Clear the default voice if desired for testing
-// localStorage.removeItem('selectedVoice'); 
+// TTS.noPreference();
 */
