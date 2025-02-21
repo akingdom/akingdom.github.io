@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.15'};
+this.versions={...(this.versions||{}), tts:'1.0.16'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -138,18 +138,6 @@ this.versions={...(this.versions||{}), tts:'1.0.15'};
     utterance.volume = 1;
 
     window.speechSynthesis.speak(utterance);
-  }
-
-  // Toggle pause and resume functionality.
-  function togglePauseResume() {
-    if (isPaused) {
-      window.speechSynthesis.resume();
-      config.speakButton.textContent = 'Pause Speech';
-    } else {
-      window.speechSynthesis.pause();
-      config.speakButton.textContent = 'Resume Speech';
-    }
-    isPaused = !isPaused;
   }
 
   // Attach listener to the speak button.
