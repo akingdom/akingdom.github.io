@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.3'};
+this.versions={...(this.versions||{}), tts:'1.0.4'};
 /* Text-to-speech, example usage:
   <script>
     // Initialize TTS with element references via parameters.
@@ -44,20 +44,36 @@ this.versions={...(this.versions||{}), tts:'1.0.3'};
 
   // Populate the voice selector with available voices.
   function populateVoiceSelector() {
-    voices = window.speechSynthesis.getVoices();
-    if (!config.voiceSelector) return;
-    config.voiceSelector.innerHTML = '';
-    voices.forEach((voice, index) => {
-      const option = document.createElement('option');
-      option.value = index;
-      option.textContent = `${voice.name} (${voice.lang})`;
-      config.voiceSelector.appendChild(option);
-    });
-    const savedVoiceIndex = localStorage.getItem(storageKey);
-    if (savedVoiceIndex && voices[savedVoiceIndex]) {
-      config.voiceSelector.value = savedVoiceIndex;
-    }
-  }
+		voices = window.speechSynthesis.getVoices();
+		if (!config.voiceSelector) return;
+		config.voiceSelector.innerHTML = '';
+
+		// Sort voices by language (primary), then by name (secondary)
+		voices.sort((a, b) => {
+				const langA = a.lang.toLowerCase();
+				const langB = b.lang.toLowerCase();
+				if (langA < langB) return -1;
+				if (langA > langB) return 1;
+				// Same language, sort by name
+				const nameA = a.name.toLowerCase();
+				const nameB = b.name.toLowerCase();
+				if (nameA < nameB) return -1;
+				if (nameA > nameB) return 1;
+				return 0; // Exactly the same.
+		});
+
+		voices.forEach((voice, index) => {
+				const option = document.createElement('option');
+				option.value = index;
+				option.textContent = `${voice.name} (${voice.lang})`;
+				config.voiceSelector.appendChild(option);
+		});
+
+		const savedVoiceIndex = localStorage.getItem(storageKey);
+		if (savedVoiceIndex && voices[savedVoiceIndex]) {
+				config.voiceSelector.value = savedVoiceIndex;
+		}
+	}
 
   // Initialize the voice selector element.
   function initVoiceSelector() {
