@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.11'};
+this.versions={...(this.versions||{}), tts:'1.0.12'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -114,25 +114,26 @@ this.versions={...(this.versions||{}), tts:'1.0.11'};
   // Speak the provided text using the selected voice.
   function speak(text) {
     if (!text) return;
-	// Clear any previous utterances
-	window.speechSynthesis.cancel();
-	  
-    const utterance = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.cancel();
 
-        const selectedVoiceIndex = config.voiceSelector.value;
-        if (selectedVoiceIndex >= 0 && voices[selectedVoiceIndex]) {
-            utterance.voice = voices[selectedVoiceIndex];
-        } else {
-            console.error("No voice selected or available.");
-            return;
+    const utterance = new SpeechSynthesisUtterance(text);
+    const selectedLang = config.voiceSelector.value;
+    const selectedVoice = voices.find(voice => voice.lang === selectedLang);
+
+    if (selectedVoice) {
+      utterance.voice = selectedVoice;
+    } else {
+      console.error('No matching voice found.');
+      return;
     }
 
-        utterance.rate = 1;
-        utterance.pitch = 1;
-        utterance.volume = 1;
+    utterance.rate = 1;
+    utterance.pitch = 1;
+    utterance.volume = 1;
 
     window.speechSynthesis.speak(utterance);
   }
+
 
   // Attach listener to the speak button.
   function attachSpeakButtonListener() {
