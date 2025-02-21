@@ -1,22 +1,6 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.5'};
-/* Text-to-speech, example usage:
-  <script>
-    // Initialize TTS with element references via parameters.
-        TTS.init({
-          speakButton: '#speakButton',
-          toggleButton: '#toggleVoiceSelector',
-          // Optionally, you can provide a pre-created voice selector element.
-          // If omitted, one will be created and appended to the document.
-          voiceSelector: null,
-          // Function that returns the text to be spoken (using the rendered Markdown).
-          textProvider: function() {
-            return document.getElementById('markdown-container').innerText;
-          }
-        });
-  </script>
-*/
-// tts.js
+this.versions={...(this.versions||{}), tts:'1.0.7'};
+// Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
   let config = {
@@ -99,12 +83,46 @@ this.versions={...(this.versions||{}), tts:'1.0.5'};
 	window.speechSynthesis.cancel();
 	  
     const utterance = new SpeechSynthesisUtterance(text);
+	// Language Detection and Voice Selection:
+	let selectedLanguage;
+
+	const preferredLanguages = navigator.languages;
+	if (preferredLanguages && preferredLanguages.length > 0) {
+		for (const lang of preferredLanguages) {
+			const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(lang));
+			if (availableVoices.length > 0) {
+				selectedLanguage = lang;
+				utterance.voice = availableVoices[0]; // Use the first available voice for the language
+				break;
+			}
+		}
+	}
+
+	if (!selectedLanguage) {
+		const browserLanguage = navigator.language;
+		const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(browserLanguage));
+		if (availableVoices.length > 0) {
+		  selectedLanguage = browserLanguage;
+		  utterance.voice = availableVoices[0];
+		}
+	}
+
+	if (!selectedLanguage) {
+		selectedLanguage = 'en-US'; // Fallback default
+		const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(selectedLanguage));
+		if (availableVoices.length > 0) {
+			utterance.voice = availableVoices[0];
+		} else {
+			console.error("No suitable voice found for the selected language.");
+			return; // Don't try to speak if no voice is found.
+		}
+	}
+	
+	// Set default values for rate, pitch, and volume
 	utterance.rate = 1;      // Normal speed == 1
 	utterance.pitch = 1;     // Normal pitch == 1
 	utterance.volume = 1;    // Normal volume (0 to 1) == 1
-    if (config.voiceSelector && voices[config.voiceSelector.value]) {
-      utterance.voice = voices[config.voiceSelector.value];
-    }
+
     window.speechSynthesis.speak(utterance);
   }
 
@@ -171,9 +189,44 @@ this.versions={...(this.versions||{}), tts:'1.0.5'};
       initVoiceSelector();
       attachSpeakButtonListener();
       attachToggleButtonListener();
+	  // Initial language detection and voice setting (optional, but good to do on load)
+	  // Call speak with an empty string or a very short string to trigger the language/voice selection
+	  speak(""); // Or speak("Initializing...");
     },
     speak: speak,
     show: show,
     hide: hide
   };
 })();
+
+/*
+// Example usage in your HTML:
+document.addEventListener('DOMContentLoaded', () => {  // Wait for the DOM to load
+    TTS.init({
+        speakButton: '#speakButton',
+        toggleButton: '#toggleVoiceSelector',
+        voiceSelector: '#voiceSelector', // If you have a pre-existing selector
+        textProvider: function () {
+            return document.getElementById('markdown-container').innerText;
+        }
+    });
+
+    // Example of calling speak directly (e.g., after some event)
+    const someText = "This is some example text.";
+    const speakButton = document.getElementById("speakButton");
+    speakButton.addEventListener("click", () => {
+        TTS.speak(someText);
+    })
+
+    // Show/hide Example
+    const showButton = document.getElementById("showButton");
+    showButton.addEventListener("click", () => {
+        TTS.show();
+    })
+    const hideButton = document.getElementById("hideButton");
+    hideButton.addEventListener("click", () => {
+        TTS.hide();
+    })
+
+});
+*/
