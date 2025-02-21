@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.13'};
+this.versions={...(this.versions||{}), tts:'1.0.15'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -7,23 +7,22 @@ this.versions={...(this.versions||{}), tts:'1.0.13'};
     speakButton: null,     // Element or selector for the speak button
     toggleButton: null,    // Element or selector for the voice options toggle button
     voiceSelector: null,   // Element or selector for the voice dropdown (optional)
-    textProvider: null     // Function that returns the text to speak
+    textProvider: null,    // Function that returns the text to speak
+    isInitialized: false   // Flag to check if TTS is initialized
   };
-  const storageKey = 'selectedVoice';
+  const storageKey = 'selectedVoiceLang';
+  let isPaused = false; // Track the pause state
 
   // Helper to resolve a DOM element from a selector or element reference.
   function resolveElement(el) {
-    if (typeof el === 'string') {
-      return document.querySelector(el);
-    }
-    return el;
+    return typeof el === 'string' ? document.querySelector(el) : el;
   }
 
   // Create a voice selector element if none is provided.
   function createVoiceSelector() {
     const selector = document.createElement('select');
     selector.style.display = 'none'; // Hidden by default
-	selector.id = "voiceSelector"; // Add an ID for easy selection (optional)
+    selector.id = 'voiceSelector'; // Add an ID for easy selection (optional)
     return selector;
   }
 
@@ -49,7 +48,7 @@ this.versions={...(this.versions||{}), tts:'1.0.13'};
       selectedLanguage = null; // Reset if stored language is not available
     }
 
-    // FAILS - Safari sets default voice to the first voice.
+    // FAILS - Safari sets default voice to the first voice. Reminder: don't implement this.
     // if (!selectedLanguage) {
     //   const defaultVoice = voices.find(voice => voice.default);
     //   if (defaultVoice) {
@@ -110,10 +109,16 @@ this.versions={...(this.versions||{}), tts:'1.0.13'};
     if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
       speechSynthesis.onvoiceschanged = populateVoiceSelector;
     }
+
+    config.isInitialized = true; // Mark TTS as initialized
 }
 
   // Speak the provided text using the selected voice.
   function speak(text) {
+    if (!config.isInitialized) {
+      console.error('TTS system is not initialized.');
+      return;
+    }
     if (!text) return;
     window.speechSynthesis.cancel();
 
@@ -135,14 +140,33 @@ this.versions={...(this.versions||{}), tts:'1.0.13'};
     window.speechSynthesis.speak(utterance);
   }
 
+  // Toggle pause and resume functionality.
+  function togglePauseResume() {
+    if (isPaused) {
+      window.speechSynthesis.resume();
+      config.speakButton.textContent = 'Pause';
+    } else {
+      window.speechSynthesis.pause();
+      config.speakButton.textContent = 'Resume';
+    }
+    isPaused = !isPaused;
+  }
 
   // Attach listener to the speak button.
   function attachSpeakButtonListener() {
     const btn = resolveElement(config.speakButton);
     if (btn && typeof config.textProvider === 'function') {
-      btn.addEventListener('click', function() {
+      btn.addEventListener('click', () => {
         const text = config.textProvider();
-        speak(text);
+        if (isPaused) {
+          window.speechSynthesis.resume();
+          btn.textContent = 'Pause';
+          isPaused = false;
+        } else {
+          speak(text);
+          btn.textContent = 'Pause';
+          isPaused = true;
+        }
       });
     }
   }
@@ -151,7 +175,7 @@ this.versions={...(this.versions||{}), tts:'1.0.13'};
   function attachToggleButtonListener() {
     const btn = resolveElement(config.toggleButton);
     if (btn && config.voiceSelector) {
-      btn.addEventListener('click', function() {
+      btn.addEventListener('click', () => {
         config.voiceSelector.style.display = 
           (config.voiceSelector.style.display === 'none' || config.voiceSelector.style.display === '')
             ? 'block'
@@ -167,7 +191,7 @@ this.versions={...(this.versions||{}), tts:'1.0.13'};
 //         ,resolveElement(config.voiceSelector)
 	  ];
 	elements.forEach((e) => {
-	  if(e != undefined) e.style.display = 'block';
+      if (e !== undefined) e.style.display = 'block';
     });
   }
 
@@ -178,7 +202,7 @@ this.versions={...(this.versions||{}), tts:'1.0.13'};
         resolveElement(config.voiceSelector)
 	  ];
 	elements.forEach((e) => {
-	  if(e != undefined) e.style.display = 'none';
+	  if(e !== undefined) e.style.display = 'none';
     });
   }
   
