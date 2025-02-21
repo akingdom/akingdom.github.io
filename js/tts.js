@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.10'};
+this.versions={...(this.versions||{}), tts:'1.0.11'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -29,85 +29,86 @@ this.versions={...(this.versions||{}), tts:'1.0.10'};
 
   // Populate the voice selector with available voices.
   function populateVoiceSelector() {
-		voices = window.speechSynthesis.getVoices();
-		if (!config.voiceSelector) return;
-		config.voiceSelector.innerHTML = '';
+    voices = window.speechSynthesis.getVoices();
+    if (!config.voiceSelector) return;
+    config.voiceSelector.innerHTML = '';
 
-		// Sort voices by language (primary), then by name (secondary)
-		voices.sort((a, b) => {
-				const langA = a.lang.toLowerCase();
-				const langB = b.lang.toLowerCase();
-				if (langA < langB) return -1;
-				if (langA > langB) return 1;
-				// Same language, sort by name
-				const nameA = a.name.toLowerCase();
-				const nameB = b.name.toLowerCase();
-				if (nameA < nameB) return -1;
-				if (nameA > nameB) return 1;
-				return 0; // Exactly the same.
-		});
+    // Sort voices by language (primary), then by name (secondary)
+    voices.sort((a, b) => {
+      const langA = a.lang.toLowerCase();
+      const langB = b.lang.toLowerCase();
+      if (langA < langB) return -1;
+      if (langA > langB) return 1;
+      const nameA = a.name.toLowerCase();
+      const nameB = b.name.toLowerCase();
+      return nameA.localeCompare(nameB);
+    });
 
-		let selectedLanguage;
-		const preferredLanguages = navigator.languages;
-		if (preferredLanguages && preferredLanguages.length > 0) {
-			for (const lang of preferredLanguages) {
-				const availableVoices = voices.filter(voice => voice.lang.startsWith(lang)); // Filter voices here
-				if (availableVoices.length > 0) {
-					selectedLanguage = lang;
-					break;
-				}
-			}
-		}
-	
-		if (!selectedLanguage) {
-			const browserLanguage = navigator.language;
-			const availableVoices = voices.filter(voice => voice.lang.startsWith(browserLanguage)); // Filter voices here
-			if (availableVoices.length > 0) {
-				selectedLanguage = browserLanguage;
-			}
-		}
-	
-		if (!selectedLanguage) {
-			selectedLanguage = 'en-US';
-		}
-	
-		let initialVoiceIndex = localStorage.getItem(storageKey);
-		let defaultIndex = -1;
-		
-		voices.forEach((voice, index) => {
-				const option = document.createElement('option');
-				option.value = index;
-				option.textContent = `${voice.name} (${voice.lang})`;
-				config.voiceSelector.appendChild(option);
-				if (voice.lang.startsWith(selectedLanguage)) {
-					if (initialVoiceIndex && index == initialVoiceIndex && voices[index].lang.startsWith(selectedLanguage)) {
-                		defaultIndex = index;
-            		} else if (defaultIndex === -1) {
-                		defaultIndex = index;
-            		}
-        		}
-		});
+    let selectedLanguage = localStorage.getItem(storageKey);
+    if (selectedLanguage && !voices.some(voice => voice.lang === selectedLanguage)) {
+      selectedLanguage = null; // Reset if stored language is not available
+    }
 
-		const savedVoiceIndex = localStorage.getItem(storageKey);
-		if (savedVoiceIndex && voices[savedVoiceIndex]) {
-				config.voiceSelector.value = savedVoiceIndex;
-		}
-	}
+    if (!selectedLanguage) {
+      const defaultVoice = voices.find(voice => voice.default);
+      if (defaultVoice) {
+        selectedLanguage = defaultVoice.lang;
+      }
+    }
+
+    if (!selectedLanguage) {
+      const preferredLanguages = navigator.languages || [];
+      selectedLanguage = preferredLanguages.find(lang =>
+        voices.some(voice => voice.lang.startsWith(lang))
+      );
+    }
+
+    if (!selectedLanguage) {
+      const browserLanguage = navigator.language;
+      if (voices.some(voice => voice.lang.startsWith(browserLanguage))) {
+        selectedLanguage = browserLanguage;
+      }
+    }
+
+    if (!selectedLanguage) {
+      selectedLanguage = 'en-GB';
+    }
+
+    let defaultIndex = -1;
+    voices.forEach((voice, index) => {
+      const option = document.createElement('option');
+      option.value = voice.lang;
+      option.textContent = `${voice.name} (${voice.lang})`;
+      config.voiceSelector.appendChild(option);
+      if (voice.lang === selectedLanguage && defaultIndex === -1) {
+        defaultIndex = index;
+      }
+    });
+
+    if (defaultIndex !== -1) {
+      config.voiceSelector.selectedIndex = defaultIndex;
+      localStorage.setItem(storageKey, selectedLanguage);
+    }
+  }
 
   // Initialize the voice selector element.
   function initVoiceSelector() {
     // Resolve the element if a selector was passed.
-    config.voiceSelector = resolveElement(config.voiceSelector);
-    if (!config.voiceSelector) {
-      config.voiceSelector = createVoiceSelector();
+   config.voiceSelector = resolveElement(config.voiceSelector) || createVoiceSelector();
+    if (!config.voiceSelector.parentNode) {
       document.body.appendChild(config.voiceSelector);
     }
 
-    populateVoiceSelector(); // Default selection is handled here
+    populateVoiceSelector();
 
     config.voiceSelector.addEventListener('change', () => {
-        localStorage.setItem(storageKey, config.voiceSelector.value);
+      const selectedLang = config.voiceSelector.value;
+      localStorage.setItem(storageKey, selectedLang);
     });
+
+    if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
+      speechSynthesis.onvoiceschanged = populateVoiceSelector;
+    }
 }
 
   // Speak the provided text using the selected voice.
