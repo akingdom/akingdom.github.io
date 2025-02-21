@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.12'};
+this.versions={...(this.versions||{}), tts:'1.0.13'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -49,12 +49,13 @@ this.versions={...(this.versions||{}), tts:'1.0.12'};
       selectedLanguage = null; // Reset if stored language is not available
     }
 
-    if (!selectedLanguage) {
-      const defaultVoice = voices.find(voice => voice.default);
-      if (defaultVoice) {
-        selectedLanguage = defaultVoice.lang;
-      }
-    }
+    // FAILS - Safari sets default voice to the first voice.
+    // if (!selectedLanguage) {
+    //   const defaultVoice = voices.find(voice => voice.default);
+    //   if (defaultVoice) {
+    //     selectedLanguage = defaultVoice.lang;
+    //   }
+    // }
 
     if (!selectedLanguage) {
       const preferredLanguages = navigator.languages || [];
