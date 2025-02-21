@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.16'};
+this.versions={...(this.versions||{}), tts:'1.0.17'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -147,7 +147,7 @@ this.versions={...(this.versions||{}), tts:'1.0.16'};
       btn.addEventListener('click', () => {
         const text = config.textProvider();
         if (isPaused) {
-          window.speechSynthesis.resume();
+          window.speechSynthesis.cancel();
           btn.textContent = 'Speak Content';
           isPaused = false;
         } else {
