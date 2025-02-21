@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.9'};
+this.versions={...(this.versions||{}), tts:'1.0.10'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -47,11 +47,45 @@ this.versions={...(this.versions||{}), tts:'1.0.9'};
 				return 0; // Exactly the same.
 		});
 
+		let selectedLanguage;
+		const preferredLanguages = navigator.languages;
+		if (preferredLanguages && preferredLanguages.length > 0) {
+			for (const lang of preferredLanguages) {
+				const availableVoices = voices.filter(voice => voice.lang.startsWith(lang)); // Filter voices here
+				if (availableVoices.length > 0) {
+					selectedLanguage = lang;
+					break;
+				}
+			}
+		}
+	
+		if (!selectedLanguage) {
+			const browserLanguage = navigator.language;
+			const availableVoices = voices.filter(voice => voice.lang.startsWith(browserLanguage)); // Filter voices here
+			if (availableVoices.length > 0) {
+				selectedLanguage = browserLanguage;
+			}
+		}
+	
+		if (!selectedLanguage) {
+			selectedLanguage = 'en-US';
+		}
+	
+		let initialVoiceIndex = localStorage.getItem(storageKey);
+		let defaultIndex = -1;
+		
 		voices.forEach((voice, index) => {
 				const option = document.createElement('option');
 				option.value = index;
 				option.textContent = `${voice.name} (${voice.lang})`;
 				config.voiceSelector.appendChild(option);
+				if (voice.lang.startsWith(selectedLanguage)) {
+					if (initialVoiceIndex && index == initialVoiceIndex && voices[index].lang.startsWith(selectedLanguage)) {
+                		defaultIndex = index;
+            		} else if (defaultIndex === -1) {
+                		defaultIndex = index;
+            		}
+        		}
 		});
 
 		const savedVoiceIndex = localStorage.getItem(storageKey);
@@ -68,52 +102,12 @@ this.versions={...(this.versions||{}), tts:'1.0.9'};
       config.voiceSelector = createVoiceSelector();
       document.body.appendChild(config.voiceSelector);
     }
-    populateVoiceSelector();
-    if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
-      speechSynthesis.onvoiceschanged = populateVoiceSelector;
-    }
+
+    populateVoiceSelector(); // Default selection is handled here
+
     config.voiceSelector.addEventListener('change', () => {
-      localStorage.setItem(storageKey, config.voiceSelector.value);
+        localStorage.setItem(storageKey, config.voiceSelector.value);
     });
-
-    // Language Detection and Initial Voice Selection (Correctly placed):
-    let selectedLanguage;
-    const preferredLanguages = navigator.languages;
-    if (preferredLanguages && preferredLanguages.length > 0) {
-		for (const lang of preferredLanguages) {
-			const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(lang));
-			if (availableVoices.length > 0) {
-				selectedLanguage = lang;
-				break;
-			}
-		}
-    }
-
-    if (!selectedLanguage) {
-        const browserLanguage = navigator.language;
-            const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(browserLanguage));
-            if (availableVoices.length > 0) {
-                selectedLanguage = browserLanguage;
-            }
-    }
-
-    if (!selectedLanguage) {
-        selectedLanguage = 'en-US'; // Fallback default
-	}
-
-	const availableVoices = speechSynthesis.getVoices().filter(voice => voice.lang.startsWith(selectedLanguage));
-
-	if (availableVoices.length > 0) {
-		let initialVoiceIndex = localStorage.getItem(storageKey);
-		if (initialVoiceIndex && availableVoices[initialVoiceIndex] && availableVoices[initialVoiceIndex].lang.startsWith(selectedLanguage)) {
-			config.voiceSelector.value = initialVoiceIndex;
-		} else {
-			config.voiceSelector.value = 0;
-		}
-	} else {
-		console.error("No suitable voices found for selected language. Using fallback.");
-		config.voiceSelector.value = -1;
-	}
 }
 
   // Speak the provided text using the selected voice.
