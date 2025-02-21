@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.4'};
+this.versions={...(this.versions||{}), tts:'1.0.5'};
 /* Text-to-speech, example usage:
   <script>
     // Initialize TTS with element references via parameters.
@@ -99,6 +99,9 @@ this.versions={...(this.versions||{}), tts:'1.0.4'};
 	window.speechSynthesis.cancel();
 	  
     const utterance = new SpeechSynthesisUtterance(text);
+	utterance.rate = 1;      // Normal speed == 1
+	utterance.pitch = 1;     // Normal pitch == 1
+	utterance.volume = 1;    // Normal volume (0 to 1) == 1
     if (config.voiceSelector && voices[config.voiceSelector.value]) {
       utterance.voice = voices[config.voiceSelector.value];
     }
