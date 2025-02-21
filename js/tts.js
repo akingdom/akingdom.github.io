@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.8'};
+this.versions={...(this.versions||{}), tts:'1.0.9'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];
@@ -185,7 +185,14 @@ this.versions={...(this.versions||{}), tts:'1.0.8'};
     });
   }
   
-  
+  function noPreference() {
+    localStorage.removeItem(storageKey);
+    if (config.voiceSelector) {
+	config.voiceSelector.selectedIndex = -1;
+    }
+    initVoiceSelector(); // Re-trigger voice selection after clearing
+  }
+
   
   // Expose the TTS object with init and speak functions.
   window.TTS = {
@@ -205,7 +212,8 @@ this.versions={...(this.versions||{}), tts:'1.0.8'};
     },
     speak: speak,
     show: show,
-    hide: hide
+    hide: hide,
+    noPreference: noPreference
   };
 })();
 
