@@ -23,9 +23,9 @@
 
 - **Etymology** is the study of the origin and history of words and their meanings. This word relates to the Ancient Greek words ἐτεός (*eteós*, in the sense of true, stable, real) and λογία (*logía*, in the sense of a descriptive account, a story), in other words, a real story. 
 
-- **True** relates to the word *tree* in the sense that a tree is not easily moved, compared to a stone boundary marker for instance. Possibly also relates to *health* in the sense of wishing someone to be as healthy (strong) as a tree.
+- **True** relates to the word *tree* in the sense that a tree is not easily moved, compared to a stone boundary marker for instance. It also strongly relates to a tree generally having the attributes of being upright, straight, vertical, and reliable in nature, especially evidenced when building structures a strong and upright post or wall are said to be 'true' and 'supporting'. The etymology of 'true' also points to meanings like 'standing', 'durable', 'faithful' and 'trustworthy'. Less directly the etymology touches concepts of 'friend' and 'witness' (evidenced by trees and standing stones as witnesses or 'eyes' to agreements and boundaries) and as a cover/covering. Possibly also relates to *health* in the sense of wishing someone to be as healthy (strong) as a tree, and also related to trees (and plants) bringing healing (and illness if misused). [I built this by crossreferencing many etymological studies of the word and world analyses of the concept.]
 
-- **False** (to falsify) relates to the idea of *deceiving* someone, and the word *fall(s)* with the idea of causing someone to *stumble* by your *lie* (from the idea that they *lie* down unintentionally after stumbling).
+- **False** (to falsify) relates to the idea of *deceiving* someone, and the word *fall(s)* with the idea of causing someone to *stumble* by your *lie* (from the idea that they *lie* down unintentionally after stumbling), thus the extended concepts of a fallen body and association with death.
 
 - **Hope** as a concept means 'confident expectation' and relates to the idea of respectful acknowledgement of one's duties and obligations, especially as owed to someone greater than you, prostrating one's self to show this service.
 
