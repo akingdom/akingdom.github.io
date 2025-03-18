@@ -29,6 +29,10 @@
 
 - **Hope** as a concept means 'confident expectation' and relates to the idea of respectful acknowledgement of one's duties and obligations, especially as owed to someone greater than you, prostrating one's self to show this service.
 
+- Way
+
+- Life
+
 ## First words
 *For most children the first word they learn is relational, either to mother or father*
 
