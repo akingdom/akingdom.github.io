@@ -25,7 +25,7 @@
 
 - Love (...by love...is holy, revered, admired)
 
-- Way
+- **Way** relates to the concept of a *track*, *road*, *path*, *course*, *conduct*, *area* or *direction*. A track forms in the ground from frequent foot traffic (treads) or dragged objects (treks). This relates to the word *road* which derives from the riding animals, especially horses, likened to the movement, motion and stirring of water, especially boiling water, (relating also to a confused fight or quarrel, and to water springing up). This less directly relates to a river (a rip in the earth) and sea inlets (an entryway to the sea). The word *tread* relates to trade and trade routes.
 
 - Life
 
