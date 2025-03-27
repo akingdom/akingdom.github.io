@@ -35,7 +35,7 @@
 
 - **Kill** relates to the idea of *striking* (like a snake) or *hitting* or *throwing* or *knocking down* (all like an ox) (thus causing to no longer stand upright but to fall and *lie* down permanently, incapacitated, unable to bear *life*; an irreversable lie).
 
-- **Murder** unlawful or illegal killing.
+- **Murder** unlawful or illegal killing, especially of a human.
 
 - **Hope** as a concept means 'confident expectation' and relates to the idea of respectful acknowledgement of one's duties and obligations, especially as owed to someone greater than you, prostrating one's self to show this service.
 
