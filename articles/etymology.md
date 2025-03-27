@@ -33,6 +33,10 @@
 
 - **False** (to falsify) relates to the idea of *deceiving* someone, and the word *fall(s)* with the idea of causing someone to *stumble* by your *lie* (from the idea that they *lie* down unintentionally after stumbling), thus the extended concepts of a fallen body and association with death. Thus True and False are technically at right angles to one another, not opposites per se.
 
+- **Kill** relates to the idea of *striking* (like a snake) or *hitting* or *throwing* or *knocking down* (all like an ox) (thus causing to fall and *lie* down permanently, incapacitated, unable to bear *life*).
+
+- **Murder** unlawful or illegal killing.
+
 - **Hope** as a concept means 'confident expectation' and relates to the idea of respectful acknowledgement of one's duties and obligations, especially as owed to someone greater than you, prostrating one's self to show this service.
 
 ## First words
