@@ -65,7 +65,8 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	- **Read more**: [Duplicate Word Highlighter](https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html) - quickly locating duplicate
 	- **Read more**: [Generate a QR Code](https://akingdom.github.io/design_tools/generate-qrcode.html) - Generate a barcode for phones, etc.
 	- **Read more**: [Colour Blender](https://akingdom.github.io/design_tools/color-blender.html) - Allows you to mix colours on screen.
-words in text.
+- **System Tools**: Operational utilities.
+	- **Read more**: [Password Generator](https://akingdom.github.io/system_tools/password_generator.html)
 
 ### Interests
 I have a wide range of interests that inform my work and approach:
