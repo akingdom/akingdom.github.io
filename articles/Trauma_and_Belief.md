@@ -1,3 +1,5 @@
+<script src="/js/qrcode.js"></script> <script type="text/javascript">// generateQRCode window.addEventListener('DOMContentLoaded', () => { new QRCode(document.getElementById("qrcode"), document.location.href); }); </script>
+
 # **Trauma and Belief**  
 
 -or-
