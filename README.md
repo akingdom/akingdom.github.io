@@ -53,8 +53,8 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
 	- **Read more**: [Source Code Extracts](https://gist.github.com/akingdom) Gist
-	- **Read more**: [Guides](index.md#guides) - Excel, Xcode, Blender
-	- **Read more**: [Standards](index.md#standards) - mostly formats for data storage and transport
+	- **Read more**: [Guides](https://github.com/akingdom/) - Excel, Xcode, Blender
+	- **Read more**: [Standards](https://github.com/akingdom/) - mostly formats for data storage and transport
 - **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
 	- **Read more**: [Promoting and Selling External Digital Content in Apple Apps](https://akingdom.github.io/articles/apple-developer-external-content) 
 - **Development Tools**: Streamlining development of software. 
@@ -76,7 +76,7 @@ I have a wide range of interests that inform my work and approach:
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
 	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 	- **Read more**: [Discipline and Trauma](https://akingdom.github.io/articles/Trauma_and_Discipline_v2)
-	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief.md)
+	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief)
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
