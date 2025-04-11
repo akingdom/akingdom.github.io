@@ -125,6 +125,8 @@ I have a wide range of interests that inform my work and approach:
 > - **Communicating decisions clearly** positively impacts circumstances and strengthens emotional well-being.
 — Andrew Kingdom
 
+> Use your connections (contacts) to find the back door into an organisation rather than worrying about getting stuck in the front door. - Temple Grandin
+
 ### Footnotes
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
