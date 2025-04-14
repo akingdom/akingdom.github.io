@@ -40,7 +40,6 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	</div>
 	<div>
 		<p>Transform your creative process. Shorten and sharpen your AI prompt text with my <a href="https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="https://akingdom.github.io/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</p>
-		<p><a href="art2/">Samples of my AI Art</a></p>
 	</div>
 </div>
 
@@ -49,6 +48,9 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 <div id="quote-container"></div>
 
 ### Technology Expertise
+- **AI:** Ethics, tutoring, prompts, tasking and much more.
+	- **Read More**: [Universal Ethical Framework for Future AI](https://akingdom.github.io/Ethical_Framework_for_Future_AI)
+	- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
 	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
