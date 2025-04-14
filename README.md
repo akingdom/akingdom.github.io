@@ -49,7 +49,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 
 ### Technology Expertise
 - **AI:** Ethics, tutoring, prompts, tasking and much more.
-	- **Read More**: [Universal Ethical Framework for Future AI](https://akingdom.github.io/Ethical_Framework_for_Future_AI)
+	- **Read More**: [Universal Ethical Framework for Future AI](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI)
 	- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
 	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
