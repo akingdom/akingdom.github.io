@@ -24,10 +24,12 @@
     #controls button { margin-right: 10px; }
     #metadata label { display: block; margin: 5px 0; }
     #input-area { margin-bottom: 15px; }
+    .explanation { color: #666; font-size: 0.9em; margin-top: -10px; margin-bottom: 15px; }
   </style>
 </head>
 <body>
   <h1>Image Lens Distortion Tool</h1>
+  <p class="explanation">Adjust the simulated focal length and distortion interactively to preview wide-angle or normal lens effects.</p>
   <div id="input-area">
     <input type="file" id="file-input" accept="image/*">
     <input type="text" id="url-input" placeholder="Image URL">
@@ -197,26 +199,14 @@
     }
 
     // Buttons now just adjust the slider value and trigger input
-    applyWideBtn.addEventListener('click', () => {
-      currentBlobType = 'wide';
-      slider.value = slider.min;
-      slider.dispatchEvent(new Event('input'));
-    });
-
-    applyNormalBtn.addEventListener('click', () => {
-      currentBlobType = 'normal';
-      slider.value = Math.round(originalFocal * 10);
-      slider.dispatchEvent(new Event('input'));
-    });
-
+    applyWideBtn.addEventListener('click', () => { currentBlobType = 'wide'; slider.value = slider.min; slider.dispatchEvent(new Event('input')); });
+    applyNormalBtn.addEventListener('click', () => { currentBlobType = 'normal'; slider.value = Math.round(originalFocal * 10); slider.dispatchEvent(new Event('input')); });
     downloadBtn.addEventListener('click', () => {
       canvas.toBlob(blob => {
         const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
+        const a = document.createElement('a'); a.href = url;
         a.download = `${originalName}-${currentBlobType}.png`;
-        a.click();
-        URL.revokeObjectURL(url);
+        a.click(); URL.revokeObjectURL(url);
       }, 'image/png');
     });
   </script>
