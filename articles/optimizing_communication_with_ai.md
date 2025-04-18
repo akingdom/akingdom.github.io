@@ -20,56 +20,6 @@ Use this quick reference for AI prompts when you're tired, deep in a problem, or
 - ✂️ **Avoid large rewrites unless asked**
 - 🤔 **If unsure, ask first — don’t assume refactors**
 
----
-
-### 🔐 INVARIANTS – Do Not Change
-
-List any logic, variable names, or structural elements that **must stay unchanged**. Ideally put this at the top of your chat. 
-
-```
-🔐 INVARIANTS
-- Keep the `direction` variable behavior as `backward`
-- Do not change the `sortItems()` method
-```
-
----
-
-### 🩺 SURGICAL EDIT – Focus on One Fix
-
-Call out the *specific issue*, ideally by line number or function.
-
-```
-🩺 SURGICAL EDIT
-- Fix how `direction` is set between lines 15–20
-- Do not modify the surrounding loop
-```
-
----
-
-### 🛠️ PATCH ONLY – No Extras
-
-Request **just the relevant code snippet or diff**. Skip full reprints or refactors.
-
-```
-🛠️ PATCH ONLY
-- Return only the updated code to correct `direction`
-- No explanations unless absolutely needed
-```
-
----
-
-### ⚠️ COGNITIVE LOAD NOTICE
-
-Use this when you’re fatigued or need to be especially careful with change scope.
-
-```
-⚠️ COGNITIVE LOAD NOTICE
-- I’m low on bandwidth — stick strictly to the current issue
-- Do not restructure anything
-- Ask before making broader improvements
-```
-
----
 
 ### 💡 Tips for Efficient AI Requests
 
@@ -79,9 +29,28 @@ Use this when you’re fatigued or need to be especially careful with change sco
 - **Defer major changes** unless clearly requested
 - Keep **comments, explanations, and context minimal** when tired
 
----
 
-### 📝 Real-World Example
+### 🔐 INVARIANTS – Do Not Change
+
+List any logic, variable names, or structural elements that **must stay unchanged**. Ideally put this at the top of your chat. 
+
+
+### 🩺 SURGICAL EDIT – Focus on One Fix
+
+Call out the *specific issue*, ideally by line number or function.
+
+
+### 🛠️ PATCH ONLY – No Extras
+
+Request a focus on changes only in the AI's response.
+
+
+### ⚠️ COGNITIVE LOAD NOTICE
+
+Use this when you’re fatigued or need to be especially careful with change scope.
+
+
+### 📝 Real-World Examples
 
 ```
 ⚠️ COGNITIVE LOAD NOTICE
