@@ -1,5 +1,5 @@
 # Optimizing Communication with AI  
-**High Focus, Low Energy - A Human’s Guide to asking an AI to make specific changes**
+**High Focus, Low Energy - A Developer’s Guide to asking an AI to make specific changes**
 
 ## Introduction
 
@@ -175,5 +175,8 @@ Make use of consistent naming conventions, code structure, and common libraries 
 Optimizing communication with AI is not just about asking the right questions—it's about structuring your requests, defining clear boundaries, and reducing unnecessary complexity. By taking a strategic approach, you can maximize the benefits of working with AI while minimizing confusion and mental overload. By applying these principles, developers can streamline their work, maintain focus on key tasks, and ensure their energy is directed toward meaningful problem-solving.
 
 ---
-Author: Andrew Kingdom. This paper came about from a discussion with ChatGPT on how better to approach changes.
-AI: This structure is designed to be comprehensive yet easy to follow, focusing on practical suggestions and examples that will resonate with other AI users and developers who may face similar challenges.
+**Author**: Andrew Kingdom. This paper came about from a discussion with ChatGPT on how better to approach changes.
+
+**AI**: This structure is designed to be comprehensive yet easy to follow, focusing on practical suggestions and examples that will resonate with other AI users and developers who may face similar challenges.
+
+For full licensing terms, visit [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
