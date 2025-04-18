@@ -11,7 +11,7 @@ This guide outlines a structured approach to reduce cognitive load when requesti
 
 ## 📋 Low-Bandwidth Code Change Request Cheat Sheet
 
-Use this quick reference when you're tired, deep in a problem, or just want to keep things surgical and efficient.
+Use this quick reference for AI prompts when you're tired, deep in a problem, or just want to keep things surgical and efficient.
 
 ### ⚠️ TL;DR
 
@@ -24,7 +24,7 @@ Use this quick reference when you're tired, deep in a problem, or just want to k
 
 ### 🔐 INVARIANTS – Do Not Change
 
-List any logic, variable names, or structural elements that **must stay unchanged**.
+List any logic, variable names, or structural elements that **must stay unchanged**. Ideally put this at the top of your chat. 
 
 ```
 🔐 INVARIANTS
