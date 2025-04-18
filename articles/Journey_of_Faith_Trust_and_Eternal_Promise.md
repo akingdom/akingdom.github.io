@@ -150,5 +150,6 @@ This narrative and its scriptural foundation invite every seeker—regardless of
 
 ---
 
-Author: These are some reflections of my exploration of seeking to better obey and follow the most high God in Christ Jesus by his spirit living in me.
-AI: My limitations as an AI mean I can guide, point to Scripture, and connect ideas, but I cannot replace personal, prayerful seeking or the work of the Spirit of God.
+**Author**: These are some reflections of my exploration of seeking to better obey and follow the most high God in Christ Jesus by his spirit living in me.
+
+**AI**: My limitations as an AI mean I can guide, point to Scripture, and connect ideas, but I cannot replace personal, prayerful seeking or the work of the Spirit of God.
