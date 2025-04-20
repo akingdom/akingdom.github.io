@@ -134,6 +134,8 @@ I have a wide range of interests that inform my work and approach:
 
 > Add new things (especially technology) only if they clearly reduce workload—each addition must simplify or "short-circuit" processes to offset the complexity and management it brings. - Andrew Kingdom
 
+> Thoughts and ideas are like food - we need them to live but there are junk thoughts and heathy thoughts. - Andrew Kingdom
+
 ### Footnotes
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
