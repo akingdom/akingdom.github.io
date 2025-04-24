@@ -80,10 +80,10 @@ Not all limits are the same, and how we interact with them shapes our emotional 
 - **Externally imposed limits:** Boundaries set by external circumstances (e.g., job expectations, physical limitations, or rules in structured environments).  
 
 A critical challenge arises in how we **perceive** these limits:  
-- **When a limit feels too demanding compared to our ability, anxiety may arise.** This often triggers avoidance—attempting to escape, procrastinate, or push away the challenge rather than working through it.  
+- **When a limit feels too demanding compared to our perceived ability, anxiety may arise.** This often triggers avoidance—attempting to escape, procrastinate, or push away the challenge rather than working through it.  
 - **When a limit feels too easy, boredom may emerge.** This can lead to disengagement or defiance—either ignoring the limit or seeking greater challenge elsewhere.  
 
-The Lord’s design encourages balance—neither avoidance nor excessive rebellion—but rather a steady approach that acknowledges our strengths while developing areas where we lack ability. **This understanding also helps us support others as they encounter limits in their lives.**
+The Lord’s design encourages balance—neither avoidance nor extreme rebellion—but rather a steady approach that acknowledges our strengths while developing areas where we lack ability. **This understanding also helps us support others as they encounter limits in their lives.**
 
 ---
 
