@@ -14,7 +14,7 @@ AUTHOR:      Andrew Kingdom
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
-**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
+**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
 <div id="DESCRIPTION"></div>
 
