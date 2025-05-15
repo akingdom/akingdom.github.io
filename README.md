@@ -79,7 +79,8 @@ I have a wide range of interests that inform my work and approach:
 - **Nature and Science:** Enthusiast of biology, geology, cosmology, and physics.
 	- **Read more**: [The Moon](https://akingdom.github.io/articles/moon)
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
-	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
+  	- **Read more**: [Aspiring Leadership](https://github.com/akingdom/akingdom.github.io/blob/main/articles/aspirational_leadership.md)
+  	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 	- **Read more**: [Discipline and Trauma](https://akingdom.github.io/articles/Trauma_and_Discipline_v2)
 	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief)
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
