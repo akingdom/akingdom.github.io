@@ -80,7 +80,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [The Moon](https://akingdom.github.io/articles/moon)
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
 	- **Read more**: [Aspiring Leadership](https://akingdom.github.io/articles/aspirational_leadership)
-  	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
+	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 	- **Read more**: [Discipline and Trauma](https://akingdom.github.io/articles/Trauma_and_Discipline_v2)
 	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief)
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
