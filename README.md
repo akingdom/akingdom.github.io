@@ -98,7 +98,6 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
-	- **Read more**: Games
 		- **Read more**: [Match Blocks](https://akingdom.github.io/matchblox)
 
 ### Quotes
