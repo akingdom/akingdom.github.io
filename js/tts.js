@@ -1,5 +1,5 @@
 // tts.js
-this.versions={...(this.versions||{}), tts:'1.0.17'};
+window.versions={...(window.versions||{}), tts:'1.0.17'};
 // Text-to-speech, example usage included at end of this file.
 (function() {
   let voices = [];

@@ -3,7 +3,7 @@
 // Purpose: A pure JavaScript RTF Reader.
 // Reference: Based on Microsoft RTF parser structure and in part on the related C language example code.
 // Nov 2024
-this.versions={...(this.versions||{}), RTFReader:'1.2.1'};
+window.versions={...(window.versions||{}), RTFReader:'1.2.1'};
 
 
 class RTFReader {

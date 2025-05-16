@@ -1,0 +1,67 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #ffffff;
+}
+
+.score-container {
+	display: flex;
+	justify-content: center;
+	margin: 10px;
+}
+
+.counter-digit {
+	display: inline-block;
+	width: 15px;
+	height: 20px;
+	padding: 3px 2px 3px 1px;
+	border: 1px solid grey;
+	background-color: black;
+	color: white;
+	font-family: monospace;
+	font-size: 14px;
+	text-align: center;
+	line-height: 20px;
+	box-sizing: content-box;
+}
+
+table {
+	border-collapse: collapse; /* Ensures cells share borders without extra space */
+	margin: 0 auto;
+}
+
+td {
+	padding: 0;
+	border-spacing: 0; /* Prevents gaps between cells */
+	line-height: 0; /* Ensures there is no unwanted vertical spacing */
+}
+
+td img {
+	display: block; /* Removes any default inline spacing */
+	width: 30px;
+	height: 30px;
+	border: none;
+}
+
+footer {
+  max-width: 80%;
+  margin: 0 auto 15px auto;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 14px;
+  text-align: center;
+  color: #345;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.instructions {
+  color: #444;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 0px;
+  display: block;
+}
