@@ -23,9 +23,19 @@
 
 - **Etymology** is the study of the origin and history of words and their meanings. This word relates to the Ancient Greek words ἐτεός (*eteós*, in the sense of true, stable, real) and λογία (*logía*, in the sense of a descriptive account, a story), in other words, a real story. 
 
-- **True** relates to the word *tree* in the sense that a tree is not easily moved, compared to a stone boundary marker for instance. Possibly also relates to *health* in the sense of wishing someone to be as healthy (strong) as a tree.
+- **Love** (...by love...love is holy, revered, admired, praised, desired)
 
-- **False** (to falsify) relates to the idea of *deceiving* someone, and the word *fall(s)* with the idea of causing someone to *stumble* by your *lie* (from the idea that they *lie* down unintentionally after stumbling).
+- **Way** relates to the concept of a *track*, *road*, *path*, *course*, *conduct*, *area* or *direction*, often shaped by repeated movement. A track forms in the ground from frequent foot traffic (treads) or dragged objects (treks). This relates to the concept of *road*, which word derived from the riding of animals (sitting on them to travel, being carried), especially on horses, likened to the movement, motion and stirring of water, especially boiling water, (relating also to a confused fight or quarrel, and to water springing up). This less directly relates to a river (a rip in the earth) and sea inlets (an entryway into the sea). The word *tread* relates to trade and trade routes.
+
+- **Life** relates to concepts of having life, remaining alive, preserving life, sustaining life, being alive, to having a body, to exist, to remain, to dwell, to stay, to reside, to inhabit, to stick (glue).
+
+- **True** relates to the word *tree* in the sense that a tree is not easily moved, compared to a stone boundary marker for instance. It also strongly relates to a tree generally having the attributes of being upright, straight, vertical, and reliable in nature, especially evidenced when building structures a strong and upright post or wall are said to be 'true' and 'supporting'. The etymology of 'true' also points to meanings like 'standing', 'durable', 'faithful' and 'trustworthy'. Less directly the etymology touches concepts of 'friend' and 'witness' (evidenced by trees and standing stones as witnesses or 'eyes' to agreements and boundaries) and as a cover/covering. Possibly also relates to *health* in the sense of wishing someone to be as healthy (strong) as a tree, and also related to trees (and plants) bringing healing (and illness if misused). In short: reliable, faithful and trustworthy.
+
+- **False** (to falsify) relates to the idea of *deceiving* someone, and the word *fall(s)* with the idea of causing someone to *stumble* by your *lie* (from the idea that they *lie* down unintentionally after stumbling), thus the extended concepts of a fallen body and association with death. Thus True and False are technically at right angles to one another, not opposites per se.
+
+- **Kill** relates to the idea of *striking* (like a snake) or *hitting* or *throwing* or *knocking down* (all like an ox) (thus causing to be no longer able to stand upright but rather to fall and *lie* down permanently; incapacitated; unable to bear *life*; an irreversable lie).
+
+- **Murder** unlawful or illegal killing, especially of a human.
 
 - **Hope** as a concept means 'confident expectation' and relates to the idea of respectful acknowledgement of one's duties and obligations, especially as owed to someone greater than you, prostrating one's self to show this service.
 
@@ -154,4 +164,4 @@ Modern English (1700 - Present)|Globalization, technological advancements|Divers
 
 
 ---
-*Disclaimer: These are my opinion, generally based on known etymologies, but extending the meanings based on known historical cultural practices, etc. in places*
+*Disclaimer: These are my opinion, generally based on many studies of known etymologies, but extending some meanings based on known historical cultural practices, etc.*

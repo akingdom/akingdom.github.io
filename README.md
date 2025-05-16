@@ -14,7 +14,7 @@ AUTHOR:      Andrew Kingdom
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
-**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
+**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
 <div id="DESCRIPTION"></div>
 
@@ -40,7 +40,6 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 	</div>
 	<div>
 		<p>Transform your creative process. Shorten and sharpen your AI prompt text with my <a href="https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html">Duplicate Word Finder</a>. Capture AI prompts from your saved web pages seamlessly with the <a href="https://akingdom.github.io/ai_tools/prompt-extraction.html">Prompts Extraction</a> tool. Elevate your productivity and creativity with tools designed to make your workflow smoother and more efficient.</p>
-		<p><a href="art2/">Samples of my AI Art</a></p>
 	</div>
 </div>
 
@@ -49,12 +48,17 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 <div id="quote-container"></div>
 
 ### Technology Expertise
+- **AI:** Ethics, tutoring, prompts, tasking and much more.
+	- **Read More**: [Universal Ethical Framework for Future AI](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI)
+	- **Read More**: [Efficient AI communications change management](https://akingdom.github.io/articles/optimizing_communication_with_ai) (for developers).
+	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
+	- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
 	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
 	- **Read more**: [Source Code Extracts](https://gist.github.com/akingdom) Gist
-	- **Read more**: [Guides](index.md#guides) - Excel, Xcode, Blender
-	- **Read more**: [Standards](index.md#standards) - mostly formats for data storage and transport
+	- **Read more**: [Guides](https://github.com/akingdom/) - Excel, Xcode, Blender
+	- **Read more**: [Standards](https://github.com/akingdom/) - mostly formats for data storage and transport
 - **Platforms:** Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (MacOS, Windows), mobile (iOS, Android), and embedded systems (MicroChip, Raspberry Pi).
 	- **Read more**: [Promoting and Selling External Digital Content in Apple Apps](https://akingdom.github.io/articles/apple-developer-external-content) 
 - **Development Tools**: Streamlining development of software. 
@@ -65,7 +69,9 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 	- **Read more**: [Duplicate Word Highlighter](https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html) - quickly locating duplicate
 	- **Read more**: [Generate a QR Code](https://akingdom.github.io/design_tools/generate-qrcode.html) - Generate a barcode for phones, etc.
 	- **Read more**: [Colour Blender](https://akingdom.github.io/design_tools/color-blender.html) - Allows you to mix colours on screen.
-words in text.
+	- **Read more**: [Image Focal Length](https://akingdom.github.io/design_tools/image_lens_distortion_tool.html) - Allows you to change focal length of image.
+- **System Tools**: Operational utilities.
+	- **Read more**: [Password Generator](https://akingdom.github.io/system_tools/password_generator.html)
 
 ### Interests
 I have a wide range of interests that inform my work and approach:
@@ -73,11 +79,13 @@ I have a wide range of interests that inform my work and approach:
 - **Nature and Science:** Enthusiast of biology, geology, cosmology, and physics.
 	- **Read more**: [The Moon](https://akingdom.github.io/articles/moon)
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
+	- **Read more**: [Aspiring Leadership](https://akingdom.github.io/articles/aspirational_leadership)
 	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 	- **Read more**: [Discipline and Trauma](https://akingdom.github.io/articles/Trauma_and_Discipline_v2)
+	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief)
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
-	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
+	- **Read more**: *See 'AI' above*
 - **History and Language:** Delving into archaeology, etymology, genealogy, and more. I'm currently learning modern Greek and enjoy foreign films and shows.
 	- **Read more**: [Words and their meanings](https://akingdom.github.io/articles/etymology) (Etymology)
 	- **Read more**: [Shapes and their meanings](https://akingdom.github.io/articles/ShapeTheory) (Shape Theory)
@@ -90,6 +98,8 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+	- **Read more**: Games
+		- **Read more**: [Match Blocks](https://akingdom.github.io/matchblox)
 
 ### Quotes
 
@@ -122,6 +132,12 @@ I have a wide range of interests that inform my work and approach:
 > - **Managing emotions in the bigger picture** improves decision-making and reduces excessive conflict, leading to clearer perspectives and rational choices.
 > - **Communicating decisions clearly** positively impacts circumstances and strengthens emotional well-being.
 — Andrew Kingdom
+
+> Use your connections (contacts) to find the back door into an organisation rather than worrying about getting stuck in the front door. - Temple Grandin
+
+> Add new things (especially technology) only if they clearly reduce workload—each addition must simplify or "short-circuit" processes to offset the complexity and management it brings. - Andrew Kingdom
+
+> Thoughts and ideas are like food - we need them to live but there are junk thoughts and heathy thoughts. - Andrew Kingdom
 
 ### Footnotes
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>

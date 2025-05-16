@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Lens Distortion Tool</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    /* Limit canvas display area to 75% of viewport */
+    #canvas {
+      border: 1px solid #ccc;
+      margin-top: 10px;
+      max-width: 75vw;
+      max-height: 75vh;
+      width: auto;
+      height: auto;
+      display: block;
+    }
+    /* Slider width: up to 380px or full viewport width */
+    #focal-slider {
+      width: min(100vw, 380px);
+      margin-top: 5px;
+    }
+    #controls button { margin-right: 10px; }
+    #metadata label { display: block; margin: 5px 0; }
+    #input-area { margin-bottom: 15px; }
+    .explanation { color: #666; font-size: 0.9em; margin-top: -10px; margin-bottom: 15px; }
+  </style>
+</head>
+<body>
+  <h1>Image Lens Distortion Tool</h1>
+  <p class="explanation">Adjust the simulated focal length and distortion interactively to preview wide-angle or normal lens effects.</p>
+  <div id="input-area">
+    <input type="file" id="file-input" accept="image/*">
+    <input type="text" id="url-input" placeholder="Image URL">
+    <button id="load-url-btn">Load URL</button>
+    <p>Or paste an image (Ctrl+V / ⌘+V)</p>
+  </div>
+  <div id="metadata">
+    <label>Focal Length: <select id="focal-length-select"></select></label>
+    <label>Aperture: <span id="aperture">N/A</span></label>
+    <label>ISO: <span id="iso">N/A</span></label>
+    <label>Focal Length Slider: <span id="slider-value">-- mm</span>
+      <input type="range" id="focal-slider" step="1" min="10" max="2000" value="100">
+    </label>
+  </div>
+  <canvas id="canvas"></canvas>
+  <div id="controls">
+    <button id="apply-wide">Apply Wide-Angle</button>
+    <button id="apply-normal">Apply Normal (Pinch)</button>
+    <button id="download-btn" disabled>Download Image</button>
+  </div>
+
+  <!-- Exif.js for metadata extraction -->
+  <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+  <script>
+    const fileInput = document.getElementById('file-input');
+    const urlInput = document.getElementById('url-input');
+    const loadUrlBtn = document.getElementById('load-url-btn');
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    const focalSelect = document.getElementById('focal-length-select');
+    const apertureSpan = document.getElementById('aperture');
+    const isoSpan = document.getElementById('iso');
+    const slider = document.getElementById('focal-slider');
+    const sliderValue = document.getElementById('slider-value');
+    const applyWideBtn = document.getElementById('apply-wide');
+    const applyNormalBtn = document.getElementById('apply-normal');
+    const downloadBtn = document.getElementById('download-btn');
+
+    let img = new Image();
+    let originalName = 'image';
+    let originalData = null;
+    let originalFocal = 50;
+    let currentBlobType = 'wide';
+
+    function resetUI() {
+      focalSelect.innerHTML = '';
+      apertureSpan.textContent = 'N/A';
+      isoSpan.textContent = 'N/A';
+      downloadBtn.disabled = true;
+      sliderValue.textContent = '-- mm';
+    }
+
+    function loadImage(src, name = 'image') {
+      img = new Image();
+      img.crossOrigin = 'Anonymous';
+      originalName = name.replace(/\.[^.]+$/, '');
+      img.onload = () => {
+        canvas.width = img.naturalWidth;
+        canvas.height = img.naturalHeight;
+        ctx.drawImage(img, 0, 0);
+        originalData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+        extractMetadata();
+        downloadBtn.disabled = false;
+      };
+      img.src = src;
+    }
+
+    fileInput.addEventListener('change', e => {
+      if (!e.target.files || !e.target.files[0]) return;
+      const file = e.target.files[0];
+      const reader = new FileReader();
+      reader.onload = ev => loadImage(ev.target.result, file.name);
+      reader.readAsDataURL(file);
+    });
+
+    loadUrlBtn.addEventListener('click', () => {
+      const url = urlInput.value.trim();
+      if (!url) return;
+      loadImage(url, url.split('/').pop());
+    });
+
+    document.addEventListener('paste', e => {
+      const items = e.clipboardData.items;
+      for (let i = 0; i < items.length; i++) {
+        const item = items[i];
+        if (item.type.indexOf('image') >= 0) {
+          const file = item.getAsFile();
+          const reader = new FileReader();
+          reader.onload = ev => loadImage(ev.target.result, 'pasted-image');
+          reader.readAsDataURL(file);
+          e.preventDefault();
+          break;
+        } else if (item.type === 'text/plain') {
+          item.getAsString(str => loadImage(str, str.split('/').pop()));
+        }
+      }
+    });
+
+    function extractMetadata() {
+      resetUI();
+      EXIF.getData(img, function() {
+        const fl = EXIF.getTag(this, 'FocalLength');
+        const ap = EXIF.getTag(this, 'FNumber');
+        const iso = EXIF.getTag(this, 'ISOSpeedRatings');
+        if (fl) {
+          const flValue = fl.numerator / fl.denominator;
+          originalFocal = flValue;
+          // slider uses ×10 for 0.1mm resolution
+          slider.min = Math.max(1, Math.floor(flValue / 4) * 10);
+          slider.max = Math.ceil(flValue * 4) * 10;
+          slider.value = Math.round(flValue * 10);
+          sliderValue.textContent = `${flValue.toFixed(1)} mm`;
+          ['Preset', flValue.toFixed(1)].forEach(val => {
+            const opt = document.createElement('option');
+            opt.value = val;
+            opt.textContent = val + ' mm';
+            focalSelect.appendChild(opt);
+          });
+        } else {
+          const opt = document.createElement('option');
+          opt.textContent = 'Not available';
+          focalSelect.appendChild(opt);
+          slider.min = 10 * 10;
+          slider.max = 200 * 10;
+          slider.value = 50 * 10;
+          sliderValue.textContent = `50.0 mm`;
+        }
+        apertureSpan.textContent = ap ? `f/${(ap.numerator/ap.denominator).toFixed(1)}` : 'N/A';
+        isoSpan.textContent = iso || 'N/A';
+      });
+    }
+
+    slider.addEventListener('input', () => {
+      const val = slider.value / 10;
+      sliderValue.textContent = `${val.toFixed(1)} mm`;
+      ctx.putImageData(originalData, 0, 0);
+      const k = (originalFocal - val) / originalFocal * 0.5;
+      applyDistortion(k);
+    });
+
+    function applyDistortion(k) {
+      const w = canvas.width;
+      const h = canvas.height;
+      const srcData = ctx.getImageData(0, 0, w, h);
+      const dstData = ctx.createImageData(w, h);
+      const cx = w / 2;
+      const cy = h / 2;
+      for (let y = 0; y < h; y++) {
+        for (let x = 0; x < w; x++) {
+          const dx = (x - cx) / cx;
+          const dy = (y - cy) / cy;
+          const r = Math.sqrt(dx*dx + dy*dy);
+          const factor = 1 + k * r * r;
+          const srcX = Math.round(cx + dx * factor * cx);
+          const srcY = Math.round(cy + dy * factor * cy);
+          const dstIdx = (y * w + x) * 4;
+          if (srcX >= 0 && srcX < w && srcY >= 0 && srcY < h) {
+            const srcIdx = (srcY * w + srcX) * 4;
+            dstData.data[dstIdx]   = srcData.data[srcIdx];
+            dstData.data[dstIdx+1] = srcData.data[srcIdx+1];
+            dstData.data[dstIdx+2] = srcData.data[srcIdx+2];
+            dstData.data[dstIdx+3] = srcData.data[srcIdx+3];
+          }
+        }
+      }
+      ctx.putImageData(dstData, 0, 0);
+    }
+
+    // Buttons now just adjust the slider value and trigger input
+    applyWideBtn.addEventListener('click', () => { currentBlobType = 'wide'; slider.value = slider.min; slider.dispatchEvent(new Event('input')); });
+    applyNormalBtn.addEventListener('click', () => { currentBlobType = 'normal'; slider.value = Math.round(originalFocal * 10); slider.dispatchEvent(new Event('input')); });
+    downloadBtn.addEventListener('click', () => {
+      canvas.toBlob(blob => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a'); a.href = url;
+        a.download = `${originalName}-${currentBlobType}.png`;
+        a.click(); URL.revokeObjectURL(url);
+      }, 'image/png');
+    });
+  </script>
+</body>
+</html>
