@@ -106,6 +106,8 @@ I have a wide range of interests that inform my work and approach:
 
 > If you're not embarassed by your early work, you spent too long on it. - Attributed to Neil Gaiman
 
+> The opposite of addiction is not sobriety but connection (friendships). - Johann Hari
+
 > Where possible, focus on things that are worthwhile. - Andrew Kingdom
 
 > Writer's Block? Think about things differently by: Adding a new communication; add in random text from any source at hand; take time to relax, help a stranger, rewrite in a different format (e.g. story as a screenplay), don't get bogged down, put down the basics and move on. -- Andrew Kingdom
