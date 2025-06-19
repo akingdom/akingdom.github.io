@@ -3,7 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <title>Markdown to YouTube Comment Formatter</title>
+  <!-- Example: Import a webfont that supports math characters.
+       Note: Google Fonts does not officially host Noto Sans Math,
+       so you might need to self-host or choose an alternative.
+       The following @font-face rule is a placeholder for your math font. -->
   <style>
+    @font-face {
+      font-family: 'Noto Sans Math';
+      src: url('https://akingdom.github.io/fonts/noto-sans-math.woff2') format('woff2');
+      /* Adjust the src URL as needed. */
+      font-weight: normal;
+      font-style: normal;
+    }
+    
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
@@ -18,6 +30,10 @@
       border: 1px solid #ccc;
       border-radius: 4px;
       background: #fff;
+    }
+    /* Use a font stack that includes our math font as a priority */
+    #convertedOutput {
+      font-family: 'Noto Sans Math', "Arial Unicode MS", "DejaVu Sans", sans-serif;
     }
     button {
       padding: 10px 20px;
@@ -34,21 +50,34 @@
     .output {
       margin-top: 20px;
     }
+    .warning {
+      color: red;
+      margin-bottom: 10px;
+    }
   </style>
 </head>
 <body>
   <h2>Markdown to YouTube Comment Formatter</h2>
-  <p>Enter your Markdown on the left. Bold text wrapped with ** will be converted to Unicode bold. Italic text wrapped with * will be converted to Unicode italic.</p>
-  <textarea id="markdownInput" placeholder="Type Markdown text here..."></textarea>
-  <br>
+  <p>
+    Paste your Markdown text here. Text contained in single asterisks (<code>*italic*</code>) will be converted to Unicode italic.
+    (Ensuring output is displayed correctly depends on the available fonts.)
+  </p>
+  <textarea id="markdownInput" placeholder="Type or paste Markdown text here..."></textarea>
+  <div id="warningMsg" class="warning" style="display: none;"></div>
   <button id="convertBtn">Convert</button>
   <div class="output">
     <h3>Converted Text:</h3>
     <textarea id="convertedOutput" readonly placeholder="Your formatted text will appear here..."></textarea>
   </div>
-
+  
   <script>
-    // Function to convert letters to Unicode Bold
+    // Though your input is clean UTF-8, we keep a (dormant) check that could
+    // later alert you if unexpected replacement characters appear.
+    function isUTF8Corrupted(text) {
+      return text.indexOf("�") !== -1;
+    }
+    
+    // Converts letters to Unicode Bold (if needed).
     function convertToBold(text) {
       let result = "";
       for (let char of text) {
@@ -62,8 +91,8 @@
       }
       return result;
     }
-
-    // Function to convert letters to Unicode Italic
+    
+    // Converts letters to Unicode Italic (math italic).
     function convertToItalic(text) {
       let result = "";
       for (let char of text) {
@@ -77,18 +106,29 @@
       }
       return result;
     }
-
-    // Main conversion function
+    
+    // Main conversion function:
+    // - Checks for any internal corruption signs (for debugging).
+    // - Uses regex to substitute Markdown formatting with math Unicode characters.
     function convertMarkdown(text) {
-      // Convert Bold: **text**
+      if (isUTF8Corrupted(text)) {
+        document.getElementById("warningMsg").innerText = 
+          "Warning: Unexpected UTF‑8 corruption detected.";
+        document.getElementById("warningMsg").style.display = "block";
+      } else {
+        document.getElementById("warningMsg").style.display = "none";
+      }
+      
+      // Convert Bold: **text** (if needed)
       text = text.replace(/\*\*(.*?)\*\*/g, (match, p1) => convertToBold(p1));
+      
       // Convert Italic: *text*
       text = text.replace(/\*(.*?)\*/g, (match, p1) => convertToItalic(p1));
-      // Additional markdown patterns can be processed here as needed.
+      
       return text;
     }
-
-    // Event listener for conversion
+    
+    // Event listener for the conversion button.
     document.getElementById('convertBtn').addEventListener('click', () => {
       const input = document.getElementById('markdownInput').value;
       const converted = convertMarkdown(input);
