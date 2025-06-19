@@ -4,13 +4,6 @@
   <meta charset="UTF-8">
   <title>Markdown to YouTube Comment Formatter</title>
   <style>
-    @font-face {
-      font-family: 'Noto Sans Math';
-      src: url('https://akingdom.github.io/fonts/NotoSansMath-Regular.woff2') format('woff2');
-      font-weight: normal;
-      font-style: normal;
-    }
-    
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
@@ -26,9 +19,11 @@
       border-radius: 4px;
       background: #fff;
     }
-    /* Use a font stack that includes our math font as a priority */
+    /* Remove the custom math font and rely on common system fonts.
+       In many cases, default fonts like "Arial Unicode MS" or "DejaVu Sans"
+       can handle most Unicode characters. */
     #convertedOutput {
-      font-family: 'Noto Sans Math', "Arial Unicode MS", "DejaVu Sans", sans-serif;
+      font-family: "Arial Unicode MS", "DejaVu Sans", sans-serif;
     }
     button {
       padding: 10px 20px;
@@ -54,8 +49,7 @@
 <body>
   <h2>Markdown to YouTube Comment Formatter</h2>
   <p>
-    Paste your Markdown text here. Text contained in single asterisks (<code>*italic*</code>) will be converted to Unicode italic.
-    (Ensuring output is displayed correctly depends on the available fonts.)
+    Paste your Markdown text here. Text wrapped in single asterisks (<code>*italic*</code>) will be converted to Unicode italic.  
   </p>
   <textarea id="markdownInput" placeholder="Type or paste Markdown text here..."></textarea>
   <div id="warningMsg" class="warning" style="display: none;"></div>
@@ -66,13 +60,19 @@
   </div>
   
   <script>
-    // Though your input is clean UTF-8, we keep a (dormant) check that could
-    // later alert you if unexpected replacement characters appear.
+    // Check for unexpected UTF-8 corruption (just in case)
     function isUTF8Corrupted(text) {
       return text.indexOf("�") !== -1;
     }
     
-    // Converts letters to Unicode Bold (if needed).
+    // Mapping for problematic italic characters.
+    // Extend this object if you find that additional characters display oddly.
+    const specialItalicMapping = {
+      'h': 0x210E // For lowercase "h", use ℎ (U+210E) instead of 𝑕 (U+1D455)
+      // Add more mappings here as needed.
+    };
+
+    // Converts letters to Unicode Bold (if needed)
     function convertToBold(text) {
       let result = "";
       for (let char of text) {
@@ -88,13 +88,18 @@
     }
     
     // Converts letters to Unicode Italic (math italic).
+    // Applies special-case mappings if present.
     function convertToItalic(text) {
       let result = "";
       for (let char of text) {
         if (char >= 'A' && char <= 'Z') {
           result += String.fromCodePoint(char.codePointAt(0) - 65 + 0x1D434);
         } else if (char >= 'a' && char <= 'z') {
-          result += String.fromCodePoint(char.codePointAt(0) - 97 + 0x1D44E);
+          if (specialItalicMapping.hasOwnProperty(char)) {
+            result += String.fromCodePoint(specialItalicMapping[char]);
+          } else {
+            result += String.fromCodePoint(char.codePointAt(0) - 97 + 0x1D44E);
+          }
         } else {
           result += char;
         }
@@ -102,19 +107,16 @@
       return result;
     }
     
-    // Main conversion function:
-    // - Checks for any internal corruption signs (for debugging).
-    // - Uses regex to substitute Markdown formatting with math Unicode characters.
+    // Main conversion function: Checks markdown formatting and possible corruption.
     function convertMarkdown(text) {
       if (isUTF8Corrupted(text)) {
-        document.getElementById("warningMsg").innerText = 
-          "Warning: Unexpected UTF‑8 corruption detected.";
+        document.getElementById("warningMsg").innerText = "Warning: Unexpected UTF‑8 corruption detected.";
         document.getElementById("warningMsg").style.display = "block";
       } else {
         document.getElementById("warningMsg").style.display = "none";
       }
       
-      // Convert Bold: **text** (if needed)
+      // Convert Bold: **text** (if desired; currently mapped for completeness)
       text = text.replace(/\*\*(.*?)\*\*/g, (match, p1) => convertToBold(p1));
       
       // Convert Italic: *text*
@@ -123,7 +125,7 @@
       return text;
     }
     
-    // Event listener for the conversion button.
+    // Set up the conversion action.
     document.getElementById('convertBtn').addEventListener('click', () => {
       const input = document.getElementById('markdownInput').value;
       const converted = convertMarkdown(input);
