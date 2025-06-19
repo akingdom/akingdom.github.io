@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Markdown to YouTube Comment Formatter</title>
+  <title>Markdown to YouTube Formatter</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -19,12 +19,6 @@
       border-radius: 4px;
       background: #fff;
     }
-    /* Remove the custom math font and rely on common system fonts.
-       In many cases, default fonts like "Arial Unicode MS" or "DejaVu Sans"
-       can handle most Unicode characters. */
-    #convertedOutput {
-      font-family: "Arial Unicode MS", "DejaVu Sans", sans-serif;
-    }
     button {
       padding: 10px 20px;
       font-size: 16px;
@@ -40,96 +34,61 @@
     .output {
       margin-top: 20px;
     }
-    .warning {
-      color: red;
-      margin-bottom: 10px;
-    }
   </style>
 </head>
 <body>
-  <h2>Markdown to YouTube Comment Formatter</h2>
+  <h2>Markdown to YouTube Formatter</h2>
   <p>
-    Paste your Markdown text here. Text wrapped in single asterisks (<code>*italic*</code>) will be converted to Unicode italic.  
+    YouTube comments are formatted as follows:
+    <br><strong>Bold:</strong> *text*
+    <br><strong>Italics:</strong> _text_
+    <br><strong>Strikethrough:</strong> -text-
+    <br><em>Multiple formatting can be combined, e.g., *_text_*</em>
+    <br>
+    Additionally, unordered lists are converted to bullet points.
   </p>
   <textarea id="markdownInput" placeholder="Type or paste Markdown text here..."></textarea>
-  <div id="warningMsg" class="warning" style="display: none;"></div>
   <button id="convertBtn">Convert</button>
   <div class="output">
     <h3>Converted Text:</h3>
     <textarea id="convertedOutput" readonly placeholder="Your formatted text will appear here..."></textarea>
   </div>
-  
-  <script>
-    // Check for unexpected UTF-8 corruption (just in case)
-    function isUTF8Corrupted(text) {
-      return text.indexOf("�") !== -1;
-    }
-    
-    // Mapping for problematic italic characters.
-    // Extend this object if you find that additional characters display oddly.
-    const specialItalicMapping = {
-      'h': 0x210E // For lowercase "h", use ℎ (U+210E) instead of 𝑕 (U+1D455)
-      // Add more mappings here as needed.
-    };
 
-    // Converts letters to Unicode Bold (if needed)
-    function convertToBold(text) {
-      let result = "";
-      for (let char of text) {
-        if (char >= 'A' && char <= 'Z') {
-          result += String.fromCodePoint(char.codePointAt(0) - 65 + 0x1D400);
-        } else if (char >= 'a' && char <= 'z') {
-          result += String.fromCodePoint(char.codePointAt(0) - 97 + 0x1D41A);
-        } else {
-          result += char;
-        }
-      }
-      return result;
-    }
-    
-    // Converts letters to Unicode Italic (math italic).
-    // Applies special-case mappings if present.
-    function convertToItalic(text) {
-      let result = "";
-      for (let char of text) {
-        if (char >= 'A' && char <= 'Z') {
-          result += String.fromCodePoint(char.codePointAt(0) - 65 + 0x1D434);
-        } else if (char >= 'a' && char <= 'z') {
-          if (specialItalicMapping.hasOwnProperty(char)) {
-            result += String.fromCodePoint(specialItalicMapping[char]);
-          } else {
-            result += String.fromCodePoint(char.codePointAt(0) - 97 + 0x1D44E);
-          }
-        } else {
-          result += char;
-        }
-      }
-      return result;
-    }
-    
-    // Main conversion function: Checks markdown formatting and possible corruption.
-    function convertMarkdown(text) {
-      if (isUTF8Corrupted(text)) {
-        document.getElementById("warningMsg").innerText = "Warning: Unexpected UTF‑8 corruption detected.";
-        document.getElementById("warningMsg").style.display = "block";
-      } else {
-        document.getElementById("warningMsg").style.display = "none";
-      }
-      
-      // Convert Bold: **text** (if desired; currently mapped for completeness)
-      text = text.replace(/\*\*(.*?)\*\*/g, (match, p1) => convertToBold(p1));
-      
-      // Convert Italic: *text*
-      text = text.replace(/\*(.*?)\*/g, (match, p1) => convertToItalic(p1));
-      
+  <script>
+    function convertMarkdownToYouTube(text) {
+      // 1. Convert headings (# Title) to bold.
+      //    Remove any leading '#' and whitespace, then wrap the text in asterisks.
+      text = text.replace(/^#{1,6}\s*(.*)$/gm, (match, headingText) => {
+        // Remove any pre-existing bold markers within the heading.
+        headingText = headingText.replace(/\*\*(.*?)\*\*/g, '$1');
+        return `*${headingText.trim()}*`;
+      });
+
+      // 2. Convert unordered lists:
+      //    Replace a leading list marker (-, +, *) with a Unicode bullet while keeping any indentation.
+      text = text.replace(/^(\s*)[-+*]\s+/gm, '$1• ');
+
+      // 3. Convert Markdown strikethrough: ~~text~~ -> -text-
+      text = text.replace(/~~(.*?)~~/g, '-$1-');
+
+      // 4. Process Bold formatting.
+      //    Temporarily replace **text** with placeholders to avoid conflict with italic conversion.
+      text = text.replace(/\*\*(.*?)\*\*/g, 'TEMP_BOLD_$1_TEMP_BOLD_');
+
+      // 5. Process italic formatting.
+      //    Convert leftover single asterisk markers (used for italics in Markdown) into underscores.
+      text = text.replace(/(^|\s)\*([^*\n]+)\*(?=\s|$)/g, '$1_$2_');
+
+      // 6. Replace the temporary bold markers with YouTube bold formatting (asterisks).
+      text = text.replace(/TEMP_BOLD_(.*?)_TEMP_BOLD_/g, '*$1*');
+
       return text;
     }
-    
-    // Set up the conversion action.
-    document.getElementById('convertBtn').addEventListener('click', () => {
-      const input = document.getElementById('markdownInput').value;
-      const converted = convertMarkdown(input);
-      document.getElementById('convertedOutput').value = converted;
+
+    document.getElementById("convertBtn").addEventListener("click", () => {
+      const inputText = document.getElementById("markdownInput").value;
+      const outputText = convertMarkdownToYouTube(inputText);
+      document.getElementById("convertedOutput").value = outputText;
     });
   </script>
 </body>
