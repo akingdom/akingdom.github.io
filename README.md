@@ -123,7 +123,7 @@ I have a wide range of interests that inform my work and approach:
 
 > Intelligence has little to do with a person's value as a human. — Andrew Kingdom
 
-> True life-transformation isn’t the fruit of human effort—it’s not something owed or earnt—but a reliable divine gift, granted freely through grace. — Andrew Kingdom
+> True life transformation isn’t the fruit of human effort—it’s not something owed or earnt—but a reliable divine gift, granted freely through grace. — Andrew Kingdom
 
 > A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence, the two are not the same and will never be so. — Andrew Kingdom
 
