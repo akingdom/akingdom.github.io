@@ -123,6 +123,8 @@ I have a wide range of interests that inform my work and approach:
 
 > Intelligence has little to do with a person's value as a human. — Andrew Kingdom
 
+> Divine grace steps in where human morality cannot go alone. — Andrew Kingdom
+
 > A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence, the two are not the same and will never be so. — Andrew Kingdom
 
 > Un-deception is the successful resolution of misapprehension, that is, the changing of your mind concerning a misbelief. This is not the same as trying to change someone else's mind. — A. Kingdom on C.S. Lewis on J. Austen
