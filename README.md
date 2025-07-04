@@ -10,7 +10,66 @@ AUTHOR:      Andrew Kingdom
 
 -->
 <link rel="stylesheet" href="styles/common.css">
-<div id="qrcode" style="position: absolute; left: 1em; top: 1em; width:4em; height:4em;"></div>
+<!-- QR Code -->
+<style>
+/* 1. Target the GitHub markdown wrapper */
+.markdown-body {
+  position: relative;
+}
+/* 2. Override the inline absolute and float the QR code */
+#qrcode {
+  position: static !important;
+  float: left;
+  margin: 1em;       /* space around the QR */
+  width: 8em;        /* your desired size */
+  height: 8em;
+}
+/* 3. Ensure the first heading clears the QR float */
+.markdown-body > h1:first-child,
+.markdown-body > h2:first-child {
+  clear: left;
+  margin-top: 0;     /* remove any unwanted gap */
+}
+</style><div id="qrcode">
+</div>
+<script src="../js/qrcode.js"></script>
+<script>// Updated QR code display for github websites.
+(function(){
+  function init(){
+    const container = document.getElementById('qrcode');
+    if (!container) return;
+
+    // 1. Figure out the CSS size in px
+    const cssW = container.clientWidth;
+    const cssH = container.clientHeight;
+    const dpr  = window.devicePixelRatio || 1;
+
+    // 2. Generate a DPR-aware QR
+    new QRCode(container, {
+      text: location.href,
+      width:  cssW * dpr,
+      height: cssH * dpr,
+      correctLevel: QRCode.CorrectLevel.H
+    });
+
+    // 3. Grab the visible element (img first, then canvas)
+    const el = container.querySelector('img') || container.querySelector('canvas');
+    if (!el) return;
+
+    // 4. Force it back to CSS pixel size
+    el.style.width  = cssW + 'px';
+    el.style.height = cssH + 'px';
+    el.style.display = 'block';
+  }
+
+  // Run at DOM ready, even if script is injected after the event
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
@@ -152,9 +211,5 @@ I have a wide range of interests that inform my work and approach:
 <!-- ALL SCRIPTING -->
 <script src="js/pykelet.js"></script>
 <script src="js/hide_github_title.js"></script>
-<script src="js/qrcode.js"></script>
-<script type="text/javascript">// generateQRCode
-    window.addEventListener('DOMContentLoaded', () => {
-        new QRCode(document.getElementById("qrcode"), 'https://akingdom.github.io'); }); </script>
 <script src="js/random_quote.js"></script>
 <script src="js/tawk_to.js"></script>

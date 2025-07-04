@@ -1,0 +1,102 @@
+<div class="container-lg px-3 my-5 markdown-body" style="
+    border: red dotted;
+">
+      
+      <h1><a href="https://akingdom.github.io/">Andrew Kingdom</a></h1>
+      
+
+
+<!-- QR Code -->
+<!-- QR container: keep your 8 em × 8 em sizing inline -->
+<style>
+/* 1. Target the GitHub markdown wrapper */
+.markdown-body {
+  position: relative;
+}
+
+/* 2. Override the inline absolute and float the QR code */
+#qrcode {
+  position: static !important;
+  float: left;
+  margin: 1em;       /* space around the QR */
+  width: 8em;        /* your desired size */
+  height: 8em;
+}
+
+/* 3. Ensure the first heading clears the QR float */
+.markdown-body > h1:first-child,
+.markdown-body > h2:first-child {
+  clear: left;
+  margin-top: 0;     /* remove any unwanted gap */
+}
+
+</style><div id="qrcode">
+</div>
+<script src="../js/qrcode.js"></script>
+<script>// Updated QR code display for github websites.
+(function(){
+  function init(){
+    const container = document.getElementById('qrcode');
+    if (!container) return;
+
+    // 1. Figure out the CSS size in px
+    const cssW = container.clientWidth;
+    const cssH = container.clientHeight;
+    const dpr  = window.devicePixelRatio || 1;
+
+    // 2. Generate a DPR-aware QR
+    new QRCode(container, {
+      text: location.href,
+      width:  cssW * dpr,
+      height: cssH * dpr,
+      correctLevel: QRCode.CorrectLevel.H
+    });
+
+    // 3. Grab the visible element (img first, then canvas)
+    const el = container.querySelector('img') || container.querySelector('canvas');
+    if (!el) return;
+
+    // 4. Force it back to CSS pixel size
+    el.style.width  = cssW + 'px';
+    el.style.height = cssH + 'px';
+    el.style.display = 'block';
+  }
+
+  // Run at DOM ready, even if script is injected after the event
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+
+
+<h1>Trauma and Belief</h1>
+
+
+-or-
+
+<h2>Belief Formation in Trauma and the Limits of Knowledge: A Transdisciplinary Synthesis of Neuroscience, Epistemology, and Quantum Metaphors</h2>
+
+<hr>
+
+<h3>Abstract</h3>
+
+Belief formation is a neurobiological and psychological process shaped by empirical evidence, subjective meaning, and cultural context. This paper integrates trauma research (e.g., CPTSD/PTSD), Gödelian incompleteness, Heisenberg’s uncertainty principle, and Michael Guillen’s concept of a *translogical universe* to explore how beliefs are established, challenged, and sustained. We argue that trauma disrupts belief systems by entrenching survival-based narratives, which resist empirical revision due to cognitive biases, neurobiological constraints, and the inherent limits of formal systems. The paper concludes that recovery and scientific inquiry alike require balancing empirical rigor with acceptance of unresolvable uncertainty.  
+
+<hr>
+
+<h3>Introduction</h3>
+Beliefs are the scaffolding of human experience, yet their formation—particularly in the context of trauma—defies reduction to purely empirical or logical frameworks. Trauma survivors often oscillate between contradictory beliefs (e.g., "I am safe now" vs. "The world is dangerous"), reflecting a tension between evidence and existential meaning. This paper examines how neurobiology, psychology, and philosophy intersect to shape belief systems, emphasising the epistemological humility required to navigate their limits.  
+
+<hr>
+
+
+
+
+
+
+
+
+</div>

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Safe Unified-Diff Patcher</title>
+  <style>
+    body { font-family: sans-serif; margin: 1rem; }
+    textarea {
+      width: 100%;
+      height: 180px;
+      margin-bottom: .5rem;
+      font-family: monospace;
+      white-space: pre;
+    }
+    button { padding: .5rem 1rem; font-size: 1rem; margin-right: .5rem; }
+    label { font-weight: bold; margin-top: 1rem; display: block; }
+    .modal {
+      display: none; position: fixed; z-index: 1000;
+      left: 0; top: 0; width: 100%; height: 100%;
+      background: rgba(0,0,0,0.5);
+    }
+    .modal-content {
+      background: #fff; margin: 5% auto; padding: 1rem;
+      width: 90%; max-width: 600px; border-radius: 4px;
+      overflow-y: auto; max-height: 80%;
+    }
+    .close {
+      position: absolute; top: .5rem; right: .75rem;
+      font-size: 1.5rem; cursor: pointer;
+    }
+    pre { background: #f7f7f7; padding: .5rem; overflow-x: auto; }
+  </style>
+</head>
+<body>
+
+  <button id="helpBtn">Help</button>
+  <button id="processBtn">Process Patch → Output</button>
+
+  <label for="original">Original Code</label>
+  <textarea id="original"
+            placeholder="Paste your exact original file here…"></textarea>
+
+  <label for="patch">Unified Diff Patch</label>
+  <textarea id="patch"
+            placeholder="Paste your ---/+++ unified diff here…"></textarea>
+
+  <label for="output">Patched Output</label>
+  <textarea id="output" readonly
+            placeholder="Patched result will appear here…"></textarea>
+
+  <label for="log">Log (warnings & errors)</label>
+  <textarea id="log" readonly
+            placeholder="Messages will appear here…"></textarea>
+
+  <div id="helpModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2>Unified-Diff Format Overview</h2>
+      <p>This parser supports the core GNU diffutils “unified” format:</p>
+      <pre>
+--- path/to/oldfile [timestamp]
++++ path/to/newfile [timestamp]
+
+@@ -origStart,origCount +newStart,newCount @@ optional section
+␣ context line
+- deletion line
++ addition line
+      </pre>
+      <p><strong>Notes on metadata you might encounter:</strong></p>
+      <ul>
+        <li><code>diff --git a/... b/...</code>, <code>index &lt;hash&gt;..&lt;hash&gt;</code></li>
+        <li>Mode changes: <code>old mode 100644</code>, <code>new mode 100755</code></li>
+        <li>Renames, binary diffs, combined (3-way) hunks, fuzzy offsets.</li>
+      </ul>
+      <p><strong>Unsupported lines</strong> (Git headers, mode changes, etc.) are <em>skipped</em> with a <code>WARN</code> in the log.  
+      Any <strong>context</strong> or <strong>deletion</strong> mismatch becomes an <code>ERROR</code>.</p>
+    </div>
+  </div>
+
+  <script>
+  // append to the log textarea
+  function log(msg, level='INFO') {
+    document.getElementById('log').value += `[${level}] ${msg}\n`;
+  }
+
+  // unified-diff applier with HEAD-only hunks & '...' skipping
+  function applyPatch(origText, patchText) {
+    const origLines  = origText.split(/\r?\n/);
+    const patchLines = patchText.split(/\r?\n/);
+    const outLines   = [];
+    let oi = 0, pi = 0;
+
+    // common Git/SVN metadata we skip with WARN
+	const parts = [
+	  'diff --git',
+	  'index ',
+	  'old mode ',
+	  'new mode ',
+	  'similarity index',
+	  'rename from',
+	  'rename to',
+	  'Binary files'
+	];
+	// join with | and escape if needed
+	const metaRe = new RegExp('^(' + parts.map(s => s.replace(/[-\/\\^$*+?.()|[\]{}]/g,'\\$&')).join('|') + ')');
+
+    // 1) Skip --- +++ headers & metadata
+    while (pi < patchLines.length) {
+      const L = patchLines[pi];
+      if (/^--- /.test(L) || /^\+\+\+ /.test(L) || /^\.\.\./.test(L)) {
+        pi++;
+      }
+      else if (metaRe.test(L)) {
+        log(`Skipping metadata: "${L}"`, 'WARN');
+        pi++;
+      }
+      else break;
+    }
+
+    // 2) Process each hunk
+    while (pi < patchLines.length) {
+      const line = patchLines[pi];
+      if (!line.startsWith('@@')) {
+        // stray line before a hunk: warn & skip
+        log(`Skipping unsupported line: "${line}"`, 'WARN');
+        pi++;
+        continue;
+      }
+
+      // consume header
+      const hdrLine = line;
+      pi++;
+      // try to extract numbers: @@ -a,b +c,d @@
+      const m = hdrLine.match(/^@@\s*-(\d+),?(\d*)\s*\+(\d+),?(\d*)\s*@@/);
+      let origStart = oi;
+      if (m) {
+        origStart = parseInt(m[1],10) - 1;
+        // copy any untouched lines up to this start
+        while (oi < origStart) {
+          outLines.push(origLines[oi++]);
+        }
+      } else {
+        log(`Unsupported hunk header, applying at current pos: "${hdrLine}"`, 'WARN');
+      }
+
+      // hunk body: until next @@ or EOF
+      while (pi < patchLines.length && !patchLines[pi].startsWith('@@')) {
+        const L2 = patchLines[pi++];
+        const trimmed = L2.trim();
+
+        // skip elided-context markers
+        if (trimmed === '...') continue;
+
+        const prefix = L2[0];
+        const txt    = L2.slice(1);
+
+        if (prefix === ' ') {
+          // context: must match
+          if (origLines[oi] !== txt) {
+            throw new Error(`Context mismatch @${oi+1}: expected "${origLines[oi]}", got "${txt}"`);
+          }
+          outLines.push(txt);
+          oi++;
+        }
+        else if (prefix === '-') {
+          // deletion: must match, then skip
+          if (origLines[oi] !== txt) {
+            throw new Error(`Deletion mismatch @${oi+1}: expected "${origLines[oi]}", got "${txt}"`);
+          }
+          oi++;
+        }
+        else if (prefix === '+') {
+          // insertion: just emit
+          outLines.push(txt);
+        }
+        // otherwise ignore blank or weird lines
+      }
+    }
+
+    // 3) Append any remaining original lines
+    while (oi < origLines.length) {
+      outLines.push(origLines[oi++]);
+    }
+    return outLines.join('\n');
+  }
+
+  // wire the Process button
+  document.getElementById('processBtn').onclick = () => {
+    document.getElementById('log').value = '';        // clear old messages
+    try {
+      const orig  = document.getElementById('original').value;
+      const patch = document.getElementById('patch').value;
+      document.getElementById('output').value = applyPatch(orig, patch);
+    } catch (e) {
+      log(e.message, 'ERROR');
+    }
+  };
+
+  // modal Help wiring (unchanged)
+  const modal = document.getElementById('helpModal');
+  document.getElementById('helpBtn').onclick =
+    () => modal.style.display = 'block';
+  document.querySelector('.close').onclick =
+    () => modal.style.display = 'none';
+  window.onclick = e => {
+    if (e.target === modal) modal.style.display = 'none';
+  };
+</script>
+</body>
+</html>

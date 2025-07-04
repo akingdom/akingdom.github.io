@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Line-Mode Diff with Diff-Match-Patch (UMD)</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 1rem;
+    }
+    textarea {
+      width: 100%;
+      box-sizing: border-box;
+      font-family: monospace;
+      font-size: .9rem;
+      margin-bottom: .5rem;
+      height: 120px;
+    }
+    .controls {
+      margin-bottom: 1rem;
+    }
+    .diff-container {
+      display: flex;
+      gap: 1%;
+    }
+    .col {
+      width: 49%;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      padding: .5rem;
+      min-height: 200px;
+      font-family: monospace;
+      font-size: .9rem;
+      white-space: pre-wrap;
+    }
+    .diff-line {
+      padding: 0 .25rem;
+    }
+    .unchanged {}
+    .removed  { background: #ffecec; }
+    .added    { background: #eaffea; }
+    .legend {
+      margin-top: 1rem;
+      font-size: .85rem;
+    }
+    .legend span {
+      display: inline-block;
+      width: 1em;
+      height: 1em;
+      margin-right: .25em;
+      vertical-align: middle;
+      border: 1px solid #999;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Line-Mode Diff</h1>
+
+  <div class="controls">
+    <label><input type="checkbox" id="ignoreWs"> Ignore leading/trailing whitespace</label>
+    <button id="compareBtn">Compare</button>
+  </div>
+
+  <textarea id="leftInput" placeholder="Paste original code…"></textarea>
+  <textarea id="rightInput" placeholder="Paste modified code…"></textarea>
+
+  <div class="diff-container">
+    <div class="col" id="leftCol"></div>
+    <div class="col" id="rightCol"></div>
+  </div>
+
+  <div class="legend">
+    <strong>Legend:</strong>
+    <span class="unchanged"></span> unchanged
+    <span class="removed"></span> removed
+    <span class="added"></span> added
+  </div>
+
+  <!-- UMD build of Diff-Match-Patch from CDNJS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/diff-match-patch/20121119/diff_match_patch.js"></script>
+  <script>
+  (function() {
+    const dmp = new diff_match_patch();
+    const btn        = document.getElementById('compareBtn');
+    const leftInput  = document.getElementById('leftInput');
+    const rightInput = document.getElementById('rightInput');

@@ -12,8 +12,8 @@
 //////////////////////////////////////////////////////////////////////////////
 
 // ----- Constants and Global Variables -----
-const xmax = 18;
-const ymax = 10;
+const xmax = 10;
+const ymax = 18;
 
 const grNames       = ["x.gif", "A.gif", "B.gif", "C.gif", "D.gif", "E.gif"]; // index 0 = clear
 const grMarkedNames = ["x.gif", "Am.gif", "Bm.gif", "Cm.gif", "Dm.gif", "Em.gif"];
