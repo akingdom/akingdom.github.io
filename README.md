@@ -19,7 +19,7 @@ AUTHOR:      Andrew Kingdom
 /* 2. Override the inline absolute and float the QR code */
 #qrcode {
   position: static !important;
-  float: left;
+  float: right;
   margin: 1em;       /* space around the QR */
   width: 8em;        /* your desired size */
   height: 8em;
