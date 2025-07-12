@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<!--PYKELET
+
+DESCRIPTION:    This page displays a full-screen talking analog clock with synchronized visual and audio cues. 
+                It announces the time aloud at fixed intervals, with optional voice selection and mute control.
+                The second hand animates smoothly using modular arithmetic to ensure accurate and aesthetic transitions.
+                Inspired by Telstra's 1194 talking clock service and the calm, authoritative tones of Bill Peach.
+                Supports a wide range of system-installed voices in multiple languages via the Web Speech API.
+
+TITLE:          Full-Screen Talking Clock
+FILENAME:       talking_clock.html
+AUTHOR:         Andrew Kingdom
+LANGUAGES:      English, French, German, Spanish, Italian, Japanese, Chinese, Hindi, and others (depends on browser/system voices)
+LICENSE:        MIT (3-clause) - You may freely use this file but shall not remove the author credentials.
+
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Talking Clock</title>
+
+<style>
+/* ——— Page & canvases ——— */
+html,body{
+  margin:0;padding:0;height:100%;width:100%;
+  background:radial-gradient(circle at center,#2c2c2c,#111);
+  overflow:hidden;font-family:system-ui,sans-serif;
+}
+
+canvas{position:absolute;inset:0;height:100vh;width:100vw}
+
+/* ——— Overlay on first gesture ——— */
+#startOverlay{
+  position:absolute;inset:0;
+  display:flex;align-items:center;justify-content:center;
+  background:rgba(0,0,0,.6);color:#fff;
+  font-size:1.25rem;text-align:center;pointer-events:none;
+}
+
+/* ——— Voice selector panel ——— */
+#voiceControl{
+  position:absolute;top:1rem;left:1rem;z-index:10;
+  display:flex;align-items:center;gap:.5rem;
+  color:#fff;font-size:.95rem;
+}
+#voiceTitle{margin:0}
+#voiceSelect{padding:.25rem;border-radius:.25rem}
+
+/* ——— Mute button ——— */
+.mute-button{
+  position:absolute;bottom:1rem;right:1rem;z-index:10;
+  width:3rem;height:3rem;border:none;border-radius:50%;
+  background:rgba(0,0,0,.55);color:#fff;font-size:1.5rem;cursor:pointer;
+  transition:background .2s;
+}
+.mute-button:hover{background:rgba(0,0,0,.8)}
+
+/* ——— Signature ——— */
+#signature{
+  position:absolute;bottom:1rem;left:1rem;z-index:10;
+  color:rgba(255,255,255,.4);font-size:.8rem;font-style:italic;
+  user-select:none;pointer-events:none;
+}
+</style>
+</head>
+<body>
+  <canvas id="staticLayer"></canvas>
+  <canvas id="dynamicLayer"></canvas>
+
+  <!-- top‑left voice selector -->
+  <div id="voiceControl">
+    <span id="voiceTitle">Talking Clock:</span>
+    <select id="voiceSelect"></select>
+  </div>
+
+  <!-- bottom‑right mute toggle -->
+  <button id="muteButton" class="mute-button">🔊</button>
+
+  <!-- subtle signature -->
+  <div id="signature">© Andrew Kingdom</div>
+
+  <!-- first-gesture overlay -->
+  <div id="startOverlay">Tap or press any key to enable audio</div>
+
+  <!-- modules -->
+  <script src="i18n.js"></script>
+  <script src="audioModule.js"></script>
+  <script src="clock.js"></script>
+</body>
+</html>
