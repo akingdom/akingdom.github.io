@@ -133,6 +133,21 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 - **System Tools**: Operational utilities.
 	- **Read more**: [Password Generator](https://akingdom.github.io/system_tools/password_generator.html)
 
+<div id="talkingclock" dir="auto" class="feature">
+	<div>
+		<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Talking&nbsp;Clock</h2></div>
+		<a target="_blank" rel="noopener noreferrer nofollow" href="https://akingdom.github.io/talking_clock/talkingclock.png">
+			<img alt="Whimsical www" src="https://akingdom.github.io/talking_clock/talkingclock.png" width="180px" height="180px" style="max-width: 100%;">
+		</a>
+	</div>
+	<div>
+		<p><a href="https://akingdom.github.io/talking_clock/">Experience a talking clock</a>—complete with smooth analog animation 
+      and real‑time voice announcements inspired by Telstra’s classic <em>1194</em> clock. 
+      Choose from your browser’s installed voices, mute the chimes when needed.</p>
+	</div>
+</div>
+
+
 ### Interests
 I have a wide range of interests that inform my work and approach:
 
@@ -161,6 +176,7 @@ I have a wide range of interests that inform my work and approach:
 		- **Read more**: [Micro Story Writing](https://akingdom.github.io/articles/microstorywriting)
 		- **Read more**: [Micro Story Sample](https://akingdom.github.io/articles/microstory-The_unsafe_saddle)
 	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+		- **Read more**: [Talking Clock](https://akingdom.github.io/talking_clock)
 		- **Read more**: [Match Blocks](https://akingdom.github.io/matchblox)
 
 
