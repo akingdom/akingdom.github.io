@@ -149,6 +149,7 @@ I have a wide range of interests that inform my work and approach:
 - **History and Language:** Delving into archaeology, etymology, genealogy, and more. I'm currently learning modern Greek and enjoy foreign films and shows.
 	- **Read more**: [Words and their meanings](https://akingdom.github.io/articles/etymology) (Etymology)
 	- **Read more**: [Shapes and their meanings](https://akingdom.github.io/articles/ShapeTheory) (Shape Theory)
+	- **Read more**: [Indiginous Peoples](https://akingdom.github.io/articles/indiginous-peoples) (A partial list)
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
@@ -158,8 +159,11 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 		- **Read more**: [Micro Story Writing](https://akingdom.github.io/articles/microstorywriting)
+		- **Read more**: [Micro Story Sample](https://akingdom.github.io/articles/microstory-The_unsafe_saddle)
 	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 		- **Read more**: [Match Blocks](https://akingdom.github.io/matchblox)
+
+
 ### Quotes
 
 > A movie is never really finished, just released. - Bonnie Arnold, a producer of the 'How to Train Your Dragon' movies.
