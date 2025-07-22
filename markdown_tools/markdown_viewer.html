@@ -186,7 +186,7 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
             if (testOrigin && testOrigin !== window.location.origin) {
               warnEl.textContent = `
                 Warning: this prefix points to a different origin (${testOrigin}).
-                CORS restrictions may block your resources.
+                CORS restrictions may block your resources. ${(testOrigin!=="file://")?"": "Saving and opening this web page on your local storage may assist with this. "}
               `.trim();
               warnEl.style.display = 'block';
             } else {
