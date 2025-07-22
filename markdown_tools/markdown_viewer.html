@@ -149,10 +149,16 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
               placeholder="e.g. https://cdn.example.com/assets/"
             />
             <button id="apply-prefix">Apply Prefix</button>
+            <div id="cors-warning"
+                 style="color: #b00;
+                        margin-top: 0.5em;
+                        display: none;">
+            </div>
           `;
         
           const input = container.querySelector('#prefix-input');
           const applyBtn       = container.querySelector('#apply-prefix');
+          const warnEl    = container.querySelector('#cors-warning');
         
           // Pre-fill with last prefix if stored
           const saved = localStorage.getItem('fileLinkPrefix');
@@ -163,6 +169,31 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
             let prefix = input.value.trim();
             localStorage.setItem('fileLinkPrefix', prefix);
         
+            // Pick one fileLink to test CORS/origin
+            const sampleName = fileLinks[0].dataset.origFilename;
+            const testHref   = prefix
+              ? (prefix.endsWith('/') ? prefix : prefix + '/') + sampleName
+              : fileLinks[0].dataset.origHrefAbs;
+        
+            let testOrigin;
+            try {
+              testOrigin = new URL(testHref, window.location.href).origin;
+            } catch {
+              testOrigin = null;
+            }
+        
+            // Show warning if origins differ
+            if (testOrigin && testOrigin !== window.location.origin) {
+              warnEl.textContent = `
+                Warning: this prefix points to a different origin (${testOrigin}).
+                CORS restrictions may block your resources.
+              `.trim();
+              warnEl.style.display = 'block';
+            } else {
+              warnEl.style.display = 'none';
+            }
+        
+            // Finally rewrite all links
             fileLinks.forEach(link => {
               const abs  = link.dataset.origHrefAbs;
               const name = link.dataset.origFilename;
