@@ -62,6 +62,21 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
         #tts-buttons button {
             margin: 0 8px 0 0;
         }
+        .thumb {
+            vertical-align: middle;
+            max-width: 303px;
+            max-height: 303px;
+            margin: 5px;
+            border: 2px solid transparent;
+            object-fit: cover;
+            cursor: pointer;
+            flex-basis: 180px;
+            box-sizing: border-box;
+            overflow: hidden;
+            border-radius: 0.6em;
+            transition: transform .2s ease-out;
+            float: right;
+        }
     </style>
 </head>
 <body>
@@ -75,12 +90,108 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
     </div>
     <h1 id="title">Markdown Viewer</h1>
       <input type="file" id="file-input" accept=".md" />
+    <div id="prefix-container" style="display: none; margin: 1em 0;"></div>
     <div id="keywords-container"></div>
     <div id="markdown-container" class="markdown-body"></div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/5.0.2/marked.min.js"></script>
     <!-- Include the TTS script (adjust the path as needed) -->
     <script src="../js/tts.js"></script>
+    <script>
+        /**
+         * Scans for <a> tags with filename-only hrefs, forces target="_blank",
+         * shows a UI to set or pick a prefix, remembers it in localStorage,
+         * and rewrites links (plus thumbnails for images) on apply.
+         *
+         * @param {string} containerId  The ID of the hidden container DIV that will host the UI
+         */
+        function scanForFileLinks(containerId = 'prefix-container') {
+          const filenameRegex = /^[^\/]+\.[a-zA-Z0-9]+$/;
+          const allLinks = Array.from(document.querySelectorAll('a'));
+        
+          // Force every link to open in a new tab
+          allLinks.forEach(link => {
+            if (!link.hasAttribute('target')) {
+              link.setAttribute('target', '_blank');
+              // optional but recommended for security
+              link.setAttribute('rel', 'noopener noreferrer');
+            }
+          });
+          
+          // Filter only filename-only links
+          const fileLinks = allLinks.filter(link => {
+            const href = link.getAttribute('href') || '';
+            return filenameRegex.test(href);
+          });
+          if (!fileLinks.length) return;
+          
+          // 3) Remember each link’s original href exactly once
+          fileLinks.forEach(link => {
+            if (!link.dataset.origHrefAbs) {
+              const abs  = link.href;
+              const name = abs.substring(abs.lastIndexOf('/') + 1);
+              link.dataset.origHrefAbs  = abs;
+              link.dataset.origFilename = name;
+          }
+          });
+
+        
+          // Reveal and populate the UI container
+          const container = document.getElementById(containerId);
+          container.style.display = 'block';
+          container.innerHTML = `
+            <label for="prefix-input" style="font-style: italic;">
+              Optional: enter a URL prefix for isolated file-only links:
+            </label>
+            <input
+              id="prefix-input"
+              type="text"
+              placeholder="e.g. https://cdn.example.com/assets/"
+            />
+            <button id="apply-prefix">Apply Prefix</button>
+          `;
+        
+          const input = container.querySelector('#prefix-input');
+          const applyBtn       = container.querySelector('#apply-prefix');
+        
+          // Pre-fill with last prefix if stored
+          const saved = localStorage.getItem('fileLinkPrefix');
+          if (saved) input.value = saved;
+        
+          // Apply prefix & remember it
+          applyBtn.addEventListener('click', () => {
+            let prefix = input.value.trim();
+            localStorage.setItem('fileLinkPrefix', prefix);
+        
+            fileLinks.forEach(link => {
+              const abs  = link.dataset.origHrefAbs;
+              const name = link.dataset.origFilename;
+              let href;
+        
+              if (!prefix) {
+                href = abs; // restore original
+              } else {
+                if (!prefix.endsWith('/')) prefix += '/';
+                href = prefix + name;
+              }
+        
+              link.setAttribute('href', href);
+        
+              // If it’s an image file, inject or update a .thumb <img>
+              if (/\.(jpe?g|png|gif|webp)$/i.test(name)) {
+                let img = link.querySelector('img.thumb');
+                if (!img) {
+                  img = document.createElement('img');
+                  img.className = 'thumb';
+                  link.appendChild(img);
+                }
+                img.src = href;
+                img.alt = link.textContent.trim() || name;
+              }
+            });
+          });
+        }
+    </script>
     <script>
         
         function displayKeywords(keywords) {
@@ -116,7 +227,6 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
                     const markdownText = e.target.result;
                     const htmlContent = marked.parse(markdownText);
                     document.getElementById('markdown-container').innerHTML = htmlContent;
-					TTS.show();
 
 					// Get PYKELET comments from the markdown container
 					const pykeletComments = getPykeletsFromComments(document.getElementById('markdown-container'));
@@ -137,6 +247,8 @@ DEPENDENCY:     [GitHub Markdown rendering library](https://chatgpt.com/c/672835
 						// Highlight keywords in the markdown content
                         highlightKeywords(keywords);
 					}
+					
+					scanForFileLinks();
                 };
                 reader.readAsText(file);
             } else {
