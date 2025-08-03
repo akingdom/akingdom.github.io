@@ -36,7 +36,7 @@ jobs:
         working-directory: node_batch
         env:
           GITHUB_TOKEN: ${{ secrets.GH_INDEX_TOKEN }}
-        run: node node_batch/build_index.js \
+        run: node build_index.js \
                --out ../assets/search_index.json
 
       - name: Commit & push if changed
