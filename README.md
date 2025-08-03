@@ -73,6 +73,48 @@ AUTHOR:      Andrew Kingdom
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
+<style>
+/* Basic styling for the search box and results */
+#search-container {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+#search-input {
+    width: 100%;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#search-results-container {
+    margin-top: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    padding: 1em;
+}
+.search-result {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px dashed #eee;
+}
+.search-result:last-child {
+    border-bottom: none;
+}
+.search-result h4 {
+    margin: 0;
+}
+.search-result p {
+    margin: 0.5em 0;
+    color: #555;
+}
+</style>
+
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search my gists, repos, and website...">
+    <div id="search-results-container"></div>
+</div>
+
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
 <div id="DESCRIPTION"></div>
@@ -233,4 +275,6 @@ I have a wide range of interests that inform my work and approach:
 <script src="js/pykelet.js"></script>
 <script src="js/hide_github_title.js"></script>
 <script src="js/random_quote.js"></script>
+<script src="js/3rdParty/lunr.js"></script>
+<script src="js/search.js"></script>
 <script src="js/tawk_to.js"></script>
