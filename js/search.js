@@ -1,158 +1,167 @@
 /**
  * search.js
  *
- * This script provides a client-side search functionality for a static website.
- * It fetches a search index from a JSON file, initializes a Lunr.js index,
- * and handles user input to display search results dynamically.
- *
- * NOTE: This version is designed to be called directly from an 'oninput'
- * attribute on your search input element in the HTML.
+ * Fetches a prebuilt Lunr JSON index from
+ * https://akingdom.github.io/assets/search_index.json,
+ * initializes Lunr, and provides live, grouped search
+ * with ESC-to-clear and minimum-query-length handling.
  */
 
-// Use an IIFE (Immediately Invoked Function Expression) to avoid global scope pollution.
-(function() {
-    let idx = null; // This will hold the Lunr index after it's loaded.
-    const searchResultsDiv = document.getElementById('search-results');
-    const searchInput = document.getElementById('search-input');
+;(function() {
+  // CONFIGURATION
+  const INDEX_URL        = `${location.origin}/assets/search_index.json`;
+  const INPUT_ID         = 'search-input';
+  const RESULTS_ID       = 'search-results';
+  const MIN_QUERY_LENGTH = 2;
+  const DEBOUNCE_DELAY   = 300; // milliseconds
 
-    /**
-     * Loads the search index from a JSON file and initializes Lunr.js.
-     * The function now correctly uses the `documents` array from the JSON data.
-     * @param {string} url The URL to the search index JSON file.
-     * @returns {Promise<lunr.Index|null>} A promise that resolves to the initialized
-     * Lunr index or null on error.
-     */
-    async function loadSearchIndex(url) {
-        try {
-            console.log(`Attempting to fetch search index from: ${url}`);
-            const response = await fetch(url);
-            
-            if (!response.ok) {
-                throw new Error(`Failed to fetch search index: ${response.statusText}`);
-            }
+  // STATE
+  let lunrIndex = null;
+  let documents = [];
 
-            const data = await response.json();
-            console.log("Search index data loaded successfully.");
+  // ELEMENT REFERENCES
+  const searchInput     = document.getElementById(INPUT_ID);
+  const resultsContainer = document.getElementById(RESULTS_ID);
 
-            // Initialize Lunr.js index
-            const newIndex = lunr(function () {
-                this.ref('id'); // The reference field for the document
-                this.field('title'); // A searchable field
-                this.field('text');  // Another searchable field
-                this.field('type');  // Another searchable field
-
-                let documentsAdded = 0;
-                // THIS IS THE CRITICAL FIX: We now iterate over the correct `documents` array.
-                if (data && data.documents && Array.isArray(data.documents)) {
-                    data.documents.forEach(doc => {
-                        this.add(doc);
-                        documentsAdded++;
-                    });
-                    console.log(`Lunr index built with ${documentsAdded} documents.`);
-                } else {
-                    console.error("The search index data is not in the expected format. It should have a 'documents' array.");
-                }
-            });
-            return newIndex;
-        } catch (error) {
-            console.error("Error loading or building search index:", error);
-            return null;
-        }
-    }
-
-    /**
-     * Displays the search results in the UI.
-     * @param {Array<lunr.Result>} results The array of search results.
-     */
-    function displayResults(results) {
-        if (!searchResultsDiv) {
-            console.error("Search results container element with ID 'search-results' not found.");
-            return;
-        }
-        
-        searchResultsDiv.innerHTML = ''; // Clear previous results
-
-        if (results.length === 0) {
-            searchResultsDiv.innerHTML = '<p class="text-gray-500 text-center p-4">No results found.</p>';
-            return;
-        }
-
-        results.forEach(result => {
-            const resultElement = document.createElement('div');
-            resultElement.className = 'p-4 bg-white rounded-lg border border-gray-200 shadow-sm transition-shadow hover:shadow-md mb-2';
-            const title = result.ref; // Lunr stores the reference in `result.ref`
-            
-            resultElement.innerHTML = `
-                <h3 class="text-xl font-semibold text-indigo-700">${title}</h3>
-                <a href="${title}" class="text-indigo-500 hover:text-indigo-600 hover:underline mt-1 inline-block text-sm">
-                    View Page
-                </a>
-            `;
-            searchResultsDiv.appendChild(resultElement);
-        });
-    }
-
-    /**
-     * A debouncing function to limit how often a function is called.
-     * @param {Function} func The function to debounce.
-     * @param {number} delay The delay in milliseconds.
-     * @returns {Function} The debounced function.
-     */
-    function debounce(func, delay) {
-        let timeout;
-        return function(...args) {
-            const context = this;
-            clearTimeout(timeout);
-            timeout = setTimeout(() => func.apply(context, args), delay);
-        };
-    }
-    
-    // --- Public Function ---
-    // This is the function that will be called directly from your HTML 'oninput' attribute.
-    const debouncedSearch = debounce(function(query) {
-        if (idx) {
-            const results = idx.search(query);
-            displayResults(results);
-        } else {
-            console.log("Search index not yet available. Please wait.");
-        }
-    }, 300);
-
-    // Make the search function globally accessible.
-    window.handleSearchInput = function(element) {
-        const query = element.value;
-        if (query.trim() === '') {
-            displayResults([]);
-            return;
-        }
-        debouncedSearch(query);
+  // DEBOUNCE HELPER
+  function debounce(fn, delay) {
+    let timer;
+    return (...args) => {
+      clearTimeout(timer);
+      timer = setTimeout(() => fn(...args), delay);
     };
+  }
 
-    // The main execution block.
-    document.addEventListener('DOMContentLoaded', async function() {
-        console.log("DOM content loaded. Initializing search functionality.");
+  // CLEAR OUT ANY LISTED RESULTS
+  function clearResults() {
+    resultsContainer.innerHTML = '';
+  }
 
-        // Gracefully handle missing search elements.
-        if (!searchInput || !searchResultsDiv) {
-            const errorMessage = "Required search elements (search-input or search-results) not found. Search functionality is disabled.";
-            console.error(errorMessage);
-            if (searchInput) {
-                searchInput.disabled = true;
-                searchInput.placeholder = "Search not available";
-            }
-            return;
+  // RENDER MATCHES GROUPED BY TYPE
+  function renderResults(matches) {
+    clearResults();
+
+    if (!matches.length) {
+      resultsContainer.innerHTML =
+        '<p class="text-gray-500 text-center p-4">No results found.</p>';
+      return;
+    }
+
+    // Group docs by their `type` field
+    const groups = matches.reduce((acc, match) => {
+      const doc = documents.find(d => d.id === match.ref);
+      if (!doc) return acc;
+      (acc[doc.type] = acc[doc.type] || []).push(doc);
+      return acc;
+    }, {});
+
+    // For each type, render a header + its items
+    Object.entries(groups).forEach(([type, docs]) => {
+      // Section header
+      const heading = document.createElement('h3');
+      heading.textContent = type.charAt(0).toUpperCase() + type.slice(1);
+      heading.className = 'mt-4 mb-2 font-bold';
+      resultsContainer.appendChild(heading);
+
+      // Items
+      docs.forEach(doc => {
+        const card = document.createElement('div');
+        card.className = 'search-result';
+
+        // Select an icon by type
+        let icon = '';
+        switch (type) {
+          case 'repository': icon = '🔧'; break;
+          case 'gist':       icon = '✂️'; break;
+          case 'page':       icon = '📄'; break;
+          case 'menu':       icon = '🔗'; break;
+          default:           icon = '';
         }
 
-        // Asynchronously load the search index from the correct path.
-        idx = await loadSearchIndex('assets/search_index.json');
-        
-        if (!idx) {
-            console.error("Could not initialize Lunr index. Search functionality is disabled.");
-            searchInput.disabled = true;
-            searchInput.placeholder = "Search not available";
-        } else {
-            console.log("Lunr index is now available for searching.");
-        }
+        // Build mark‐up
+        card.innerHTML = `
+          <h4>
+            ${icon} <a href="${doc.url}" target="_blank">${doc.title}</a>
+          </h4>
+          ${doc.text
+            ? `<p class="text-sm text-gray-600">${doc.text.slice(0, 150)}${doc.text.length > 150 ? '…' : ''}</p>`
+            : ''}
+        `;
+        resultsContainer.appendChild(card);
+      });
     });
+  }
 
+  // PERFORM A LUNR SEARCH AND RENDER
+  function performSearch(query) {
+    if (!lunrIndex) return;
+    // wildcard suffix for partial matches
+    const results = lunrIndex.search(`${query}*`);
+    renderResults(results);
+  }
+
+  // DEBOUNCED SEARCH HOOK
+  const debouncedSearch = debounce(performSearch, DEBOUNCE_DELAY);
+
+  // HANDLE INPUT EVENTS (for oninput="" or addEventListener)
+  function handleSearchInput(eventOrElement) {
+    const value = eventOrElement.target
+      ? eventOrElement.target.value
+      : eventOrElement.value;
+
+    if (!value || value.length < MIN_QUERY_LENGTH) {
+      clearResults();
+      return;
+    }
+    debouncedSearch(value.trim().toLowerCase());
+  }
+
+  // HANDLE ESC KEY TO CLEAR
+  function handleKeydown(e) {
+    if (e.key === 'Escape') {
+      searchInput.value = '';
+      clearResults();
+    }
+  }
+
+  // LOAD THE INDEX JSON, INIT LUNR
+  async function loadSearchIndex() {
+    try {
+      const res = await fetch(INDEX_URL);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const json = await res.json();
+      // load lunr index structure
+      lunrIndex = lunr.Index.load(json.index);
+      documents = json.documents;
+      // enable input
+      searchInput.disabled    = false;
+      searchInput.placeholder = 'Search my content…';
+    } catch (err) {
+      console.error('Error loading search index:', err);
+      searchInput.disabled    = true;
+      searchInput.placeholder = 'Search unavailable';
+    }
+  }
+
+  // ON DOM READY: kick off index load & wire events
+  document.addEventListener('DOMContentLoaded', () => {
+    if (!searchInput || !resultsContainer) {
+      console.error('Search input or results container missing.');
+      return;
+    }
+
+    // disable until index is ready
+    searchInput.disabled    = true;
+    searchInput.placeholder = 'Loading search…';
+
+    // fetch & initialize
+    loadSearchIndex();
+
+    // wire up input + keydown
+    searchInput.addEventListener('input', handleSearchInput);
+    searchInput.addEventListener('keydown', handleKeydown);
+
+    // support inline oninput calls
+    window.handleSearchInput = handleSearchInput;
+  });
 })();
