@@ -109,16 +109,26 @@ AUTHOR:      Andrew Kingdom
     margin: 0.5em 0;
     color: #555;
 }
+.search-icon {
+    --tw-text-opacity: 1;
+    color: rgb(156 163 175 / var(--tw-text-opacity, 1));
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+    --tw-translate-y: -50%;
+    width: 1.5rem;
+    height: 1.5rem;
+    top: 50%;
+    right: 0.75rem;
+    position: absolute;
+}
 </style>
 <div id="search-container">
     <div style="position:relative">
         <input type="search" id="search-input" placeholder="Search my content..."
             class="w-full px-4 py-3 text-lg border-2 border-gray-300 rounded-lg focus:outline-none focus:border-indigo-500 transition-all duration-300">
-        <svg class="absolute right-3 top-1/2 transform -translate-y-1/2 h-6 w-6 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+        <svg is="search-icon" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
             <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path>
         </svg>
     </div>
-    <input type="search" id="search-input" placeholder="Search my gists, repos, and website...">
     <div id="search-results-container"></div>
 </div>
 
