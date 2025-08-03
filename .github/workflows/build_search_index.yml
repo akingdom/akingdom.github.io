@@ -31,7 +31,7 @@ jobs:
         run: node .github/workflows/build_index.js
 
       - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@5.0.0
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "feat: Auto-generated search index update"
           file_pattern: 'assets/search_index.json'
