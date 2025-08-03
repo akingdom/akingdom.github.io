@@ -1,0 +1,51 @@
+name: Build Search Index
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every Sunday at 00:00 UTC (10 AM AEST on Sunday in Marrickville)
+    - cron: '0 0 * * 0'
+
+concurrency:
+  group: search-index-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build search index
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_INDEX_TOKEN }}
+        run: node scripts/build_index.js \
+               --out assets/search_index.json
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          if ! git diff --quiet assets/search_index.json; then
+            git add assets/search_index.json
+            git commit -m "chore: rebuild index at $GITHUB_SHA"
+            git push --force-with-lease origin main
+          else
+            echo "No index changes; skipping commit."
+          fi
