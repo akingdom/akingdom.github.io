@@ -81,9 +81,10 @@ AUTHOR:      Andrew Kingdom
 }
 #search-input {
     width: 100%;
+    height: 100%;
     padding: 0.5em;
     border: 1px solid #ccc;
-    border-radius: 4px;
+    border-radius: 16px;
     box-sizing: border-box;
 }
 #search-results-container {
@@ -93,6 +94,10 @@ AUTHOR:      Andrew Kingdom
     border-radius: 4px;
     background-color: #f9f9f9;
     padding: 1em;
+}
+#search-input-container {
+	position:relative;
+	width: min(38rem,75%);
 }
 .search-result {
     margin-bottom: 1em;
@@ -111,9 +116,15 @@ AUTHOR:      Andrew Kingdom
 }
 .search-icon {
     --tw-text-opacity: 1;
+    --tw-translate-y: -50%;
+    --tw-translate-x: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
     color: rgb(156 163 175 / var(--tw-text-opacity, 1));
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-    --tw-translate-y: -50%;
     width: 1.5rem;
     height: 1.5rem;
     top: 50%;
@@ -122,10 +133,9 @@ AUTHOR:      Andrew Kingdom
 }
 </style>
 <div id="search-container">
-    <div style="position:relative">
-        <input type="search" id="search-input" placeholder="Search my content..."
-            class="w-full px-4 py-3 text-lg border-2 border-gray-300 rounded-lg focus:outline-none focus:border-indigo-500 transition-all duration-300">
-        <svg is="search-icon" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+    <div style="position:relative;width: min(38rem,75%);">
+        <input type="search" id="search-input" placeholder="Search my content...">
+        <svg fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="search-icon">
             <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path>
         </svg>
     </div>
