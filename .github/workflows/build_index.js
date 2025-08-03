@@ -70,32 +70,36 @@ async function fetchWebsiteContent() {
 }
 
 async function buildAndSaveIndex() {
-    console.log(`Found ${documents.length} documents to index.`);
-    const index = lunr(function () {
-        this.ref('id');
-        this.field('title');
-        this.field('text');
-        this.field('type');
+  console.log(`Found ${documents.length} documents to index.`);
 
-        documents.forEach(doc => {
-            this.add(doc);
-        });
-    });
+  const index = lunr(function () {
+      this.ref('id');
+      this.field('title');
+      this.field('text');
+      this.field('type');
 
-    const output = {
-        index: index.toJSON(),
-        documents: documents.map(doc => ({
-            id: doc.id,
-            title: doc.title,
-            url: doc.url
-        }))
-    };
+      documents.forEach(doc => {
+          this.add(doc);
+      });
+  });
 
-    const outputPath = path.join(__dirname, '../../assets/search_index.json');
-    await fs.writeFile(outputPath, JSON.stringify(output), 'utf8');
-    console.log('Search index successfully built and saved!');
+  const output = {
+      index: index.toJSON(),
+      documents: documents.map(doc => ({
+          id: doc.id,
+          title: doc.title,
+          url: doc.url
+      }))
+  };
+
+  const outputDir = path.join(__dirname, '../../assets');
+  await fs.mkdir(outputDir, { recursive: true });
+
+  const outputPath = path.join(outputDir, 'search_index.json');
+  await fs.writeFile(outputPath, JSON.stringify(output), 'utf8');
+
+  console.log('Search index successfully built and saved!');
 }
-
 async function run() {
     try {
         await fetchRepositories();
