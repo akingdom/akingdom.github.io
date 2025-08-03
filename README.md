@@ -79,6 +79,10 @@ AUTHOR:      Andrew Kingdom
     margin-top: 1em;
     margin-bottom: 2em;
 }
+#search-input-container {
+	position:relative;
+	width: min(38rem,75%);
+}
 #search-input {
     width: 100%;
     height: 100%;
@@ -87,19 +91,8 @@ AUTHOR:      Andrew Kingdom
     border-radius: 16px;
     box-sizing: border-box;
 }
-#search-results-container {
-    display: none;
-    margin-top: 1em;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    background-color: #f9f9f9;
-    padding: 1em;
-}
-#search-input-container {
-	position:relative;
-	width: min(38rem,75%);
-}
 .search-result {
+    border-radius: 6px;
     margin-bottom: 1em;
     padding-bottom: 1em;
     border-bottom: 1px dashed #eee;
@@ -139,7 +132,7 @@ AUTHOR:      Andrew Kingdom
             <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path>
         </svg>
     </div>
-    <div id="search-results-container"></div>
+    <div id="search-results"></div>
 </div>
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
