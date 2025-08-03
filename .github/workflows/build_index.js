@@ -1,7 +1,7 @@
-const { Octokit } = require('@octokit/core');
-const lunr = require('lunr');
-const fs = require('fs').promises;
-const path = require('path');
+import { Octokit } from '@octokit/core';
+import lunr from 'lunr';
+import { promises as fs } from 'fs';
+import path from 'path';
 
 const USERNAME = 'akingdom';
 const REPOSITORY_NAME = 'akingdom.github.io';
