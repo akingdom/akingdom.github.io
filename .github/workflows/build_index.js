@@ -2,124 +2,110 @@ import { Octokit } from '@octokit/core';
 import lunr from 'lunr';
 import { promises as fs } from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-const USERNAME = 'akingdom';
-const REPOSITORY_NAME = 'akingdom.github.io';
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // The token from the GitHub Action
+// A helper to make __dirname available in ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const octokit = new Octokit({ auth: GITHUB_TOKEN });
 
-// Fetches all public repositories and their READMEs
+const REPO_OWNER = 'akingdom';
+const REPO_NAME = 'akingdom.github.io';
+
+const documents = [];
+
 async function fetchRepositories() {
-    console.log(`Fetching repositories for ${USERNAME}...`);
-    const { data: repos } = await octokit.request('GET /users/{username}/repos', {
-        username: USERNAME,
-        type: 'public',
+    console.log('Fetching repositories for akingdom...');
+    const response = await octokit.request('GET /users/{owner}/repos', {
+        owner: REPO_OWNER,
+        type: 'all',
     });
-
-    const documents = await Promise.all(
-        repos.map(async (repo) => {
-            let readmeContent = '';
-            try {
-                // Fetch the README content for each repo
-                const { data: readme } = await octokit.request('GET /repos/{owner}/{repo}/readme', {
-                    owner: USERNAME,
-                    repo: repo.name,
-                    mediaType: { format: 'html' },
-                });
-                readmeContent = readme;
-            } catch (error) {
-                // Ignore repos without a README
-                if (error.status !== 404) {
-                    console.error(`Failed to fetch README for ${repo.name}:`, error.message);
-                }
-            }
-
-            return {
+    for (const repo of response.data) {
+        if (!repo.fork && !repo.archived && !repo.disabled) {
+            documents.push({
                 id: repo.full_name,
                 title: repo.name,
+                text: repo.description || '',
                 url: repo.html_url,
                 type: 'repository',
-                content: `${repo.description || ''} ${readmeContent}`,
-            };
-        })
-    );
-    return documents;
+            });
+        }
+    }
 }
 
-// Fetches all public gists
 async function fetchGists() {
-    console.log(`Fetching gists for ${USERNAME}...`);
-    const { data: gists } = await octokit.request('GET /users/{username}/gists', {
-        username: USERNAME,
+    console.log('Fetching gists for akingdom...');
+    const response = await octokit.request('GET /users/{owner}/gists', {
+        owner: REPO_OWNER,
     });
-
-    return gists.map((gist) => {
-        const fileContent = Object.values(gist.files)
-            .map((file) => file.content || '')
-            .join(' ');
-        const description = gist.description || 'No description';
-
-        return {
+    for (const gist of response.data) {
+        documents.push({
             id: gist.id,
-            title: description,
+            title: Object.keys(gist.files)[0],
+            text: gist.description || '',
             url: gist.html_url,
             type: 'gist',
-            content: `${description} ${fileContent}`,
-        };
-    });
+        });
+    }
 }
 
-// Reads the local README.md file
 async function fetchWebsiteContent() {
     console.log('Fetching local website content...');
-    const content = await fs.readFile(path.join(__dirname, '../../README.md'), 'utf-8');
-    return [{
-        id: 'website',
-        title: 'Andrew Kingdom - Website',
-        url: 'https://akingdom.github.io',
-        type: 'website',
-        content: content,
-    }];
+    try {
+        const readmePath = path.join(__dirname, '../../README.md');
+        const readmeContent = await fs.readFile(readmePath, 'utf8');
+
+        documents.push({
+            id: 'readme',
+            title: 'README',
+            text: readmeContent,
+            url: '/',
+            type: 'page',
+        });
+    } catch (error) {
+        console.error('Failed to read README.md:', error.message);
+    }
 }
 
 async function buildAndSaveIndex() {
-    try {
-        const repositories = await fetchRepositories();
-        const gists = await fetchGists();
-        const websiteContent = await fetchWebsiteContent();
+    console.log(`Found ${documents.length} documents to index.`);
+    const index = lunr(function () {
+        this.ref('id');
+        this.field('title');
+        this.field('text');
+        this.field('type');
 
-        // Combine all documents into a single array
-        const documents = [...repositories, ...gists, ...websiteContent];
-        console.log(`Found ${documents.length} documents to index.`);
-
-        // Build the Lunr index
-        const idx = lunr(function () {
-            this.ref('id');
-            this.field('title', { boost: 10 });
-            this.field('content');
-            this.field('type');
-
-            documents.forEach((doc) => {
-                this.add(doc);
-            });
+        documents.forEach(doc => {
+            this.add(doc);
         });
+    });
 
-        // Save the index and the documents
-        const indexData = {
-            index: idx.toJSON(),
-            docs: documents,
-        };
+    const output = {
+        index: index.toJSON(),
+        documents: documents.map(doc => ({
+            id: doc.id,
+            title: doc.title,
+            url: doc.url
+        }))
+    };
 
-        const outputDir = path.join(__dirname, '../../assets');
-        await fs.mkdir(outputDir, { recursive: true });
-        await fs.writeFile(path.join(outputDir, 'search_index.json'), JSON.stringify(indexData));
+    const outputPath = path.join(__dirname, '../../assets/search_index.json');
+    await fs.writeFile(outputPath, JSON.stringify(output), 'utf8');
+    console.log('Search index successfully built and saved!');
+}
 
-        console.log('Search index successfully built and saved!');
+async function run() {
+    try {
+        await fetchRepositories();
+        await fetchGists();
+        await fetchWebsiteContent();
+        await buildAndSaveIndex();
     } catch (error) {
         console.error('An error occurred during indexing:', error);
         process.exit(1);
     }
 }
 
-buildAndSaveIndex();
+run();
