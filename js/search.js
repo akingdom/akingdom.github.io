@@ -127,13 +127,22 @@
   // LOAD THE INDEX JSON, INIT LUNR
   async function loadSearchIndex() {
     try {
-      const res = await fetch(INDEX_URL);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const res  = await fetch(INDEX_URL);
       const json = await res.json();
-      // load lunr index structure
+    
+      // load the Lunr index
       lunrIndex = lunr.Index.load(json.index);
-      documents = json.documents;
-      // enable input
+    
+      // rebuild the documents array from json.store
+      documents = Object.entries(json.store).map(([id, meta]) => ({
+        id,
+        title: meta.title,
+        url:   meta.url,
+        type:  meta.type || 'page',   // if you emitted type
+        text:  meta.text || ''        // if you emitted excerpt
+      }));
+    
+      // enable the input
       searchInput.disabled    = false;
       searchInput.placeholder = 'Search my content…';
     } catch (err) {
