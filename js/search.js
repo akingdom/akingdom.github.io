@@ -13,9 +13,11 @@
 (function() {
     let idx = null; // This will hold the Lunr index after it's loaded.
     const searchResultsDiv = document.getElementById('search-results');
+    const searchInput = document.getElementById('search-input');
 
     /**
      * Loads the search index from a JSON file and initializes Lunr.js.
+     * The function now correctly uses the `documents` array from the JSON data.
      * @param {string} url The URL to the search index JSON file.
      * @returns {Promise<lunr.Index|null>} A promise that resolves to the initialized
      * Lunr index or null on error.
@@ -40,6 +42,7 @@
                 this.field('type');  // Another searchable field
 
                 let documentsAdded = 0;
+                // THIS IS THE CRITICAL FIX: We now iterate over the correct `documents` array.
                 if (data && data.documents && Array.isArray(data.documents)) {
                     data.documents.forEach(doc => {
                         this.add(doc);
@@ -103,25 +106,6 @@
             timeout = setTimeout(() => func.apply(context, args), delay);
         };
     }
-
-    // The main execution block.
-    document.addEventListener('DOMContentLoaded', async function() {
-        console.log("DOM content loaded. Initializing search functionality.");
-
-        if (!searchResultsDiv) {
-            console.error("Required DOM element 'search-results' not found. Search functionality is disabled.");
-            return;
-        }
-
-        // Asynchronously load the search index.
-        idx = await loadSearchIndex('assets/search_index.json');
-        
-        if (!idx) {
-            console.error("Could not initialize Lunr index. Search functionality is disabled.");
-        } else {
-            console.log("Lunr index is now available for searching.");
-        }
-    });
     
     // --- Public Function ---
     // This is the function that will be called directly from your HTML 'oninput' attribute.
@@ -143,5 +127,32 @@
         }
         debouncedSearch(query);
     };
+
+    // The main execution block.
+    document.addEventListener('DOMContentLoaded', async function() {
+        console.log("DOM content loaded. Initializing search functionality.");
+
+        // Gracefully handle missing search elements.
+        if (!searchInput || !searchResultsDiv) {
+            const errorMessage = "Required search elements (search-input or search-results) not found. Search functionality is disabled.";
+            console.error(errorMessage);
+            if (searchInput) {
+                searchInput.disabled = true;
+                searchInput.placeholder = "Search not available";
+            }
+            return;
+        }
+
+        // Asynchronously load the search index from the correct path.
+        idx = await loadSearchIndex('assets/search_index.json');
+        
+        if (!idx) {
+            console.error("Could not initialize Lunr index. Search functionality is disabled.");
+            searchInput.disabled = true;
+            searchInput.placeholder = "Search not available";
+        } else {
+            console.log("Lunr index is now available for searching.");
+        }
+    });
 
 })();
