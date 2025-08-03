@@ -1,0 +1,37 @@
+name: Build Search Index
+
+# This defines when the workflow runs
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'assets/search_index.json'
+
+# This defines the job that will run
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # This is important: checkout with the PAT so the action can push back to the repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install lunr @octokit/core
+
+      - name: Build search index
+        run: node .github/workflows/build_index.js
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@5.0.0
+        with:
+          commit_message: "feat: Auto-generated search index update"
+          file_pattern: 'assets/search_index.json'
