@@ -87,6 +87,7 @@ AUTHOR:      Andrew Kingdom
     box-sizing: border-box;
 }
 #search-results-container {
+    display: none;
     margin-top: 1em;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -109,11 +110,11 @@ AUTHOR:      Andrew Kingdom
     color: #555;
 }
 </style>
-
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search my gists, repos, and website...">
+    <input type="search" id="search-input" placeholder="Search my gists, repos, and website...">
     <div id="search-results-container"></div>
 </div>
+
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
