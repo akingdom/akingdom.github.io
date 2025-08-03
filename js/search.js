@@ -17,9 +17,14 @@ document.addEventListener('DOMContentLoaded', () => {
         this.field('title', { boost: 10 });
         this.field('text');
         
-        data.index.forEach(doc => {
-          this.add(doc);
-        }, this);
+        if (data && data.fieldVectors && Array.isArray(data.fieldVectors)) {
+          data.fieldVectors.forEach(doc => {
+            this.add(doc);
+          }, this);
+        } else {
+          console.error("The data object is not in the expected format or fieldVectors is not an array.");
+        }
+
       });
 
       // After the index is loaded, enable the search input
