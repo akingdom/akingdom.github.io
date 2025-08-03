@@ -10,8 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.1.2",
+    "glob": "^11.0.3",
     "globby": "^14.1.0",
-    "lunr": "^2.3.9"
+    "gray-matter": "^4.0.3",
+    "lunr": "^2.3.9",
+    "minimist": "^1.2.8",
+    "ponyfill": "^0.0.1",
+    "web-streams-polyfill": "^4.1.0"
   },
   "description": ""
 }
