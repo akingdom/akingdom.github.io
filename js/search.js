@@ -17,12 +17,12 @@ document.addEventListener('DOMContentLoaded', () => {
         this.field('title', { boost: 10 });
         this.field('text');
         
-        if (data && data.fieldVectors && Array.isArray(data.fieldVectors)) {
-          data.fieldVectors.forEach(doc => {
+        if (data && data.documents && Array.isArray(data.documents)) {
+          data.documents.forEach(doc => {
             this.add(doc);
           }, this);
         } else {
-          console.error("The data object is not in the expected format or fieldVectors is not an array.");
+          console.error("The data object is not in the expected format or .documents is not an array.");
         }
 
       });
