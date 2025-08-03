@@ -29,13 +29,15 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
+        working-directory: node_batch
         run: npm ci
 
       - name: Build search index
+        working-directory: node_batch
         env:
           GITHUB_TOKEN: ${{ secrets.GH_INDEX_TOKEN }}
         run: node scripts/build_index.js \
-               --out assets/search_index.json
+               --out ../assets/search_index.json
 
       - name: Commit & push if changed
         run: |
