@@ -43,8 +43,8 @@
     }
     const clear = getClearIcon();
     if (clear) {
-      if (visible) clear.classList.remove('hidden');
-      else         clear.classList.add('hidden');
+      if (visible) clear.classList.add('hidden');
+      else         clear.classList.remove('hidden');
     }
   }
 
