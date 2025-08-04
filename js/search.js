@@ -86,7 +86,7 @@
       const heading = document.createElement('h3');
       heading.textContent = type.charAt(0).toUpperCase() + type.slice(1);
       heading.className = 'mt-4 mb-2 font-bold';
-      container.appendChild(heading);
+      //container.appendChild(heading);
 
       // Items
       docs.forEach(doc => {
