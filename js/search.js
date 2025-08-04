@@ -55,7 +55,7 @@
 
   function clearSearchInput(eventOrElement) {
     getResultsContainer().innerHTML = '';
-    getSearchInput().innerHTML = '';
+    getSearchInput().value = '';
     showIcon(true);
   }
 
