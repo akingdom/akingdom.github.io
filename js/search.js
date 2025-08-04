@@ -20,8 +20,8 @@
   let documents = [];
 
   // ELEMENT REFERENCES
-  const searchInput     = document.getElementById(INPUT_ID);
-  const resultsContainer = document.getElementById(RESULTS_ID);
+  let searchInput;
+  let resultsContainer;
 
   // DEBOUNCE HELPER
   function debounce(fn, delay) {
@@ -154,6 +154,8 @@
 
   // ON DOM READY: kick off index load & wire events
   document.addEventListener('DOMContentLoaded', () => {
+    searchInput      = document.getElementById(INPUT_ID);
+    resultsContainer = document.getElementById(RESULTS_ID);
     if (!searchInput || !resultsContainer) {
       console.error('Search input or results container missing.');
       return;
