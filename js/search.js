@@ -50,11 +50,13 @@
 
   // CLEAR OUT ANY LISTED RESULTS
   function clearResults() {
-    getResultsContainer().innerHTML = '';
+    container = getResultsContainer();
+    container.innerHTML = '';
+    container.classList.add('hidden');
   }
 
   function clearSearchInput(eventOrElement) {
-    getResultsContainer().innerHTML = '';
+    clearResults();
     getSearchInput().value = '';
     showIcon(true);
   }
@@ -63,6 +65,7 @@
   function renderResults(matches) {
     const container = getResultsContainer();
     container.innerHTML = '';
+    container.classList.remove('hidden');
     if (!matches.length) {
       container.innerHTML =
         '<p class="text-gray-500 text-center p-4">No results found.</p>';
