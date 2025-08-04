@@ -76,152 +76,95 @@ AUTHOR:      Andrew Kingdom
 
 <!-- Search Box -->
 <style>
-  /* Container spacing */
-  #search-container {
+/* Basic styling for the search box and results */
+#search-container {
     margin-top: 1em;
     margin-bottom: 2em;
-  }
-
-  /* Wraps the input + icons */
-  #search-input-container {
-    position: relative;
-    width: min(38rem, 75%);
-  }
-
-  /* The search input */
-  #search-input {
+}
+#search-input-container {
+	position:relative;
+	width: min(38rem,75%);
+}
+#search-input {
     width: 100%;
-    padding: 0.6em 2.5em 0.6em 1em;
-    font-size: 1rem;
+    height: 100%;
+    padding: 0.5em 1.0em;
     border: 1px solid #ccc;
     border-radius: 16px;
     box-sizing: border-box;
-    transition: border-color 0.2s, box-shadow 0.2s;
-  }
-
-  #search-input:focus {
-    outline: none;
-    border-color: #0078d7;
-    box-shadow: 0 0 0 3px rgba(0, 120, 215, 0.2);
-  }
-
-  /* Magnifier icon and clear button */
-  .search-icon,
-  .clear-button {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 1.5rem;
-    height: 1.5rem;
-    background: none;
-    border: none;
-    color: rgb(156 163 175);
-    cursor: pointer;
-    transition: opacity 0.2s;
-  }
-
-  .search-icon {
-    left: 0.75rem;
-  }
-
-  .clear-button {
-    right: 0.75rem;
-    font-size: 1.2rem;
-  }
-
-  /* Hide when `.hidden` is applied */
-  .search-icon.hidden,
-  .clear-button.hidden,
-  #search-results.hidden {
-    opacity: 0;
-    visibility: hidden;
-  }
-
-  /* Results panel */
-  #search-results {
-    border: thin solid #1e3a5f;
-    border-left-width: 4px;
+}
+#search-results {
+    border-color: #1e3a5f;
+    border-style: solid;
+    border-width: thin;
     border-radius: 6px;
     margin-top: 0.35rem;
+    margin-left: 0.1rem;
     background-color: ghostwhite;
-    display: flex;
     flex-direction: column;
-    gap: 0;
-    padding: 1rem;
-    max-width: min(38rem, 75%);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    transition: max-height 0.3s ease;
-  }
-
-  /* Individual result cards */
-  .search-result {
-    padding: 0.75em 0;
+    gap: 0px;
+    align-items: flex-start;
+    border-left: 4px solid #1e3a5f;
+    display: flex;
+    padding: 0 1rem;
+}
+.search-result {
+    border-radius: 6px;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
     border-bottom: 1px dashed #eee;
-  }
-
-  .search-result:last-child {
+}
+.search-result:last-child {
     border-bottom: none;
-  }
-
-  .search-result h4 {
+}
+.search-result h4 {
     margin: 0;
-  }
-
-  .search-result p {
+}
+.search-result p {
     margin: 0.5em 0;
     color: #555;
-  }
-
-  /* Highlight matches */
-  .search-result mark {
-    background-color: #fffa8b;
-    padding: 0 0.2em;
-    border-radius: 2px;
-  }
+}
+.search-icon, .clear-button {
+    --tw-text-opacity: 1;
+    --tw-translate-y: -50%;
+    --tw-translate-x: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+    color: rgb(156 163 175 / var(--tw-text-opacity, 1));
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+    width: 1.5rem;
+    height: 1.5rem;
+    top: 50%;
+    right: 0.75rem;
+    position: absolute;
+    background-color: inherit;
+    border: inherit;
+}
+.search-icon.hidden, .clear-button.hidden, #search-results.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
 </style>
-
 <div id="search-container">
-  <div id="search-input-container">
-    <input
-      type="search"
-      id="search-input"
-      placeholder="Search my content…"
-      oninput="handleSearchInput(this)"
-      onkeydown="handleSearchKeydown(event)"
-    >
-    <button
-      type="button"
-      class="clear-button hidden"
-      onclick="clearSearchInput()"
-      aria-label="Clear search"
-    >
-      ×
-    </button>
-    <svg
-      class="search-icon"
-      fill="currentColor"
-      viewBox="0 0 20 20"
-      xmlns="http://www.w3.org/2000/svg"
-      aria-hidden="true"
-    >
-      <path
-        fill-rule="evenodd"
-        d="M8 4a4 4 0 100 8 4 4 0 000-8z
-           M2 8a6 6 0 1110.89 3.476l4.817 4.817
-           a1 1 0 01-1.414 1.414l-4.816-4.816
-           A6 6 0 012 8z"
-        clip-rule="evenodd"
-      />
-    </svg>
-  </div>
-
-  <div id="search-results" class="hidden"></div>
+    <div style="position:relative;width: min(38rem,75%);">
+        <input type="text" id="search-input" placeholder="Search my content..." oninput="handleSearchInput(this)" onkeydown="handleSearchKeydown(event)">
+        <button class="clear-button hidden" onclick="clearSearchInput()">X</button>
+        <svg fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="search-icon">
+            <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path>
+        </svg>
+    </div>
+    <div id="search-results" class="hidden"></div>
 </div>
 <!-- Search Box end -->
+
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
 <div id="DESCRIPTION"></div>
+
 
 ### Work I do
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
