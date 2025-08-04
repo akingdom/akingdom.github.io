@@ -52,7 +52,7 @@
     getResultsContainer().innerHTML = '';
   }
 
-  function clearSearchInput() {
+  function clearSearchInput(eventOrElement) {
     clearResults();
     getResultsContainer().innerHTML = '';
     showIcon(true);
