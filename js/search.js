@@ -22,7 +22,8 @@
   // ELEMENT GETTERS
   function getSearchInput() {return document.getElementById(INPUT_ID);}
   function getResultsContainer() {return document.getElementById(RESULTS_ID);}
-
+  function getSearchIcon() {return document.querySelector('#search-container .search-icon');}
+  function getClearIcon() {return document.querySelector('#search-container .clear-button');}
   // DEBOUNCE HELPER
   function debounce(fn, delay) {
     let timer;
@@ -32,9 +33,29 @@
     };
   }
 
+  // SHOW/HIDE ICON
+  function showIcon(visible) {
+    const search = getSearchIcon();
+    if (search) {
+      if (visible) search.classList.remove('hidden');
+      else         search.classList.add('hidden');
+    }
+    const clear = getClearIcon();
+    if (clear) {
+      if (visible) clear.classList.remove('hidden');
+      else         clear.classList.add('hidden');
+    }
+  }
+
   // CLEAR OUT ANY LISTED RESULTS
   function clearResults() {
     getResultsContainer().innerHTML = '';
+  }
+
+  function clearSearchInput() {
+    clearResults();
+    getResultsContainer().innerHTML = '';
+    showIcon(true);
   }
 
   // RENDER MATCHES GROUPED BY TYPE
@@ -108,7 +129,9 @@
     const value = eventOrElement.target
       ? eventOrElement.target.value
       : eventOrElement.value;
-
+    
+    showIcon(value.length);
+    
     if (!value || value.length < MIN_QUERY_LENGTH) {
       clearResults();
       return;
@@ -120,6 +143,7 @@
   function handleKeydown(e) {
     if (e.key === 'Escape') {
       getSearchInput().value = '';
+      showIcon(value.length);
       clearResults();
     }
   }
@@ -175,5 +199,6 @@
 
     // support inline oninput calls
     window.handleSearchInput = handleSearchInput;
+    window.clearSearchInput = clearSearchInput;
   });
 })();
