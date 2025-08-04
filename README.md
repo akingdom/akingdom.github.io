@@ -93,6 +93,21 @@ AUTHOR:      Andrew Kingdom
     border-radius: 16px;
     box-sizing: border-box;
 }
+#search-results {
+    border-color: #1e3a5f;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 6px;
+    margin-top: 0.35rem;
+    margin-left: 0.1rem;
+    background-color: ghostwhite;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    border-left: 4px solid #1e3a5f;
+    display: flex;
+    padding: 0 1rem;
+}
 .search-result {
     border-radius: 6px;
     margin-bottom: 1em;
@@ -135,7 +150,7 @@ AUTHOR:      Andrew Kingdom
 </style>
 <div id="search-container">
     <div style="position:relative;width: min(38rem,75%);">
-        <input type="text" id="search-input" placeholder="Search my content..." oninput="handleSearchInput(this)">
+        <input type="text" id="search-input" placeholder="Search my content..." oninput="handleSearchInput(this)" onkeydown="handleSearchKeydown()">
         <button class="clear-button hidden" onclick="clearSearchInput()">X</button>
         <svg fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="search-icon">
             <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path>
