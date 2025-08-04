@@ -19,9 +19,9 @@
   let lunrIndex = null;
   let documents = [];
 
-  // ELEMENT REFERENCES
-  let searchInput;
-  let resultsContainer;
+  // ELEMENT GETTERS
+  function getSearchInput() {return document.getElementById(INPUT_ID);}
+  function getResultsContainer() {return document.getElementById(RESULTS_ID);}
 
   // DEBOUNCE HELPER
   function debounce(fn, delay) {
@@ -34,15 +34,15 @@
 
   // CLEAR OUT ANY LISTED RESULTS
   function clearResults() {
-    resultsContainer.innerHTML = '';
+    getResultsContainer().innerHTML = '';
   }
 
   // RENDER MATCHES GROUPED BY TYPE
   function renderResults(matches) {
-    clearResults();
-
+    const container = getResultsContainer();
+    container.innerHTML = '';
     if (!matches.length) {
-      resultsContainer.innerHTML =
+      container.innerHTML =
         '<p class="text-gray-500 text-center p-4">No results found.</p>';
       return;
     }
@@ -61,7 +61,7 @@
       const heading = document.createElement('h3');
       heading.textContent = type.charAt(0).toUpperCase() + type.slice(1);
       heading.className = 'mt-4 mb-2 font-bold';
-      resultsContainer.appendChild(heading);
+      container.appendChild(heading);
 
       // Items
       docs.forEach(doc => {
@@ -87,7 +87,7 @@
             ? `<p class="text-sm text-gray-600">${doc.text.slice(0, 150)}${doc.text.length > 150 ? '…' : ''}</p>`
             : ''}
         `;
-        resultsContainer.appendChild(card);
+        container.appendChild(card);
       });
     });
   }
@@ -119,7 +119,7 @@
   // HANDLE ESC KEY TO CLEAR
   function handleKeydown(e) {
     if (e.key === 'Escape') {
-      searchInput.value = '';
+      getSearchInput().value = '';
       clearResults();
     }
   }
@@ -142,35 +142,36 @@
         text:  meta.text || ''        // if you emitted excerpt
       }));
     
-      // enable the input
-      searchInput.disabled    = false;
-      searchInput.placeholder = 'Search my content…';
+      // enable the live input
+      const input = getSearchInput();
+      input.disabled    = false;
+      input.placeholder = 'Search my content…';
     } catch (err) {
       console.error('Error loading search index:', err);
-      searchInput.disabled    = true;
-      searchInput.placeholder = 'Search unavailable';
+      input.disabled    = true;
+      input.placeholder = 'Search unavailable';
     }
   }
 
   // ON DOM READY: kick off index load & wire events
   document.addEventListener('DOMContentLoaded', () => {
-    searchInput      = document.getElementById(INPUT_ID);
-    resultsContainer = document.getElementById(RESULTS_ID);
+    input      = getSearchInput();
+    container = getResultsContainer();
     if (!searchInput || !resultsContainer) {
       console.error('Search input or results container missing.');
       return;
     }
 
+    // wire up input + keydown
+    input.addEventListener('input', handleSearchInput);
+    input.addEventListener('keydown', handleKeydown);
+
     // disable until index is ready
-    searchInput.disabled    = true;
-    searchInput.placeholder = 'Loading search…';
+    input.disabled    = true;
+    input.placeholder = 'Loading search…';
 
     // fetch & initialize
     loadSearchIndex();
-
-    // wire up input + keydown
-    searchInput.addEventListener('input', handleSearchInput);
-    searchInput.addEventListener('keydown', handleKeydown);
 
     // support inline oninput calls
     window.handleSearchInput = handleSearchInput;
