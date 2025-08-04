@@ -187,10 +187,6 @@
       return;
     }
 
-    // wire up input + keydown
-    input.addEventListener('input', handleSearchInput);
-    input.addEventListener('keydown', handleKeydown);
-
     // disable until index is ready
     input.disabled    = true;
     input.placeholder = 'Loading search…';
@@ -202,5 +198,6 @@
     // support inline oninput calls
     window.handleSearchInput = handleSearchInput;
     window.clearSearchInput = clearSearchInput;
+    window.handleSearchKeydown = handleKeydown;
   });
 })();
