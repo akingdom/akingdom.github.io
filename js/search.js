@@ -24,6 +24,7 @@
   function getResultsContainer() {return document.getElementById(RESULTS_ID);}
   function getSearchIcon() {return document.querySelector('#search-container .search-icon');}
   function getClearIcon() {return document.querySelector('#search-container .clear-button');}
+
   // DEBOUNCE HELPER
   function debounce(fn, delay) {
     let timer;
@@ -53,8 +54,8 @@
   }
 
   function clearSearchInput(eventOrElement) {
-    clearResults();
     getResultsContainer().innerHTML = '';
+    getSearchInput().innerHTML = '';
     showIcon(true);
   }
 
