@@ -126,7 +126,7 @@ AUTHOR:      Andrew Kingdom
     right: 0.75rem;
     position: absolute;
 }
-.search-icon.hidden {
+.search-icon.hidden, .clear-button.hidden {
   opacity: 0;
   visibility: hidden;
 }
