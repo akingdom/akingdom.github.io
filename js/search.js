@@ -131,7 +131,7 @@
       ? eventOrElement.target.value
       : eventOrElement.value;
     
-    showIcon(value.length);
+    showIcon(value.length == 0);
     
     if (!value || value.length < MIN_QUERY_LENGTH) {
       clearResults();
@@ -144,7 +144,7 @@
   function handleKeydown(e) {
     if (e.key === 'Escape') {
       getSearchInput().value = '';
-      showIcon(value.length);
+      showIcon(true);
       clearResults();
     }
   }
@@ -194,6 +194,7 @@
     // disable until index is ready
     input.disabled    = true;
     input.placeholder = 'Loading search…';
+    showIcon(true);
 
     // fetch & initialize
     loadSearchIndex();
