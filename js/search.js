@@ -157,7 +157,7 @@
   document.addEventListener('DOMContentLoaded', () => {
     input      = getSearchInput();
     container = getResultsContainer();
-    if (!searchInput || !resultsContainer) {
+    if (!input || !container) {
       console.error('Search input or results container missing.');
       return;
     }
