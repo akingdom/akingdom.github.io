@@ -126,6 +126,10 @@ AUTHOR:      Andrew Kingdom
     right: 0.75rem;
     position: absolute;
 }
+.search-icon.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
 </style>
 <div id="search-container">
     <div style="position:relative;width: min(38rem,75%);">
