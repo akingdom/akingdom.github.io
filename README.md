@@ -109,7 +109,7 @@ AUTHOR:      Andrew Kingdom
     margin: 0.5em 0;
     color: #555;
 }
-.search-icon, clear-button {
+.search-icon, .clear-button {
     --tw-text-opacity: 1;
     --tw-translate-y: -50%;
     --tw-translate-x: 0;
