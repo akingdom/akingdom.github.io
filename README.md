@@ -143,7 +143,7 @@ AUTHOR:      Andrew Kingdom
     background-color: inherit;
     border: inherit;
 }
-.search-icon.hidden, .clear-button.hidden {
+.search-icon.hidden, .clear-button.hidden, #search-results.hidden {
   opacity: 0;
   visibility: hidden;
 }
@@ -156,7 +156,7 @@ AUTHOR:      Andrew Kingdom
             <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path>
         </svg>
     </div>
-    <div id="search-results"></div>
+    <div id="search-results hidden"></div>
 </div>
 <!-- Search Box end -->
 
