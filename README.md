@@ -125,6 +125,8 @@ AUTHOR:      Andrew Kingdom
     top: 50%;
     right: 0.75rem;
     position: absolute;
+    background-color: inherit;
+    border: inherit;
 }
 .search-icon.hidden, .clear-button.hidden {
   opacity: 0;
