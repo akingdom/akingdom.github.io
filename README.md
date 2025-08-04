@@ -70,9 +70,11 @@ AUTHOR:      Andrew Kingdom
   }
 })();
 </script>
+<!-- QR Code end -->
 
 ## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
 
+<!-- Search Box -->
 <style>
 /* Basic styling for the search box and results */
 #search-container {
@@ -86,7 +88,7 @@ AUTHOR:      Andrew Kingdom
 #search-input {
     width: 100%;
     height: 100%;
-    padding: 0.5em;
+    padding: 0.5em 1.0em;
     border: 1px solid #ccc;
     border-radius: 16px;
     box-sizing: border-box;
@@ -134,6 +136,7 @@ AUTHOR:      Andrew Kingdom
     </div>
     <div id="search-results"></div>
 </div>
+<!-- Search Box end -->
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
