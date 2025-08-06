@@ -208,8 +208,7 @@ AUTHOR:     Andrew Kingdom
                 const data = await response.json();
 
                 if (data.results && data.results.length > 0) {
-                    const imageDeviations = data.results.filter(item => item.type === 'image');
-                    const deviationIds = imageDeviations.map(item => item.deviationid);
+                    const deviationIds = data.results.map(item => item.deviationid);
                     await fetchDeviationDetails(deviationIds, token);
                 }
                 
@@ -231,8 +230,7 @@ AUTHOR:     Andrew Kingdom
                 const data = await response.json();
                 
                 if (data.results && data.results.length > 0) {
-                    const imageDeviations = data.results.filter(item => item.type === 'image');
-                    const deviationIds = imageDeviations.map(item => item.deviationid);
+                    const deviationIds = data.results.map(item => item.deviationid);
 
                     if (deviationIds.length > 0) {
                         await fetchDeviationDetails(deviationIds, token);
