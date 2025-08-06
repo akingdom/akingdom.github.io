@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<!--PYKELET
+
+DESCRIPTION: This tool provides a web page to display a DeviantArt user's artwork metadata by authenticating via the DeviantArt API (Implicit Grant Flow).
+
+FILENAME:   deviantart-page.html
+AUTHOR:     Andrew Kingdom
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My DeviantArt Artwork</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; }
+        .artwork { border: 1px solid #ccc; border-radius: 8px; padding: 15px; margin-bottom: 20px; }
+        .artwork h3 { margin-top: 0; }
+        .artwork img { max-width: 100%; height: auto; display: block; margin-bottom: 10px; border-radius: 4px; }
+        #auth-button { padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #0077c9; color: white; border: none; border-radius: 5px; }
+        #auth-button:hover { background-color: #005f9c; }
+        #loading-message { font-style: italic; color: #555; }
+        .error { color: red; }
+        
+        #setup-container {
+            margin-top: 20px;
+            background-color: #f8f8f8;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+        }
+        #setup-button {
+            padding: 8px 12px;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        .setup-content {
+            display: none;
+        }
+        .setup-content.show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My DeviantArt Artwork</h1>
+    <p>This page uses the DeviantArt API to pull your artwork metadata. Your Client ID and Username are stored locally in your browser so you only have to enter them once. You can clear them by reloading the page and clicking 'Cancel' when prompted.</p>
+    
+    <div id="setup-container">
+        <button id="setup-button">Show Setup Instructions</button>
+        <div id="setup-content" class="setup-content">
+            <h3>How to Get Your Client ID:</h3>
+            <p>1. Go to the official <a href="https://www.deviantart.com/developers/apps" target="_blank">DeviantArt Developer Applications</a> page and click the **"Register Your Application"** button.</p>
+            <p>2. On the registration form, fill in the following:</p>
+            <ul>
+                <li>**Application Name:** Give your app a simple name like "Portfolio Page."</li>
+                <li>**Redirect URI:** Enter the exact URL of this page: <code>https://akingdom.github.io/ai_tools/deviantart-page.html</code></li>
+            </ul>
+            <p>3. After you click submit, you'll be taken back to the **Applications page**. A new entry for your app will now appear in the list.</p>
+            <p>4. **Click on the new application entry** you just created to open a detailed view showing your app's information.</p>
+            <p>5. You will see both a **Client ID** and a **Client Secret**. For this project, you only need the **Client ID**. The **Client Secret** is used for more advanced, server-side applications and should be kept private.</p>
+            <p>6. Return to this page, click the **"Authorize with DeviantArt"** button below. You will be prompted to enter your **Client ID** and **DeviantArt Username**.</p>
+        </div>
+    </div>
+
+    <button id="auth-button">Authorize with DeviantArt</button>
+    <p id="loading-message" style="display:none;">Loading your artwork...</p>
+    <p id="error-message" class="error" style="display:none;"></p>
+
+    <div id="artwork-container"></div>
+
+    <script>
+        // --- IMPORTANT: ONLY REPLACE THIS VALUE ---
+        const REDIRECT_URI = 'https://akingdom.github.io/ai_tools/deviantart-page.html';
+        // --- END OF IMPORTANT REPLACEMENTS ---
+
+        const CLIENT_ID_STORAGE_KEY = 'deviantart_client_id';
+        const USERNAME_STORAGE_KEY = 'deviantart_username';
+        const authButton = document.getElementById('auth-button');
+        const loadingMessage = document.getElementById('loading-message');
+        const errorMessage = document.getElementById('error-message');
+        const artworkContainer = document.getElementById('artwork-container');
+        const setupButton = document.getElementById('setup-button');
+        const setupContent = document.getElementById('setup-content');
+        const setupContainer = document.getElementById('setup-container');
+
+        let CLIENT_ID = localStorage.getItem(CLIENT_ID_STORAGE_KEY);
+        let DEVIANTART_USERNAME = localStorage.getItem(USERNAME_STORAGE_KEY);
+
+        // Toggle setup instructions visibility
+        setupButton.addEventListener('click', () => {
+            setupContent.classList.toggle('show');
+            if (setupContent.classList.contains('show')) {
+                setupButton.textContent = 'Hide Setup Instructions';
+            } else {
+                setupButton.textContent = 'Show Setup Instructions';
+            }
+        });
+
+        // Function to prompt the user for the Client ID
+        function promptForClientId() {
+            let userInput = prompt('Please enter your DeviantArt Client ID:', CLIENT_ID || '');
+            if (userInput) {
+                CLIENT_ID = userInput.trim();
+                localStorage.setItem(CLIENT_ID_STORAGE_KEY, CLIENT_ID);
+                return true;
+            }
+            localStorage.removeItem(CLIENT_ID_STORAGE_KEY);
+            return false;
+        }
+
+        // Function to prompt the user for the DeviantArt Username
+        function promptForUsername() {
+            let userInput = prompt('Please enter your DeviantArt Username:', DEVIANTART_USERNAME || '');
+            if (userInput) {
+                DEVIANTART_USERNAME = userInput.trim();
+                localStorage.setItem(USERNAME_STORAGE_KEY, DEVIANTART_USERNAME);
+                return true;
+            }
+            localStorage.removeItem(USERNAME_STORAGE_KEY);
+            return false;
+        }
+
+        authButton.addEventListener('click', () => {
+            if (!CLIENT_ID) {
+                if (!promptForClientId()) {
+                    errorMessage.textContent = 'Client ID is required for authorization.';
+                    errorMessage.style.display = 'block';
+                    return;
+                }
+            }
+
+            if (!DEVIANTART_USERNAME) {
+                if (!promptForUsername()) {
+                    errorMessage.textContent = 'Username is required to fetch artwork.';
+                    errorMessage.style.display = 'block';
+                    return;
+                }
+            }
+
+            const authUrl = `https://www.deviantart.com/oauth2/authorize?client_id=${CLIENT_ID}&response_type=token&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=browse`;
+            window.location.href = authUrl;
+        });
+
+        function getAccessTokenFromUrl() {
+            const hash = window.location.hash.substring(1);
+            const params = new URLSearchParams(hash);
+            return params.get('access_token');
+        }
+
+        async function fetchGalleryMetadata(accessToken) {
+            try {
+                authButton.style.display = 'none';
+                loadingMessage.style.display = 'block';
+                setupContainer.style.display = 'none';
+
+                const galleryUrl = `https://www.deviantart.com/api/v1/oauth2/gallery/all?username=${DEVIANTART_USERNAME}&access_token=${accessToken}`;
+                const response = await fetch(galleryUrl);
+                const data = await response.json();
+                
+                if (data.results && data.results.length > 0) {
+                    const deviationIds = data.results.map(item => item.deviationid);
+                    await fetchDeviationDetails(deviationIds, accessToken);
+                } else {
+                    errorMessage.textContent = 'No artwork found or an error occurred. Check your username and API setup.';
+                    errorMessage.style.display = 'block';
+                    loadingMessage.style.display = 'none';
+                }
+
+            } catch (error) {
+                console.error('Error fetching gallery:', error);
+                errorMessage.textContent = 'Failed to fetch gallery. Please try again.';
+                errorMessage.style.display = 'block';
+                loadingMessage.style.display = 'none';
+            }
+        }
+
+        async function fetchDeviationDetails(deviationIds, accessToken) {
+            try {
+                const chunkSize = 10;
+                for (let i = 0; i < deviationIds.length; i += chunkSize) {
+                    const chunk = deviationIds.slice(i, i + chunkSize);
+                    const metadataUrl = `https://www.deviantart.com/api/v1/oauth2/deviation/metadata?deviationids[]=${chunk.join('&deviationids[]=')}&access_token=${accessToken}`;
+                    const response = await fetch(metadataUrl);
+                    const data = await response.json();
+                    
+                    if (data.metadata) {
+                        renderArtwork(data.metadata);
+                    }
+                }
+                loadingMessage.style.display = 'none';
+
+            } catch (error) {
+                console.error('Error fetching artwork details:', error);
+                errorMessage.textContent = 'Failed to fetch artwork details. Please try again.';
+                errorMessage.style.display = 'block';
+                loadingMessage.style.display = 'none';
+            }
+        }
+
+        function renderArtwork(artworkList) {
+            artworkList.forEach(artwork => {
+                const div = document.createElement('div');
+                div.className = 'artwork';
+                
+                let tagsHtml = artwork.tags.map(tag => `<span>#${tag.tag_name}</span>`).join(' ');
+
+                div.innerHTML = `
+                    <h3>${artwork.title}</h3>
+                    <img src="${artwork.preview.src}" alt="${artwork.title}">
+                    <p><strong>Description:</strong> ${artwork.description}</p>
+                    <p><strong>Tags:</strong> ${tagsHtml}</p>
+                    <p><strong>Published:</strong> ${new Date(artwork.published_time * 1000).toLocaleDateString()}</p>
+                    <p><strong>Views:</strong> ${artwork.stats.views} | <strong>Faves:</strong> ${artwork.stats.favourites}</p>
+                `;
+                artworkContainer.appendChild(div);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const accessToken = getAccessTokenFromUrl();
+            if (accessToken) {
+                authButton.style.display = 'none';
+                setupContainer.style.display = 'none';
+                fetchGalleryMetadata(accessToken);
+            } else {
+                authButton.style.display = 'block';
+            }
+        });
+    </script>
+</body>
+</html>
