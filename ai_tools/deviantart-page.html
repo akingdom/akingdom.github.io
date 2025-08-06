@@ -80,6 +80,7 @@ AUTHOR:     Andrew Kingdom
 
         const CLIENT_ID_STORAGE_KEY = 'deviantart_client_id';
         const USERNAME_STORAGE_KEY = 'deviantart_username';
+        const STATE_STORAGE_KEY = 'deviantart_auth_state';
         const authButton = document.getElementById('auth-button');
         const loadingMessage = document.getElementById('loading-message');
         const errorMessage = document.getElementById('error-message');
@@ -141,15 +142,30 @@ AUTHOR:     Andrew Kingdom
                     return;
                 }
             }
+            
+            // Generate a random state string for CSRF protection
+            const state = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+            localStorage.setItem(STATE_STORAGE_KEY, state);
 
-            const authUrl = `https://www.deviantart.com/oauth2/authorize?client_id=${CLIENT_ID}&response_type=token&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=browse`;
+            const authUrl = `https://www.deviantart.com/oauth2/authorize?client_id=${CLIENT_ID}&response_type=token&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=browse&state=${state}`;
             window.location.href = authUrl;
         });
 
         function getAccessTokenFromUrl() {
             const hash = window.location.hash.substring(1);
             const params = new URLSearchParams(hash);
-            return params.get('access_token');
+            const returnedState = params.get('state');
+            const storedState = localStorage.getItem(STATE_STORAGE_KEY);
+            localStorage.removeItem(STATE_STORAGE_KEY); // Always remove the state to prevent replay attacks
+
+            if (returnedState && storedState && returnedState === storedState) {
+                return params.get('access_token');
+            } else if (returnedState && storedState && returnedState !== storedState) {
+                console.error('State mismatch. Possible CSRF attack.');
+                errorMessage.textContent = 'Authorization failed due to a security error. Please try again.';
+                errorMessage.style.display = 'block';
+            }
+            return null;
         }
 
         async function fetchGalleryMetadata(accessToken) {
