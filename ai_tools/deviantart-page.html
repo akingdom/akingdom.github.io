@@ -198,9 +198,12 @@ AUTHOR:     Andrew Kingdom
         async function fetchDeviationDetails(deviationIds, accessToken) {
             try {
                 const chunkSize = 10;
+                // ADDED ext_submission=true PARAMETER TO GET IMAGE DATA
+                const metadataUrlBase = `https://www.deviantart.com/api/v1/oauth2/deviation/metadata?ext_submission=true&deviationids[]=`;
+
                 for (let i = 0; i < deviationIds.length; i += chunkSize) {
                     const chunk = deviationIds.slice(i, i + chunkSize);
-                    const metadataUrl = `https://www.deviantart.com/api/v1/oauth2/deviation/metadata?deviationids[]=${chunk.join('&deviationids[]=')}&access_token=${accessToken}`;
+                    const metadataUrl = `${metadataUrlBase}${chunk.join('&deviationids[]=')}&access_token=${accessToken}`;
                     const response = await fetch(metadataUrl);
                     const data = await response.json();
                     
@@ -224,7 +227,7 @@ AUTHOR:     Andrew Kingdom
                 div.className = 'artwork';
 
                 // Safely access properties that may not exist
-                const imageUrl = artwork.preview ? artwork.preview.src : 'https://www.deviantart.com/favicon.ico';
+                const imageUrl = artwork.preview && artwork.preview.src ? artwork.preview.src : 'https://www.deviantart.com/favicon.ico';
                 const tagsHtml = artwork.tags ? artwork.tags.map(tag => `<span>#${tag.tag_name}</span>`).join(' ') : 'No tags';
                 const publishedDate = artwork.published_time ? new Date(artwork.published_time * 1000).toLocaleDateString() : 'N/A';
                 const views = artwork.stats ? artwork.stats.views : 'N/A';
