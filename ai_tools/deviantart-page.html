@@ -179,8 +179,17 @@ AUTHOR:     Andrew Kingdom
                 const data = await response.json();
                 
                 if (data.results && data.results.length > 0) {
-                    const deviationIds = data.results.map(item => item.deviationid);
-                    await fetchDeviationDetails(deviationIds, accessToken);
+                    const imageDeviations = data.results.filter(item => item.type === 'image');
+                    const deviationIds = imageDeviations.map(item => item.deviationid);
+
+                    if (deviationIds.length > 0) {
+                        await fetchDeviationDetails(deviationIds, accessToken);
+                    } else {
+                        errorMessage.textContent = 'No image artwork found in the gallery. Check your username.';
+                        errorMessage.style.display = 'block';
+                        loadingMessage.style.display = 'none';
+                    }
+
                 } else {
                     errorMessage.textContent = 'No artwork found or an error occurred. Check your username and API setup.';
                     errorMessage.style.display = 'block';
@@ -198,17 +207,27 @@ AUTHOR:     Andrew Kingdom
         async function fetchDeviationDetails(deviationIds, accessToken) {
             try {
                 const chunkSize = 10;
-                // ADDED ext_submission=true PARAMETER TO GET IMAGE DATA
-                const metadataUrlBase = `https://www.deviantart.com/api/v1/oauth2/deviation/metadata?ext_submission=true&deviationids[]=`;
-
                 for (let i = 0; i < deviationIds.length; i += chunkSize) {
                     const chunk = deviationIds.slice(i, i + chunkSize);
+                    // Fetch metadata (including description and tags)
+                    const metadataUrlBase = `https://www.deviantart.com/api/v1/oauth2/deviation/metadata?ext_submission=true&mature_content=true&deviationids[]=`;
                     const metadataUrl = `${metadataUrlBase}${chunk.join('&deviationids[]=')}&access_token=${accessToken}`;
-                    const response = await fetch(metadataUrl);
-                    const data = await response.json();
+                    const metadataResponse = await fetch(metadataUrl);
+                    const metadataData = await metadataResponse.json();
+
+                    // Fetch media (including image previews) separately
+                    const mediaUrlBase = `https://www.deviantart.com/api/v1/oauth2/deviation/media?mature_content=true&deviationids[]=`;
+                    const mediaUrl = `${mediaUrlBase}${chunk.join('&deviationids[]=')}&access_token=${accessToken}`;
+                    const mediaResponse = await fetch(mediaUrl);
+                    const mediaData = await mediaResponse.json();
                     
-                    if (data.metadata) {
-                        renderArtwork(data.metadata);
+                    if (metadataData.metadata && mediaData.media) {
+                        // Combine metadata and media data
+                        const combinedData = metadataData.metadata.map(item => {
+                            const mediaInfo = mediaData.media.find(mediaItem => mediaItem.deviationid === item.deviationid);
+                            return { ...item, media: mediaInfo };
+                        });
+                        renderArtwork(combinedData);
                     }
                 }
                 loadingMessage.style.display = 'none';
@@ -227,7 +246,7 @@ AUTHOR:     Andrew Kingdom
                 div.className = 'artwork';
 
                 // Safely access properties that may not exist
-                const imageUrl = artwork.preview && artwork.preview.src ? artwork.preview.src : 'https://www.deviantart.com/favicon.ico';
+                const imageUrl = artwork.media && artwork.media.preview && artwork.media.preview.src ? artwork.media.preview.src : 'https://www.deviantart.com/favicon.ico';
                 const tagsHtml = artwork.tags ? artwork.tags.map(tag => `<span>#${tag.tag_name}</span>`).join(' ') : 'No tags';
                 const publishedDate = artwork.published_time ? new Date(artwork.published_time * 1000).toLocaleDateString() : 'N/A';
                 const views = artwork.stats ? artwork.stats.views : 'N/A';
