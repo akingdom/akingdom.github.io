@@ -230,6 +230,7 @@ AUTHOR:     Andrew Kingdom
                 const data = await response.json();
                 
                 if (data.results && data.results.length > 0) {
+                    // Removed the image filter to process all deviation types
                     const deviationIds = data.results.map(item => item.deviationid);
 
                     if (deviationIds.length > 0) {
