@@ -20,61 +20,41 @@ AUTHOR:     Andrew Kingdom
         #auth-button:hover, .load-buttons button:hover { background-color: #005f9c; }
         #loading-message { font-style: italic; color: #555; }
         .error { color: red; }
-        
-        #setup-container {
-            margin-top: 20px;
-            background-color: #f8f8f8;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 15px;
-        }
-        #setup-button {
-            padding: 8px 12px;
-            cursor: pointer;
-            background-color: #f0f0f0;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            font-size: 14px;
-            margin-bottom: 10px;
-        }
-        .setup-content {
-            display: none;
-        }
-        .setup-content.show {
-            display: block;
-        }
-        .load-buttons {
-            display: none;
-            margin-top: 20px;
-        }
-        .load-buttons button {
-            margin-right: 10px;
-        }
+        #setup-container { margin-top: 20px; background-color: #f8f8f8; border: 1px solid #ddd; border-radius: 5px; padding: 15px; }
+        #setup-button { padding: 8px 12px; cursor: pointer; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 5px; font-size: 14px; margin-bottom: 10px; }
+        .setup-content { display: none; }
+        .setup-content.show { display: block; }
+        .load-buttons { display: none; margin-top: 20px; }
+        .load-buttons button { margin-right: 10px; }
+        /* GDPR Banner */
+        #gdpr-banner { position: fixed; bottom: 0; left: 0; right: 0; background: #f9f9f9; border-top: 1px solid #ccc; padding: 15px; text-align: center; font-size: 14px; }
+        #gdpr-banner button { margin: 0 10px; padding: 8px 16px; font-size: 14px; border: none; border-radius: 4px; cursor: pointer; }
+        #gdpr-banner button.accept { background-color: #28a745; color: white; }
+        #gdpr-banner button.decline { background-color: #dc3545; color: white; }
+        .tag { background: #eef; padding: 3px 6px; margin: 2px; border-radius: 4px; display: inline-block; }
     </style>
 </head>
 <body>
 
     <h1>My DeviantArt Artwork</h1>
-    <p>This page uses the DeviantArt API to pull your artwork metadata. Your Client ID and Username are stored locally in your browser so you only have to enter them once. You can clear them by reloading the page and clicking 'Cancel' when prompted.</p>
+    <p>This page uses the DeviantArt API to pull your artwork metadata. Data is only stored locally if you give consent (see GDPR banner).</p>
     
     <div id="setup-container">
         <button id="setup-button">Show Setup Instructions</button>
         <div id="setup-content" class="setup-content">
             <h3>How to Get Your Client ID:</h3>
-            <p>1. Go to the official <a href="https://www.deviantart.com/developers/apps" target="_blank">DeviantArt Developer Applications</a> page and click the **"Register Your Application"** button.</p>
-            <p>2. On the registration form, fill in the following:</p>
+            <p>1. Go to the official <a href="https://www.deviantart.com/developers/apps" target="_blank">DeviantArt Developer Applications</a> page and click the <strong>"Register Your Application"</strong> button.</p>
+            <p>2. Fill in:</p>
             <ul>
-                <li>**Application Name:** Give your app a simple name like "Portfolio Page."</li>
-                <li>**Redirect URI:** Enter the exact URL of this page: <code>https://akingdom.github.io/ai_tools/deviantart-page.html</code></li>
+                <li><strong>Application Name:</strong> "Portfolio Page"</li>
+                <li><strong>Redirect URI:</strong> <code>https://akingdom.github.io/ai_tools/deviantart-page.html</code></li>
             </ul>
-            <p>3. After you click submit, you'll be taken back to the **Applications page**. A new entry for your app will now appear in the list.</p>
-            <p>4. **Click on the new application entry** you just created to open a detailed view showing your app's information.</p>
-            <p>5. You will see both a **Client ID** and a **Client Secret**. For this project, you only need the **Client ID**. The **Client Secret** is used for more advanced, server-side applications and should be kept private.</p>
-            <p>6. Return to this page, click the **"Authorize with DeviantArt"** button below. You will be prompted to enter your **Client ID** and **DeviantArt Username**.</p>
+            <p>3. After submitting, click your new app entry and copy the <strong>Client ID</strong>.</p>
+            <p>4. Return here and click <strong>"Authorize with DeviantArt"</strong>.</p>
         </div>
     </div>
 
-    <button id="auth-button">Authorize with DeviantArt</button>
+    <button id="auth-button" style="display:none;">Authorize with DeviantArt</button>
     <p id="loading-message" style="display:none;">Loading your artwork...</p>
     <p id="error-message" class="error" style="display:none;"></p>
 
@@ -84,252 +64,176 @@ AUTHOR:     Andrew Kingdom
         <button id="load-all-button">Load All Artwork</button>
     </div>
 
+    <!-- GDPR Consent Banner -->
+    <div id="gdpr-banner" style="display:none;">
+        <span>We use local storage to improve your experience. Do you consent to store your Client ID and username?</span>
+        <button class="accept">Accept</button>
+        <button class="decline">Decline</button>
+    </div>
+
     <script>
-        // --- IMPORTANT: ONLY REPLACE THIS VALUE ---
         const REDIRECT_URI = 'https://akingdom.github.io/ai_tools/deviantart-page.html';
-        // --- END OF IMPORTANT REPLACEMENTS ---
+        const CLIENT_ID_KEY = 'deviantart_client_id';
+        const USERNAME_KEY = 'deviantart_username';
+        const STATE_KEY = 'deviantart_auth_state';
+        const GDPR_KEY = 'gdpr_consent';
 
-        const CLIENT_ID_STORAGE_KEY = 'deviantart_client_id';
-        const USERNAME_STORAGE_KEY = 'deviantart_username';
-        const STATE_STORAGE_KEY = 'deviantart_auth_state';
         const authButton = document.getElementById('auth-button');
-        const loadMoreButton = document.getElementById('load-more-button');
-        const loadAllButton = document.getElementById('load-all-button');
-        const loadingMessage = document.getElementById('loading-message');
-        const errorMessage = document.getElementById('error-message');
-        const artworkContainer = document.getElementById('artwork-container');
-        const setupButton = document.getElementById('setup-button');
+        const loadMoreBtn = document.getElementById('load-more-button');
+        const loadAllBtn = document.getElementById('load-all-button');
+        const loadingMsg = document.getElementById('loading-message');
+        const errorMsg = document.getElementById('error-message');
+        const artContainer = document.getElementById('artwork-container');
+        const setupBtn = document.getElementById('setup-button');
         const setupContent = document.getElementById('setup-content');
-        const setupContainer = document.getElementById('setup-container');
-        const loadButtonsContainer = document.querySelector('.load-buttons');
+        const loadBtnsContainer = document.querySelector('.load-buttons');
+        const gdprBanner = document.getElementById('gdpr-banner');
 
-        let CLIENT_ID = localStorage.getItem(CLIENT_ID_STORAGE_KEY);
-        let DEVIANTART_USERNAME = localStorage.getItem(USERNAME_STORAGE_KEY);
-        let currentOffset = 0;
+        let clientId = null;
+        let username = null;
         let accessToken = null;
-        const fetchLimit = 50;
+        let offset = 0;
+        const limit = 50;
 
-        // Toggle setup instructions visibility
-        setupButton.addEventListener('click', () => {
+        // GDPR consent management
+        function showGdprBanner() {
+            const consent = localStorage.getItem(GDPR_KEY);
+            if (consent === null) gdprBanner.style.display = 'block';
+        }
+        document.querySelector('#gdpr-banner .accept').addEventListener('click', () => {
+            localStorage.setItem(GDPR_KEY, 'true'); gdprBanner.remove(); initializeStorage();
+        });
+        document.querySelector('#gdpr-banner .decline').addEventListener('click', () => {
+            localStorage.setItem(GDPR_KEY, 'false'); gdprBanner.remove();
+        });
+
+        // Only initialize clientId/username from storage if consent given
+        function initializeStorage() {
+            const consent = localStorage.getItem(GDPR_KEY);
+            if (consent === 'true') {
+                clientId = localStorage.getItem(CLIENT_ID_KEY);
+                username = localStorage.getItem(USERNAME_KEY);
+            }
+        }
+
+        showGdprBanner(); initializeStorage();
+
+        // Setup instructions toggle
+        setupBtn.addEventListener('click', () => {
             setupContent.classList.toggle('show');
-            if (setupContent.classList.contains('show')) {
-                setupButton.textContent = 'Hide Setup Instructions';
-            } else {
-                setupButton.textContent = 'Show Setup Instructions';
-            }
+            setupBtn.textContent = setupContent.classList.contains('show') ? 'Hide Setup Instructions' : 'Show Setup Instructions';
         });
 
-        // Function to prompt the user for the Client ID
-        function promptForClientId() {
-            let userInput = prompt('Please enter your DeviantArt Client ID:', CLIENT_ID || '');
-            if (userInput) {
-                CLIENT_ID = userInput.trim();
-                localStorage.setItem(CLIENT_ID_STORAGE_KEY, CLIENT_ID);
+        async function promptClientId() {
+            const input = prompt('Enter your DeviantArt Client ID:', clientId || '');
+            if (input) {
+                clientId = input.trim();
+                if (localStorage.getItem(GDPR_KEY) === 'true') localStorage.setItem(CLIENT_ID_KEY, clientId);
                 return true;
             }
-            localStorage.removeItem(CLIENT_ID_STORAGE_KEY);
+            return false;
+        }
+        async function promptUsername() {
+            const input = prompt('Enter your DeviantArt Username:', username || '');
+            if (input) {
+                username = input.trim();
+                if (localStorage.getItem(GDPR_KEY) === 'true') localStorage.setItem(USERNAME_KEY, username);
+                return true;
+            }
             return false;
         }
 
-        // Function to prompt the user for the DeviantArt Username
-        function promptForUsername() {
-            let userInput = prompt('Please enter your DeviantArt Username:', DEVIANTART_USERNAME || '');
-            if (userInput) {
-                DEVIANTART_USERNAME = userInput.trim();
-                localStorage.setItem(USERNAME_STORAGE_KEY, DEVIANTART_USERNAME);
-                return true;
-            }
-            localStorage.removeItem(USERNAME_STORAGE_KEY);
-            return false;
-        }
+        authButton.addEventListener('click', async () => {
+            errorMsg.style.display = 'none';
+            if (!clientId && !(await promptClientId())) { errorMsg.textContent = 'Client ID required.'; return errorMsg.style.display='block'; }
+            if (!username && !(await promptUsername())) { errorMsg.textContent = 'Username required.'; return errorMsg.style.display='block'; }
 
-        authButton.addEventListener('click', () => {
-            if (!CLIENT_ID) {
-                if (!promptForClientId()) {
-                    errorMessage.textContent = 'Client ID is required for authorization.';
-                    errorMessage.style.display = 'block';
-                    return;
-                }
-            }
-
-            if (!DEVIANTART_USERNAME) {
-                if (!promptForUsername()) {
-                    errorMessage.textContent = 'Username is required to fetch artwork.';
-                    errorMessage.style.display = 'block';
-                    return;
-                }
-            }
-            
-            // Generate a random state string for CSRF protection
-            const state = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
-            localStorage.setItem(STATE_STORAGE_KEY, state);
-
-            const authUrl = `https://www.deviantart.com/oauth2/authorize?client_id=${CLIENT_ID}&response_type=token&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=browse&state=${state}`;
-            window.location.href = authUrl;
+            const state = Math.random().toString(36).slice(2);
+            localStorage.setItem(STATE_KEY, state);
+            const url = `https://www.deviantart.com/oauth2/authorize?client_id=${clientId}&response_type=token&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=browse&state=${state}`;
+            window.location.href = url;
         });
 
-        // Event listener for the "Load More" button
-        loadMoreButton.addEventListener('click', () => {
-            fetchGalleryMetadata(accessToken, currentOffset);
-        });
+        loadMoreBtn.addEventListener('click', () => fetchGallery(accessToken, offset));
+        loadAllBtn.addEventListener('click', async () => { loadBtnsContainer.style.display='none'; await fetchAll(accessToken, offset); });
 
-        // Event listener for the "Load All" button
-        loadAllButton.addEventListener('click', async () => {
-            loadButtonsContainer.style.display = 'none';
-            await fetchAllArtwork(accessToken, currentOffset);
-        });
-
-        function getAccessTokenFromUrl() {
-            const hash = window.location.hash.substring(1);
-            const params = new URLSearchParams(hash);
-            const returnedState = params.get('state');
-            const storedState = localStorage.getItem(STATE_STORAGE_KEY);
-            localStorage.removeItem(STATE_STORAGE_KEY); // Always remove the state to prevent replay attacks
-
-            if (returnedState && storedState && returnedState === storedState) {
-                return params.get('access_token');
-            } else if (returnedState && storedState && returnedState !== storedState) {
-                console.error('State mismatch. Possible CSRF attack.');
-                errorMessage.textContent = 'Authorization failed due to a security error. Please try again.';
-                errorMessage.style.display = 'block';
+        function getToken() {
+            const hash = new URLSearchParams(window.location.hash.slice(1));
+            if (hash.get('state') === localStorage.getItem(STATE_KEY)) {
+                localStorage.removeItem(STATE_KEY);
+                return hash.get('access_token');
             }
             return null;
         }
-        
-        async function fetchAllArtwork(token, offset) {
-            let nextOffset = offset;
-            let page = 1;
-            loadingMessage.style.display = 'block';
+        async function validate(token) {
+            const resp = await fetch(`https://www.deviantart.com/api/v1/oauth2/user/whoami?access_token=${token}`);
+            return resp.ok;
+        }
 
-            while (nextOffset !== null) {
-                loadingMessage.textContent = `Loading all artwork (Page ${page} of many)...`;
-                const galleryUrl = `https://www.deviantart.com/api/v1/oauth2/gallery/all?username=${DEVIANTART_USERNAME}&access_token=${token}&limit=${fetchLimit}&offset=${nextOffset}`;
-                const response = await fetch(galleryUrl);
-                const data = await response.json();
-
-                if (data.results && data.results.length > 0) {
-                    const deviationIds = data.results.map(item => item.deviationid);
-                    await fetchDeviationDetails(deviationIds, token);
+        async function fetchGallery(token, off=0) {
+            try {
+                setupContainer.style.display='none'; authButton.style.display='none';
+                loadingMsg.style.display='block';
+                const resp = await fetch(`https://www.deviantart.com/api/v1/oauth2/gallery/all?username=${username}&access_token=${token}&limit=${limit}&offset=${off}`);
+                const data = await resp.json(); if (!resp.ok) throw new Error(data.error);
+                if (data.results.length) {
+                    const ids = data.results.map(i=>i.deviationid);
+                    await fetchDetails(ids, token);
+                    if (data.has_more) { offset = data.next_offset; loadBtnsContainer.style.display='flex'; }
+                    else loadingMsg.textContent='All loaded.';
+                } else { throw new Error('No artwork found.'); }
+                loadingMsg.style.display='none';
+            } catch (e) { loadingMsg.style.display='none'; errorMsg.textContent=e.message; errorMsg.style.display='block'; }
+        }
+        async function fetchAll(token, off) {
+            let next=off, page=1;
+            while (next!==null) {
+                loadingMsg.textContent=`Loading (Page ${page})...`;
+                const resp = await fetch(`https://www.deviantart.com/api/v1/oauth2/gallery/all?username=${username}&access_token=${token}&limit=${limit}&offset=${next}`);
+                const data = await resp.json(); if (!resp.ok) throw new Error(data.error);
+                if (data.results.length) {
+                    const ids = data.results.map(i=>i.deviationid);
+                    await fetchDetails(ids, token);
                 }
-                
-                nextOffset = data.has_more ? data.next_offset : null;
+                next = data.has_more ? data.next_offset : null;
                 page++;
             }
-            loadingMessage.textContent = 'All artwork loaded.';
+            loadingMsg.textContent='All loaded.';
         }
 
-        async function fetchGalleryMetadata(token, offset = 0) {
-            try {
-                authButton.style.display = 'none';
-                loadButtonsContainer.style.display = 'none';
-                loadingMessage.style.display = 'block';
-                setupContainer.style.display = 'none';
-
-                const galleryUrl = `https://www.deviantart.com/api/v1/oauth2/gallery/all?username=${DEVIANTART_USERNAME}&access_token=${token}&limit=${fetchLimit}&offset=${offset}`;
-                const response = await fetch(galleryUrl);
-                const data = await response.json();
-                
-                if (data.results && data.results.length > 0) {
-                    // This line was removed in a previous version and has been correctly restored.
-                    // The filter is no longer needed because the rendering function handles all content types.
-                    const deviationIds = data.results.map(item => item.deviationid);
-
-                    if (deviationIds.length > 0) {
-                        await fetchDeviationDetails(deviationIds, token);
-                    }
-                    
-                    if (data.has_more) {
-                        currentOffset = data.next_offset;
-                        loadButtonsContainer.style.display = 'flex';
-                    } else {
-                        loadingMessage.textContent = 'All artwork loaded.';
-                        loadingMessage.style.display = 'block';
-                    }
-
-                } else {
-                    errorMessage.textContent = 'No artwork found or an error occurred. Check your username and API setup.';
-                    errorMessage.style.display = 'block';
-                    loadingMessage.style.display = 'none';
-                }
-                
-                loadingMessage.style.display = 'none';
-
-            } catch (error) {
-                console.error('Error fetching gallery:', error);
-                errorMessage.textContent = 'Failed to fetch gallery. Please try again.';
-                errorMessage.style.display = 'block';
-                loadingMessage.style.display = 'none';
+        async function fetchDetails(ids, token) {
+            const chunk=10;
+            for (let i=0; i<ids.length; i+=chunk) {
+                const slice = ids.slice(i, i+chunk);
+                const metaUrl = `https://www.deviantart.com/api/v1/oauth2/deviation/metadata?deviationids=${slice.join(',')}&ext_submission=true&mature_content=true&access_token=${token}`;
+                const mediaUrl = `https://www.deviantart.com/api/v1/oauth2/deviation/media?deviationids=${slice.join(',')}&mature_content=true&access_token=${token}`;
+                const [mRes, medRes] = await Promise.all([fetch(metaUrl), fetch(mediaUrl)]);
+                const [mData, medData] = [await mRes.json(), await medRes.json()];
+                if (!mRes.ok) throw new Error(mData.error);
+                if (!medRes.ok) throw new Error(medData.error);
+                const combined = mData.metadata.map(item => ({...item, media: medData.media.find(x=>x.deviationid===item.deviationid)}));
+                render(combined);
             }
         }
-
-        async function fetchDeviationDetails(deviationIds, token) {
-            try {
-                const chunkSize = 10;
-                for (let i = 0; i < deviationIds.length; i += chunkSize) {
-                    const chunk = deviationIds.slice(i, i + chunkSize);
-                    // Fetch metadata (including description and tags)
-                    const metadataUrlBase = `https://www.deviantart.com/api/v1/oauth2/deviation/metadata?ext_submission=true&mature_content=true&deviationids[]=`;
-                    const metadataUrl = `${metadataUrlBase}${chunk.join('&deviationids[]=')}&access_token=${token}`;
-                    const metadataResponse = await fetch(metadataUrl);
-                    const metadataData = await metadataResponse.json();
-
-                    // Fetch media (including image previews) separately
-                    const mediaUrlBase = `https://www.deviantart.com/api/v1/oauth2/deviation/media?mature_content=true&deviationids[]=`;
-                    const mediaUrl = `${mediaUrlBase}${chunk.join('&deviationids[]=')}&access_token=${token}`;
-                    const mediaResponse = await fetch(mediaUrl);
-                    const mediaData = await mediaResponse.json();
-                    
-                    if (metadataData.metadata && mediaData.media) {
-                        // Combine metadata and media data
-                        const combinedData = metadataData.metadata.map(item => {
-                            const mediaInfo = mediaData.media.find(mediaItem => mediaItem.deviationid === item.deviationid);
-                            return { ...item, media: mediaInfo };
-                        });
-                        renderArtwork(combinedData);
-                    }
-                }
-
-            } catch (error) {
-                console.error('Error fetching artwork details:', error);
-                errorMessage.textContent = 'Failed to fetch artwork details. Please try again.';
-                errorMessage.style.display = 'block';
-                loadingMessage.style.display = 'none';
-            }
-        }
-
-        function renderArtwork(artworkList) {
-            artworkList.forEach(artwork => {
-                const div = document.createElement('div');
-                div.className = 'artwork';
-
-                // Safely access properties that may not exist
-                const imageUrl = artwork.media && artwork.media.preview && artwork.media.preview.src ? artwork.media.preview.src : 'https://www.deviantart.com/favicon.ico';
-                const tagsHtml = artwork.tags ? artwork.tags.map(tag => `<span>#${tag.tag_name}</span>`).join(' ') : 'No tags';
-                const publishedDate = artwork.published_time ? new Date(artwork.published_time * 1000).toLocaleDateString() : 'N/A';
-                const views = artwork.stats ? artwork.stats.views : 'N/A';
-                const faves = artwork.stats ? artwork.stats.favourites : 'N/A';
-
-                div.innerHTML = `
-                    <h3>${artwork.title}</h3>
-                    <img src="${imageUrl}" alt="${artwork.title}">
-                    <p><strong>Description:</strong> ${artwork.description}</p>
-                    <p><strong>Tags:</strong> ${tagsHtml}</p>
-                    <p><strong>Published:</strong> ${publishedDate}</p>
-                    <p><strong>Views:</strong> ${views} | <strong>Faves:</strong> ${faves}</p>
-                `;
-                artworkContainer.appendChild(div);
+        function render(list) {
+            list.forEach(a=>{
+                const div=document.createElement('div'); div.className='artwork';
+                const imgUrl=a.media?.preview?.src||'https://www.deviantart.com/favicon.ico';
+                const desc=a.description?.slice(0,300)+(a.description?.length>300?'...':'');
+                const tags=a.tags?.map(t=>`<span class="tag">#${t.tag_name}</span>`).join(' ')||'No tags';
+                const pub=a.published_time?new Date(a.published_time*1000).toLocaleDateString():'N/A';
+                const views=a.stats?.views||'N/A';
+                const faves=a.stats?.favourites||'N/A';
+                div.innerHTML=`<h3>${a.title}</h3><img src="${imgUrl}" alt="${a.title}"><p><strong>Description:</strong> ${desc}</p><p><strong>Tags:</strong> ${tags}</p><p><strong>Published:</strong> ${pub}</p><p><strong>Views:</strong> ${views} | <strong>Faves:</strong> ${faves}</p>`;
+                artContainer.appendChild(div);
             });
         }
 
-        document.addEventListener('DOMContentLoaded', () => {
-            accessToken = getAccessTokenFromUrl();
-            if (accessToken) {
-                authButton.style.display = 'none';
-                setupContainer.style.display = 'none';
-                fetchGalleryMetadata(accessToken);
-            } else {
-                authButton.style.display = 'block';
-            }
+        document.addEventListener('DOMContentLoaded', async () => {
+            accessToken = getToken();
+            if (accessToken && await validate(accessToken)) {
+                authButton.style.display='none'; setupContainer.style.display='none'; fetchGallery(accessToken);
+            } else authButton.style.display='block';
         });
     </script>
 </body>
