@@ -222,16 +222,21 @@ AUTHOR:     Andrew Kingdom
             artworkList.forEach(artwork => {
                 const div = document.createElement('div');
                 div.className = 'artwork';
-                
-                let tagsHtml = artwork.tags.map(tag => `<span>#${tag.tag_name}</span>`).join(' ');
+
+                // Safely access properties that may not exist
+                const imageUrl = artwork.preview ? artwork.preview.src : 'https://www.deviantart.com/favicon.ico';
+                const tagsHtml = artwork.tags ? artwork.tags.map(tag => `<span>#${tag.tag_name}</span>`).join(' ') : 'No tags';
+                const publishedDate = artwork.published_time ? new Date(artwork.published_time * 1000).toLocaleDateString() : 'N/A';
+                const views = artwork.stats ? artwork.stats.views : 'N/A';
+                const faves = artwork.stats ? artwork.stats.favourites : 'N/A';
 
                 div.innerHTML = `
                     <h3>${artwork.title}</h3>
-                    <img src="${artwork.preview.src}" alt="${artwork.title}">
+                    <img src="${imageUrl}" alt="${artwork.title}">
                     <p><strong>Description:</strong> ${artwork.description}</p>
                     <p><strong>Tags:</strong> ${tagsHtml}</p>
-                    <p><strong>Published:</strong> ${new Date(artwork.published_time * 1000).toLocaleDateString()}</p>
-                    <p><strong>Views:</strong> ${artwork.stats.views} | <strong>Faves:</strong> ${artwork.stats.favourites}</p>
+                    <p><strong>Published:</strong> ${publishedDate}</p>
+                    <p><strong>Views:</strong> ${views} | <strong>Faves:</strong> ${faves}</p>
                 `;
                 artworkContainer.appendChild(div);
             });
