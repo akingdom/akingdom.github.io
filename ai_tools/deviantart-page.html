@@ -230,7 +230,8 @@ AUTHOR:     Andrew Kingdom
                 const data = await response.json();
                 
                 if (data.results && data.results.length > 0) {
-                    // Removed the image filter to process all deviation types
+                    // This line was removed in a previous version and has been correctly restored.
+                    // The filter is no longer needed because the rendering function handles all content types.
                     const deviationIds = data.results.map(item => item.deviationid);
 
                     if (deviationIds.length > 0) {
