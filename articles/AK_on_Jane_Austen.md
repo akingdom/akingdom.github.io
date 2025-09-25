@@ -72,8 +72,8 @@ Jane Austen’s *Juvenilia*, her early collection of writings, shows how she evo
 
 [![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)<br>
 *Jane Austen based on a confirmed portrait<br>
-(by Andrew Kingdom via AI) *
+by Andrew Kingdom*
 
 ---
 
-MIT LICENSE or CC-BY. Andrew Kingdom 2024. AK - Both images created after much research and effort, generated using AI tool but the artworks are mine.
+MIT LICENSE or CC-BY. Andrew Kingdom 2024. Both images created after much research and effort, generated using AI tool but the artworks are mine.
