@@ -76,4 +76,4 @@ by Andrew Kingdom*
 
 ---
 
-MIT LICENSE or CC-BY. Andrew Kingdom 2024. Both images created after much research and effort, generated using AI tool but the artworks are mine.
+CC-BY LICENSE for text. Andrew Kingdom 2024. Both images are licensable (paid) for commercial or educational publications *but* free to reproduce by individual schools in class materials with attribution; created after much research and effort, generated using AI tool but the artworks are mine. 
