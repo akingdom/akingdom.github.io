@@ -1,7 +1,5 @@
 # Jane Austen - Thoughts on Writing - for Aspiring Authors
 
-
-
 [![Young Jane Austen](JaneAusten_media/miss_elizabeth_bennett_by_akingdom1-thumb.png)](JaneAusten_media//miss_elizabeth_bennett_by_akingdom1-fullview.jpg)<br>
 *Miss Elizabeth Bennett<br>
 by Andrew Kingdom*
@@ -78,4 +76,4 @@ Jane Austen’s *Juvenilia*, her early collection of writings, shows how she evo
 
 ---
 
-MIT LICENSE or CC-BY. Andrew Kingdom 2024. AK
+MIT LICENSE or CC-BY. Andrew Kingdom 2024. AK - Both images created after much research and effort, generated using AI tool but the artworks are mine.
