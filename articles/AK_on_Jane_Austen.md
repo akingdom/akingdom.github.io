@@ -3,7 +3,8 @@
 
 
 [![Young Jane Austen](JaneAusten_media/miss_elizabeth_bennett_by_akingdom1-thumb.png)](JaneAusten_media//miss_elizabeth_bennett_by_akingdom1-fullview.jpg)<br>
-*Miss Elizabeth Bennett by Andrew Kingdom*
+*Miss Elizabeth Bennett<br>
+by Andrew Kingdom*
 
 Jane Austen’s approach to writing, as glimpsed in her manuscripts, letters and observations. 
 
@@ -72,7 +73,8 @@ Jane Austen’s *Juvenilia*, her early collection of writings, shows how she evo
 9. **Value Feedback:** Jane likely shared her early works with family, learning from their feedback. Seek constructive criticism to help you grow as a writer.
 
 [![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)<br>
-*Jane Austen based on a confirmed portrait (by Andrew Kingdom via AI) *
+*Jane Austen based on a confirmed portrait<br>
+(by Andrew Kingdom via AI) *
 
 ---
 
