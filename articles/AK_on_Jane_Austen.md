@@ -1,7 +1,9 @@
 # Jane Austen - Thoughts on Writing - for Aspiring Authors
 
-[![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)<br>
-*My AI-artwork based on a confirmed portrait of Jane Austen*
+
+
+[![Young Jane Austen](JaneAusten_media/miss_elizabeth_bennett_by_akingdom1-thumb.png)](JaneAusten_media//miss_elizabeth_bennett_by_akingdom1-fullview.jpg)<br>
+*Miss Elizabeth Bennett by Andrew Kingdom*
 
 Jane Austen’s approach to writing, as glimpsed in her manuscripts, letters and observations. 
 
@@ -68,6 +70,9 @@ Jane Austen’s *Juvenilia*, her early collection of writings, shows how she evo
 8. **Revise Relentlessly:** Jane’s early works were less polished than her later novels. Don’t be afraid to revise extensively to improve your writing.
 
 9. **Value Feedback:** Jane likely shared her early works with family, learning from their feedback. Seek constructive criticism to help you grow as a writer.
+
+[![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)<br>
+*Jane Austen based on a confirmed portrait (by Andrew Kingdom via AI) *
 
 ---
 
