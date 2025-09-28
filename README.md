@@ -312,7 +312,9 @@ I have a wide range of interests that inform my work and approach:
 
 > Thoughts and ideas are like food - we need them to live but there are junk thoughts and heathy thoughts. - Andrew Kingdom
 
-> Computers (and thus AI) are mainly an aid to assist and extend human thinking and memory. 
+> Computers (and thus AI) are mainly an aid to assist and extend human thinking and memory. - Andrew Kingdom
+
+> A person who struggles and moves forwards will generally go much further in life and achieve more than a person who never had to struggle at all. - Andrew Kingdom
 
 ### Footnotes
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
