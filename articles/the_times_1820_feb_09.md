@@ -9,9 +9,9 @@ from [times1820-Feb-09_page1of4](thetimes/times1820-Feb-09_page1of4.jpg)
 
 ### Article Text of Page 1, Column 1 (STRANGERS' FRIEND SOCIETY)
 
-![times1820-Feb-09_page1of4 column1c](thetimes/times1820-Feb-09_page1of4%20column1c.jpg)
-
 > Of note: A Country Gentleman whose means of relieving distress exceed the claims of his own neighbourhood, by William Wilberforce, Esq., M.P., contributed £30 (pounds).
+
+![times1820-Feb-09_page1of4 column1c](thetimes/times1820-Feb-09_page1of4%20column1c.jpg)
 
 ## Page 2 
 
