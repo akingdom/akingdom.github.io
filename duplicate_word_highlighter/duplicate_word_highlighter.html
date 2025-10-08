@@ -64,12 +64,13 @@ table {
     </style>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Times, serif;
             color: #000; /* Default text color for light mode */
             background-color: #f5f5f5; /* Background color for the editor  for light mode */
             margin: 0;
             padding: 0;
             height: 100vh;
+            line-height: 1.125rem;
         }
 
         #controls {
@@ -113,6 +114,10 @@ table {
         #display-field {
             z-index: 1; /* Overlay the editor-field */
             pointer-events: none; /* Makes it unclickable */
+            height: 100%;
+            bottom: 0;
+            overflow-wrap: break-word;
+            line-break: after-white-space;
         }
         #editor-field {
             z-index: 0; /* Base layer */
@@ -145,6 +150,15 @@ table {
 				border-bottom: 1px solid #333;
             }
 
+			#editor-field, #display-field {
+              transform: translateZ(0);
+              font-feature-settings: "kern" 1, "liga" 1;
+              line-height: 1.5;
+              font-size: 16px;
+              font-family: system-ui, sans-serif;
+              white-space: pre-wrap;
+              word-break: break-word;
+            }
             #display-field {
 				pointer-events: none; /* Makes it unclickable */
 			}
@@ -153,7 +167,6 @@ table {
                 background-color: #333; /* Dark mode background */
             	caret-color: white; /* Ensures cursor is visible */
 			}
-			
 			.highlighted {
             }
 
@@ -168,7 +181,7 @@ table {
         <button id="pasteButton">Paste</button>
         <button id="copyButton">Copy Plain Text</button>
         <label>
-            <input type="checkbox" id="highlightToggle" checked>
+            <input type="checkbox" id="highlightToggle" checked> Highlight On
         </label>
         <div id="purpose"></div>
     </div>
@@ -177,7 +190,40 @@ table {
 
     <script>// duplicate_word_highlighter.js
 
+    const editor = document.getElementById('editor-field');
+    const display = document.getElementById('display-field');
+    let lastText = '';
 
+function syncDisplayStyle() {
+
+    // Read all computed styles from editor
+    const computed = window.getComputedStyle(editor);
+
+    // Properties that affect layout/metrics
+    const propsToCopy = [
+        'font', 'font-family', 'font-size', 'font-weight',
+        'font-style', 'font-variant', 'font-stretch',
+        'line-height', 'letter-spacing', 'word-spacing',
+        'white-space', 'word-break', 'text-rendering',
+        'text-align', 'text-indent', 'text-transform',
+        'padding', 'margin', 'border', 'box-sizing'
+    ];
+
+    const newStyle = {};
+    propsToCopy.forEach(prop => {
+        newStyle[prop] = computed.getPropertyValue(prop);
+    });
+
+    // Apply to display layer
+    for (const [key, val] of Object.entries(newStyle)) {
+        display.style.setProperty(key, val);
+    }
+
+    // Keep essential differences
+    display.style.pointerEvents = 'none';
+    display.style.color = 'transparent'; // or leave if highlights add color
+    display.style.zIndex = '1';
+}
 
 // Utility function to get current cursor position
 function getCursorPosition() {
@@ -199,11 +245,11 @@ function updateStatusText(action) {
 	return;// DEBUGGING IS OFF
     const statusText = document.getElementById('purpose');
     const cursorInfo = getCursorPosition();
-    statusText.innerText = `${action} - Stored Position: ${JSON.stringify(window.storedCursorPosition || {})}, ` +
+    statusText.textContent = `${action} - Stored Position: ${JSON.stringify(window.storedCursorPosition || {})}, ` +
         `Current Position: ${formatCursorInfo(cursorInfo)}, ` +
         `Previous Position: ${formatCursorInfo(window.previousCursorPosition || {})}, ` +
-        `Text Content: ${document.editor.innerText}`;
-    console.log(statusText.innerText);
+        `Text Content: ${document.editor.textContent}`;
+    console.log(statusText.textContent);
 }
 
 // Save cursor position
@@ -214,7 +260,7 @@ function saveCursorPosition() {
 
 // Update the editor's content and manage cursor position
 function updateDisplayContent(editor, newText, range) {
-    document.display.innerHTML = newText || document.editor.getAttribute('placeholder');
+    document.display.innerHTML = newText;
     restoreSelection(range);
 	updateStatusText("Update Editor Content"); // Debug info
 }
@@ -235,7 +281,7 @@ const handleTyping = debounce(function(event) {
 
 	event.preventDefault(); // Prevent default action when necessary
 	const range = saveSelection();
-	const text = document.editor.innerText;
+	const text = document.editor.textContent;
 	
 	saveCursorPosition(); // Save cursor position before update
 	
@@ -247,7 +293,14 @@ const handleTyping = debounce(function(event) {
 }, 100); // Debounce time to manage frequent keystrokes
 
 // Handle paste events
-function handlePaste(event) {
+function handlePaste(e) {
+    e.preventDefault();
+    const text = (e.clipboardData || window.clipboardData).getData('text/plain');
+    const safeHtml = text.replace(/\n/g, '<br>');
+    document.execCommand('insertHTML', false, safeHtml);
+}
+/* old
+function handlePastex(event) {
     event.preventDefault(); // Prevent default paste behavior
     
     navigator.clipboard.readText().then(text => {
@@ -259,12 +312,13 @@ function handlePaste(event) {
         saveCursorPosition(); // Save cursor position before update
 
         document.execCommand('insertHTML', false, `<p>${text}</p>`);
-        const highlightedText = processDuplicates(document.editor.innerText);
+        const highlightedText = processDuplicates(document.editor.textContent);
         updateDisplayContent(document.editor, highlightedText, range);
 
 		document.isUpdating = false;
     });
 }
+*/
 
 // Handle cut events
 function handleCut(event) {
@@ -287,7 +341,7 @@ function handleClipboardAction(event, action) {
     document.isUpdating = true;
 
     const range = saveSelection();
-    const text = document.editor.innerText;
+    const text = document.editor.textContent;
 
     saveCursorPosition(); // Save cursor position before update
 
@@ -300,7 +354,7 @@ function handleClipboardAction(event, action) {
         document.execCommand('delete');
     }
 	
-    const highlightedText = processDuplicates(document.editor.innerText);
+    const highlightedText = processDuplicates(document.editor.textContent);
     updateDisplayContent(document.editor, highlightedText, range);
 
     document.isUpdating = false;
@@ -308,7 +362,7 @@ function handleClipboardAction(event, action) {
 
 // Copy text to clipboard
 function copyText() {
-    const text = document.editor.innerText;
+    const text = document.editor.textContent;
     navigator.clipboard.writeText(text).then(() => {
         alert("Plain text copied to clipboard!");
     });
@@ -375,10 +429,30 @@ function processDuplicates(text) {
     // Filter sequences by frequency to find repeated sequences
     const repeatedSequences = Object.keys(sequences).filter(seq => sequences[seq] > 1);
     
+    function tonedColor(hue, darkMode = false) {
+        let sat = 70;          // default saturation
+        let light = darkMode ? 60 : 40;   // default lightness
+    
+        // Desaturate & darken yellows
+        if (hue >= 40 && hue <= 70) {     // yellows
+            sat = 60;                     // less vivid
+            light = darkMode ? 55 : 35;   // a bit darker on light bg
+        }
+    
+        // Desaturate cyans
+        else if (hue >= 160 && hue <= 200) {  // cyans/teals
+            sat = 60;
+            light = darkMode ? 55 : 38;
+        }
+    
+        return `hsl(${hue}, ${sat}%, ${light}%)`;
+    }
+    
     // Create a map of sequences to their highlights
     const highlightMap = repeatedSequences.reduce((map, sequence) => {
         const hue = hashToHue(hashString(sequence)); // Generate a hue for the sequence
-        const color = `hsl(${hue}, 100%, 50%)`; // Create an HSL color with the generated hue
+        const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const color = tonedColor(hashToHue(hashString(sequence)), isDark);  // Create an HSL color with the generated hue
         map[escapeRegExp(sequence)] = color;
         return map;
     }, {});
@@ -422,7 +496,7 @@ function initializeEventListeners() {
     document.editor.addEventListener('blur', handleBlur); // Handle blur
 }
 
-// Returns an object of key:value pairs from the first '<!--PYKELET' comment found in this file.
+// Returns an object of key:value pairs from the first '<!--PYKELET' comment found in the root level of this file.
 function getPykeletFromComment() {
 	function getComments(elem) {
 	  return Array.from(elem.childNodes).filter(node => node.nodeType === Node.COMMENT_NODE);
@@ -465,17 +539,18 @@ function init() {
 
     initializeEventListeners(); // Set up all event listeners
 
+    syncDisplayStyle();
+    window.addEventListener('resize', syncDisplayStyle);
+    window.matchMedia('(prefers-color-scheme: dark)')
+          .addEventListener('change', syncDisplayStyle);
+
     window.previousContent = document.editor.innerHTML; // Track initial content for change detection
-	document.statusText.innerText = document.pykelet.DESCRIPTION;
-	
-	const range = saveSelection();
-	updateDisplayContent(document.editor, '', range);  // Update editor content with highlights
+	document.statusText.textContent = document.pykelet.DESCRIPTION;
     updateStatusText("Initialization"); // Initial status update
 }
 
 document.pykelet = getPykeletFromComment();  // grab details from Pykelet Resume immediately.
 window.addEventListener('load', init); // Initialise once the window loads
-
 
 
     </script>
