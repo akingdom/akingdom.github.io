@@ -255,12 +255,14 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Words and their meanings](https://akingdom.github.io/articles/etymology) (Etymology)
 	- **Read more**: [Shapes and their meanings](https://akingdom.github.io/articles/ShapeTheory) (Shape Theory)
 	- **Read more**: [Indiginous Peoples](https://akingdom.github.io/articles/indiginous-peoples) (A partial list)
+	- **Read more**: [1820s Newspaper](https://akingdom.github.io/articles/the_times_1820_feb_09)
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
 	- **Read more**: [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
 	- **Read more**: [Art](art2/)
 		- **Read more**: [Stereograph correction tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html)
+		- **Read more**: [Cleopatra visualisation](https://akingdom.github.io/articles/reconstructing_cleopatra_vii)
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 		- **Read more**: [Micro Story Writing](https://akingdom.github.io/articles/microstorywriting)
