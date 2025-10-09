@@ -61,3 +61,4 @@ This prompt is designed to be **reproducible, modular, and adjustable**, allowin
 ## Conclusion
 The reconstruction of Cleopatra VII’s appearance requires careful negotiation between fragmentary ancient evidence and modern interpretive tools. By triangulating sculptural remains, dynastic portraiture, and physiognomic analogues, we can approach a historically grounded yet visually compelling representation. The proposed prompt operationalizes this synthesis, producing an image that is both archaeologically plausible and resonant with contemporary viewers. This methodology demonstrates how digital tools can bridge the gap between ancient iconography and modern visualization, offering a fresh yet authentic Cleopatra for the 21st century.
 
+(C) 2025 Andrew Kingdom all rights reserved. May be reproduced for educational use.
