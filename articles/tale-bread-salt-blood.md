@@ -4,7 +4,7 @@
      alt="Medieval illustration of a knight sharing food with a traveler, symbolizing a truce or covenant, emphasizing the moral choice." 
      width="350" align="right" />
 
-Give ear to my tale and know thou that at times the **desert is indeed the master of all men**, for surely it forges truces deeper than the laws of mere men. And so it was, far from the gaze of Popes and Sultans, that three souls were glad for the warmth of meager flames from humble **thorn-scrub**, in the hollow of the cracked earth. The sun, that great furnace, had completed its journey and now the **evening stars sang over the western sky**.
+Give ear to my tale and know thou that at times the **desert is indeed the master of all men**, for surely it forges truces deeper than the laws of mere men. And so it was that, far from the gaze of Popes and Sultans, three souls were glad for the warmth of meager flames from humble **thorn-scrub**, in the hollow of the cracked earth. The sun, that great furnace, had completed its journey and now the **evening stars sang over the western sky**.
 
 The very presence of these men spoke of war, yet the threads of the **All-Wise Eternal One** at times commend a peace, a respite, which only a fool ignores.
 
