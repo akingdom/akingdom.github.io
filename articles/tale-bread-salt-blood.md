@@ -19,4 +19,4 @@ Thus, in that small circle of firelight, the three great Laws of the age—**Mil
 And the tale remains: **who among them shall break first? Tell me if you know his name.**
 
 ---
-(C) 2025 Andrew Kingdom all rights reserved. May be reproduced for educational use.
+(C) 2025 Andrew Kingdom all rights reserved. May be reproduced for educational use. This content was produced for a daily challenge on one of the sites the author uses.
