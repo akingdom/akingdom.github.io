@@ -241,6 +241,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 I have a wide range of interests that inform my work and approach:
 
 - **Nature and Science:** Enthusiast of biology, geology, cosmology, and physics.
+	- **Read more**: [First Aid for Venomous Bites & Stings](https://akingdom.github.io/articles/first_aid_venomous_bites_stings)
 	- **Read more**: [The Moon](https://akingdom.github.io/articles/moon)
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
 	- **Read more**: [Creative Thinking Guide](https://akingdom.github.io/articles/creative_thinking_cycle)
