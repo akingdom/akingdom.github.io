@@ -259,6 +259,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [1820s Newspaper](https://akingdom.github.io/articles/the_times_1820_feb_09)
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
+	- **Read more**: [Food and body weight health (dieting)](https://github.com/akingdom/weight-health)
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
 	- **Read more**: [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
 	- **Read more**: [Art](art2/)
