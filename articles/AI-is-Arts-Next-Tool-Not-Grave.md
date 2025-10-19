@@ -61,4 +61,6 @@ Furthermore, while job displacement is a legitimate concern, history suggests th
 
 The chosen applicator may be camel hair, a digital camera, or a generative AI render. The human artist, through their intent and curation, remains the source of creation.
 
-**Keywords:** AI Art, Generative AI, Definition of Art, Art History, Photography History, AI Ethics, Labor Fallacy, Category Error, Artist IntentCopyright: 2025 CC-BY**,** Andrew Kingdom
+**Keywords:** AI Art, Generative AI, Definition of Art, Art History, Photography History, AI Ethics, Labor Fallacy, Category Error, Artist Intent
+
+**Copyright:** 2025 CC-BY**,** Andrew Kingdom. The author's view has deep roots in the history of art; I come from a long line of artists, whose work is represented in both galleries and museums, across various mediums. In this article am defending the right of the artist to leverage any suitable technology in order to create.
