@@ -247,6 +247,7 @@ I have a wide range of interests that inform my work and approach:
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
 	- **Read more**: [Creative Thinking Guide](https://akingdom.github.io/articles/creative_thinking_cycle)
 	- **Read more**: [Aspiring Leadership](https://akingdom.github.io/articles/aspirational_leadership)
+	- **Read more**: [Change Imperitive](https://akingdom.github.io/articles/change_imperitive) A change management framework.
 	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 	- **Read more**: [Discipline and Trauma](https://akingdom.github.io/articles/Trauma_and_Discipline_v2)
 	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief)
