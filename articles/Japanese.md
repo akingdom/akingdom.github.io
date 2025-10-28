@@ -15,7 +15,7 @@ Doumo arigatou gozaimasu: casual emphatic form, present tense
 Arigatou gozaimasu: Standard polite everyday form, present tense
 
 ありがとうございました
-Arigatou gozaimashita: Standard polite everyday form, past tense, thanks for a thing already done; the *hi* in *shita* tends to be very quick and partly unvoiced.
+Arigatou gozaimashita: Standard polite everyday form, past tense, thanks for a thing already done; the final *i* in *gozaimashita* tends to be unvoiced and may sound more like *gozaimash·ta*.
 
 ### *Analysis*
 
