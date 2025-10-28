@@ -258,6 +258,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Words and their meanings](https://akingdom.github.io/articles/etymology) (Etymology)
 	- **Read more**: [Shapes and their meanings](https://akingdom.github.io/articles/ShapeTheory) (Shape Theory)
 	- **Read more**: [Indiginous Peoples](https://akingdom.github.io/articles/indiginous-peoples) (A partial list)
+	- **Read more**: [Japanese](https://akingdom.github.io/articles/Japanese) (Notes on a few words)
 	- **Read more**: [1820s Newspaper](https://akingdom.github.io/articles/the_times_1820_feb_09)
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
