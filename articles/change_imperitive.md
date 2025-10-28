@@ -10,9 +10,7 @@ This framework, conceptually drawn from the successful operational recovery stra
 
 The success of any change initiative is governed by the inherent relationship between the organization's **Flow Rate**, **Pressure**, and **Bias**. This relationship defines the core problem.
 
-$$
-\text{Validated Adoption (Implementation) Flow Rate} = \frac{\text{Pressure Difference between current state (death) and desired state (life)}}{\text{Conservation of Bias (Inertia)}}
-$$
+**Validated Adoption (Implementation) Flow Rate** = **(Pressure Difference between current state (death) and desired state (life))** / **(Conservation of Bias (Inertia))**
 
 ### Practical Application: "Know You Have a Problem"
 
@@ -20,9 +18,9 @@ This law identifies the three common reasons why new initiatives fail:
 
 | Variable | Organizational Component | Diagnosis: When You Know You Have a Problem | WATU Analogy | 
  | ----- | ----- | ----- | ----- | 
-| **Flow Rate ($\mathbf{I}$)** | The actual rate of successful change adoption. | **Low** $\mathbf{I}$**:** **Solutions exist, but behavior does not change.** Pilot programs stall, or successful training results in zero real-world implementation. | Convoys were sinking despite intelligence suggesting tactical gaps. | 
-| **Bias ($\mathbf{R}$)** | The entrenched organizational inertia and subjective worldview. | **High** $\mathbf{R}$**:** **The organization defaults to old, known, and failing habits.** Resistance is structural or cognitive ("That's how we've always done it"). | The Admiralty insisted on WWI doctrine over operational evidence. | 
-| **Pressure ($\mathbf{V}$)** | The sense of existential urgency driving action. | **Low** $\mathbf{V}$**:** **The organization is complacent.** Market threats or competitive decay are ignored because the perceived gap between 'death' (failure) and 'life' (success) is not motivating. | The national crisis of starvation was the immense pressure. | 
+| **Flow Rate (I)** | The actual rate of successful change adoption. | **Low (I):** **Solutions exist, but behavior does not change.** Pilot programs stall, or successful training results in zero real-world implementation. | Convoys were sinking despite intelligence suggesting tactical gaps. | 
+| **Bias (R)** | The entrenched organizational inertia and subjective worldview. | **High (R):** **The organization defaults to old, known, and failing habits.** Resistance is structural or cognitive ("That's how we've always done it"). | The Admiralty insisted on WWI doctrine over operational evidence. | 
+| **Pressure (V)** | The sense of existential urgency driving action. | **Low (V):** **The organization is complacent.** Market threats or competitive decay are ignored because the perceived gap between 'death' (failure) and 'life' (success) is not motivating. | The national crisis of starvation was the immense pressure. | 
 
 **The Diagnostic Rule:** If the **Flow Rate** is insufficient, the cause is either **Insufficient Pressure** (complacency) or **Excessive Bias** (inertia).
 
@@ -30,17 +28,15 @@ This law identifies the three common reasons why new initiatives fail:
 
 ## 2. Prescribing Action: Understanding How Change is to Be Made
 
-Once the bottleneck ($\mathbf{V}$ or $\mathbf{R}$) is identified, the framework prescribes specific actions to increase the **Flow Rate ($\mathbf{I}$)** and maximize **Power ($\mathbf{P}$)**.
+Once the bottleneck (V or R) is identified, the framework prescribes specific actions to increase the **Flow Rate (I)** and maximize **Power (P)**.
 
 ### A. The Flow Rate Law: Maximizing Throughput
 
 The speed and volume of successful change is not accidental; it is a function of cycle efficiency:
 
-$$
-\text{Validated Adoption (Implementation) Flow Rate} = \sum \frac{\text{(Model $\rightarrow$ Train $\rightarrow$ Adopt)}}{\text{Time}}
-$$
+**Validated Adoption (Implementation) Flow Rate** = **Sum of (Model → Train → Adopt) / Time**
 
-* **How Change is Made:** **Minimize the** $\text{Time}$ needed to complete the cycle. WATU's innovation was the speed and certainty of its throughput.
+* **How Change is Made:** **Minimize the** **Time** needed to complete the cycle. WATU's innovation was the speed and certainty of its throughput.
 
 * **Practical Application:**
 
@@ -54,15 +50,15 @@ $$
 
 Effective change requires action commensurate with urgency. **Power** defines the efficiency of authority structure in translating urgency into results.
 
-$$
-\text{Power} = \text{product of (Pressure Difference between current state (death) and desired state (life)) and Validated Adoption Rate}
-$$
+**Power (P)** = **product of (Pressure Difference between current state (death) and desired state (life))** and **(Validated Adoption Rate)**
 
-* **How Change is Made:** **Decentralize Power to the point of friction.** Low $\mathbf{P}$ occurs when high $\mathbf{V}$ (crisis) is blocked by high $\mathbf{R}$ (hierarchy). Granting local authority is the solution.
+* **How Change is Made:** **Decentralize Power to the point of friction.** Low **P** occurs when high **V** (crisis) is blocked by high **R** (hierarchy). Granting local authority is the solution.
 
-* **Practical Application:** Identify mission-critical decisions that currently require central sign-off. Grant the frontline staff **explicit, documented authority (a Power Grant)** to execute the new process immediately upon identifying the threat. This ensures the organization's **Urgency ($\mathbf{V}$)** immediately translates into effective **Action ($\mathbf{I}$)**, bypassing bureaucratic inertia. *Crucially, this assumes sufficient local autonomy can be granted by the centralized authority; the framework does not argue for entire decentralization, only localized Power grants.*
+* **Practical Application:** Identify mission-critical decisions that currently require central sign-off. Grant the frontline staff **explicit, documented authority (a Power Grant)** to execute the new process immediately upon identifying the threat. This ensures the organization's **Urgency (V)** immediately translates into effective **Action (I)**, bypassing bureaucratic inertia. *Crucially, this assumes sufficient local autonomy can be granted by the centralized authority; the framework does not argue for entire decentralization, only localized Power grants.*
 
 This **WATU Diagnostic Framework** is designed to be **primarily applicable practically**, guiding the user from problem identification to strategic action based on quantifiable organizational inputs.
+
+***
 
 ### WATU's Formation and Achievement
 
