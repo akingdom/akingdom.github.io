@@ -201,6 +201,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	- **Read More**: [Efficient AI communications change management](https://akingdom.github.io/articles/optimizing_communication_with_ai) (for developers).
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
 	- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
+	- **Read More**: [Is Generatve AI the Death or Future of Art](https://akingdom.github.io/articles/AI-is-Arts-Next-Tool-Not-Grave)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
 	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
@@ -241,10 +242,12 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 I have a wide range of interests that inform my work and approach:
 
 - **Nature and Science:** Enthusiast of biology, geology, cosmology, and physics.
+	- **Read more**: [First Aid for Venomous Bites & Stings](https://akingdom.github.io/articles/first_aid_venomous_bites_stings)
 	- **Read more**: [The Moon](https://akingdom.github.io/articles/moon)
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
 	- **Read more**: [Creative Thinking Guide](https://akingdom.github.io/articles/creative_thinking_cycle)
 	- **Read more**: [Aspiring Leadership](https://akingdom.github.io/articles/aspirational_leadership)
+	- **Read more**: [Change Imperitive](https://akingdom.github.io/articles/change_imperitive) A change management framework.
 	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 	- **Read more**: [Discipline and Trauma](https://akingdom.github.io/articles/Trauma_and_Discipline_v2)
 	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief)
@@ -255,12 +258,16 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Words and their meanings](https://akingdom.github.io/articles/etymology) (Etymology)
 	- **Read more**: [Shapes and their meanings](https://akingdom.github.io/articles/ShapeTheory) (Shape Theory)
 	- **Read more**: [Indiginous Peoples](https://akingdom.github.io/articles/indiginous-peoples) (A partial list)
+	- **Read more**: [Japanese](https://akingdom.github.io/articles/Japanese) (Notes on a few words)
+	- **Read more**: [1820s Newspaper](https://akingdom.github.io/articles/the_times_1820_feb_09)
 - **Food and Cooking:** Learning the art of cooking (and how to avoid burning water!).
 	- **Read more**: [Recipes and how not to burn water](https://github.com/akingdom/food-recipes)
+	- **Read more**: [Food and body weight health (dieting)](https://akingdom.github.io/articles/weight-health)
 - **Creative Endeavors:** Passionate about reading, writing, and exploring visuals like user interfaces and artwork.
 	- **Read more**: [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ)
 	- **Read more**: [Art](art2/)
 		- **Read more**: [Stereograph correction tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html)
+		- **Read more**: [Cleopatra visualisation](https://akingdom.github.io/articles/reconstructing_cleopatra_vii)
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 		- **Read more**: [Micro Story Writing](https://akingdom.github.io/articles/microstorywriting)
