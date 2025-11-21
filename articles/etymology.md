@@ -55,17 +55,54 @@
 
 ### A timeline of the English Language
 
-Period|Key Events|Linguistic Influences|Notes
-------|----------|---------------------|-----
-Proto-Indo-European (Before 4500 BC)|Hypothetical ancestral language||Little is known of Mesolithic and Neolithic era migrations and trade routes.
-Celtic Britain (500 BC - 43 AD)|Celtic tribes inhabit Britain|Celtic languages|The Celts had trade routes all across Europe. The Celtic languages are Irish Gaelic, Scottish Gaelic (Scotland), Manx (Isle of Man), Welsh (Wales), Cornish (Cornwall), Breton (Brittany in France), Gaulish (France, extinct), Lepontic (northern Italy, extinct) and Celtiberian (Spain and Portugal, extinct).
-Roman Britain (43 - 410)|Roman conquest and occupation|Latin|Roman empire grew from Rome in modern italy, partly influenced by Celtic, Etruscan and Greek cultures. Rome was trading with southern England well before the 43 AD invasion.
-Anglo-Saxon England (450 - 1066)|Anglo-Saxon migration and settlement|Old English dialects|Anglo-Saxon comes from three neighbouring tribes: Jutes (northern), Angels (central) and Saxons (southern). The Jutes from Jutland in Denmark, settled in Kent and south-east England. The Angles from Angeln, in northern Germany, settled in Anglia in north-east England. The Saxons of Saxony, in northern Germany, settled in south and central England.
-Norse Invasions (787 - 1066)|Viking raids and settlements|Old Norse|Old Norse had several dialects, including Old Icelandic, Old Norwegian, and Old Danish
-Norman Conquest (1066)|Norman invasion of England|Old French|Everyday Latin of Roman Empire → Roman invasion of Gaul (France) → Old French
-Middle English (1066 - 1500)|Linguistic blending and standardization|French, Latin, Greek, and other languages|Middle English was a crucial period in the development of modern English, as it marked the blending of Old English, Old French, and other languages, leading to the formation of a more standardized and flexible language.
-Early Modern English (1500 - 1700)|Renaissance, Age of Exploration|Latin, Greek, and languages from colonized territories|Printed material became more widespread. The 'great vowel shift' occurred in this period where so-called 'educated' people changed the way they spoke. For example, the word "house" was pronounced as "hoos" in Middle English, but it now has the pronunciation "howz." This has changed how Modern English is spoken generally.
-Modern English (1700 - Present)|Globalization, technological advancements|Diverse languages from around the world|English has become a global language, influenced by various cultures and languages.
+Your proposed final form is very strong — it’s cohesive, historically accurate, and balanced in detail. Here’s a critique and polish pass to ensure it’s airtight:
+
+---
+
+### ✅ Strengths
+- **Chronology is clear and consistent.** Each period flows logically into the next.  
+- **Influences are well‑balanced.** You’ve captured Celtic, Latin, Norse, French, and later global inputs without overloading.  
+- **Corrections applied.** PIE dating, “Angles” fixed, Irish vs Roman missions split, Danelaw grammar softened, Norman French lineage clarified, Great Vowel Shift contextualized.  
+- **Concise but rich notes.** Each entry has enough detail to be informative without overwhelming.
+
+---
+
+### ⚠️ Minor Refinements
+1. **Roman Britain row:**  
+   - “Roman empire grew from Rome in modern italy” → capitalize *Italy*.  
+   - Could tighten to: *“Roman Empire grew from Rome, influenced by Celtic, Etruscan, and Greek cultures.”*
+
+2. **Irish Mission row:**  
+   - “Students came from as far away as Rome to learn” — true, but slightly anecdotal. You might phrase: *“Irish schools attracted students from across Europe, including Rome.”*  
+
+3. **Early Modern English row:**  
+   - The “house” example is excellent, but the phrasing *“This has changed how Modern English is spoken generally”* is a bit broad. Suggest: *“This shift reshaped vowel pronunciation in Modern English.”*  
+
+4. **Modern English row:**  
+   - You could enrich with vectors: *“Colonial expansion, industrialization, mass media, and the internet accelerated English’s global spread.”* This parallels the detail level of the Early Modern row.
+
+---
+
+### A timeline of the English Language
+
+Period | Key Events | Linguistic Influences | Notes  
+------ | ---------- | --------------------- | -----  
+Proto‑Indo‑European (c. 4500–2500 BC) | Hypothetical ancestral language | | Little is known of Mesolithic and Neolithic era migrations and trade routes.  
+Celtic Britain (500 BC – 43 AD) | Celtic tribes inhabit Britain | Celtic languages | The Celtic languages are Irish Gaelic, Scottish Gaelic (Scotland), Manx (Isle of Man), Welsh (Wales), Cornish (Cornwall), Breton (Brittany in France), Gaulish (France, extinct), Lepontic (northern Italy, extinct) and Celtiberian (Spain and Portugal, extinct). The Celts in Britain had trade routes all across Europe. Rome was buying and selling in southern England well before the 43 AD invasion, bringing Latin words into Britain.  
+Roman Britain (43 – 410) | Roman conquest and occupation | Latin | Roman Empire grew from Rome, influenced by Celtic, Etruscan, and Greek cultures.  
+Anglo‑Saxon England (450 – 1066) | Anglo‑Saxon migration and settlement | Old English dialects | Anglo‑Saxon comes from three neighbouring tribes: Jutes (northern), Angles (central), and Saxons (southern). The Jutes from Jutland in Denmark settled in Kent and south‑east England. The Angles from Angeln, in northern Germany, settled in Anglia in north‑east England. The Saxons of Saxony, in northern Germany, settled in south and central England.  
+Irish Mission (c. 563 onwards) | Columba founds Iona; Irish monastic expansion | Old Irish, Latin (Church) | Irish monasteries influenced orthography and learning; missionaries spread scholarship across Britain and Europe. Golden Age of Irish monastic scholarship (6th–9th centuries). Irish schools attracted students from across Europe, including Rome.  
+Roman Mission (597 onwards) | Augustine sent by Pope Gregory to Kent | Latin (Church) | Anchored Roman Christianity in southern England; Canterbury became the seat of the Archbishop. Roman liturgy and ecclesiastical structures dominated after Synod of Whitby (664).  
+Norse Invasions (787 – 1066) | Viking raids and settlements | Old Norse | Old Norse had several dialects, including Old Icelandic, Old Norwegian, and Old Danish.  
+Danelaw (865 – 954) | Viking settlement in eastern England | Old Norse | Norse loanwords entered everyday English (e.g. *sky*, *egg*, *law*); Norse contact may have accelerated simplification of grammar.  
+Norman Conquest (1066) | Norman invasion of England | Old French | Old French developed from common (Vulgar) Latin in Gaul, shaped by Celtic (Gaulish) and Germanic (Frankish) influences, with an additional Norse overlay from Viking settlers in Normandy. This gave Norman French distinctive vocabulary and phonological traits, which entered English after 1066 alongside the broader Romance influence.  
+Norman French Administration (post‑1066) | Norman elite rule | Old French, Latin | French dominated law, government, and aristocracy; Latin remained language of scholarship.  
+Middle English (1066 – 1500) | Linguistic blending and standardization | French, Latin, Greek, and other languages | Middle English was a crucial period in the development of modern English, as it marked the blending of Old English, Old French, and other languages, leading to the formation of a more standardized and flexible language.  
+Printing Press in England (1476) | Caxton establishes press | Middle English standardization | Helped fix spelling and spread London dialect as basis for standard English.  
+Early Modern English (1500 – 1700) | Renaissance, Age of Exploration | Latin, Greek, and languages from colonized territories | Printed material became more widespread. The Great Vowel Shift occurred in this period as a broad phonological change, reinforced by social factors: dialect mixing after the Black Death, prestige imitation of London and court speech, and lingering French influence. Speakers often adjusted their pronunciation to align with high‑status norms, while chain reactions within the vowel system preserved distinctions. For example, the word *house* was pronounced as *hoos* in Middle English, but now has the pronunciation *howz*. This shift reshaped vowel pronunciation in Modern English.  
+Modern English (1700 – Present) | Globalization, technological advancements | Diverse languages from around the world | English has become a global language, influenced by colonial expansion, industrialization, mass media, and the internet, alongside diverse cultural and linguistic inputs.  
+
+---
 
 ## An exploration of the Germanic roots of English
 
