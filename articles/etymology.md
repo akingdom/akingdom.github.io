@@ -39,6 +39,10 @@
 
 - **Hope** as a concept means 'confident expectation' and relates to the idea of respectful acknowledgement of one's duties and obligations, especially as owed to someone greater than you, prostrating one's self to show this service.
 
+- **Man** was originally (in Old English) not restricted to the concept of male; it meant *human being* in general. The Old English *wer* meant specifically 'adult male' or 'husband,' and survives only in the mythological word *were-wolf*. With the 1066 Norman invasion of England, the usage of the Germanic *wer* began to fade. Over time, the French/Norman *person* (from Latin *persona*) became popular to mean 'human being'. Likewise *man* began to be used to also mean 'male', while keeping the original meaning of 'human being'. *Wer* also carried the concept of permanence, in the sense of general responsibility and capability to provide security and maintenance.
+
+- **Woman** derives from the meaning 'wife-human' (*wīfmann* in Old English). *Wīf* meant 'woman' (later narrowed to 'wife'), and when compounded with *mann* ('human being'), it gave *wīfmann* → 'woman'. Over time, *wīfmann* contracted to *woman.* The *wīf* element reflects relational identity — a role that shifted with life stage (maiden, wife, widow) — in contrast to the permanence of *wer*.
+
 ## First words
 *For most children the first word they learn is relational, either to mother or father*
 
