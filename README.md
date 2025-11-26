@@ -333,6 +333,6 @@ I have a wide range of interests that inform my work and approach:
 <script src="js/pykelet.js"></script>
 <script src="js/hide_github_title.js"></script>
 <script src="js/random_quote.js"></script>
-<script src="js/3rdParty/lunr.js"></script>
+<script src="js/3rd_party/lunr.js"></script>
 <script src="js/search.js"></script>
 <script src="js/tawk_to.js"></script>
