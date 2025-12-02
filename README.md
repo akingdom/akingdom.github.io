@@ -326,7 +326,7 @@ I have a wide range of interests that inform my work and approach:
 
 > A person who struggles and moves forwards will generally go much further in life and achieve more than a person who never had to struggle at all. - Andrew Kingdom
 
-> If a lack of effort isn't the problem, more effort is not the solution. - Jessica McCabe
+> If a lack of effort isn't the problem, more effort is not the solution. If we want to (achieve) more, we often need to do less. - Jessica McCabe
 
 ### Footnotes
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
