@@ -202,6 +202,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
 	- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 	- **Read More**: [Is Generatve AI the Death or Future of Art](https://akingdom.github.io/articles/AI-is-Arts-Next-Tool-Not-Grave)
+	- **Read More**: [AI Protocol: Logic, Evidence, and the Avoidance of Artificial Neutrality](https://akingdom.github.io/articles/ai_verifiable_reality)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
 	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
