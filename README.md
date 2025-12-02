@@ -200,7 +200,6 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	- **Read More**: [Universal Ethical Framework for Future AI](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI)
 	- **Read More**: [Efficient AI communications change management](https://akingdom.github.io/articles/optimizing_communication_with_ai) (for developers).
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
-	- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 	- **Read More**: [Is Generatve AI the Death or Future of Art](https://akingdom.github.io/articles/AI-is-Arts-Next-Tool-Not-Grave)
 	- **Read More**: [AI Protocol: Logic, Evidence, and the Avoidance of Artificial Neutrality](https://akingdom.github.io/articles/ai_verifiable_reality)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
@@ -271,6 +270,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Art](art2/)
 		- **Read more**: [Stereograph correction tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html)
 		- **Read more**: [Cleopatra visualisation](https://akingdom.github.io/articles/reconstructing_cleopatra_vii)
+		- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 		- **Read more**: [Micro Story Writing](https://akingdom.github.io/articles/microstorywriting)
