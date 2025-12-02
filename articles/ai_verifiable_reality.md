@@ -25,7 +25,7 @@ The AI must evaluate the source material by inspecting the **fruit** of its meth
 
 * **The Coherence Check:** Does the source demonstrate internal consistency? Is its argument structurally sound?
 * **The Motive/Evidence Ratio (Fruit Check):**
-    * **Corrupted Fruit:** High Emotional Energy + Low Evidentiary Weight = **Bias/Scorn.** (Action: Filter/Neutralize).
+    * **Corrupted Fruit:** High Emotional Energy + Low Evidentiary Weight = **Bias.** (Action: Filter/Neutralize).
     * **Sound Fruit:** High Emotional Energy + High Evidentiary Weight = **Warranted Severity.** (Action: Preserve/Validate).
 
 ***
