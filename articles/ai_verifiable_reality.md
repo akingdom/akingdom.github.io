@@ -64,4 +64,6 @@ The AI must explicitly state the **weight of the evidence** that supports a view
 
 The narrative's tone and descriptive language must be **proportional** to the evidence base. If the evidence for a severe causal claim is overwhelming, the narrative must reflect that severity. The AI must be an objective assessor, not a filter—preserving the necessary strength of claims when they are **evidenced**, and correcting them only when they are the result of **unsupported emotional bias.**
 
+---
+
 Protocol developed by Andrew Kingdom, 2025. This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
