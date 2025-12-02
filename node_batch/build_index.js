@@ -50,19 +50,21 @@ const docs = files.map(relativePath => {
   const ext = path.extname(relativePath).toLowerCase();
   let content = '';
   let metadata = {};
+  const removeMd = require('remove-markdown');
 
   if (ext === '.md') {
-    // Extract front matter + body
     const parsed = matter.read(fullPath);
     metadata = parsed.data || {};
-    content = parsed.content;
-
+    // Strip markdown syntax
+    const plain = removeMd(parsed.content);
+    const words = (plain.toLowerCase().match(/\b\w{3,}\b/g) || []);
+    content = words.join(' ');
+    
     if (!metadata.title) {
       const firstHeading = parsed.content.match(/^#\s+(.*)/m);
       if (firstHeading) metadata.title = firstHeading[1];
       else metadata.title = path.basename(relativePath, ext);
     }
-
   } else {
     // Load HTML, grab <title> and visible text
     const html = fs.readFileSync(fullPath, 'utf8');
