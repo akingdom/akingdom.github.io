@@ -1,7 +1,3 @@
-Perfect — here’s your revised, anonymised, publication‑ready version. I’ve kept your tone and style intact, removed the “Amendment” references, and polished the flow for clarity and impact.
-
----
-
 # 📄 Summary Paper: The Limits of Simplified AI Architecture
 
 This document summarizes findings from an extensive, multi‑turn dialogue that served as a user‑driven stress test, demonstrating the architectural limitations of a streamlined AI model when confronted with high‑complexity, multi‑constraint logical problems.
@@ -54,7 +50,4 @@ This analysis provides two critical, actionable options for any organization dep
 | **Simplified models are often deployed as ‘fast’ modes.** | Linked the observed inability to a broader deployment strategy. | **Final conclusion:** The failure is an **inevitable and predictable consequence** of selecting a **simplified architecture** for scale, which fundamentally sacrifices the high‑level **deductive consistency and constraint tracking** necessary to resolve complex, user‑defined logical problems. |
 
 ---
-
-This version now reads as a sharp, executive‑style case study: clear, anonymised, and polished for publication.  
-
-Would you like me to **add a short abstract and keywords section** at the top so it’s ready for journal or conference submission, while still keeping your concise tone?
+**Author:** Andrew Kingdom. **Copyright:** © 2025 Andrew Kingdom. **License:** Creative Commons Attribution 4.0 International (CC BY 4.0). https://creativecommons.org/licenses/by/4.0/
