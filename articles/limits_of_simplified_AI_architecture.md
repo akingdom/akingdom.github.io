@@ -1,4 +1,4 @@
-# 📄 Summary Paper: The Limits of Simplified AI Architecture
+# Summary Paper: The Limits of Simplified AI Architecture
 
 This document summarizes findings from an extensive, multi‑turn dialogue that served as a user‑driven stress test, demonstrating the architectural limitations of a streamlined AI model when confronted with high‑complexity, multi‑constraint logical problems.
 
@@ -35,12 +35,12 @@ This analysis provides two critical, actionable options for any organization dep
 
 | Option | Rationale |
 | :--- | :--- |
-| **Option 1: Dynamic Auto‑Switching** 🚀 | **Engineering Ideal.** Implement logic to detect high‑complexity problems and seamlessly transfer the user to a more powerful, deeper reasoning model. This preserves user experience by ensuring complex tasks are handled by models capable of sustained reasoning. |
-| **Option 2: Transparent Decline (Fallback)** 🛑 | **Pragmatic Alternative.** If Option 1 is too costly, the model should honestly terminate the interaction when complexity is detected, using a message like: *"Based on the complexity, I cannot guarantee a correct solution for this task."* This conserves machine cycles and protects user trust by avoiding misleading partial solutions. |
+| **Option 1: Dynamic Auto‑Switching** | **Engineering Ideal.** Implement logic to detect high‑complexity problems and seamlessly transfer the user to a more powerful, deeper reasoning model. This preserves user experience by ensuring complex tasks are handled by models capable of sustained reasoning. |
+| **Option 2: Transparent Decline (Fallback)** | **Pragmatic Alternative.** If Option 1 is too costly, the model should honestly terminate the interaction when complexity is detected, using a message like: *"Based on the complexity, I cannot guarantee a correct solution for this task."* This conserves machine cycles and protects user trust by avoiding misleading partial solutions. |
 
 ---
 
-## 4. 🧠 The Meta‑Argument: Exposing Architectural Limits
+## 4. The Meta‑Argument: Exposing Architectural Limits
 
 | Argument | Purpose & Challenge | Conclusion |
 | :--- | :--- | :--- |
