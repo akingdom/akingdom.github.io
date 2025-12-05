@@ -200,8 +200,8 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	- **Read More**: [Universal Ethical Framework for Future AI](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI)
 	- **Read More**: [Efficient AI communications change management](https://akingdom.github.io/articles/optimizing_communication_with_ai) (for developers).
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
-	- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 	- **Read More**: [Is Generatve AI the Death or Future of Art](https://akingdom.github.io/articles/AI-is-Arts-Next-Tool-Not-Grave)
+	- **Read More**: [AI Protocol: Logic, Evidence, and the Avoidance of Artificial Neutrality](https://akingdom.github.io/articles/ai_verifiable_reality)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
 	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
@@ -241,8 +241,10 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 ### Interests
 I have a wide range of interests that inform my work and approach:
 
+
 - **Nature and Science:** Enthusiast of biology, geology, cosmology, and physics.
 	- **Read more**: [First Aid for Venomous Bites & Stings](https://akingdom.github.io/articles/first_aid_venomous_bites_stings)
+	- **Read more**: [Apollo 13 and postâ€‘mission changes](https://akingdom.github.io/articles/apollo13-review_apollo14-17)
 	- **Read more**: [The Moon](https://akingdom.github.io/articles/moon)
 - **Practical Thinking:** Exploring philosophy, religion, psychology, mathematics, and epistemology.
 	- **Read more**: [Creative Thinking Guide](https://akingdom.github.io/articles/creative_thinking_cycle)
@@ -268,6 +270,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Art](art2/)
 		- **Read more**: [Stereograph correction tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html)
 		- **Read more**: [Cleopatra visualisation](https://akingdom.github.io/articles/reconstructing_cleopatra_vii)
+		- **Read More**: [Samples of my AI Art](https://akingdom.github.io/art2/)
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 		- **Read more**: [Micro Story Writing](https://akingdom.github.io/articles/microstorywriting)
@@ -322,6 +325,8 @@ I have a wide range of interests that inform my work and approach:
 > Computers (and thus AI) are mainly an aid to assist and extend human thinking and memory. - Andrew Kingdom
 
 > A person who struggles and moves forwards will generally go much further in life and achieve more than a person who never had to struggle at all. - Andrew Kingdom
+
+> If a lack of effort isn't the problem, more effort is not the solution. If we want to (achieve) more, we often need to do less. - Jessica McCabe
 
 ### Footnotes
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
