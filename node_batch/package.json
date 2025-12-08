@@ -16,7 +16,7 @@
     "lunr": "^2.3.9",
     "minimist": "^1.2.8",
     "ponyfill": "^0.0.1",
-    "web-streams-polyfill": "^4.1.0"
+    "web-streams-polyfill": "^4.1.0",
     "remove-markdown": "^0.6.2",
   },
   "description": ""
