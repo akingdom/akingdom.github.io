@@ -21,10 +21,3 @@
   },
   "description": ""
 }
-// node_batch/package.json
-{
-  "name": "search-indexer",
-  "dependencies": {
-    // ... other packages ...
-  }
-}
