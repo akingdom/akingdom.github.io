@@ -1,0 +1,13 @@
+# -----------------------------
+# REQUIRED SITE CONFIGURATION
+# -----------------------------
+# Set the base hostname & protocol for your site
+url: "https://akingdom.github.io" 
+baseurl: "" # This should be empty for a User/Organization Page like yours
+
+# -----------------------------
+# PLUGINS
+# -----------------------------
+# The jekyll-sitemap plugin is built-in to GitHub Pages and must be listed here to run
+plugins:
+  - jekyll-sitemap
