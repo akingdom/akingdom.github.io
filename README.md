@@ -204,7 +204,7 @@ Iâ€™m a freelance consultant specializing in technology solutions. Whether youâ€
 	- **Read More**: [AI Protocol: Logic, Evidence, and the Avoidance of Artificial Neutrality](https://akingdom.github.io/articles/ai_verifiable_reality)
 	- **Read More**: [The Limits of Simplified AI Architecture](https://akingdom.github.io/articles/limits_of_simplified_AI_architecture)
 - **Programming Languages:** Objective-C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
-	- **Read more**: [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+	- **Read more**: [Advice for Student Programmers](https://akingdom.github.io/articles/Programming-Advice-AK)
 	- **Read more**: [Source Code](https://github.com/akingdom?tab=repositories) Repositories
 	- **Read more**: [Source Code Extracts](https://gist.github.com/akingdom) Gist
 	- **Read more**: [Guides](https://github.com/akingdom/) - Excel, Xcode, Blender
