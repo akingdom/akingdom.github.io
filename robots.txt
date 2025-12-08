@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://akingdom.github.io/sitemap.xml
