@@ -13,6 +13,10 @@ baseurl: "" # This should be empty for a User/Organization Page like yours
 exclude:
   - googlea1314b9930e3daf4.html
   - images/posts/
+
+# jekyll settings
+jekyll-sitemap:
+  path: "sitemap-index.xml"
   
 # -----------------------------
 # PLUGINS
@@ -20,7 +24,3 @@ exclude:
 # The jekyll-sitemap plugin is built-in to GitHub Pages and must be listed here to run
 plugins:
   - jekyll-sitemap
-
-# jekyll settings
-jekyll-sitemap:
-  path: "sitemap-index.xml"
