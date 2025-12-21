@@ -1,6 +1,9 @@
 # -----------------------------
 # REQUIRED SITE CONFIGURATION
 # -----------------------------
+# Explicitly set the encoding to use UTF-8 regardless of the server's default
+encoding: "utf-8"
+
 # Set the base hostname & protocol for your site
 url: "https://akingdom.github.io" 
 baseurl: "" # This should be empty for a User/Organization Page like yours
