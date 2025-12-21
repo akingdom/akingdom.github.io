@@ -1,27 +1,19 @@
 ---
 layout: null
-search: exclude
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    {% for page in site.pages %}
+  {% for post in site.posts %}
     <url>
-        <loc>{{page.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     </url>
-    {% endfor %}
-
-    {% for post in site.posts %}
+  {% endfor %}
+  {% for page in site.pages %}
+    {% if page.url contains '.html' or page.url == '/' %}
     <url>
-        <loc>{{post.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
+      <loc>{{ site.url }}{{ page.url }}</loc>
     </url>
-    {% endfor %}
-
+    {% endif %}
+  {% endfor %}
 </urlset>
