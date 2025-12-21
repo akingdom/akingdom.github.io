@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://akingdom.github.io/sitemap-index.xml
+Sitemap: https://akingdom.github.io/sitemap.xml
