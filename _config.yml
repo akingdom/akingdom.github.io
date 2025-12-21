@@ -19,4 +19,4 @@ exclude:
 # -----------------------------
 # The jekyll-sitemap plugin is built-in to GitHub Pages and must be listed here to run
 plugins:
-  - jekyll-sitemap
+#  - jekyll-sitemap DISABLED - we build it via the jekyll sitemap.xml template root file
