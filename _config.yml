@@ -15,6 +15,13 @@ exclude:
   - images/posts/
 
 # -----------------------------
+# THEME
+# -----------------------------
+theme: jekyll-theme-cayman
+title: Andrew Kingdom
+description: Technology Consultant & Educator
+
+# -----------------------------
 # PLUGINS
 # -----------------------------
 # The jekyll-sitemap plugin is built-in to GitHub Pages and must be listed here to run
