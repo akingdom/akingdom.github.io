@@ -1,6 +1,9 @@
 # -----------------------------
 # REQUIRED SITE CONFIGURATION
 # -----------------------------
+# Explicitly set the encoding to use UTF-8 regardless of the server's default
+encoding: "utf-8"
+
 # Set the base hostname & protocol for your site
 url: "https://akingdom.github.io" 
 baseurl: "" # This should be empty for a User/Organization Page like yours
@@ -10,10 +13,17 @@ baseurl: "" # This should be empty for a User/Organization Page like yours
 exclude:
   - googlea1314b9930e3daf4.html
   - images/posts/
-  
+
+# -----------------------------
+# THEME
+# -----------------------------
+theme: jekyll-theme-cayman
+title: Andrew Kingdom
+description: Technology Consultant & Educator
+
 # -----------------------------
 # PLUGINS
 # -----------------------------
 # The jekyll-sitemap plugin is built-in to GitHub Pages and must be listed here to run
 plugins:
-  - jekyll-sitemap
+#  - jekyll-sitemap DISABLED - we build it via the jekyll sitemap.xml template root file

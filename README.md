@@ -329,6 +329,8 @@ I have a wide range of interests that inform my work and approach:
 
 > If a lack of effort isn't the problem, more effort is not the solution. If we want to (achieve) more, we often need to do less. - Jessica McCabe
 
+> The fallback rule of systems success is: Always use the best tool for the job. Don't force a tool to do a different job; build tools to survive tougher jobs than anticipated and to fail safely when they break. - Andrew Kingdom
+
 ### Footnotes
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
