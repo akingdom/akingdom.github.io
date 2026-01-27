@@ -75,42 +75,49 @@
     const synth = window.speechSynthesis;
     const container = document.getElementById('audio-container');
     let utterance = null;
+    let isPaused = false; // Manual state tracking
 
     function getCleanText() {
-        // Targets the main content area
         const root = document.querySelector('.markdown-body') || document.body;
         const clone = root.cloneNode(true);
-        
-        // Remove everything we don't want read aloud
         const selectors = 'header, nav, .audio-controls, script, style, #qrcode, h1';
         clone.querySelectorAll(selectors).forEach(el => el.remove());
-        
         return clone.innerText.trim();
     }
 
     window.speechControl = {
         play: function() {
-            if (synth.paused) {
+            if (isPaused) {
+                // If we were paused, just resume
                 synth.resume();
+                isPaused = false;
                 container.classList.add('speaking');
             } else {
-                synth.cancel(); // Clear any hung processes
+                // If we are starting fresh
+                synth.cancel(); 
                 utterance = new SpeechSynthesisUtterance(getCleanText());
-                utterance.rate = 0.95; // Slightly slower for better clarity
+                utterance.rate = 0.95;
                 
-                utterance.onstart = () => container.classList.add('speaking');
-                utterance.onend = () => container.classList.remove('speaking');
-                utterance.onerror = () => container.classList.remove('speaking');
+                utterance.onstart = () => {
+                    container.classList.add('speaking');
+                    isPaused = false;
+                };
+                utterance.onend = () => {
+                    container.classList.remove('speaking');
+                    isPaused = false;
+                };
                 
                 synth.speak(utterance);
             }
         },
         pause: function() {
             synth.pause();
-            container.classList.remove('speaking');
+            isPaused = true;
+            container.classList.remove('speaking'); // This toggles the button back to Play
         },
         restart: function() {
             synth.cancel();
+            isPaused = false;
             container.classList.remove('speaking');
             this.play();
         }
