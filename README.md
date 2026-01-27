@@ -254,6 +254,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Mathematical finds](https://akingdom.github.io/articles/maths)
 	- **Read more**: [Discipline and Trauma](https://akingdom.github.io/articles/Trauma_and_Discipline_v2)
 	- **Read more**: [Belief and Trauma](https://akingdom.github.io/articles/Trauma_and_Belief)
+	- **Read more**: [Awareness and Trauma Healing](https://akingdom.github.io/articles/trauma_healing_and_awareness)
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 	- **Read more**: *See 'AI' above*
