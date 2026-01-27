@@ -18,17 +18,27 @@
   clear: left;
   margin-top: 0;     /* remove any unwanted gap */
 }
+
+</style>
+<!-- SPEECH -->
+<style>
+
 /* Text-to-speech - Hide pause by default, hide play when active */
-.speaking #play-btn { display: none; }
+/* This part handles the actual toggling */
 #pause-btn { display: none; }
+.speaking #play-btn { display: none; }
 .speaking #pause-btn { display: inline-block; }
+
+/* Mobile-friendly styling */
 .audio-controls button {
-  padding: 12px 20px;
+  padding: 12px 24px;
   border-radius: 8px;
-  border: 1px solid #ddd;
-  background: #ffffff;
+  border: 1px solid #ccc;
+  background: #fff;
   font-size: 16px;
+  font-family: inherit;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent; /* Cleaner for mobile */
 }
 </style><div id="qrcode">
 </div>
@@ -70,16 +80,23 @@
   }
 })();
 </script>
-<script>
+<script>// text to speech (notoriouly finicky to get right)
 (function() {
     const synth = window.speechSynthesis;
     const container = document.getElementById('audio-container');
-    let utterance = null;
-    let isPaused = false; // Manual state tracking
+    let isPaused = false;
+
+    // Heartbeat: Check every 250ms if speech has naturally finished
+    setInterval(() => {
+        if (!synth.speaking && !isPaused) {
+            container.classList.remove('speaking');
+        }
+    }, 250);
 
     function getCleanText() {
         const root = document.querySelector('.markdown-body') || document.body;
         const clone = root.cloneNode(true);
+        // Remove UI elements from being read
         const selectors = 'header, nav, .audio-controls, script, style, #qrcode, h1';
         clone.querySelectorAll(selectors).forEach(el => el.remove());
         return clone.innerText.trim();
@@ -88,32 +105,29 @@
     window.speechControl = {
         play: function() {
             if (isPaused) {
-                // If we were paused, just resume
                 synth.resume();
                 isPaused = false;
                 container.classList.add('speaking');
             } else {
-                // If we are starting fresh
-                synth.cancel(); 
-                utterance = new SpeechSynthesisUtterance(getCleanText());
+                synth.cancel(); // Reset
+                const utterance = new SpeechSynthesisUtterance(getCleanText());
                 utterance.rate = 0.95;
                 
-                utterance.onstart = () => {
-                    container.classList.add('speaking');
-                    isPaused = false;
-                };
+                // Backup for browsers where onend actually works
                 utterance.onend = () => {
-                    container.classList.remove('speaking');
                     isPaused = false;
+                    container.classList.remove('speaking');
                 };
-                
+
                 synth.speak(utterance);
+                container.classList.add('speaking');
+                isPaused = false;
             }
         },
         pause: function() {
             synth.pause();
             isPaused = true;
-            container.classList.remove('speaking'); // This toggles the button back to Play
+            container.classList.remove('speaking');
         },
         restart: function() {
             synth.cancel();
@@ -124,7 +138,7 @@
     };
 })();
 </script>
-<div class="audio-controls" id="audio-container" style="margin: 1em 0; display: flex; gap: 10px;">
+<div class="audio-controls" id="audio-container" style="margin: 1em 0;">
     <button id="play-btn" onclick="speechControl.play()">▶ Listen to this guide</button>
     <button id="pause-btn" onclick="speechControl.pause()">⏸ Pause</button>
     <button id="restart-btn" onclick="speechControl.restart()">🔄 Restart</button>
