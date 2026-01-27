@@ -18,6 +18,18 @@
   clear: left;
   margin-top: 0;     /* remove any unwanted gap */
 }
+/* Text-to-speech - Hide pause by default, hide play when active */
+.speaking #play-btn { display: none; }
+#pause-btn { display: none; }
+.speaking #pause-btn { display: inline-block; }
+.audio-controls button {
+  padding: 12px 20px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #ffffff;
+  font-size: 16px;
+  cursor: pointer;
+}
 </style><div id="qrcode">
 </div>
 <script src="../js/qrcode.js"></script>
@@ -59,52 +71,56 @@
 })();
 </script>
 <script>
-  (function() {
+(function() {
     const synth = window.speechSynthesis;
+    const container = document.getElementById('audio-container');
     let utterance = null;
-    let isPaused = false;
 
-    // 1. Get the text you want to read (targeting your main content)
-    function getReadableText() {
-        const content = document.querySelector('.markdown-body') || document.body;
-        // We clone it so we can strip out the QR code or scripts before reading
-        const tempDiv = content.cloneNode(true);
-        const toRemove = tempDiv.querySelectorAll('script, style, #qrcode');
-        toRemove.forEach(el => el.remove());
-        return tempDiv.innerText;
+    function getCleanText() {
+        // Targets the main content area
+        const root = document.querySelector('.markdown-body') || document.body;
+        const clone = root.cloneNode(true);
+        
+        // Remove everything we don't want read aloud
+        const selectors = 'header, nav, .audio-controls, script, style, #qrcode, h1';
+        clone.querySelectorAll(selectors).forEach(el => el.remove());
+        
+        return clone.innerText.trim();
     }
 
     window.speechControl = {
         play: function() {
-            if (synth.speaking && isPaused) {
+            if (synth.paused) {
                 synth.resume();
-                isPaused = false;
-            } else if (!synth.speaking) {
-                utterance = new SpeechSynthesisUtterance(getReadableText());
-                // Optional: Adjust voice/rate for a more natural feel
-                utterance.rate = 0.9; 
-                utterance.onend = () => { isPaused = false; };
+                container.classList.add('speaking');
+            } else {
+                synth.cancel(); // Clear any hung processes
+                utterance = new SpeechSynthesisUtterance(getCleanText());
+                utterance.rate = 0.95; // Slightly slower for better clarity
+                
+                utterance.onstart = () => container.classList.add('speaking');
+                utterance.onend = () => container.classList.remove('speaking');
+                utterance.onerror = () => container.classList.remove('speaking');
+                
                 synth.speak(utterance);
             }
         },
         pause: function() {
-            if (synth.speaking && !isPaused) {
-                synth.pause();
-                isPaused = true;
-            }
+            synth.pause();
+            container.classList.remove('speaking');
         },
         restart: function() {
             synth.cancel();
-            isPaused = false;
+            container.classList.remove('speaking');
             this.play();
         }
     };
 })();
 </script>
-<div style="margin: 1em 0; display: flex; gap: 10px;">
-    <button onclick="speechControl.play()" style="padding: 12px 20px; border-radius: 8px; border: 1px solid #ccc; background: #f9f9f9;">▶ Play</button>
-    <button onclick="speechControl.pause()" style="padding: 12px 20px; border-radius: 8px; border: 1px solid #ccc; background: #f9f9f9;">⏸ Pause</button>
-    <button onclick="speechControl.restart()" style="padding: 12px 20px; border-radius: 8px; border: 1px solid #ccc; background: #f9f9f9;">🔄 Restart</button>
+<div class="audio-controls" id="audio-container" style="margin: 1em 0; display: flex; gap: 10px;">
+    <button id="play-btn" onclick="speechControl.play()">▶ Listen to this guide</button>
+    <button id="pause-btn" onclick="speechControl.pause()">⏸ Pause</button>
+    <button id="restart-btn" onclick="speechControl.restart()">🔄 Restart</button>
 </div>
 
 # Understanding the Trap: Why facing the "bad times" is the way out.
