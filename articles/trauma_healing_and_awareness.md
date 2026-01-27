@@ -20,27 +20,7 @@
 }
 
 </style>
-<!-- SPEECH -->
-<style>
-
-/* Text-to-speech - Hide pause by default, hide play when active */
-/* This part handles the actual toggling */
-#pause-btn { display: none; }
-.speaking #play-btn { display: none; }
-.speaking #pause-btn { display: inline-block; }
-
-/* Mobile-friendly styling */
-.audio-controls button {
-  padding: 12px 24px;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-  background: #fff;
-  font-size: 16px;
-  font-family: inherit;
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent; /* Cleaner for mobile */
-}
-</style><div id="qrcode">
+<div id="qrcode">
 </div>
 <script src="../js/qrcode.js"></script>
 <script>// Updated QR code display for github websites.
@@ -80,23 +60,47 @@
   }
 })();
 </script>
-<script>// text to speech (notoriouly finicky to get right)
+  
+<!-- SPEECH -->
+<style>
+
+/* Text-to-speech - Hide pause by default, hide play when active */
+/* Update: Added !important to force the toggle */
+#pause-btn { display: none !important; }
+.speaking #play-btn { display: none !important; }
+.speaking #pause-btn { display: inline-block !important; }
+
+/* The rest is for mobile-friendly sizing */
+.audio-controls { margin: 1em 0; display: flex; gap: 10px; }
+.audio-controls button {
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+</style><script>// text to speech (notoriouly finicky to get right)
 (function() {
     const synth = window.speechSynthesis;
-    const container = document.getElementById('audio-container');
     let isPaused = false;
 
-    // Heartbeat: Check every 250ms if speech has naturally finished
+    // A helper to get the container safely
+    function getContainer() {
+        return document.getElementById('audio-container');
+    }
+
+    // Heartbeat: Automatic switch back when finished
     setInterval(() => {
-        if (!synth.speaking && !isPaused) {
+        const container = getContainer();
+        if (container && !synth.speaking && !isPaused) {
             container.classList.remove('speaking');
         }
-    }, 250);
+    }, 300);
 
     function getCleanText() {
         const root = document.querySelector('.markdown-body') || document.body;
         const clone = root.cloneNode(true);
-        // Remove UI elements from being read
         const selectors = 'header, nav, .audio-controls, script, style, #qrcode, h1';
         clone.querySelectorAll(selectors).forEach(el => el.remove());
         return clone.innerText.trim();
@@ -104,16 +108,19 @@
 
     window.speechControl = {
         play: function() {
+            const container = getContainer();
+            if (!container) return;
+
             if (isPaused) {
                 synth.resume();
                 isPaused = false;
                 container.classList.add('speaking');
             } else {
-                synth.cancel(); // Reset
+                synth.cancel();
                 const utterance = new SpeechSynthesisUtterance(getCleanText());
                 utterance.rate = 0.95;
                 
-                // Backup for browsers where onend actually works
+                // Backup for standard-compliant browsers
                 utterance.onend = () => {
                     isPaused = false;
                     container.classList.remove('speaking');
@@ -125,20 +132,22 @@
             }
         },
         pause: function() {
+            const container = getContainer();
             synth.pause();
             isPaused = true;
-            container.classList.remove('speaking');
+            if (container) container.classList.remove('speaking');
         },
         restart: function() {
             synth.cancel();
             isPaused = false;
-            container.classList.remove('speaking');
+            const container = getContainer();
+            if (container) container.classList.remove('speaking');
             this.play();
         }
     };
 })();
 </script>
-<div class="audio-controls" id="audio-container" style="margin: 1em 0;">
+<div class="audio-controls" id="audio-container">
     <button id="play-btn" onclick="speechControl.play()">▶ Listen to this guide</button>
     <button id="pause-btn" onclick="speechControl.pause()">⏸ Pause</button>
     <button id="restart-btn" onclick="speechControl.restart()">🔄 Restart</button>
