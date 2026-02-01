@@ -1,0 +1,29 @@
+# --- Specific Exclusions (Keep these) ---
+!biblos.html
+!bookdata/
+!preprocess_bible.py
+
+# --- Ignore Compressed Archives ---
+*.zip
+
+# --- Ignore Source/Raw Data Formats ---
+*_usfm/
+*_usfx/
+*_html/
+*.usfm
+*.usfx
+*.xlsx
+*.txt
+*.asc
+
+# --- Ignore Project/Metadata Folders ---
+browserbible-*/
+data-main/
+
+# --- Specific Static Assets (from the eng-web-c sample) ---
+copr.htm
+gentiumplus.css
+
+# --- System/OS junk ---
+.DS_Store
+Thumbs.db

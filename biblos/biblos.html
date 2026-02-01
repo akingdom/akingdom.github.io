@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scripture Viewer</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root { --primary: #1967d2; --bg: #f8f9fa; --surface: #ffffff; --note-bg: #e8f0fe; }
+        body { font-family: 'Charis SIL', serif; margin: 0; background: var(--bg); color: #202124; line-height: 1.6; padding-bottom: 120px; }
+        .container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+        .card { background: var(--surface); padding: 2.5rem; border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); position: relative; min-height: 70vh; }
+        .sticky-nav { position: sticky; top: 0; background: var(--surface); padding: 10px 0; border-bottom: 1px solid #eee; margin-bottom: 1.5rem; z-index: 10; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+        select, input { border: 1px solid #dadce0; padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; }
+        #search-box { flex-grow: 1; min-width: 120px; }
+        #search-results { position: absolute; top: 60px; left: 0; width: 100%; background: white; z-index: 20; border: 1px solid #dadce0; border-radius: 8px; max-height: 400px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .search-item { padding: 12px; border-bottom: 1px solid #eee; cursor: pointer; font-size: 0.95rem; }
+        .search-item:hover { background: #f1f3f4; }
+        .search-nav-indicator { padding: 15px; text-align: center; background: #f8f9fa; color: var(--primary); cursor: pointer; font-weight: 500; }
+        .version-tag { font-size: 0.8rem; text-transform: uppercase; color: #5f6368; letter-spacing: 1px; }
+        .ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 0.5rem; font-weight: 400; }
+        .verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; }
+        .v-num { font-size: 0.7rem; color: #999; font-weight: bold; margin-right: 8px; vertical-align: super; }
+        .bottom-bar { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); width: calc(100% - 40px); max-width: 760px; background: var(--surface); border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); padding: 12px 20px; z-index: 100; min-height: 48px; display: flex; align-items: center; box-sizing: border-box; }
+        .bottom-bar.is-note { background: var(--note-bg); border: 1px solid var(--primary); }
+        .ui-group { display: flex; gap: 10px; width: 100%; justify-content: space-between; align-items: center; }
+        .bar-title { font-size: 0.8rem; font-weight: bold; color: var(--primary); text-transform: uppercase; margin-right: 12px; border-right: 1px solid #ddd; padding-right: 12px; flex-shrink: 0; }
+        button { background: var(--primary); color: white; border: none; padding: 8px 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; }
+        button.secondary { background: #f1f3f4; color: #3c4043; }
+        button.active { background: #d2e3fc; color: var(--primary); border: 1px solid var(--primary); }
+        .strong-pill { font-size: 0.6rem; color: var(--primary); background: #e8f0fe; padding: 1px 3px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; }
+        .strongs-hidden .strong-pill { display: none !important; }
+        .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.7rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
+    </style>
+</head>
+<body class="strongs-hidden">
+
+<div class="container">
+    <div class="card">
+        <div class="sticky-nav">
+            <select id="ver-select" onchange="loadCollection(this.value)"></select>
+            <select id="book-select" onchange="changeBook(this.value)"></select>
+            <select id="chapter-select" onchange="changeChapter(this.value)"></select>
+            <button id="s-toggle" class="secondary" onclick="toggleStrongs()">S#</button>
+            <input type="text" id="search-box" placeholder="Search..." onkeyup="if(event.key==='Enter') doSearch(0)">
+            <div id="search-results"></div>
+        </div>
+        <div id="version-tag" class="version-tag"></div>
+        <div id="ref" class="ref"></div>
+        <div id="content"></div>
+    </div>
+</div>
+
+<div id="bottom-bar" class="bottom-bar">
+    <div id="nav-view" class="ui-group">
+        <button onclick="prevChapter()" class="secondary"><span class="material-icons">chevron_left</span></button>
+        <button onclick="pickRandom()"><span class="material-icons">shuffle</span> Random</button>
+        <button onclick="nextChapter()" class="secondary"><span class="material-icons">chevron_right</span></button>
+    </div>
+    <div id="note-view" class="ui-group" style="display:none">
+        <div id="note-text" style="font-size:0.9rem; flex-grow:1; display:flex; align-items:center;"></div>
+        <span class="material-icons" style="cursor:pointer; color:var(--primary)" onclick="revertNav()">close</span>
+    </div>
+    <div id="search-view" class="ui-group" style="display:none">
+        <div style="display:flex; align-items:center; flex-grow:1;"><span class="bar-title">Search</span><div id="search-stat" style="font-size:0.8rem; font-weight:bold"></div></div>
+        <div style="display:flex; gap:8px;"><button id="search-prev" class="secondary"><span class="material-icons">west</span></button><button id="search-next" class="secondary"><span class="material-icons">east</span></button><span class="material-icons" style="cursor:pointer; margin-left:8px;" onclick="closeSearch()">close</span></div>
+    </div>
+</div>
+
+<script src="bookdata/library_index.js"></script>
+<script>
+    let state = { book: "", ch: 1, fullLibrary: {}, lockNote: false, searchMatches: [], lastSearch: "", currentCollectionId: "", showStrongs: false };
+
+    String.prototype.upperCaseFix = function() { return this.toUpperCase().replace(/[^A-Z0-9]/g, '_'); };
+
+    window.onload = () => {
+        const sel = document.getElementById('ver-select');
+        window.BIBLE_INDEX.collections.forEach(c => {
+            let opt = document.createElement('option');
+            opt.value = c.id; opt.innerText = c.name;
+            sel.appendChild(opt);
+        });
+        state.showStrongs = localStorage.getItem('show_strongs') === 'true';
+        updateStrongsUI();
+        const last = localStorage.getItem('last_pos');
+        if (last) {
+            const p = JSON.parse(last);
+            sel.value = p.col || window.BIBLE_INDEX.collections[0].id;
+            loadCollection(sel.value, p.book, p.ch);
+        } else {
+            loadCollection(sel.value);
+        }
+    };
+
+    function toggleStrongs() {
+        state.showStrongs = !state.showStrongs;
+        localStorage.setItem('show_strongs', state.showStrongs);
+        updateStrongsUI();
+    }
+
+    function updateStrongsUI() {
+        const btn = document.getElementById('s-toggle');
+        if (state.showStrongs) { document.body.classList.remove('strongs-hidden'); btn.classList.add('active'); }
+        else { document.body.classList.add('strongs-hidden'); btn.classList.remove('active'); }
+    }
+
+    function loadCollection(id, targetBook, targetCh) {
+        const col = window.BIBLE_INDEX.collections.find(x => x.id === id);
+        state.currentCollectionId = id;
+        const old = document.getElementById('collection-script');
+        if(old) old.remove();
+        const script = document.createElement('script');
+        script.id = 'collection-script';
+        script.src = col.file;
+        script.onload = () => {
+            const varName = 'COLLECTION_' + id.upperCaseFix();
+            state.activeCollection = window[varName];
+            document.getElementById('version-tag').innerText = col.name;
+            populateBooks(col.books);
+            if(targetBook) navigateTo(targetBook, targetCh);
+            else pickRandom();
+        };
+        document.head.appendChild(script);
+    }
+
+    function populateBooks(books) {
+        const sel = document.getElementById('book-select'); sel.innerHTML = "";
+        for (let code in books) {
+            let opt = document.createElement('option'); opt.value = code; opt.innerText = books[code];
+            sel.appendChild(opt);
+        }
+    }
+
+    function populateChapters() {
+        const sel = document.getElementById('chapter-select'); sel.innerHTML = "";
+        Object.keys(state.fullLibrary).sort((a,b)=>a-b).forEach(c => {
+            let opt = document.createElement('option'); opt.value = c; opt.innerText = "Chapter " + c;
+            sel.appendChild(opt);
+        });
+    }
+
+    function navigateTo(code, ch, targetVerse) {
+        state.book = code;
+        state.fullLibrary = parseUSFM(state.activeCollection[code].usfm);
+        document.getElementById('book-select').value = code;
+        populateChapters();
+        // Pass the target verse through to the chapter change
+        changeChapter(ch || 1, targetVerse);
+    }
+    
+    function changeChapter(c, targetVerse) {
+        state.ch = parseInt(c);
+        document.getElementById('chapter-select').value = c;
+        localStorage.setItem('last_pos', JSON.stringify({
+            col: state.currentCollectionId, 
+            book: state.book, 
+            ch: state.ch
+        }));
+        render(targetVerse); // Pass verse to render
+    }
+    
+    function render(targetVerse) {
+        const verses = state.fullLibrary[state.ch];
+        document.getElementById('ref').innerText = `${state.activeCollection[state.book].name} ${state.ch}`;
+        
+        let html = "";
+        Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
+            // Add an ID to each verse row so we can scroll to it
+            html += `<div id="v-${v}" class="verse-row"><span class="v-num">${v}</span>${verses[v]}</div>`;
+        });
+        
+        document.getElementById('content').innerHTML = html;
+        revertNav();
+    
+        if (targetVerse) {
+            // Small delay to ensure DOM is painted before scrolling
+            setTimeout(() => {
+                const el = document.getElementById(`v-${targetVerse}`);
+                if (el) {
+                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    el.style.backgroundColor = '#fff9c4'; // Brief highlight
+                    setTimeout(() => el.style.backgroundColor = 'transparent', 2000);
+                }
+            }, 100);
+        } else {
+            window.scrollTo(0,0);
+        }
+    }
+    function doSearch(start) {
+        const term = document.getElementById('search-box').value.toLowerCase();
+        if(term.length < 3) return;
+        if (state.lastSearch !== term) {
+            state.searchMatches = []; state.lastSearch = term;
+            for (let code in state.activeCollection) {
+                const bookData = parseUSFM(state.activeCollection[code].usfm);
+                for (let c in bookData) {
+                    for (let v in bookData[c]) {
+                        const clean = bookData[c][v].replace(/<[^>]*>/g, "");
+                        if (clean.toLowerCase().includes(term)) state.searchMatches.push({ code, bookName: state.activeCollection[code].name, c, v, text: clean });
+                    }
+                }
+            }
+        }
+        displaySearchResults(start);
+    }
+
+    function displaySearchResults(start) {
+        const limit = 100; const resultsDiv = document.getElementById('search-results');
+        const matches = state.searchMatches.slice(start, start + limit);
+        if (matches.length === 0) { alert("No results found."); return; }
+        let html = matches.map(m => `<div class="search-item" onclick="navigateTo('${m.code}', ${m.c}); closeSearch();"><b>${m.bookName} ${m.c}:${m.v}</b><br>${m.text}</div>`).join('');
+        if (start + limit < state.searchMatches.length) html += `<div class="search-nav-indicator" onclick="displaySearchResults(${start + limit})">Load More...</div>`;
+        resultsDiv.innerHTML = html; resultsDiv.style.display = 'block'; resultsDiv.scrollTop = 0;
+        showSearchView(start, limit);
+    }
+
+    function showSearchView(start, limit) {
+        document.getElementById('nav-view').style.display = 'none'; document.getElementById('note-view').style.display = 'none';
+        document.getElementById('search-view').style.display = 'flex';
+        document.getElementById('search-stat').innerText = `${start + 1}-${Math.min(start + limit, state.searchMatches.length)} of ${state.searchMatches.length}`;
+        document.getElementById('search-prev').onclick = () => displaySearchResults(Math.max(0, start - limit));
+        document.getElementById('search-next').onclick = () => displaySearchResults(start + limit);
+        document.getElementById('search-prev').disabled = (start === 0);
+        document.getElementById('search-next').disabled = (start + limit >= state.searchMatches.length);
+    }
+
+    function closeSearch() { document.getElementById('search-results').style.display = 'none'; revertNav(); }
+    document.addEventListener('keydown', (e) => {
+        if (e.key === "Escape") {
+            if (document.getElementById('search-results').style.display === 'block') closeSearch();
+            else revertNav();
+        }
+    });
+
+    function showNote(note, ref, isClick) {
+        if (state.lockNote && !isClick) return;
+        if (isClick) state.lockNote = true;
+        document.getElementById('note-text').innerHTML = `<span class="bar-title">Note</span> <b>${ref}:</b> ${note}`;
+        document.getElementById('nav-view').style.display = 'none'; document.getElementById('search-view').style.display = 'none';
+        document.getElementById('note-view').style.display = 'flex';
+        document.getElementById('bottom-bar').classList.add('is-note');
+    }
+
+    function revertNav() { state.lockNote = false; document.getElementById('nav-view').style.display = 'flex'; document.getElementById('note-view').style.display = 'none'; document.getElementById('search-view').style.display = 'none'; document.getElementById('bottom-bar').classList.remove('is-note'); }
+    
+    function parseUSFM(text) { 
+        const lines = text.split(/\r?\n/); let data = {}; let c = 0, v = 0, buffer = ""; 
+        const flush = () => { if(v > 0) data[c][v] = finalize(buffer); }; 
+        lines.forEach(line => { 
+            let t = line.trim(); 
+            if (t.startsWith('\\c ')) { flush(); c = t.split(/\s+/)[1]; data[c] = {}; v = 0; buffer = ""; } 
+            else if (t.startsWith('\\v ')) { flush(); const m = t.match(/\\v\s+(\d+)\s+(.*)/); if(m){ v=m[1]; buffer=m[2]; } } 
+            else if (v > 0) { if (t.startsWith('\\q')) buffer += "<br>"; buffer += " " + t; } 
+        }); 
+        flush(); return data; 
+    }
+
+    function finalize(raw) { 
+        let html = raw;
+    
+        // 1. Handle Strongs: Supports both \w and \+w (nested)
+        // Matches \w or \+w, then the word, then the strong attribute
+        html = html.replace(/\\\+?w\s+([^|]+)\|strong="([HG][0-9]+)"\\\+?w\*/g, (m, word, code) => {
+            return `${word}<span class="strong-pill">${code}</span>`;
+        });
+    
+        // 2. Handle Footnotes
+        html = html.replace(/\\f\s+\+\s+(.*?)\s+(.*?)\\f\*/g, (m, r, n) => { 
+            const sn = n.replace(/'/g, "\\'").replace(/"/g, '&quot;'); 
+            return `<span class="fn-chip" onmouseenter="showNote('${sn}', '${r}', false)" onmouseleave="if(!state.lockNote)revertNav()" onclick="showNote('${sn}', '${r}', true)">NOTE</span>`; 
+        });
+    
+        // 3. Strip remaining USFM tags (wj, p, q, etc.)
+        // We do this LAST so we don't accidentally kill the Strong's data before processing it
+        return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim(); 
+    }
+
+    function pickRandom() {
+        // 1. Pick a random Book code
+        const codes = Object.keys(state.activeCollection);
+        const code = codes[Math.floor(Math.random() * codes.length)];
+        
+        // 2. Parse that book to find available chapters
+        const tempLibrary = parseUSFM(state.activeCollection[code].usfm);
+        const chapters = Object.keys(tempLibrary);
+        const ch = chapters[Math.floor(Math.random() * chapters.length)];
+        
+        // 3. Find available verses in 그 chapter
+        const verses = Object.keys(tempLibrary[ch]);
+        const v = verses[Math.floor(Math.random() * verses.length)];
+    
+        // 4. Navigate and scroll
+        navigateTo(code, ch, v);
+    }
+    function nextChapter() { if(state.fullLibrary[state.ch + 1]) changeChapter(state.ch + 1); }
+    function prevChapter() { if(state.fullLibrary[state.ch - 1]) changeChapter(state.ch - 1); }
+    function changeBook(c) { navigateTo(c, 1); }
+</script>
+</body>
+</html>
