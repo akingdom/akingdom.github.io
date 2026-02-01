@@ -3,298 +3,355 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scripture Viewer</title>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Biblos Scripture Viewer</title>
     <style>
-        :root { --primary: #1967d2; --bg: #f8f9fa; --surface: #ffffff; --note-bg: #e8f0fe; }
-        body { font-family: 'Charis SIL', serif; margin: 0; background: var(--bg); color: #202124; line-height: 1.6; padding-bottom: 120px; }
+        :root { 
+            --primary: #1967d2; 
+            --bg: #f8f9fa; 
+            --surface: #ffffff; 
+            --note-bg: #e8f0fe; 
+            --strong-green: #188038;
+        }
+        body { font-family: 'Charis SIL', 'Times New Roman', serif; margin: 0; background: var(--bg); color: #202124; line-height: 1.6; padding-bottom: 120px; }
+        .ui-font { font-family: 'Roboto', 'Segoe UI', Arial, sans-serif; }
+        
         .container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
         .card { background: var(--surface); padding: 2.5rem; border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); position: relative; min-height: 70vh; }
-        .sticky-nav { position: sticky; top: 0; background: var(--surface); padding: 10px 0; border-bottom: 1px solid #eee; margin-bottom: 1.5rem; z-index: 10; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-        select, input { border: 1px solid #dadce0; padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; }
-        #search-box { flex-grow: 1; min-width: 120px; }
-        #search-results { position: absolute; top: 60px; left: 0; width: 100%; background: white; z-index: 20; border: 1px solid #dadce0; border-radius: 8px; max-height: 400px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .search-item { padding: 12px; border-bottom: 1px solid #eee; cursor: pointer; font-size: 0.95rem; }
+        
+        /* Sticky Navigation Bar */
+        .sticky-nav { 
+            position: sticky; top: 0; background: var(--surface); padding: 10px 0; 
+            border-bottom: 1px solid #eee; margin-bottom: 1.5rem; z-index: 1000; 
+            display: flex; gap: 8px; flex-wrap: wrap; align-items: center; 
+        }
+        select, input { border: 1px solid #dadce0; padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; background: white; }
+        #search-box { flex-grow: 1; min-width: 200px; }
+        
+        /* Search Overlay */
+        #search-results { 
+            position: absolute; top: 60px; left: 0; width: 100%; background: white; 
+            z-index: 2000; border: 1px solid #dadce0; border-radius: 8px; 
+            max-height: 450px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+        }
+        .search-item { padding: 12px; border-bottom: 1px solid #eee; cursor: pointer; font-size: 0.95rem; line-height: 1.4; color: #3c4043; }
         .search-item:hover { background: #f1f3f4; }
-        .search-nav-indicator { padding: 15px; text-align: center; background: #f8f9fa; color: var(--primary); cursor: pointer; font-weight: 500; }
-        .version-tag { font-size: 0.8rem; text-transform: uppercase; color: #5f6368; letter-spacing: 1px; }
-        .ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 0.5rem; font-weight: 400; }
-        .verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; }
-        .v-num { font-size: 0.7rem; color: #999; font-weight: bold; margin-right: 8px; vertical-align: super; }
-        .bottom-bar { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); width: calc(100% - 40px); max-width: 760px; background: var(--surface); border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); padding: 12px 20px; z-index: 100; min-height: 48px; display: flex; align-items: center; box-sizing: border-box; }
+        .search-nav-indicator { padding: 15px; text-align: center; background: #f8f9fa; color: var(--primary); cursor: pointer; font-weight: 500; border-top: 1px solid #eee; }
+
+        /* Typography */
+        .version-tag { font-size: 0.8rem; text-transform: uppercase; color: #5f6368; letter-spacing: 1px; margin-bottom: 4px; display: block; }
+        .ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem; font-weight: 400; border-bottom: 1px solid #f1f3f4; padding-bottom: 10px; }
+        .verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; position: relative; }
+        .v-num { font-size: 0.75rem; color: #9aa0a6; font-weight: bold; margin-right: 10px; vertical-align: super; font-family: sans-serif; }
+        
+        /* Strongs - Updated to Green */
+        .strong-pill { font-size: 0.65rem; color: var(--strong-green); background: #e6f4ea; padding: 1px 4px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; font-weight: bold; }
+        .strongs-hidden .strong-pill { display: none !important; }
+
+        /* Note Pill */
+        .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; font-family: sans-serif; }
+
+        /* Usage Flow Bottom Bar */
+        .bottom-bar { 
+            position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); 
+            width: calc(100% - 40px); max-width: 760px; background: var(--surface); 
+            border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); 
+            padding: 12px 20px; z-index: 1000; display: flex; align-items: center; box-sizing: border-box; 
+        }
         .bottom-bar.is-note { background: var(--note-bg); border: 1px solid var(--primary); }
         .ui-group { display: flex; gap: 10px; width: 100%; justify-content: space-between; align-items: center; }
-        .bar-title { font-size: 0.8rem; font-weight: bold; color: var(--primary); text-transform: uppercase; margin-right: 12px; border-right: 1px solid #ddd; padding-right: 12px; flex-shrink: 0; }
-        button { background: var(--primary); color: white; border: none; padding: 8px 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; }
+        .bar-title { font-size: 0.8rem; font-weight: bold; color: var(--primary); text-transform: uppercase; margin-right: 12px; border-right: 1px solid #ddd; padding-right: 12px; flex-shrink: 0; font-family: sans-serif; }
+        
+        button { background: var(--primary); color: white; border: none; padding: 8px 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; font-family: sans-serif; font-size: 14px; }
         button.secondary { background: #f1f3f4; color: #3c4043; }
-        button.active { background: #d2e3fc; color: var(--primary); border: 1px solid var(--primary); }
-        .strong-pill { font-size: 0.6rem; color: var(--primary); background: #e8f0fe; padding: 1px 3px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; }
-        .strongs-hidden .strong-pill { display: none !important; }
-        .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.7rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
+        button.active { background: #d2e3fc !important; color: var(--primary) !important; border: 1px solid var(--primary); }
+
+        #note-content { font-size: 0.95rem; color: #202124; flex-grow: 1; margin-right: 10px; font-family: sans-serif; }
+        .close-btn { font-size: 1.2rem; cursor: pointer; padding: 0 5px; color: var(--primary); font-weight: bold; }
+
+        #qrcode { float: right; width: 80px; height: 80px; padding: 5px; background: white; border: 1px solid #eee; border-radius: 8px; }
+        
+        /* Layout logic */
+        #standard-controls { display: flex; width: 100%; justify-content: space-between; align-items: center; }
+        #note-display { display: none; width: 100%; justify-content: space-between; align-items: center; }
     </style>
 </head>
 <body class="strongs-hidden">
 
 <div class="container">
     <div class="card">
-        <div class="sticky-nav">
-            <select id="ver-select" onchange="loadCollection(this.value)"></select>
-            <select id="book-select" onchange="changeBook(this.value)"></select>
+        <div class="sticky-nav ui-font">
+            <select id="col-select" onchange="loadCollection(this.value)"></select>
+            <select id="book-select" onchange="navigateTo(this.value, 1)"></select>
             <select id="chapter-select" onchange="changeChapter(this.value)"></select>
-            <button id="s-toggle" class="secondary" onclick="toggleStrongs()">S#</button>
-            <input type="text" id="search-box" placeholder="Search..." onkeyup="if(event.key==='Enter') doSearch(0)">
-            <div id="search-results"></div>
+            
+            <div style="position: relative; flex-grow: 1; display: flex;">
+                <input type="text" id="search-box" placeholder="Search keywords or 'John 3:16'..." onkeyup="handleSearch(event)">
+                <div id="search-results"></div>
+            </div>
         </div>
-        <div id="version-tag" class="version-tag"></div>
-        <div id="ref" class="ref"></div>
+
+        <div id="qrcode"></div>
+        <span class="version-tag ui-font" id="col-name">Holy Bible</span>
+        <h1 class="ref" id="ref-header">Loading...</h1>
+        
         <div id="content"></div>
     </div>
 </div>
 
-<div id="bottom-bar" class="bottom-bar">
-    <div id="nav-view" class="ui-group">
-        <button onclick="prevChapter()" class="secondary"><span class="material-icons">chevron_left</span></button>
-        <button onclick="pickRandom()"><span class="material-icons">shuffle</span> Random</button>
-        <button onclick="nextChapter()" class="secondary"><span class="material-icons">chevron_right</span></button>
+<div class="bottom-bar ui-font" id="bottom-bar">
+    <div id="standard-controls" class="ui-group">
+        <div style="display: flex; gap: 8px;">
+            <button class="secondary" onclick="stepChapter(-1)">◀</button>
+            <button class="secondary" onclick="stepChapter(1)">▶</button>
+        </div>
+        
+        <div style="display: flex; gap: 8px;">
+            <button id="strong-toggle" class="secondary" onclick="toggleStrongs()">Strongs</button>
+            <button class="secondary" onclick="pickRandom()">🎲 Random</button>
+            <button id="play-btn" onclick="speechControl.play()">🔊 Listen</button>
+        </div>
     </div>
-    <div id="note-view" class="ui-group" style="display:none">
-        <div id="note-text" style="font-size:0.9rem; flex-grow:1; display:flex; align-items:center;"></div>
-        <span class="material-icons" style="cursor:pointer; color:var(--primary)" onclick="revertNav()">close</span>
-    </div>
-    <div id="search-view" class="ui-group" style="display:none">
-        <div style="display:flex; align-items:center; flex-grow:1;"><span class="bar-title">Search</span><div id="search-stat" style="font-size:0.8rem; font-weight:bold"></div></div>
-        <div style="display:flex; gap:8px;"><button id="search-prev" class="secondary"><span class="material-icons">west</span></button><button id="search-next" class="secondary"><span class="material-icons">east</span></button><span class="material-icons" style="cursor:pointer; margin-left:8px;" onclick="closeSearch()">close</span></div>
+
+    <div id="note-display" class="ui-group">
+        <div class="bar-title">Note</div>
+        <div id="note-content"></div>
+        <div class="close-btn" onclick="closeNote()">×</div>
     </div>
 </div>
 
 <script src="bookdata/library_index.js"></script>
+<script src="../js/qrcode.js"></script>
+
 <script>
-    let state = { book: "", ch: 1, fullLibrary: {}, lockNote: false, searchMatches: [], lastSearch: "", currentCollectionId: "", showStrongs: false };
+const state = { activeCollection: null, currentCollectionId: null, fullLibrary: {}, book: null, ch: 1, showStrongs: false, searchResults: [], searchPage: 0, notePinned: false };
 
-    String.prototype.upperCaseFix = function() { return this.toUpperCase().replace(/[^A-Z0-9]/g, '_'); };
+// --- Navigation & Data ---
+window.onload = async () => {
+    const idx = window.BIBLE_INDEX;
+    idx.collections.forEach(c => document.getElementById('col-select').add(new Option(c.name, c.id)));
+    const params = new URLSearchParams(window.location.search);
+    const last = JSON.parse(localStorage.getItem('last_pos')) || {};
+    const targetCol = params.get('col') || last.col || idx.collections[0].id;
+    
+    state.showStrongs = localStorage.getItem('show_strongs') === 'true';
+    document.body.classList.toggle('strongs-hidden', !state.showStrongs);
+    document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
 
-    window.onload = () => {
-        const sel = document.getElementById('ver-select');
-        window.BIBLE_INDEX.collections.forEach(c => {
-            let opt = document.createElement('option');
-            opt.value = c.id; opt.innerText = c.name;
-            sel.appendChild(opt);
-        });
-        state.showStrongs = localStorage.getItem('show_strongs') === 'true';
-        updateStrongsUI();
-        const last = localStorage.getItem('last_pos');
-        if (last) {
-            const p = JSON.parse(last);
-            sel.value = p.col || window.BIBLE_INDEX.collections[0].id;
-            loadCollection(sel.value, p.book, p.ch);
-        } else {
-            loadCollection(sel.value);
-        }
-    };
+    await loadCollection(targetCol);
+    if (params.get('book')) navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
+};
 
-    function toggleStrongs() {
-        state.showStrongs = !state.showStrongs;
-        localStorage.setItem('show_strongs', state.showStrongs);
-        updateStrongsUI();
-    }
-
-    function updateStrongsUI() {
-        const btn = document.getElementById('s-toggle');
-        if (state.showStrongs) { document.body.classList.remove('strongs-hidden'); btn.classList.add('active'); }
-        else { document.body.classList.add('strongs-hidden'); btn.classList.remove('active'); }
-    }
-
-    function loadCollection(id, targetBook, targetCh) {
-        const col = window.BIBLE_INDEX.collections.find(x => x.id === id);
-        state.currentCollectionId = id;
-        const old = document.getElementById('collection-script');
-        if(old) old.remove();
-        const script = document.createElement('script');
-        script.id = 'collection-script';
-        script.src = col.file;
-        script.onload = () => {
-            const varName = 'COLLECTION_' + id.upperCaseFix();
-            state.activeCollection = window[varName];
-            document.getElementById('version-tag').innerText = col.name;
-            populateBooks(col.books);
-            if(targetBook) navigateTo(targetBook, targetCh);
-            else pickRandom();
-        };
-        document.head.appendChild(script);
-    }
-
-    function populateBooks(books) {
-        const sel = document.getElementById('book-select'); sel.innerHTML = "";
-        for (let code in books) {
-            let opt = document.createElement('option'); opt.value = code; opt.innerText = books[code];
-            sel.appendChild(opt);
-        }
-    }
-
-    function populateChapters() {
-        const sel = document.getElementById('chapter-select'); sel.innerHTML = "";
-        Object.keys(state.fullLibrary).sort((a,b)=>a-b).forEach(c => {
-            let opt = document.createElement('option'); opt.value = c; opt.innerText = "Chapter " + c;
-            sel.appendChild(opt);
+async function loadCollection(id) {
+    state.currentCollectionId = id;
+    const colData = window.BIBLE_INDEX.collections.find(c => c.id === id);
+    document.getElementById('col-name').innerText = colData.name;
+    const varName = `COLLECTION_${id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
+    if (!window[varName]) {
+        await new Promise(r => {
+            const s = document.createElement('script');
+            s.src = colData.file; s.onload = r; document.head.appendChild(s);
         });
     }
+    state.activeCollection = window[varName];
+    populateBooks();
+    navigateTo(Object.keys(state.activeCollection)[0], 1);
+}
 
-    function navigateTo(code, ch, targetVerse) {
-        state.book = code;
-        state.fullLibrary = parseUSFM(state.activeCollection[code].usfm);
-        document.getElementById('book-select').value = code;
-        populateChapters();
-        // Pass the target verse through to the chapter change
-        changeChapter(ch || 1, targetVerse);
-    }
-    
-    function changeChapter(c, targetVerse) {
-        state.ch = parseInt(c);
-        document.getElementById('chapter-select').value = c;
-        localStorage.setItem('last_pos', JSON.stringify({
-            col: state.currentCollectionId, 
-            book: state.book, 
-            ch: state.ch
-        }));
-        render(targetVerse); // Pass verse to render
-    }
-    
-    function render(targetVerse) {
-        const verses = state.fullLibrary[state.ch];
-        document.getElementById('ref').innerText = `${state.activeCollection[state.book].name} ${state.ch}`;
-        
-        let html = "";
-        Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
-            // Add an ID to each verse row so we can scroll to it
-            html += `<div id="v-${v}" class="verse-row"><span class="v-num">${v}</span>${verses[v]}</div>`;
-        });
-        
-        document.getElementById('content').innerHTML = html;
-        revertNav();
-    
-        if (targetVerse) {
-            // Small delay to ensure DOM is painted before scrolling
-            setTimeout(() => {
-                const el = document.getElementById(`v-${targetVerse}`);
-                if (el) {
-                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    el.style.backgroundColor = '#fff9c4'; // Brief highlight
-                    setTimeout(() => el.style.backgroundColor = 'transparent', 2000);
-                }
-            }, 100);
-        } else {
-            window.scrollTo(0,0);
+function populateBooks() {
+    const sel = document.getElementById('book-select'); sel.innerHTML = "";
+    Object.keys(state.activeCollection).forEach(code => sel.add(new Option(state.activeCollection[code].name, code)));
+}
+
+// --- Stateful Parser ---
+function parseUSFM(usfm) {
+    const chapters = {}; let curCh = 0, curV = 0;
+    usfm.split('\n').forEach(line => {
+        line = line.trim();
+        if (line.startsWith('\\c ')) { curCh = parseInt(line.split(' ')[1]); chapters[curCh] = {}; curV = 0; }
+        else if (line.startsWith('\\v ')) {
+            const m = line.match(/\\v\s+(\d+)\s+(.*)/);
+            if (m) { curV = parseInt(m[1]); chapters[curCh][curV] = finalize(m[2]); }
+        } else if (curV > 0 && line.length > 0 && !line.startsWith('\\s')) {
+            let content = finalize(line);
+            if (content) chapters[curCh][curV] = (chapters[curCh][curV] || "") + " " + content;
         }
+    });
+    return chapters;
+}
+
+function finalize(raw) {
+    if (!raw) return "";
+    raw = raw.replace(/\\x\s+.*?\\x\*/g, ''); // Clear cross-refs
+    let html = raw.replace(/\\\+?w\s+([^|]+)\|strong="([HG])([0-9]+)"\\\+?w\*/g, (m, word, lang, code) => {
+        return `${word}<span class="strong-pill">${lang}${code}</span>`;
+    });
+    html = html.replace(/\\f\s+\+\s+(.*?)\s+(.*?)\\f\*/g, (m, r, n) => {
+        const clean = n.replace(/"/g, '&quot;');
+        return `<span class="fn-chip" onmouseover="handleNote(event, '${clean}', 'hover')" onmouseout="handleNote(event, null, 'out')" onclick="handleNote(event, '${clean}', 'click')">Note</span>`;
+    });
+    return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim();
+}
+
+// --- Note Logic ---
+function handleNote(e, text, type) {
+    const bar = document.getElementById('bottom-bar');
+    const display = document.getElementById('note-display');
+    const standard = document.getElementById('standard-controls');
+    const content = document.getElementById('note-content');
+
+    if (type === 'click') {
+        state.notePinned = true;
+        bar.classList.add('is-note');
+        display.style.display = 'flex';
+        standard.style.display = 'none';
+        content.innerText = text;
+    } else if (type === 'hover' && !state.notePinned) {
+        bar.classList.add('is-note');
+        display.style.display = 'flex';
+        standard.style.display = 'none';
+        content.innerText = text;
+    } else if (type === 'out' && !state.notePinned) {
+        closeNote();
     }
-    function doSearch(start) {
-        const term = document.getElementById('search-box').value.toLowerCase();
-        if(term.length < 3) return;
-        if (state.lastSearch !== term) {
-            state.searchMatches = []; state.lastSearch = term;
-            for (let code in state.activeCollection) {
-                const bookData = parseUSFM(state.activeCollection[code].usfm);
-                for (let c in bookData) {
-                    for (let v in bookData[c]) {
-                        const clean = bookData[c][v].replace(/<[^>]*>/g, "");
-                        if (clean.toLowerCase().includes(term)) state.searchMatches.push({ code, bookName: state.activeCollection[code].name, c, v, text: clean });
+}
+
+function closeNote() {
+    state.notePinned = false;
+    document.getElementById('bottom-bar').classList.remove('is-note');
+    document.getElementById('note-display').style.display = 'none';
+    document.getElementById('standard-controls').style.display = 'flex';
+}
+
+// --- Search Logic ---
+function handleSearch(e) {
+    const q = e.target.value.trim().toLowerCase();
+    const resDiv = document.getElementById('search-results');
+    if (q.length < 2) { resDiv.style.display = 'none'; return; }
+    
+    state.searchResults = []; state.searchPage = 0;
+
+    // Check Reference Jump
+    const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
+    if (refMatch) {
+        const bQ = refMatch[1].replace(/\s/g, '');
+        const tB = Object.keys(state.activeCollection).find(k => k.toLowerCase().includes(bQ) || state.activeCollection[k].name.toLowerCase().replace(/\s/g,'').includes(bQ));
+        if (tB) state.searchResults.push({ code: tB, ch: refMatch[2] || 1, v: refMatch[3] || null, text: `Jump to Reference`, isJump: true });
+    }
+
+    // Keyword Search
+    for (const code in state.activeCollection) {
+        const lib = parseUSFM(state.activeCollection[code].usfm);
+        for (const ch in lib) {
+            for (const v in lib[ch]) {
+                const rawText = lib[ch][v];
+                // CRITICAL FIX: Verify rawText is a string before calling .replace
+                if (typeof rawText === 'string') {
+                    const cleanText = rawText.replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
+                    if (cleanText.includes(q)) {
+                        state.searchResults.push({ code, ch, v, text: cleanText });
                     }
                 }
             }
         }
-        displaySearchResults(start);
     }
+    renderSearchResults();
+}
 
-    function displaySearchResults(start) {
-        const limit = 100; const resultsDiv = document.getElementById('search-results');
-        const matches = state.searchMatches.slice(start, start + limit);
-        if (matches.length === 0) { alert("No results found."); return; }
-        let html = matches.map(m => `<div class="search-item" onclick="navigateTo('${m.code}', ${m.c}); closeSearch();"><b>${m.bookName} ${m.c}:${m.v}</b><br>${m.text}</div>`).join('');
-        if (start + limit < state.searchMatches.length) html += `<div class="search-nav-indicator" onclick="displaySearchResults(${start + limit})">Load More...</div>`;
-        resultsDiv.innerHTML = html; resultsDiv.style.display = 'block'; resultsDiv.scrollTop = 0;
-        showSearchView(start, limit);
+function renderSearchResults() {
+    const resDiv = document.getElementById('search-results');
+    const start = state.searchPage * 100, end = start + 100;
+    const pageItems = state.searchResults.slice(start, end);
+
+    let html = pageItems.map(m => `
+        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v}); hideSearch();">
+            <strong>${state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}</strong> - ${m.text.substring(0, 100)}...
+        </div>`).join('');
+
+    if (state.searchResults.length > 100) {
+        html += `<div class="search-nav-indicator" onclick="state.searchPage++; renderSearchResults();">Show Next 100 (${state.searchResults.length - end} remaining)</div>`;
     }
+    resDiv.innerHTML = html; resDiv.style.display = html ? 'block' : 'none';
+}
 
-    function showSearchView(start, limit) {
-        document.getElementById('nav-view').style.display = 'none'; document.getElementById('note-view').style.display = 'none';
-        document.getElementById('search-view').style.display = 'flex';
-        document.getElementById('search-stat').innerText = `${start + 1}-${Math.min(start + limit, state.searchMatches.length)} of ${state.searchMatches.length}`;
-        document.getElementById('search-prev').onclick = () => displaySearchResults(Math.max(0, start - limit));
-        document.getElementById('search-next').onclick = () => displaySearchResults(start + limit);
-        document.getElementById('search-prev').disabled = (start === 0);
-        document.getElementById('search-next').disabled = (start + limit >= state.searchMatches.length);
-    }
+function hideSearch() { document.getElementById('search-results').style.display = 'none'; document.getElementById('search-box').value = ''; }
 
-    function closeSearch() { document.getElementById('search-results').style.display = 'none'; revertNav(); }
-    document.addEventListener('keydown', (e) => {
-        if (e.key === "Escape") {
-            if (document.getElementById('search-results').style.display === 'block') closeSearch();
-            else revertNav();
-        }
+// --- Global Escape ---
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { hideSearch(); closeNote(); }
+});
+
+function navigateTo(code, ch, v) {
+    state.book = code;
+    state.fullLibrary = parseUSFM(state.activeCollection[code].usfm);
+    document.getElementById('book-select').value = code;
+    const chSel = document.getElementById('chapter-select'); chSel.innerHTML = "";
+    Object.keys(state.fullLibrary).sort((a,b)=>a-b).forEach(c => chSel.add(new Option(`Chapter ${c}`, c)));
+    changeChapter(ch || 1, v);
+}
+
+function stepChapter(dir) {
+    const chs = Object.keys(state.fullLibrary).map(Number).sort((a,b)=>a-b);
+    const idx = chs.indexOf(state.ch);
+    if (chs[idx + dir]) changeChapter(chs[idx + dir]);
+}
+
+function changeChapter(c, v) {
+    state.ch = parseInt(c);
+    document.getElementById('chapter-select').value = c;
+    localStorage.setItem('last_pos', JSON.stringify({col: state.currentCollectionId, book: state.book, ch: state.ch}));
+    render(v);
+}
+
+function render(targetV) {
+    const verses = state.fullLibrary[state.ch];
+    if (!verses) return;
+    document.getElementById('ref-header').innerText = `${state.activeCollection[state.book].name} ${state.ch}`;
+    let html = "";
+    Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
+        html += `<div id="v-${v}" class="verse-row"><span class="v-num">${v}</span>${verses[v]}</div>`;
     });
+    document.getElementById('content').innerHTML = html;
+    updateQR();
+    if (targetV) {
+        setTimeout(() => {
+            const el = document.getElementById(`v-${targetV}`);
+            if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'center' }); el.style.backgroundColor = '#fff9c4'; setTimeout(() => el.style.backgroundColor = 'transparent', 2000); }
+        }, 300);
+    } else { window.scrollTo(0,0); }
+}
 
-    function showNote(note, ref, isClick) {
-        if (state.lockNote && !isClick) return;
-        if (isClick) state.lockNote = true;
-        document.getElementById('note-text').innerHTML = `<span class="bar-title">Note</span> <b>${ref}:</b> ${note}`;
-        document.getElementById('nav-view').style.display = 'none'; document.getElementById('search-view').style.display = 'none';
-        document.getElementById('note-view').style.display = 'flex';
-        document.getElementById('bottom-bar').classList.add('is-note');
-    }
+function toggleStrongs() {
+    state.showStrongs = !state.showStrongs;
+    document.body.classList.toggle('strongs-hidden', !state.showStrongs);
+    document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
+    localStorage.setItem('show_strongs', state.showStrongs);
+}
 
-    function revertNav() { state.lockNote = false; document.getElementById('nav-view').style.display = 'flex'; document.getElementById('note-view').style.display = 'none'; document.getElementById('search-view').style.display = 'none'; document.getElementById('bottom-bar').classList.remove('is-note'); }
-    
-    function parseUSFM(text) { 
-        const lines = text.split(/\r?\n/); let data = {}; let c = 0, v = 0, buffer = ""; 
-        const flush = () => { if(v > 0) data[c][v] = finalize(buffer); }; 
-        lines.forEach(line => { 
-            let t = line.trim(); 
-            if (t.startsWith('\\c ')) { flush(); c = t.split(/\s+/)[1]; data[c] = {}; v = 0; buffer = ""; } 
-            else if (t.startsWith('\\v ')) { flush(); const m = t.match(/\\v\s+(\d+)\s+(.*)/); if(m){ v=m[1]; buffer=m[2]; } } 
-            else if (v > 0) { if (t.startsWith('\\q')) buffer += "<br>"; buffer += " " + t; } 
-        }); 
-        flush(); return data; 
-    }
+function updateQR() {
+    const container = document.getElementById('qrcode');
+    if (!container || typeof QRCode === 'undefined') return;
+    container.innerHTML = ""; new QRCode(container, { text: window.location.href, width: 80, height: 80 });
+}
 
-    function finalize(raw) { 
-        let html = raw;
-    
-        // 1. Handle Strongs: Supports both \w and \+w (nested)
-        // Matches \w or \+w, then the word, then the strong attribute
-        html = html.replace(/\\\+?w\s+([^|]+)\|strong="([HG][0-9]+)"\\\+?w\*/g, (m, word, code) => {
-            return `${word}<span class="strong-pill">${code}</span>`;
-        });
-    
-        // 2. Handle Footnotes
-        html = html.replace(/\\f\s+\+\s+(.*?)\s+(.*?)\\f\*/g, (m, r, n) => { 
-            const sn = n.replace(/'/g, "\\'").replace(/"/g, '&quot;'); 
-            return `<span class="fn-chip" onmouseenter="showNote('${sn}', '${r}', false)" onmouseleave="if(!state.lockNote)revertNav()" onclick="showNote('${sn}', '${r}', true)">NOTE</span>`; 
-        });
-    
-        // 3. Strip remaining USFM tags (wj, p, q, etc.)
-        // We do this LAST so we don't accidentally kill the Strong's data before processing it
-        return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim(); 
-    }
+// --- Speech & Random ---
+(function() {
+    const synth = window.speechSynthesis;
+    window.speechControl = {
+        play: function() {
+            synth.cancel();
+            const utter = new SpeechSynthesisUtterance(document.getElementById('content').innerText.replace(/\d+/g, ''));
+            synth.speak(utter);
+        }
+    };
+})();
 
-    function pickRandom() {
-        // 1. Pick a random Book code
-        const codes = Object.keys(state.activeCollection);
-        const code = codes[Math.floor(Math.random() * codes.length)];
-        
-        // 2. Parse that book to find available chapters
-        const tempLibrary = parseUSFM(state.activeCollection[code].usfm);
-        const chapters = Object.keys(tempLibrary);
-        const ch = chapters[Math.floor(Math.random() * chapters.length)];
-        
-        // 3. Find available verses in 그 chapter
-        const verses = Object.keys(tempLibrary[ch]);
-        const v = verses[Math.floor(Math.random() * verses.length)];
-    
-        // 4. Navigate and scroll
-        navigateTo(code, ch, v);
-    }
-    function nextChapter() { if(state.fullLibrary[state.ch + 1]) changeChapter(state.ch + 1); }
-    function prevChapter() { if(state.fullLibrary[state.ch - 1]) changeChapter(state.ch - 1); }
-    function changeBook(c) { navigateTo(c, 1); }
+function pickRandom() {
+    const codes = Object.keys(state.activeCollection);
+    const code = codes[Math.floor(Math.random() * codes.length)];
+    const lib = parseUSFM(state.activeCollection[code].usfm);
+    const ch = Object.keys(lib)[Math.floor(Math.random() * Object.keys(lib).length)];
+    navigateTo(code, ch);
+}
 </script>
 </body>
 </html>
