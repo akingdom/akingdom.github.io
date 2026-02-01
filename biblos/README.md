@@ -25,7 +25,7 @@ A lightweight, high-performance USFM-to-JSON pipeline and web-based viewer. This
     ```bash
     python3 preprocess_bible.py
     ```
-5.  Open `biblos.html` in your browser.
+5.  Open [`biblos.html`](biblos.html) in your browser.
 
 ## 📜 License
 
