@@ -6,73 +6,65 @@
     <title>Biblos Scripture Viewer</title>
     <style>
         :root { 
-            --primary: #1967d2; 
-            --bg: #f8f9fa; 
-            --surface: #ffffff; 
-            --note-bg: #e8f0fe; 
-            --strong-green: #188038;
+            --primary: #1967d2; --bg: #f8f9fa; --surface: #ffffff; 
+            --text: #202124; --border: #dadce0; --note-bg: #e8f0fe; 
+            --strong-green: #188038; --hover: #f1f3f4;
         }
-        body { font-family: 'Charis SIL', 'Times New Roman', serif; margin: 0; background: var(--bg); color: #202124; line-height: 1.6; padding-bottom: 120px; }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #8ab4f8; --bg: #202124; --surface: #2d2e31;
+                --text: #e8eaed; --border: #3c4043; --note-bg: #3c4043;
+                --strong-green: #81c995; --hover: #35363a;
+            }
+        }
+
+        body { font-family: 'Charis SIL', 'Times New Roman', serif; margin: 0; background: var(--bg); color: var(--text); line-height: 1.6; padding-bottom: 140px; }
         .ui-font { font-family: 'Roboto', 'Segoe UI', Arial, sans-serif; }
         
         .container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
         .card { background: var(--surface); padding: 2.5rem; border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); position: relative; min-height: 70vh; }
         
-        /* Sticky Navigation Bar */
         .sticky-nav { 
             position: sticky; top: 0; background: var(--surface); padding: 10px 0; 
-            border-bottom: 1px solid #eee; margin-bottom: 1.5rem; z-index: 1000; 
+            border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; z-index: 1000; 
             display: flex; gap: 8px; flex-wrap: wrap; align-items: center; 
         }
-        select, input { border: 1px solid #dadce0; padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; background: white; }
-        #search-box { flex-grow: 1; min-width: 200px; }
+        select, input { border: 1px solid var(--border); padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; background: var(--surface); color: var(--text); }
+        #col-select { max-width: 150px; }
+        #search-box { flex-grow: 1; min-width: 150px; }
         
-        /* Search Overlay */
         #search-results { 
-            position: absolute; top: 60px; left: 0; width: 100%; background: white; 
-            z-index: 2000; border: 1px solid #dadce0; border-radius: 8px; 
-            max-height: 450px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+            position: absolute; top: 60px; left: 0; width: 100%; background: var(--surface); 
+            z-index: 2000; border: 1px solid var(--border); border-radius: 8px; 
+            max-height: 450px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
         }
-        .search-item { padding: 12px; border-bottom: 1px solid #eee; cursor: pointer; font-size: 0.95rem; line-height: 1.4; color: #3c4043; }
-        .search-item:hover { background: #f1f3f4; }
-        .search-nav-indicator { padding: 15px; text-align: center; background: #f8f9fa; color: var(--primary); cursor: pointer; font-weight: 500; border-top: 1px solid #eee; }
+        .search-item { padding: 12px; border-bottom: 1px solid var(--border); cursor: pointer; font-size: 0.95rem; }
+        .search-item:hover { background: var(--hover); }
+        .search-nav-indicator { padding: 15px; text-align: center; background: var(--bg); color: var(--primary); cursor: pointer; font-weight: 500; border-top: 1px solid var(--border); }
 
-        /* Typography */
-        .version-tag { font-size: 0.8rem; text-transform: uppercase; color: #5f6368; letter-spacing: 1px; margin-bottom: 4px; display: block; }
-        .ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem; font-weight: 400; border-bottom: 1px solid #f1f3f4; padding-bottom: 10px; }
-        .verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; position: relative; }
+        .ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem; font-weight: 400; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
+        .verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; }
         .v-num { font-size: 0.75rem; color: #9aa0a6; font-weight: bold; margin-right: 10px; vertical-align: super; font-family: sans-serif; }
         
-        /* Strongs - Updated to Green */
-        .strong-pill { font-size: 0.65rem; color: var(--strong-green); background: #e6f4ea; padding: 1px 4px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; font-weight: bold; }
+        .strong-pill { font-size: 0.65rem; color: var(--strong-green); background: rgba(129, 201, 149, 0.15); padding: 1px 4px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; font-weight: bold; }
         .strongs-hidden .strong-pill { display: none !important; }
+        .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
 
-        /* Note Pill */
-        .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; font-family: sans-serif; }
-
-        /* Usage Flow Bottom Bar */
         .bottom-bar { 
             position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); 
             width: calc(100% - 40px); max-width: 760px; background: var(--surface); 
-            border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); 
-            padding: 12px 20px; z-index: 1000; display: flex; align-items: center; box-sizing: border-box; 
+            border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); 
+            padding: 12px 20px; z-index: 1000; display: flex; align-items: center; box-sizing: border-box; overflow-x: auto;
         }
         .bottom-bar.is-note { background: var(--note-bg); border: 1px solid var(--primary); }
-        .ui-group { display: flex; gap: 10px; width: 100%; justify-content: space-between; align-items: center; }
-        .bar-title { font-size: 0.8rem; font-weight: bold; color: var(--primary); text-transform: uppercase; margin-right: 12px; border-right: 1px solid #ddd; padding-right: 12px; flex-shrink: 0; font-family: sans-serif; }
+        .ui-group { display: flex; gap: 10px; width: 100%; min-width: max-content; justify-content: space-between; align-items: center; }
         
-        button { background: var(--primary); color: white; border: none; padding: 8px 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; font-family: sans-serif; font-size: 14px; }
-        button.secondary { background: #f1f3f4; color: #3c4043; }
-        button.active { background: #d2e3fc !important; color: var(--primary) !important; border: 1px solid var(--primary); }
+        button { background: var(--primary); color: white; border: none; padding: 8px 14px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; white-space: nowrap; }
+        button.secondary { background: var(--hover); color: var(--text); }
+        button.active { background: var(--primary) !important; color: var(--surface) !important; outline: 2px solid var(--primary); }
 
-        #note-content { font-size: 0.95rem; color: #202124; flex-grow: 1; margin-right: 10px; font-family: sans-serif; }
-        .close-btn { font-size: 1.2rem; cursor: pointer; padding: 0 5px; color: var(--primary); font-weight: bold; }
-
-        #qrcode { float: right; width: 80px; height: 80px; padding: 5px; background: white; border: 1px solid #eee; border-radius: 8px; }
-        
-        /* Layout logic */
-        #standard-controls { display: flex; width: 100%; justify-content: space-between; align-items: center; }
         #note-display { display: none; width: 100%; justify-content: space-between; align-items: center; }
+        #qrcode { float: right; width: 80px; height: 80px; padding: 5px; background: white; border-radius: 8px; margin-left: 10px; }
     </style>
 </head>
 <body class="strongs-hidden">
@@ -83,7 +75,6 @@
             <select id="col-select" onchange="loadCollection(this.value)"></select>
             <select id="book-select" onchange="navigateTo(this.value, 1)"></select>
             <select id="chapter-select" onchange="changeChapter(this.value)"></select>
-            
             <div style="position: relative; flex-grow: 1; display: flex;">
                 <input type="text" id="search-box" placeholder="Search keywords or 'John 3:16'..." onkeyup="handleSearch(event)">
                 <div id="search-results"></div>
@@ -91,31 +82,27 @@
         </div>
 
         <div id="qrcode"></div>
-        <span class="version-tag ui-font" id="col-name">Holy Bible</span>
         <h1 class="ref" id="ref-header">Loading...</h1>
-        
         <div id="content"></div>
     </div>
 </div>
 
 <div class="bottom-bar ui-font" id="bottom-bar">
     <div id="standard-controls" class="ui-group">
-        <div style="display: flex; gap: 8px;">
+        <div style="display: flex; gap: 6px;">
             <button class="secondary" onclick="stepChapter(-1)">◀</button>
             <button class="secondary" onclick="stepChapter(1)">▶</button>
         </div>
-        
-        <div style="display: flex; gap: 8px;">
-            <button id="strong-toggle" class="secondary" onclick="toggleStrongs()">Strongs</button>
+        <div style="display: flex; gap: 6px;">
+            <button id="strong-toggle" class="secondary" onclick="toggleStrongs()">S#</button>
             <button class="secondary" onclick="pickRandom()">🎲 Random</button>
             <button id="play-btn" onclick="speechControl.play()">🔊 Listen</button>
+            <button id="restart-btn" class="secondary" onclick="speechControl.restart()">🔄 Restart</button>
         </div>
     </div>
-
     <div id="note-display" class="ui-group">
-        <div class="bar-title">Note</div>
-        <div id="note-content"></div>
-        <div class="close-btn" onclick="closeNote()">×</div>
+        <div id="note-content" style="flex-grow:1; font-size:0.9rem;"></div>
+        <div style="cursor:pointer; font-weight:bold; padding-left:15px;" onclick="closeNote()">✕</div>
     </div>
 </div>
 
@@ -125,7 +112,6 @@
 <script>
 const state = { activeCollection: null, currentCollectionId: null, fullLibrary: {}, book: null, ch: 1, showStrongs: false, searchResults: [], searchPage: 0, notePinned: false };
 
-// --- Navigation & Data ---
 window.onload = async () => {
     const idx = window.BIBLE_INDEX;
     idx.collections.forEach(c => document.getElementById('col-select').add(new Option(c.name, c.id)));
@@ -138,13 +124,17 @@ window.onload = async () => {
     document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
 
     await loadCollection(targetCol);
+    const q = params.get('q');
+    if (q) {
+        document.getElementById('search-box').value = q;
+        handleSearch({ target: { value: q }, key: 'Enter' });
+    }
     if (params.get('book')) navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
 };
 
 async function loadCollection(id) {
     state.currentCollectionId = id;
     const colData = window.BIBLE_INDEX.collections.find(c => c.id === id);
-    document.getElementById('col-name').innerText = colData.name;
     const varName = `COLLECTION_${id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
     if (!window[varName]) {
         await new Promise(r => {
@@ -162,7 +152,6 @@ function populateBooks() {
     Object.keys(state.activeCollection).forEach(code => sel.add(new Option(state.activeCollection[code].name, code)));
 }
 
-// --- Stateful Parser ---
 function parseUSFM(usfm) {
     const chapters = {}; let curCh = 0, curV = 0;
     usfm.split('\n').forEach(line => {
@@ -181,7 +170,7 @@ function parseUSFM(usfm) {
 
 function finalize(raw) {
     if (!raw) return "";
-    raw = raw.replace(/\\x\s+.*?\\x\*/g, ''); // Clear cross-refs
+    raw = raw.replace(/\\x\s+.*?\\x\*/g, ''); 
     let html = raw.replace(/\\\+?w\s+([^|]+)\|strong="([HG])([0-9]+)"\\\+?w\*/g, (m, word, lang, code) => {
         return `${word}<span class="strong-pill">${lang}${code}</span>`;
     });
@@ -192,27 +181,17 @@ function finalize(raw) {
     return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim();
 }
 
-// --- Note Logic ---
 function handleNote(e, text, type) {
     const bar = document.getElementById('bottom-bar');
-    const display = document.getElementById('note-display');
-    const standard = document.getElementById('standard-controls');
     const content = document.getElementById('note-content');
-
-    if (type === 'click') {
-        state.notePinned = true;
-        bar.classList.add('is-note');
-        display.style.display = 'flex';
-        standard.style.display = 'none';
+    if (type === 'click') state.notePinned = true;
+    if (type === 'out' && state.notePinned) return;
+    if (text) {
         content.innerText = text;
-    } else if (type === 'hover' && !state.notePinned) {
         bar.classList.add('is-note');
-        display.style.display = 'flex';
-        standard.style.display = 'none';
-        content.innerText = text;
-    } else if (type === 'out' && !state.notePinned) {
-        closeNote();
-    }
+        document.getElementById('note-display').style.display = 'flex';
+        document.getElementById('standard-controls').style.display = 'none';
+    } else { closeNote(); }
 }
 
 function closeNote() {
@@ -222,15 +201,12 @@ function closeNote() {
     document.getElementById('standard-controls').style.display = 'flex';
 }
 
-// --- Search Logic ---
 function handleSearch(e) {
     const q = e.target.value.trim().toLowerCase();
     const resDiv = document.getElementById('search-results');
     if (q.length < 2) { resDiv.style.display = 'none'; return; }
-    
     state.searchResults = []; state.searchPage = 0;
 
-    // Check Reference Jump
     const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
     if (refMatch) {
         const bQ = refMatch[1].replace(/\s/g, '');
@@ -238,18 +214,14 @@ function handleSearch(e) {
         if (tB) state.searchResults.push({ code: tB, ch: refMatch[2] || 1, v: refMatch[3] || null, text: `Jump to Reference`, isJump: true });
     }
 
-    // Keyword Search
     for (const code in state.activeCollection) {
         const lib = parseUSFM(state.activeCollection[code].usfm);
         for (const ch in lib) {
             for (const v in lib[ch]) {
-                const rawText = lib[ch][v];
-                // CRITICAL FIX: Verify rawText is a string before calling .replace
-                if (typeof rawText === 'string') {
-                    const cleanText = rawText.replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
-                    if (cleanText.includes(q)) {
-                        state.searchResults.push({ code, ch, v, text: cleanText });
-                    }
+                const txt = lib[ch][v];
+                if (typeof txt === 'string') {
+                    const clean = txt.replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
+                    if (clean.includes(q)) state.searchResults.push({ code, ch, v, text: clean });
                 }
             }
         }
@@ -263,22 +235,15 @@ function renderSearchResults() {
     const pageItems = state.searchResults.slice(start, end);
 
     let html = pageItems.map(m => `
-        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v}); hideSearch();">
-            <strong>${state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}</strong> - ${m.text.substring(0, 100)}...
+        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v}); resDiv.style.display='none';">
+            <strong>${state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}</strong> - ${m.text.substring(0, 90)}...
         </div>`).join('');
 
     if (state.searchResults.length > 100) {
-        html += `<div class="search-nav-indicator" onclick="state.searchPage++; renderSearchResults();">Show Next 100 (${state.searchResults.length - end} remaining)</div>`;
+        html += `<div class="search-nav-indicator" onclick="event.stopPropagation(); state.searchPage++; renderSearchResults();">Next 100 (${state.searchResults.length - end} left)</div>`;
     }
     resDiv.innerHTML = html; resDiv.style.display = html ? 'block' : 'none';
 }
-
-function hideSearch() { document.getElementById('search-results').style.display = 'none'; document.getElementById('search-box').value = ''; }
-
-// --- Global Escape ---
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') { hideSearch(); closeNote(); }
-});
 
 function navigateTo(code, ch, v) {
     state.book = code;
@@ -298,7 +263,6 @@ function stepChapter(dir) {
 function changeChapter(c, v) {
     state.ch = parseInt(c);
     document.getElementById('chapter-select').value = c;
-    localStorage.setItem('last_pos', JSON.stringify({col: state.currentCollectionId, book: state.book, ch: state.ch}));
     render(v);
 }
 
@@ -315,9 +279,13 @@ function render(targetV) {
     if (targetV) {
         setTimeout(() => {
             const el = document.getElementById(`v-${targetV}`);
-            if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'center' }); el.style.backgroundColor = '#fff9c4'; setTimeout(() => el.style.backgroundColor = 'transparent', 2000); }
+            if (el) { 
+                el.scrollIntoView({ behavior: 'smooth', block: 'center' }); 
+                el.style.backgroundColor = 'rgba(25, 103, 210, 0.2)'; 
+                setTimeout(() => el.style.backgroundColor = 'transparent', 2000); 
+            }
         }, 300);
-    } else { window.scrollTo(0,0); }
+    }
 }
 
 function toggleStrongs() {
@@ -329,29 +297,39 @@ function toggleStrongs() {
 
 function updateQR() {
     const container = document.getElementById('qrcode');
-    if (!container || typeof QRCode === 'undefined') return;
-    container.innerHTML = ""; new QRCode(container, { text: window.location.href, width: 80, height: 80 });
+    const url = new URL(window.location);
+    url.searchParams.set('col', state.currentCollectionId);
+    url.searchParams.set('book', state.book);
+    url.searchParams.set('ch', state.ch);
+    const sq = document.getElementById('search-box').value;
+    if (sq) url.searchParams.set('q', sq); else url.searchParams.delete('q');
+    window.history.replaceState(null, '', url);
+    if (container && typeof QRCode !== 'undefined') {
+        container.innerHTML = ""; new QRCode(container, { text: url.href, width: 80, height: 80 });
+    }
 }
 
-// --- Speech & Random ---
-(function() {
-    const synth = window.speechSynthesis;
-    window.speechControl = {
-        play: function() {
-            synth.cancel();
-            const utter = new SpeechSynthesisUtterance(document.getElementById('content').innerText.replace(/\d+/g, ''));
-            synth.speak(utter);
-        }
-    };
-})();
+const speechControl = {
+    play: function() {
+        window.speechSynthesis.cancel();
+        const utter = new SpeechSynthesisUtterance(document.getElementById('content').innerText);
+        window.speechSynthesis.speak(utter);
+    },
+    restart: function() { this.play(); }
+};
 
 function pickRandom() {
     const codes = Object.keys(state.activeCollection);
     const code = codes[Math.floor(Math.random() * codes.length)];
     const lib = parseUSFM(state.activeCollection[code].usfm);
     const ch = Object.keys(lib)[Math.floor(Math.random() * Object.keys(lib).length)];
-    navigateTo(code, ch);
+    const v = Object.keys(lib[ch])[Math.floor(Math.random() * Object.keys(lib[ch]).length)];
+    navigateTo(code, ch, v);
 }
+
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { closeNote(); document.getElementById('search-results').style.display='none'; }
+});
 </script>
 </body>
 </html>
