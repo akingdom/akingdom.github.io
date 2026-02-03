@@ -1,4 +1,4 @@
-# Beyond Jurisdiction — The Bridge from Power to Peace: A Multilateral Playbook for Rapid De‑Escalation
+## Beyond Jurisdiction — The Bridge from Power to Peace: A Multilateral Playbook for Rapid De‑Escalation
 
 ### Executive summary
 Discrete incidents often escalate because they function as symbolic tests of recognition, dignity, or security. Framing such incidents as recognition problems—then pairing that framing with rapid, verifiable cooling measures and careful sequencing—reduces the incentive to convert symbolic loss into power contests. This paper presents a concise six‑step diplomatic playbook, copyable private and public language, a verification and risk matrix, an implementation roadmap, and practical appendices for operational use. Language and norms are encoded in neutral, modern terms so the approach is usable across diverse political and cultural contexts.
@@ -131,12 +131,6 @@ The establishment of a direct crisis communication channel and subsequent incide
 A 2001 mid‑air diplomatic incident involving a reconnaissance aircraft and a fighter jet illustrates the costs of early public posturing and sovereignty narratives. Initial escalation was amplified by public rhetoric; de‑escalation ultimately required private, politically‑packaged diplomacy and carefully sequenced public messaging. The episode highlights the value of pre‑agreed verification protocols and the cost of delayed private framing.
 
 *(For submission, replace these descriptive references with precise, venue‑appropriate citations to primary sources and authoritative analyses.)*
-
----
-
-## Title recommendation
-**Beyond Jurisdiction — The Bridge from Power to Peace: A Multilateral Playbook for Rapid De‑Escalation**  
-This title balances conceptual clarity, policy gravitas, and cross‑cultural applicability; it signals a shift from contest to connection while remaining suitable for diplomatic briefings, training, and public communication.
 
 ---
 
