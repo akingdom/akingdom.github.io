@@ -50,7 +50,7 @@
         .strongs-hidden .strong-pill { display: none !important; }
         .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
 
-        /* --- Semantic USFM Layout --- */
+        /* Structural Styling for Poetic Books and Prefaces */
         .usfm-s { display: block; font-weight: bold; font-size: 1.1rem; text-align: center; margin: 1.5rem 0 0.5rem; color: var(--primary); }
         .usfm-d { display: block; font-style: italic; font-size: 0.9rem; text-align: center; margin-bottom: 0.5rem; opacity: 0.8; }
         .usfm-q { display: block; padding-left: 1.5rem; margin: 0.2rem 0; border-left: 2px solid var(--border); }
@@ -162,6 +162,7 @@ async function loadCollection(id) {
     state.currentCollectionId = id;
     const colData = window.BIBLE_INDEX.collections.find(c => c.id === id);
     const varName = `COLLECTION_${id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
+    const statusEl = document.getElementById('cache-status');
     
     let cachedData = null;
     if (state.db) {
@@ -174,9 +175,9 @@ async function loadCollection(id) {
 
     if (cachedData) {
         window[varName] = cachedData;
-        document.getElementById('cache-status').innerText = "✓ Offline";
+        statusEl.innerText = "✓ Offline";
     } else if (!window[varName]) {
-        document.getElementById('cache-status').innerText = "☁ Loading...";
+        statusEl.innerText = "☁ Loading...";
         await new Promise(r => {
             const s = document.createElement('script');
             s.src = colData.file; 
@@ -188,6 +189,7 @@ async function loadCollection(id) {
             };
             document.head.appendChild(s);
         });
+        statusEl.innerText = "✓ Online"; // Status updated after script load
     }
 
     state.activeCollection = window[varName];
