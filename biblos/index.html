@@ -50,6 +50,12 @@
         .strongs-hidden .strong-pill { display: none !important; }
         .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
 
+        /* --- Semantic USFM Layout --- */
+        .usfm-s { display: block; font-weight: bold; font-size: 1.1rem; text-align: center; margin: 1.5rem 0 0.5rem; color: var(--primary); }
+        .usfm-d { display: block; font-style: italic; font-size: 0.9rem; text-align: center; margin-bottom: 0.5rem; opacity: 0.8; }
+        .usfm-q { display: block; padding-left: 1.5rem; margin: 0.2rem 0; border-left: 2px solid var(--border); }
+        .usfm-p, .usfm-ip { display: block; margin-top: 0.8rem; }
+
         .bottom-bar { 
             position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); 
             width: calc(100% - 40px); max-width: 760px; background: var(--surface); 
@@ -65,6 +71,7 @@
 
         #note-display { display: none; width: 100%; justify-content: space-between; align-items: center; }
         #qrcode { float: right; width: 80px; height: 80px; padding: 5px; background: white; border-radius: 8px; margin-left: 10px; }
+        #cache-status { font-size: 0.7rem; color: #9aa0a6; position: absolute; bottom: 5px; right: 10px; }
     </style>
 </head>
 <body class="strongs-hidden">
@@ -76,14 +83,15 @@
             <select id="book-select" onchange="navigateTo(this.value, 1)"></select>
             <select id="chapter-select" onchange="changeChapter(this.value)"></select>
             <div style="position: relative; flex-grow: 1; display: flex;">
-                <input type="text" id="search-box" placeholder="Search keywords or 'John 3:16'..." onkeyup="handleSearch(event)">
+                <input type="text" id="search-box" placeholder="Search keywords or 'John 3'..." onkeyup="handleSearch(event)">
                 <div id="search-results"></div>
             </div>
         </div>
 
         <div id="qrcode"></div>
-        <h1 class="ref" id="ref-header">Loading...</h1>
+        <h1 class="ref" id="ref-header">Biblos</h1>
         <div id="content"></div>
+        <div id="cache-status" class="ui-font"></div>
     </div>
 </div>
 
@@ -110,41 +118,81 @@
 <script src="../js/qrcode.js"></script>
 
 <script>
-const state = { activeCollection: null, currentCollectionId: null, fullLibrary: {}, book: null, ch: 1, showStrongs: false, searchResults: [], searchPage: 0, notePinned: false };
+const state = { activeCollection: null, currentCollectionId: null, fullLibrary: {}, book: null, ch: 1, showStrongs: false, searchResults: [], searchPage: 0, notePinned: false, db: null };
+
+async function initDB() {
+    return new Promise((resolve) => {
+        const timer = setTimeout(() => resolve(null), 150);
+        try {
+            if (!window.indexedDB) return resolve(null);
+            const request = indexedDB.open("BiblosCache", 1);
+            request.onupgradeneeded = (e) => e.target.result.createObjectStore("collections");
+            request.onsuccess = (e) => { clearTimeout(timer); state.db = e.target.result; resolve(state.db); };
+            request.onerror = () => resolve(null);
+        } catch(e) { resolve(null); }
+    });
+}
 
 window.onload = async () => {
     const idx = window.BIBLE_INDEX;
-    idx.collections.forEach(c => document.getElementById('col-select').add(new Option(c.name, c.id)));
+    if (idx) {
+        const colSel = document.getElementById('col-select');
+        idx.collections.forEach(c => colSel.add(new Option(c.name, c.id)));
+    }
     const params = new URLSearchParams(window.location.search);
     const last = JSON.parse(localStorage.getItem('last_pos')) || {};
-    const targetCol = params.get('col') || last.col || idx.collections[0].id;
+    const targetCol = params.get('col') || last.col || (idx ? idx.collections[0].id : null);
     
     state.showStrongs = localStorage.getItem('show_strongs') === 'true';
     document.body.classList.toggle('strongs-hidden', !state.showStrongs);
     document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
 
-    await loadCollection(targetCol);
-    const q = params.get('q');
-    if (q) {
-        document.getElementById('search-box').value = q;
-        handleSearch({ target: { value: q }, key: 'Enter' });
+    await initDB();
+    if (targetCol) {
+        await loadCollection(targetCol);
+        if (params.get('q')) {
+            document.getElementById('search-box').value = params.get('q');
+            handleSearch({ target: { value: params.get('q') } });
+        }
+        if (params.get('book')) navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
     }
-    if (params.get('book')) navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
 };
 
 async function loadCollection(id) {
     state.currentCollectionId = id;
     const colData = window.BIBLE_INDEX.collections.find(c => c.id === id);
     const varName = `COLLECTION_${id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
-    if (!window[varName]) {
-        await new Promise(r => {
-            const s = document.createElement('script');
-            s.src = colData.file; s.onload = r; document.head.appendChild(s);
+    
+    let cachedData = null;
+    if (state.db) {
+        cachedData = await new Promise(r => {
+            const req = state.db.transaction(["collections"]).objectStore("collections").get(id);
+            req.onsuccess = () => r(req.result);
+            req.onerror = () => r(null);
         });
     }
+
+    if (cachedData) {
+        window[varName] = cachedData;
+        document.getElementById('cache-status').innerText = "✓ Offline";
+    } else if (!window[varName]) {
+        document.getElementById('cache-status').innerText = "☁ Loading...";
+        await new Promise(r => {
+            const s = document.createElement('script');
+            s.src = colData.file; 
+            s.onload = () => {
+                if (state.db) {
+                    try { state.db.transaction(["collections"], "readwrite").objectStore("collections").put(window[varName], id); } catch(e){}
+                }
+                r();
+            };
+            document.head.appendChild(s);
+        });
+    }
+
     state.activeCollection = window[varName];
     populateBooks();
-    navigateTo(Object.keys(state.activeCollection)[0], 1);
+    if (!state.book) navigateTo(Object.keys(state.activeCollection)[0], 1);
 }
 
 function populateBooks() {
@@ -154,15 +202,31 @@ function populateBooks() {
 
 function parseUSFM(usfm) {
     const chapters = {}; let curCh = 0, curV = 0;
+    const metaIgnore = ['\\h', '\\toc', '\\id', '\\mt', '\\rem'];
+
     usfm.split('\n').forEach(line => {
         line = line.trim();
-        if (line.startsWith('\\c ')) { curCh = parseInt(line.split(' ')[1]); chapters[curCh] = {}; curV = 0; }
-        else if (line.startsWith('\\v ')) {
+        if (!line) return;
+        const tag = line.split(' ')[0];
+
+        if (line.startsWith('\\c ')) { 
+            curCh = parseInt(line.split(' ')[1]); chapters[curCh] = {}; curV = 0; return;
+        }
+        if (line.startsWith('\\v ')) {
             const m = line.match(/\\v\s+(\d+)\s+(.*)/);
-            if (m) { curV = parseInt(m[1]); chapters[curCh][curV] = finalize(m[2]); }
-        } else if (curV > 0 && line.length > 0 && !line.startsWith('\\s')) {
-            let content = finalize(line);
-            if (content) chapters[curCh][curV] = (chapters[curCh][curV] || "") + " " + content;
+            if (m) { curV = parseInt(m[1]); chapters[curCh][curV] = finalize(m[2]); } return;
+        }
+
+        if (metaIgnore.some(m => tag.startsWith(m))) return;
+
+        let content = finalize(line);
+        if (content) {
+            if (curCh === 0) { curCh = 1; chapters[curCh] = {}; }
+            const cleanTag = tag.replace('\\', '');
+            const wrapped = `<span class="usfm-${cleanTag}">${content}</span>`;
+
+            if (curV === 0) { curV = 1; chapters[curCh][curV] = wrapped; }
+            else { chapters[curCh][curV] = (chapters[curCh][curV] || "") + wrapped; }
         }
     });
     return chapters;
@@ -175,74 +239,10 @@ function finalize(raw) {
         return `${word}<span class="strong-pill">${lang}${code}</span>`;
     });
     html = html.replace(/\\f\s+\+\s+(.*?)\s+(.*?)\\f\*/g, (m, r, n) => {
-        const clean = n.replace(/"/g, '&quot;');
-        return `<span class="fn-chip" onmouseover="handleNote(event, '${clean}', 'hover')" onmouseout="handleNote(event, null, 'out')" onclick="handleNote(event, '${clean}', 'click')">Note</span>`;
+        const escaped = n.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+        return `<span class="fn-chip" onmouseover="handleNote(event, '${escaped}', 'hover')" onmouseout="handleNote(event, null, 'out')" onclick="handleNote(event, '${escaped}', 'click')">Note</span>`;
     });
     return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim();
-}
-
-function handleNote(e, text, type) {
-    const bar = document.getElementById('bottom-bar');
-    const content = document.getElementById('note-content');
-    if (type === 'click') state.notePinned = true;
-    if (type === 'out' && state.notePinned) return;
-    if (text) {
-        content.innerText = text;
-        bar.classList.add('is-note');
-        document.getElementById('note-display').style.display = 'flex';
-        document.getElementById('standard-controls').style.display = 'none';
-    } else { closeNote(); }
-}
-
-function closeNote() {
-    state.notePinned = false;
-    document.getElementById('bottom-bar').classList.remove('is-note');
-    document.getElementById('note-display').style.display = 'none';
-    document.getElementById('standard-controls').style.display = 'flex';
-}
-
-function handleSearch(e) {
-    const q = e.target.value.trim().toLowerCase();
-    const resDiv = document.getElementById('search-results');
-    if (q.length < 2) { resDiv.style.display = 'none'; return; }
-    state.searchResults = []; state.searchPage = 0;
-
-    const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
-    if (refMatch) {
-        const bQ = refMatch[1].replace(/\s/g, '');
-        const tB = Object.keys(state.activeCollection).find(k => k.toLowerCase().includes(bQ) || state.activeCollection[k].name.toLowerCase().replace(/\s/g,'').includes(bQ));
-        if (tB) state.searchResults.push({ code: tB, ch: refMatch[2] || 1, v: refMatch[3] || null, text: `Jump to Reference`, isJump: true });
-    }
-
-    for (const code in state.activeCollection) {
-        const lib = parseUSFM(state.activeCollection[code].usfm);
-        for (const ch in lib) {
-            for (const v in lib[ch]) {
-                const txt = lib[ch][v];
-                if (typeof txt === 'string') {
-                    const clean = txt.replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
-                    if (clean.includes(q)) state.searchResults.push({ code, ch, v, text: clean });
-                }
-            }
-        }
-    }
-    renderSearchResults();
-}
-
-function renderSearchResults() {
-    const resDiv = document.getElementById('search-results');
-    const start = state.searchPage * 100, end = start + 100;
-    const pageItems = state.searchResults.slice(start, end);
-
-    let html = pageItems.map(m => `
-        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v}); resDiv.style.display='none';">
-            <strong>${state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}</strong> - ${m.text.substring(0, 90)}...
-        </div>`).join('');
-
-    if (state.searchResults.length > 100) {
-        html += `<div class="search-nav-indicator" onclick="event.stopPropagation(); state.searchPage++; renderSearchResults();">Next 100 (${state.searchResults.length - end} left)</div>`;
-    }
-    resDiv.innerHTML = html; resDiv.style.display = html ? 'block' : 'none';
 }
 
 function navigateTo(code, ch, v) {
@@ -252,12 +252,6 @@ function navigateTo(code, ch, v) {
     const chSel = document.getElementById('chapter-select'); chSel.innerHTML = "";
     Object.keys(state.fullLibrary).sort((a,b)=>a-b).forEach(c => chSel.add(new Option(`Chapter ${c}`, c)));
     changeChapter(ch || 1, v);
-}
-
-function stepChapter(dir) {
-    const chs = Object.keys(state.fullLibrary).map(Number).sort((a,b)=>a-b);
-    const idx = chs.indexOf(state.ch);
-    if (chs[idx + dir]) changeChapter(chs[idx + dir]);
 }
 
 function changeChapter(c, v) {
@@ -279,13 +273,67 @@ function render(targetV) {
     if (targetV) {
         setTimeout(() => {
             const el = document.getElementById(`v-${targetV}`);
-            if (el) { 
-                el.scrollIntoView({ behavior: 'smooth', block: 'center' }); 
-                el.style.backgroundColor = 'rgba(25, 103, 210, 0.2)'; 
-                setTimeout(() => el.style.backgroundColor = 'transparent', 2000); 
-            }
+            if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'center' }); el.style.backgroundColor = 'rgba(25,103,210,0.2)'; setTimeout(()=>el.style.backgroundColor='transparent',2000); }
         }, 300);
     }
+    localStorage.setItem('last_pos', JSON.stringify({ col: state.currentCollectionId, book: state.book, ch: state.ch }));
+}
+
+function handleSearch(e) {
+    const q = e.target.value.trim().toLowerCase();
+    const resDiv = document.getElementById('search-results');
+    if (q.length < 2) { resDiv.style.display = 'none'; return; }
+    state.searchResults = []; state.searchPage = 0;
+
+    const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
+    if (refMatch) {
+        const bQ = refMatch[1].replace(/\s/g, '');
+        const tB = Object.keys(state.activeCollection).find(k => k.toLowerCase().includes(bQ) || state.activeCollection[k].name.toLowerCase().replace(/\s/g,'').includes(bQ));
+        if (tB) state.searchResults.push({ code: tB, ch: refMatch[2] || 1, v: refMatch[3] || null, text: `Jump to Reference`, isJump: true });
+    }
+
+    for (const code in state.activeCollection) {
+        const lib = parseUSFM(state.activeCollection[code].usfm);
+        for (const ch in lib) {
+            for (const v in lib[ch]) {
+                const txt = lib[ch][v].replace(/<[^>]*>/g, '').toLowerCase();
+                if (txt.includes(q)) state.searchResults.push({ code, ch, v, text: txt });
+            }
+        }
+    }
+    renderSearchResults();
+}
+
+function renderSearchResults() {
+    const resDiv = document.getElementById('search-results');
+    const start = state.searchPage * 100, end = start + 100;
+    const pageItems = state.searchResults.slice(start, end);
+
+    let html = pageItems.map(m => `
+        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v || 'null'}); document.getElementById('search-results').style.display='none';">
+            <strong>${state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}</strong> - ${m.text.substring(0, 90)}...
+        </div>`).join('');
+
+    if (state.searchResults.length > end) {
+        html += `<div class="search-nav-indicator" onclick="event.stopPropagation(); state.searchPage++; renderSearchResults();">Next 100</div>`;
+    }
+    resDiv.innerHTML = html; resDiv.style.display = html ? 'block' : 'none';
+}
+
+function updateQR() {
+    const container = document.getElementById('qrcode');
+    const url = new URL(window.location);
+    url.searchParams.set('col', state.currentCollectionId); url.searchParams.set('book', state.book); url.searchParams.set('ch', state.ch);
+    const sq = document.getElementById('search-box').value;
+    if (sq) url.searchParams.set('q', sq); else url.searchParams.delete('q');
+    window.history.replaceState(null, '', url);
+    if (container && typeof QRCode !== 'undefined') { container.innerHTML = ""; new QRCode(container, { text: url.href, width: 80, height: 80 }); }
+}
+
+function stepChapter(dir) {
+    const chs = Object.keys(state.fullLibrary).map(Number).sort((a,b)=>a-b);
+    const idx = chs.indexOf(state.ch);
+    if (chs[idx + dir]) changeChapter(chs[idx + dir]);
 }
 
 function toggleStrongs() {
@@ -295,26 +343,8 @@ function toggleStrongs() {
     localStorage.setItem('show_strongs', state.showStrongs);
 }
 
-function updateQR() {
-    const container = document.getElementById('qrcode');
-    const url = new URL(window.location);
-    url.searchParams.set('col', state.currentCollectionId);
-    url.searchParams.set('book', state.book);
-    url.searchParams.set('ch', state.ch);
-    const sq = document.getElementById('search-box').value;
-    if (sq) url.searchParams.set('q', sq); else url.searchParams.delete('q');
-    window.history.replaceState(null, '', url);
-    if (container && typeof QRCode !== 'undefined') {
-        container.innerHTML = ""; new QRCode(container, { text: url.href, width: 80, height: 80 });
-    }
-}
-
 const speechControl = {
-    play: function() {
-        window.speechSynthesis.cancel();
-        const utter = new SpeechSynthesisUtterance(document.getElementById('content').innerText);
-        window.speechSynthesis.speak(utter);
-    },
+    play: () => { window.speechSynthesis.cancel(); window.speechSynthesis.speak(new SpeechSynthesisUtterance(document.getElementById('content').innerText)); },
     restart: function() { this.play(); }
 };
 
@@ -327,8 +357,29 @@ function pickRandom() {
     navigateTo(code, ch, v);
 }
 
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') { closeNote(); document.getElementById('search-results').style.display='none'; }
+function handleNote(e, t, type) {
+    if (type === 'click') state.notePinned = true;
+    if (type === 'out' && state.notePinned) return;
+    if (t) {
+        document.getElementById('note-content').innerText = t;
+        document.getElementById('bottom-bar').classList.add('is-note');
+        document.getElementById('note-display').style.display = 'flex';
+        document.getElementById('standard-controls').style.display = 'none';
+    } else { closeNote(); }
+}
+
+function closeNote() { 
+    state.notePinned = false; 
+    document.getElementById('bottom-bar').classList.remove('is-note'); 
+    document.getElementById('note-display').style.display = 'none'; 
+    document.getElementById('standard-controls').style.display = 'flex'; 
+}
+
+document.addEventListener('keydown', (e) => { 
+    if (e.key === 'Escape') { 
+        closeNote(); 
+        document.getElementById('search-results').style.display='none'; 
+    } 
 });
 </script>
 </body>
