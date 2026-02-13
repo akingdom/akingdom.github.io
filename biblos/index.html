@@ -50,7 +50,7 @@
         .strongs-hidden .strong-pill { display: none !important; }
         .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
 
-        /* Structural Styling for Poetic Books and Prefaces */
+        /* Structural Styling */
         .usfm-s { display: block; font-weight: bold; font-size: 1.1rem; text-align: center; margin: 1.5rem 0 0.5rem; color: var(--primary); }
         .usfm-d { display: block; font-style: italic; font-size: 0.9rem; text-align: center; margin-bottom: 0.5rem; opacity: 0.8; }
         .usfm-q { display: block; padding-left: 1.5rem; margin: 0.2rem 0; border-left: 2px solid var(--border); }
@@ -189,7 +189,7 @@ async function loadCollection(id) {
             };
             document.head.appendChild(s);
         });
-        statusEl.innerText = "✓ Online"; // Status updated after script load
+        statusEl.innerText = "✓ Online";
     }
 
     state.activeCollection = window[varName];
@@ -298,7 +298,11 @@ function handleSearch(e) {
         const lib = parseUSFM(state.activeCollection[code].usfm);
         for (const ch in lib) {
             for (const v in lib[ch]) {
-                const txt = lib[ch][v].replace(/<[^>]*>/g, '').toLowerCase();
+                // REMOVE STRONG'S SPANS BEFORE SEARCHING TEXT
+                const txt = lib[ch][v]
+                    .replace(/<span class="strong-pill">.*?<\/span>/g, '') 
+                    .replace(/<[^>]*>/g, '')
+                    .toLowerCase();
                 if (txt.includes(q)) state.searchResults.push({ code, ch, v, text: txt });
             }
         }
@@ -370,19 +374,9 @@ function handleNote(e, t, type) {
     } else { closeNote(); }
 }
 
-function closeNote() { 
-    state.notePinned = false; 
-    document.getElementById('bottom-bar').classList.remove('is-note'); 
-    document.getElementById('note-display').style.display = 'none'; 
-    document.getElementById('standard-controls').style.display = 'flex'; 
-}
+function closeNote() { state.notePinned = false; document.getElementById('bottom-bar').classList.remove('is-note'); document.getElementById('note-display').style.display = 'none'; document.getElementById('standard-controls').style.display = 'flex'; }
 
-document.addEventListener('keydown', (e) => { 
-    if (e.key === 'Escape') { 
-        closeNote(); 
-        document.getElementById('search-results').style.display='none'; 
-    } 
-});
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeNote(); document.getElementById('search-results').style.display='none'; } });
 </script>
 </body>
 </html>
