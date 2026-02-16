@@ -257,6 +257,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Awareness and Trauma Healing](https://akingdom.github.io/articles/trauma_healing_and_awareness)
 	- **Read more**: [Gifted People and Getting Things Done](https://akingdom.github.io/articles/Executive_Congestion)
 	- **Read more**: [The Bridge from Power to Peace (International Relations)](https://akingdom.github.io/articles/Power_vs_Peace-Beyond_Jurisdiction)
+	- **Read more**: [Peace, Integrity, and Evidence](https://akingdom.github.io/articles/Peace_Integrity_and_Evidence) A Structural Analysis of How Worldviews Shape Human and Systemic Reliability.
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 	- **Read more**: *See 'AI' above*
