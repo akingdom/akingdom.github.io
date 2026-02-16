@@ -224,3 +224,6 @@ Maintain a central, searchable registry of CBMs, verifiers, and after‑action l
 - For a think‑tank report: retain operational appendices as downloadable annexes and add a short foreword from a senior practitioner if possible.
 
 ---
+
+© 2026 Andrew Kingdom. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY‑NC‑ND 4.0).
+Translations permitted with attribution; no modifications to content.
