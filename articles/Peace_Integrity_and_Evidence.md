@@ -881,6 +881,9 @@ This is not a call for uniformity of belief, but for seriousness about the deep 
 
 In this sense, the argument of this paper is both philosophical and practical, both structural and personal. It invites readers not only to evaluate worldviews but to examine the foundations of their own integrity, and to consider what kind of peace is strong enough to bear the weight of truth.
 
+---
+
+* See also [Beyond Jurisdiction — The Bridge from Power to Peace](Power_vs_Peace-Beyond_Jurisdiction) — A Multilateral Playbook for Rapid De‑Escalation, for international affairs bodies.
 
 ---
 
