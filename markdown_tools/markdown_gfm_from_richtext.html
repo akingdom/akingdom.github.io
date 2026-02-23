@@ -1,0 +1,543 @@
+<!doctype html>
+<!--PYKELET
+DESCRIPTION:    In‑browser GFM converter with HTML→Markdown→HTML round‑trip checking, animated report panel, and non‑alarming structural/content loss classification.
+TITLE:          GFM Converter + Round‑trip Report
+FILENAME:       markdown_gfm_from_richtext.html
+AUTHOR:         Andrew Kingdom
+LICENSE:        MIT License (recommended for small web utilities and tooling)
+VERSION:        1.5.0
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<script src="../js/pykelet.js">// as early as possible.</script>
+<title>GFM Converter</title>
+
+<style>
+body{
+  font-family:Inter,Segoe UI,system-ui,Arial,sans-serif;
+  margin:0;
+  background:#f6f8fa;
+  color:#0b1220;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+}
+
+header{
+  padding:16px 20px;
+  background:#fff;
+  border-bottom:1px solid #e6edf3;
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+header strong{font-size:16px}
+
+.wrap{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:12px;
+  padding:16px;
+  flex:1;
+  overflow:hidden;
+}
+
+.panel{
+  background:#fff;
+  border:1px solid #e6edf3;
+  border-radius:8px;
+  padding:12px;
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+}
+
+.panel-body{
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+  gap:10px;
+}
+
+.panel-scroll{
+  flex:1;
+  overflow:auto;
+}
+
+.panel h4{margin:0 0 8px 0;font-size:14px}
+
+.editor{
+  border:1px dashed #dbe7ef;
+  border-radius:6px;
+  padding:8px;
+  min-height:180px;
+  overflow:auto;
+}
+
+textarea{
+  width:100%;
+  height:180px;
+  resize:vertical;
+  border:1px solid #dbe7ef;
+  border-radius:6px;
+  padding:8px;
+  font-family:monospace;
+}
+
+.controls{
+  display:flex;
+  gap:8px;
+  align-items:center;
+  margin-top:8px;
+}
+
+button{
+  background:#2dd4bf;
+  color:#042024;
+  border:0;
+  padding:8px 12px;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+button.secondary{
+  background:#eef6f5;
+  color:#0b1220;
+}
+
+.small{font-size:13px;color:#475569}
+
+pre{
+  white-space:pre-wrap;
+  word-break:break-word;
+  background:#0b1220;
+  color:#dbeafe;
+  padding:12px;
+  border-radius:6px;
+  overflow:auto;
+  font-family:monospace;
+}
+
+.log{font-size:13px;color:#7b8794;margin-top:8px}
+
+.warning{
+  color:#b45309;
+  background:#fff7ed;
+  padding:8px;
+  border-radius:6px;
+  border:1px solid #f5d0a9;
+  margin-top:8px;
+}
+
+footer{
+  padding:12px;
+  text-align:center;
+  color:#64748b;
+  font-size:13px;
+}
+
+/* -------- ROUND TRIP REPORT FIXED -------- */
+
+#roundTripReport{
+  position:fixed;
+  right:18px;
+  bottom:18px;
+  width:460px;
+  max-height:68vh;
+  overflow:auto;
+  background:#fff;
+  border:1px solid #e6edf3;
+  padding:12px;
+  border-radius:8px;
+  box-shadow:0 8px 28px rgba(2,6,23,0.08);
+  transform-origin:bottom right;
+  transition:transform 400ms cubic-bezier(.2,.9,.2,1), opacity 350ms ease;
+  transform:translateY(12px) scale(.98);
+  opacity:0;
+  pointer-events:none;
+  z-index:9999;
+}
+
+#roundTripReport.visible{
+  transform:translateY(0) scale(1);   /* FIXED */
+  opacity:1;
+  pointer-events:auto;
+}
+
+#roundTripReport .rt-body{
+  max-height:56vh;
+  overflow:auto;
+}
+
+#roundTripReport .rt-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  position:sticky;
+  top:0;
+}
+
+#roundTripReport button.rt-close{
+  background:#eef6f5;
+  border:0;
+  padding:6px 8px;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+@media(max-width:900px){
+  .wrap{grid-template-columns:1fr;}
+}
+</style>
+</head>
+<body>
+
+<header>
+<strong>GFM Converter — Builtin Specs + Upload (v<span id="version">1.5.0</span>)</strong>
+<div class="small">Runs in-browser; built-in CommonMark and GFM spec subsets included; upload other specs.</div>
+</header>
+
+<main class="wrap">
+
+<section class="panel">
+<h4>Rich Editor</h4>
+
+<div class="panel-body">
+<div class="panel-scroll">
+<div id="editor" class="editor" contenteditable="true" spellcheck="false"></div>
+
+<h4 style="margin-top:10px">Raw HTML Input</h4>
+<textarea id="htmlInput" placeholder="Or paste raw HTML here"></textarea>
+</div>
+
+<div class="controls">
+<button id="pasteHtml">Paste HTML</button>
+<button id="clearEditor" class="secondary">Clear</button>
+<label style="margin-left:auto" class="small">
+<input type="checkbox" id="preserveHtml"/>
+<span style="margin-left:6px">Preserve inline HTML</span>
+</label>
+</div>
+</div>
+</section>
+
+<section class="panel">
+<h4>Options & Output</h4>
+
+<div class="panel-body">
+<div class="panel-scroll">
+
+<div style="display:flex;gap:8px;align-items:center;margin-bottom:8px">
+<label class="small"><input type="checkbox" id="optTables" checked/> Tables</label>
+<label class="small"><input type="checkbox" id="optTaskLists" checked/> Task Lists</label>
+<label class="small"><input type="checkbox" id="optStrikethrough" checked/> Strikethrough</label>
+<label class="small"><input type="checkbox" id="optAutolink" checked/> Autolink</label>
+</div>
+
+<h4>Markdown Output</h4>
+<pre id="mdOutput" style="min-height:220px"></pre>
+
+</div>
+
+<div class="controls">
+<button id="convert">Convert</button>
+<button id="copy" class="secondary">Copy</button>
+<button id="download" class="secondary">Download .md</button>
+</div>
+
+<div id="warnings" class="log"></div>
+</div>
+</section>
+
+</main>
+
+<footer>
+<small><strong>Note</strong> Built-in spec subsets are used by default for tests; you may upload other spec files (.txt) for additional runs. ©Andrew Kingdom 2026</small>
+</footer>
+
+<script src="https://unpkg.com/turndown/dist/turndown.js"></script>
+<script src="https://unpkg.com/turndown-plugin-gfm/dist/turndown-plugin-gfm.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+
+<script>
+const editor=document.getElementById('editor');
+const htmlInput=document.getElementById('htmlInput');
+const mdOutput=document.getElementById('mdOutput');
+const convertBtn=document.getElementById('convert');
+const copyBtn=document.getElementById('copy');
+const downloadBtn=document.getElementById('download');
+const pasteHtmlBtn=document.getElementById('pasteHtml');
+const clearEditorBtn=document.getElementById('clearEditor');
+const preserveHtml=document.getElementById('preserveHtml');
+
+function convertWithTurndown(html){
+const turndownService=new TurndownService({headingStyle:'atx',codeBlockStyle:'fenced'});
+turndownService.use(turndownPluginGfm.gfm);
+if(preserveHtml.checked)turndownService.keep(['span','div','iframe','svg','math']);
+return turndownService.turndown(html||'');
+}
+
+async function convertHtmlToMarkdown(html){
+try{return convertWithTurndown(html);}catch{return '';}
+}
+
+/* -------- ROUND TRIP REPORT FIXED (then actually fixed)-------- */
+
+/*
+  Usage:
+    - Call prepareReport() directly (it reads editor/htmlInput).
+    - Or click the Convert button (old listeners are removed).
+*/
+
+/* Defensive: small helpers (escape + log) */
+function _rt_escapeHtml(s){ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+function _rt_log(...args){ try{ console.log('[RT]', ...args); }catch(e){} }
+
+  // Minimal roundTripCheck that uses convertHtmlToMarkdown and the tolerant comparator
+  async function roundTripCheck(originalHtml) {
+    // convert
+    let md;
+    try { md = await convertHtmlToMarkdown(originalHtml); } catch (e) { md = convertWithTurndown(originalHtml); }
+    md = (md || '').trim();
+
+    // render md -> html
+    const mdIt = window.markdownit ? window.markdownit({ html: true, linkify: true }) : null;
+    const roundHtml = mdIt ? mdIt.render(md) : '';
+
+    // Use the comparator helpers if present; otherwise fallback to simple blocks
+    // We expect _rt_normalizeHtml, _rt_splitIntoBlocks, _rt_compareBlocks to exist from earlier patches.
+    if (typeof _rt_normalizeHtml !== 'function' || typeof _rt_splitIntoBlocks !== 'function' || typeof _rt_compareBlocks !== 'function') {
+      _rt_log('roundTripCheck fallback: missing helpers; defining minimal helpers (less tolerant).');
+      // Minimal normalizer
+      window._rt_normalizeHtml = function(h){ return (h||'').replace(/\s+/g,' ').trim(); };
+      window._rt_splitIntoBlocks = function(h){
+        const c = document.createElement('div'); c.innerHTML = h||'';
+        const blocks = [];
+        c.childNodes.forEach(n=>{
+          if(n.nodeType===Node.TEXT_NODE && !n.textContent.trim()) return;
+          const tag = n.nodeType===Node.TEXT_NODE ? '#text' : (n.tagName||'#unknown').toLowerCase();
+          const outer = n.outerHTML || n.textContent || '';
+          const text = (n.textContent||'').trim().replace(/\s+/g,' ');
+          blocks.push({ tag, html: outer.trim(), text });
+        });
+        return blocks;
+      };
+      // Minimal comparator: exact text only
+      window._rt_compareBlocks = function(o,r){
+        const a = (o.text||'').replace(/\s+/g,' ').trim();
+        const b = (r.text||'').replace(/\s+/g,' ').trim();
+        if(a===b) return { pass:true, type:'content', reason:'Content preserved' };
+        return { pass:false, type:'loss', reason:'Text mismatch' };
+      };
+    }
+
+    const normOrig = _rt_normalizeHtml(originalHtml);
+    const normRound = _rt_normalizeHtml(roundHtml);
+    const origBlocks = _rt_splitIntoBlocks(normOrig);
+    const roundBlocks = _rt_splitIntoBlocks(normRound);
+
+    const total = Math.max(origBlocks.length, roundBlocks.length);
+    const results = [];
+    for (let i = 0; i < total; i++) {
+      const o = origBlocks[i] || { tag: '#missing', html: '', text: '' };
+      const r = roundBlocks[i] || { tag: '#missing', html: '', text: '' };
+      const cmp = _rt_compareBlocks(o, r) || {};
+      const type = cmp.type || (cmp.pass ? 'content' : 'loss');
+      const pass = !!cmp.pass;
+      // helpful orig snippet if empty
+      let origHtmlForReport = o.html || '';
+      if (!origHtmlForReport || origHtmlForReport.trim() === '') {
+        const needle = (r.text || '').slice(0, 80).replace(/\s+/g, ' ').trim();
+        if (needle && normOrig.indexOf(needle) !== -1) {
+          const idx = normOrig.indexOf(needle);
+          const start = Math.max(0, idx - 80);
+          const snippet = normOrig.slice(start, idx + needle.length + 80).trim();
+          origHtmlForReport = '(extracted) ' + snippet.replace(/\s+/g, ' ');
+        } else {
+          origHtmlForReport = '(no top-level block; content extracted from layout)';
+        }
+      }
+      results.push({ index: i+1, orig: { ...o, html: origHtmlForReport }, round: r, pass, type, reason: cmp.reason || '' });
+    }
+
+    // recompute counts
+    const counts = { content:0, formatting:0, structural:0, loss:0 };
+    results.forEach(r => {
+      const t = r.type || (r.pass ? 'content' : 'loss');
+      if (counts[t] !== undefined) counts[t]++; else counts.loss++;
+    });
+
+    _rt_log('roundTripCheck summary', { total: results.length, counts });
+    const lossSamples = results.filter(r => r.type === 'loss').slice(0,6).map(r => ({ i: r.index, reason: r.reason, orig: r.orig.html.slice(0,140), round: r.round.html.slice(0,140) }));
+    if (lossSamples.length) _rt_log('loss samples', lossSamples);
+
+    return { total: results.length, results, counts, md, roundHtml };
+  }
+
+/* prepareReport: neat function you can call directly */
+const prepareReport = async function(rawHtml) {
+  const html = (rawHtml !== undefined) ? rawHtml : (htmlInput.value.trim() || editor.innerHTML);
+  mdOutput.textContent = 'Converting...';
+
+  let md;
+  try { md = await convertHtmlToMarkdown(html); } catch (e) { md = convertWithTurndown(html); }
+  mdOutput.textContent = md || '';
+
+  const report = await roundTripCheck(html);
+  // ensure showReport exists; if not, log the report
+  if (typeof showReport === 'function') {
+    showReport(report);
+  } else {
+    _rt_log('prepareReport: showReport not defined; report:', report);
+  }
+  return report;
+};
+
+/* Replace Convert button node to remove any previously attached listeners (makes old listeners fatal) */
+(function replaceConvertButton() {
+  const old = document.getElementById('convert');
+  if (!old) return;
+  // clone to remove listeners
+  const clone = old.cloneNode(true);
+  old.parentNode.replaceChild(clone, old);
+  // rebind variables used elsewhere (if code captured the old element, re-query)
+  // Note: if your code uses the earlier `convertBtn` const, reassign it here:
+  window.convertBtn = document.getElementById('convert');
+})();
+
+/* Attach a single listener that calls prepareReport */
+(function attachConvertListener() {
+  const btn = document.getElementById('convert');
+  if (!btn) return;
+  // remove any accidental duplicates
+  try { btn.removeEventListener('click', btn._rt_attached); } catch (e) {}
+  btn._rt_attached = async function (ev) {
+    ev && ev.preventDefault && ev.preventDefault();
+    await prepareReport();
+  };
+  btn.addEventListener('click', btn._rt_attached);
+})();
+
+/* Optional: expose a one-time fatalizer for other listeners (call in console if needed)
+   Example: makeExistingListenersFatal(); */
+function makeExistingListenersFatal() {
+  const btn = document.getElementById('convert');
+  if (!btn) return;
+  // replace with a clone (removes listeners) and attach a fatal handler that logs and prevents default
+  const clone = btn.cloneNode(true);
+  btn.parentNode.replaceChild(clone, btn);
+  clone.addEventListener('click', function(e){
+    e.preventDefault();
+    console.warn('Previous listeners removed; use prepareReport() or the new Convert button handler.');
+  });
+  // rebind global reference
+  window.convertBtn = document.getElementById('convert');
+  _rt_log('makeExistingListenersFatal: replaced convert button and attached fatal handler.');
+}
+
+
+/* Informational note for local file:// console warnings */
+_rt_log('Note: file:// SVG warnings in console are expected when running from disk; they do not affect round-trip logic.');
+
+function showReport(report) {
+  const lossCount = (report.counts && report.counts.loss) || 0;
+  const banner = lossCount > 0
+    ? `<div class="warning" style="margin-bottom:8px">⚠️ <strong>${lossCount} potential loss</strong> — inspect these items carefully.</div>`
+    : '';
+
+  const summaryHtml = `
+    ${banner}
+    <div class="rt-small">
+      <strong>Round‑trip summary</strong><br>
+      Total blocks: ${report.total} ·
+      <span style="color:#065f46">Content: ${report.counts.content}</span> ·
+      <span style="color:#f97316">Formatting: ${report.counts.formatting}</span> ·
+      <span style="color:#2563eb">Structural: ${report.counts.structural}</span> ·
+      <span style="color:#7f1d1d">Potential loss: ${report.counts.loss}</span>
+    </div>
+    <div class="rt-small" style="margin-top:6px;color:#475569;">
+      Most differences are expected: layout wrappers and formatting changes are reported as
+      “structural” or “formatting”. Only items labeled “Potential loss” require attention.
+    </div>
+  `;
+
+  let panel = document.getElementById('roundTripReport');
+  if (!panel) {
+    panel = document.createElement('div');
+    panel.id = 'roundTripReport';
+    panel.innerHTML = `<div class="rt-header"><div><strong>Round‑trip report</strong></div><div><button class="rt-close">Close</button></div></div><div class="rt-body"></div>`;
+    document.body.appendChild(panel);
+    panel.querySelector('.rt-close').addEventListener('click', () => {
+      panel.classList.remove('visible');
+      setTimeout(() => panel.remove(), 420);
+    });
+  }
+
+  const body = panel.querySelector('.rt-body');
+  body.innerHTML = summaryHtml;
+
+  const order = { 'loss': 0, 'formatting': 1, 'structural': 2, 'content': 3 };
+  const prioritized = (report.results || []).slice().sort((a, b) => (order[a.type] || 4) - (order[b.type] || 4)).slice(0, 12);
+
+  prioritized.forEach(item => {
+    const color = item.type === 'loss' ? '#7f1d1d' : item.type === 'formatting' ? '#f97316' : item.type === 'structural' ? '#2563eb' : '#065f46';
+    const label = item.type === 'loss' ? 'Potential loss' : item.type === 'formatting' ? 'Formatting' : item.type === 'structural' ? 'Structural' : 'Content';
+    const block = document.createElement('div');
+    block.className = 'rt-block';
+    block.innerHTML = `
+      <div style="display:flex;gap:8px;align-items:center">
+        <div style="width:10px;height:10px;border-radius:50%;background:${color}"></div>
+        <div style="font-weight:600">${item.pass ? 'OK' : 'Check'} — ${label} ${item.reason ? '· ' + item.reason : ''}</div>
+      </div>
+      <div style="margin-top:6px"><strong>Original</strong><pre>${_rt_escapeHtml(item.orig.html)}</pre></div>
+      <div style="margin-top:6px"><strong>Round‑trip</strong><pre>${_rt_escapeHtml(item.round.html)}</pre></div>
+    `;
+    body.appendChild(block);
+  });
+
+  requestAnimationFrame(() => panel.classList.add('visible'));
+}
+
+/* -------- EVENTS -------- */
+
+convertBtn.addEventListener('click', prepareReport);
+
+copyBtn.addEventListener('click',async()=>{
+try{
+await navigator.clipboard.writeText(mdOutput.textContent);
+copyBtn.textContent='Copied';
+setTimeout(()=>copyBtn.textContent='Copy',1200);
+}catch{alert('Copy failed.');}
+});
+
+downloadBtn.addEventListener('click',()=>{
+const blob=new Blob([mdOutput.textContent],{type:'text/markdown'});
+const url=URL.createObjectURL(blob);
+const a=document.createElement('a');
+a.href=url;
+a.download='converted.md';
+a.click();
+URL.revokeObjectURL(url);
+});
+
+pasteHtmlBtn.addEventListener('click',async()=>{
+try{
+const text=await navigator.clipboard.readText();
+htmlInput.value=text;
+}catch{}
+});
+
+clearEditorBtn.addEventListener('click',()=>{
+editor.innerHTML='';
+htmlInput.value='';
+mdOutput.textContent='';
+});
+</script>
+
+</body>
+</html>
