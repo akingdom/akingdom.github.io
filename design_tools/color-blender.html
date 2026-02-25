@@ -14,6 +14,33 @@
         input[type="text"], input[type="range"] {
             margin: 5px;
         }
+        /* --- NEW STYLES FOR COLOR PICKER SQUARE --- */
+        .picker-wrapper {
+            display: inline-flex;
+            align-items: center;
+            vertical-align: middle;
+        }
+        .color-picker-sq {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            width: 25px;
+            height: 25px;
+            background-color: transparent;
+            border: 1px solid #ccc;
+            cursor: pointer;
+            padding: 0;
+            margin-right: 2px;
+        }
+        .color-picker-sq::-webkit-color-swatch {
+            border: none;
+            padding: 0;
+        }
+        .color-picker-sq::-moz-color-swatch {
+            border: none;
+            padding: 0;
+        }
+        /* ----------------------------------------- */
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -79,7 +106,7 @@
     <script src="../js/colorConversion.js"></script>
 </head>
 <body>
-	<a href=".." style="position:absolute;left 1em;top: .6em;">Menu</a>
+	<a href=".." style="position:absolute;left: 1em;top: .6em;">Menu</a>
     <h1>Color Combination and Variation Tool</h1>
     <p>Enter up to four colors (hex or named) and see various combinations and variations.</p>
 
@@ -87,21 +114,33 @@
     <h2>Mixer 1</h2>
 
     <div>
-        <input type="text" id="color1" placeholder="yellow" oninput="updateColors(1)">
-        <input type="range" id="weight1" min="0" max="100" value="25" oninput="updateColors(1)">
-        <span id="closestColor1"></span>
-        <br>
-        <input type="text" id="color2" placeholder="#00FF00" oninput="updateColors(1)">
-        <input type="range" id="weight2" min="0" max="100" value="25" oninput="updateColors(1)">
-        <span id="closestColor2"></span>
-        <br>
-        <input type="text" id="color3" placeholder="#0000FF" oninput="updateColors(1)">
-        <input type="range" id="weight3" min="0" max="100" value="25" oninput="updateColors(1)">
-        <span id="closestColor3"></span>
-        <br>
-        <input type="text" id="color4" placeholder="#FFFF00" oninput="updateColors(1)">
-        <input type="range" id="weight4" min="0" max="100" value="25" oninput="updateColors(1)">
-        <span id="closestColor4"></span>
+        <div class="picker-wrapper">
+            <input type="color" id="pick1" class="color-picker-sq" oninput="syncPickerToText(1, 1)">
+            <input type="text" id="color1" placeholder="yellow" oninput="updateColors(1); syncTextToPicker(1)">
+            <input type="range" id="weight1" min="0" max="100" value="25" oninput="updateColors(1)">
+            <span id="closestColor1"></span>
+        </div><br>
+        
+        <div class="picker-wrapper">
+            <input type="color" id="pick2" class="color-picker-sq" oninput="syncPickerToText(2, 1)">
+            <input type="text" id="color2" placeholder="#00FF00" oninput="updateColors(1); syncTextToPicker(2)">
+            <input type="range" id="weight2" min="0" max="100" value="25" oninput="updateColors(1)">
+            <span id="closestColor2"></span>
+        </div><br>
+
+        <div class="picker-wrapper">
+            <input type="color" id="pick3" class="color-picker-sq" oninput="syncPickerToText(3, 1)">
+            <input type="text" id="color3" placeholder="#0000FF" oninput="updateColors(1); syncTextToPicker(3)">
+            <input type="range" id="weight3" min="0" max="100" value="25" oninput="updateColors(1)">
+            <span id="closestColor3"></span>
+        </div><br>
+
+        <div class="picker-wrapper">
+            <input type="color" id="pick4" class="color-picker-sq" oninput="syncPickerToText(4, 1)">
+            <input type="text" id="color4" placeholder="#FFFF00" oninput="updateColors(1); syncTextToPicker(4)">
+            <input type="range" id="weight4" min="0" max="100" value="25" oninput="updateColors(1)">
+            <span id="closestColor4"></span>
+        </div>
     </div>
 
     <div class="grid" id="results1"></div>
@@ -112,21 +151,33 @@
     <h2>Mixer 2</h2>
 
     <div>
-        <input type="text" id="color5" placeholder="#FF0000" oninput="updateColors(2)">
-        <input type="range" id="weight5" min="0" max="100" value="25" oninput="updateColors(2)">
-        <span id="closestColor5"></span>
-        <br>
-        <input type="text" id="color6" placeholder="#00FF00" oninput="updateColors(2)">
-        <input type="range" id="weight6" min="0" max="100" value="25" oninput="updateColors(2)">
-        <span id="closestColor6"></span>
-        <br>
-        <input type="text" id="color7" placeholder="#0000FF" oninput="updateColors(2)">
-        <input type="range" id="weight7" min="0" max="100" value="25" oninput="updateColors(2)">
-        <span id="closestColor7"></span>
-        <br>
-        <input type="text" id="color8" placeholder="#FFFF00" oninput="updateColors(2)">
-        <input type="range" id="weight8" min="0" max="100" value="25" oninput="updateColors(2)">
-        <span id="closestColor8"></span>
+        <div class="picker-wrapper">
+            <input type="color" id="pick5" class="color-picker-sq" oninput="syncPickerToText(5, 2)">
+            <input type="text" id="color5" placeholder="#FF0000" oninput="updateColors(2); syncTextToPicker(5)">
+            <input type="range" id="weight5" min="0" max="100" value="25" oninput="updateColors(2)">
+            <span id="closestColor5"></span>
+        </div><br>
+
+        <div class="picker-wrapper">
+            <input type="color" id="pick6" class="color-picker-sq" oninput="syncPickerToText(6, 2)">
+            <input type="text" id="color6" placeholder="#00FF00" oninput="updateColors(2); syncTextToPicker(6)">
+            <input type="range" id="weight6" min="0" max="100" value="25" oninput="updateColors(2)">
+            <span id="closestColor6"></span>
+        </div><br>
+
+        <div class="picker-wrapper">
+            <input type="color" id="pick7" class="color-picker-sq" oninput="syncPickerToText(7, 2)">
+            <input type="text" id="color7" placeholder="#0000FF" oninput="updateColors(2); syncTextToPicker(7)">
+            <input type="range" id="weight7" min="0" max="100" value="25" oninput="updateColors(2)">
+            <span id="closestColor7"></span>
+        </div><br>
+
+        <div class="picker-wrapper">
+            <input type="color" id="pick8" class="color-picker-sq" oninput="syncPickerToText(8, 2)">
+            <input type="text" id="color8" placeholder="#FFFF00" oninput="updateColors(2); syncTextToPicker(8)">
+            <input type="range" id="weight8" min="0" max="100" value="25" oninput="updateColors(2)">
+            <span id="closestColor8"></span>
+        </div>
     </div>
 
     <div class="grid" id="results2"></div>
@@ -152,6 +203,27 @@
     <script>
         // NOTE: colorfromHex, RGBAToHex, getClosestNamedColor, and namedWebColors are assumed to be loaded from colorConversion.js
 
+        // --- NEW SYNC LOGIC ---
+        function syncPickerToText(id, mixerNum) {
+            const picker = document.getElementById(`pick${id}`);
+            const textInput = document.getElementById(`color${id}`);
+            textInput.value = picker.value.toUpperCase();
+            updateColors(mixerNum);
+        }
+
+        function syncTextToPicker(id) {
+            const picker = document.getElementById(`pick${id}`);
+            const textInput = document.getElementById(`color${id}`);
+            // Use your existing parseColor to handle names like "red"
+            const rgba = parseColor(textInput.value);
+            if (rgba) {
+                // <input type="color"> requires 7-character hex (#RRGGBB)
+                const hex = RGBAToHex({r: rgba.r, g: rgba.g, b: rgba.b, a: 255}).substring(0, 7);
+                picker.value = hex;
+            }
+        }
+        // ----------------------
+        
         // --- HSL Conversion for Dominant Color Bias ---
         function RGBToHSL(r, g, b) {
             r /= 255; g /= 255; b /= 255;
@@ -178,7 +250,7 @@
 
         function parseColor(input) {
             const colorHex = namedWebColors[input.toLowerCase()] || input;
-            return colorfromHex(colorHex);
+            try { return colorfromHex(colorHex); } catch(e) { return null; }
         }
 
         function blendColors(colors, weights) {
@@ -269,6 +341,7 @@
 		}
 		
 		function colorName(rgba) {
+      if(!rgba) return '';
 			const closestColorName = getClosestNamedColor(rgba);
 			if(closestColorName == '') return '';
 			const closestColorHex = namedWebColors[closestColorName];
@@ -278,31 +351,37 @@
 		}
 
         function updateColors(mixer) {
-			const colorInputs = [
-                document.getElementById(`color${1 + (mixer - 1) * 4}`).value,
-                document.getElementById(`color${2 + (mixer - 1) * 4}`).value,
-                document.getElementById(`color${3 + (mixer - 1) * 4}`).value,
-                document.getElementById(`color${4 + (mixer - 1) * 4}`).value
+            const startIdx = 1 + (mixer - 1) * 4;
+            const colorInputs = [
+                document.getElementById(`color${startIdx}`).value,
+                document.getElementById(`color${startIdx+1}`).value,
+                document.getElementById(`color${startIdx+2}`).value,
+                document.getElementById(`color${startIdx+3}`).value
             ];
 
             const weights = [
-                colorInputs[0] ? Number(document.getElementById(`weight${1 + (mixer - 1) * 4}`).value) : 0,
-                colorInputs[1] ? Number(document.getElementById(`weight${2 + (mixer - 1) * 4}`).value) : 0,
-                colorInputs[2] ? Number(document.getElementById(`weight${3 + (mixer - 1) * 4}`).value) : 0,
-                colorInputs[3] ? Number(document.getElementById(`weight${4 + (mixer - 1) * 4}`).value) : 0
+                colorInputs[0] ? Number(document.getElementById(`weight${startIdx}`).value) : 0,
+                colorInputs[1] ? Number(document.getElementById(`weight${startIdx+1}`).value) : 0,
+                colorInputs[2] ? Number(document.getElementById(`weight${startIdx+2}`).value) : 0,
+                colorInputs[3] ? Number(document.getElementById(`weight${startIdx+3}`).value) : 0
             ];
 
-            const parsedColors = colorInputs.map(parseColor).filter((_, index) => weights[index] > 0);
-            const filteredWeights = weights.filter(weight => weight > 0);
+            const parsedColors = colorInputs.map(parseColor).filter((c, index) => c && weights[index] > 0);
+            const filteredWeights = weights.filter((w, index) => colorInputs[index] && w > 0);
             const results = document.getElementById(`results${mixer}`);
             results.innerHTML = '';
 
-            if (parsedColors.length === 0) {
-				 colorInputs.forEach((input, index) => {
-                    document.getElementById(`closestColor${index + 1 + (mixer - 1) * 4}`).textContent = '';
-				});
-                return; // No colors to blend
-            }
+            colorInputs.forEach((input, index) => {
+                const displayIdx = index + startIdx;
+                if (input) {
+                    const color = parseColor(input);
+                    document.getElementById(`closestColor${displayIdx}`).textContent = `${colorName(color)}`;
+                } else {
+                    document.getElementById(`closestColor${displayIdx}`).textContent = '';
+                }
+            });
+
+            if (parsedColors.length === 0) return;
 
             const blendedColor = blendColors(parsedColors, filteredWeights);
 
@@ -315,15 +394,6 @@
                     </div>
                 `;
             }
-
-            colorInputs.forEach((input, index) => {
-                if (input) {
-                    const color = parseColor(input);
-                    document.getElementById(`closestColor${index + 1 + (mixer - 1) * 4}`).textContent = `${colorName(color)}`;
-                } else {
-                    document.getElementById(`closestColor${index + 1 + (mixer - 1) * 4}`).textContent = '';
-                }
-            });
 
             addColorBox(blendedColor, `Blended`);
             addColorBox(invertColor(blendedColor), `Inverse`);
@@ -369,7 +439,6 @@
         const ctx = canvas.getContext('2d');
         const dropArea = document.getElementById('image-drop-area');
         const imageUpload = document.getElementById('image-upload');
-        let dominantColors = [];
         const PIXEL_COLOR_CONTAINER = document.getElementById('pixel-color-container');
         const DOMINANT_COLORS_CONTAINER = document.getElementById('dominant-colors-container');
 
@@ -643,6 +712,8 @@
 
         // Initial call to populate mixers
         document.addEventListener('DOMContentLoaded', () => {
+             // Sync pickers to initial placeholder or values
+             for(let i=1; i<=8; i++) syncTextToPicker(i);
              updateColors(1);
              updateColors(2);
         });
