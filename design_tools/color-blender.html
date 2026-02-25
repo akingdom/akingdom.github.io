@@ -192,6 +192,13 @@
             <input type="file" id="image-upload" accept="image/*" style="display: none;">
         </div>
         
+        <div style="margin: 20px 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
+            <label for="numColorsRange" style="font-weight: bold;">Dominant Colors:</label>
+            <input type="range" id="numColorsRange" min="1" max="32" value="8" 
+                   style="width: 150px;" oninput="updateDominantCount()">
+            <span id="numColorsValue" style="font-weight: bold; color: #007bff;"></span>
+        </div>
+        
         <div class="grid">
             <div id="pixel-color-container">
                 </div>
@@ -441,7 +448,9 @@
         const imageUpload = document.getElementById('image-upload');
         const PIXEL_COLOR_CONTAINER = document.getElementById('pixel-color-container');
         const DOMINANT_COLORS_CONTAINER = document.getElementById('dominant-colors-container');
+        const transparentColor = colorfromHex("00000000");
 
+        let minDominantColours = -1;
 
         // 1. Image Loading (File Upload, Drag & Drop, Paste)
         dropArea.addEventListener('click', (e) => {
@@ -531,7 +540,7 @@
 
                 ctx.drawImage(img, x_offset, y_offset, targetWidth, targetHeight);
                 dropArea.querySelector('p').style.display = 'none';
-                findDominantColors();
+                updateDominantCount();
             };
             img.onerror = () => {
                 alert("Error loading image. Ensure it's a valid image file and not from a cross-origin source without CORS headers.");
@@ -544,12 +553,14 @@
         // 2. Pixel Color Picker
 
         canvas.addEventListener('click', getPixelColor);
+        PIXEL_COLOR_CONTAINER.innerHTML = createColorBoxHTML(transparentColor, 'Pixel Color');
 
         function getPixelColor(e) {
             const rect = canvas.getBoundingClientRect();
             const x = e.clientX - rect.left;
             const y = e.clientY - rect.top;
             
+            let color = transparentColor;
             PIXEL_COLOR_CONTAINER.innerHTML = '';
             
             try {
@@ -563,22 +574,24 @@
                 const g = pixel[1];
                 const b = pixel[2];
 
-                const color = {r, g, b, a: pixel[3]};
+                const newColor = {r, g, b, a: pixel[3]};
                 
-                const hex = RGBAToHex(color);
+                const hex = RGBAToHex(newColor);
                 
                 // --- NEW CODE: Automatically copy the hex code to clipboard ---
                 copyToClipboard(hex, 0); 
                 // -----------------------------------------------------------------
                 
                 // Use the existing addColorBox style for display
-                const colorBoxHTML = createColorBoxHTML(color, 'Pixel Color');
-                PIXEL_COLOR_CONTAINER.innerHTML = colorBoxHTML;
+                color = newColor;
                 
             } catch (error) {
                  console.error(error);
                  alert("Cannot read pixel data. The canvas is likely tainted by a cross-origin image.");
             }
+            
+            const colorBoxHTML = createColorBoxHTML(color, 'Pixel Color');
+            PIXEL_COLOR_CONTAINER.innerHTML = colorBoxHTML;
         }
         
         function createColorBoxHTML(color, label) {
@@ -605,7 +618,7 @@
                 const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
                 const data = imageData.data;
                 const step = 4; // Sample every 4th pixel 
-                const binSize = 16; 
+                const binSize = 64; 
                 const colorMap = {}; 
 
                 for (let i = 0; i < data.length; i += 4 * step) {
@@ -673,7 +686,7 @@
                     .filter(bin => bin.count > 1) 
                     .sort((a, b) => b.biasedScore - a.biasedScore);
 
-                const numColors = Math.min(4, sortedBinsByScore.length);
+                const numColors = Math.min(minDominantColours, sortedBinsByScore.length);
                 
                 // Step 2: Take the top N colors, and re-sort them for presentation
                 let finalDominantColors = sortedBinsByScore.slice(0, numColors);
@@ -710,6 +723,17 @@
             }
         }
 
+        function updateDominantCount() {
+            const val = document.getElementById('numColorsRange').value || 0;
+            minDominantColours = parseInt(val);
+            document.getElementById('numColorsValue').textContent = val;
+            
+            // Only trigger if an image has actually been loaded to the canvas
+            const pElement = document.querySelector('#image-drop-area p');
+            if (pElement && pElement.style.display === 'none') {
+                findDominantColors();
+            }
+        }
         // Initial call to populate mixers
         document.addEventListener('DOMContentLoaded', () => {
              // Sync pickers to initial placeholder or values
