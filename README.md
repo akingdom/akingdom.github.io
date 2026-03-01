@@ -261,6 +261,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Peace, Integrity, and Evidence](https://akingdom.github.io/articles/Peace_Integrity_and_Evidence) A Structural Analysis of How Worldviews Shape Human and Systemic Reliability.
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
+	- **Read more**: [Local web server app coordination](https://akingdom.github.io/articles/Unified_Local_Orchestration_Architecture.md) - Unified Local Orchestration Architecture
 	- **Read more**: *See 'AI' above*
 - **History and Language:** Delving into archaeology, etymology, genealogy, and more. I'm currently learning modern Greek and enjoy foreign films and shows.
 	- **Read more**: [Words and their meanings](https://akingdom.github.io/articles/etymology) (Etymology)
