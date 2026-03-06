@@ -18,7 +18,7 @@
 
 In Mercia (in the English midlands), the old women sometimes used the saying:
 
-**“A goose will lead where kings cannot.”**
+**“A goose may wend where a King must wait.”**
 
 To some, this sounded like foolish village talk. Yet in the reign of King Henry the first of England, not long after the Norman conquest, there lived a young woman who proved the saying strangely true.
 
@@ -98,23 +98,29 @@ Harold studied her face, then nodded.
 
 ## The King’s Frustration
 
-That same morning, in the hunting lodge at Rockingham, King Henry was in poor temper, nursing his cup.
+The early hunt had gone ill, but Queen Matilda's mind was on farther shores, her expression a mirror of some anxiety.
 
-Queen Matilda stood beside him speaking firmly.
+“Young Godfrey must marry well,” she insisted. “Perhaps a maid of Normandy? It would quiet the restless spirits across the sea.”
 
-“Young Godfrey must marry well,” she insisted. “The houses of Normandy and Anjou both propose suitable matches.”
+Henry snorted.
 
-Henry groaned.
+“A pack of wolves would be sweeter in temperament and less likely to bite the hand that feeds them."
 
-“I would sooner negotiate with a pack of wolves.”
+The queen sighed, mildly chaffed.
 
-“This is not a jest.”
+“The boy needs a name of some gravity to anchor his place in this world. This is no time for lightness of heart.”
 
-“It is never a jest with you, my dear.”
+Henry turned back to his wine.
 
-The court pretended not to hear the discussion, for the queen held the boy in high regard, despite old stains on his birth. Of the king's several sons, Godfrey bore such scorn with a quiet grace, learnt in the king's own hall. The queen was determined to bind the boy to a powerful family, to strengthen the Norman cause in England.
+“It is never a jest with you, my dear.” 
 
-The king had heard enough and slammed his cup down.
+The court pretended not to hear the discussion, for the queen held that king's son in high regard, despite old whispers about his legitimacy. Indeed, of the king's several sons, Godfrey FitzRoy bore such scorn with a quiet grace, learnt in the king's own hall. 
+
+The queen leant over to the king and lowered her voice. 
+
+"I hear that Count Fulk of Anjou wishes to solidify his new rank with a sweetness of peace through marriage. He stresses the urgency, my lord. If you do not sow this seed today, lest the Saxon lords see your son as merely a sad shadow."
+
+The king had heard enough and slammed his cup down impatiently.
 
 “Very well! If marriage must be decided today, then let fate decide it!”
 
@@ -122,9 +128,9 @@ He gestured toward the hall doors.
 
 “The next pure maid who enters through that door shall marry the boy, noble or milkmaid!”
 
-The Queen stared at him. 
+The Queen stared at him, her face pale.
 
-“You cannot possibly mean that.”
+“You cannot possibly mean to cast his life so blindly to the winds.”
 
 Henry waved dismissively, as if swatting a fly.
 
@@ -176,7 +182,7 @@ Henry burst into laughter.
 
 “Well! At last a lively hunt!”
 
-He lunged and caught the goose just as it snapped at the secretary.
+He lunged and caught the goose just as it snapped at the secretary's rear end.
 
 At the sound of Goosie's distressed squawking, Beatrice burst into the hall, long hair flying and uncovered.
 
@@ -186,17 +192,17 @@ The king blinked.
 
 “Your goose?”
 
-Beatrice suddenly remembered whose hall she had entered, her heart hammering against her ribs. She instinctively flung up both hands, her unadorned palms outward, to show everyone that she was a peaceful petitioner and curtsied low.
+Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller. All eyes turned toward her as she curtsied low. Drawing courage in the silence, she spoke.
 
 “She was meant for your table, sire… but if it please you, spare her.”
 
-Henry chuckled, his eyes glinting with a curious sort of merriment. It was novel for a petitioner to plead for a bird’s life while her own head was at such risk.
+Henry chuckled, his eyes glinting with a curious merriment. It was a novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
 
-“Spare the goose, you say? She has earned mercy from my knife, for she has already graced my table after such sport.”
+“Spare the goose, you say? She has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
 
 He leaned forward, studying her with amused wonder.
 
-“And tell me, who are you and whose daughter?”
+“And tell me, who are you, and whose daughter?”
 
 The girl blushed a little, but held her ground with head held high.
 
@@ -230,23 +236,23 @@ Beatrice caught the knight's eye and offered a quick, sharp smile before dipping
 
 As Beatrice left, the queen turned hesitantly to the king.
 
-“My lord, surely you were jesting earlier...”
+“My lord, surely your jest was but a passing breath...”
 
 Henry frowned at his wife.
 
 “Is my lady unwell?”
 
-The secretary stepped forward nervously.
+Nervously, the secretary stepped forward to intervene.
 
-“Your Majesty, I believe the queen refers to your royal oath that the next eligible maiden entering the hall should wed Lord Godfrey.”
+“Your Majesty, I believe the queen refers to your royal oath that the next eligible maiden entering the hall should wed Master Godfrey.”
 
 The king's grin returned with a dangerous sort of mischief.
 
 "It seems, Matilda, that the Heavens have a sense of humour. And they have sent us a Red-Wolf's daughter."
 
-The queen seemed pale.
+The queen grew pale.
 
-“My lord, that girl is a peasant.”
+“My lord, consider what sorrow of reputation a peasant will bring your son.”
 
 The king shrugged.
 
@@ -306,7 +312,7 @@ An old woman nearby nodded knowingly.
 
 “Aye,” she said.
 
-“Did I never tell you? In Mercia they say a goose will lead where kings cannot.”
+“Did I never tell you? In Mercia they say a goose may wend where a King must wait."
 
 And so it did.
 
