@@ -210,7 +210,7 @@ The King leaned forward, studying her with amused wonder.
 
 The girl blushed a little, but held her ground with head held high.
 
-“My lord, I am Beatrice, daughter of Harold Red-Wolf of *Stan-Way*, not five miles from here. He sends apology for not renewing friendship in person, for he is become old.”
+“My lord, I am Beatrice, daughter of Harold Red-Wolf of Stanwey, not five miles from here. He sends apology for not renewing friendship in person, for he is become old.”
 
 The king’s eyebrows shot up.
 
@@ -333,6 +333,7 @@ And so it did.
 ---
 
 *   Rockingham Forest & Purveyance: In the 1100s, Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. Purveyance was the dreaded royal right to seize food and transport from locals to support the travelling court.
+*   Stanwey: Though made up, the name refers to the Roman roads common in Rockingham area. *Stan* means stone and Wey (or Way) means a thoroughfare, a road.
 *   The King’s Brother (Robert Curthose): Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "sodden toad" historically biting.
 *   Prince Godfrey (The "Natural" Son): King Henry I is famously credited with fathering the most illegitimate children of any English monarch (over 20). While the "Lord Godfrey" of this story is fictional, Henry frequently used his "natural" children to build political bridges and reward loyal families.
 *   The Saxon Thegn: Harold "Red-Wolf" represents the Thegns, the pre-Conquest Saxon nobility. While many lost their lands to Norman lords, some were kept on as foresters or local officials because of their deep knowledge of the terrain and their martial skill.
