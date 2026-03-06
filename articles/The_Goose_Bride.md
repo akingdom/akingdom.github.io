@@ -10,7 +10,7 @@
                 -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
                 mask-image: linear-gradient(to bottom, black 80%, transparent 100%);">
         
-        <img src="goose_bride_image_9bee9768.png" 
+        <img src="goose_bride_image_9bee9768-ed.png" 
              alt="The She-Wolf's Daughter at the Court of King Henry I" 
              style="width: 100%; height: auto; display: block;">
     </div>
