@@ -281,7 +281,8 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Story Writing](https://akingdom.github.io/articles/AK_on_writing)
 		- **Read more**: [Writing Tips & Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen)
 		- **Read more**: [Micro Story Writing](https://akingdom.github.io/articles/microstorywriting)
-		- **Read more**: [Micro Story Sample](https://akingdom.github.io/articles/microstory-The_unsafe_saddle)
+		- **Read more**: [The Unsafe Saddle](https://akingdom.github.io/articles/microstory-The_unsafe_saddle) Micro Story Sample
+		- **Read more**: [The Goose Bride](https://akingdom.github.io/articles/The_Goose_Bride) A Mediaeval Tale
 	- **Read more**: [Software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 		- **Read more**: [Talking Clock](https://akingdom.github.io/talking_clock)
 		- **Read more**: [Match Blocks](https://akingdom.github.io/matchblox)
