@@ -22,7 +22,7 @@ In Mercia (in the English midlands), the old women sometimes used the saying:
 
 To some, this sounded like foolish village talk. Yet in the reign of King Henry the first of England, not long after the Norman conquest, there lived a young woman who proved the saying strangely true.
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Red-Wolf’s Daughter
 
@@ -44,7 +44,7 @@ The bird followed her everywhere.
 
 She called it **Goosie**.
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## The King’s Demand
 
@@ -94,7 +94,7 @@ Harold studied her face, then nodded.
 
 “Very well. But remember whose hall you enter.”
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## The King’s Frustration
 
@@ -136,7 +136,7 @@ Henry waved dismissively, as if swatting a fly.
 
 “If the Heavens wish him wed, they shall provide the woman. Elsewise let us hope the halls stay empty to let me drink in peace.”
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## Sir Guy’s Spite
 
@@ -160,7 +160,7 @@ Beatrice stumbled.
 
 The basket flew open.
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Goose Hunt
 
@@ -200,7 +200,7 @@ Henry chuckled, his eyes glinting with a curious merriment. It was a novelty for
 
 “Spare the goose, you say? She has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Red‑Wolf’s Daughter
 
@@ -240,7 +240,7 @@ It seemed that the King missed very little in his court.
 
 Beatrice caught the knight's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Queen Remembers the Vow
 
@@ -280,7 +280,7 @@ Then he decisively proclaimed before the court:
 
 “My son, Godfrey, shall marry the daughter of Harold Red-Wolf.”
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## A Courtship No One Expected
 
@@ -300,7 +300,7 @@ Godfrey discovered he liked this very much. Though he was not the handsomest of 
 
 And so it was that with time, after some initial suspicion, even Goosie accepted him.
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Goose Bride
 
@@ -326,7 +326,7 @@ An old woman nearby nodded knowingly.
 
 And so it did.
 
-![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ---
 ## Historical Footnotes
