@@ -342,10 +342,210 @@ And so it did.
 *   The Lamprey Legend: Henry I was famously fond of lampreys (eel-like jawless vertebrates). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
 *   Queen Matilda’s Secret Heritage: Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen’s eventual "softening" toward Beatrice carries a deeper historical weight—she was, in a sense, welcoming another "She-Wolf" into the royal fold.
 
+---
 
 
+# **Teacher & Parent Notes**  
+**Recommended Age Range:** *8–12 years*
 
-Η Χήνα Νύφη (The Goose Bride - In Greek — from an earlier edition)
+*The Goose Bride* is a short medieval tale suitable for independent readers in upper primary and early secondary years. Its language, themes, and humour are accessible to children around ten, while still offering enough richness for older readers to enjoy. Younger children (7–8) can follow it easily when read aloud.
+
+---
+
+## **Themes to Explore**
+These themes appear naturally in the story and lend themselves to discussion:
+
+- **Kindness & Mercy**  
+  Beatrice pleads for the life of a goose meant for the king’s table.
+
+- **Courage & Integrity**  
+  A young girl enters a royal hall alone, speaks honestly, and stands her ground.
+
+- **Justice & Fair Leadership**  
+  King Henry rewards humility, corrects arrogance, and notices more than his court expects.
+
+- **Memory, Gratitude & Community**  
+  The king remembers an old debt to Beatrice’s father and honours it.
+
+- **Humility vs Pride**  
+  Beatrice’s modesty contrasts with Sir Guy’s idleness and entitlement.
+
+---
+
+## **Discussion Questions**
+Use these to prompt reflection, conversation, or written responses:
+
+1. Why does Beatrice risk entering the king’s hall?  
+2. What does the goose chase reveal about King Henry’s character?  
+3. How does Henry treat Beatrice differently from Sir Guy?  
+4. What makes Beatrice brave?  
+5. Why does the king value her father’s past actions so highly?  
+6. What qualities make a good leader in this story?  
+7. How does humour help soften tense or formal situations?
+
+---
+
+## **Historical & Cultural Notes (Child‑Friendly)**
+These points help young readers understand the medieval setting:
+
+- **Showing empty hands** was a traditional sign of peaceful intent.  
+- **Royal halls** were public spaces where people brought petitions to the king.  
+- **Lineage and reputation** mattered greatly in medieval society.  
+- **Lampreys** were a favourite royal delicacy.  
+- **Nicknames** like “Red‑Wolf” or “she‑wolf” often reflected personality, deeds, or family history.
+
+---
+
+## **Vocabulary to Notice**  
+These words may be new to some readers but are easy to explain:
+
+- **sire** — a respectful way to address a king  
+- **curtsy** — a bow made by women or girls  
+- **thegn** — a nobleman or landholder in early medieval England  
+- **purveyance** — the king’s right to take goods for royal use  
+- **wimple** — a cloth head‑covering worn by medieval women  
+
+(These can be included in a short glossary if desired.)
+
+---
+
+## **Creative Extension Ideas**
+These activities help deepen engagement:
+
+- **Write a letter** from Beatrice to her father describing her day at court.  
+- **Draw the goose chase** in the king’s hall.  
+- **Retell the river‑rescue** from Hrathulfr’s point of view.  
+- **Invent a new medieval insult** Henry might use (e.g., “sodden worm”).  
+- **Create a map** showing Stan‑Way, the Severn, and the king’s hall.
+
+---
+
+Below is the **full set of chapter‑by‑chapter student questions**, crafted for ages 8–12, with a mix of:
+
+- ✔ straightforward comprehension  
+- ✔ inference  
+- ✔ emotional intelligence  
+- ✔ creative thinking  
+- ✔ one optional “challenge question” per chapter  
+
+---
+
+# **STUDENT QUESTIONS BY CHAPTER**  
+*(For ages 8–12, with optional challenge questions)*
+
+---
+
+## **Chapter 1 — The Red‑Wolf’s Daughter**
+1. Why does Beatrice’s father send her to the king instead of going himself?  
+2. How does Beatrice feel about her task, and what clues show this?  
+3. What does the nickname “Red‑Wolf” suggest about her father?  
+4. Why is Beatrice determined to complete her errand?  
+5. Creative: Draw or describe what you imagine Stan‑Way looks like.
+
+**Challenge:**  
+Why might the king remember the Red‑Wolf even if many years have passed?
+
+---
+
+## **Chapter 2 — The King’s Demand**
+1. What does the king want from the people of Stan‑Way?  
+2. How do the villagers react to the king’s order?  
+3. Why is Beatrice troubled by the king’s demand?  
+4. What does this chapter show about the king’s personality?  
+5. Creative: If you were in Beatrice’s place, what would you do?
+
+**Challenge:**  
+Is the king being unfair, or is he acting as a medieval king normally would? Explain your reasoning.
+
+---
+
+## **Chapter 3 — The King’s Frustration**
+1. Why is the king angry in this chapter?  
+2. How does the queen try to calm or advise him?  
+3. What does this scene reveal about their relationship?  
+4. Why does the king feel trapped by his own vow?  
+5. Creative: Write one sentence of dialogue the queen *might* have said but didn’t.
+
+**Challenge:**  
+Why is a vow so difficult for a medieval king to break, even if it causes trouble?
+
+---
+
+## **Chapter 4 — Sir Guy’s Spite**
+1. What does Sir Guy do that shows his spiteful nature?  
+2. How does Beatrice respond to his behaviour?  
+3. What does this chapter reveal about the difference between Beatrice and Sir Guy?  
+4. Why might Sir Guy feel threatened by Beatrice?  
+5. Creative: Describe Sir Guy using an animal metaphor (e.g., “as sly as…”).
+
+**Challenge:**  
+Is Sir Guy’s behaviour caused by pride, jealousy, or fear? Defend your answer.
+
+---
+
+## **Chapter 5 — The Goose Hunt**
+1. What causes chaos in the king’s hall?  
+2. How does the king react to the goose’s behaviour?  
+3. What does Beatrice do when she enters the hall?  
+4. Why is she afraid, and what helps her find courage?  
+5. Creative: Draw or describe the goose chase in the hall.
+
+**Challenge:**  
+Why does the king spare the goose? Is it mercy, amusement, or something deeper?
+
+---
+
+## **Chapter 6 — The Red‑Wolf’s Daughter (Hall Scene)**
+1. How does the king recognise Beatrice’s father?  
+2. What story does Henry remember about his brother?  
+3. Why does Henry decide to visit the Red‑Wolf?  
+4. What does the king’s treatment of Sir Guy reveal about leadership?  
+5. Creative: Write a short speech Henry might give when he visits Stan‑Way.
+
+**Challenge:**  
+Why does Henry value the Red‑Wolf’s old deed more than Sir Guy’s present service?
+
+---
+
+## **Chapter 7 — The Queen Remembers the Vow**
+1. What vow does the queen remember?  
+2. Why does the vow cause trouble now?  
+3. How does the queen feel about the king’s promise?  
+4. What does this chapter show about royal responsibility?  
+5. Creative: Write a diary entry from the queen’s point of view.
+
+**Challenge:**  
+Is the queen more concerned with honour, politics, or her son’s future? Explain.
+
+---
+
+## **Chapter 8 — A Courtship No One Expected**
+1. How does Godfrey react to meeting Beatrice?  
+2. What surprises the court about their interaction?  
+3. How does Beatrice behave during the courtship?  
+4. What does this chapter reveal about Godfrey’s character?  
+5. Creative: Imagine a short conversation between Beatrice and Godfrey after the feast.
+
+**Challenge:**  
+Why might Beatrice be a better match for Godfrey than the noble brides the queen prefers?
+
+---
+
+## **Chapter 9 — The Goose Bride**
+1. How does the story resolve the king’s vow?  
+2. What happens to Beatrice and Godfrey at the end?  
+3. How does the goose play a role in the final outcome?  
+4. What lesson does the king learn?  
+5. Creative: Write a one‑sentence moral for the story.
+
+**Challenge:**  
+What is the true “gift” Beatrice brings to the royal family — and why is it more valuable than gold or tribute?
+
+---
+
+
+---------------------------------------------
+# Η Χήνα Νύφη (The Goose Bride - In Greek — from an earlier edition)
 ---------------------------------------------
 Στα αγγλικά μέσα της χώρας, σε εκείνη τη γη που κάποτε ονομαζόταν Μερκία (τώρα τα Μίντλαντς), ζούσε μια νεαρή γυναίκα ονόματι Βεατρίκη. Τα μάτια της έλαμπαν σαν το καλοκαιρινό ουρανό και τα μαλλιά της ήταν άγρια και ξανθά σαν ανεμοδαρμένο λιβάδι. Μοναδική συντροφιά της ήταν ο πατέρας της, ο Χάρολντ, ένας γηρασμένος βετεράνος πολέμου. Οι ένδοξες μέρες του είχαν πια επισκιαστεί από την κακή υγεία και τα τσουχτερά κρύα του χειμώνα που τον πονούσαν στα κόκαλα, τουλάχιστον έτσι έλεγε στους παλιούς του φίλους όταν τον επισκέπτονταν.
 
