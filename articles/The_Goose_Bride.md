@@ -3,7 +3,7 @@
 <div style="text-align: center; margin: 20px 0;">
     <img src="goose_bride_image_9bee9768.png" 
          alt="The She-Wolf's Daughter at the Court of King Henry I" 
-         style="max-width: 85%; height: auto; border: 4px double #4a3728; padding: 5px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
+         style="max-width: 85%; height: auto; border: 4px double #4a3728; padding: 5px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); margin-bottom: 1rem;">
 </div>
 
 Old women in Mercia sometimes said:
