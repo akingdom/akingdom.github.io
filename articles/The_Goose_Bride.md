@@ -200,7 +200,11 @@ Henry chuckled, his eyes glinting with a curious merriment. It was a novelty for
 
 “Spare the goose, you say? She has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
 
-He leaned forward, studying her with amused wonder.
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+
+## The Red‑Wolf’s Daughter
+
+The King leaned forward, studying her with amused wonder.
 
 “And tell me, who are you, and whose daughter?”
 
