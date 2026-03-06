@@ -16,13 +16,11 @@
     </div>
 </div>
 
-In Mercia (in the English midlands), the old women sometimes said:
+In Mercia (in the English midlands), the old women sometimes used the saying:
 
 **“A goose will lead where kings cannot.”**
 
-Few people paid much heed to such saying. It sounded like the sort of foolish wisdom that grows in villages the way moss grows on old stone walls.
-
-Yet in the reign of King Henry, not long after the Norman conquest of England, there lived a young woman who proved the saying strangely true.
+To some, this sounded like foolish village talk. Yet in the reign of King Henry, not long after the Norman conquest of England, there lived a young woman who proved the saying strangely true.
 
 ---
 
