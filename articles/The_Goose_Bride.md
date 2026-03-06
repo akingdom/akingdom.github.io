@@ -22,7 +22,7 @@ In Mercia (in the English midlands), the old women sometimes used the saying:
 
 To some, this sounded like foolish village talk. Yet in the reign of King Henry the first of England, not long after the Norman conquest, there lived a young woman who proved the saying strangely true.
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Red-Wolf’s Daughter
 
@@ -44,7 +44,7 @@ The bird followed her everywhere.
 
 She called it **Goosie**.
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## The King’s Demand
 
@@ -94,7 +94,7 @@ Harold studied her face, then nodded.
 
 “Very well. But remember whose hall you enter.”
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## The King’s Frustration
 
@@ -136,7 +136,7 @@ Henry waved dismissively, as if swatting a fly.
 
 “If the Heavens wish him wed, they shall provide the woman. Elsewise let us hope the halls stay empty to let me drink in peace.”
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## Sir Guy’s Spite
 
@@ -160,7 +160,7 @@ Beatrice stumbled.
 
 The basket flew open.
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Goose Hunt
 
@@ -230,7 +230,7 @@ Sir Guy was still leaning by the door, goblet in his hand. The King’s eyes nar
 
 Beatrice caught the knight's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Queen Remembers the Vow
 
@@ -270,7 +270,7 @@ Then he decisively proclaimed before the court:
 
 “My son, Lord Godfrey, shall marry the daughter of Harold Red-Wolf.”
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## A Courtship No One Expected
 
@@ -290,7 +290,7 @@ Godfrey discovered he liked this very much. Though he was not the handsomest of 
 
 And so it was that with time, after some initial suspicion, even Goosie accepted him.
 
----
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## The Goose Bride
 
@@ -316,10 +316,11 @@ An old woman nearby nodded knowingly.
 
 And so it did.
 
+![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
+
 ---
-
-
 ## Historical Footnotes
+---
 
 *   Rockingham Forest & Purveyance: In the 1100s, Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. Purveyance was the dreaded royal right to seize food and transport from locals to support the travelling court.
 *   The King’s Brother (Robert Curthose): Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "bottom-feeding" historically biting.
@@ -394,4 +395,4 @@ And so it did.
 
 (Τέλος καλό, όλα καλά! -  All's well that ends well!)
 
-(C) 2024 Andrew Kingdom all rights reserved. Licensed to 'Greek Fairy Tales'. May be reproduced for educational use.
+(C) 2024-2026 Andrew Kingdom all rights reserved. Licensed to 'Greek Fairy Tales'. May be reproduced for educational use.
