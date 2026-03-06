@@ -106,7 +106,7 @@ Henry snorted.
 
 “A pack of wolves would be sweeter in temperament and less likely to bite the hand that feeds them."
 
-The queen sighed, mildly chaffed.
+The queen sighed, mildly chafed.
 
 “The boy needs a name of some gravity to anchor his place in this world. This is no time for lightness of heart.”
 
@@ -206,27 +206,33 @@ He leaned forward, studying her with amused wonder.
 
 The girl blushed a little, but held her ground with head held high.
 
-“My lord, I am Beatrice, daughter of Harold Red-Wolf of *Stan-Way**, not five miles from here. He sends apology for not renewing friendship in person, for he is become old.”
+“My lord, I am Beatrice, daughter of Harold Red-Wolf of *Stan-Way*, not five miles from here. He sends apology for not renewing friendship in person, for he is become old.”
 
 The king’s eyebrows shot up.
 
 “Hrathulfr?”
 
-He roared with laugher in sudden recognition.
+He tilted his head as a distant memory stirred.
 
-“No wonder, for you are a she-wolf yourself! I recall it now! My father the King gave your father a purse of silver for his damp trouble and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit. My brother Robert was ever more a bottom-feeder than a prince, and would have stayed on the riverbed had the Red-Wolf not hauled him to the bank.”
+“Not the same man who pulled my brother from the Severn?”
 
 Beatrice brightened.
 
-“He often tells that story, sire. He says the King’s brother was heavier than any salmon he ever netted.”
+“The very one, sire. He often tells how the King’s brother was heavier than any salmon he ever netted.”
 
-The King chuckled.
+He roared with excited laughter in sudden recognition.
 
-“Well then,” said the king, “tell him I shall visit him next week to hear him tell it anew… and return his goose besides.”
+“Ha! Then it all returns to me! My father the King gave your father a purse of silver for his damp trouble, and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit instead. My brother Robert was ever more a sodden worm than a lord, and would have stayed on the riverbed had the Red‑Wolf not hauled him to the bank.”
 
-Sir Guy was still leaning by the door, goblet in his hand. The King’s eyes narrowed, having missed little in his court.
+He looked at her and shook his head. 
+
+"Well, aren't you a fine she-wolf! Do not delay but go and tell your father that I shall visit him next week to hear him tell it anew… and return his goose besides and a larder to boot.”
+
+As Beatrice turned to leave, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
 
 “And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a basket, a knight of my guard can surely find some honest work to do before sunset.”
+
+It seemed that the King missed very little in his court. 
 
 Beatrice caught the knight's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
 
@@ -268,13 +274,13 @@ He called aside his youngest son.
 
 Then he decisively proclaimed before the court:
 
-“My son, Lord Godfrey, shall marry the daughter of Harold Red-Wolf.”
+“My son, Godfrey, shall marry the daughter of Harold Red-Wolf.”
 
 ![Goose Emblem](Goose_Bride-goosemark-cut_small.png) 
 
 ## A Courtship No One Expected
 
-Prince Godfrey obeyed his father. 
+Godfrey obeyed his father. 
 
 At first he visited Harold’s cottage only to honour the king’s command.
 
@@ -323,12 +329,12 @@ And so it did.
 ---
 
 *   Rockingham Forest & Purveyance: In the 1100s, Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. Purveyance was the dreaded royal right to seize food and transport from locals to support the travelling court.
-*   The King’s Brother (Robert Curthose): Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "bottom-feeding" historically biting.
+*   The King’s Brother (Robert Curthose): Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "sodden toad" historically biting.
 *   Prince Godfrey (The "Natural" Son): King Henry I is famously credited with fathering the most illegitimate children of any English monarch (over 20). While the "Lord Godfrey" of this story is fictional, Henry frequently used his "natural" children to build political bridges and reward loyal families.
 *   The Saxon Thegn: Harold "Red-Wolf" represents the Thegns, the pre-Conquest Saxon nobility. While many lost their lands to Norman lords, some were kept on as foresters or local officials because of their deep knowledge of the terrain and their martial skill.
 *   The "Peaceful Petitioner" Gesture: The act of raising both palms (ostentatio manuum) was a recognised legal and social gesture. It proved the petitioner was unarmed and was a common posture for those seeking mercy or making a formal request of a superior.
 *   Maidenly Modesty (Hair and Rings): In the 12th century, loose, uncovered hair was the primary signifier of an unmarried maiden. Once married, a woman was socially and religiously required to wear a wimple or veil. Similarly, the absence of a ring or band on the hand and by naming her father's household, it is all clear enough that she is still under her father's "_mund__" (legal protection/guardianship). If she were married, she would have introduced herself as "Wife of [Name]" or "Of the household of [Name]." 
-*   The Lamprey Legend: Henry I was famously fond of lampreys (eel-like fish). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
+*   The Lamprey Legend: Henry I was famously fond of lampreys (eel-like jawless vertebrates). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
 *   Queen Matilda’s Secret Heritage: Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen’s eventual "softening" toward Beatrice carries a deeper historical weight—she was, in a sense, welcoming another "She-Wolf" into the royal fold.
 
 
