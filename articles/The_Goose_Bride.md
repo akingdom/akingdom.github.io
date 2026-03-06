@@ -1,9 +1,19 @@
 # The Goose Bride
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="goose_bride_image_9bee9768.png" 
-         alt="The She-Wolf's Daughter at the Court of King Henry I" 
-         style="max-width: 85%; height: auto; border: 4px double #4a3728; padding: 5px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); margin-bottom: 1rem;">
+    <div style="display: inline-block; 
+                max-width: 85%; 
+                border: 4px double #4a3728; 
+                padding: 5px; 
+                box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+                /* The Mask creates the fade effect */
+                -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+                mask-image: linear-gradient(to bottom, black 80%, transparent 100%);">
+        
+        <img src="goose_bride_image_9bee9768.png" 
+             alt="The She-Wolf's Daughter at the Court of King Henry I" 
+             style="width: 100%; height: auto; display: block;">
+    </div>
 </div>
 
 Old women in Mercia sometimes said:
