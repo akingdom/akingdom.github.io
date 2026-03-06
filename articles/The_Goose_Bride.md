@@ -1,64 +1,321 @@
-The Goose Bride
----------------
+# The Goose Bride
 
-In the English midlands, in the land that used to be known as Mercia, there once lived a certain young woman, named Beatrice, whose eyes were the colour of a summer sky and hair as wild as a windswept meadow. She lived alone with her father, Harold, an ageing war veteran, whose past glories were now overshadowed by ill health and the winter gnawed hard on his bones, or so he told his old friends when they visited. 
+Old women in Mercia sometimes said:
 
-On this particular day, there was a visitor, a messenger who announced that the king would be hunting nearby, demanding a tribute of two feathered arrows and a fowl for his table. Beatrice looked fearfully at her father, because Goosie (a plump white goose which she had raised by hand), was their only fowl fit for a king’s larder. It was Beatrice's beloved companion, and tears welled up in her eyes as her father made a difficult decision. "This is our duty, daughter," he rasped, his voice heavy with regret (for the goose laid many an egg).
+**“A goose will lead where kings cannot.”**
 
-Beatrice understood, yet, her free spirit couldn't bear the thought of her pet goose dying. “Who is he to demand our dear Goosie!? Haven’t you done enough, Father? I’d like to give that king a piece of my mind.”
+Few people paid much attention to the saying. It sounded like the sort of foolish wisdom that grows in villages the way moss grows on old stone walls.
 
-Her father’s reply was typically sage advice: “A crown is a heavy weight to carry, Beatrice. A king is to serve the realm, and so demands must be fulfilled, even if they seem harsh. Though he is a man like any other, he has few friends he can trust and his life can be a burden as much as a privilege. So, let me take the goose tomorrow myself.”
+Yet in the reign of King Henry, not long after the Norman conquest of England, there lived a young woman who proved the saying strangely true.
 
-Beatrice was indignant. “No, Father, You need your rest. Let Wilfred (their neighbour) take it, or…” With a daring plan forming in her mind, she announced, "If I may, Father, I might take it."
+Her name was Beatrice.
 
-So it was agreed and the next morning, Beatrice set off with the very much alive goose tucked under her arm, its nervous honks echoing through the village. The king's lodgings bustled with activity. Guards stood at attention, while cooks scurried about the scullery with preparations. Beatrice, clutching the goose tighter, approached the bustling staff and inquired about delivering the "fowl."
+---
 
-Meanwhile, inside, the king and queen were on their latest round of what he called ‘vigorous discussions’ (more a difference of opinion than an argument). The queen preferred life in the towns and cities, while the king loved nothing more than endless hunting in the countryside. The queen loved the intelligent and beautiful wives she had chosen for the elder two princes, but the king believed them to be overly hungry for power and riches.
+## The Red-Wolf’s Daughter
 
-The queen had long set her sights on finding a match for her remaining son, Godfrey, though he was not as good-looking or quick witted as his elder brothers. The king, in a fit of frustration with endless discussions on the topic, exclaimed to her (a good deal more loudly than he intended), “Madam, the next eligible maiden who walks through these doors shall be your son’s bride!” 
+Beatrice lived with her father Harold in a small holding among the wooded hills of the Midlands.
 
-Fortunately for all, the king’s bad humours were soon broken by the noisy entrance of a large white goose flapping into the room and scurry about, chased by a secretary and several guards. The king burst into laughter at the sight, joining in and finally catching hold of the loudly protesting goose himself, just in time to keep it from biting the secretary.
+In earlier days Harold had been known as **Red-Wolf**, a Saxon thegn who fought in the wars that followed the Conquest. He had ridden with kings, crossed blades with rebels, and once dragged a drowning Norman lord, the king's own brother, from a river crossing.
+
+But battles fade, and wounds grow stiff in the winter.
+
+Now Harold was an old man with iron-grey hair and aching bones. His sword hung above the hearth more as memory than weapon.
+
+His daughter kept the household.
+
+She had bright eyes, quick wit, and a habit of speaking her thoughts aloud before deciding whether she ought to.
+
+Her closest companion was a large white goose she had raised from a gosling.
+
+The bird followed her everywhere.
+
+She called it **Goosie**.
+
+---
+
+## The King’s Demand
+
+One autumn morning a royal messenger rode into the village.
+
+“The king hunts in Rockingham Forest,” he announced.
+
+Whenever the king travelled, villages were expected to provide **purveyance**: food and supplies for the royal household. Rockingham was his forest, and the king’s forest had its own laws. A man might lose a hand for taking the king’s deer, yet a king might take from a man without apology.
+
+“This holding shall give two feathered arrows and a fowl for His Majesty’s table.”
+
+Beatrice immediately looked at the goose.
+
+The goose looked back.
+
+Harold sighed.
+
+“It must be done, daughter.”
+
+Beatrice’s eyes filled with tears.
+
+“But Goosie—”
+
+“A crown is a heavy thing,” Harold said gently. “Kings must take much, for much is laid upon them.”
+
+Beatrice folded her arms.
+
+“I should like to tell this king what I think of that.”
+
+Harold laughed softly.
+
+“You may keep that thought to yourself.”
+
+He reached for his cloak.
+
+“I will take the tribute tomorrow.”
+
+Beatrice shook her head.
+
+“You should not walk that far in the cold, father.”
+
+After a moment she said quietly:
+
+“I will take it.”
+
+Harold studied her face, then nodded.
+
+“Very well. But remember whose hall you enter.”
+
+---
+
+## The King’s Frustration
+
+That same morning, in the hunting lodge at Rockingham, King Henry was in poor temper, nursing his cup.
+
+Queen Matilda stood beside him speaking firmly.
+
+“Young Godfrey must marry well,” she insisted. “The houses of Normandy and Anjou both propose suitable matches.”
+
+Henry groaned.
+
+“I would sooner negotiate with a pack of wolves.”
+
+“This is not a jest.”
+
+“It is never a jest with you, my dear.”
+
+The court pretended not to hear the discussion, for the queen held the boy in high regard, despite old stains on his birth. Of the king's several sons, Godfrey bore such scorn with a quiet grace, learnt in the king's own hall. The queen was determined to bind the boy to a powerful family, to strengthen the Norman cause in England.
+
+The king had heard enough and slammed his cup down.
+
+“Very well! If marriage must be decided today, then let fate decide it!”
+
+He gestured toward the hall doors.
+
+“The next pure maid who enters through that door shall marry the boy, noble or milkmaid!”
+
+The Queen stared at him. 
+
+“You cannot possibly mean that.”
+
+Henry waved dismissively, as if swatting a fly.
+
+“If the Heavens wish him wed, they shall provide the woman. Elsewise let us hope the halls stay empty to let me drink in peace.”
+
+---
+
+## Sir Guy’s Spite
+
+Beatrice reached the hunting lodge by midday.
+
+The place swarmed with soldiers and servants.
+
+As she entered the hall carrying the basket, a young Norman knight lounging near the doorway recognised her.
+
+**Sir Guy de Montfort.**
+
+Months earlier he had tried to charm her at a market fair. Beatrice had laughed and told him she preferred men who worked for their supper.
+
+He had not forgotten the insult.
+
+Seeing her now in the royal hall amused him.
+
+As she walked past, he extended one boot slightly.
+
+Beatrice stumbled.
+
+The basket flew open.
+
+---
+
+## The Goose Hunt
+
+Goosie exploded from the basket in a fury of wings.
+
+Servants shouted.
+
+A secretary dropped his parchments.
+
+The goose darted across the hall like a feathered arrow.
+
+Someone muttered:
+
+“My troth! A goose in the king’s hall.”
+
+The bird leapt onto the king’s table.
+
+Henry burst into laughter.
+
+“Well! At last a lively hunt!”
+
+He lunged and caught the goose just as it snapped at the secretary.
+
+At the sound of Goosie's distressed squawking, Beatrice burst into the hall, long hair flying and uncovered.
 
 “Please don’t hurt Goosie!”
 
-The king blinked and looked about for the source of the unfamiliar voice. Eventually he saw a young woman looking up at him in much trepidation. The king raised his eyebrows. “Your goose?”
+The king blinked.
 
-“Yes, sir. I mean no, sir. I mean it’s a gift from my father to you (along with two arrows, sir), but please don’t eat Goosie.”
+“Your goose?”
 
-The king chuckled. “Well, Goosie has given me the best hunt of the day… but who’s your father?”
+Beatrice suddenly remembered whose hall she had entered, her heart hammering against her ribs. She instinctively flung up both hands, her unadorned palms outward, to show everyone that she was a peaceful petitioner and curtsied low.
 
-“He is called Harold Red-Wolf, sir.”
+“She was meant for your table, sire… but if it please you, spare her.”
 
-“Old Hrath·ulfr! He fought under my father, a good man, that. His land is near?”
+Henry chuckled, his eyes glinting with a curious sort of merriment. It was novel for a petitioner to plead for a bird’s life while her own head was at such risk.
 
-“Yes, sir, but seven miles east of here. He gives apology not to come himself owing to his poor health.”
+“Spare the goose, you say? She has earned mercy from my knife, for she has already graced my table after such sport.”
 
-“Well, you may tell him that next week I shall visit him myself. I gift him a goose.”
+He leaned forward, studying her with amused wonder.
 
-“Oh, thank you, sir. It means much to me. I will tell him.”
+“And tell me, who are you and whose daughter?”
 
-As the girl and goose departed, the queen turned urgently to the king. “You weren’t serious, I hope.”
+The girl blushed a little, but held her ground with head held high.
 
-“About what? A visit?”
+“My lord, I am Beatrice, daughter of Harold Red-Wolf of *Stan-Way**, not five miles from here. He sends apology for not renewing friendship in person, for he is become old.”
 
-The queen looked at him sharply. “I won’t have some wild goose girl for a daughter-in-law.”
+The king’s eyebrows shot up.
 
-The king chuckled. “Secretary. What did I say earlier?”
+“Hrathulfr?”
 
-The secretary looked nervously at the queen. He knew the king’s earlier words were said in haste, without much thought, mostly an expression of the king’s exasperation. “Your son shall marry whichever eligible young woman comes through the door next, sir.”
+He roared with laugher in sudden recognition.
 
-The king nodded and called for his son to go and escort the young lady safely home. The queen looked pale. “My lord, you cannot be serious. A commoner?” 
+“No wonder, for you are a she-wolf yourself! I recall it now! My father the King gave your father a purse of silver for his damp trouble and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit. My brother Robert was ever more a bottom-feeder than a prince, and would have stayed on the riverbed had the Red-Wolf not hauled him to the bank.”
 
-“I should rather marry him to the goose? Ha! It was first through the door, after all.” The king grinned. “Harold’s daughter comes from good bloodstock.”
+Beatrice brightened.
 
-The court was in shock, but a man of his word the king announced, “Prince Godfrey shall marry Harold Hrathulfr’s daughter.” 
+“He often tells that story, sire. He says the King’s brother was heavier than any salmon he ever netted.”
 
-As for the young prince and Beatrice, though surprised, after spending some time together (the prince’s visits became regular) the two were pleased to marry. In short time, the queen forgave the king, occasionally cheering him up by saying that it was a good thing they had no more sons or she might end up with a goose in the family.
+The King chuckled.
 
--End-
+“Well then,” said the king, “tell him I shall visit him next week to hear him tell it anew… and return his goose besides.”
+
+Sir Guy was still leaning by the door, goblet in his hand. The King’s eyes narrowed, having missed little in his court.
+
+“And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a basket, a knight of my guard can surely find some honest work to do before sunset.”
+
+Beatrice caught the knight's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
+
+---
+
+## The Queen Remembers the Vow
+
+As Beatrice left, the queen turned hesitantly to the king.
+
+“My lord, surely you were jesting earlier...”
+
+Henry frowned at his wife.
+
+“Is my lady unwell?”
+
+The secretary stepped forward nervously.
+
+“Your Majesty, I believe the queen refers to your royal oath that the next eligible maiden entering the hall should wed Lord Godfrey.”
+
+The king's grin returned with a dangerous sort of mischief.
+
+"It seems, Matilda, that the Heavens have a sense of humour. And they have sent us a Red-Wolf's daughter."
+
+The queen seemed pale.
+
+“My lord, that girl is a peasant.”
+
+The king shrugged.
+
+“Would you rather the boy marry the goose? It arrived first.”
+
+Laughter rippled through the court.
+
+“And besides,” Henry added, “the daughter of Red-Wolf is good blood, even if Saxon.”
+
+He called aside his youngest son.
+
+“Godfrey, take a pair of riders and see the young lady safely home.”
+
+Then he decisively proclaimed before the court:
+
+“My son, Lord Godfrey, shall marry the daughter of Harold Red-Wolf.”
+
+---
+
+## A Courtship No One Expected
+
+Prince Godfrey obeyed his father. 
+
+At first he visited Harold’s cottage only to honour the king’s command.
+
+But he found Beatrice unlike the ladies of court.
+
+She spoke plainly.
+
+She laughed easily.
+
+She did not treat him as a prince, but as a man.
+
+Godfrey discovered he liked this very much. Though he was not the handsomest of the king’s sons, nor the cleverest, he possessed this rarer quality: he listened.
+
+And so it was that with time, after some initial suspicion, even Goosie accepted him.
+
+---
+
+## The Goose Bride
+
+Their wedding was held the following summer.
+
+Nobles came reluctantly at first, expecting scandal.
+
+Instead they found a bright-eyed bride who moved through the court with quiet confidence.
+
+Even the queen eventually softened and called it a good thing.
+
+And when the wedding procession left the chapel, a plump white goose waddled proudly ahead of them.
+
+Someone in the crowd chuckled.
+
+“Look there — the goose leads the bride.”
+
+An old woman nearby nodded knowingly.
+
+“Aye,” she said.
+
+“Did I never tell you? In Mercia they say a goose will lead where kings cannot.”
+
+And so it did.
+
+---
 
 
-Η Χήνα Νύφη (The Goose Bride - In Greek)
+## Historical Footnotes
+
+*   Rockingham Forest & Purveyance: In the 1100s, Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. Purveyance was the dreaded royal right to seize food and transport from locals to support the travelling court.
+*   The King’s Brother (Robert Curthose): Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "bottom-feeding" historically biting.
+*   Prince Godfrey (The "Natural" Son): King Henry I is famously credited with fathering the most illegitimate children of any English monarch (over 20). While the "Lord Godfrey" of this story is fictional, Henry frequently used his "natural" children to build political bridges and reward loyal families.
+*   The Saxon Thegn: Harold "Red-Wolf" represents the Thegns, the pre-Conquest Saxon nobility. While many lost their lands to Norman lords, some were kept on as foresters or local officials because of their deep knowledge of the terrain and their martial skill.
+*   The "Peaceful Petitioner" Gesture: The act of raising both palms (ostentatio manuum) was a recognised legal and social gesture. It proved the petitioner was unarmed and was a common posture for those seeking mercy or making a formal request of a superior.
+*   Maidenly Modesty (Hair and Rings): In the 12th century, loose, uncovered hair was the primary signifier of an unmarried maiden. Once married, a woman was socially and religiously required to wear a wimple or veil. Similarly, the absence of a ring or band on the hand and by naming her father's household, it is all clear enough that she is still under her father's "_mund__" (legal protection/guardianship). If she were married, she would have introduced herself as "Wife of [Name]" or "Of the household of [Name]." 
+*   The Lamprey Legend: Henry I was famously fond of lampreys (eel-like fish). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
+*   Queen Matilda’s Secret Heritage: Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen’s eventual "softening" toward Beatrice carries a deeper historical weight—she was, in a sense, welcoming another "She-Wolf" into the royal fold.
+
+
+
+
+Η Χήνα Νύφη (The Goose Bride - In Greek — from an earlier edition)
 ---------------------------------------------
 Στα αγγλικά μέσα της χώρας, σε εκείνη τη γη που κάποτε ονομαζόταν Μερκία (τώρα τα Μίντλαντς), ζούσε μια νεαρή γυναίκα ονόματι Βεατρίκη. Τα μάτια της έλαμπαν σαν το καλοκαιρινό ουρανό και τα μαλλιά της ήταν άγρια και ξανθά σαν ανεμοδαρμένο λιβάδι. Μοναδική συντροφιά της ήταν ο πατέρας της, ο Χάρολντ, ένας γηρασμένος βετεράνος πολέμου. Οι ένδοξες μέρες του είχαν πια επισκιαστεί από την κακή υγεία και τα τσουχτερά κρύα του χειμώνα που τον πονούσαν στα κόκαλα, τουλάχιστον έτσι έλεγε στους παλιούς του φίλους όταν τον επισκέπτονταν.
 
