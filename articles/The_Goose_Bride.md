@@ -80,9 +80,52 @@
   font-size: 16px;
   cursor: pointer;
 }
+#voice-select {
+    padding: 8px 12px;
+    font-size: 16px;
+    border-radius: 6px;
+}
+
 </style><script>// text to speech (notoriouly finicky to get right)
 (function() {
     const synth = window.speechSynthesis;
+    let selectedVoice = null;
+
+    const voiceSelect = document.getElementById("voice-select");
+
+    function loadVoices() {
+        const voices = synth.getVoices();
+
+        // Clear existing
+        voiceSelect.innerHTML = "";
+
+        voices.forEach(v => {
+            const opt = document.createElement("option");
+            opt.value = v.name;
+            opt.textContent = `${v.name} (${v.lang})`;
+            voiceSelect.appendChild(opt);
+        });
+
+        // Restore saved voice if available
+        const saved = localStorage.getItem("preferredVoice");
+        if (saved && voices.some(v => v.name === saved)) {
+            voiceSelect.value = saved;
+            selectedVoice = voices.find(v => v.name === saved);
+        } else {
+            selectedVoice = voices[0];
+        }
+    }
+
+    // Voices load asynchronously in many browsers
+    synth.onvoiceschanged = loadVoices;
+    loadVoices();
+
+    // Persist selection
+    voiceSelect.addEventListener("change", () => {
+        localStorage.setItem("preferredVoice", voiceSelect.value);
+        selectedVoice = synth.getVoices().find(v => v.name === voiceSelect.value);
+    });
+
     let isPaused = false;
 
     // A helper to get the container safely
@@ -118,6 +161,9 @@
             } else {
                 synth.cancel();
                 const utterance = new SpeechSynthesisUtterance(getCleanText());
+
+                if (selectedVoice) utterance.voice = selectedVoice;
+
                 utterance.rate = 0.95;
                 
                 // Backup for standard-compliant browsers
@@ -148,6 +194,8 @@
 })();
 </script>
 <div class="audio-controls" id="audio-container">
+    <select id="voice-select"></select>
+
     <button id="play-btn" onclick="speechControl.play()">▶ Listen to this</button>
     <button id="pause-btn" onclick="speechControl.pause()">⏸ Pause</button>
     <button id="restart-btn" onclick="speechControl.restart()">🔄 Restart</button>
