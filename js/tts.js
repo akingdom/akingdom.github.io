@@ -6,6 +6,7 @@ window.versions={...(window.versions||{}), tts:'1.3.1'};
 // 1.2.0 - merged inline speechControl UI behaviour (play/pause container toggle)
 // 1.2.3 - bug fixes 
 // 1.3.1 - position tracking, bug fixes
+// 1.3.2 - bugfix - stop talking if page closes/hides
 (function() {
 
 const synth = window.speechSynthesis;
@@ -468,6 +469,20 @@ function init(options) {
   initVoiceSelector();
   attachSpeakButtonListener();
   attachToggleButtonListener();
+
+  // be nice to closing windows.
+  function cancelSpeech(){
+    if (window.speechSynthesis){
+      window.speechSynthesis.cancel();
+    }
+  }
+  window.addEventListener('pagehide', cancelSpeech);
+  window.addEventListener('beforeunload', cancelSpeech);
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) {
+      speechSynthesis.cancel();
+    }
+  });
 
   // Force browser to load voices early
   synth.getVoices();
