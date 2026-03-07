@@ -259,7 +259,7 @@ I have a wide range of interests that inform my work and approach:
 	- **Read more**: [Gifted People and Getting Things Done](https://akingdom.github.io/articles/Executive_Congestion)
 	- **Read more**: [The Bridge from Power to Peace (International Relations)](https://akingdom.github.io/articles/Power_vs_Peace-Beyond_Jurisdiction)
 	- **Read more**: [Peace, Integrity, and Evidence](https://akingdom.github.io/articles/Peace_Integrity_and_Evidence) A Structural Analysis of How Worldviews Shape Human and Systemic Reliability.
-- **Read more**: [The Architecture of Authority](https://akingdom.github.io/articles/Architecture_of_Authority-First‑Principles_Analysis_of_Governance) A First‑Principles Analysis of Governance
+	- **Read more**: [The Architecture of Authority](https://akingdom.github.io/articles/Architecture_of_Authority-First‑Principles_Analysis_of_Governance) A First‑Principles Analysis of Governance
 - **Technology**: From simple embedded computers to complex networks and systems, I’ve helped design and build solutions across the spectrum.
 	- **Read more**: [Programmable system design principles](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 	- **Read more**: [A standard way to coordinate local web apps](https://akingdom.github.io/articles/Unified_Local_Orchestration_Architecture) - Unified Local Orchestration Architecture
