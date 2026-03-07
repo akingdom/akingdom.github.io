@@ -148,7 +148,7 @@
 })();
 </script>
 <div class="audio-controls" id="audio-container">
-    <button id="play-btn" onclick="speechControl.play()">▶ Listen to this guide</button>
+    <button id="play-btn" onclick="speechControl.play()">▶ Listen to this</button>
     <button id="pause-btn" onclick="speechControl.pause()">⏸ Pause</button>
     <button id="restart-btn" onclick="speechControl.restart()">🔄 Restart</button>
 </div>
