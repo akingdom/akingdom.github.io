@@ -728,3 +728,12 @@ What is the true “gift” Beatrice brings to the royal family — and why is i
 (Τέλος καλό, όλα καλά! -  All's well that ends well!)
 
 (C) 2024-2026 Andrew Kingdom all rights reserved. Licensed to 'Greek Fairy Tales'. May be reproduced for educational use.
+
+
+---
+## READER Questions
+
+> How did she come to raise the goose herself?
+
+AK: *Regarding Goosie, Beatrice's late mother was actually the one that arranged for Beatrice to be there when Goosie hatched from an egg. Geese can live for up to 30 or more years. The King (I suspect) was mainly hoping for a good hunt; things were generally going well for Henry I in 1113, though he came to regret some of his decisions over the next decade; presumably his new daughter-in-law was not among those. :)*
+
