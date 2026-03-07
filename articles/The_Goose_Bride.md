@@ -217,7 +217,7 @@ Harold studied her face, then nodded.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## The King’s Decree
+## The King’s Frustration
 
 The early hunt had gone ill; the morning’s chase had been an unrewarding affair, leaving the King’s mood at lunchtime as grey as the North Sea. At the high table, Queen Matilda watched the hounds gnaw at marrow bones, her mind far from the hunt, her expression a mirror of some anxiety.
 
@@ -241,9 +241,13 @@ The Queen recoiled, the colour draining from her cheeks. “Nay, lord, I thought
 
 Henry’s eyes narrowed, brooding. “ My father was mocked as the Tanner’s Grandson by every ‘noble’ tongue in Paris. Did he wait for a Count’s blessing? No. He carved his legitimacy out of this earth with a blade blessed by God alone. We are kings because the Heavens moved the stars, not because the nobles permitted it.”
 
-He surged to his feet, his heavy wool cloak sweeping the rushes with a hiss.
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-“To those who mind themselves as noble, I say this: If my blood is ‘weak,’ no crown can help the boy. If it is ‘royal,’ no rags can hide it!”
+## The King's Decree
+
+The King jumped to his feet, his heavy wool cloak sweeping after him with a hiss.
+
+“To those who think themselves to be nobler than I, I say this: If my blood is ‘weak,’ no crown can help the boy. If it is ‘royal,’ no rags can hide it!”
 
 Roger of Salisbury, the King’s Justiciar, stepped from the shadows. He kept his head bowed, his tone placatory but fixed on the ledger. “My Lord King,” Roger murmured. “A marriage is a contract of the state. We must not let pride spoil the market. Why Sire, the boy is sure coin enough to buy us a decade of peace in Anjou.”
 
@@ -571,7 +575,7 @@ Below is the **full set of chapter‑by‑chapter student questions**, crafted f
 4. Why is Beatrice determined to complete her errand?  
 5. Creative: Draw or describe what you imagine Stan‑Way looks like.
 
-**Challenge:**  
+**Knight's Challenge:**  
 Why might the king remember the Red‑Wolf even if many years have passed?
 
 ---
@@ -583,12 +587,46 @@ Why might the king remember the Red‑Wolf even if many years have passed?
 4. What does this chapter show about the king’s personality?  
 5. Creative: If you were in Beatrice’s place, what would you do?
 
-**Challenge:**  
+**Knight's Challenge:**  
 Is the king being unfair, or is he acting as a medieval king normally would? Explain your reasoning.
 
 ---
 
-## **Chapter 3 — The King’s Decree**
+## **Chapter 3 — The King’s Frustration**
+1. Why is the King’s mood described as being "as grey as the North Sea" at the start of lunch?
+2. What kind of girl does the Queen want Godfrey to marry, and why does she think it will bring "peace"?
+3. Based on their conversation, do the King and Queen agree on how to handle the countries across the sea? Explain why.
+4. The Queen calls Godfrey a "sad shadow." Why does this insult make the King so defensive of his son?
+5. Creative: Write one sentence of dialogue the Queen might have said to try and calm the King down before he stood up.
+
+**Knight's Challenge:**
+Henry mentions his father was mocked as the "Tanner’s Grandson." Why is he proud that his father "carved his kingdom" without a noble's blessing?
+
+---
+
+## **Chapter 4 — The King’s Decree**
+1. What does the King mean when he says, "If my blood is ‘weak,’ no crown can help the boy. If it is ‘royal,’ no rags can hide it"?
+2. Why does the King get so annoyed when Roger of Salisbury refers to Godfrey as "coin enough" to buy peace?
+3. What are the three types of girls the King says could walk through the door?
+4. Why does the King feel he has to let "the Heavens" decide the marriage instead of choosing a bride himself?
+5. Creative: If you were standing behind the Great Hall doors and heard the King’s shout, would you be brave enough to walk in? Why or why not?
+
+**Knight's Challenge**:
+In the 1100s, a King’s word was a sacred oath. If he broke a public promise, he risked losing the respect of his knights. Why is his "next maid" vow more dangerous to him than just a regular argument?
+Logic
+
+Chapter 3 — The King’s Frustration
+Why is the king angry in this chapter?
+How does the queen try to calm or advise him?
+What does this scene reveal about their relationship?
+Why does the king feel trapped by his own vow?
+Creative: Write one sentence of dialogue the queen might have said but didn’t.
+Challenge:
+Why is a vow so difficult for a medieval king to break, even if it causes trouble?
+
+---
+
+## **Chapter 4 — The King’s Decree**
 1. Why is the king angry in this chapter?  
 2. How does the queen try to calm or advise him?  
 3. What does this scene reveal about their relationship?  
@@ -598,97 +636,78 @@ Is the king being unfair, or is he acting as a medieval king normally would? Exp
 **Challenge:**  
 Why is a vow so difficult for a medieval king to break, even if it causes trouble?
 
-1. Why is the king in such a bad mood at the start of the chapter?
-2. What kind of girl does the Queen want Godfrey to marry, and why?
-3. What does this scene reveal about the king and queen's relationship?  
-4. Why does the King get so annoyed when Roger calls Godfrey a "coin"?
-5. Creative: If you were standing at the door, would you be brave enough to walk in? Why or why not?
-**Challenge:**
-In the 1100s, a King’s word was a sacred vow. Why is his "next maid" vow so dangerous to him as a king?
-
-
-1. Why is the King in such a "grey" mood at the start of the lunch?
-2. How does the Queen try to use politics to change the King’s mind about Godfrey?
-3. What does the King mean when he says, "If my blood is ‘weak,’ no crown can help the boy. If it is ‘royal,’ no rags can hide it"?
-4. How does Roger the Justiciar’s comment about Godfrey being a "coin" actually make the situation worse?
-Creative: Write one sentence of dialogue the Queen might have whispered to Godfrey as the King stood up to make his vow.
-The Challenge (Historical Context):
-In the 1100s, a King’s word was considered a sacred oath before God. If he broke a public vow, he risked losing the "Divine Right" to rule and the respect of his knights. Why is this "gamble" more dangerous than just a regular argument?
-Henry’s eyes narrowed. “My father was mocked as the Tanner’s Grandson by every ‘noble’ tongue in Paris. Did he wait for their blessing? No. He carved his kingdom out of this earth with a blade blessed by God alone.”
-
 ---
 
-## **Chapter 4 — Sir Guy’s Spite**
+## **Chapter 5 — Sir Guy’s Spite**
 1. What does Sir Guy do that shows his spiteful nature?  
 2. How does Beatrice respond to his behaviour?  
 3. What does this chapter reveal about the difference between Beatrice and Sir Guy?  
 4. Why might Sir Guy feel threatened by Beatrice?  
 5. Creative: Describe Sir Guy using an animal metaphor (e.g., “as sly as…”).
 
-**Challenge:**  
+**Knight's Challenge:**  
 Is Sir Guy’s behaviour caused by pride, jealousy, or fear? Defend your answer.
 
 ---
 
-## **Chapter 5 — The Goose Hunt**
+## **Chapter 6 — The Goose Hunt**
 1. What causes chaos in the king’s hall?  
 2. How does the king react to the goose’s behaviour?  
 3. What does Beatrice do when she enters the hall?  
 4. Why is she afraid, and what helps her find courage?  
 5. Creative: Draw or describe the goose chase in the hall.
 
-**Challenge:**  
+**Knight's Challenge:**  
 Why does the king spare the goose? Is it mercy, amusement, or something deeper?
 
 ---
 
-## **Chapter 6 — The Red‑Wolf’s Daughter (Hall Scene)**
+## **Chapter 7 — The Red‑Wolf’s Daughter (Hall Scene)**
 1. How does the king recognise Beatrice’s father?  
 2. What story does Henry remember about his brother?  
 3. Why does Henry decide to visit the Red‑Wolf?  
 4. What does the king’s treatment of Sir Guy reveal about leadership?  
 5. Creative: Write a short speech Henry might give when he visits Stan‑Way.
 
-**Challenge:**  
+**Knight's Challenge:**  
 Why does Henry value the Red‑Wolf’s old deed more than Sir Guy’s present service?
 
 ---
 
-## **Chapter 7 — The Queen Remembers the Vow**
+## **Chapter 8 — The Queen Remembers the Vow**
 1. What vow does the queen remember?  
 2. Why does the vow cause trouble now?  
 3. How does the queen feel about the king’s promise?  
 4. What does this chapter show about royal responsibility?  
 5. Creative: Write a diary entry from the queen’s point of view.
 
-**Challenge:**  
+**Knight's Challenge:**  
 Is the queen more concerned with honour, politics, or her son’s future? Explain.
 
 ---
 
-## **Chapter 8 — A Courtship No One Expected**
+## **Chapter 9 — A Courtship No One Expected**
 1. How does Godfrey react to meeting Beatrice?  
 2. What surprises the court about their interaction?  
 3. How does Beatrice behave during the courtship?  
 4. What does this chapter reveal about Godfrey’s character?  
 5. Creative: Imagine a short conversation between Beatrice and Godfrey after the feast.
 
-**Challenge:**  
+**Knight's Challenge:**  
 Why might Beatrice be a better match for Godfrey than the noble brides the queen prefers?
 
 ---
 
-## **Chapter 9 — The Goose Bride**
+## **Chapter 10 — The Goose Bride**
 1. How does the story resolve the king’s vow?  
 2. What happens to Beatrice and Godfrey at the end?  
 3. How does the goose play a role in the final outcome?  
 4. What lesson does the king learn?  
 5. Creative: Write a one‑sentence moral for the story.
 
-**Challenge:**  
+**Knight's Challenge:**  
 What is the true “gift” Beatrice brings to the royal family — and why is it more valuable than gold or tribute?
 
----
 
 
 ---------------------------------------------
