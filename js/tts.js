@@ -1,259 +1,412 @@
 // tts.js
-window.versions={...(window.versions||{}), tts:'1.0.17'};
+window.versions={...(window.versions||{}), tts:'1.2.0'};
+
 // Text-to-speech, example usage included at end of this file.
+// 1.1.0 - updated with heartbeat monitoring and paused state tracking.
+// 1.2.0 - merged inline speechControl UI behaviour (play/pause container toggle)
 (function() {
-  let voices = [];
-  let config = {
-    speakButton: null,     // Element or selector for the speak button
-    toggleButton: null,    // Element or selector for the voice options toggle button
-    voiceSelector: null,   // Element or selector for the voice dropdown (optional)
-    textProvider: null,    // Function that returns the text to speak
-    isInitialized: false   // Flag to check if TTS is initialized
-  };
-  const storageKey = 'selectedVoiceLang';
-  let isPaused = false; // Track the pause state
 
-  // Helper to resolve a DOM element from a selector or element reference.
-  function resolveElement(el) {
-    return typeof el === 'string' ? document.querySelector(el) : el;
-  }
+const synth = window.speechSynthesis;
 
-  // Create a voice selector element if none is provided.
-  function createVoiceSelector() {
-    const selector = document.createElement('select');
-    selector.style.display = 'none'; // Hidden by default
-    selector.id = 'voiceSelector'; // Add an ID for easy selection (optional)
-    return selector;
-  }
+let voices = [];
+let currentUtterance = null;
 
-  // Populate the voice selector with available voices.
-  function populateVoiceSelector() {
-    voices = window.speechSynthesis.getVoices();
-    if (!config.voiceSelector) return;
-    config.voiceSelector.innerHTML = '';
+let config = {
+  speakButton: null,
+  toggleButton: null,
+  voiceSelector: null,
+  textProvider: null,
+  container: null, // 1.2.0 (for speaking CSS state)
+  isInitialized: false
+};
 
-    // Sort voices by language (primary), then by name (secondary)
-    voices.sort((a, b) => {
-      const langA = a.lang.toLowerCase();
-      const langB = b.lang.toLowerCase();
-      if (langA < langB) return -1;
-      if (langA > langB) return 1;
-      const nameA = a.name.toLowerCase();
-      const nameB = b.name.toLowerCase();
-      return nameA.localeCompare(nameB);
-    });
+const storageKey = 'selectedVoiceLang';
 
-    let selectedLanguage = localStorage.getItem(storageKey);
-    if (selectedLanguage && !voices.some(voice => voice.lang === selectedLanguage)) {
-      selectedLanguage = null; // Reset if stored language is not available
-    }
+let isPaused = false;
+let speaking = false;
 
-    // FAILS - Safari sets default voice to the first voice. Reminder: don't implement this.
-    // if (!selectedLanguage) {
-    //   const defaultVoice = voices.find(voice => voice.default);
-    //   if (defaultVoice) {
-    //     selectedLanguage = defaultVoice.lang;
-    //   }
-    // }
 
-    if (!selectedLanguage) {
-      const preferredLanguages = navigator.languages || [];
-      selectedLanguage = preferredLanguages.find(lang =>
-        voices.some(voice => voice.lang.startsWith(lang))
-      );
-    }
+/* ------------------------------
+   Helpers
+--------------------------------*/
 
-    if (!selectedLanguage) {
-      const browserLanguage = navigator.language;
-      if (voices.some(voice => voice.lang.startsWith(browserLanguage))) {
-        selectedLanguage = browserLanguage;
-      }
-    }
-
-    if (!selectedLanguage) {
-      selectedLanguage = 'en-GB';
-    }
-
-    let defaultIndex = -1;
-    voices.forEach((voice, index) => {
-      const option = document.createElement('option');
-      option.value = voice.lang;
-      option.textContent = `${voice.name} (${voice.lang})`;
-      config.voiceSelector.appendChild(option);
-      if (voice.lang === selectedLanguage && defaultIndex === -1) {
-        defaultIndex = index;
-      }
-    });
-
-    if (defaultIndex !== -1) {
-      config.voiceSelector.selectedIndex = defaultIndex;
-      localStorage.setItem(storageKey, selectedLanguage);
-    }
-  }
-
-  // Initialize the voice selector element.
-  function initVoiceSelector() {
-    // Resolve the element if a selector was passed.
-   config.voiceSelector = resolveElement(config.voiceSelector) || createVoiceSelector();
-    if (!config.voiceSelector.parentNode) {
-      document.body.appendChild(config.voiceSelector);
-    }
-
-    populateVoiceSelector();
-
-    config.voiceSelector.addEventListener('change', () => {
-      const selectedLang = config.voiceSelector.value;
-      localStorage.setItem(storageKey, selectedLang);
-    });
-
-    if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
-      speechSynthesis.onvoiceschanged = populateVoiceSelector;
-    }
-
-    config.isInitialized = true; // Mark TTS as initialized
+function resolveElement(el){
+  return typeof el === "string" ? document.querySelector(el) : el;
 }
 
-  // Speak the provided text using the selected voice.
-  function speak(text) {
-    if (!config.isInitialized) {
-      console.error('TTS system is not initialized.');
-      return;
+function getContainer(){ //1.2.0
+  return resolveElement(config.container) || document.getElementById("audio-container");
+}
+
+function setSpeakingUI(active){ //1.2.0
+  const container = getContainer();
+  if(!container) return;
+
+  if(active){
+    container.classList.add("speaking");
+  }else{
+    container.classList.remove("speaking");
+  }
+}
+
+function getVoicesSorted() {
+  const synth = window.speechSynthesis;
+  const voices = synth.getVoices();
+
+  voices.sort((a,b)=>{
+    const la=a.lang.toLowerCase();
+    const lb=b.lang.toLowerCase();
+    if(la!==lb) return la.localeCompare(lb);
+    return a.name.localeCompare(b.name);
+  });
+
+  return voices;
+}
+
+function selectPreferredLang(voices) {
+
+  let selectedLang = localStorage.getItem(storageKey);
+
+  if (selectedLang && !voices.some(v => v.lang === selectedLang)) {
+    selectedLang = null;
+  }
+
+  // FAILS - Safari sets default voice to the first voice ALWAYS. Reminder: don't implement this.
+  // if (!selectedLang) {
+  //   const defaultVoice = voices.find(voice => voice.default);
+  //   if (defaultVoice) {
+  //     selectedLang = defaultVoice.lang;
+  //   }
+  // }
+
+  if (!selectedLang) {
+    const preferredLanguages = navigator.languages || [];
+
+    selectedLang = preferredLanguages.find(lang =>
+      voices.some(v => v.lang.startsWith(lang))
+    );
+
+    if (!selectedLang) {
+      const browserLanguage = navigator.language;
+
+      if (voices.some(v => v.lang.startsWith(browserLanguage))) {
+        selectedLang = browserLanguage;
+      }
     }
-    if (!text) return;
-    window.speechSynthesis.cancel();
 
-    const utterance = new SpeechSynthesisUtterance(text);
-    const selectedLang = config.voiceSelector.value;
-    const selectedVoice = voices.find(voice => voice.lang === selectedLang);
-
-    if (selectedVoice) {
-      utterance.voice = selectedVoice;
-    } else {
-      console.error('No matching voice found.');
-      return;
-    }
-
-    utterance.rate = 1;
-    utterance.pitch = 1;
-    utterance.volume = 1;
-
-    window.speechSynthesis.speak(utterance);
-  }
-
-  // Attach listener to the speak button.
-  function attachSpeakButtonListener() {
-    const btn = resolveElement(config.speakButton);
-    if (btn && typeof config.textProvider === 'function') {
-      btn.addEventListener('click', () => {
-        const text = config.textProvider();
-        if (isPaused) {
-          window.speechSynthesis.cancel();
-          btn.textContent = 'Speak Content';
-          isPaused = false;
-        } else {
-          speak(text);
-          btn.textContent = 'Stop Speech';
-          isPaused = true;
-        }
-      });
+    if (!selectedLang) {
+      selectedLang = 'en-GB';
     }
   }
 
-  // Attach listener to the toggle button (to show/hide the voice selector).
-  function attachToggleButtonListener() {
-    const btn = resolveElement(config.toggleButton);
-    if (btn && config.voiceSelector) {
-      btn.addEventListener('click', () => {
-        config.voiceSelector.style.display = 
-          (config.voiceSelector.style.display === 'none' || config.voiceSelector.style.display === '')
-            ? 'block'
-            : 'none';
-      });
+  return selectedLang;
+}
+
+function getVoice() {
+
+  const voices = getVoicesSorted();
+
+  if(!voices.length) return null;
+
+  let selectedLang =
+    config.voiceSelector?.value ||
+    selectPreferredLang(voices);
+
+  const voice = voices.find(v => v.lang === selectedLang)
+    || voices.find(v => v.lang.startsWith(selectedLang))
+    || voices[0];
+
+  if(voice){
+    localStorage.setItem(storageKey, voice.lang);
+  }
+
+  return voice;
+}
+
+// Populate the voice selector with available voices.
+function populateVoiceSelector(){
+
+  const voices = getVoicesSorted();
+
+  if(!config.voiceSelector) return;
+
+  config.voiceSelector.innerHTML = "";
+
+  const preferredLang = selectPreferredLang(voices);
+
+  let defaultIndex = -1;
+
+  voices.forEach((voice, index)=>{
+
+    const option = document.createElement('option');
+    option.value = voice.lang;
+    option.textContent = `${voice.name} (${voice.lang})`;
+
+    if (voice.lang === preferredLang && defaultIndex === -1) {
+      defaultIndex = index;
     }
-  }
 
-  function show() {
-      const elements = [
-        resolveElement(config.speakButton),
-        resolveElement(config.toggleButton)
-//         ,resolveElement(config.voiceSelector)
-	  ];
-	elements.forEach((e) => {
-      if (e !== undefined) e.style.display = 'block';
-    });
-  }
+    config.voiceSelector.appendChild(option);
+  });
 
-  function hide() {
-      const elements = [
-        resolveElement(config.speakButton),
-        resolveElement(config.toggleButton),
-        resolveElement(config.voiceSelector)
-	  ];
-	elements.forEach((e) => {
-	  if(e !== undefined) e.style.display = 'none';
-    });
+  if(defaultIndex !== -1){
+    config.voiceSelector.selectedIndex = defaultIndex;
   }
-  
-  function noPreference() {
-    localStorage.removeItem(storageKey);
-    if (config.voiceSelector) {
-	config.voiceSelector.selectedIndex = -1;
-    }
-    initVoiceSelector(); // Re-trigger voice selection after clearing
-  }
+}
 
-  
-  // Expose the TTS object with init and speak functions.
-  window.TTS = {
-    /**
-     * Initialize TTS with configuration options.
-     * Options:
-     *   - speakButton: Element or selector for the speak button.
-     *   - toggleButton: Element or selector for the toggle button for voice options.
-     *   - voiceSelector: Element or selector for the voice dropdown (optional).
-     *   - textProvider: Function returning the text to speak.
-     */
-    init: function(options) {
-      config = Object.assign({}, config, options);
-      initVoiceSelector();
-      attachSpeakButtonListener();
-      attachToggleButtonListener();
-    },
-    speak: speak,
-    show: show,
-    hide: hide,
-    noPreference: noPreference
+// Create a voice selector element if none is provided.
+function createVoiceSelector() {
+  const selector = document.createElement('select');
+  selector.style.display = 'none'; // Hidden by default
+  selector.id = 'voiceSelector'; // Add an ID for easy selection (optional)
+  return selector;
+}
+
+/* ------------------------------
+   Speech Engine
+--------------------------------*/
+
+
+function speak(){
+
+  if (!config.isInitialized) { console.error('TTS system is not initialized.'); return; }
+
+  if(!config.textProvider) return;
+
+  const text = config.textProvider();
+
+  if(!text || !text.trim()) return;
+
+  synth.cancel();
+
+  currentUtterance = new SpeechSynthesisUtterance(text);
+
+  currentUtterance.rate = 0.95;
+  currentUtterance.pitch = 1;
+  currentUtterance.volume = 1;
+
+  const voice = getVoice();
+  if(voice) currentUtterance.voice = voice;
+
+  currentUtterance.onend = ()=>{
+    speaking=false;
+    isPaused=false;
+    setSpeakingUI(false);
   };
+
+  synth.speak(currentUtterance);
+
+  speaking=true;
+  isPaused=false;
+  setSpeakingUI(true);
+}
+
+function play(){
+
+  if(isPaused){
+    resume();
+    return;
+  }
+
+  speak();
+}
+
+function resume(){
+
+  if(synth.paused){
+    synth.resume();
+    isPaused=false;
+    speaking=true;
+    setSpeakingUI(true);
+  }
+}
+
+function pause(){
+
+  if(synth.speaking){
+    synth.pause();
+    isPaused=true;
+    speaking=false;
+    setSpeakingUI(false);
+  }
+}
+
+function restart(){
+
+  synth.cancel();
+  speaking=false;
+  isPaused=false;
+  setSpeakingUI(false);
+
+  speak();
+}
+
+
+/* ------------------------------
+   Heartbeat Monitor
+--------------------------------*/
+
+// Detect silent finish (Safari/Chrome bugs)
+setInterval(()=>{
+  if(!synth.speaking && !isPaused){
+    speaking=false;
+    setSpeakingUI(false);
+  }
+},300);
+
+
+/* ------------------------------
+   Button Wiring
+--------------------------------*/
+
+// Initialize the voice selector element.
+function initVoiceSelector() {
+
+ config.voiceSelector = resolveElement(config.voiceSelector) || createVoiceSelector();
+  if (!config.voiceSelector.parentNode) {
+    document.body.appendChild(config.voiceSelector);
+  }
+
+  populateVoiceSelector();
+
+  config.voiceSelector.addEventListener('change', () => {
+    const selectedLang = config.voiceSelector.value;
+    localStorage.setItem(storageKey, selectedLang);
+  });
+
+  if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
+    speechSynthesis.onvoiceschanged = populateVoiceSelector;
+  }
+
+  config.isInitialized = true;
+}
+
+// Attach listener to the speak button.
+function attachSpeakButtonListener() {
+  const btn = resolveElement(config.speakButton);
+
+  if (!btn) return;
+
+  btn.addEventListener("click", play);
+}
+
+// Attach listener to the toggle button (to show/hide the voice selector).
+function attachToggleButtonListener() {
+  const btn = resolveElement(config.toggleButton);
+  if (btn && config.voiceSelector) {
+    btn.addEventListener('click', () => {
+      config.voiceSelector.style.display =
+        (config.voiceSelector.style.display === 'none' || config.voiceSelector.style.display === '')
+          ? 'block'
+          : 'none';
+    });
+  }
+}
+
+function show() {
+    const elements = [
+      resolveElement(config.speakButton),
+      resolveElement(config.toggleButton)
+//         ,resolveElement(config.voiceSelector)
+  ];
+
+elements.forEach((e)=>{
+    if(e) e.style.display='block';
+});
+}
+
+function hide() {
+    const elements = [
+      resolveElement(config.speakButton),
+      resolveElement(config.toggleButton),
+      resolveElement(config.voiceSelector)
+  ];
+
+elements.forEach((e)=>{
+  if(e) e.style.display='none';
+});
+}
+
+function noPreference() {
+  localStorage.removeItem(storageKey);
+  if (config.voiceSelector) {
+    config.voiceSelector.selectedIndex = -1;
+  }
+  initVoiceSelector();
+}
+
+function init(options) {
+  config = Object.assign({}, config, options);
+
+  config.container = resolveElement(config.container);
+
+  initVoiceSelector();
+  attachSpeakButtonListener();
+  attachToggleButtonListener();
+}
+
+
+/* ------------------------------
+   Public API
+--------------------------------*/
+
+window.TTS = {
+  /**
+   * Initialize TTS with configuration options.
+   * Options:
+   *   - speakButton: Element or selector for the speak button.
+   *   - toggleButton: Element or selector for the toggle button for voice options.
+   *   - voiceSelector: Element or selector for the voice dropdown (optional).
+   *   - textProvider: Function returning the text to speak.
+   *   - container: Element or selector for the 
+   */
+  init: init,
+  speak: speak,
+  play: play,
+  pause: pause,
+  restart: restart,
+  show: show,
+  hide: hide,
+  noPreference: noPreference
+};
+
+/* Backwards compatibility with inline snippet */
+window.speechControl = {
+  play: play,
+  pause: pause,
+  restart: restart
+};
+
 })();
 
 /*
 // Example usage in your HTML:
 document.addEventListener('DOMContentLoaded', () => {  // Wait for the DOM to load
-    TTS.init({
-        speakButton: '#speakButton',
-        toggleButton: '#toggleVoiceSelector',
-        voiceSelector: '#voiceSelector', // If you have a pre-existing selector
-        textProvider: function () {
-            return document.getElementById('markdown-container').innerText;
-        }
-    });
+  TTS.init({
+      speakButton: '#speakButton',
+      toggleButton: '#toggleVoiceSelector',
+      voiceSelector: '#voiceSelector', // If you have a pre-existing selector
+      textProvider: function () {
+          return document.getElementById('markdown-container').innerText;
+      }
+  });
 
-    // Example of calling speak directly (e.g., after some event)
-    const someText = "This is some example text.";
-    const speakButton = document.getElementById("speakButton");
-    speakButton.addEventListener("click", () => {
-        TTS.speak(someText);
-    })
+  // Example of calling speak directly (e.g., after some event)
+  const someText = "This is some example text.";
+  const speakButton = document.getElementById("speakButton");
+  speakButton.addEventListener("click", () => {
+      TTS.speak(someText);
+  })
 
-    // Show/hide Example
-    const showButton = document.getElementById("showButton");
-    showButton.addEventListener("click", () => {
-        TTS.show();
-    })
-    const hideButton = document.getElementById("hideButton");
-    hideButton.addEventListener("click", () => {
-        TTS.hide();
-    })
+  // Show/hide Example
+  const showButton = document.getElementById("showButton");
+  showButton.addEventListener("click", () => {
+      TTS.show();
+  })
+  const hideButton = document.getElementById("hideButton");
+  hideButton.addEventListener("click", () => {
+      TTS.hide();
+  })
 
 });
 // Clear the default voice if desired for testing
