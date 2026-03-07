@@ -772,8 +772,17 @@ What is the true “gift” Beatrice brings to the royal family — and why is i
 
 (Τέλος καλό, όλα καλά! -  All's well that ends well!)
 
-(C) 2024-2026 Andrew Kingdom all rights reserved. Licensed to 'Greek Fairy Tales'. May be reproduced for educational use.
+---
 
+## Blurb
+
+In the halls of Kings, fate is a feathered thing.
+
+England, 1113. Behind the heavy stone walls of Rockingham, King Henry I is losing his patience. Trapped between Queen Matilda’s negotiations with the House of Anjou and the restless spirits of a conquered land, the King issues a reckless, wine-soaked decree to silence his court: the very next maiden to walk through the hall doors shall marry his son, Godfrey FitzRoy—be she noble or milkmaid.
+
+They expect a lady of the court. They expects a political solution.
+
+Instead, the doors swing wide for Beatrice, the sharp-witted daughter of a fallen Saxon warrior known as the Red-Wolf. She hasn't come for a crown or a husband; she has come to save her prize goose from the King's table.
 
 ---
 ## READER Questions
@@ -782,3 +791,7 @@ What is the true “gift” Beatrice brings to the royal family — and why is i
 
 AK: *Regarding Goosie, Beatrice's late mother was actually the one that arranged for Beatrice to be there when Goosie hatched from an egg. Geese can live for up to 30 or more years. The King (I suspect) was mainly hoping for a good hunt; things were generally going well for Henry I in 1113, though he came to regret some of his decisions over the next decade; presumably his new daughter-in-law was not among those. :)*
 
+
+
+---
+(C) 2024-2026 Andrew Kingdom all rights reserved. Licensed to 'Greek Fairy Tales'. May be reproduced for educational use.
