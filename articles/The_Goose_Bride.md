@@ -147,7 +147,7 @@ To some, this sounded like foolish village talk. Yet in the reign of King Henry 
 
 ## The Red-Wolf’s Daughter
 
-Beatrice lived with her father in a timber-framed longhall among the wooded hills of the Midlands. 
+Beatrice lived with her father in a timber-framed longhall at **Stanwey**, among the wooded hills of the Midlands. 
 
 In earlier days Harold had been known as **Red-Wolf**, a Saxon thegn who fought in the wars that followed the Conquest. He had ridden with kings, crossed blades with rebels, and once dragged a drowning Norman lord, the king's own brother, from a river crossing.
 
@@ -169,7 +169,7 @@ She called it **Goosie**.
 
 ## The King’s Demand
 
-One autumn morning a royal messenger rode into the village.
+One autumn morning a royal messenger rode up to Harold's manor at Stanwey.
 
 “The king hunts in Rockingham Forest,” the messenger proclaimed, unrolling a small parchment *writ*. 
 
@@ -289,7 +289,7 @@ As she entered the hall, carrying the handmade basket and dusty from the journey
 
 **Sir Guy de Montfort.**
 
-Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the village elders shared ale by the bonfires, Sir Guy had cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
+Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the elders shared ale by the bonfires, Sir Guy had cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
 
 Insulted, Beatrice had politely begged to be excused, then to go and find her father.
 
