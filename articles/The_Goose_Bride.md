@@ -482,23 +482,8 @@ And so it did.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ---
-## Historical Footnotes
----
-
-*   Rockingham Forest & Purveyance: In the 1100s, Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. Purveyance was the dreaded royal right to seize food and transport from locals to support the travelling court.
-*   Stanwey: Though made up, the name refers to the Roman roads common in Rockingham area. *Stan* means stone and Wey (or Way) means a thoroughfare, a road.
-*   The King’s Brother (Robert Curthose): Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "sodden toad" historically biting.
-*   Prince Godfrey (The "Natural" Son): King Henry I is famously credited with fathering the most illegitimate children of any English monarch (over 20). While the "Lord Godfrey" of this story is fictional, Henry frequently used his "natural" children to build political bridges and reward loyal families.
-*   The Saxon Thegn: Harold "Red-Wolf" represents the Thegns, the pre-Conquest Saxon nobility. While many lost their lands to Norman lords, some were kept on as foresters or local officials because of their deep knowledge of the terrain and their martial skill.
-*   The "Peaceful Petitioner" Gesture: The act of raising both palms (ostentatio manuum) was a recognised legal and social gesture. It proved the petitioner was unarmed and was a common posture for those seeking mercy or making a formal request of a superior.
-*   Maidenly Modesty (Hair and Rings): In the 12th century, loose, uncovered hair was the primary signifier of an unmarried maiden. Once married, a woman was socially and religiously required to wear a wimple or veil. Similarly, the absence of a ring or band on the hand and by naming her father's household, it is all clear enough that she is still under her father's "_mund__" (legal protection/guardianship). If she were married, she would have introduced herself as "Wife of [Name]" or "Of the household of [Name]." 
-*   The Lamprey Legend: Henry I was famously fond of lampreys (eel-like jawless vertebrates). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
-*   Queen Matilda’s Secret Heritage: Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen’s eventual "softening" toward Beatrice carries a deeper historical weight—she was, in a sense, welcoming another "She-Wolf" into the royal fold.
-
----
-
-
 # **Teacher & Parent Notes**  
+---
 **Recommended Age Range:** *8–12 years*
 
 *The Goose Bride* is a short medieval tale suitable for independent readers in upper primary and early secondary years. Its language, themes, and humour are accessible to children around ten, while still offering enough richness for older readers to enjoy. Younger children (7–8) can follow it easily when read aloud.
@@ -740,32 +725,42 @@ This guide provides the historical "bones" for our story. It explains why Beatri
 In the 1100s, Beatrice and Harold don't live in a house—they live in a **Hall**.
 
 * **The Structure:** A timber-framed "longhall" with a central fire-pit. There are no chimneys; smoke escapes through a hole in the thatch roof.
+* **The Saxon Thegn:** Harold "Red-Wolf" represents the Thegns, the pre-Conquest Saxon nobility. While many lost their lands to Norman lords, some were kept on as foresters or local officials because of their deep knowledge of the terrain and their martial skill.
 * **The Status:** The Hall is the heart of the community. It’s where the **Manorial Court** is held and where villagers bring their "renders" (taxes paid in eggs, grain, or ale).
 * **The Upkeep:** The villagers (called **villeins**) owe Harold "boon-work." They are legally required to help repair his roof or stone walls.
 
-### 🌲 The Law: The King’s Forest
+### 🌲 The Law: The King’s Forest & Purveyance
 
 Stanwey is located within **Rockingham Forest**. In the 1100s, a "Forest" wasn't just trees; it was a legal zone where the King’s word was absolute.
 
+* **Rockingham Forest & Purveyance:** Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. **Purveyance** was the dreaded royal right to seize food and transport from locals to support the travelling court.
 * **Vert and Venison:** It was a crime to cut "green wood" or hunt the King’s deer. Even carrying a bow could lead to a massive fine.
 * **The "Lawed" Dog:** To protect the deer, any large dog kept for protection had to have three claws removed from its front feet (called "expediting") so it couldn't chase game.
-* **The Roman Road:** The **Gartree Road**—an ancient, straight, stone-paved Roman highway—is the main artery for messengers and charcoal-burners.
+* **The Roman Road (Stanwey):** The name Stanwey refers to the Roman roads common in the Rockingham area. *Stan* means stone and *Wey* (or Way) means a thoroughfare or road. The **Gartree Road**—an ancient, straight, stone-paved Roman highway—is the main artery for messengers and charcoal-burners.
 
-### ⚖️ The Crisis: Land and Lineage
+### ⚖️ Politics, Land and Lineage
 
-Harold is a **Saxon Thegn**, a member of the old English nobility now being pushed aside by the **Norman** conquerors.
+The legal landscape of the 1120s was defined by the struggle between the old Saxon ways and the new Norman rules.
 
 * **The Son-less Lord:** In Norman law, land is held in exchange for military service. Because Harold has no son to fight for him, his land is "vulnerable."
 * **The Ward of the Crown:** If Harold dies, the King has the legal right to choose Beatrice’s husband—usually a Norman knight who wants her land.
 * **The "Scutage" (Shield Money):** Harold likely sold his warhorses to pay "scutage"—a tax paid to the King to avoid going to war in his old age.
+* **The King’s Brother (Robert Curthose):** Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "sodden toad" historically biting.
+* **Prince Godfrey (The "Natural" Son):** King Henry I is famously credited with fathering the most illegitimate children of any English monarch (over 20). While the "Lord Godfrey" of this story is fictional, Henry frequently used his "natural" children to build political bridges and reward loyal families.
 
-### 🦢 The Journey: Why Beatrice Walks
+### 🦢 The Journey: Social Cues & Logistics
 
-Beatrice walking five miles to the Royal Lodge at **Brigstock** isn't just about exercise; it’s a statement.
+Beatrice walking five miles to the Royal Lodge at **Brigstock** isn't just about exercise; it’s a statement of her status and her survival skills.
 
 * **Avoiding Tolls:** Riding a horse often meant paying "palfrey taxes" or forest tolls to the King's officers (the **Agisters**).
-* **Industrial Cover:** By walking the Roman road, she blends in with the charcoal-bearers and iron-miners who fuel the local furnaces.
+* **The "Peaceful Petitioner" Gesture:** The act of raising both palms (*ostentatio manuum*) was a recognised legal and social gesture. It proved the petitioner was unarmed and was a common posture for those seeking mercy or making a formal request of a superior.
+* **Maidenly Modesty (Hair and Rings):** In the 12th century, loose, uncovered hair was the primary signifier of an unmarried maiden. Once married, a woman was socially and religiously required to wear a wimple or veil. Similarly, the absence of a ring or band on the hand and by naming her father's household, it is all clear enough that she is still under her father's "*mund*" (legal protection/guardianship).
 * **The Goose Factor:** A large, angry white goose is much easier to carry in a basket than to balance on a galloping horse!
+
+### 👑 The Royal Court: Secrets & Legends
+
+* **Queen Matilda’s Secret Heritage:** Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen’s eventual "softening" toward Beatrice carries a deeper historical weight.
+* **The Lamprey Legend:** Henry I was famously fond of lampreys (eel-like jawless vertebrates). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
 
 ---
 
