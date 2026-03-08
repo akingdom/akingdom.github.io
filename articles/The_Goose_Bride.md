@@ -147,15 +147,15 @@ To some, this sounded like foolish village talk. Yet in the reign of King Henry 
 
 ## The Red-Wolf’s Daughter
 
-Beatrice lived with her father Harold in a small holding among the wooded hills of the Midlands.
+Beatrice lived with her father in a timber-framed longhall among the wooded hills of the Midlands. 
 
 In earlier days Harold had been known as **Red-Wolf**, a Saxon thegn who fought in the wars that followed the Conquest. He had ridden with kings, crossed blades with rebels, and once dragged a drowning Norman lord, the king's own brother, from a river crossing.
 
 But battles fade, and wounds grow stiff in the winter.
 
-Now Harold was an old man with iron-grey hair and aching bones. His sword hung above the hearth more as memory than weapon.
+Now Harold was an old man with iron-grey hair and aching bones. At the hearth, a large staghound rested its head on its paws. Harold's sword hung above the hearth, more as memory than weapon.
 
-His daughter kept the household.
+His daughter kept the household. Her duties include supervising "boon-work" (village labor), managing the buttery, brewing ale, and medicinal healing. 
 
 She had bright eyes, quick wit, and a habit of speaking her thoughts aloud before deciding whether she ought to.
 
@@ -171,15 +171,15 @@ She called it **Goosie**.
 
 One autumn morning a royal messenger rode into the village.
 
-“The king hunts in Rockingham Forest,” he announced.
+“The king hunts in Rockingham Forest,” the messenger proclaimed, unrolling a small parchment *writ*. 
 
-Whenever the king travelled, villages were expected to provide **purveyance**: food and supplies for the royal household. Rockingham was his forest, and the king’s forest had its own laws. A man might lose a hand for taking the king’s deer, yet a king might take from a man without apology.
+Whenever the king travelled, landholders such as Harold were expected to provide *purveyance*: food and supplies for the royal household. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology.
 
-“This holding shall give two feathered arrows and a fowl for His Majesty’s table.”
+“This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
 
 Beatrice immediately looked at the goose.
 
-The goose looked back.
+The goose honked at her.
 
 Harold sighed.
 
@@ -191,25 +191,33 @@ Beatrice’s eyes filled with tears.
 
 “A crown is a heavy thing,” Harold said gently. “Kings must take much, for much is laid upon them.”
 
-Beatrice folded her arms.
+Beatrice folded her arms, a sudden prickle of defiance rising in her chest.
 
-“I should like to tell this king what I think of that.”
+“I should like to tell this king what I think of that. He has a thousand birds in a hundred forests..."
 
 Harold laughed softly.
 
 “You may keep that thought to yourself.”
 
-He reached for his cloak.
+He adjusted his cloak, frail hands shaking.
 
-“I will take the tribute tomorrow.”
+“I shall take the tribute tomorrow.”
 
 Beatrice shook her head.
 
 “You should not walk that far in the cold, father.”
 
-After a moment she said quietly:
+Harold poked at the glowing charcoal.
 
-“I will take it.”
+“Then I shall send the *Reeve*. He has a sturdy cart and the manner of a village headman."
+
+Beatrice sighed.
+
+“The *agisters* will have the very shoes off the horse for a 'grazing tax,' and the *foresters*... they are but petty tyrants, prowling to bleed a man for merely looking at a deer. Besides, Goosie would just as like end up in a village pot, for the Reeve has a large hungry family."
+
+She looked at the charcoal basket by the hearth and then up at her father’s tired face.
+
+“No, father, I should take her; she is after all, my goose. I can hide her in a charcoal basket on my hip to blend with the dusty charcoal-bearers on the old Roman road. Besides, I am on the King's business if anyone asks.”
 
 Harold studied her face, then nodded.
 
@@ -277,7 +285,7 @@ Beatrice reached the hunting lodge by midday.
 
 The place swarmed with soldiers and servants.
 
-As she entered the hall carrying the basket, a young Norman knight lounging near the doorway recognised her.
+As she entered the hall carrying the dusty basket, a young Norman knight lounging near the doorway recognised her.
 
 **Sir Guy de Montfort.**
 
@@ -708,6 +716,55 @@ Why might Beatrice be a better match for Godfrey than the noble brides the queen
 **Knight's Challenge:**  
 What is the true “gift” Beatrice brings to the royal family — and why is it more valuable than gold or tribute?
 
+
+## 📜 Fact Sheet: The World of the 'Goose Bride' (12th-Century England)
+
+This guide provides the historical "bones" for our story. It explains why Beatrice walks, why her father is worried, and how the law of the forest rules their lives.
+
+---
+
+### 🏰 The Home: Life in the "Hall"
+
+In the 1100s, Beatrice and Harold don't live in a house—they live in a **Hall**.
+
+* **The Structure:** A timber-framed "longhall" with a central fire-pit. There are no chimneys; smoke escapes through a hole in the thatch roof.
+* **The Status:** The Hall is the heart of the community. It’s where the **Manorial Court** is held and where villagers bring their "renders" (taxes paid in eggs, grain, or ale).
+* **The Upkeep:** The villagers (called **villeins**) owe Harold "boon-work." They are legally required to help repair his roof or stone walls.
+
+### 🌲 The Law: The King’s Forest
+
+Stanwey is located within **Rockingham Forest**. In the 1100s, a "Forest" wasn't just trees; it was a legal zone where the King’s word was absolute.
+
+* **Vert and Venison:** It was a crime to cut "green wood" or hunt the King’s deer. Even carrying a bow could lead to a massive fine.
+* **The "Lawed" Dog:** To protect the deer, any large dog kept for protection had to have three claws removed from its front feet (called "expediting") so it couldn't chase game.
+* **The Roman Road:** The **Gartree Road**—an ancient, straight, stone-paved Roman highway—is the main artery for messengers and charcoal-burners.
+
+### ⚖️ The Crisis: Land and Lineage
+
+Harold is a **Saxon Thegn**, a member of the old English nobility now being pushed aside by the **Norman** conquerors.
+
+* **The Son-less Lord:** In Norman law, land is held in exchange for military service. Because Harold has no son to fight for him, his land is "vulnerable."
+* **The Ward of the Crown:** If Harold dies, the King has the legal right to choose Beatrice’s husband—usually a Norman knight who wants her land.
+* **The "Scutage" (Shield Money):** Harold likely sold his warhorses to pay "scutage"—a tax paid to the King to avoid going to war in his old age.
+
+### 🦢 The Journey: Why Beatrice Walks
+
+Beatrice walking five miles to the Royal Lodge at **Brigstock** isn't just about exercise; it’s a statement.
+
+* **Avoiding Tolls:** Riding a horse often meant paying "palfrey taxes" or forest tolls to the King's officers (the **Agisters**).
+* **Industrial Cover:** By walking the Roman road, she blends in with the charcoal-bearers and iron-miners who fuel the local furnaces.
+* **The Goose Factor:** A large, angry white goose is much easier to carry in a basket than to balance on a galloping horse!
+
+---
+
+### 🛡️ Social Hierarchy: Who’s Who?
+
+| Title | Role |
+| --- | --- |
+| **Thegn** | A Saxon noble (Harold). High status, but fading fast under Norman rule. |
+| **Reeve** | The village headman. The "bridge" between the peasants and the Lord. |
+| **Knight** | The Norman elite (Sir Guy). They often speak **Old French** and look down on Saxons. |
+| **Villein** | A peasant tied to the land. They provide the labour that keeps the Hall running. |
 
 
 ---------------------------------------------
