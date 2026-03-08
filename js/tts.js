@@ -1,5 +1,5 @@
 // tts.js
-window.versions={...(window.versions||{}), tts:'1.3.1'};
+window.versions={...(window.versions||{}), tts:'1.3.3'};
 
 // Text-to-speech, example usage included at end of this file.
 // 1.1.0 - updated with heartbeat monitoring and paused state tracking.
@@ -471,12 +471,17 @@ function init(options) {
   attachToggleButtonListener();
 
   // be nice to closing windows.
+  function pauseSpeech(){
+    if (window.speechSynthesis){
+      window.speechSynthesis.pause();
+    }
+  }
   function cancelSpeech(){
     if (window.speechSynthesis){
       window.speechSynthesis.cancel();
     }
   }
-  window.addEventListener('pagehide', cancelSpeech);
+  window.addEventListener('pagehide', pauseSpeech);
   window.addEventListener('beforeunload', cancelSpeech);
   document.addEventListener('visibilitychange', () => {
     if (document.hidden) {
