@@ -399,7 +399,7 @@ Henry frowned at his wife.
 
 “Is my lady unwell?”
 
-Nervously, the secretary stepped forward to intervene.
+Nervously, the clerk stepped forward to intervene.
 
 “Your Majesty, I believe the queen refers to your royal oath that the next eligible maiden entering the hall should wed Master Godfrey.”
 
@@ -409,7 +409,7 @@ The king's grin returned with a dangerous sort of mischief.
 
 The queen grew pale.
 
-“My lord, consider what sorrow of reputation a peasant will bring your son.”
+“My lord, consider what sorrow of reputation a low-born woman will bring your son.”
 
 The king shrugged.
 
@@ -417,13 +417,13 @@ The king shrugged.
 
 Laughter rippled through the court.
 
-“And besides,” Henry added, “the daughter of Red-Wolf is good blood, even if Saxon.”
+“And besides,” Henry added, “the daughter of Red-Wolf is good blood of an ancient house, even if Saxon.”
 
 He called aside his youngest son.
 
 “Godfrey, take a pair of riders and see the young lady safely home.”
 
-Then, after a sharp look at his secretary—who had anticipated with his quill poised over a fresh parchment—the King stood. The chatter of the hall died instantly. He spoke in the clipped, melodic French of the court, but his voice carried to the furthest rafters.
+Then, after a sharp look at his clerk — who had anticipated with his quill poised over a fresh parchment—the King stood. The chatter of the hall died instantly. He spoke in the clipped, melodic French of the court, but his voice carried to the furthest rafters.
 
 “Hearken now, all my barons and faithful men of England. By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that my son, Godfrey, shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession.”
 
