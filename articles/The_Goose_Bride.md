@@ -285,17 +285,23 @@ Beatrice reached the hunting lodge by midday.
 
 The place swarmed with soldiers and servants.
 
-As she entered the hall carrying the dusty basket, a young Norman knight lounging near the doorway recognised her.
+As she entered the hall, carrying the handmade basket and dusty from the journey, a young Norman knight lounging near the doorway recognised her.
 
 **Sir Guy de Montfort.**
 
-Months earlier he had tried to charm her at a market fair. Beatrice had laughed and told him she preferred men who worked for their supper.
+Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the village elders shared ale by the bonfires, Sir Guy had cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
+
+Insulted, Beatrice had politely begged to be excused, then to go and find her father.
+
+He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding should be more accommodating to a Norman blade. Else, your lands escheat to the King and your hall is burned for charcoal!”
+
+She had told him coldly that she preferred men who worked for their supper, not some fine *popinjay* who lived off the sweat of others.
 
 He had not forgotten the insult.
 
-Seeing her now in the royal hall amused him.
+Seeing her now amused him: standing in the King’s royal hall with a smudge of charcoal on her nose.
 
-As she walked past, he extended one boot slightly.
+As she walked past him, he extended one boot slightly, interrupting her path.
 
 Beatrice stumbled.
 
@@ -417,9 +423,13 @@ He called aside his youngest son.
 
 “Godfrey, take a pair of riders and see the young lady safely home.”
 
-Then he decisively proclaimed before the court:
+Then, after a sharp look at his secretary—who had anticipated with his quill poised over a fresh parchment—the King stood. The chatter of the hall died instantly. He spoke in the clipped, melodic French of the court, but his voice carried to the furthest rafters.
 
-“My son, Godfrey, shall marry the daughter of Harold Red-Wolf.”
+“Hearken now, all my barons and faithful men of England. By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that my son, Godfrey, shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession.”
+
+He looked directly at the cluster of knights where Sir Guy stood, his gaze like a physical weight.
+
+“Let this be clear to one and all. My son, Godfrey, shall marry the daughter of Harold Red-Wolf.”
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -445,15 +455,17 @@ And so it was that with time, after some initial suspicion, even Goosie accepted
 
 ## The Goose Bride
 
-Their wedding was held the following summer.
+Their wedding was held the following summer, when the oak trees of Rockingham forest were heavy with green.
 
 Nobles came reluctantly at first, expecting scandal.
 
-Instead they found a bright-eyed bride who moved through the court with quiet confidence.
+Instead they found a bright-eyed bride who moved through the court with quiet confidence of a Lady of the Hall.
 
 Even the queen eventually softened and called it a good thing.
 
-And when the wedding procession left the chapel, a plump white goose waddled proudly ahead of them.
+Harold watched with a wet eye, knowing that his landhold was revived and the village Reeve would answer to a son-in-law of royal blood."
+
+When the wedding procession left the church porch, a plump white goose waddled proudly ahead of them, its neck stretched high as if it wore a crown of its own.
 
 Someone in the crowd chuckled.
 
