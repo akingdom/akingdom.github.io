@@ -261,7 +261,7 @@ Roger of Salisbury, the King’s Justiciar, stepped from the shadows. He kept hi
 
 Henry looked at him in an odd humour, a dangerous smile playing at the corners of his mouth.
 
-“If he be a coin in your accounts, Roger, then we shall toss him to the Heavens and see how he lands."
+“Roger, if he be a coin in your accounts, then we shall toss him to the Heavens and see how he lands."
 
 He jabbed a finger toward the carved entrance of the hunting lodge.
 
