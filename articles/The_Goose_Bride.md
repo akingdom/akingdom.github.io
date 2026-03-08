@@ -315,7 +315,7 @@ Goosie exploded from the basket in a fury of wings.
 
 Servants shouted.
 
-A secretary dropped his parchments.
+A clerk dropped his parchments.
 
 The goose darted across the hall like a feathered arrow.
 
@@ -329,7 +329,7 @@ Henry burst into laughter.
 
 “Well! At last a lively hunt!”
 
-He lunged and caught the goose just as it snapped at the secretary's rear end.
+He lunged and caught the goose just as it snapped at the clerk's rear end.
 
 At the sound of Goosie's distressed squawking, Beatrice burst into the hall, long hair flying and uncovered.
 
