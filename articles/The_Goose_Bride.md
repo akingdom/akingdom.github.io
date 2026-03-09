@@ -155,7 +155,7 @@ But battles fade, and wounds grow stiff in the winter.
 
 Harold had become an old man with iron-grey hair and aching bones. His sword hung above the hearth, more as memory than weapon. His dog was more often found at his side by the fire than out on long walks through hidden forest paths. 
 
-Daily ordering of the manor fell to Beatrice; she saw to the boon-days in the fields, oversaw the brewing and the buttery, and tended the sick with natural remedies.
+Daily ordering of the manor fell to Beatrice; she saw to the villagers' labour of boon-days in the fields, oversaw the brewing and the buttery, and tended the sick with herbs and medicine.
 
 She had bright eyes, quick wit, and a habit of speaking her thoughts aloud before deciding whether she ought to.
 
