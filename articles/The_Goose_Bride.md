@@ -151,9 +151,9 @@ Beatrice lived with her father in a timber-framed longhall at **Stanwey**, among
 
 In earlier days Harold had been known as **Red-Wolf**, a Saxon thegn who fought in the wars that followed the Conquest. He had ridden with kings, crossed blades with rebels, and once dragged a drowning Norman lord, the king's own brother, from a river crossing.
 
-But battles fade, and wounds grow stiff in the winter.
+But battles fade, and wounds grow stiff as winter turns to winter.
 
-Harold had become an old man with iron-grey hair and aching bones. His sword hung above the hearth, more as memory than weapon. His dog was more often found at his side by the fire than out on long walks through hidden forest paths. 
+Harold had become an old man with iron-grey hair and aching bones. His sword hung above the hearth, more as memory than weapon, and he spent less time roaming the lands and more time by the fire with his staghound.
 
 In his stead, Beatrice shouldered the daily ordering of the manor without murmur. She saw to the villagers' labour of boon-days in the fields, oversaw the brewing and the buttery, and tended the sick with herbs and medicine.
 
