@@ -229,7 +229,7 @@ Harold studied her face, then nodded.
 
 The early hunt had gone ill; the morning’s chase had been an unrewarding affair, leaving the King’s mood at lunchtime as grey as the North Sea. At the high table, Queen Matilda watched the hounds gnaw at marrow bones, her mind far from the hunt, her expression a mirror of some anxiety.
 
-“Young Godfrey must marry well,” she pressed. “A daughter of some Norman seigneur, perhaps? It would quiet the restless spirits across the sea.”
+“Young Godfrey must marry well,” she pressed. “A daughter of some Norman *seigneur*, perhaps? It would quiet the restless spirits across the sea.”
 
 Henry snorted. “I'd sooner quiet a pack of wolves: sweeter in temperament and less likely to bite the hand that feeds them."
 
