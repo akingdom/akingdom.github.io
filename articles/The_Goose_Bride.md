@@ -369,9 +369,11 @@ He had built a cage out of his own pride, with no easy escape.
 
 Beatrice reached the hunting lodge by midday.
 
-The place swarmed with soldiers and servants.
+The place swarmed with soldiers and servants. 
 
-As she entered the hall, carrying the handmade basket and dusty from the journey, a young Norman knight lounging near the doorway recognised her.
+The hall was still nursing the King's mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would feel the steam. 
+
+As Beatrice entered, carrying the handmade basket and dusty from the journey, a young Norman knight lounging near the doorway recognised her.
 
 **Sir Guy de Montfort.**
 
@@ -421,17 +423,25 @@ At the sound of Goosie's distressed squawking, Beatrice burst into the hall, lon
 
 “Please don’t hurt Goosie!”
 
-The king blinked.
+The King blinked.
 
 “Your goose?”
+
+Laughter rippled throughout the hall. 
+
+Sir Guy, called out rudely. "This Saxon girl needs a lesson that her father's hall could not teach."
 
 Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller. All eyes turned toward her as she curtsied low. Drawing courage in the silence, she spoke.
 
 “She was meant for your table, sire… but if it please you, spare her.”
 
-Henry chuckled, his eyes glinting with a curious merriment. It was a novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
+Henry chuckled, his eyes glinting with a curious merriment. 
 
-“Spare the goose, you plead? I say she has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
+"At last—an honest creature in this hall. Spare the goose, you plead?"
+
+It was a novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
+
+“I say she has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
