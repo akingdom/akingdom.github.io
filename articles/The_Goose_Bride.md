@@ -287,7 +287,7 @@ He crumpled the letter.
 
 "No. Godfrey stays here."
 
-The Queen's voice sharpened. "Stays here doing what? William has Anjou. Your daughter has Brittany. Your nephews have lands across the sea. What has Godfrey?"
+The Queen's voice sharpened. "Stays here doing what? Our son William has Anjou. Your daughter has Brittany. Your nephews have lands across the sea. What has Godfrey?"
 
 Her voice dropped.
 
