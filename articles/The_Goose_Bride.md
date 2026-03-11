@@ -147,7 +147,7 @@ To some, this sounded like foolish village talk. Yet in the reign of King Henry 
 
 ## The Red-Wolf’s Daughter
 
-Beatrice lived with her father in a timber-framed longhall at **Stanwey**, among the wooded hills of the Midlands. 
+Beatrice lived with her father in a timber-framed longhall at **Stanwey** (the *'Stone Way'*), among the wooded hills of the Midlands. 
 
 In earlier days Harold had been known as **Red-Wolf**, a Saxon thegn who fought in the wars that followed the Conquest. He had ridden with kings, crossed blades with rebels, and once dragged a drowning Norman lord, the king's own brother, from a river crossing.
 
@@ -225,57 +225,143 @@ Harold studied her face, then nodded.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## The King’s Frustration
+## Chapter 3 — The King's Frustration
 
-The early hunt had gone ill; the morning’s chase had been an unrewarding affair, leaving the King’s mood at lunchtime as grey as the North Sea. At the high table, Queen Matilda watched the hounds gnaw at marrow bones, her mind far from the hunt, her expression a mirror of some anxiety.
+The great oak doors of Rockingham's hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation died. Even the hounds by the hearth flattened their ears.
 
-“Young Godfrey must marry well,” she pressed. “A daughter of some Norman *seigneur*, perhaps? It would quiet the restless spirits across the sea.”
+Henry, King of the English, Duke of the Normans, stood in the threshold.
 
-Henry snorted. “I'd sooner quiet a pack of wolves: sweeter in temperament and less likely to bite the hand that feeds them."
+Not a tall man—of middling stature, as men said—yet he was built like a war-horse: thick-necked, barrel-chested, and so broad across the shoulders that he seemed to crowd the doorway. His hunting tunic was stained with the black loam of the forest. His dark hair, streaked with grey and receding from a high, stern brow, was plastered to his temples with sweat.
 
-The Queen sighed, mildly chafed. “Peace is a brittle affair, my lord, and the boy needs a name of some gravitas to anchor his place. This is no time for lightness of heart.”
+His eyes, grey as honed steel, swept across the hall and found nothing that pleased him.
 
-Henry turned his gaze to his goblet, the wine dark as blood. “It is never a jest with you, my dear.”
+The morning's hunt had been a disaster. Two thin hares and a fox too mangy to skin. Henry had returned with empty hands and a temper stoked to white heat.
 
-The household knights and clerks busied themselves with their food, eyes averted. They knew well the status of the FitzRoy—the King’s Son. Despite old whispers about his legitimacy, Godfrey FitzRoy had long endured the royal court with a quiet grace, forged in the same iron as his father’s crown.
+He did not speak. He did not need to. His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their food. They knew the signs. When the King's hunt was lean, his wrath was often fat.
 
-The Queen leant closer, her voice a sharp silk. “Count Fulk of Anjou seeks to anchor his new rank with a sweetness of peace. He overlooks what men say—that your son is but a sad shadow cast by your majesty.”
+He strode to the high table. Queen Matilda sat there, her fingers wrapped around a goblet she had not drunk from. She watched him approach, her face carefully smooth.
 
-Henry’s hand arrested his cup mid-air. He didn't slam the pewter; he lowered it carefully onto the oak trestle, the silence of the act more terrifying than a shout.
+Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. A servant darted forward to fill his goblet. The King ignored him.
 
-“A weak whelp, is he? A shadow?” Henry’s voice was a low rasp. “If the boy is a shadow, it is because he stands in the glare of a crown. You fret over the purity of the vessel, as if the Almighty cannot recognise the wine within.”
+For a long moment, no one breathed.
 
-The Queen recoiled, the colour draining from her cheeks. “Nay, lord, I thought only of your peace. I meant no slight to your—”
+Then the Queen spoke.
 
-Henry’s eyes narrowed, brooding. “ My father was mocked as the Tanner’s Grandson by every ‘noble’ tongue in Paris. Did he wait for a Count’s blessing? No. He carved his legitimacy out of this earth with a blade blessed by God alone. We are kings because the Heavens moved the stars, not because the nobles permitted it.”
+"My lord, the morning was cold," she said softly. "The game is shy after frost. It is no fault of yours. Besides, I have news that may interest you."
+
+Henry's steely gaze shifted to her. "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat on my peace."
+
+Only then did his face soften a little. "What news?"
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## The King's Decree
+## Chapter 4 — The Breton Offer
 
-The King jumped to his feet, his heavy wool cloak sweeping after him with a hiss.
+Matilda leaned closer, her voice dropping.
 
-“To those who think themselves to be nobler than I, I say this: If my blood is ‘weak,’ no crown can help the boy. If it is ‘royal,’ no rags can hide it!”
+"A message from Brittany, my lord. From Duke Conan and his father together."
 
-Roger of Salisbury, the King’s Justiciar, stepped from the shadows. He kept his head bowed, his tone placatory but fixed on the ledger. “My Lord King,” Roger murmured. “A marriage is a contract of the state. We must not let pride spoil the market. Why Sire, the boy is sure coin enough to buy us a decade of peace in Anjou.”
+Henry's eyes narrowed, but he said nothing. He waited.
 
-Henry looked at him in an odd humour, a dangerous smile playing at the corners of his mouth.
+She drew a parchment from her sleeve. "They have a daughter—Agnes, of marriageable age. They propose a match. With Godfrey."
 
-“Roger, if he be a coin in your accounts, then we shall toss him to the Heavens and see how he lands."
+Henry went very still. Then, slowly, a smile spread across his face—but it was not a warm smile. It was the smile of a man who had just spotted a fox in his henhouse.
+
+"Alain of Brittany," he said softly. "And his son. Together. They want my son."
+
+He read the letter once, then twice.
+
+The Queen pressed forward. "It is a great honour, my lord. The Bretons seek to bind themselves to us with a second knot."
+
+Henry set the parchment down. "Old Alain is dying. He looks at his son Conan and wonders: is he strong enough? So he reaches for Godfrey as a backup. A second son-in-law in case the first fails."
+
+The Queen frowned. "You see treachery where there is only family feeling?"
+
+Henry laughed—a short, sharp bark. "Family feeling! Madam, my own brother tried to steal my crown. Family feeling fills dungeons."
+
+He leaned forward.
+
+"Once Godfrey is there, with Breton lords whispering in his ear—a king's son, a warrior's blood—how long before some start thinking *he* would make a fine duke? How long before Conan sees the threat and turns on him? Then I must choose: lose my son, or march on Brittany."
+
+He crumpled the letter.
+
+"No. Godfrey stays here."
+
+The Queen's voice sharpened. "Stays here doing what? William has Anjou. Your daughter has Brittany. Your nephews have lands across the sea. What has Godfrey?"
+
+Her voice dropped.
+
+"You know what they call him. A weak whelp. A sad shadow."
+
+Henry's jaw tightened.
+
+The Queen pressed on. "In Brittany he would have standing. He would have a name."
+
+Henry raised his cup. He did not slam it. He lowered it carefully onto the oak. The silence was more terrifying than a shout.
+
+"A weak whelp," he repeated, his voice a low rasp. "A shadow."
+
+The Queen recoiled. "I meant no slight—"
+
+"You mean to send him across the sea," Henry cut her off, "where he cannot trouble William."
+
+The Queen said nothing.
+
+Henry stared at her. "William is barely ten, and already you fear shadows."
+
+He leaned back.
+
+"My father was mocked as the Tanner's Grandson by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
+
+He swirled his wine.
+
+"If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+## Chapter 5 — The King's Decree
+
+Henry set down the goblet with a deliberate, haunting softness. He looked toward the arched entrance of the hall, his eyes narrowing.
+
+"You speak of Brittany as a sanctuary," he rasped. "I see it as a whetstone. You wish to place a blade in a rival's hand and pray they do not turn it toward our William."
+
+The Queen sat frozen, saying nothing.
+
+For a long moment, the hall held its breath.
+
+Then Roger of Salisbury, the King's Justiciar, stepped from the shadows. He kept his head bowed, his tone placatory but fixed on the ledger—as if a marriage were no different from a shipment of wool.
+
+"My Lord King," Roger murmured into the silence, "since the boy needs a wife, and a marriage is a contract of the state... well. If Brittany will not serve, there are other houses with daughters. We need only find the best bargain. The boy is sure coin enough."
+
+Henry turned to look at him.
+
+Not with anger. With something worse: an odd humour, a dangerous smile playing at the corners of his mouth.
+
+"Coin," Henry repeated softly. "You think my son is coin. To be weighed. Bartered. Sold to the highest bidder."
+
+Roger's mouth opened, then closed. He realized, too late, that he had stepped where no ledger could protect him.
+
+Henry's voice dropped, but it carried to every corner of the hall.
+
+"If Godfrey is a shadow, let us see if the shadow can find the sun. If he be a coin, then we shall toss him to the Heavens and see how he lands. "
 
 He jabbed a finger toward the carved entrance of the hunting lodge.
 
-“The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of equal fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all.”
+"The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of equal fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
 
-The Queen stared at him, her face pale. “You cannot possibly mean to cast his life so blindly to the winds.”
+The Queen stared at him uncertainly, her face pale. "You cannot possibly mean to cast his life so blindly to the winds."
 
-The King’s posture relaxed, the explosive fire cooling into a stony, dismissive indifference. He waved a hand as if swatting a fly.
+The King's posture relaxed, the explosive fire cooling into a stony, dismissive indifference. He waved a hand as if swatting a fly.
 
-“If the Heavens wish him wed, they shall provide the woman. Elsewise let us hope the halls stay empty, that I may drink in peace.”
+"If the Heavens wish him wed, they shall provide the woman. Elsewise let us hope the halls stay empty, that I may drink in peace."
 
-The hall settled into a uneasy slience. The expressions on peoples' face varied: some knights sat frozen in shock, their hands hovering over their daggers; others smirked into their wine, half hoping to see the King’s pride stumble. 
+He reached for his wine.
 
-A few older lords simply looked at the floor, knowing the awkward truth: the King had spoken a sacred vow before the court. If a beggar girl came in that door, Henry would have to marry his son to her or become a liar before God. If he broke his word, his knights would no longer have to keep their own oaths to him. He had built a cage out of his own pride, with no easy escape. 
+The hall settled into an uneasy silence. Some knights sat frozen in shock, their hands hovering over their daggers. Others smirked into their wine, half hoping to see the King's pride stumble.
+
+A few older lords simply looked at the floor, knowing the awkward truth: the King had spoken a sacred vow before the court. If a beggar girl came in that door, Henry would have to marry his son to her or become a liar before God. If he broke his word, his knights would no longer have to keep their own oaths to him.
+
+He had built a cage out of his own pride, with no easy escape.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -598,52 +684,50 @@ Is the king being unfair, or is he acting as a medieval king normally would? Exp
 ---
 
 ## **Chapter 3 — The King’s Frustration**
-1. Why is the King’s mood described as being "as grey as the North Sea" at the start of lunch?
-2. What kind of girl does the Queen want Godfrey to marry, and why does she think it will bring "peace"?
-3. Based on their conversation, do the King and Queen agree on how to handle the countries across the sea? Explain why.
-4. The Queen calls Godfrey a "sad shadow." Why does this insult make the King so defensive of his son?
-5. Creative: Write one sentence of dialogue the Queen might have said to try and calm the King down before he stood up.
+
+1. **The Hunt:** Why is the King’s hunt described as a "disaster," and how does his mood affect the other people in the hall?
+2. **The King’s Stature:** The text says Henry was built like a "war-horse." What specific details describe his physical strength?
+3. **The Queen’s Approach:** How does Queen Matilda attempt to soothe the King before she brings up the news?
+4. **The Contrast:** Why is the King’s silence described as being as "fat" as his wrath is lean?
+5. **Creative:** Describe the sound of the oak doors crashing inward from the perspective of one of the hounds by the hearth.
 
 **Knight's Challenge:**
-Henry mentions his father was mocked as the "Tanner’s Grandson." Why is he proud that his father "carved his kingdom" without a noble's blessing?
+In the 1100s, a King’s physical presence was his power. Why would it be important for a medieval audience to know that the King was "barrel-chested" and "broad-shouldered" even if he wasn't very tall?
 
 ---
 
-## **Chapter 4 — The King’s Decree**
-1. What does the King mean when he says, "If my blood is ‘weak,’ no crown can help the boy. If it is ‘royal,’ no rags can hide it"?
-2. Why does the King get so annoyed when Roger of Salisbury refers to Godfrey as "coin enough" to buy peace?
-3. What are the three types of girls the King says could walk through the door?
-4. Why does the King feel he has to let "the Heavens" decide the marriage instead of choosing a bride himself?
-5. Creative: If you were standing behind the Great Hall doors and heard the King’s shout, would you be brave enough to walk in? Why or why not?
+## **Chapter 4 — The Breton Offer**
 
-**Knight's Challenge**:
-In the 1100s, a King’s word was a sacred oath. If he broke a public promise, he risked losing the respect of his knights. Why is his "next maid" vow more dangerous to him than just a regular argument?
-Logic
+1. **The Trap:** Why does Henry believe the marriage offer for Agnes of Brittany is a "fox in his henhouse" rather than a kind gesture?
+2. **Family Feeling:** Henry says "Family feeling fills dungeons." Based on what you know of his brothers, why does he find "kindness" dangerous?
+3. **The Queen’s Motive:** The Queen calls Godfrey a "weak whelp" and a "sad shadow." Why does she want him sent across the sea to Brittany?
+4. **The Tanner's Grandson:** Henry mentions his father (William the Conqueror) was mocked. How does his father’s history influence Henry's view on what makes a person "royal"?
+5. **Creative:** If you were Duke Alain of Brittany, write the one "personal note" from Godfrey’s sister Matilda that would be most likely to convince him to come.
 
-Chapter 3 — The King’s Frustration
-Why is the king angry in this chapter?
-How does the queen try to calm or advise him?
-What does this scene reveal about their relationship?
-Why does the king feel trapped by his own vow?
-Creative: Write one sentence of dialogue the queen might have said but didn’t.
-Challenge:
-Why is a vow so difficult for a medieval king to break, even if it causes trouble?
+**Knight's Challenge:**
+Henry says he cannot trust his own daughter because her loyalty is now to her husband’s land. In the medieval world, how did marriage change a woman’s political "team"?
 
 ---
 
-## **Chapter 4 — The King’s Decree**
-1. Why is the king angry in this chapter?  
-2. How does the queen try to calm or advise him?  
-3. What does this scene reveal about their relationship?  
-4. Why does the king feel trapped by his own vow?  
-5. Creative: Write one sentence of dialogue the queen *might* have said but didn’t.
+## **Chapter 5 — The King’s Decree**
 
-**Challenge:**  
-Why is a vow so difficult for a medieval king to break, even if it causes trouble?
+1. **The Whetstone:** Henry describes Brittany as a "whetstone." What does he fear the Bretons will do with his son if he sends him there?
+2. **The "Coin" Insult:** Why does the King find Roger of Salisbury’s suggestion that Godfrey is "sure coin" so offensive?
+3. **The Threshold Vow:** List the three types of women Henry says God might send through the door.
+4. **The Cage of Pride:** Why would Henry’s own knights stop keeping their oaths to him if he broke his "next maid" vow?
+5. **Creative:** Imagine you are a knight smirking into your wine at the end of the chapter. Write a short diary entry about what you hope walks through the door next.
+
+**Knight's Challenge:**
+Henry says, "If my blood is weak, no crown can help the boy." This reflects a medieval belief in *Innate Nobility*. Does Henry believe being a Prince comes from a title, or from something inside a person? Explain your answer.
 
 ---
 
-## **Chapter 5 — Sir Guy’s Spite**
+### **Next Step**
+
+Would you like me to finish the transition for **Sir Guy’s Spite**, focusing on how he uses the King’s "blistered" mood to justify tripping Beatrice as she enters the hall?
+---
+
+## **Chapter 6 — Sir Guy’s Spite**
 1. What does Sir Guy do that shows his spiteful nature?  
 2. How does Beatrice respond to his behaviour?  
 3. What does this chapter reveal about the difference between Beatrice and Sir Guy?  
@@ -655,7 +739,7 @@ Is Sir Guy’s behaviour caused by pride, jealousy, or fear? Defend your answer.
 
 ---
 
-## **Chapter 6 — The Goose Hunt**
+## **Chapter 7 — The Goose Hunt**
 1. What causes chaos in the king’s hall?  
 2. How does the king react to the goose’s behaviour?  
 3. What does Beatrice do when she enters the hall?  
@@ -667,7 +751,7 @@ Why does the king spare the goose? Is it mercy, amusement, or something deeper?
 
 ---
 
-## **Chapter 7 — The Red‑Wolf’s Daughter (Hall Scene)**
+## **Chapter 8 — The Red‑Wolf’s Daughter (Hall Scene)**
 1. How does the king recognise Beatrice’s father?  
 2. What story does Henry remember about his brother?  
 3. Why does Henry decide to visit the Red‑Wolf?  
@@ -679,7 +763,7 @@ Why does Henry value the Red‑Wolf’s old deed more than Sir Guy’s present s
 
 ---
 
-## **Chapter 8 — The Queen Remembers the Vow**
+## **Chapter 9 — The Queen Remembers the Vow**
 1. What vow does the queen remember?  
 2. Why does the vow cause trouble now?  
 3. How does the queen feel about the king’s promise?  
@@ -691,7 +775,7 @@ Is the queen more concerned with honour, politics, or her son’s future? Explai
 
 ---
 
-## **Chapter 9 — A Courtship No One Expected**
+## **Chapter 10 — A Courtship No One Expected**
 1. How does Godfrey react to meeting Beatrice?  
 2. What surprises the court about their interaction?  
 3. How does Beatrice behave during the courtship?  
@@ -703,7 +787,7 @@ Why might Beatrice be a better match for Godfrey than the noble brides the queen
 
 ---
 
-## **Chapter 10 — The Goose Bride**
+## **Chapter 11 — The Goose Bride**
 1. How does the story resolve the king’s vow?  
 2. What happens to Beatrice and Godfrey at the end?  
 3. How does the goose play a role in the final outcome?  
