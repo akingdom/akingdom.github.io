@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Skype Log Viewer</title>
+<style>
+  body {
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  /* Left conversation list */
+  #sidebar {
+    width: 260px;
+    min-width: 260px;
+    max-width: 260px;
+    background: #f4f4f4;
+    border-right: 1px solid #ccc;
+    overflow-y: auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  #sidebar h3 {
+    margin-top: 16px;
+    margin-bottom: 4px;
+    font-size: 13px;
+    color: #555;
+  }
+
+  .conv {
+    padding: 6px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 4px;
+    font-size: 13px;
+    word-break: break-all;
+    overflow-wrap: anywhere;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .conv:hover {
+    background: #e0e0e0;
+  }
+
+  .conv.active {
+    background: #d0d0d0;
+    font-weight: bold;
+  }
+
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .section-header span {
+    font-size: 12px;
+    color: #777;
+  }
+
+  .section-body {
+    margin-top: 4px;
+    margin-bottom: 8px;
+  }
+
+  .collapsed .section-body {
+    display: none;
+  }
+
+  #exportControls {
+    margin-top: 8px;
+    font-size: 12px;
+  }
+
+  #exportControls label {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  #exportButtons {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  #exportButtons button {
+    font-size: 12px;
+    padding: 4px 6px;
+  }
+
+  #convSelectButtons {
+    margin-top: 8px;
+    display: none;
+    gap: 4px;
+    flex-wrap: wrap;
+  }
+
+  #convSelectButtons button {
+    font-size: 11px;
+    padding: 3px 5px;
+  }
+
+  /* Main area: timeline + chat */
+  #main {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+  }
+
+  /* Vertical timeline */
+  #timeline-vertical {
+    width: 60px;
+    min-width: 60px;
+    max-width: 60px;
+    background: #fafafa;
+    border-right: 1px solid #ccc;
+    box-sizing: border-box;
+    padding: 6px 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .timeline-box {
+    width: 100%;
+    margin: 1px 0;
+    cursor: pointer;
+  }
+
+  /* Chat area */
+  #chat {
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px;
+    background: #fff;
+    box-sizing: border-box;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .sticky-bar {
+    position: sticky;
+    top: 0;
+    background: #fff;
+    z-index: 5;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #eee;
+    font-size: 12px;
+    transition: box-shadow 0.2s ease;
+  }
+
+  .sticky-bar.scrolled {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+  }
+
+  .sticky-section-title {
+    font-weight: bold;
+    margin: 0 0 4px 0;
+    font-size: 12px;
+    color: #555;
+  }
+
+  .sticky-section-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 4px;
+    flex-wrap: wrap;
+  }
+
+  .sticky-section-row button {
+    font-size: 11px;
+    padding: 2px 5px;
+  }
+
+  #participantsList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 8px;
+  }
+
+  #participantsList label {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
+
+  .msg {
+    margin-bottom: 12px;
+    max-width: 60%;
+    padding: 8px 12px;
+    border-radius: 8px;
+    background: #e8f0ff;
+    font-size: 13px;
+    display: flex;
+    gap: 6px;
+  }
+
+  .msg.me {
+    background: #d1ffd1;
+    margin-left: auto;
+  }
+
+  .msg.system {
+    background: #f0f0f0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+    font-size: 12px;
+  }
+
+  .msg-content {
+    flex: 1;
+  }
+
+  .msg-title {
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+
+  .msg-meta {
+    font-size: 11px;
+    color: #666;
+    margin-top: 4px;
+  }
+
+  .date-separator {
+    text-align: center;
+    margin: 20px 0;
+    color: #777;
+    font-size: 12px;
+  }
+
+  #loader {
+    padding: 20px;
+    font-size: 14px;
+    color: #444;
+  }
+
+  #fileInput {
+    width: 100%;
+    margin-bottom: 8px;
+  }
+
+  .excluded-message {
+    padding: 20px;
+    text-align: center;
+    color: #888;
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h3>Load Export</h3>
+  <input type="file" id="fileInput" accept=".json,.txt">
+
+  <div id="exportControls">
+    <label>
+      <input type="checkbox" id="exportModeToggle">
+      Export mode
+    </label>
+  </div>
+
+  <div id="exportButtons" style="display:none;">
+    <button id="exportThisChatBtn">Export Selected (this chat)</button>
+    <button id="exportAllChatsBtn">Export Selected (all chats)</button>
+  </div>
+
+  <div id="convSelectButtons">
+    <button id="selectAllConvsBtn">Select All Conversations</button>
+    <button id="selectNoneConvsBtn">Select None Conversations</button>
+  </div>
+
+  <div id="sections">
+    <div class="section" data-section="people">
+      <div class="section-header">
+        <h3>People</h3><span class="count"></span>
+      </div>
+      <div class="section-body"></div>
+    </div>
+
+    <div class="section" data-section="groups">
+      <div class="section-header">
+        <h3>Groups</h3><span class="count"></span>
+      </div>
+      <div class="section-body"></div>
+    </div>
+
+    <div class="section" data-section="bots">
+      <div class="section-header">
+        <h3>Bots & Services</h3><span class="count"></span>
+      </div>
+      <div class="section-body"></div>
+    </div>
+
+    <div class="section collapsed" data-section="system">
+      <div class="section-header">
+        <h3>System & Special</h3><span class="count"></span>
+      </div>
+      <div class="section-body"></div>
+    </div>
+  </div>
+</div>
+
+<div id="main">
+  <div id="timeline-vertical"></div>
+  <div id="chat"><div id="loader">Load messages.json to begin.</div></div>
+</div>
+
+<script>
+let DATA = null;
+let CONV_MESSAGES = {};
+let CURRENT_CONV_ID = null;
+
+let exportMode = false;
+
+/* selection model: diff-from-default */
+
+let convDefault = true;          // true = all selected
+let convDiff = new Set();        // convIds differing from default
+
+let partDefault = {};            // convId -> bool (true=all selected)
+let partDiff = {};               // convId -> Set(participantId)
+
+let msgDefault = {};             // convId -> bool (true=all selected)
+let msgDiff = {};                // convId -> Set(messageId)
+
+/* helpers for selection */
+
+function isConversationSelected(convId) {
+  return convDefault ? !convDiff.has(convId) : convDiff.has(convId);
+}
+
+function setConversationSelected(convId, selected) {
+  if (convDefault) {
+    if (selected) convDiff.delete(convId);
+    else convDiff.add(convId);
+  } else {
+    if (selected) convDiff.add(convId);
+    else convDiff.delete(convId);
+  }
+}
+
+function ensurePartState(convId, participantsSet) {
+  if (!(convId in partDefault)) {
+    partDefault[convId] = true;
+    partDiff[convId] = new Set();
+  }
+  if (!partDiff[convId]) partDiff[convId] = new Set();
+  // ensure participants exist in selection space but we don't need to store them explicitly
+}
+
+function isParticipantSelected(convId, participantId) {
+  ensurePartState(convId);
+  const def = partDefault[convId];
+  const diff = partDiff[convId];
+  return def ? !diff.has(participantId) : diff.has(participantId);
+}
+
+function setParticipantSelected(convId, participantId, selected) {
+  ensurePartState(convId);
+  const def = partDefault[convId];
+  const diff = partDiff[convId];
+  if (def) {
+    if (selected) diff.delete(participantId);
+    else diff.add(participantId);
+  } else {
+    if (selected) diff.add(participantId);
+    else diff.delete(participantId);
+  }
+}
+
+function selectAllParticipants(convId, participantsSet) {
+  partDefault[convId] = true;
+  partDiff[convId] = new Set();
+}
+
+function selectNoneParticipants(convId, participantsSet) {
+  partDefault[convId] = false;
+  partDiff[convId] = new Set();
+}
+
+function ensureMsgState(convId) {
+  if (!(convId in msgDefault)) {
+    msgDefault[convId] = true;
+    msgDiff[convId] = new Set();
+  }
+  if (!msgDiff[convId]) msgDiff[convId] = new Set();
+}
+
+function isMessageSelected(convId, msgId) {
+  ensureMsgState(convId);
+  const def = msgDefault[convId];
+  const diff = msgDiff[convId];
+  return def ? !diff.has(msgId) : diff.has(msgId);
+}
+
+function setMessageSelected(convId, msgId, selected) {
+  ensureMsgState(convId);
+  const def = msgDefault[convId];
+  const diff = msgDiff[convId];
+  if (def) {
+    if (selected) diff.delete(msgId);
+    else diff.add(msgId);
+  } else {
+    if (selected) diff.add(msgId);
+    else diff.delete(msgId);
+  }
+}
+
+function selectAllMessages(convId, messages) {
+  msgDefault[convId] = true;
+  msgDiff[convId] = new Set();
+}
+
+function selectNoneMessages(convId, messages) {
+  msgDefault[convId] = false;
+  msgDiff[convId] = new Set();
+}
+
+/* classification and grouping */
+
+function classifyConversation(conv, msgs) {
+  const id = conv.id || "";
+  const count = msgs.length;
+
+  if (id.startsWith("8:")) return "people";
+  if (id.startsWith("28:")) return "bots";
+  if (id.startsWith("48:")) return "system";
+  if (id.startsWith("19:")) {
+    if (id.includes("@cast.skype") && count <= 3) return "system";
+    return "groups";
+  }
+  return "system";
+}
+
+function groupByConversation(messages) {
+  const map = {};
+  messages.forEach(m => {
+    const cid = m.conversationid;
+    if (!map[cid]) map[cid] = [];
+    map[cid].push(m);
+  });
+  return map;
+}
+
+function sortMessages(list) {
+  return list.sort((a, b) =>
+    new Date(a.originalarrivaltime) - new Date(b.originalarrivaltime)
+  );
+}
+
+function formatDateTime(msOrIso) {
+  if (!msOrIso) return "";
+  let d;
+  if (/^\d+$/.test(msOrIso)) {
+    d = new Date(parseInt(msOrIso, 10));
+  } else {
+    d = new Date(msOrIso);
+  }
+  if (isNaN(d.getTime())) return "";
+  return d.toISOString().replace("T", " ").slice(0, 16);
+}
+
+/* sidebar rendering */
+
+function renderConversationList(conversations) {
+  const sections = {
+    people: document.querySelector('[data-section="people"] .section-body'),
+    groups: document.querySelector('[data-section="groups"] .section-body'),
+    bots: document.querySelector('[data-section="bots"] .section-body'),
+    system: document.querySelector('[data-section="system"] .section-body')
+  };
+  Object.values(sections).forEach(el => el.innerHTML = "");
+
+  const counts = { people: 0, groups: 0, bots: 0, system: 0 };
+
+  conversations.forEach(conv => {
+    const msgs = CONV_MESSAGES[conv.id] || [];
+    const type = classifyConversation(conv, msgs);
+    counts[type]++;
+
+    const div = document.createElement("div");
+    div.className = "conv";
+    div.dataset.convid = conv.id;
+
+    const label = conv.displayName || conv.id;
+
+    if (exportMode) {
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.checked = isConversationSelected(conv.id);
+      cb.addEventListener("click", ev => {
+        ev.stopPropagation();
+        setConversationSelected(conv.id, cb.checked);
+        if (CURRENT_CONV_ID === conv.id) {
+          loadConversation(conv.id);
+        }
+      });
+      div.appendChild(cb);
+    }
+
+    const span = document.createElement("span");
+    span.textContent = label;
+    div.appendChild(span);
+
+    div.onclick = () => loadConversation(conv.id);
+    sections[type].appendChild(div);
+  });
+
+  document.querySelectorAll(".section").forEach(sec => {
+    const key = sec.getAttribute("data-section");
+    const span = sec.querySelector(".count");
+    span.textContent = counts[key] ? `(${counts[key]})` : "";
+  });
+}
+
+/* vertical timeline */
+
+function renderTimelineVertical(messages) {
+  const timeline = document.getElementById("timeline-vertical");
+  timeline.innerHTML = "";
+
+  if (!messages.length) {
+    const info = document.createElement("div");
+    info.style.fontSize = "11px";
+    info.style.color = "#666";
+    info.textContent = "No messages";
+    timeline.appendChild(info);
+    return;
+  }
+
+  const dayCounts = {};
+  let minDate = null;
+  let maxDate = null;
+
+  messages.forEach(m => {
+    const dStr = m.originalarrivaltime.slice(0, 10);
+    const d = new Date(dStr + "T00:00:00Z");
+    if (!minDate || d < minDate) minDate = d;
+    if (!maxDate || d > maxDate) maxDate = d;
+    dayCounts[dStr] = (dayCounts[dStr] || 0) + 1;
+  });
+
+  if (!minDate || !maxDate) return;
+
+  const DAY_MS = 24 * 60 * 60 * 1000;
+  const totalDays = Math.floor((maxDate - minDate) / DAY_MS) + 1;
+
+  let resolution = "day";
+  if (totalDays > 365 && totalDays <= 365 * 5) {
+    resolution = "week";
+  } else if (totalDays > 365 * 5 && totalDays <= 365 * 15) {
+    resolution = "month";
+  } else if (totalDays > 365 * 15) {
+    resolution = "year";
+  }
+
+  const buckets = [];
+
+  if (resolution === "day") {
+    for (let i = 0; i < totalDays; i++) {
+      const d = new Date(minDate.getTime() + i * DAY_MS);
+      const dStr = d.toISOString().slice(0, 10);
+      const count = dayCounts[dStr] || 0;
+      buckets.push({ label: dStr, count, scrollDate: dStr });
+    }
+  } else if (resolution === "week") {
+    let start = new Date(minDate);
+    while (start <= maxDate) {
+      const end = new Date(start.getTime() + 7 * DAY_MS);
+      let count = 0;
+      let firstActive = null;
+      for (let d = new Date(start); d < end && d <= maxDate; d = new Date(d.getTime() + DAY_MS)) {
+        const dStr = d.toISOString().slice(0, 10);
+        const c = dayCounts[dStr] || 0;
+        count += c;
+        if (c > 0 && !firstActive) firstActive = dStr;
+      }
+      buckets.push({
+        label: start.toISOString().slice(0, 10) + " (week)",
+        count,
+        scrollDate: firstActive || start.toISOString().slice(0, 10)
+      });
+      start = end;
+    }
+  } else if (resolution === "month") {
+    let year = minDate.getUTCFullYear();
+    let month = minDate.getUTCMonth();
+    const lastYear = maxDate.getUTCFullYear();
+    const lastMonth = maxDate.getUTCMonth();
+
+    while (year < lastYear || (year === lastYear && month <= lastMonth)) {
+      const start = new Date(Date.UTC(year, month, 1));
+      const next = new Date(Date.UTC(year, month + 1, 1));
+      let count = 0;
+      let firstActive = null;
+      for (let d = new Date(start); d < next && d <= maxDate; d = new Date(d.getTime() + DAY_MS)) {
+        if (d < minDate) continue;
+        const dStr = d.toISOString().slice(0, 10);
+        const c = dayCounts[dStr] || 0;
+        count += c;
+        if (c > 0 && !firstActive) firstActive = dStr;
+      }
+      buckets.push({
+        label: `${year}-${String(month + 1).padStart(2, "0")}`,
+        count,
+        scrollDate: firstActive || start.toISOString().slice(0, 10)
+      });
+      month++;
+      if (month > 11) {
+        month = 0;
+        year++;
+      }
+    }
+  } else {
+    let year = minDate.getUTCFullYear();
+    const lastYear = maxDate.getUTCFullYear();
+    while (year <= lastYear) {
+      const start = new Date(Date.UTC(year, 0, 1));
+      const next = new Date(Date.UTC(year + 1, 0, 1));
+      let count = 0;
+      let firstActive = null;
+      for (let d = new Date(start); d < next && d <= maxDate; d = new Date(d.getTime() + DAY_MS)) {
+        if (d < minDate) continue;
+        const dStr = d.toISOString().slice(0, 10);
+        const c = dayCounts[dStr] || 0;
+        count += c;
+        if (c > 0 && !firstActive) firstActive = dStr;
+      }
+      buckets.push({
+        label: `${year}`,
+        count,
+        scrollDate: firstActive || start.toISOString().slice(0, 10)
+      });
+      year++;
+    }
+  }
+
+  const totalBuckets = buckets.length;
+  const timelineHeight = timeline.clientHeight || 400;
+  const boxHeight = Math.max(3, Math.floor((timelineHeight - 2 * totalBuckets) / totalBuckets));
+
+  buckets.forEach(b => {
+    const box = document.createElement("div");
+    box.className = "timeline-box";
+    const c = b.count;
+    const level = c > 0 ? Math.min(15, Math.floor(Math.log(c + 1) * 4)) : 0;
+    const green = c > 0 ? (50 + level * 13) : 230;
+    box.style.background = c > 0 ? `rgb(0, ${green}, 0)` : "#eee";
+    box.style.height = boxHeight + "px";
+    box.title = `${b.label}: ${c} messages`;
+    box.onclick = () => scrollChatToDate(b.scrollDate);
+    timeline.appendChild(box);
+  });
+}
+
+function scrollChatToDate(dateStr) {
+  const chat = document.getElementById("chat");
+  const target = chat.querySelector(`.msg[data-date="${dateStr}"]`);
+  if (target) {
+    target.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+}
+
+/* thread activity */
+
+function renderThreadActivityMessage(msg, container) {
+  const content = msg.content || "";
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(content, "text/xml");
+  const root = doc.documentElement;
+
+  const div = document.createElement("div");
+  div.className = "msg system";
+
+  const inner = document.createElement("div");
+  inner.className = "msg-content";
+
+  const title = document.createElement("div");
+  title.className = "msg-title";
+
+  const body = document.createElement("div");
+  const meta = document.createElement("div");
+  meta.className = "msg-meta";
+
+  const eventtime = root.querySelector("eventtime")?.textContent || "";
+  const initiator = root.querySelector("initiator")?.textContent || "";
+
+  if (root.tagName.toLowerCase() === "topicupdate") {
+    const value = root.querySelector("value")?.textContent || "";
+    title.textContent = "📝 Topic changed";
+    body.textContent = value || "(no topic value)";
+  } else if (root.tagName.toLowerCase() === "addmember") {
+    title.textContent = "➕ Members added";
+    const targets = [...root.querySelectorAll("target")].map(t => t.textContent);
+    body.textContent = targets.length ? targets.join(", ") : "(no targets)";
+  } else {
+    title.textContent = `⚙ ${root.tagName}`;
+    body.textContent = content;
+  }
+
+  const dt = formatDateTime(eventtime || msg.originalarrivaltime);
+  meta.textContent = `${initiator || "(unknown initiator)"} · ${dt}`;
+
+  inner.appendChild(title);
+  inner.appendChild(body);
+  inner.appendChild(meta);
+
+  if (exportMode) {
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = isMessageSelected(CURRENT_CONV_ID, msg.id);
+    cb.addEventListener("click", ev => {
+      ev.stopPropagation();
+      setMessageSelected(CURRENT_CONV_ID, msg.id, cb.checked);
+    });
+    div.appendChild(cb);
+  }
+
+  div.appendChild(inner);
+  container.appendChild(div);
+}
+
+/* extra decoding */
+
+function stripContextBlocks(str) {
+  return str.replace(/<context>[\s\S]*?<\/context>/gi, "");
+}
+
+function renderBingResponse(doc, msg, container) {
+  const br = doc.querySelector("bing-response");
+  if (!br) return false;
+
+  const div = document.createElement("div");
+  div.className = "msg system";
+
+  const inner = document.createElement("div");
+  inner.className = "msg-content";
+
+  const title = document.createElement("div");
+  title.className = "msg-title";
+  title.textContent = "🤖 Bing response";
+
+  const body = document.createElement("div");
+  body.textContent = br.textContent.trim() || "(no content)";
+
+  const meta = document.createElement("div");
+  meta.className = "msg-meta";
+  meta.textContent = formatDateTime(msg.originalarrivaltime);
+
+  inner.appendChild(title);
+  inner.appendChild(body);
+  inner.appendChild(meta);
+
+  if (exportMode) {
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = isMessageSelected(CURRENT_CONV_ID, msg.id);
+    cb.addEventListener("click", ev => {
+      ev.stopPropagation();
+      setMessageSelected(CURRENT_CONV_ID, msg.id, cb.checked);
+    });
+    div.appendChild(cb);
+  }
+
+  div.appendChild(inner);
+  container.appendChild(div);
+  return true;
+}
+
+function renderMediaAlbum(doc, msg, container) {
+  const ma = doc.querySelector("MediaAlbum");
+  if (!ma) return false;
+
+  const albumId = ma.getAttribute("albumId") || "(unknown album)";
+  const div = document.createElement("div");
+  div.className = "msg system";
+
+  const inner = document.createElement("div");
+  inner.className = "msg-content";
+
+  const title = document.createElement("div");
+  title.className = "msg-title";
+  title.textContent = "📷 Media album";
+
+  const body = document.createElement("div");
+  body.textContent = `Album ID: ${albumId}`;
+
+  const meta = document.createElement("div");
+  meta.className = "msg-meta";
+  meta.textContent = formatDateTime(msg.originalarrivaltime);
+
+  inner.appendChild(title);
+  inner.appendChild(body);
+  inner.appendChild(meta);
+
+  if (exportMode) {
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = isMessageSelected(CURRENT_CONV_ID, msg.id);
+    cb.addEventListener("click", ev => {
+      ev.stopPropagation();
+      setMessageSelected(CURRENT_CONV_ID, msg.id, cb.checked);
+    });
+    div.appendChild(cb);
+  }
+
+  div.appendChild(inner);
+  container.appendChild(div);
+  return true;
+}
+
+function humanFileSize(bytes) {
+  const b = parseInt(bytes, 10);
+  if (isNaN(b)) return bytes;
+  const units = ["B", "KB", "MB", "GB", "TB"];
+  let i = 0;
+  let val = b;
+  while (val >= 1024 && i < units.length - 1) {
+    val /= 1024;
+    i++;
+  }
+  return `${val.toFixed(1)} ${units[i]}`;
+}
+
+function renderURIObject(doc, msg, container) {
+  const uriObj = doc.querySelector("URIObject");
+  if (!uriObj) return false;
+
+  const uri = uriObj.getAttribute("uri") || "";
+  const originalName = uriObj.querySelector("OriginalName")?.getAttribute("v") || "(unnamed file)";
+  const fileSize = uriObj.querySelector("FileSize")?.getAttribute("v") || "";
+
+  const div = document.createElement("div");
+  div.className = "msg system";
+
+  const inner = document.createElement("div");
+  inner.className = "msg-content";
+
+  const title = document.createElement("div");
+  title.className = "msg-title";
+  title.textContent = "📄 File";
+
+  const body = document.createElement("div");
+  body.innerHTML = `
+    <div>${originalName}</div>
+    <div>${fileSize ? "Size: " + humanFileSize(fileSize) : ""}</div>
+    ${uri ? `<div><a href="${uri}" target="_blank">Open</a></div>` : ""}
+  `;
+
+  const meta = document.createElement("div");
+  meta.className = "msg-meta";
+  meta.textContent = formatDateTime(msg.originalarrivaltime);
+
+  inner.appendChild(title);
+  inner.appendChild(body);
+  inner.appendChild(meta);
+
+  if (exportMode) {
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = isMessageSelected(CURRENT_CONV_ID, msg.id);
+    cb.addEventListener("click", ev => {
+      ev.stopPropagation();
+      setMessageSelected(CURRENT_CONV_ID, msg.id, cb.checked);
+    });
+    div.appendChild(cb);
+  }
+
+  div.appendChild(inner);
+  container.appendChild(div);
+  return true;
+}
+
+/* participant + message control bar */
+
+function buildParticipantSet(messages) {
+  const set = new Set();
+  messages.forEach(m => {
+    if (m.from) set.add(m.from);
+  });
+  return set;
+}
+
+function renderControlBar(convId, messages, container) {
+  if (!exportMode) return;
+
+  const participants = buildParticipantSet(messages);
+  ensurePartState(convId, participants);
+  ensureMsgState(convId);
+
+  const bar = document.createElement("div");
+  bar.className = "sticky-bar";
+  bar.id = "controlBar";
+
+  /* participants row */
+  const partTitle = document.createElement("div");
+  partTitle.className = "sticky-section-title";
+  partTitle.textContent = "Participants";
+  bar.appendChild(partTitle);
+
+  const partRow = document.createElement("div");
+  partRow.className = "sticky-section-row";
+
+  const partLabel = document.createElement("span");
+  partLabel.textContent = "Participants:";
+  partRow.appendChild(partLabel);
+
+  const partAllBtn = document.createElement("button");
+  partAllBtn.textContent = "Select All";
+  partAllBtn.onclick = () => {
+    selectAllParticipants(convId, participants);
+    loadConversation(convId);
+  };
+  partRow.appendChild(partAllBtn);
+
+  const partNoneBtn = document.createElement("button");
+  partNoneBtn.textContent = "Select None";
+  partNoneBtn.onclick = () => {
+    selectNoneParticipants(convId, participants);
+    loadConversation(convId);
+  };
+  partRow.appendChild(partNoneBtn);
+
+  bar.appendChild(partRow);
+
+  const partList = document.createElement("div");
+  partList.id = "participantsList";
+
+  participants.forEach(p => {
+    const label = document.createElement("label");
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = isParticipantSelected(convId, p);
+    cb.addEventListener("change", () => {
+      setParticipantSelected(convId, p, cb.checked);
+      loadConversation(convId);
+    });
+    label.appendChild(cb);
+    const span = document.createElement("span");
+    span.textContent = p;
+    label.appendChild(span);
+    partList.appendChild(label);
+  });
+
+  bar.appendChild(partList);
+
+  /* messages row */
+
+  const msgTitle = document.createElement("div");
+  msgTitle.className = "sticky-section-title";
+  msgTitle.textContent = "Messages";
+  bar.appendChild(msgTitle);
+
+  const msgRow = document.createElement("div");
+  msgRow.className = "sticky-section-row";
+
+  const msgLabel = document.createElement("span");
+  msgLabel.textContent = "Messages:";
+  msgRow.appendChild(msgLabel);
+
+  const msgAllBtn = document.createElement("button");
+  msgAllBtn.textContent = "Select All";
+  msgAllBtn.onclick = () => {
+    selectAllMessages(convId, messages);
+    loadConversation(convId);
+  };
+  msgRow.appendChild(msgAllBtn);
+
+  const msgNoneBtn = document.createElement("button");
+  msgNoneBtn.textContent = "Select None";
+  msgNoneBtn.onclick = () => {
+    selectNoneMessages(convId, messages);
+    loadConversation(convId);
+  };
+  msgRow.appendChild(msgNoneBtn);
+
+  bar.appendChild(msgRow);
+
+  container.appendChild(bar);
+
+  const chat = document.getElementById("chat");
+  chat.onscroll = () => {
+    const scrolled = chat.scrollTop > 0;
+    bar.classList.toggle("scrolled", scrolled);
+  };
+}
+
+/* chat rendering */
+
+function renderChat(messages) {
+  const chat = document.getElementById("chat");
+  chat.innerHTML = "";
+
+  if (!messages.length) {
+    chat.innerHTML = "<div id='loader'>No messages in this conversation.</div>";
+    return;
+  }
+
+  if (exportMode && !isConversationSelected(CURRENT_CONV_ID)) {
+    chat.innerHTML = "<div class='excluded-message'>This conversation is excluded in export mode.</div>";
+    return;
+  }
+
+  renderControlBar(CURRENT_CONV_ID, messages, chat);
+
+  const participants = buildParticipantSet(messages);
+  ensurePartState(CURRENT_CONV_ID, participants);
+  const visibleParticipants = participants;
+
+  let lastDate = null;
+
+  messages.forEach(m => {
+    const from = m.from || "";
+    if (exportMode && from && !isParticipantSelected(CURRENT_CONV_ID, from)) {
+      return;
+    }
+
+    const date = m.originalarrivaltime.slice(0, 10);
+
+    if (date !== lastDate) {
+      const sep = document.createElement("div");
+      sep.className = "date-separator";
+      sep.textContent = date;
+      chat.appendChild(sep);
+      lastDate = date;
+    }
+
+    const type = m.messagetype || "";
+
+    if (type.startsWith("ThreadActivity/")) {
+      renderThreadActivityMessage(m, chat);
+      return;
+    }
+
+    let content = m.content || "";
+    content = stripContextBlocks(content);
+
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(content, "text/html");
+
+    if (doc.querySelector("bing-response")) {
+      renderBingResponse(doc, m, chat);
+      return;
+    }
+
+    if (doc.querySelector("MediaAlbum")) {
+      renderMediaAlbum(doc, m, chat);
+      return;
+    }
+
+    if (doc.querySelector("URIObject")) {
+      renderURIObject(doc, m, chat);
+      return;
+    }
+
+    const div = document.createElement("div");
+    div.className = "msg";
+    div.dataset.date = date;
+    if (m.from && m.from.startsWith("8:archrux")) div.classList.add("me");
+
+    const inner = document.createElement("div");
+    inner.className = "msg-content";
+
+    if (content.includes("<") && content.includes(">")) {
+      inner.innerHTML = content;
+    } else {
+      inner.textContent = content || "(no content)";
+    }
+
+    if (exportMode) {
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.checked = isMessageSelected(CURRENT_CONV_ID, m.id);
+      cb.addEventListener("click", ev => {
+        ev.stopPropagation();
+        setMessageSelected(CURRENT_CONV_ID, m.id, cb.checked);
+      });
+      div.appendChild(cb);
+    }
+
+    div.appendChild(inner);
+    chat.appendChild(div);
+  });
+}
+
+/* conversation selection */
+
+function loadConversation(convId) {
+  CURRENT_CONV_ID = convId;
+  const msgs = sortMessages(CONV_MESSAGES[convId] || []);
+
+  document.querySelectorAll(".conv").forEach(c => c.classList.remove("active"));
+  const active = [...document.querySelectorAll(".conv")].find(c => c.dataset.convid === convId);
+  if (active) active.classList.add("active");
+
+  renderTimelineVertical(msgs);
+  renderChat(msgs);
+}
+
+/* file loading */
+
+document.getElementById("fileInput").addEventListener("change", async e => {
+  const file = e.target.files[0];
+  if (!file) return;
+
+  const text = await file.text();
+  const json = JSON.parse(text);
+
+  const conversations = json.conversations || [];
+  const allMessages = conversations.flatMap(c => c.MessageList || []);
+  const convMessages = groupByConversation(allMessages);
+
+  DATA = { raw: json, conversations, allMessages };
+  CONV_MESSAGES = convMessages;
+
+  convDefault = true;
+  convDiff = new Set();
+  partDefault = {};
+  partDiff = {};
+  msgDefault = {};
+  msgDiff = {};
+
+  renderConversationList(conversations);
+  document.getElementById("chat").innerHTML = "<div id='loader'>Select a conversation.</div>";
+  document.getElementById("timeline-vertical").innerHTML = "";
+});
+
+/* section collapse */
+
+document.querySelectorAll(".section-header").forEach(header => {
+  header.addEventListener("click", () => {
+    const section = header.parentElement;
+    section.classList.toggle("collapsed");
+  });
+});
+
+/* export mode toggle */
+
+document.getElementById("exportModeToggle").addEventListener("change", e => {
+  exportMode = e.target.checked;
+  document.getElementById("exportButtons").style.display = exportMode ? "flex" : "none";
+  document.getElementById("convSelectButtons").style.display = exportMode ? "flex" : "none";
+
+  if (!DATA) return;
+
+  renderConversationList(DATA.conversations);
+  if (CURRENT_CONV_ID) loadConversation(CURRENT_CONV_ID);
+});
+
+/* conversation select all/none */
+
+document.getElementById("selectAllConvsBtn").addEventListener("click", () => {
+  convDefault = true;
+  convDiff = new Set();
+  if (DATA) {
+    renderConversationList(DATA.conversations);
+    if (CURRENT_CONV_ID) loadConversation(CURRENT_CONV_ID);
+  }
+});
+
+document.getElementById("selectNoneConvsBtn").addEventListener("click", () => {
+  convDefault = false;
+  convDiff = new Set();
+  if (DATA) {
+    renderConversationList(DATA.conversations);
+    if (CURRENT_CONV_ID) loadConversation(CURRENT_CONV_ID);
+  }
+});
+
+/* export helpers */
+
+function buildFilteredExport(forConvId = null) {
+  if (!DATA) return null;
+
+  const base = JSON.parse(JSON.stringify(DATA.raw));
+  const convs = base.conversations || [];
+
+  const filteredConvs = convs
+    .map(conv => {
+      if (forConvId && conv.id !== forConvId) return null;
+      if (!forConvId && exportMode && !isConversationSelected(conv.id)) return null;
+
+      const allMsgs = CONV_MESSAGES[conv.id] || [];
+      const participants = buildParticipantSet(allMsgs);
+      ensurePartState(conv.id, participants);
+      ensureMsgState(conv.id);
+
+      const msgsToExport = allMsgs.filter(m => {
+        const from = m.from || "";
+        if (exportMode && from && !isParticipantSelected(conv.id, from)) return false;
+        if (exportMode && !isMessageSelected(conv.id, m.id)) return false;
+        return true;
+      });
+
+      const convCopy = JSON.parse(JSON.stringify(conv));
+      convCopy.MessageList = msgsToExport;
+      return convCopy;
+    })
+    .filter(Boolean);
+
+  base.conversations = filteredConvs;
+  return base;
+}
+
+function triggerDownload(obj, filename) {
+  const blob = new Blob([JSON.stringify(obj, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+/* export buttons */
+
+document.getElementById("exportThisChatBtn").addEventListener("click", () => {
+  if (!CURRENT_CONV_ID || !DATA) return;
+  const filtered = buildFilteredExport(CURRENT_CONV_ID);
+  if (!filtered) return;
+  const name = `messages_${CURRENT_CONV_ID.replace(/[^a-zA-Z0-9_-]/g, "_")}.json`;
+  triggerDownload(filtered, name);
+});
+
+document.getElementById("exportAllChatsBtn").addEventListener("click", () => {
+  if (!DATA) return;
+  const filtered = buildFilteredExport(null);
+  if (!filtered) return;
+  triggerDownload(filtered, "messages_filtered.json");
+});
+</script>
+
+</body>
+</html>
