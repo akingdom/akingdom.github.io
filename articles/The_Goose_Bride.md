@@ -227,57 +227,69 @@ Harold studied her face, then nodded.
 
 ## Chapter 3 — The King's Frustration
 
-The great oak doors of Rockingham's hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation died. Even the hounds by the hearth flattened their ears.
+The great oak doors of Rockingham's hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
 
 Henry, King of the English, Duke of the Normans, stood in the threshold.
 
-Not a tall man—of middling stature, as men said—yet he was built like a war-horse: thick-necked, barrel-chested, and so broad across the shoulders that he seemed to crowd the doorway. His hunting tunic was stained with the black loam of the forest. His dark hair, streaked with grey and receding from a high, stern brow, was plastered to his temples with sweat.
+He was not a tall man, though built like a war-horse: thick-necked, barrel-chested, his broad shoulders crowding the doorway. His hunting tunic was stained with the black loam of the forest floor and his dark hair was plastered to his temples with sweat.
 
-His eyes, grey as honed steel, swept across the hall and found nothing that pleased him.
+He gazed sharply about the hall and found little that pleased him, until his eyes, grey as honed steel, settled on his queen's face.
 
-The morning's hunt had been a disaster. Two thin hares and a fox too mangy to skin. Henry had returned with empty hands and a temper stoked to white heat.
+The morning's hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. Henry had returned with empty hands and a foul temper.
 
-He did not speak. He did not need to. His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their food. They knew the signs. When the King's hunt was lean, his wrath was often fat.
+His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in the food being laid out on the long tables. They knew the signs. When the King's hunt was lean, his wrath was often fat.
 
-He strode to the high table. Queen Matilda sat there, her fingers wrapped around a goblet she had not drunk from. She watched him approach, her face carefully smooth.
+He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant.
 
-Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. A servant darted forward to fill his goblet. The King ignored him.
+Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
 
-For a long moment, no one breathed.
+For a long moment, no one breathed. Woodsmoke hung lazily in the air, like a reminder of the failed hunt.
 
 Then the Queen spoke.
 
-"My lord, the morning was cold," she said softly. "The game is shy after frost. It is no fault of yours. Besides, I have news that may interest you."
+"Such a frosty morning, my lord," she said softly. "It is no surprise that the game is shy in this cold fog..."
 
-Henry's steely gaze shifted to her. "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat on my peace."
+Henry's steely gaze shifted to the door where his men lingered. Inwardly, he knew a knight with a full belly was less likely to plot against him than a hungry one, but the idle hunt still grated on his sensibilites.
 
-Only then did his face soften a little. "What news?"
+"The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
+
+“Peace is a rare gift, my lord,” Matilda said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the betrothal promise for our young William? It cost you no blood, only a signature.”
+
+Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
+
+“And yet, you pressed the French King hard enough at Gisors that he yielded the west lands to you,” she countered. “Brittany—that rugged rugged sentinel—it is yours in all but name now, and your daughter sits there as Duchess. It is a solid shield for our borders overseas.”
+
+She watched his jaw relax. He liked the map she was drawing.
+
+“In fact,” she added, her voice dropping, “I have recently had news from that very place.”
+
+Only then did his expression soften a little. "What news?"
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## Chapter 4 — The Breton Offer
 
-Matilda leaned closer, her voice dropping.
+Matilda leaned closer to the King, her voice dropping.
 
-"A message from Brittany, my lord. From Duke Conan and his father together."
+"A message from Brittany, my lord. From your son-in-law, Duke Conan."
 
-Henry's eyes narrowed, but he said nothing. He waited.
+Henry's eyes narrowed, but he said nothing. He waited. 
 
-She drew a parchment from her sleeve. "They have a daughter—Agnes, of marriageable age. They propose a match. With Godfrey."
+She drew a parchment from her sleeve. "He has a daughter—Agnes, fair and of marriageable age. They propose a match... with your son Godfrey. Even old Alain, the Duke's father, gives his blessing."
 
-Henry went very still. Then, slowly, a smile spread across his face—but it was not a warm smile. It was the smile of a man who had just spotted a fox in his henhouse.
+Slowly, very slowly, a smile spread across Henry's face; but not a warm smile, rather like that of a man who had just spotted a fox climbing into his henhouse.
 
-"Alain of Brittany," he said softly. "And his son. Together. They want my son."
+"Alain and Conan both want my son?"
 
-He read the letter once, then twice.
+He read the letter, his thumb tracing the wax seal of the House of Cornouaille. 
 
-The Queen pressed forward. "It is a great honour, my lord. The Bretons seek to bind themselves to us with a second knot."
+The Queen pressed forward, uncertainly. “It is a clever move, my lord,” she pressed. “Alain is retiring to a monastery. They want to bind their house to ours with a second knot. It would reinforce our borders.”
 
-Henry set the parchment down. "Old Alain is dying. He looks at his son Conan and wonders: is he strong enough? So he reaches for Godfrey as a backup. A second son-in-law in case the first fails."
+Henry set the parchment down. "That is the point. Old Alain is fading and so he must look at his son Conan and wonder: is he strong enough to stand alone? So he reaches for Godfrey as a second to his son, in case the first should fail. It is an ill wind blowing from the south."
 
-The Queen frowned. "You see treachery where there is only family feeling?"
+The Queen frowned. "Why call it treachery, not stronger family ties?"
 
-Henry laughed—a short, sharp bark. "Family feeling! Madam, my own brother tried to steal my crown. Family feeling fills dungeons."
+Henry laughed his short, sharp bark. "Fie, I say! Family feeling? Nay Madam; my own brother sits in a dungeon for trying to steal my crown."
 
 He leaned forward.
 
@@ -287,29 +299,25 @@ He crumpled the letter.
 
 "No. Godfrey stays here."
 
-The Queen's voice sharpened. "Stays here doing what? Our son William has Anjou. Your daughter has Brittany. Your nephews have lands across the sea. What has Godfrey?"
+The Queen's voice rose sharply, in a rare display of annoyance with the King. "Here under your shadow? Our son William has Anjou. Your daughter Matilda FitzRoy has Brittany. Your nephews have lands over the sea. Yet what name has Godfrey?"
 
-Her voice dropped.
+Her voice dropped to a loud whisper.
 
 "You know what they call him. A weak whelp. A sad shadow."
 
-Henry's jaw tightened.
-
-The Queen pressed on. "In Brittany he would have standing. He would have a name."
-
-Henry raised his cup. He did not slam it. He lowered it carefully onto the oak. The silence was more terrifying than a shout.
+Henry raised the queen's cup to his lips before lowering it carefully onto the oak. The moment of silence was more terrifying than a shout.
 
 "A weak whelp," he repeated, his voice a low rasp. "A shadow."
 
-The Queen recoiled. "I meant no slight—"
+The Queen recoiled. "Henry, I meant no slight—"
 
-"You mean to send him across the sea," Henry cut her off, "where he cannot trouble William."
+"You mean to send him across the sea," Henry cut her off, "where he cannot trouble our William."
 
 The Queen said nothing.
 
 Henry stared at her. "William is barely ten, and already you fear shadows."
 
-He leaned back.
+He leaned back and shook his head in disbelief.
 
 "My father was mocked as the Tanner's Grandson by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
 
