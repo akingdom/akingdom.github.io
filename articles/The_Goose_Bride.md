@@ -169,11 +169,11 @@ She called it **Goosie**.
 
 ## The King’s Demand
 
-One autumn morning a royal messenger rode up to Harold's manor at Stanwey.
+One autumn morning a royal messenger rode up to Harold's manor at Stanwey. The man unrolled a small parchment *writ* and proclaimed...
 
-“The king hunts in Rockingham Forest,” the messenger proclaimed, unrolling a small parchment *writ*. 
+“The king hunts in Rockingham Forest.”
 
-Whenever the king travelled, landholders such as Harold were expected to provide *purveyance*: food and supplies for the royal household. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. The servant held the paper high in the air.
+(Whenever the king travelled, landholders such as Harold were expected to provide *purveyance*: food and supplies for the royal household. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. The servant held the paper high in the air.)
 
 “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
 
