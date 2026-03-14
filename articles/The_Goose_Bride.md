@@ -171,7 +171,7 @@ She called it **Goosie**.
 
 One autumn morning, the Stanwey village smithy was startled by the heavy thud of a horse passing through. A servant peered from the main doorway of Harold’s timber manor as a royal rider pulled up, his cloak stained with the road.
 
-Without dismounting, the rider unrolled a stiff parchment. He did not look at the servant, but rather at the high timber gables of the hall, as if addressing the structure itself. His voice rang with the sharp, clipped accent of the Norman court as he proclaimed:
+Without dismounting, the rider unrolled a stiff parchment. He ignored the servant entirely, projecting his voice toward the high timber gables as if the hall itself were the only thing worthy of his breath. With the sharp, clipped accent of the Norman court, he proclaimed:
 
 “The King hunts in Rockingham Forest.”
 
