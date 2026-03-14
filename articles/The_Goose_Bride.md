@@ -295,7 +295,7 @@ The Queen pressed forward, uncertainly. “It would reinforce our borders. Alain
 
 Henry set the parchment down. "That is the point. Old Alain is fading and so he must look at his son Conan and wonder: is he strong enough to stand alone? So he reaches for Godfrey as a second to his son, in case the first should fail. It is an ill wind blowing from the south."
 
-The Queen frowned. "Why see treachery in a knot that only binds us closer as family?"
+The Queen frowned. "What treachery is found in a knot that only binds us closer as family?"
 
 Henry laughed his short, sharp bark. "Fie, I say! Family feeling? Nay Madam; my own brother sits in a dungeon for trying to steal my crown."
 
@@ -305,9 +305,9 @@ He leaned forward.
 
 He crumpled the letter.
 
-"No. Godfrey stays here."
+"No. If Godfrey is to be a lion, let him grow his claws in my sight. Or would you have me send him back to Salisbury Cathedral? Here is where he belongs."
 
-The Queen's voice rose sharply, in a rare display of annoyance with the King. "Here under your shadow? Our son William has Anjou. Your daughter Matilda FitzRoy has Brittany. Your nephews have lands over the sea. Yet what name has Godfrey?"
+The Queen's voice rose sharply, in a rare display of annoyance with the King. "Our son William has Anjou. Your daughter Matilda FitzRoy has Brittany. Your nephews have lands over the sea. Yet what lands has Godfrey, and what name?"
 
 Her voice dropped to a loud whisper.
 
@@ -337,43 +337,65 @@ The Queen kept quiet and the hall held its breath, until at long last the king b
 
 ## Chapter 5 — The King's Decree
 
-King Henry turned and spoke strongly to everyone assembled in the great hall.
+Henry stood with his back to the room, a silhouette carved against the roaring central hearth. Still stinging from the Queen’s comments about his son, the King did not move for a long moment; he seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
 
-"My father was mocked as the Tanner's Grandson by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
+He turned suddenly, his voice not a shout, but a low, resonant vibration that commanded the sudden silence of the hall.
 
-Emboldened by the King's speech, Roger of Salisbury, the King's Justiciar and keeper of the royal purse, stepped from the shadows. He kept his head bowed, his tone placatory but fixed on the ledger—as if a marriage were no different from a shipment of wool.
+"My father was mocked as the 'Tanner’s Grandson' by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
 
-"My Lord King," Roger murmured into the silence, "since the boy needs a wife, and a marriage is a contract of the state... well. If Brittany will not serve, there are other houses with daughters. We need only find the best bargain. The boy is sure coin enough."
+Henry’s eyes scanned the far wall, unseeing. "I had no lands. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
 
-Henry turned to look at him.
+The rhetoric was cut short by a dry, rhythmic rustle of parchment being squared up.
 
-Not with anger. With something worse: an odd humour, a dangerous smile playing at the corners of his mouth.
+Roger of Salisbury stepped into the light. He was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and the keeper of the realm's cold reality.
 
-"Coin," Henry repeated softly. "You think my son is coin. To be weighed. Bartered. Sold to the highest bidder."
+Henry remained turned toward the fire, his shoulders rigid; thus, it was the Queen who anchored the moment.
 
-Roger's mouth opened, then closed. He realized, too late, that he had stepped where no ledger could protect him.
+"Welcome, Lord Roger," she said, her voice cool and steady. "We were just speaking of the weight of legacy. I trust you bring the weight of the present to balance it?"
 
-Henry's voice dropped, but it carried to every corner of the hall.
+Roger bowed—a shallow, efficient nod. "The present is manageable, Majesty. But the parchment from Brittany requires a decision. Duke Conan offers his daughter Agnes for Prince Godfrey."
 
-"If Godfrey is a shadow, let us see if the shadow can find the sun. If he be a coin, then we shall toss him to the Heavens and see how he lands. "
+Henry finally turned, his eyes regaining a wary, cordially sharp edge. He glanced at the Sheriff of the shire, who stood trembling by the sideboards.
 
-He jabbed a finger toward the carved entrance of the hunting lodge.
+"Roger. What say you of the local Sheriff's tallies for the forest-fines? He tells me the oaks yielded nothing this season, yet my coffers are bruised and the silver they should have bought is nowhere to be seen. Perhaps you might find the truth where he has found only... 'confusion'."
 
-"The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of equal fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
+The Sheriff went pale, sinking into a bow that was more of a collapse.
 
-The Queen stared at him uncertainly, her face pale. "You cannot possibly mean to cast his life so blindly to the winds."
+Roger didn't even look at the man. "The Sheriff’s confusion is a matter for the morning audit, Sire. But the parchment from Brittany is a matter of state. Conan offers a second tie—a redundant circle that adds nothing to our security. We already hold the western flank of Normandy; we do not need to buy Brittany twice."
 
-The King's posture relaxed, the explosive fire cooling into a stony, dismissive indifference. He waved a hand as if swatting a fly.
+He paused, his eyes flicking to the King with a look of devastating common sense.
 
-"If the Heavens wish him wed, they shall provide the woman. Elsewise let us hope the halls stay empty, that I may drink in peace."
+"However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a son who sits outside the direct line of succession. To refuse it is... inefficient. Whether it be the six hundred marks missing from a Sheriff’s bag or ten thousand from a Duke’s treasury, it is a coin left on the table."
 
-He reached for his wine.
+Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
 
-The hall settled into an uneasy silence. Some knights sat frozen in shock, their hands hovering over their daggers. Others smirked into their wine, half hoping to see the King's pride stumble.
+For a long moment, Henry said nothing. The anger had drained from his face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who saw stepsons as obstacles to be tidied away.
 
-A few older lords simply looked at the floor, knowing the awkward truth: the King had spoken a sacred vow before the court. If a beggar girl came in that door, Henry would have to marry his son to her or become a liar before God. If he broke his word, his knights would no longer have to keep their own oaths to him.
+They were both perfectly correct. They were both perfectly loyal. And they were both doing exactly what he had trained them to do.
 
-He had built a cage out of his own pride, with no easy escape.
+I built this, he thought. I made a kingdom where blood is tallied like wool. And now they serve it faithfully—more faithfully, perhaps, than they serve me.
+
+The room felt suddenly small. Henry realized he had only two choices: accept their framing and treat his son as a surplus asset, or reject it and leave Godfrey with nothing.
+
+Then, something flickered behind his eyes. Not anger, but a dangerous, cold clarity. Unless there is a third way.
+
+"So," Henry said softly, his voice dropping to a dangerous rasp. "Everyone arrays against me? Am I the only man in England who sees a son instead of a sack of wool?"
+
+He looked back at Roger, a dangerous smile playing at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
+
+"You think my blood is currency, Roger? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid."
+
+Henry’s voice began to rise, the "Scholar-King" giving way to the impulsive pride of the Conqueror's son. He jabbed a finger toward the heavy, carved doors of the lodge.
+
+"If he be a coin, Roger, then we shall toss him to the Heavens! The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
+
+The Queen stared at him, her face pale. "You cannot possibly mean to cast his life so blindly."
+
+The King's posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall provide. Elsewise, let the hall stay empty, that I may drink in peace."
+
+The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow coram rege—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
+
+Henry reached for his wine, oblivious to the cage he had just built—its door wide open to the night.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -717,6 +739,11 @@ Is the king being unfair, or is he acting as a medieval king normally would? Exp
 In the 1100s, a King’s physical presence was his power. Why would it be important for a medieval audience to know that the King was "barrel-chested" and "broad-shouldered" even if he wasn't very tall?
 
 ---
+They are still **largely relevant**, but the revisions to Chapter 5 have added so much psychological depth that a few questions now feel a bit "thin" compared to the new text. To maintain the "Dunnett-style" complexity for your readers, we should sharpen them to reflect Henry’s self-realization and the specific "accounting" metaphors.
+
+Here is the updated set, refined to mesh perfectly with the new "Option D" narrative.
+
+---
 
 ## **Chapter 4 — The Breton Offer**
 
@@ -731,22 +758,17 @@ Henry says he cannot trust his own daughter because her loyalty is now to her hu
 
 ---
 
-## **Chapter 5 — The King’s Decree**
+## **Chapter 5 — The Ledger and the Lion**
 
 1. **The Tanner's Grandson:** Henry mentions his father (William the Conqueror) was mocked. How does his father’s history influence Henry's view on what makes a person "royal"?
-2. **The "Coin" Insult:** Why does the King find Roger of Salisbury’s suggestion that Godfrey is "sure coin" so offensive?
-3. **The Threshold Vow:** List the three types of women Henry says God might send through the door.
-4. **The Cage of Pride:** Why would Henry’s own knights stop keeping their oaths to him if he broke his "next maid" vow?
-5. **Creative:** Imagine you are a knight smirking into your wine at the end of the chapter. Write a short diary entry about what you hope walks through the door next.
+2. **The "Accounting" Crisis:** Henry realizes he made a kingdom where "blood is tallied like wool." Why does it bother him that Roger and the Queen are being "perfectly loyal" and "perfectly correct"?
+3. **The "Sack of Wool":** Why does the King find the comparison to a sack of wool or a "coin left on the table" so offensive when applied to his son?
+4. **The Third Way:** Henry feels "suffocated" by the choices Roger and the Queen give him. How is his "Next Maid" vow a "Third Way" or a way to "destroy the table"?
+5. **The Cage of Law:** If a beggar girl walks through the door, why would Henry's knights stop keeping their oaths if he refused to marry her to Godfrey?
 
 **Knight's Challenge:**
-Henry says, "If my blood is weak, no crown can help the boy." This reflects a medieval belief in *Innate Nobility*. Does Henry believe being a Prince comes from a title, or from something inside a person? Explain your answer.
+Henry says, "If he cannot thrive with a peasant at his side, he was never my son at all." This reflects a belief in **Innate Nobility** (nobility born *within* a person). Does Henry believe a crown makes a King, or does the man make the Crown? Use evidence from his "Tanner" speech to explain.
 
----
-
-### **Next Step**
-
-Would you like me to finish the transition for **Sir Guy’s Spite**, focusing on how he uses the King’s "blistered" mood to justify tripping Beatrice as she enters the hall?
 ---
 
 ## **Chapter 6 — Sir Guy’s Spite**
