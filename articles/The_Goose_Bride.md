@@ -273,25 +273,29 @@ Only then did his expression soften a little. "What news?"
 
 ## Chapter 4 — The Breton Offer
 
-Matilda leaned closer to the King, her voice dropping.
+Matilda leaned closer to the King, so that he alone could hear her. "A message from Brittany, my lord."
 
-"A message from Brittany, my lord. From your son-in-law, Duke Conan."
+"Is our daughter in good health? What news?"
 
-Henry's eyes narrowed, but he said nothing. He waited. 
+The Queen smiled slightly and drew a parchment from inside her sleeve. 
 
-She drew a parchment from her sleeve. "He has a daughter—Agnes, fair and of marriageable age. They propose a match... with your son Godfrey. Even old Alain, the Duke's father, gives his blessing."
+"Nay, sire, this concerns Duke Conan's daughter, Agnes; she is fair and of marriageable age. They propose a match... with your son Godfrey."
+
+Henry's eyes narrowed, but he said nothing. The Queen turned to face him fully, seeking reassurance.
+
+"Is it not a clever move, my lord? Why, even old Alain (the Duke's father) gives us his blessing."
 
 Slowly, very slowly, a smile spread across Henry's face; but not a warm smile, rather like that of a man who had just spotted a fox climbing into his henhouse.
 
-"Alain and Conan both want my son?"
+"Alain and Conan *both* want my son?"
 
-He read the letter, his thumb tracing the wax seal of the House of Cornouaille. 
+He reread the letter, his thumb tracing the wax seal of the House of Cornouaille. 
 
-The Queen pressed forward, uncertainly. “It is a clever move, my lord,” she pressed. “Alain is retiring to a monastery. They want to bind their house to ours with a second knot. It would reinforce our borders.”
+The Queen pressed forward, uncertainly. “It would reinforce our borders. Alain is to retire to a monastery and so wishes to strengthen ties to our house with a second knot.”
 
 Henry set the parchment down. "That is the point. Old Alain is fading and so he must look at his son Conan and wonder: is he strong enough to stand alone? So he reaches for Godfrey as a second to his son, in case the first should fail. It is an ill wind blowing from the south."
 
-The Queen frowned. "Why call it treachery, not stronger family ties?"
+The Queen frowned. "Why see treachery in a knot that only binds us closer as family?"
 
 Henry laughed his short, sharp bark. "Fie, I say! Family feeling? Nay Madam; my own brother sits in a dungeon for trying to steal my crown."
 
@@ -322,7 +326,6 @@ The Queen said nothing.
 Henry stared at her. "William is barely ten, and already you fear shadows."
 
 He leaned back and shook his head in disbelief.
-
 
 "You speak of Brittany as a sanctuary," he rasped. "I see it as a whetstone where an enemy may sharpen their axe. Would you place a blade in my rival's hand? Pray they do not set it against our William. By all means find Godfrey a wife, but keep him nearby."
 
