@@ -319,25 +319,22 @@ Henry stared at her. "William is barely ten, and already you fear shadows."
 
 He leaned back and shook his head in disbelief.
 
-"My father was mocked as the Tanner's Grandson by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
 
-He swirled his wine.
+"You speak of Brittany as a sanctuary," he rasped. "I see it as a whetstone where an enemy may sharpen their axe. Would you place a blade in my rival's hand? Pray they do not set it against our William. By all means find Godfrey a wife, but keep him nearby."
 
-"If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
+The Queen kept quiet and the hall held its breath, until at long last the king broke the silence.
+
+"My lifeblood is in all my children and they each bring much joy. If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## Chapter 5 — The King's Decree
 
-Henry set down the goblet with a deliberate, haunting softness. He looked toward the arched entrance of the hall, his eyes narrowing.
+King Henry turned and spoke strongly to everyone assembled in the great hall.
 
-"You speak of Brittany as a sanctuary," he rasped. "I see it as a whetstone. You wish to place a blade in a rival's hand and pray they do not turn it toward our William."
+"My father was mocked as the Tanner's Grandson by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
 
-The Queen sat frozen, saying nothing.
-
-For a long moment, the hall held its breath.
-
-Then Roger of Salisbury, the King's Justiciar, stepped from the shadows. He kept his head bowed, his tone placatory but fixed on the ledger—as if a marriage were no different from a shipment of wool.
+Emboldened by the King's speech, Roger of Salisbury, the King's Justiciar and keeper of the royal purse, stepped from the shadows. He kept his head bowed, his tone placatory but fixed on the ledger—as if a marriage were no different from a shipment of wool.
 
 "My Lord King," Roger murmured into the silence, "since the boy needs a wife, and a marriage is a contract of the state... well. If Brittany will not serve, there are other houses with daughters. We need only find the best bargain. The boy is sure coin enough."
 
@@ -719,7 +716,7 @@ In the 1100s, a King’s physical presence was his power. Why would it be import
 1. **The Trap:** Why does Henry believe the marriage offer for Agnes of Brittany is a "fox in his henhouse" rather than a kind gesture?
 2. **Family Feeling:** Henry says "Family feeling fills dungeons." Based on what you know of his brothers, why does he find "kindness" dangerous?
 3. **The Queen’s Motive:** The Queen calls Godfrey a "weak whelp" and a "sad shadow." Why does she want him sent across the sea to Brittany?
-4. **The Tanner's Grandson:** Henry mentions his father (William the Conqueror) was mocked. How does his father’s history influence Henry's view on what makes a person "royal"?
+4. **The Whetstone:** Henry describes Brittany as a "whetstone." What does he fear the Bretons will do with his son if he sends him there?
 5. **Creative:** If you were Duke Alain of Brittany, write the one "personal note" from Godfrey’s sister Matilda that would be most likely to convince him to come.
 
 **Knight's Challenge:**
@@ -729,7 +726,7 @@ Henry says he cannot trust his own daughter because her loyalty is now to her hu
 
 ## **Chapter 5 — The King’s Decree**
 
-1. **The Whetstone:** Henry describes Brittany as a "whetstone." What does he fear the Bretons will do with his son if he sends him there?
+1. **The Tanner's Grandson:** Henry mentions his father (William the Conqueror) was mocked. How does his father’s history influence Henry's view on what makes a person "royal"?
 2. **The "Coin" Insult:** Why does the King find Roger of Salisbury’s suggestion that Godfrey is "sure coin" so offensive?
 3. **The Threshold Vow:** List the three types of women Henry says God might send through the door.
 4. **The Cage of Pride:** Why would Henry’s own knights stop keeping their oaths to him if he broke his "next maid" vow?
