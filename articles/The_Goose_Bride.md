@@ -179,9 +179,9 @@ He held the *writ* high, its wax seal catching the morning light. Rockingham was
 
 “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
 
-Beatrice immediately looked at the goose.
+Indoors, Beatrice immediately scooped up her goose, pulling the bird against her chest as if to shield it from the very sound of the man's voice.
 
-The goose honked at her.
+The goose gave a sharp, indignant honk at her.
 
 The King's servant quickly turned his impatient horse, brushing imagined dust from his cloak as he departed.
 
