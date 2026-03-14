@@ -175,7 +175,7 @@ Without dismounting, the rider unrolled a stiff parchment. He ignored the servan
 
 “The King hunts in Rockingham Forest.”
 
-He held the *writ* high, the wax seal catching the morning light. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. Under the right of *purveyance*, landholders such as Harold were expected to provide food and supplies whenever the royal court moved through the shire.)
+He held the *writ* high, its wax seal catching the morning light. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. Under the right of *purveyance*, landholders such as Harold were expected to provide food and supplies whenever the royal court moved through the shire.)
 
 “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
 
