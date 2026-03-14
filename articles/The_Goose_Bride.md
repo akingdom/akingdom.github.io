@@ -173,7 +173,7 @@ One autumn morning a royal messenger rode up to Harold's manor at Stanwey.
 
 “The king hunts in Rockingham Forest,” the messenger proclaimed, unrolling a small parchment *writ*. 
 
-Whenever the king travelled, landholders such as Harold were expected to provide *purveyance*: food and supplies for the royal household. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology.
+Whenever the king travelled, landholders such as Harold were expected to provide *purveyance*: food and supplies for the royal household. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. The servant held the paper high in the air.
 
 “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
 
@@ -181,9 +181,11 @@ Beatrice immediately looked at the goose.
 
 The goose honked at her.
 
+The King's servant quickly returned to his impatient horse, brushing imagined dust from his cloak as he departed.
+
 Harold sighed.
 
-“It must be done, daughter.”
+“And there it is, daughter. It must be done.”
 
 Beatrice’s eyes filled with tears.
 
@@ -213,7 +215,7 @@ Harold poked at the glowing charcoal.
 
 Beatrice sighed.
 
-“The *agisters* will have the very shoes off the horse for a 'grazing tax,' and the *foresters*... they are but petty tyrants, prowling to bleed a man for merely looking at a deer. Besides, Goosie would just as like end up in a village pot, for the Reeve has a large hungry family."
+“The *agisters* will strip the very shoes from a horse as a 'grazing tax,' and the *foresters*? They bleed a man merely for looking at a deer; petty tyrants! Besides, the Reeve has a large, hungry family, and Goosie would just as like end up in his pot, before they even saw the forest!"
 
 She looked at the charcoal basket by the hearth and then up at her father’s tired face.
 
