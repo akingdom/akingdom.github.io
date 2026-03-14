@@ -169,11 +169,13 @@ She called it **Goosie**.
 
 ## The King’s Demand
 
-One autumn morning a royal messenger rode up to Harold's manor at Stanwey. The man unrolled a small parchment *writ* and proclaimed...
+One autumn morning, the Stanwey village smithy was startled by the heavy thud of a horse passing through. A servant peered from the main doorway of Harold’s timber manor as a royal rider pulled up, his cloak stained with the road.
 
-“The king hunts in Rockingham Forest.”
+Without dismounting, the rider unrolled a stiff parchment. He did not look at the servant, but rather at the high timber gables of the hall, as if addressing the structure itself. His voice rang with the sharp, clipped accent of the Norman court as he proclaimed:
 
-(Whenever the king travelled, landholders such as Harold were expected to provide *purveyance*: food and supplies for the royal household. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. The servant held the paper high in the air.)
+“The King hunts in Rockingham Forest.”
+
+He held the *writ* high, the wax seal catching the morning light. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. Under the right of *purveyance*, landholders such as Harold were expected to provide food and supplies whenever the royal court moved through the shire.)
 
 “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
 
