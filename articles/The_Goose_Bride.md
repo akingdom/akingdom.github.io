@@ -243,13 +243,13 @@ He strode to his seat beside Queen Matilda at the high table. She watched him ap
 
 Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
 
-For a long moment, no one breathed. Woodsmoke hung lazily in the air, like a reminder of the failed hunt.
+For a long moment, no one breathed. Woodsmoke hung lazily in the air, like a reminder of the idle hunt.
 
 Then the Queen spoke.
 
 "Such a frosty morning, my lord," she said softly. "It is no surprise that the game is shy in this cold fog..."
 
-Henry's steely gaze shifted to the door where his men lingered. Inwardly, he knew a knight with a full belly was less likely to plot against him than a hungry one, but the idle hunt still grated on his sensibilites.
+Henry's steely gaze shifted to the door where his men lingered. Inwardly, he knew that a knight with a full belly was less likely to plot against him than a hungry one, but outwardly...
 
 "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
 
