@@ -219,7 +219,7 @@ Beatrice sighed.
 
 She looked at the charcoal basket by the hearth and then up at her father’s tired face.
 
-“No, father, I should take her; she is after all, my goose. I can hide her in a charcoal basket on my hip to blend with the dusty charcoal-bearers on the old Roman road. Besides, I am on the King's business if anyone asks.”
+“No, father, I should take her. I can walk the old Roman road and blend with the dusty charcoal-bearers from the iron mines; Goosie can hide in a basket on my hip. Besides, I am on the King’s business if anyone asks.”
 
 Harold studied her face, then nodded.
 
