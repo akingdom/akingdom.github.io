@@ -183,7 +183,7 @@ Beatrice immediately looked at the goose.
 
 The goose honked at her.
 
-The King's servant quickly returned to his impatient horse, brushing imagined dust from his cloak as he departed.
+The King's servant quickly turned his impatient horse, brushing imagined dust from his cloak as he departed.
 
 Harold sighed.
 
