@@ -411,7 +411,7 @@ Henry's posture relaxed instantly, the fire cooling into a stony, dismissive ind
 
 The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow *coram rege*—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
 
-Henry reached for his wine, oblivious to the cage he had just built—its door wide open to the night.
+Henry reached for his wine, oblivious, for the most part, to the cage he had just built—its door wide open to the night.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -431,7 +431,7 @@ Months earlier, Beatrice and her father had travelled up to the Midsummer Feast 
 
 Insulted, Beatrice had politely begged to be excused, then to go and find her father.
 
-He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding should be more accommodating to a Norman blade. Else, your lands escheat to the King and your hall is burned for charcoal!”
+He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding should be more accommodating to a Norman blade. Else, your lands *escheat* to the King and your hall is burned for charcoal!”
 
 She had told him coldly that she preferred men who worked for their supper, not some fine *popinjay* who lived off the sweat of others.
 
@@ -459,7 +459,7 @@ The goose darted across the hall like a feathered arrow.
 
 Someone muttered:
 
-“My troth! A goose in the king’s hall.”
+“My troth! A goose loose in the king’s house.”
 
 The bird leapt onto the king’s table.
 
@@ -489,7 +489,7 @@ Henry chuckled, his eyes glinting with a curious merriment.
 
 "At last—an honest creature in this hall. Spare the goose, you plead?"
 
-It was a novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
+It was a pleasing novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
 
 “I say she has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
 
@@ -858,57 +858,195 @@ Why might Beatrice be a better match for Godfrey than the noble brides the queen
 What is the true “gift” Beatrice brings to the royal family — and why is it more valuable than gold or tribute?
 
 
-## 📜 Fact Sheet: The World of the 'Goose Bride' (12th-Century England)
+Here is the complete, updated Fact Sheet with all revisions integrated:
+
+---
+
+## 📜 Facts: The World of the 'Goose Bride' (12th-Century England)
 
 This guide provides the historical "bones" for our story. It explains why Beatrice walks, why her father is worried, and how the law of the forest rules their lives.
 
 ---
 
-### 🏰 The Home: Life in the "Hall"
+### 🏰 The Saxon Home: Life in the "Hall"
 
 In the 1100s, Beatrice and Harold don't live in a house—they live in a **Hall**.
 
 * **The Structure:** A timber-framed "longhall" with a central fire-pit. There are no chimneys; smoke escapes through a hole in the thatch roof.
 * **The Saxon Thegn:** Harold "Red-Wolf" represents the Thegns, the pre-Conquest Saxon nobility. While many lost their lands to Norman lords, some were kept on as foresters or local officials because of their deep knowledge of the terrain and their martial skill.
-* **The Status:** The Hall is the heart of the community. It’s where the **Manorial Court** is held and where villagers bring their "renders" (taxes paid in eggs, grain, or ale).
+* **The Status:** The Hall is the heart of the community. It's where the **Manorial Court** is held and where villagers bring their "renders" (taxes paid in eggs, grain, or ale).
 * **The Upkeep:** The villagers (called **villeins**) owe Harold "boon-work." They are legally required to help repair his roof or stone walls.
 
-### 🌲 The Law: The King’s Forest & Purveyance
+---
 
-Stanwey is located within **Rockingham Forest**. In the 1100s, a "Forest" wasn't just trees; it was a legal zone where the King’s word was absolute.
+### 🌲 The Law: The King's Forest & Purveyance
+
+Stanwey is located within **Rockingham Forest**. In the 1100s, a "Forest" wasn't just trees; it was a legal zone where the King's word was absolute.
 
 * **Rockingham Forest & Purveyance:** Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. **Purveyance** was the dreaded royal right to seize food and transport from locals to support the travelling court.
-* **Vert and Venison:** It was a crime to cut "green wood" or hunt the King’s deer. Even carrying a bow could lead to a massive fine.
+* **Vert and Venison:** It was a crime to cut "green wood" or hunt the King's deer. Even carrying a bow could lead to a massive fine.
 * **The "Lawed" Dog:** To protect the deer, any large dog kept for protection had to have three claws removed from its front feet (called "expediting") so it couldn't chase game.
 * **The Roman Road (Stanwey):** The name Stanwey refers to the Roman roads common in the Rockingham area. *Stan* means stone and *Wey* (or Way) means a thoroughfare or road. The **Gartree Road**—an ancient, straight, stone-paved Roman highway—is the main artery for messengers and charcoal-burners.
+
+---
 
 ### ⚖️ Politics, Land and Lineage
 
 The legal landscape of the 1120s was defined by the struggle between the old Saxon ways and the new Norman rules.
 
 * **The Son-less Lord:** In Norman law, land is held in exchange for military service. Because Harold has no son to fight for him, his land is "vulnerable."
-* **The Ward of the Crown:** If Harold dies, the King has the legal right to choose Beatrice’s husband—usually a Norman knight who wants her land.
+* **The Ward of the Crown:** If Harold dies, the King has the legal right to choose Beatrice's husband—usually a Norman knight who wants her land.
 * **The "Scutage" (Shield Money):** Harold likely sold his warhorses to pay "scutage"—a tax paid to the King to avoid going to war in his old age.
-* **The King’s Brother (Robert Curthose):** Henry I’s eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King’s jokes about Robert’s "wet wit" and "sodden toad" historically biting.
+* **The King's Brother (Robert Curthose):** Henry I's eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King's jokes about Robert's "wet wit" and "sodden toad" historically biting.
 * **Prince Godfrey (The "Natural" Son):** King Henry I is famously credited with fathering the most illegitimate children of any English monarch (over 20). While the "Lord Godfrey" of this story is fictional, Henry frequently used his "natural" children to build political bridges and reward loyal families.
+
+---
+
+### 🐺 Who Was Harold "Red-Wolf"? (And Why Does the King Call Him "Hrathulfr"?)
+
+Readers sometimes ask: **"In the story, Harold is a Saxon lord who serves Norman kings. Is that historically realistic? Wouldn't the Normans have replaced all the Saxon lords after 1066?"**
+
+**A:** It's realistic—but it was rare, needing the right circumstances.
+
+After the Norman Conquest in 1066, William the Conqueror did indeed replace most of the Anglo-Saxon aristocracy with his own Norman followers. This process took about twenty years, and by the 1080s, very few Saxon lords held significant lands.
+
+However, there were exceptions. A Saxon lord might keep his lands if he:
+
+* **Submitted to William early**, before the major battles
+* **Swore loyalty** and proved useful to the new regime
+* **Performed a valuable service** that earned royal gratitude
+* **Held lands in a strategic area** where the king preferred continuity
+
+The fictional Harold "Red-Wolf" fits this pattern, especially with his shared Viking ancestry. He fought in the early resistance (as the story says, he "fought in the wars that followed the Conquest"), but eventually made peace with the new order. His heroic act—saving the king's brother from drowning—would have been exactly the kind of deed that earned lasting royal favor.
+
+---
+
+**Q: Why does King Henry call Harold "Hrathulfr"? That sounds Norse, not Saxon.**
+
+**A:** Another excellent observation! "Hrathulfr" (or Hróðulfr) is indeed an Old Norse name. But here's the historical twist:
+
+The **Danelaw**—the part of England settled by Vikings centuries before the Conquest—had a lasting influence on names and culture. The Danelaw covered about a third of England, including large parts of the Midlands where Stanwey is located. Many people in these regions had names of Scandinavian origin. A Saxon thegn with a Norse-derived name like "Hrathulfr" is entirely plausible.
+
+The Normans themselves were descendants of Vikings who had settled in France in the early 900s. So when King Henry uses the old Norse form of Harold's name, it's a subtle nod to their shared ancestral roots—and a sign of personal familiarity. He's not using a formal title; he's using the name from the youth of an old warrior.
+
+---
+
+**Q: Harold "Red-Wolf" is Saxon, but he has a Norse name and serves Norman kings. Isn't that confusing?**
+
+**A:** It might seem that way, but actually it reflects the beautiful complexity of medieval England and the English language!
+
+By 1113, when our story takes place, England had been shaped by waves of settlement: Celts, Romans, Angles, Saxons, Vikings, and Normans. A man like Harold represents that layered history. He is:
+
+* **By ancestry:** Saxon (with Norse roots in the Danelaw)
+* **By loyalty:** A servant of the Norman crown
+* **By reputation:** "Red-Wolf," a nickname earned by his deeds
+* **By relationship:** An old warrior remembered personally by the king
+
+This complexity enriches the story. It shows that identity in the Middle Ages wasn't simple—and that loyalty, courage, and honor transcended the labels of "Saxon" or "Norman."
+
+---
+
+**Q: Does this matter for the story?**
+
+**A:** Yes—in a wonderful way!
+
+Harold's Saxon heritage creates a quiet but powerful theme. Here is a man from a conquered people, yet he is honored by the king, his daughter marries a prince, and his ancient bloodline is called "good blood of an ancient house." This echoes the story's deeper message: true worth is not a matter of birth or conquest, but of character and deeds.
+
+When Henry later says, *"If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it,"* he could almost be talking about Harold—a man whose nobility needed no crown to prove it.
+
+---
 
 ### 🦢 The Journey: Social Cues & Logistics
 
-Beatrice walking five miles to the Royal Lodge at **Brigstock** isn't just about exercise; it’s a statement of her status and her survival skills.
+Beatrice walking five miles to the Royal Lodge at **Brigstock** isn't just about exercise; it's a statement of her status and her survival skills.
 
 * **Avoiding Tolls:** Riding a horse often meant paying "palfrey taxes" or forest tolls to the King's officers (the **Agisters**).
 * **The "Peaceful Petitioner" Gesture:** The act of raising both palms (*ostentatio manuum*) was a recognised legal and social gesture. It proved the petitioner was unarmed and was a common posture for those seeking mercy or making a formal request of a superior.
 * **Maidenly Modesty (Hair and Rings):** In the 12th century, loose, uncovered hair was the primary signifier of an unmarried maiden. Once married, a woman was socially and religiously required to wear a wimple or veil. Similarly, the absence of a ring or band on the hand and by naming her father's household, it is all clear enough that she is still under her father's "*mund*" (legal protection/guardianship).
 * **The Goose Factor:** A large, angry white goose is much easier to carry in a basket than to balance on a galloping horse!
 
+---
+
 ### 👑 The Royal Court: Secrets & Legends
 
-* **Queen Matilda’s Secret Heritage:** Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen’s eventual "softening" toward Beatrice carries a deeper historical weight.
+* **Queen Matilda's Secret Heritage:** Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen's eventual "softening" toward Beatrice carries a deeper historical weight.
 * **The Lamprey Legend:** Henry I was famously fond of lampreys (eel-like jawless vertebrates). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
 
 ---
 
-### 🛡️ Social Hierarchy: Who’s Who?
+### 👵 What About the Mothers?
+
+**Q: We hear a lot about the fathers in this story—Harold and Henry. But what about the mothers? Who was Godfrey's mother? And what happened to Beatrice's mother?**
+
+**A:** Wonderful question! The story focuses on the fathers because medieval inheritance and politics ran through the male line, but the mothers are present in the story's silences. Here's what we know—and what we can surmise.
+
+---
+
+#### 👑 Godfrey's Mother: The Unknown Mistress
+
+King Henry I is famously credited with fathering the **most illegitimate children of any English monarch—over 20 in total**. While his legitimate children (William Adelin and Empress Matilda) were born to Queen Matilda of Scotland, his "natural" children like Godfrey came from a series of mistresses whose identities were rarely recorded.
+
+| Fact | What We Know |
+| :--- | :--- |
+| **Who was she?** | Her name is lost to history—deliberately. Chronicles recorded the names of kings and bishops, not the women who bore their bastards. |
+| **What was her status?** | She was likely a noblewoman, possibly from a Norman or English family. Henry's illegitimate children were married into high noble houses, suggesting their mothers had status enough that the children were considered marriageable. |
+| **Did she raise Godfrey?** | Probably not. Anglo-Norman royal children, legitimate or otherwise, were often raised in households separate from their parents. They might be sent to noble families for fostering or placed in religious houses for education. |
+| **Did she have other children?** | Possibly. Henry's illegitimate children had several different mothers. Godfrey may have had full siblings, or he may have been the only child of this particular union. |
+| **Was she still alive in 1113?** | Possibly, possibly not. She would have had no formal role at court regardless. As an unmarried mistress, her position was entirely dependent on the king's favor. |
+
+**What we can imagine:** She was likely young when she caught Henry's eye—perhaps a lady-in-waiting, a daughter of a loyal baron, or a noble widow. Their relationship may have been brief or lasting; we simply don't know. What we do know is that she gave Henry a son, and that son grew up to be a man of "quiet grace" who knew how to wait.
+
+---
+
+#### 🏡 Beatrice's Mother: The Lady of Stanwey
+
+Beatrice's mother is never named in the story, but her presence is felt throughout. The READER questions section reveals one crucial detail:
+
+> **"How did she come to raise the goose herself? AK: Regarding Goosie, Beatrice's late mother was actually the one that arranged for Beatrice to be there when Goosie hatched from an egg."**
+
+This tiny detail opens a window into who she was.
+
+| Fact | What We Know or Can Surmise |
+| :--- | :--- |
+| **She is deceased by 1113** | Harold is alone with Beatrice at the start of the story. The fact that Beatrice manages the household "without murmur" suggests she has stepped into her mother's role. |
+| **She arranged for the goose** | This tells us she was thoughtful, forward-looking, and understood the value of small joys. She knew her daughter would love raising a gosling. |
+| **She taught Beatrice** | Beatrice's skills—tending the sick with herbs and medicine, overseeing the brewing and the buttery, managing the manor—would have been learned from her mother. |
+| **She was Harold's wife** | As the wife of a Saxon thegn who had fought in the wars following the Conquest, she lived through turbulent times. She may have been a Saxon woman from a neighboring family, or perhaps the daughter of another thegn. |
+| **She likely had other children** | The story mentions Beatrice has "no brother to defend the holding." This doesn't mean she had no siblings—only that she had no *brothers*. Sisters would not affect the inheritance. |
+
+**What we can imagine:** She was the practical heart of Stanwey—the one who knew which herbs healed fevers, which villagers could be trusted, and how to stretch provisions through a hard winter. She saw in Beatrice the same capable spirit and nurtured it. Her death left a void that Beatrice quietly filled, and a grief that Harold carries in his tired bones.
+
+---
+
+#### 👸 The Queen as Stepmother
+
+Queen Matilda was a real person. Her relationship to fictional Godfrey adds another layer to the story's exploration of motherhood.
+
+| Fact | Relevance |
+| :--- | :--- |
+| **Matilda was known for piety and learning** | She ran a cultured court, patronized the arts, and was deeply involved in governance. When Henry was away, she governed in his name. She would have set expectations for all the young people in her household. |
+| **She had her own children to protect** | Her son William Adelin was the heir. Her daughter Matilda (later Empress) was married into German nobility. Her primary loyalty was to them. |
+| **Step-relations were complex** | Royal stepmothers were expected to care for all children in the household, but their first duty was to their own offspring. This tension is exactly what we see in Chapter 4. |
+
+When the Queen calls Godfrey a "weak whelp" and a "sad shadow," it's not simple cruelty—it's a woman trying to clear a path for her own child, while trying to care for another. Her later softening toward Beatrice, noted in the wedding chapter, reflects both her own Saxon heritage (which would make her sympathetic to Beatrice's bloodline) and perhaps a recognition that she had been too harsh.
+
+---
+
+#### 👵 The Mothers' Legacy
+
+Though neither mother appears in the story, both shape it:
+
+| Mother | Legacy |
+| :--- | :--- |
+| **Godfrey's mother** | Gave him royal blood and a place at court, then stepped aside—as mistresses had to—leaving him to navigate the world on his own. His patience and quiet grace may have been her gifts. |
+| **Beatrice's mother** | Trained her daughter to manage a manor, tend the sick, and speak her mind. She gave her a goose—a small thing that became the instrument of fate. |
+| **Queen Matilda** | Complicates the story with her very human conflict: love for her own child versus duty to her stepson. Her arc from suspicion to acceptance mirrors the story's theme that true worth reveals itself. |
+
+**In short:** The mothers are absent but not absent. They live on in what their children have become—and in one case, in a goose that waddles where kings must wait.
+
+---
+
+### 🛡️ Social Hierarchy: Who's Who?
 
 | Title | Role |
 | --- | --- |
@@ -993,7 +1131,7 @@ They expect a lady of the court. They expects a political solution.
 Instead, the doors swing wide for Beatrice, the sharp-witted daughter of a fallen Saxon warrior known as the Red-Wolf. She hasn't come for a crown or a husband; she has come to save her prize goose from the King's table.
 
 ---
-## READER Questions
+## More READER Questions
 
 > How did she come to raise the goose herself?
 
@@ -1002,4 +1140,13 @@ AK: *Regarding Goosie, Beatrice's late mother was actually the one that arranged
 
 
 ---
-(C) 2024-2026 Andrew Kingdom all rights reserved. Licensed to 'Greek Fairy Tales'. May be reproduced for educational use.
+
+## ✅ LICENSE
+
+> **Text (English and Greek):** © 2024-2026 Andrew Kingdom. This work in its entirety is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). Educators may reproduce this story for classroom use without additional permission. All other rights, including film, translation, and commercial adaptation, are reserved.
+>
+> **Images:** © 2024-2026 Andrew Kingdom. Images are covered under the same CC BY-NC-ND 4.0 license as the text. For commercial or print publication, please contact the author for licensing.
+>
+> **Greek version:** Licensed exclusively to Greek Fairy Tales for publication. All other rights remain with the author.
+>
+> **Attribution for educators:** When sharing, please include: *"The Goose Bride" © 2024-2026 Andrew Kingdom, used under CC BY-NC-ND 4.0. Original at [https://akingdom.github.io/articles/The_Goose_Bride].*
