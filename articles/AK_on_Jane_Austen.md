@@ -71,9 +71,9 @@ Jane Austen’s *Juvenilia*, her early collection of writings, shows how she evo
 9. **Value Feedback:** Jane likely shared her early works with family, learning from their feedback. Seek constructive criticism to help you grow as a writer.
 
 [![Young Jane Austen](JaneAusten_media/final-Jane-Austen-redux-by-AK-thumb.png)](JaneAusten_media/final-Jane-Austen-redux-by-AK.png)<br>
-*Jane Austen based on a confirmed portrait<br>
-by Andrew Kingdom*
+*Jane Austen based on a confirmed portrait.<br>
+This portrait by Andrew Kingdom*
 
 ---
 
-CC-BY LICENSE for text. Andrew Kingdom 2024. Both images are licensable (paid) for commercial or educational publications *but* free to reproduce by individual schools in class materials with attribution; created after much research and effort, generated using AI tool but the artworks are mine. 
+CC-BY LICENSE for text. Andrew Kingdom 2024. Both images are licensable (paid) for commercial or educational publications *but* with attribution they are free to reproduce by individual schools in class materials; created after much research and effort, assisted by AI tools, but the artworks and text are mine. 
