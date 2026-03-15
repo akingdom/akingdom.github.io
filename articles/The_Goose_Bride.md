@@ -527,7 +527,7 @@ He looked at her and shook his head.
 
 As Beatrice turned to leave, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
 
-“And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a basket, a knight of my guard can surely find some honest work to do before sunset.”
+“And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.”
 
 It seemed that the King missed very little in his court. 
 
