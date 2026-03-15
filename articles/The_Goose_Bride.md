@@ -261,7 +261,7 @@ Henry's steely gaze shifted to the door where his men lingered. Inwardly, he kne
 
 Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
 
-“And yet, you pressed the French King hard enough at Gisors that he yielded the west lands to you,” she countered. “Brittany—that rugged rugged sentinel—it is yours in all but name now, and your daughter sits there as Duchess. It is a solid shield for our borders overseas.”
+“And yet, you pressed the French King at Gisors such that he yielded the west lands to you,” she countered. “Brittany—our rugged sentinel—it is yours in all but name now, and your daughter sits there as Duchess. It is a solid shield for our borders overseas.”
 
 She watched his jaw relax. He liked the map she was drawing.
 
@@ -331,7 +331,7 @@ He leaned back and shook his head in disbelief.
 
 The Queen kept quiet and the hall held its breath, until at long last the king broke the silence.
 
-"My lifeblood is in all my children and they each bring much joy. If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
+"My lifeblood is in all my children and they each bring us much joy. If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -349,7 +349,7 @@ The rhetoric was cut short by a dry, rhythmic rustle of parchment being squared 
 
 Roger of Salisbury stepped into the light. He was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and the keeper of the realm's cold reality.
 
-Henry remained turned toward the fire, his shoulders rigid; thus, it was the Queen who anchored the moment.
+Henry remained turned toward the fire, his shoulders rigid; thus, it fell to the Queen to anchor the moment.
 
 "Welcome, Lord Roger," she said, her voice cool and steady. "We were just speaking of the weight of legacy. I trust you bring the weight of the present to balance it?"
 
@@ -421,7 +421,7 @@ Beatrice reached the hunting lodge by midday.
 
 The place swarmed with soldiers and servants. 
 
-The hall was still nursing the King's mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would feel the steam. 
+The hall was still nursing the King's mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary of its hot steam. 
 
 As Beatrice entered, carrying the handmade basket and dusty from the journey, a young Norman knight lounging near the doorway recognised her.
 
@@ -437,7 +437,7 @@ She had told him coldly that she preferred men who worked for their supper, not 
 
 He had not forgotten the insult.
 
-Seeing her now amused him: standing in the King’s royal hall with a smudge of charcoal on her nose.
+Seeing her now amused him terribly: standing at the entrance to the King’s royal hall with a smudge of charcoal on her nose.
 
 As she walked past him, he extended one boot slightly, interrupting her path.
 
@@ -463,7 +463,7 @@ Someone muttered:
 
 The bird leapt onto the king’s table.
 
-Henry burst into laughter.
+Henry blinked at the goose, then roared with laughter: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
 
 “Well! At last a lively hunt!”
 
@@ -477,9 +477,9 @@ The King blinked.
 
 “Your goose?”
 
-Laughter rippled throughout the hall. 
+Laughter rippled again throughout the hall. 
 
-Sir Guy, called out rudely. "This Saxon girl needs a lesson that her father's hall could not teach."
+Sir Guy, emboldened by the court's uncertain laughter, called out: "This Saxon girl needs a lesson her father's hall could not teach!"
 
 Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller. All eyes turned toward her as she curtsied low. Drawing courage in the silence, she spoke.
 
