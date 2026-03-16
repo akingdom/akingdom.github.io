@@ -529,7 +529,7 @@ Another crack. A wet, wobbly head emerged.
 
 Beatrice held her breath.
 
-The hen, patient and ancient, did nothing. Just watched as the creature struggled, rested, struggled again. She had done her part. The rest was up to the egg.
+The hen, patient and ancient, did nothing. Just watched as the creature struggled, rested, struggled again. She had done her part. The rest was up to the hatchling.
 
 And when the shell finally fell away, and a damp, bewildered gosling blinked at the world, Beatrice reached out one finger and touched its head.
 
@@ -551,13 +551,7 @@ She named her Goosie.
 
 ---
 
-You're right. The disconnect is exactly where you feel it—between the mother's death and Harold's transformation. We need Harold *present* in the dying, not just in the aftermath. And we need Beatrice to move through grief in a way that feels true to a child, with Goosie as her constant.
-
-Let me revise the sequence, weaving Harold in and adding the moments you suggested.
-
----
-
-## Chapter 4 — Mother Lessons (Revised Opening)
+## Chapter 4 — Mother Lessons
 
 The years that followed were full of geese and growing. Her mother taught her everything—not in lessons, but in the doing of things.
 
