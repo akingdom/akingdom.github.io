@@ -400,17 +400,20 @@ Let me create a **merged opening** that:
 
 Then you can judge whether it's a major win or just rearrangement.
 
----
+
+
+"An gōs mæi wenden þær Cyning mōt bīden." It was a fōl-speche of the Shires since the coming of the Normans. Yet, the wīse-wīf of Myrce tald of a mæiden who proved the word sōth.
+=======================================================================
 
 ## Draft: Merged Opening
 
-**“A goose may wend where a King must wait.”**
+**“A goose may wend where a King must bide.”**
 
-Foolish village talk to some. In Mercia, however, wise women told how soon after the Norman conquest, there lived a young woman who proved the saying strangely true.
+It was a witless saying from the Norman harrowing of England. Yet, the wise-wives of Mercia spoke of a maiden who proved the word most true.
 
 ---
 
-### Chapter 1 — A Goose of My Own
+## Chapter 1 — A Goose of My Own
 
 Beatrice bounded across the meadow, crying, her legs driven forward by a flock of geese, gander leading the charge, hissing at the intruder, neck low, wings half-spread, leading the furious chase.
 
@@ -420,7 +423,7 @@ Then a hand caught her arm.
 
 "Don't move."
 
-A boy stood beside her—older by a few years, well-dressed, calm in a way that seemed impossible. He stared at the geese, spread his arms wide, his cloak opening like great wings.
+A boy stood beside her—older by a few years, well-dressed, calm in a way that seemed impossible. He stared down the geese, spread his arms wide, his cloak opening like great wings.
 
 The geese slowed. Hissed uncertainly. Then, one by one, they turned and waddled back toward the pond.
 
@@ -428,7 +431,7 @@ The girl stared after them, mouth open, panting hard.
 
 "How... how did you do that?"
 
-"My nurse keeps them." A pause. "Besides, my father owns all the geese in the country."
+"My father owns all the geese. My nurse keeps them at home."
 
 She dried her eyes. "Don't be silly! How can someone own *all* the geese?"
 
@@ -438,7 +441,7 @@ A woman's voice called from the edge of the meadow. "Beatrice?! Come here!"
 
 "Oh. Coming, mother!"
 
-She turned to thank the boy, but he had vanished.
+She turned back to thank the boy, but he had vanished.
 
 ---
 
@@ -454,21 +457,107 @@ Her mother smiled—a warm, tired smile. "We'll raise one together. I'll teach y
 
 ---
 
-## Chapter 2 — My Goose
+## Chapter 2 — The Farm by the River
 
-A few weeks later, her mother led her to the poultry shed. Beneath a goose, among the eggs, one was larger—speckled, warm, alive.
+Three days later, mother took Beatrice's hand and walked her down the lane toward the river.
 
-"This one will hatch soon," her mother said. "Would you like to be here?"
+"Where are we going?"
 
-Beatrice nodded.
+"To get your goose."
 
-They waited together as the sun set and the stars came out. And when the shell finally cracked, and a wet, wobbly head emerged, Beatrice was there.
+The farm sat by the river bend, just where the meadow gave way to reeds. Geese wandered everywhere—white and grey, hissing and honking, ignoring them entirely. Beatrice stayed close to mother's skirt.
+
+A woman came out of the farmhouse. Not young, but not old either. She wiped her hands on her apron and looked at them both with calm, measuring eyes.
+
+"After an egg, are you?"
+
+"One of the speckled ones, if you have it," mother said. "The ones that run true."
+
+The woman nodded. "This way."
+
+She led them to the poultry shed. Inside, beneath a sitting goose, among a nest of eggs, one was larger—speckled, warm, alive.
+
+"That one," the woman said. "Due to hatch within the fortnight. But she's not the sitting kind, that goose. Won't see it through."
+
+Mother knelt beside Beatrice. "We'll need a hen, then. A broody one."
+
+The woman considered. "I've got an old speckled hen. Been sitting on stones for a week. She'll take anything."
+
+She fetched the hen—a small, fierce-looking thing with feathers the color of autumn leaves—and placed her in a straw-lined basket. Then, carefully, she added the speckled egg.
+
+The hen ruffled, settled, and tucked the egg beneath her without complaint.
+
+"There," the woman said. "She'll do the work. You just keep her fed and calm."
+
+Mother reached into her pouch. Handed the woman something—a coin, a small cloth bundle, Beatrice couldn't see what.
+
+The woman took it. Nodded.
+
+"Oh, thank you, my lady."
+
+Mother didn't react. Just took the basket, steady and careful, and placed it in Beatrice's arms.
+
+"Walk slowly. She's doing the hard part now."
+
+Beatrice walked home holding the basket, barely breathing, as if the smallest movement might break everything. Behind them, the woman watched from the farmhouse door. Just for a moment. Then she turned back to her geese.
+
+---
+
+## Chapter 3 — The Vigil
+
+For two weeks, Beatrice watched.
+
+The hen sat in her basket by the hearth, feathers fluffed, eyes half-closed. She ate when offered, drank when a dish was placed before her, but never left the egg.
+
+"She knows," mother said. "She'll feel it when it's time."
+
+Beatrice brought her scraps. Talked to her. Named her, though the name changed daily.
+
+And every night, before bed, she knelt by the basket and pressed her ear close.
+
+"Is it moving?"
+
+"Not yet. Soon."
+
+Then, on the fourteenth night, as the sun set and the stars came out, the hen stirred.
+
+Beatrice called for her mother.
+
+They sat together in the firelight, watching. The hen shifted, clucked softly, shifted again. And then—a crack. So small Beatrice thought she'd imagined it.
+
+Another crack. A wet, wobbly head emerged.
+
+Beatrice held her breath.
+
+The hen, patient and ancient, did nothing. Just watched as the creature struggled, rested, struggled again. She had done her part. The rest was up to the egg.
+
+And when the shell finally fell away, and a damp, bewildered gosling blinked at the world, Beatrice reached out one finger and touched its head.
+
+The gosling made a sound. Small. Questioning.
+
+Beatrice looked at her mother.
+
+"Can I hold her?"
+
+"Wait until she's dry. She needs to know the hen first."
+
+They waited. The hen, satisfied her job was done, stood and walked away without looking back. The gosling cheeped once, then turned—toward Beatrice.
+
+"Now," mother said softly. "Now she's yours."
+
+Beatrice lifted the gosling. It fit in one palm, warm and weightless.
 
 She named her Goosie.
 
 ---
 
-### Mother Lessons
+You're right. The disconnect is exactly where you feel it—between the mother's death and Harold's transformation. We need Harold *present* in the dying, not just in the aftermath. And we need Beatrice to move through grief in a way that feels true to a child, with Goosie as her constant.
+
+Let me revise the sequence, weaving Harold in and adding the moments you suggested.
+
+---
+
+## Chapter 4 — Mother Lessons (Revised Opening)
 
 The years that followed were full of geese and growing. Her mother taught her everything—not in lessons, but in the doing of things.
 
@@ -478,21 +567,95 @@ Beatrice learned. She watched and she listened and she learned.
 
 Then her mother grew tired. Then pale. Then thin.
 
-She kept teaching, even from her bed. Her voice grew softer, but her eyes stayed sharp. She would call Beatrice close and explain how to settle a dispute between villagers, or which mushrooms to gather and which to leave, or how her father took his tea after a long day.
+---
 
-Beatrice memorized everything. She didn't know she was memorizing a goodbye.
+## Chapter 5 — Apple Blossoms
+
+It was a slow fading, like the light at the end of a long day. Some mornings her mother seemed almost herself—sitting up, asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow.
+
+Harold was there. Always.
+
+Beatrice would find him in the doorway of the sleeping chamber, watching, his great warrior's hands hanging useless at his sides. He tried to help—lifting her, bringing water, smoothing the blankets—but his wife smiled at him with such gentle patience that he seemed to shrink.
+
+"Go and sit by the fire, husband. Beatrice will stay with me."
+
+And he would go.
+
+Beatrice brought apple blossoms once, when the trees first bloomed. She laid them on the pillow, and her mother's thin fingers touched the petals.
+
+"They smell like spring," her mother whispered. "Like the year you were born."
+
+Beatrice didn't know what to say. She held Goosie instead, and the goose pressed its warm head against her neck.
 
 ---
 
-### From the Time Her Mother Died...
+The end came on a morning exactly like that—warm, soft, the apple trees heavy with pink and white.
 
-Her mother died on a spring morning, when the apple trees were blooming. Beatrice was eleven.
+Beatrice was fetching water when her father's shout tore through the village.
 
-She didn't cry at the funeral. She held Goosie instead, and the goose pressed its warm head against her neck, and that was enough.
+She ran.
 
-After that, her father changed.
+He was in the doorway of the sleeping chamber, not crossing the threshold, just standing there with his back to her. His shoulders were shaking.
 
-Harold Red-Wolf had been a warrior—a Saxon thegn who rode with kings, crossed blades with rebels, and once dragged a drowning Norman lord from a river crossing. But battles fade, and wounds grow stiff. The sword that had carved through shield walls now hung above the hearth, gathering dust. The man who had led men now sat by the fire with his staghound, watching his daughter run the manor without ever being asked.
+Beatrice pushed past him.
+
+Her mother lay still. Too still. Her eyes were closed, her hands folded, and someone—the priest, later, she learned—had already placed a candle at her head and another at her feet.
+
+Beatrice didn't cry. She knelt beside the bed and put her cheek against her mother's hand. It was cool to touch. Not cold yet. Just cool.
+
+Behind her, Harold made a sound she had never heard before and would never hear again. A sound that didn't belong to the man who had crossed blades with rebels and dragged drowning lords from rivers.
+
+She couldn't turn around. She wouldn't. Yet she did. 
+
+She lifted Goosie—who had followed, always—and held her so that the goose's head rested against her father's shaking shoulder.
+
+"There," she whispered. "She knows you."
+
+---
+
+At the burial, Harold stood like a man made of stone. His hands were on Beatrice's shoulders—heavy, warm, the only warm thing—but he didn't speak. Didn't move. Just watched as they lowered the plain wooden box into the earth.
+
+The apple blossoms were still blooming. Beatrice hated them.
+
+Afterward, she ran.
+
+Not toward anything. Just away. Through the village, past the fields, down the lane toward the river. Goosie ran with her, wings half-spread, honking in confusion.
+
+She ran until she couldn't breathe. Then she stopped, bent over, and waited for the world to stop spinning.
+
+When she straightened, she was at the farm by the river bend.
+
+The nurse was there, by the poultry shed. She looked up, saw Beatrice's face, and said nothing. Just nodded once and went back to her work.
+
+Beatrice stood there for a long time, Goosie pressed against her leg, watching geese ignore her completely.
+
+The geese knew her now. That was something.
+
+---
+
+She walked home slowly. At the edge of the clearing, she stopped.
+
+Her father was in the doorway. Not standing tall, not waiting with staghound at his side. Just... leaning. One hand on the frame, the other hanging loose. He looked smaller than she remembered. As if something inside him had collapsed.
+
+He saw her. Tried to raise a hand. Couldn't quite manage it.
+
+Beatrice crossed the clearing and took his hand instead. It was cold.
+
+"I'm here, Father."
+
+He nodded. Said nothing.
+
+They went inside together. Goosie followed.
+
+---
+
+Her father was never the same after that; he changed.
+
+The sword that had carved through shield walls hung, still above the hearth, but now it seemed like someone else's memory. The man who had led men now sat by the fire with his staghound, watching his daughter run the manor without being asked.
+
+The bounce never came back to his step. Not really.
+
+Beatrice learned to watch for the signs—the way he'd pause at the door, the way his hand would go to his chest after climbing the slope from the village. She didn't say anything. What was there to say?
 
 She saw to the villagers' boon-days. She oversaw the brewing and the buttery. She tended the sick with herbs and medicine, the way her mother had taught her. She had bright eyes, quick wit, and a habit of speaking her thoughts aloud before deciding whether she ought to.
 
@@ -500,7 +663,7 @@ And Goosie followed. Always.
 
 ---
 
-### Galloping Hooves
+## Chapter 6 — Galloping Hooves
 
 One autumn morning, the rhythm of the village was broken by the thunder of hooves.
 
@@ -512,7 +675,7 @@ Inside, Beatrice scooped up her goose.
 
 Goosie honked.
 
-Harold sighed. "It must be done, daughter."
+Harold sighed from his chair by the fire. "It must be done, daughter."
 
 "But Goosie—"
 
@@ -520,9 +683,13 @@ Harold sighed. "It must be done, daughter."
 
 Beatrice folded her arms. "I should like to tell this king what I think of that. He has a thousand birds in a hundred forests..."
 
-Harold laughed softly. "You may keep that thought to yourself."
+Harold almost smiled. It was a pale shadow of his old laugh, but it was something.
 
-He tried to rise, frail hands shaking. Beatrice stopped him.
+"You may keep that thought to yourself."
+
+He tried to rise. His hands shook. Beatrice saw him brace against the chair, saw the moment of pain cross his face before he hid it.
+
+She was at his side in three steps.
 
 "You can't walk that far in the cold."
 
@@ -530,38 +697,31 @@ He tried to rise, frail hands shaking. Beatrice stopped him.
 
 Beatrice shook her head. "The agisters will strip the very shoes from a horse for a 'grazing tax,' and the foresters bleed a man for merely looking at a deer. Besides, the Reeve has a large, hungry family. Goosie would end up in his pot before they even saw the forest."
 
-She looked at the charcoal basket by the hearth.
+She looked at the charcoal basket by the hearth. Then at her father's tired face. At the way his hand still rested on his chest.
 
 "No. I'll take her. I'll walk the old Roman road and blend with the charcoal-bearers. Goosie can hide in a basket on my hip." She paused. "Besides, I'm on the King's business if anyone asks."
 
-Harold studied her face. For a moment, his eyes glistened.
+Harold studied her face. For a moment, something flickered in his eyes—the old sharpness, the man who had ridden with kings.
 
 "Your mother would have been proud of you."
 
-Beatrice's throat tightened. She set down the basket—Goosie honked—and hugged him fierce and quick.
+Beatrice's throat tightened. She set down the basket—Goosie honked—and hugged him fierce and quick. He felt thinner than he should. Frailer.
 
 "Perhaps I should go," he murmured into her hair.
 
-"Nay, Father." She pulled back, blinking. "I'll be home by dark."
+"Nay, Father." She pulled back, blinking hard. "I'll be home by dark."
 
 She settled Goosie in the basket and set out.
 
-At the edge of the clearing, she turned. Her father stood in the doorway, staghound at his side, watching her go.
+At the edge of the clearing, she turned. Her father stood in the doorway—not leaning this time, standing on his own. Staghound at his side, one hand raised.
 
 She waved.
 
-He raised one hand.
+He raised his hand higher.
 
 Then the road took her, toward a king who had no idea she was coming.
 
 ---
-
-
-
-
-
-
-
 
 
 
@@ -919,7 +1079,7 @@ And the night settles over Stanwey, full of things just begun.
 
 
 I like this - beatrice still doesn't know about the king's vow, Godfrey wishes to give her space to make up her own mind, not have the fate of the nation on her shoulders (potentially); love the emotional turn of 'I will wait'. We could potentially have her with momentary bite at the modern feminist 'how dare a man ask the father before the daughter' but completely doused by his humble offer of waiting and decision and stepping back to courtship.
-If at length we do this story, this timeframe really requires the king's visit to be chronicled herein, some minor drama in that, per the court though not a repeat or echo of earlier. Perhaps the duchesse of Brittany visits to size this goose bride up, decides she likes her after all, and strange, did we meet some time, long ago? perhaps a stray memory and no more madam, or perhaps more. Beatrice was surprised at knowing how to behave with the duchesse, it was in her upbringing after all. Beatrice asks her if it is hard for her in Brittany or some question of release to discuss personal struggles in private. The ducesse (G's sister) tells her brother that she likes this goose bride very much indeed.
+If at length we do this story, this timeframe really requires the king's visit to be chronicled herein, some minor drama in that, per the court though not a repeat or echo of earlier. Perhaps the Duchesse of Brittany visits to size this goose bride up, decides she likes her after all, and strange, did we meet some time, long ago? perhaps a stray memory and no more madam, or perhaps more. Beatrice was surprised at knowing how to behave with the duchesse, it was in her upbringing after all. Beatrice asks her if it is hard for her in Brittany or some question of release to discuss personal struggles in private. The ducesse (G's sister) tells her brother that she likes this goose bride very much indeed.
 and so in time....
 
 ---
@@ -1004,35 +1164,32 @@ Something flickers in the Duchess's face. A recognition. A memory.
 
 **Beatrice:** (waiting)
 
-**Duchess:** When I was small, before I was sent to Brittany, there was a woman at my father's court. Saxon. She helped with the children—not a nurse, exactly, but... present. Kind. She told stories. She knew herbs.
 
-Beatrice goes very still.
 
-**Duchess:** She left, eventually. Married someone. A thegn, I think. I never knew what became of her.
 
-**Beatrice:** (quietly) What was her name?
 
-The Duchess thinks. Frowns. Shakes her head.
 
-**Duchess:** I don't... it's been so long. I only remember her hands. Gentle. And a story she told, about a goose and a king. I thought it was nonsense at the time.
+Duchess: I remember this area well, as a child. Sometimes, when my father hunted here, we stayed nearby.
 
-Beatrice can't speak.
+Beatrice: (polite) It's good land.
 
-The Duchess looks at her sharply.
+Duchess: Wan't there an iron quarry somewhere here, and a big goose farm over by the river bend.
 
-**Duchess:** What is it?
+Beatrice: (laughs) I know the one. Guarded by ferocious geese.
 
-**Beatrice:** (very soft) My mother. She told that story. To me. When I was small.
+Duchess: (smiles vaguely, looking at the river) Yes. I suppose they were.
 
-They stare at each other.
+A pause. The Duchess seems about to say something else, then turns.
 
-The fire crackles.
+Duchess: You must show me your herb garden. My brother says you have a gift.
 
-**Duchess:** (slowly) Well.
 
-**Beatrice:** (equally slow) Well.
 
-Neither knows what to do with this. A connection that shouldn't exist. A thread across years and stations and the strange weavings of fate.
+
+
+
+
+
 
 The Duchess recovers first.
 
@@ -1072,17 +1229,7 @@ He comes the next day. Finds her in the herb garden, as if she never leaves it.
 
 **Godfrey:** My sister visited.
 
-**Beatrice:** I know.
-
-**Godfrey:** She said... (he stops, starts again) She said you reminded her of someone.
-
-**Beatrice:** (quietly) She told me.
-
-**Godfrey:** Did you know? About your mother? At court?
-
-**Beatrice:** No. (pause) But it makes sense. The way she taught me. The things she knew. She never said where she learned them.
-
-They sit with this.
+**Beatrice:** Yes. We talked.
 
 **Godfrey:** (eventually) My sister also said I should marry you quickly, before you come to your senses.
 
