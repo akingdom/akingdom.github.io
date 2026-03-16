@@ -1983,6 +1983,207 @@ Harold struggled accept the thing that seemed to be a fantasy to him. But when h
 
 
 
+## A Dark Place
+
+### Some Weeks into the Courtship
+
+Beatrice has been to court twice. The first time, she endured the whispers. The second time, she answered them with such plain good sense that even the Queen's ladies fell silent.
+
+But tonight, alone in a small chamber off the great hall, she has heard something she cannot answer.
+
+A cluster of noblewomen, unaware she was just around the corner:
+
+*"She thinks she's one of them now. The goose girl."*
+
+*"He'll tire of her. Men do. Especially when the king's will isn't behind it anymore."*
+
+*"The king's will? That was a whim. A mood. He's probably forgotten already."*
+
+*"Wait until the Brittany marriage is proposed again. Ten thousand marks. You think he'll choose a goose over that?"*
+
+Beatrice didn't stay to hear more.
+
+She is sitting now on a cold stone window seat, Goosie (smuggled in, against all rules) pressed against her side. The goose's warmth is the only steady thing.
+
+She should leave. Should walk back to Stanwey tonight, before—
+
+A footstep.
+
+She looks up.
+
+Queen Matilda stands in the doorway.
+
+Not attended. No ladies. Just the Queen, in a simple gown, her face unreadable.
+
+**Matilda:** You're meant to be at supper.
+
+**Beatrice:** (rising, curtsying mechanically) I wasn't hungry, your Majesty.
+
+**Matilda:** (glancing at Goosie) The goose is meant to be in the kitchens.
+
+**Beatrice:** (protectively) She's with me.
+
+A pause. The Queen studies her. Then, unexpectedly, she moves to the window seat and sits. Not beside Beatrice—a little apart. But sitting.
+
+**Matilda:** You heard something.
+
+Beatrice says nothing.
+
+**Matilda:** (quietly) I've been Queen long enough to know that look. It's the look of someone who's just discovered what people say when they think you can't hear.
+
+Beatrice's throat tightens.
+
+**Matilda:** What did they say?
+
+**Beatrice:** (after a long moment) That he'll tire of me. That the king's will was a whim. That when Brittany offers ten thousand marks again, he'll choose that instead.
+
+She stops. Breathes.
+
+**Beatrice:** That I'm a goose girl playing at being someone else.
+
+The Queen is quiet. The fire crackles.
+
+Then:
+
+**Matilda:** I was not born Matilda.
+
+Beatrice looks at her.
+
+**Matilda:** I was born Edith. In Scotland. To a Saxon mother and a Scottish king. When I came to England to marry Henry, the Norman court called me "the Saxon girl." They whispered that I'd bring barbarian ways. That I'd never understand how to be queen.
+
+She meets Beatrice's eyes.
+
+**Matilda:** That was twenty years ago. I am still here.
+
+Beatrice doesn't know what to say.
+
+**Matilda:** The people who whispered then? Most are gone. Forgotten. I am Queen of England.
+
+She leans forward slightly.
+
+**Matilda:** You want to know what I think of this match?
+
+Beatrice waits.
+
+**Matilda:** At first, I hated it. Not because of you—I didn't know you. Because of what it meant for William. My son. The heir. Every piece of attention Godfrey gets, every scrap of affection, every whispered "he's a king's son too"—I saw it as a threat.
+
+**Beatrice:** (quietly) I understand.
+
+**Matilda:** Do you?
+
+**Beatrice:** I have no brothers. But if I did... if my father had someone else to leave the manor to... (she shrugs) I'd want to protect what was mine too.
+
+The Queen looks at her. Really looks.
+
+**Matilda:** (slowly) Yes. You do understand.
+
+A silence. Then:
+
+**Matilda:** I've been watching you. These past weeks. The way you speak to servants. The way you tend the sick in the village. The way you handle my ladies—their whispers, their snubs, their little cruelties. You don't fight. You don't flinch. You just... go on being yourself.
+
+She pauses.
+
+**Matilda:** That's rarer than you know.
+
+Beatrice's eyes sting. She blinks rapidly.
+
+**Matilda:** My son William is ten. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are.
+
+She reaches out. Just for a moment, her hand touches Beatrice's.
+
+**Matilda:** Godfrey has found one. I see that now.
+
+She rises.
+
+**Matilda:** As for Brittany—ten thousand marks is silver. It buys soldiers, ships, alliances. It does not buy a wife who will sit with a frightened girl in a cold window seat and understand her without being told.
+
+She moves toward the door. Pauses.
+
+**Matilda:** You are not a goose girl playing at being someone else. You are exactly who you are. That is why my stepson—who has watched and waited his whole life—chose you before he even knew he could.
+
+She goes.
+
+Beatrice sits alone with Goosie, the goose's warmth against her side.
+
+For a long time, she doesn't move.
+
+Then, slowly, she presses her face into Goosie's feathers and lets herself cry—just a little, just enough.
+
+---
+
+### Later — Godfrey Finds Her
+
+He's been searching. His face, when he sees her, is tight with worry.
+
+**Godfrey:** I looked everywhere. They said you'd left the hall, and I thought—
+
+**Beatrice:** I'm here.
+
+He crosses to her. Kneels beside the window seat. Sees her face.
+
+**Godfrey:** What happened?
+
+**Beatrice:** (quietly) Your mother.
+
+His face shifts—wary, protective.
+
+**Beatrice:** No. Not like that. She... (she shakes her head, wondering) She sat with me. She told me about being Edith. About the whispers. She said... she said you chose me.
+
+Godfrey is very still.
+
+**Beatrice:** Did you? Choose me? Before you knew about the vow?
+
+He meets her eyes.
+
+**Godfrey:** In the hall. When you burst in after your goose. When you spoke to my father like he was just a man. When you looked at me—just for a moment, when you first entered—and didn't look away.
+
+He reaches for her hand. Slowly, giving her time to pull back.
+
+She doesn't.
+
+**Godfrey:** I didn't know about the vow then. I just knew I wanted to know who you were.
+
+**Beatrice:** (very soft) Oh.
+
+**Godfrey:** The vow gave me permission to walk you home. It didn't make me want to.
+
+They sit together in the window seat, Goosie between them, the night cold beyond the glass.
+
+**Beatrice:** (after a long moment) I heard things tonight. Cruel things. About me. About us. About what will happen when Brittany offers again.
+
+Godfrey's jaw tightens.
+
+**Godfrey:** Brittany can offer. My father can command. But I— (he stops, starts again) I've spent my whole life being told what to do, where to go, who to be. This is the first thing I've wanted for myself.
+
+He looks at her.
+
+**Godfrey:** I'm not letting it go.
+
+Beatrice looks at him. This quiet young man who waited at the tree line. Who asked her father. Who is still here.
+
+**Beatrice:** (almost a smile) You're strange.
+
+**Godfrey:** (matching it) I know.
+
+Goosie honks.
+
+They both laugh—a little wetly, a little worn, but together.
+
+---
+
+### The Next Morning
+
+The Queen, breaking her fast, finds a small bundle outside her chamber door.
+
+Inside: a bunch of dried herbs, carefully bundled, with a note in an uneducated hand:
+
+*For sleepless nights. Steep in hot water. Thank you.*
+
+*—B.*
+
+The Queen's ladies wonder at her expression. It's almost a smile.
+
+---
 
 
 
