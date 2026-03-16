@@ -711,12 +711,541 @@ At the edge of the clearing, she turned. Her father stood in the doorway—not l
 
 She waved.
 
-He raised his hand higher.
+He raised his hand higher, calling out.
+
+“Remember whose hall you enter.”
 
 Then the road took her, toward a king who had no idea she was coming.
 
 ---
 
+## Chapter 3 — The King's Frustration
+
+The great oak doors of Rockingham's hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
+
+Henry, King of the English, Duke of the Normans, stood in the threshold.
+
+He was not a tall man, though built like a war-horse: thick-necked, barrel-chested, his broad shoulders crowding the doorway. His hunting tunic was stained with the black loam of the forest floor and his dark hair was plastered to his temples with sweat.
+
+He gazed sharply about the hall and found little that pleased him, until his eyes, grey as honed steel, settled on his queen's face.
+
+The morning's hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. Henry had returned with empty hands and a foul temper.
+
+His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in the food being laid out on the long tables. They knew the signs. When the King's hunt was lean, his wrath was often fat.
+
+He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant.
+
+Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
+
+For a long moment, no one breathed. Woodsmoke hung lazily in the air, like a reminder of the idle hunt.
+
+Then the Queen spoke.
+
+"Such a frosty morning, my lord," she said softly. "It is no surprise that the game is shy in this cold fog..."
+
+Henry's steely gaze shifted to the door where his men lingered. Inwardly, he knew that a knight with a full belly was less likely to plot against him than a hungry one, but outwardly...
+
+"The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
+
+“Peace is a rare gift, my lord,” Matilda said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the betrothal promise for our young William? It cost you no blood, only a signature.”
+
+Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
+
+“And yet, you pressed the French King at Gisors such that he yielded the west lands to you,” she countered. “Brittany—our rugged sentinel—it is yours in all but name now, and your daughter sits there as Duchess. It is a solid shield for our borders overseas.”
+
+She watched his jaw relax. He liked the map she was drawing.
+
+“In fact,” she added, her voice dropping, “I have recently had news from that very place.”
+
+Only then did his expression soften a little. "What news?"
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+## Chapter 4 — The Breton Offer
+
+Matilda leaned closer to the King, so that he alone could hear her. "A message from Brittany, my lord."
+
+"Is our daughter in good health? What news?"
+
+The Queen smiled slightly and drew a parchment from inside her sleeve. 
+
+"Nay, sire, this concerns Duke Conan's daughter, Agnes; she is fair and of marriageable age. They propose a match... with your son Godfrey."
+
+Henry's eyes narrowed, but he said nothing. The Queen turned to face him fully, seeking reassurance.
+
+"Is it not a clever move, my lord? Why, even old Alain (the Duke's father) gives us his blessing."
+
+Slowly, very slowly, a smile spread across Henry's face; but not a warm smile, rather like that of a man who had just spotted a fox climbing into his henhouse.
+
+"Alain and Conan *both* want my son?"
+
+He reread the letter, his thumb tracing the wax seal of the House of Cornouaille. 
+
+The Queen pressed forward, uncertainly. “It would reinforce our borders. Alain is to retire to a monastery and so wishes to strengthen ties to our house with a second knot.”
+
+Henry set the parchment down. "That is the point. Old Alain is fading and so he must look at his son Conan and wonder: is he strong enough to stand alone? So he reaches for Godfrey as a second to his son, in case the first should fail. It is an ill wind blowing from the south."
+
+The Queen frowned. "What treachery is found in a knot that only binds us closer as family?"
+
+Henry laughed his short, sharp bark. "Fie, I say! Family feeling? Nay Madam; my own brother sits in a dungeon for trying to steal my crown."
+
+He leaned forward.
+
+"Once Godfrey is there, with Breton lords whispering in his ear—a king's son, a warrior's blood—how long before some start thinking *he* would make a fine duke? How long before Conan sees the threat and turns on him? Then I must choose: lose my son, or march on Brittany."
+
+He crumpled the letter.
+
+"No. If Godfrey is to be a lion, let him grow his claws in my sight. Or would you have me send him back to Salisbury Cathedral? Here is where he belongs."
+
+The Queen's voice rose sharply, in a rare display of annoyance with the King. "Our son William has Anjou. Your daughter Matilda FitzRoy has Brittany. Your nephews have lands over the sea. Yet what lands has Godfrey, and what name?"
+
+Her voice dropped to a loud whisper.
+
+"You know what they call him. A weak whelp. A sad shadow."
+
+Henry raised the queen's cup to his lips before lowering it carefully onto the oak. The moment of silence was more terrifying than a shout.
+
+"A weak whelp," he repeated, his voice a low rasp. "A shadow."
+
+The Queen recoiled. "Henry, I meant no slight—"
+
+"You mean to send him across the sea," Henry cut her off, "where he cannot trouble our William."
+
+The Queen said nothing.
+
+Henry stared at her. "William is barely ten, and already you fear shadows."
+
+He leaned back and shook his head in disbelief.
+
+"You speak of Brittany as a sanctuary," he rasped. "I see it as a whetstone where an enemy may sharpen their axe. Would you place a blade in my rival's hand? Pray they do not set it against our William. By all means find Godfrey a wife, but keep him nearby."
+
+The Queen kept quiet and the hall held its breath, until at long last the king broke the silence.
+
+"My lifeblood is in all my children and they each bring us much joy. If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+## Chapter 5 — The Ledger and the Lion
+
+Henry stood with his back to the room, a silhouette carved against the roaring central hearth. Still stinging from the Queen's comments about his son, the King did not move for a long moment; he seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
+
+He turned suddenly, his voice not a shout, but a low, resonant vibration that commanded the sudden silence of the hall.
+
+"My father was mocked as the 'Tanner's Grandson' by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
+
+Henry's eyes scanned the far wall, unseeing. "I had no lands. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
+
+The rhetoric was cut short by a dry, rhythmic rustle of parchment being squared up.
+
+Roger of Salisbury stepped into the light. He was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and the keeper of the realm's cold reality.
+
+Henry remained turned toward the fire, his shoulders rigid; thus, it fell to the Queen to anchor the moment.
+
+"Welcome, Lord Roger," she said, her voice cool and steady. "We were just speaking of the weight of legacy. I trust you bring the weight of the present to balance it?"
+
+Roger bowed—a shallow, efficient nod. "The present is manageable, Majesty. But the parchment from Brittany requires a decision. Duke Conan offers his daughter Agnes for Prince Godfrey."
+
+Henry finally turned, his eyes regaining a wary, cordially sharp edge. He glanced at the Sheriff of the shire, who stood trembling by the sideboards.
+
+"Roger. What say you of the local Sheriff's tallies for the forest-fines? He tells me the oaks yielded nothing this season, yet my coffers are bruised and the silver they should have bought is nowhere to be seen. Perhaps you might find the truth where he has found only... 'confusion'."
+
+The Sheriff went pale, sinking into a bow that was more of a collapse.
+
+Roger didn't even look at the man. "The Sheriff's confusion is a matter for the morning audit, Sire. But the parchment from Brittany is a matter of state. Conan offers a second tie—a redundant circle that adds nothing to our security. We already hold the western flank of Normandy; we do not need to buy Brittany twice."
+
+He paused, his eyes flicking to the King with a look of devastating common sense.
+
+"However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a son who sits outside the direct line of succession. To refuse it is... inefficient. Whether it be the six hundred marks missing from a Sheriff's bag or ten thousand from a Duke's treasury, it is a coin left on the table."
+
+Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
+
+For a long moment, Henry said nothing. The anger had drained from his face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who saw stepsons as obstacles to be tidied away.
+
+Then his gaze drifted past them, across the hall—and stopped.
+
+In the shadows near the door, half-hidden behind a pillar, sat Godfrey. His son. While knights and lords shifted nervously under Henry's silence, the boy sat perfectly still. Not cowering. Not pleading. Simply... waiting. Watching the debate about his future as if it were a story about someone else.
+
+*He has learned to wait*, Henry thought. *As I waited. As I watched my brothers take everything while I sat in corners just like that.*
+
+The ghost of his own youth stared back at him from across the hall.
+
+Godfrey felt his father's gaze and looked up—slowly, carefully, the way a man looks at the sun. Their eyes met.
+
+Godfrey did not smile. He did not nod. He simply waited, as he had always waited, to see what his father would do.
+
+Henry saw it. The patience. The endurance. The refusal to beg.
+
+*He is better than I was. I clawed and fought and burned. He simply waits. And they call him weak.*
+
+Something hardened in his chest.
+
+*I built this*, he thought. *I made a kingdom where blood is tallied like wool. And now they serve it faithfully—more faithfully, perhaps, than they serve me.*
+
+The room felt suddenly small. Henry realized he had only two choices: accept their framing and treat his son as a surplus asset, or reject it and leave Godfrey with nothing.
+
+Then, something flickered behind his eyes. Not anger, but a dangerous, cold clarity. *Unless there is a third way.*
+
+"So," Henry said softly, his voice dropping to a dangerous rasp. "Everyone arrays against me? Am I the only man in England who sees a son instead of a sack of wool?"
+
+He looked back at Roger, a dangerous smile playing at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
+
+"You think my blood is currency, Roger? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid."
+
+Henry's voice began to rise, the "Scholar-King" giving way to the impulsive pride of the Conqueror's son. He jabbed a finger toward the heavy, carved doors of the lodge.
+
+"If he be a coin, Roger, then we shall toss him to the Heavens! The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
+
+The Queen stared at him, her face pale. "You cannot possibly mean to cast his life so blindly."
+
+Henry's posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall provide. Elsewise, let the hall stay empty, that I may drink in peace."
+
+The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow *coram rege*—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
+
+Henry reached for his wine, oblivious, for the most part, to the cage he had just built—its door wide open to the night.
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+## Sir Guy’s Spite
+
+Beatrice reached the hunting lodge by midday.
+
+The place swarmed with soldiers and servants. 
+
+The hall was still nursing the King's mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary of its hot steam. 
+
+As Beatrice entered, carrying the handmade basket and dusty from the journey, a young Norman knight lounging near the doorway recognised her.
+
+**Sir Guy de Montfort.**
+
+Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the elders shared ale by the bonfires, Sir Guy had cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
+
+Insulted, Beatrice had politely begged to be excused, then to go and find her father.
+
+He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding should be more accommodating to a Norman blade. Else, your lands *escheat* to the King and your hall is burned for charcoal!”
+
+She had told him coldly that she preferred men who worked for their supper, not some fine *popinjay* who lived off the sweat of others.
+
+He had not forgotten the insult.
+
+Seeing her now amused him terribly: standing at the entrance to the King’s royal hall with a smudge of charcoal on her nose.
+
+As she walked past him, he extended one boot slightly, interrupting her path.
+
+Beatrice stumbled.
+
+The basket flew open.
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+## The Goose Hunt
+
+Goosie exploded from the basket in a fury of wings.
+
+Servants shouted.
+
+A clerk dropped his parchments.
+
+The goose darted across the hall like a feathered arrow.
+
+Someone muttered:
+
+“My troth! A goose loose in the king’s house.”
+
+The bird leapt onto the king’s table.
+
+Henry blinked at the goose, then roared with laughter: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
+
+“Well! At last a lively hunt!”
+
+He lunged and caught the goose just as it snapped at the clerk's rear end.
+
+At the sound of Goosie's distressed squawking, Beatrice burst into the hall, long hair flying and uncovered.
+
+“Please don’t hurt Goosie!”
+
+The King blinked.
+
+“Your goose?”
+
+Laughter rippled again throughout the hall. 
+
+Sir Guy, emboldened by the court's uncertain laughter, called out: "This Saxon girl needs a lesson her father's hall could not teach!"
+
+Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller. All eyes turned toward her as she curtsied low. Drawing courage in the silence, she spoke.
+
+“She was meant for your table, sire… but if it please you, spare her.”
+
+Henry chuckled, his eyes glinting with a curious merriment. 
+
+"At last—an honest creature in this hall. Spare the goose, you plead?"
+
+It was a pleasing novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
+
+“I say she has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+## The Red‑Wolf’s Daughter
+
+The King leaned forward, studying her with amused wonder.
+
+“And tell me, who are you, and whose daughter?”
+
+The girl blushed a little, but held her ground with head held high.
+
+“My lord, I am Beatrice, daughter of Harold Red-Wolf of Stanwey, not five miles from here. He sends apology for not renewing friendship in person, for he is become old.”
+
+The king’s eyebrows shot up.
+
+“Hrathulfr?”
+
+He tilted his head as a distant memory stirred.
+
+“Not the same man who pulled my brother from the Severn?”
+
+Beatrice brightened.
+
+“The very one, sire. He often tells how the King’s brother was heavier than any salmon he ever netted.”
+
+The King roared with excited laughter, in sudden recognition.
+
+“Ha! Then it all returns to me! My father the King gave your father a purse of silver for his damp trouble, and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit instead. My brother Robert was ever more a sodden worm than a lord, and would have stayed on the riverbed had the Red‑Wolf not hauled him to the bank.”
+
+He looked at her and shook his head. 
+
+"Well, aren't you a fine she-wolf! Do not delay but go and tell your father that I shall visit him next week to hear him tell it anew… and return his goose besides and a larder to boot.”
+
+As Beatrice turned to leave, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
+
+“And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.”
+
+It seemed that the King missed very little in his court. 
+
+Beatrice caught the knight's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+## The Queen Remembers the Vow
+
+As Beatrice left, the queen turned hesitantly to the king.
+
+“My lord, surely your jest was but a passing breath...”
+
+Henry frowned at his wife.
+
+“Is my lady unwell?”
+
+Nervously, the clerk stepped forward to intervene.
+
+“Your Majesty, I believe the queen refers to your royal oath that the next eligible maiden entering the hall should wed Master Godfrey.”
+
+The king's grin returned with a dangerous sort of mischief.
+
+"It seems, Matilda, that the Heavens have a sense of humour. And they have sent us a Red-Wolf's daughter."
+
+The queen grew pale.
+
+“My lord, consider what sorrow of reputation a low-born woman will bring your son.”
+
+The king shrugged.
+
+“Would you rather the boy marry the goose? It arrived first.”
+
+Laughter rippled through the court.
+
+“And besides,” Henry added, “the daughter of Red-Wolf is good blood of an ancient house, even if Saxon.”
+
+He called aside his youngest son.
+
+“Godfrey, take a pair of riders and see the young lady safely home.”
+
+Then, after a sharp look at his clerk — who had anticipated with his quill poised over a fresh parchment—the King stood. The chatter of the hall died instantly. He spoke in the clipped, melodic French of the court, but his voice carried to the furthest rafters.
+
+“Hearken now, all my barons and faithful men of England. By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that my son, Godfrey, shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession.”
+
+He looked directly at the cluster of knights where Sir Guy stood, his gaze like a physical weight.
+
+“Let this be clear to one and all. My son, Godfrey, shall marry the daughter of Harold Red-Wolf.”
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+
+
+
+
+
+
+NEW MULTIPART SECTION - THE WALK
+
+
+
+---
+
+## Chapter 6 — The Road Home
+
+The Roman road stretched eastward through the forest, pale stone under a pale sky. Beatrice walked with her basket on her hip, Goosie's occasional rustle the only sound besides her own footsteps. The lodge was behind her now, the king's laughter still echoing strangely in her memory.
+
+She had her goose. The king had spared her. More than that—he had *laughed*. At her, perhaps, but also *with* her. It was more than she had dared hope.
+
+She was still turning it over in her mind when she heard the horses.
+
+Hooves on stone. Coming fast. Two, maybe three riders.
+
+She stepped to the side of the road without thinking, bowing her head, pulling the basket close. Nobles passed quickly when they passed at all. You stood aside and waited for the dust to settle.
+
+The horses slowed. Stopped.
+
+She waited, head still bowed. The dust drifted. Someone dismounted.
+
+Then a voice—young, uncertain, not commanding:
+
+"Please. Don't be afraid."
+
+She looked up.
+
+It was him. The young man from the hall. The one who had stood by the pillar, watching. Their eyes had met for a heartbeat when she first entered—she remembered because he hadn't looked away quickly, the way nobles usually did when caught staring at a peasant. He'd just... watched. Like he was trying to understand something.
+
+Now he stood before her, holding his horse's reins, looking as uncertain as she felt.
+
+"I'm sorry to startle you," he said. "My father—the king—has commanded me to give you safe escort back to your home. That's all. Nothing more."
+
+She stared at him. Safe escort. A prince, sent to walk a goose girl home.
+
+"You'll get your boots muddy," she heard herself say.
+
+He looked down at his fine leather boots. Then at the road. Then back at her.
+
+"I've had muddier."
+
+It was almost a joke. Almost. She didn't smile, but something in her face shifted.
+
+---
+
+They walked.
+
+The guards followed at a distance—far enough to be respectful, close enough to be protective. Godfrey had offered her his horse, but the thought of sitting on that tall, sleek animal, of being lifted up by a prince in front of soldiers... her face had gone hot just imagining it.
+
+"I'll walk," she'd said.
+
+And so they walked.
+
+For a long time, neither spoke. The road crunched under their feet. Goosie rustled in her basket. The forest breathed around them.
+
+Finally, Godfrey said: "The goose. What's its name?"
+
+She glanced at him sharply, searching for mockery. Found none.
+
+"Goosie."
+
+"Goosie." He nodded, considering it seriously. "That's a good name. Simple. She knows who she is."
+
+Beatrice didn't know what to make of that.
+
+---
+
+After another silence, she asked: "Do you always escort peasants home?"
+
+He almost laughed, then stopped himself.
+
+"No. I've never escorted anyone anywhere." A pause. "I mostly just... watch."
+
+She remembered him by the pillar. Watching.
+
+"Why?"
+
+He shrugged. "It's safer. No one expects much from you if all you ever do is just watching."
+
+She filed that away. It wasn't what a prince was supposed to say.
+
+---
+
+They walked on. The guards' horses clip-clopped softly behind them.
+
+Godfrey kept glancing at her—quick looks, then away, as if trying to work something out. She felt his gaze like a small warmth.
+
+Finally, she couldn't bear it.
+
+"What is it?" She refused to look at him. "What are you staring at?"
+
+He went pink. "It's nothing. It's... I'm... I mean I'm sorry. I didn't mean to—"
+
+She glanced at him sideways. Waited.
+
+He took a breath.
+
+"I... I think you're one of the bravest women I've ever seen."
+
+She stumbled. Actually stumbled, catching herself just in time.
+
+"What!?"
+
+"In the hall." He wasn't looking at her now, staring straight ahead. "You walked in after your goose. Everyone was staring. My father was in a mood that could curdle milk. And you just... walked up to him. And begged. For a goose."
+
+Beatrice didn't know what to say. No one had ever called her brave before. Stubborn, yes. Headstrong. Her father said she acted first and thought second. But brave?
+
+"I was terrified," she admitted.
+
+"I know." He glanced at her. "That's what made it brave."
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+The timbered hall of Stanwey was visible now, a grey island in the clearing. Godfrey slowed his pace, his eyes moving from the sturdy walls to the small, calloused hands Beatrice used to steady her basket.
+
+"How is your father?" he asked, his voice low and thoughtful. "Does he still keep the high seat in the hall, or has the governance of this house settled upon your shoulders? Does he hold the keys himself, or has the daily charge of these lands fallen to you?"
+
+Beatrice didn't look away from the smoke of her hearth, her voice steady and protective of the man within. "His heart is in the hall," she said, "but the winter is hard on his aching bones. The daily ordering—the accounts, the boon-work, the settling of village strife—that is my charge now. He provides the counsel; I provide the feet."
+
+"A heavy burden for a daughter alone," Godfrey observed, watching her with a quiet, searching intensity. 
+
+"He believes the world is as it ever was," she said, her tone uncomplaining, almost a whisper of pride. "And I see that it remains so for him. He pretends he's fine. He pokes at the fire and says the cold doesn't bother him. But I see him at night, when he thinks I'm asleep. The pain in his hands. The way he moves slow, like every step costs him something."
+
+She swallowed.
+
+"How could I forgive myself if he... if something happened? If he got hurt, or worse, because I let him go?"
+
+Godfrey's face was still. Not pitying. Just present.
+
+"You love him," he said. Not a question.
+
+"Yes."
+
+Another silence. Then, more softly:
+
+"He cautioned me, before I left. Told me to remember whose hall I was entering." She almost smiled. "Meaning: behave yourself. Don't speak out of turn. Don't act first and think second."
+
+She looked at him, embarrassed.
+
+"He says I do that. Act first, think second."
+
+Godfrey considered this.
+
+"In the hall," he said slowly, "you acted first. And it worked."
+
+She blinked.
+
+"You saved your goose. You made my father laugh. You—" He stopped, then went on, quieter. "You made me want to know who you were."
+
+Godfrey turned to her. "Would you like me to wait outside? Give you time to tell him alone?"
+
+She looked at him sharply. It hadn't occurred to her that he'd offer that. That he'd think of her father, her home, her need for a moment to breathe.
+
+"That would be..." She trailed off. "Yes. Please."
+
+He nodded again. Stepped back. Gestured for the guards to halt.
+
+"I'll wait here. Take as long as you need."
 
 
 
@@ -1282,843 +1811,7 @@ And Beatrice, who walked through a door not knowing what waited on the other sid
 REMAINDER
 
 ==========================================================
-In Mercia (in the English midlands), the old women sometimes used the saying:
 
-**“A goose may wend where a King must wait.”**
-
-To some, this sounded like foolish village talk. Yet in the reign of King Henry the first of England, not long after the Norman conquest, there lived a young woman who proved the saying strangely true.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## The Red-Wolf’s Daughter
-
-Beatrice lived with her father in a timber-framed longhall at **Stanwey** (the *'Stone Way'*), among the wooded hills of the Midlands. 
-
-In earlier days Harold had been known as **Red-Wolf**, a Saxon thegn who fought in the wars that followed the Conquest. He had ridden with kings, crossed blades with rebels, and once dragged a drowning Norman lord, the king's own brother, from a river crossing.
-
-But battles fade, and wounds grow stiff as winter turns to winter.
-
-Harold had become an old man with iron-grey hair and aching bones. His sword hung idly above the hearth, more as memory than weapon, and he spent less time roaming the lands and more time by the fire with his staghound.
-
-In his stead, Beatrice shouldered the daily ordering of the manor without murmur. She saw to the villagers' labour of boon-days in the fields, oversaw the brewing and the buttery, and tended the sick with herbs and medicine.
-
-She had bright eyes, quick wit, and a habit of speaking her thoughts aloud before deciding whether she ought to.
-
-Her closest companion was a large white goose she had raised from a gosling.
-
-The bird followed her everywhere.
-
-She called it **Goosie**.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## The King’s Demand
-
-One autumn morning, the Stanwey village smithy was startled by the heavy thud of a horse passing by. A servant peered from the main doorway of Harold’s timber manor as a royal rider pulled up, his cloak stained with the road.
-
-Without dismounting, the rider unrolled a stiff parchment. He ignored the servant entirely, projecting his voice toward the high timber gables as if the hall itself were the only thing worthy of his breath. With the sharp, clipped accent of the Norman court, he proclaimed:
-
-“The King hunts in Rockingham Forest.”
-
-He held the *writ* high, its wax seal catching the morning light. Rockingham was the King's forest, and the King’s forest had its own laws. A man might lose a hand for taking the King’s deer, yet a king might take from a man without apology. Under the right of *purveyance*, landholders such as Harold were expected to provide food and supplies whenever the royal court moved through the shire.)
-
-“This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
-
-Indoors, Beatrice immediately scooped up her goose, pulling the bird against her chest as if to shield it from the very sound of the man's voice.
-
-The goose gave a sharp, indignant honk at her.
-
-The King's servant quickly turned his impatient horse, brushing imagined dust from his cloak as he departed.
-
-Harold sighed.
-
-“And there it is, daughter. It must be done.”
-
-Beatrice’s eyes filled with tears.
-
-“But Goosie—”
-
-“A crown is a heavy thing,” Harold said gently. “Kings must take much, for much is laid upon them.”
-
-Beatrice folded her arms, a sudden prickle of defiance rising in her chest.
-
-“I should like to tell this king what I think of that. He has a thousand birds in a hundred forests..."
-
-Harold laughed softly.
-
-“You may keep that thought to yourself.”
-
-He adjusted his cloak, frail hands shaking.
-
-“I shall take the tribute tomorrow.”
-
-Beatrice shook her head.
-
-“You should not walk that far in the cold, father.”
-
-Harold poked at the glowing charcoal.
-
-“Then I shall send the *Reeve*. He has a sturdy cart and the manner of a village headman."
-
-Beatrice sighed.
-
-“The *agisters* will strip the very shoes from a horse as a 'grazing tax,' and the *foresters*? They would bleed a man for merely looking at the King's deer; petty tyrants! Besides, the Reeve has a large, hungry family, and Goosie would just as like end up in his pot, before they even saw the forest!"
-
-She looked at the charcoal basket by the hearth and then up at her father’s tired face.
-
-“No, father, I should take her. I can walk the old Roman road and blend with the dusty charcoal-bearers from the iron mines; Goosie can hide in a basket on my hip. Besides, I am on the King’s business if anyone asks.”
-
-Harold studied her face, then nodded.
-
-“Very well. But remember whose hall you enter.”
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## Chapter 3 — The King's Frustration
-
-The great oak doors of Rockingham's hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
-
-Henry, King of the English, Duke of the Normans, stood in the threshold.
-
-He was not a tall man, though built like a war-horse: thick-necked, barrel-chested, his broad shoulders crowding the doorway. His hunting tunic was stained with the black loam of the forest floor and his dark hair was plastered to his temples with sweat.
-
-He gazed sharply about the hall and found little that pleased him, until his eyes, grey as honed steel, settled on his queen's face.
-
-The morning's hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. Henry had returned with empty hands and a foul temper.
-
-His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in the food being laid out on the long tables. They knew the signs. When the King's hunt was lean, his wrath was often fat.
-
-He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant.
-
-Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
-
-For a long moment, no one breathed. Woodsmoke hung lazily in the air, like a reminder of the idle hunt.
-
-Then the Queen spoke.
-
-"Such a frosty morning, my lord," she said softly. "It is no surprise that the game is shy in this cold fog..."
-
-Henry's steely gaze shifted to the door where his men lingered. Inwardly, he knew that a knight with a full belly was less likely to plot against him than a hungry one, but outwardly...
-
-"The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
-
-“Peace is a rare gift, my lord,” Matilda said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the betrothal promise for our young William? It cost you no blood, only a signature.”
-
-Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
-
-“And yet, you pressed the French King at Gisors such that he yielded the west lands to you,” she countered. “Brittany—our rugged sentinel—it is yours in all but name now, and your daughter sits there as Duchess. It is a solid shield for our borders overseas.”
-
-She watched his jaw relax. He liked the map she was drawing.
-
-“In fact,” she added, her voice dropping, “I have recently had news from that very place.”
-
-Only then did his expression soften a little. "What news?"
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## Chapter 4 — The Breton Offer
-
-Matilda leaned closer to the King, so that he alone could hear her. "A message from Brittany, my lord."
-
-"Is our daughter in good health? What news?"
-
-The Queen smiled slightly and drew a parchment from inside her sleeve. 
-
-"Nay, sire, this concerns Duke Conan's daughter, Agnes; she is fair and of marriageable age. They propose a match... with your son Godfrey."
-
-Henry's eyes narrowed, but he said nothing. The Queen turned to face him fully, seeking reassurance.
-
-"Is it not a clever move, my lord? Why, even old Alain (the Duke's father) gives us his blessing."
-
-Slowly, very slowly, a smile spread across Henry's face; but not a warm smile, rather like that of a man who had just spotted a fox climbing into his henhouse.
-
-"Alain and Conan *both* want my son?"
-
-He reread the letter, his thumb tracing the wax seal of the House of Cornouaille. 
-
-The Queen pressed forward, uncertainly. “It would reinforce our borders. Alain is to retire to a monastery and so wishes to strengthen ties to our house with a second knot.”
-
-Henry set the parchment down. "That is the point. Old Alain is fading and so he must look at his son Conan and wonder: is he strong enough to stand alone? So he reaches for Godfrey as a second to his son, in case the first should fail. It is an ill wind blowing from the south."
-
-The Queen frowned. "What treachery is found in a knot that only binds us closer as family?"
-
-Henry laughed his short, sharp bark. "Fie, I say! Family feeling? Nay Madam; my own brother sits in a dungeon for trying to steal my crown."
-
-He leaned forward.
-
-"Once Godfrey is there, with Breton lords whispering in his ear—a king's son, a warrior's blood—how long before some start thinking *he* would make a fine duke? How long before Conan sees the threat and turns on him? Then I must choose: lose my son, or march on Brittany."
-
-He crumpled the letter.
-
-"No. If Godfrey is to be a lion, let him grow his claws in my sight. Or would you have me send him back to Salisbury Cathedral? Here is where he belongs."
-
-The Queen's voice rose sharply, in a rare display of annoyance with the King. "Our son William has Anjou. Your daughter Matilda FitzRoy has Brittany. Your nephews have lands over the sea. Yet what lands has Godfrey, and what name?"
-
-Her voice dropped to a loud whisper.
-
-"You know what they call him. A weak whelp. A sad shadow."
-
-Henry raised the queen's cup to his lips before lowering it carefully onto the oak. The moment of silence was more terrifying than a shout.
-
-"A weak whelp," he repeated, his voice a low rasp. "A shadow."
-
-The Queen recoiled. "Henry, I meant no slight—"
-
-"You mean to send him across the sea," Henry cut her off, "where he cannot trouble our William."
-
-The Queen said nothing.
-
-Henry stared at her. "William is barely ten, and already you fear shadows."
-
-He leaned back and shook his head in disbelief.
-
-"You speak of Brittany as a sanctuary," he rasped. "I see it as a whetstone where an enemy may sharpen their axe. Would you place a blade in my rival's hand? Pray they do not set it against our William. By all means find Godfrey a wife, but keep him nearby."
-
-The Queen kept quiet and the hall held its breath, until at long last the king broke the silence.
-
-"My lifeblood is in all my children and they each bring us much joy. If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## Chapter 5 — The Ledger and the Lion
-
-Henry stood with his back to the room, a silhouette carved against the roaring central hearth. Still stinging from the Queen's comments about his son, the King did not move for a long moment; he seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
-
-He turned suddenly, his voice not a shout, but a low, resonant vibration that commanded the sudden silence of the hall.
-
-"My father was mocked as the 'Tanner's Grandson' by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
-
-Henry's eyes scanned the far wall, unseeing. "I had no lands. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
-
-The rhetoric was cut short by a dry, rhythmic rustle of parchment being squared up.
-
-Roger of Salisbury stepped into the light. He was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and the keeper of the realm's cold reality.
-
-Henry remained turned toward the fire, his shoulders rigid; thus, it fell to the Queen to anchor the moment.
-
-"Welcome, Lord Roger," she said, her voice cool and steady. "We were just speaking of the weight of legacy. I trust you bring the weight of the present to balance it?"
-
-Roger bowed—a shallow, efficient nod. "The present is manageable, Majesty. But the parchment from Brittany requires a decision. Duke Conan offers his daughter Agnes for Prince Godfrey."
-
-Henry finally turned, his eyes regaining a wary, cordially sharp edge. He glanced at the Sheriff of the shire, who stood trembling by the sideboards.
-
-"Roger. What say you of the local Sheriff's tallies for the forest-fines? He tells me the oaks yielded nothing this season, yet my coffers are bruised and the silver they should have bought is nowhere to be seen. Perhaps you might find the truth where he has found only... 'confusion'."
-
-The Sheriff went pale, sinking into a bow that was more of a collapse.
-
-Roger didn't even look at the man. "The Sheriff's confusion is a matter for the morning audit, Sire. But the parchment from Brittany is a matter of state. Conan offers a second tie—a redundant circle that adds nothing to our security. We already hold the western flank of Normandy; we do not need to buy Brittany twice."
-
-He paused, his eyes flicking to the King with a look of devastating common sense.
-
-"However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a son who sits outside the direct line of succession. To refuse it is... inefficient. Whether it be the six hundred marks missing from a Sheriff's bag or ten thousand from a Duke's treasury, it is a coin left on the table."
-
-Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
-
-For a long moment, Henry said nothing. The anger had drained from his face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who saw stepsons as obstacles to be tidied away.
-
-Then his gaze drifted past them, across the hall—and stopped.
-
-In the shadows near the door, half-hidden behind a pillar, sat Godfrey. His son. While knights and lords shifted nervously under Henry's silence, the boy sat perfectly still. Not cowering. Not pleading. Simply... waiting. Watching the debate about his future as if it were a story about someone else.
-
-*He has learned to wait*, Henry thought. *As I waited. As I watched my brothers take everything while I sat in corners just like that.*
-
-The ghost of his own youth stared back at him from across the hall.
-
-Godfrey felt his father's gaze and looked up—slowly, carefully, the way a man looks at the sun. Their eyes met.
-
-Godfrey did not smile. He did not nod. He simply waited, as he had always waited, to see what his father would do.
-
-Henry saw it. The patience. The endurance. The refusal to beg.
-
-*He is better than I was. I clawed and fought and burned. He simply waits. And they call him weak.*
-
-Something hardened in his chest.
-
-*I built this*, he thought. *I made a kingdom where blood is tallied like wool. And now they serve it faithfully—more faithfully, perhaps, than they serve me.*
-
-The room felt suddenly small. Henry realized he had only two choices: accept their framing and treat his son as a surplus asset, or reject it and leave Godfrey with nothing.
-
-Then, something flickered behind his eyes. Not anger, but a dangerous, cold clarity. *Unless there is a third way.*
-
-"So," Henry said softly, his voice dropping to a dangerous rasp. "Everyone arrays against me? Am I the only man in England who sees a son instead of a sack of wool?"
-
-He looked back at Roger, a dangerous smile playing at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
-
-"You think my blood is currency, Roger? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid."
-
-Henry's voice began to rise, the "Scholar-King" giving way to the impulsive pride of the Conqueror's son. He jabbed a finger toward the heavy, carved doors of the lodge.
-
-"If he be a coin, Roger, then we shall toss him to the Heavens! The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
-
-The Queen stared at him, her face pale. "You cannot possibly mean to cast his life so blindly."
-
-Henry's posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall provide. Elsewise, let the hall stay empty, that I may drink in peace."
-
-The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow *coram rege*—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
-
-Henry reached for his wine, oblivious, for the most part, to the cage he had just built—its door wide open to the night.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## Sir Guy’s Spite
-
-Beatrice reached the hunting lodge by midday.
-
-The place swarmed with soldiers and servants. 
-
-The hall was still nursing the King's mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary of its hot steam. 
-
-As Beatrice entered, carrying the handmade basket and dusty from the journey, a young Norman knight lounging near the doorway recognised her.
-
-**Sir Guy de Montfort.**
-
-Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the elders shared ale by the bonfires, Sir Guy had cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
-
-Insulted, Beatrice had politely begged to be excused, then to go and find her father.
-
-He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding should be more accommodating to a Norman blade. Else, your lands *escheat* to the King and your hall is burned for charcoal!”
-
-She had told him coldly that she preferred men who worked for their supper, not some fine *popinjay* who lived off the sweat of others.
-
-He had not forgotten the insult.
-
-Seeing her now amused him terribly: standing at the entrance to the King’s royal hall with a smudge of charcoal on her nose.
-
-As she walked past him, he extended one boot slightly, interrupting her path.
-
-Beatrice stumbled.
-
-The basket flew open.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## The Goose Hunt
-
-Goosie exploded from the basket in a fury of wings.
-
-Servants shouted.
-
-A clerk dropped his parchments.
-
-The goose darted across the hall like a feathered arrow.
-
-Someone muttered:
-
-“My troth! A goose loose in the king’s house.”
-
-The bird leapt onto the king’s table.
-
-Henry blinked at the goose, then roared with laughter: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
-
-“Well! At last a lively hunt!”
-
-He lunged and caught the goose just as it snapped at the clerk's rear end.
-
-At the sound of Goosie's distressed squawking, Beatrice burst into the hall, long hair flying and uncovered.
-
-“Please don’t hurt Goosie!”
-
-The King blinked.
-
-“Your goose?”
-
-Laughter rippled again throughout the hall. 
-
-Sir Guy, emboldened by the court's uncertain laughter, called out: "This Saxon girl needs a lesson her father's hall could not teach!"
-
-Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller. All eyes turned toward her as she curtsied low. Drawing courage in the silence, she spoke.
-
-“She was meant for your table, sire… but if it please you, spare her.”
-
-Henry chuckled, his eyes glinting with a curious merriment. 
-
-"At last—an honest creature in this hall. Spare the goose, you plead?"
-
-It was a pleasing novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
-
-“I say she has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## The Red‑Wolf’s Daughter
-
-The King leaned forward, studying her with amused wonder.
-
-“And tell me, who are you, and whose daughter?”
-
-The girl blushed a little, but held her ground with head held high.
-
-“My lord, I am Beatrice, daughter of Harold Red-Wolf of Stanwey, not five miles from here. He sends apology for not renewing friendship in person, for he is become old.”
-
-The king’s eyebrows shot up.
-
-“Hrathulfr?”
-
-He tilted his head as a distant memory stirred.
-
-“Not the same man who pulled my brother from the Severn?”
-
-Beatrice brightened.
-
-“The very one, sire. He often tells how the King’s brother was heavier than any salmon he ever netted.”
-
-The King roared with excited laughter, in sudden recognition.
-
-“Ha! Then it all returns to me! My father the King gave your father a purse of silver for his damp trouble, and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit instead. My brother Robert was ever more a sodden worm than a lord, and would have stayed on the riverbed had the Red‑Wolf not hauled him to the bank.”
-
-He looked at her and shook his head. 
-
-"Well, aren't you a fine she-wolf! Do not delay but go and tell your father that I shall visit him next week to hear him tell it anew… and return his goose besides and a larder to boot.”
-
-As Beatrice turned to leave, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
-
-“And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.”
-
-It seemed that the King missed very little in his court. 
-
-Beatrice caught the knight's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## The Queen Remembers the Vow
-
-As Beatrice left, the queen turned hesitantly to the king.
-
-“My lord, surely your jest was but a passing breath...”
-
-Henry frowned at his wife.
-
-“Is my lady unwell?”
-
-Nervously, the clerk stepped forward to intervene.
-
-“Your Majesty, I believe the queen refers to your royal oath that the next eligible maiden entering the hall should wed Master Godfrey.”
-
-The king's grin returned with a dangerous sort of mischief.
-
-"It seems, Matilda, that the Heavens have a sense of humour. And they have sent us a Red-Wolf's daughter."
-
-The queen grew pale.
-
-“My lord, consider what sorrow of reputation a low-born woman will bring your son.”
-
-The king shrugged.
-
-“Would you rather the boy marry the goose? It arrived first.”
-
-Laughter rippled through the court.
-
-“And besides,” Henry added, “the daughter of Red-Wolf is good blood of an ancient house, even if Saxon.”
-
-He called aside his youngest son.
-
-“Godfrey, take a pair of riders and see the young lady safely home.”
-
-Then, after a sharp look at his clerk — who had anticipated with his quill poised over a fresh parchment—the King stood. The chatter of the hall died instantly. He spoke in the clipped, melodic French of the court, but his voice carried to the furthest rafters.
-
-“Hearken now, all my barons and faithful men of England. By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that my son, Godfrey, shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession.”
-
-He looked directly at the cluster of knights where Sir Guy stood, his gaze like a physical weight.
-
-“Let this be clear to one and all. My son, Godfrey, shall marry the daughter of Harold Red-Wolf.”
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-## A Courtship No One Expected
-
-Godfrey obeyed his father. 
-
-At first he visited Harold’s cottage only to honour the king’s command.
-
-But he found Beatrice unlike the ladies of court.
-
-She spoke plainly.
-
-She laughed easily.
-
-She did not treat him as a prince, but as a man.
-
-Godfrey discovered he liked this very much. Though he was not the handsomest of the king’s sons, nor the cleverest, he possessed this rarer quality: he listened.
-
-And so it was that with time, after some initial suspicion, even Goosie accepted him.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-
-
-
-
-NEW MULTIPART SECTION - THE WALK
-
-
-
----
-
-## Chapter 6 — The Road Home
-
-The Roman road stretched eastward through the forest, pale stone under a pale sky. Beatrice walked with her basket on her hip, Goosie's occasional rustle the only sound besides her own footsteps. The lodge was behind her now, the king's laughter still echoing strangely in her memory.
-
-She had her goose. The king had spared her. More than that—he had *laughed*. At her, perhaps, but also *with* her. It was more than she had dared hope.
-
-She was still turning it over in her mind when she heard the horses.
-
-Hooves on stone. Coming fast. Two, maybe three riders.
-
-She stepped to the side of the road without thinking, bowing her head, pulling the basket close. Nobles passed quickly when they passed at all. You stood aside and waited for the dust to settle.
-
-The horses slowed. Stopped.
-
-She waited, head still bowed. The dust drifted. Someone dismounted.
-
-Then a voice—young, uncertain, not commanding:
-
-"Please. Don't be afraid."
-
-She looked up.
-
-It was him. The young man from the hall. The one who had stood by the pillar, watching. Their eyes had met for a heartbeat when she first entered—she remembered because he hadn't looked away quickly, the way nobles usually did when caught staring at a peasant. He'd just... watched. Like he was trying to understand something.
-
-Now he stood before her, holding his horse's reins, looking as uncertain as she felt.
-
-"I'm sorry to startle you," he said. "My father—the king—has commanded me to give you safe escort back to your home. That's all. Nothing more."
-
-She stared at him. Safe escort. A prince, sent to walk a goose girl home.
-
-"You'll get your boots muddy," she heard herself say.
-
-He looked down at his fine leather boots. Then at the road. Then back at her.
-
-"I've had muddier."
-
-It was almost a joke. Almost. She didn't smile, but something in her face shifted.
-
----
-
-They walked.
-
-The guards followed at a distance—far enough to be respectful, close enough to be protective. Godfrey had offered her his horse, but the thought of sitting on that tall, sleek animal, of being lifted up by a prince in front of soldiers... her face had gone hot just imagining it.
-
-"I'll walk," she'd said.
-
-And so they walked.
-
-For a long time, neither spoke. The road crunched under their feet. Goosie rustled in her basket. The forest breathed around them.
-
-Finally, Godfrey said: "The goose. What's its name?"
-
-She glanced at him sharply, searching for mockery. Found none.
-
-"Goosie."
-
-"Goosie." He nodded, considering it seriously. "That's a good name. Simple. She knows who she is."
-
-Beatrice didn't know what to make of that.
-
----
-
-After another silence, she asked: "Do you always escort peasants home?"
-
-He almost laughed, then stopped himself.
-
-"No. I've never escorted anyone anywhere." A pause. "I mostly just... watch."
-
-She remembered him by the pillar. Watching.
-
-"Why?"
-
-He shrugged. "It's safer. No one expects much from you if all you ever do is just watching."
-
-She filed that away. It wasn't what a prince was supposed to say.
-
----
-
-They walked on. The guards' horses clip-clopped softly behind them.
-
-Godfrey kept glancing at her—quick looks, then away, as if trying to work something out. She felt his gaze like a small warmth.
-
-Finally, she couldn't bear it.
-
-"What is it?" She refused to look at him. "What are you staring at?"
-
-He went pink. "It's nothing. It's... I'm... I mean I'm sorry. I didn't mean to—"
-
-She glanced at him sideways. Waited.
-
-He took a breath.
-
-"I... I think you're one of the bravest women I've ever seen."
-
-She stumbled. Actually stumbled, catching herself just in time.
-
-"What!?"
-
-"In the hall." He wasn't looking at her now, staring straight ahead. "You walked in after your goose. Everyone was staring. My father was in a mood that could curdle milk. And you just... walked up to him. And begged. For a goose."
-
-Beatrice didn't know what to say. No one had ever called her brave before. Stubborn, yes. Headstrong. Her father said she acted first and thought second. But brave?
-
-"I was terrified," she admitted.
-
-"I know." He glanced at her. "That's what made it brave."
-
----
-
-They walked on. The forest opened up ahead—she could see the clearing where Stanwey sat, smoke rising from the hall's hearth.
-
-"My..."
-
-Godfrey took a breath.
-
-"My father made a vow today. Before the whole court."
-
-She waited.
-
-"He was angry. About the hunt, about—" He stopped. "About me. About my future. And about... whom I shall marry."
-
-Beatrice glanced at him, then away. Marriage. That was for nobles to arrange. For peasants, it was simpler—whoever your father chose, whoever could keep you fed.
-
-"Oh," she said. Just that.
-
----
-
-He seemed to need to fill the silence.
-
-"My mother wanted someone important for me. A princess from across the sea—Agnes of Brittany. Beautiful, they say. Wealthy. The kind of match that would..." He trailed off. "That would make me matter, I suppose."
-
-Beatrice said nothing. A princess. Silk dresses. Castles by the sea.
-
-"But my father said no."
-
-This surprised her. She looked at him.
-
-"Why?"
-
-Godfrey almost smiled. "He said it would make me a target. Put me in a rival's hands. Give the Bretons a knife to hold at his throat." He shrugged. "He sees threats everywhere. Sometimes he's right."
-
----
-
-They walked. The road curved through the trees.
-
-"What happens now?" Beatrice asked. "If not Brittany?"
-
-Godfrey looked at her directly.
-
-"That's the thing." He took a breath. "He said... he would let God decide."
-
-She frowned. "Let God decide? How?"
-
-His ears went slightly pink. It was the first time she'd seen anything like embarrassment on his face.
-
-"He pointed to the door. The entrance to the hall. He said... the next maiden to walk through it..." He trailed off.
-
-Beatrice waited. "The next maiden...?"
-
-"Would be the one." He said it quickly, like getting a splinter out. "The one I marry."
-
----
-
-Beatrice considered this. It was odd, certainly. Kings usually arranged marriages like farmers arranged livestock—with deliberation, with bargaining, with contracts. Leaving it to chance seemed...
-
-"Is that usual?" she asked.
-
-Godfrey almost laughed. "No. I've never heard of such a thing. It's... it's put him in a difficult spot."
-
-"Oh?"
-
-Just that. One syllable. She was still processing, still fitting this strange information into her understanding of how the world worked.
-
-They walked on.
-
----
-
-After a few steps, curiosity got the better of her.
-
-"What difficulty?"
-
-Godfrey glanced at her, then away.
-
-"A vow like that... he can't refuse it. It's spoken before the court. Before God. A king's word is sacred—if he breaks it, his knights don't have to keep their oaths to him." He shook his head. "He's trapped. Whoever walked through that door, that's who I have to marry. A princess, a peasant, anyone."
-
-Beatrice walked in silence, turning this over.
-
-A king, trapped by his own words. A prince, married to whoever walked in next. Some girl somewhere, about to have her life turned upside down by a door.
-
-She almost felt sorry for that girl. Whoever she was.
-
----
-
-"So," Beatrice said, more to fill the silence than anything, "who is she? The one who walked through?"
-
-Godfrey stopped walking.
-
-She took two more steps before realizing he was no longer beside her. She turned.
-
-He was just standing there, looking at her with an expression she couldn't read. Something between wonder and terror.
-
-She waited.
-
-He didn't speak.
-
-The road was very quiet.
-
----
-
-And then—slowly, terribly, wonderfully—it dawned on her.
-
-*The next maiden to walk through the door.*
-
-She had walked through a door today. Many doors. The lodge door. The hall door.
-
-*She* had walked through the door.
-
-She remembered it suddenly—pushing through after Goosie, long hair flying, not thinking, just acting. The hall had been full of staring faces, strange and hostile. She'd barely noticed them. She'd only seen the king, and the goose, and her own terror.
-
-*Oh.*
-
-She had walked through that door.
-
-"Oh," she breathed. Then, louder: "Ooh!"
-
-The basket tipped. Goosie honked in protest. Beatrice didn't notice.
-
-Her face went white, then red, then white again. Her heart was suddenly loud in her ears—so loud she was sure he must hear it.
-
-"It's me," she whispered. "It's me."
-
-Godfrey nodded. Just once. Still not speaking.
-
----
-
-For a long moment, she couldn't move. Couldn't think. The world was upside down and her thoughts crashed into each other like startled birds.
-
-*Me? The goose girl? A fading Saxon house? Me.*
-
-*A prince. I'm supposed to marry a prince.*
-
-*I have charcoal on my nose.*
-
-She became acutely aware of everything about herself: her dusty dress, her wind-tangled hair, her muddy shoes. The goose basket on her hip. The smudge she knew was on her face.
-
-She must look ridiculous. She must look like a complete fool. A peasant standing on a road, gaping at a prince, while her goose squawked.
-
-And then—despite everything, despite the terror and the confusion and the utter impossibility of it all—she did something she never expected.
-
-She looked at him. Really looked.
-
-And he was still just standing there. Waiting. Not smirking. Not triumphant. Just... waiting. Like her opinion mattered. Like *she* mattered.
-
-A shy glance. Quick, before she could stop herself. Then away.
-
-Godfrey's ears were still pink.
-
----
-
-"You're blushing," she heard herself say.
-
-He touched his ear self-consciously. "I'm not."
-
-"You are."
-
-A pause. Then, incredibly, he almost smiled.
-
-"So are you."
-
-She touched her own burning cheek and wanted to die.
-
-The goose honked.
-
-And somehow, impossibly, they were both almost laughing.
-
----
-
-They walked again. Slower now. The guards still followed at a distance.
-
-After a long silence, Beatrice said: "Thank you."
-
-"What's that?"
-
-"For telling me yourself," she said. "You could have let me find out at home. From my father, or some messenger at the gate."
-
-The timbered hall of Stanwey was visible now, a grey island in the clearing. Godfrey slowed his pace, his eyes moving from the sturdy walls to the small, calloused hands Beatrice used to steady her basket.
-
-"How is your father?" he asked, his voice low and thoughtful. "Does he still keep the high seat in the hall, or has the governance of this house settled upon your shoulders? Does he hold the keys himself, or has the daily charge of these lands fallen to you?"
-
-Beatrice didn't look away from the smoke of her hearth, her voice steady and protective of the man within. "His heart is in the hall," she said, "but the winter is hard on his aching bones. The daily ordering—the accounts, the boon-work, the settling of village strife—that is my charge now. He provides the counsel; I provide the feet."
-
-"A heavy burden for a daughter alone," Godfrey observed, watching her with a quiet, searching intensity. 
-
-"He believes the world is as it ever was," she said, her tone uncomplaining, almost a whisper of pride. "And I see that it remains so for him. He pretends he's fine. He pokes at the fire and says the cold doesn't bother him. But I see him at night, when he thinks I'm asleep. The pain in his hands. The way he moves slow, like every step costs him something."
-
-She swallowed.
-
-"How could I forgive myself if he... if something happened? If he got hurt, or worse, because I let him go?"
-
-Godfrey's face was still. Not pitying. Just present.
-
-"You love him," he said. Not a question.
-
-"Yes."
-
-Another silence. Then, more softly:
-
-"He cautioned me, before I left. Told me to remember whose hall I was entering." She almost smiled. "Meaning: behave yourself. Don't speak out of turn. Don't act first and think second."
-
-She looked at him, embarrassed.
-
-"He says I do that. Act first, think second."
-
-Godfrey considered this.
-
-"In the hall," he said slowly, "you acted first. And it worked."
-
-She blinked.
-
-"You saved your goose. You made my father laugh. You—" He stopped, then went on, quieter. "You made me want to know who you were."
-
-Godfrey turned to her. "Would you like me to wait outside? Give you time to tell him alone?"
-
-She looked at him sharply. It hadn't occurred to her that he'd offer that. That he'd think of her father, her home, her need for a moment to breathe.
-
-"That would be..." She trailed off. "Yes. Please."
-
-He nodded again. Stepped back. Gestured for the guards to halt.
-
-"I'll wait here. Take as long as you need."
-
----
-
-She walked the last hundred yards alone.
-
-The hall door was open. Her father was there—she could see him, standing in the doorway, watching her approach. His face was worried. He'd seen the riders, the soldiers, the prince.
-
-She reached him. Set down the basket. Goosie waddled out and headed for the hearth.
-
-Harold looked at his daughter. At her red cheeks. At her strange, stunned expression.
-
-"Daughter?"
-
-She took a breath.
-
-"Father," she said. "I saved Goosie."
-
-A pause.
-
-"But there's something else."
-
----
-
-Outside, at the edge of the trees, Godfrey waited.
-
-He didn't know what would happen next. He didn't know if she'd come back out, or send him away, or laugh at the impossibility of it all.
-
-But he knew one thing: she had charcoal on her nose, and she had made him almost laugh, and that was more than any princess had ever done.
-
-He waited.
-
-The road stretched both directions, past and future, and for the first time in his life, he wasn't sure which was which.
-
-... 
-
-Harold struggled accept the thing that seemed to be a fantasy to him. But when he saw the likeness of Godfrey to his memory of the King, he began to believe it at last.
 
 
 
