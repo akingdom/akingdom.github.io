@@ -491,7 +491,7 @@ The hen ruffled, settled, and tucked the egg beneath her without complaint.
 
 Mother reached into her pouch. Handed the woman something—a coin, a small cloth bundle, Beatrice couldn't see what.
 
-The woman took it. Nodded.
+The woman took it. Looked down, surprised.
 
 "Oh, thank you, my lady."
 
