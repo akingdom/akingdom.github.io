@@ -747,7 +747,7 @@ Henry's steely gaze shifted to the door where his men lingered. Inwardly, he kne
 
 "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
 
-“Peace is a rare gift, my lord,” Matilda said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the betrothal promise for our young William? It cost you no blood, only a signature.”
+“Peace is a rare gift, my lord,” Matilda said softly, leaning closer. “It is the very thing you won in the County of Anjou back in February. Remember the betrothal promise for our young William? It cost you no blood, only a signature.”
 
 Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
 
