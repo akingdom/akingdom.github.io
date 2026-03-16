@@ -469,11 +469,11 @@ The farm sat by the river bend, just where the meadow gave way to reeds. Geese w
 
 A woman came out of the farmhouse. Not young, but not old either. She wiped her hands on her apron and looked at them both with calm, measuring eyes.
 
-"After an egg, are you?"
+"How many eggs?"
 
-"One of the speckled ones, if you have it," mother said. "The ones that run true."
+"One to hatch, one of the speckled ones, if you have it," mother said. "The ones that run true."
 
-The woman nodded. "This way."
+"Ah." The woman nodded. "This way."
 
 She led them to the poultry shed. Inside, beneath a sitting goose, among a nest of eggs, one was larger—speckled, warm, alive.
 
