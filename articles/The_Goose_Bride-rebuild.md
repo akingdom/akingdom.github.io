@@ -557,7 +557,7 @@ The years that followed were full of geese and growing. Her mother taught her ev
 
 How to tell when bread was ready by the sound of the crust. How to soothe a crying child with a cool hand and a soft word. How much barley went into the ale, and when to add the herbs that made it keep through winter. How to look at a fever and know whether it would break or whether you needed to send for the priest.
 
-Beatrice learned. She watched and she listened and she learned.
+Beatrice learned. She watched and she listened and she grew.
 
 Then her mother grew tired. Then pale. Then thin.
 
@@ -571,7 +571,7 @@ Harold was there. Always.
 
 Beatrice would find him in the doorway of the sleeping chamber, watching, his great warrior's hands hanging useless at his sides. He tried to help—lifting her, bringing water, smoothing the blankets—but his wife smiled at him with such gentle patience that he seemed to shrink.
 
-"Go and sit by the fire, husband. Beatrice will stay with me."
+"Go and tend the fire, husband. Beatrice will stay with me."
 
 And he would go.
 
