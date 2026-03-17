@@ -1257,7 +1257,7 @@ Henry's steely gaze shifted to the door where his men lingered. Inwardly, he kne
 
 "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
 
-Matilda smiled politely. “Peace is a rare gift, my lord,” she said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the betrothal promise for our young William? It cost you no blood, only a signature.”
+Matilda smiled politely. “Peace is a rare gift, my lord,” she said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the treaty at Gisors last year? Brittany is ours in all but name now, and your daughter sits there as Duchess.”
 
 Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
 
@@ -2129,7 +2129,9 @@ We need to rewrite this - tone down the comparatives perhaps, especially a king'
 
 ---
 
-### Some Weeks Later
+### A Christmas Visitor
+
+--- Matilda should be betrothed, not yet married (marriage is 1118). Her visit is a natural family visit at Christmas 1114.	
 
 The hall at Stanwey has seen many things. Norman soldiers, royal messengers, a king's son at the threshold asking awkward questions. But it has never seen this: a duchess, dismounting in the mud, her cloak heavy with the dust of long roads, her eyes sharp and curious.
 
@@ -2562,7 +2564,7 @@ REMAINDER TO REWRITE MAYBE
 
 ## The Goose Bride
 
-Their wedding was held the following summer, when the oak trees of Rockingham forest were heavy with green.
+Their wedding was held the following spring, when the oak trees of Rockingham forest were heavy with new green.
 
 Nobles came reluctantly at first, expecting scandal.
 
