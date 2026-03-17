@@ -137,6 +137,516 @@ document.addEventListener("DOMContentLoaded", () => {
     </div>
 </div>
 
+TIMELINE (CANONICAL)
+
+---
+
+Here is the final, solidified master table—fully updated with 1114 as the fixed point, all ages recalculated, all events placed, and all hurdles integrated.
+
+---
+
+# THE GOOSE BRIDE — MASTER TIMELINE (FINAL)
+## *1114-1115 Edition*
+
+---
+
+## Fixed Historical Anchors
+
+| Date | Event | Type | Source |
+| :--- | :--- | :--- | :--- |
+| **1066** | Norman Conquest | Real | History |
+| **1068** | Henry I born | Real | History |
+| **c. 1080** | Matilda of Scotland born | Real | History |
+| **1100** | Henry becomes king; marries Matilda | Real | History |
+| **1102** | William Adelin born | Real | History |
+| **March 1113** | Treaty of Gisors; Matilda FitzRoy betrothed to Conan | Real | History |
+| **March-July 1114** | Henry in Normandy, then Wales campaign | Real | History |
+| **Aug-Sept 1114** | Henry returns, consolidates after Wales | Real | History |
+| **Mid-Oct 1114** | Royal progress through Midlands | Real | History |
+| **Tuesday, 20 Oct 1114** | **KING'S HALL AT ROCKINGHAM** | **Story Fixed Point** | Our anchor |
+| **1118** | Queen Matilda dies | Real | After story |
+| **1120** | White Ship disaster | Real | After story |
+
+---
+
+## Character Birth Table (Final)
+
+| Character | Status | Birth Year | Age at Meadow (c. 1103) | Age at Hall (20 Oct 1114) | Age at Wedding (Spring 1115) | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Harold Red-Wolf** | Fic | **c. 1050** | ~53 | ~64 | ~65 | Warrior at Conquest (16); old but plausible |
+| **Beatrice's mother** | Fic | **c. 1077** | ~26 (dies 1109) | — | — | Married c. 1096 (age ~19) |
+| **Nurse** | Fic | **c. 1075** | ~28 | ~39 | ~40 | Godfrey's former nurse |
+| **Henry I** | Real | 1068 | ~35 | **46** | ~47 | |
+| **Queen Matilda** | Real | c. 1080 | ~23 | **34** | ~35 | Dies 1118 (after story) |
+| **Roger of Salisbury** | Real | c. 1065 | ~38 | **49** | ~50 | |
+| **Sir Guy de Montfort** | Fic | **c. 1090** | ~13 | **24** | ~25 | Young knight, bully |
+| **Godfrey FitzRoy** | Fic | **c. 1095** | ~8 | **19** | ~20 | Illegitimate son of Henry |
+| **William Adelin** | Real | 1102 | ~1 | **12** | ~13 | Heir; dies 1120 |
+| **Beatrice** | Fic | **c. 1098** | ~5 | **16** | **16-17** | Born spring; ideal age |
+| **Duchess Matilda FitzRoy** | Real | c. 1096? | ~7 | **18** | ~19 | Henry's daughter; betrothed to Conan |
+| **Half-sister Alice** | Fic | c. 1093? | ~10 | **21** | ~22 | Godfrey's jealous half-sister (fictional) |
+| **Half-sister Matilda** | Fic | c. 1095? | ~8 | **19** | ~20 | Godfrey's jealous half-sister (fictional) |
+| **Lady Margaret** | Fic | c. 1085? | ~18 | **29** | ~30 | Beatrice's daily mentor |
+| **Goosie** | Fic | 1103 | 0 | **11** | ~12 | Hatched spring 1103 |
+
+---
+
+## Master Timeline — Complete (1103-1115)
+
+---
+
+### PART ONE: THE SEED (1103-1109)
+
+| Year | Date | Beatrice's Age | Event | Type | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1103** | Spring | 5 | **Meadow encounter with boy (Godfrey, age 8)** | Fic | Boy vanishes; "My father owns all the geese" |
+| **1103** | Spring | 5 | Farm visit; acquire goose egg | Fic | Nurse: "my lady"; mother pays |
+| **1103** | Spring | 5 | Goosie hatches (hen surrogate) | Fic | Beatrice names her |
+| **1103-1108** | — | 5-10 | Mother lessons | Fic | Herbs, brewing, healing, settling disputes |
+| **1109** | Spring | 11 | **Mother dies** | Fic | Apple blossoms; Harold's grief begins |
+
+---
+
+### PART TWO: THE YEARS BETWEEN (1109-1114)
+
+| Year | Date | Beatrice's Age | Event | Type | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1109-1114** | — | 11-16 | Beatrice runs manor | Fic | Harold declines; Goosie follows always |
+| **March-July 1114** | — | 16 | Henry in Normandy/Wales | Real | (off-stage) |
+| **Aug-Sept 1114** | — | 16 | Henry returns, consolidates | Real | |
+| **Early Oct 1114** | — | 16 | Royal progress toward Rockingham | Real | Court moves |
+
+---
+
+### PART THREE: THE HALL (October 1114)
+
+| Date | Day | Event | Beatrice's State | Attack | Defense | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon 19 Oct** | -1 | Messenger arrives at Stanwey | Anxious | Purveyance | Beatrice decides to go | Harold worried |
+| **Tue 20 Oct** | **0** | **King's Hall at Rockingham** | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
+| **Tue 20 Oct** | 0 | Henry recognizes Harold | Relieved | Sir Guy's mockery | Henry shames Sir Guy | Queen observes |
+| **Tue 20 Oct** | 0 | Queen invokes vow; betrothal announced | Unaware | Political trap springs | — | Henry: "Would you rather the boy marry the goose?" |
+| **Tue 20 Oct** | 0 | Godfrey commanded to escort her | — | — | — | Henry: "Take her home" |
+| **Tue 20 Oct** | 0 | **The Walk Home** | Confused | — | Godfrey's patience | Connection forms |
+| **Tue 20 Oct** | 0 | Stanwey arrival; Godfrey waits | Nervous | — | He waits outside | Harold watches |
+| **Tue 20 Oct** | 0 | Harold's recognition ("wolf/tree") | Confused | — | Harold pieces it together | "A wolf may find shade under a good tree" |
+| **Tue 20 Oct** | 0 | Godfrey asks Harold properly | Waiting | — | Harold says yes (to courting) | Beatrice watches through window |
+| **Wed 21 Oct** | +1 | Godfrey returns to court | Hopeful | — | Promise to return | |
+| **24-31 Oct** | +4-11 | First days at Stanwey | Settling | Court whispers | Goosie's presence | |
+
+---
+
+### PART FOUR: FIRST COURT EXPOSURE (November 1114)
+
+| Date | Day/Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **c. 1-3 Nov** | +2 | Beatrice returns to court (first visit) | Nervous | Stares, whispers | Godfrey's presence | Court watches |
+| **c. 4 Nov** | +2 | **Meeting the half-sisters (Alice & Matilda)** | Confused | Cool politeness, veiled insults | Beatrice misses half | Sisters: Alice (21), Matilda (19) |
+| **c. 5 Nov** | +2 | First formal dinner | Overwhelmed | Wrong knife; snickers | Lady Margaret corrects | Margaret assigned (Queen's doing) |
+| **c. 6 Nov** | +2 | Sir Guy's first rumor | Unaware | Spreads whisper | Duchess (not yet) hears later | Sir Guy schemes |
+| **c. 7-10 Nov** | +2-3 | Daily tutelage with Lady Margaret | Learning | Small cruelties | Margaret's teaching | "They test you. Ignore it." |
+| **c. 8 Nov** | +2 | Half-sister wine spill | Humiliated | Wine on her only gown | No reaction; Queen's maid notices | Queen hears report |
+| **c. 10 Nov** | +3 | Godfrey visits Stanwey (weekend) | Relieved | — | Time together; Goosie accepts | Harold watches |
+| **c. 12-15 Nov** | +3-4 | Second week at court | More confident | Whispers continue | Margaret's guidance | Sisters plan escalation |
+
+---
+
+### PART FIVE: STANWEY INTERLUDE (Mid-November 1114)
+
+| Date | Week | Event | Beatrice's State | Attack | Defense | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **c. 16-23 Nov** | +4 | Godfrey at Stanwey (extended) | Content | — | Daily life; helping with manor | Harold: "He's good for her" |
+| **c. 18 Nov** | +4 | Goosie's full acceptance | Joyful | — | Goose chooses him | "She knows who she is" |
+| **c. 20 Nov** | +4 | Harold's health wobbles | Worried | His frailty visible | Beatrice tends him; Godfrey helps | Harold hides pain |
+| **c. 22 Nov** | +4 | Letter from court: Christmas invitation | Nervous, excited | — | Godfrey: "I'll be with you" | Queen extends invitation? |
+| **c. 24 Nov** | +5 | Return to court for pre-Christmas | Bracing | — | — | Court prepares for Yule |
+
+---
+
+### PART SIX: CHRISTMAS COURT & DUCHESS VISIT (December 1114)
+
+| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **c. 16 Dec** | +8 | Court assembles for Christmas | Overwhelmed | More nobles, more scrutiny | Godfrey constant | Half-sisters poised |
+| **c. 18 Dec** | +8 | **Duchess of Brittany arrives** | Curious, wary | Comes suspicious | Beatrice's plain honesty | Duchess watches |
+| **c. 19 Dec** | +8 | Half-sisters whisper to Duchess | Unaware | "She's vulgar, ignorant" | Duchess makes up own mind | Sisters overplay hand |
+| **c. 20 Dec** | +9 | **Garden walk with Duchess** | Open, herself | — | Memory connection (oblique) | Duchess softens |
+| **c. 21 Dec** | +9 | Duchess observes Beatrice at dinner | Nervous | Sisters' subtle digs | Beatrice's dignity; Duchess notes | Queen also watches |
+| **c. 22 Dec** | +9 | Duchess and Queen private conversation | — | — | Duchess: "She's real" | Queen: "I've noticed" |
+| **c. 23 Dec** | +9 | Yule feast | Public test | Sisters plan something | Duchess sits near Beatrice | Silent support |
+| **c. 24-26 Dec** | +9-10 | Christmas celebrations | Joyful, then sad | — | Duchess's warmth | Duchess must leave |
+| **c. 27 Dec** | +10 | Duchess departs | Loss felt | Sisters "regroup like tide" | Duchess promises to write | Godfrey: "She liked you" |
+| **c. 28-31 Dec** | +10 | New Year's Eve court | Weary | Whispers return | Godfrey's steadiness | Half-sisters plan escalation |
+
+---
+
+### PART SEVEN: THE DARKEST (January 1115)
+
+| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **c. 2-5 Jan** | +11 | Post-holiday court | Low | Whispers intensify | Lady Margaret's kindness | Sir Guy returns |
+| **c. 6 Jan** (Epiphany) | +11 | Feast of Epiphany | Public pressure | Sisters mock her speech | Beatrice stumbles, recovers | Queen observes |
+| **c. 8 Jan** | +11 | Sir Guy's legal challenge | Shaken, scared | Claims Stanwey should escheat | Roger dismisses (Queen's influence?) | Roger: "The betrothal stands" |
+| **c. 10 Jan** | +12 | Rumors from Brittany | Anxious | "Agnes still available" | Duchess's letter arrives privately | Duchess strengthens |
+| **c. 12 Jan** | +12 | **Harold collapses** (messenger arrives) | Terrified | His health fails | Beatrice goes immediately | Court whispers: "She left?" |
+| **c. 13-18 Jan** | +12-13 | Beatrice at Stanwey with Harold | Grieving | Court interprets absence as weakness | Godfrey visits; helps | Harold recovers slowly |
+| **c. 19 Jan** | +13 | Returns to court | Vulnerable | Sisters' cruelty peaks | Too tired to react | They mistake exhaustion |
+| **c. 20 Jan** | +13 | **Overhears cruelty** | Crushed | "She thinks she's one of them now. The goose girl." | No defense—she runs | Sisters laughing |
+| **c. 20 Jan** (afternoon) | +13 | **Window seat with Goosie** | Hollow | — | Goosie's warmth | No one knows where she is |
+| **c. 20 Jan** (evening) | +13 | **Queen finds her** | Shattered | — | Queen sits with her | Queen alone? |
+| **c. 20 Jan** (night) | +13 | **Queen's speech** | Weeping→grounded | — | "Love him, but lean on the Deep" | Queen reveals "Edith" |
+
+---
+
+### PART EIGHT: QUEEN'S SECRET PROTECTION (Late January - February 1115)
+
+| Date | Week | Event | Beatrice's State | Attack | Hidden Defense | Visible Defense |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **c. 22 Jan** | +14 | Queen ensures Lady Margaret stays | Strengthened | — | Queen's instruction | Margaret's continued presence |
+| **c. 23 Jan** | +14 | Half-sisters plan for Candlemas | Unaware | Plan to embarrass | Queen's maid overhears | Beatrice warned quietly |
+| **c. 24 Jan** | +14 | Godfrey senses something | Confused | — | — | He asks; she says nothing yet |
+| **c. 25 Jan** | +14 | Beatrice tells Godfrey (partially) | Relieved | — | He listens | He: "I'm here" |
+| **c. 26 Jan-1 Feb** | +14-15 | Quiet period at Stanwey | Healing | — | Time with Harold, Goosie | Godfrey visits |
+| **c. 2 Feb** (Candlemas) | +15 | **Candlemas Feast** | Nervous but ready | Sisters' trap sprung—but fails | Queen's warning worked | Beatrice prepared; sisters confused |
+| **c. 3-10 Feb** | +15-16 | Sir Guy's final attempt | Tense | Spreads rumor about Beatrice's "past" | Duchess's letter read at court | Duchess's public support |
+| **c. 12 Feb** | +16 | Half-sisters realize tide turning | Cautious | They begin to be polite | — | Queen's nod to Beatrice at dinner |
+
+---
+
+### PART NINE: PUBLIC TURN (February - March 1115)
+
+| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **c. 14 Feb** | +17 | **Queen's public acknowledgment** | Vindicated, tearful | Sisters forced to curtsey | Queen nods to Beatrice at feast | Whole court sees |
+| **c. 15 Feb** | +17 | Herb gift discovered | Surprised | — | Queen's ladies find herbs; story spreads | Queen: "For sleepless nights" |
+| **c. 16-28 Feb** | +17-19 | Weeks of growing acceptance | Rising confidence | Sporadic whispers | Godfrey, Margaret, Queen's visible favor | Harold's health improving |
+| **c. 1 Mar** | +19 | Harold well enough to visit court | Joyful, proud | — | Father sees her in her element | Harold meets Queen? |
+| **c. 2-15 Mar** | +19-21 | Wedding preparations | Busy, happy | Last small cruelties | Everyone too busy | Court prepares |
+
+---
+
+### PART TEN: WEDDING (Spring 1115)
+
+| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **c. 20 Apr** (Easter season) | +26 | **Wedding day** | Triumphant, emotional | Last whispers, last doubts | Goose leads; Queen smiles; Duchess's letter read | Everyone present |
+| **c. 20 Apr** | +26 | Procession | Pure joy | — | Goose waddles ahead | Crowd laughs, then cheers |
+| **c. 20 Apr** | +26 | Feast | Celebrating | Sir Guy absent? | — | Harold watches, wet-eyed |
+| **c. 21 Apr+** | +27+ | Aftermath | Content, cautious | — | New life begins | Godfrey: "Now what?" |
+
+---
+
+## Attack Summary by Source
+
+| Source | Attack Type | Timing | Counter |
+| :--- | :--- | :--- | :--- |
+| **Half-sisters (Alice & Matilda)** | Social cruelty, whispers, small humiliations, planned traps | Nov 1114 - Feb 1115 | Queen's protection, Lady Margaret, Beatrice's dignity, Duchess's support |
+| **Sir Guy de Montfort** | Physical (trip), verbal mockery, legal challenge, rumors | Oct 1114, Nov 1114, Jan 1115 | Henry's shaming, Roger's dismissal, Duchess's letter |
+| **Court whisperers** | Constant erosion of reputation | Nov 1114 - Feb 1115 | Duchess's endorsement, Queen's public nod |
+| **Brittany faction** | Political counter-offer (Agnes of Brittany) | Jan 1115 | Duchess's letter, Queen's diplomacy |
+| **Harold's health** | Emotional drain, potential loss | Nov 1114, Jan 1115 | Beatrice's care, Godfrey's help, eventual recovery |
+| **Beatrice's own doubt** | Internal erosion | Jan 1115 | Queen's speech, Godfrey's constancy, Goosie's love |
+
+---
+
+## Peaks and Valleys (Emotional Arc)
+
+| Date | Event | Emotional State (1-10) |
+| :--- | :--- | :--- |
+| 20 Oct 1114 | Betrothal, walk, Harold's blessing | 8 (wonder, confusion) |
+| 1-10 Nov 1114 | First court, half-sisters | 5 (shaken, lonely) |
+| 5 Nov 1114 | Dinner humiliation | 3 |
+| 16-23 Nov 1114 | Stanwey with Godfrey | 9 (happy) |
+| 18-27 Dec 1114 | Duchess visit, Christmas | 8 (ally found) |
+| 28 Dec 1114 - 10 Jan 1115 | Duchess leaves, whispers, rumors | 4 (descending) |
+| 12 Jan 1115 | Harold collapses | 2 |
+| 20 Jan 1115 | Overhears cruelty | 1 (lowest) |
+| 20 Jan 1115 (night) | Queen finds her, Queen's speech | 4 (turn) |
+| 22 Jan - 1 Feb 1115 | Queen's secret protection | 5 (rising) |
+| 2 Feb 1115 | Candlemas trap fails | 6 |
+| 14 Feb 1115 | Queen's public acknowledgment | 9 |
+| 20 Apr 1115 | Wedding | 10 |
+
+---
+
+## Key Changes from Previous Timeline
+
+| Element | Old (1113) | New (1114/1115) |
+| :--- | :--- | :--- |
+| **King's Hall date** | Autumn 1113 | **Tuesday, 20 October 1114** |
+| **Beatrice's age at Hall** | 15 | **16** |
+| **Godfrey's age at Hall** | 18 | **19** |
+| **Harold's birth** | 1055 | **1050** (warrior credibility) |
+| **Courtship duration** | ~1 year | **6 months** (Oct 1114 - Apr 1115) |
+| **Wedding date** | Summer 1114 | **Spring 1115** |
+| **Duchess visit** | Anytime 1114 | **Christmas Court 1114** |
+| **Half-sisters introduced** | Implied | **Alice (21), Matilda (19)** |
+| **Lady Margaret** | Implied | **Age 29, daily mentor** |
+| **Queen's speech** | — | **20 Jan 1115** (exact) |
+| **Candlemas trap** | — | **2 Feb 1115** |
+
+---
+
+This master table is now complete, internally consistent, and ready for use as the reference document for all future writing. Every date, age, attack, defense, and emotional beat is fixed and cross-referenced.
+
+---
+
+TIMELINE REASONING / DEFENCE
+
+Here is the expanded master table with **Key Reasoning** added for each major element—explaining the *why* behind dates, placements, and character decisions based on our research and discussions.
+
+---
+
+# THE GOOSE BRIDE — MASTER TIMELINE WITH KEY REASONING
+## *1114-1115 Edition — Fully Annotated*
+
+---
+
+## Fixed Historical Anchors
+
+| Date | Event | Type | Key Reasoning |
+| :--- | :--- | :--- | :--- |
+| **1066** | Norman Conquest | Real | Foundational event; Harold's youth spent in resistance |
+| **1068** | Henry I born | Real | Fixed historical date |
+| **c. 1080** | Matilda of Scotland born | Real | Approximate; historians place her birth c. 1080 |
+| **1100** | Henry becomes king; marries Matilda | Real | After William II's death; unites Norman and Saxon lines |
+| **1102** | William Adelin born | Real | Henry's legitimate heir; Queen's motivation to protect him |
+| **March 1113** | Treaty of Gisors; Matilda FitzRoy betrothed to Conan | Real | Brittany now under English suzerainty; Duchess's backstory |
+| **March-July 1114** | Henry in Normandy, then Wales campaign | Real | Historical record shows Henry abroad until mid-1114 |
+| **Aug-Sept 1114** | Henry returns, consolidates after Wales | Real | He would need to re-establish presence in England |
+| **Mid-Oct 1114** | Royal progress through Midlands | Real | Standard practice after absence; Rockingham logical stop |
+| **Tuesday, 20 Oct 1114** | **KING'S HALL AT ROCKINGHAM** | **Story Fixed Point** | Optimal hunting weather; Henry known to hunt here; fits "frosty morning" |
+| **1118** | Queen Matilda dies | Real | After story ends; allows her full participation |
+| **1120** | White Ship disaster | Real | William dies; succession crisis begins (foreshadowing possible) |
+
+---
+
+## Character Birth Table with Reasoning
+
+| Character | Status | Birth Year | Key Reasoning |
+| :--- | :--- | :--- | :--- |
+| **Harold Red-Wolf** | Fic | **c. 1050** | Old enough to fight at Conquest (age 16) and still plausible at wedding (age 65); warrior credibility |
+| **Beatrice's mother** | Fic | **c. 1077** | Young enough to bear Beatrice in 1098 (age 21); old enough to have been at court in 1090s (possible nurse connection) |
+| **Nurse** | Fic | **c. 1075** | ~20 when Godfrey born (1095)—plausible as wet nurse; ~28 at meadow (1103); ~39 at story |
+| **Henry I** | Real | 1068 | Fixed |
+| **Queen Matilda** | Real | c. 1080 | Fixed; age 34 at story—credible as mature queen with political weight |
+| **Roger of Salisbury** | Real | c. 1065 | Fixed; age 49—credible as senior administrator |
+| **Sir Guy de Montfort** | Fic | **c. 1090** | ~24 at story—young enough to be hot-headed, old enough to be knight |
+| **Godfrey FitzRoy** | Fic | **c. 1095** | Henry age 27—plausible for illegitimate son; ~8 in meadow (1103), ~19 at hall (1114)—right for "shadow" status |
+| **William Adelin** | Real | 1102 | Age 12 at story—old enough to be present, young enough to need protection |
+| **Beatrice** | Fic | **c. 1098** | Age 16 at hall—historically plausible for marriage, modernly acceptable; born spring (apple blossoms motif) |
+| **Duchess Matilda FitzRoy** | Real | c. 1096? | ~18 at story; betrothed 1113, marries 1118—fits Christmas visit 1114 |
+| **Half-sister Alice** | Fic | c. 1093? | ~21—older than Godfrey; plausible jealous dynamic |
+| **Half-sister Matilda** | Fic | c. 1095? | ~19—same age as Godfrey; competitive |
+| **Lady Margaret** | Fic | c. 1085? | ~29—experienced court lady, credible mentor |
+| **Goosie** | Fic | 1103 | Hatches same year as meadow; age 11 at story—old for goose but possible; emotional anchor |
+
+---
+
+## Master Timeline with Reasoning
+
+---
+
+### PART ONE: THE SEED (1103-1109)
+
+| Year | Date | Event | Key Reasoning |
+| :--- | :--- | :--- | :--- |
+| **1103** | Spring | Meadow encounter with boy (Godfrey, age 8) | Beatrice age 5—old enough to remember vaguely; Godfrey age 8—plausible age to be visiting nurse; sets up fated connection |
+| **1103** | Spring | Farm visit; acquire goose egg | Nurse at farm (Godfrey's former nurse); "my lady" plants ambiguity about mother's past; practical goose-raising knowledge |
+| **1103** | Spring | Goosie hatches (hen surrogate) | Historical method (broody hen sits on goose eggs); Beatrice names her; establishes bond |
+| **1103-1108** | — | Mother lessons | Years of teaching; shows Beatrice's competence source; mother's gradual decline |
+| **1109** | Spring | Mother dies | Beatrice age 11—old enough to remember, young enough to need father; apple blossoms motif; Harold's grief begins |
+
+---
+
+### PART TWO: THE YEARS BETWEEN (1109-1114)
+
+| Year | Date | Event | Key Reasoning |
+| :--- | :--- | :--- | :--- |
+| **1109-1114** | — | Beatrice runs manor | Shows her competence; Harold declines naturally; Goosie constant |
+| **March-July 1114** | — | Henry in Normandy/Wales | Historical fact—explains why he might be eager to hunt on return |
+| **Aug-Sept 1114** | — | Henry returns, consolidates | Historical—he would re-establish presence |
+| **Early Oct 1114** | — | Royal progress toward Rockingham | Standard practice; Rockingham logical stop |
+
+---
+
+### PART THREE: THE HALL (October 1114)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **Mon 19 Oct** | Messenger arrives at Stanwey | Purveyance—historical right of crown; Beatrice's decision shows agency |
+| **Tue 20 Oct** | **King's Hall at Rockingham** | Optimal hunting date; Henry's mood from failed hunt drives vow |
+| **Tue 20 Oct** | Henry recognizes Harold | Old debt surfaces—Harold saved Robert Curthose (historical brother) |
+| **Tue 20 Oct** | Queen invokes vow; betrothal announced | Vow spoken *coram rege*—legally binding; Beatrice unaware—dramatic irony |
+| **Tue 20 Oct** | Godfrey commanded to escort her | Henry's instinct—sends son, not guard, signaling something |
+| **Tue 20 Oct** | **The Walk Home** | Emotional core; Godfrey's patience; connection forms |
+| **Tue 20 Oct** | Stanwey arrival; Godfrey waits | He lets her tell Harold alone—shows character |
+| **Tue 20 Oct** | Harold's recognition ("wolf/tree") | Harold understands king's coded language from his own court experience |
+| **Tue 20 Oct** | Godfrey asks Harold properly | Asks for courtship, not assuming—respect earns respect |
+| **Wed 21 Oct** | Godfrey returns to court | Promise to return |
+
+---
+
+### PART FOUR: FIRST COURT EXPOSURE (November 1114)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **c. 1-3 Nov** | Beatrice returns to court (first visit) | Court assembles after hunting; natural time |
+| **c. 4 Nov** | **Meeting the half-sisters** | Fictional but plausible—Godfrey as acknowledged bastard would have siblings |
+| **c. 5 Nov** | First formal dinner | Table manners test—historical court etiquette |
+| **c. 6 Nov** | Sir Guy's first rumor | Antagonist action—sets up later conflict |
+| **c. 7-10 Nov** | Daily tutelage with Lady Margaret | Queen likely assigns her—subtle protection |
+| **c. 8 Nov** | Half-sister wine spill | Small cruelty—tests Beatrice's reaction |
+| **c. 10 Nov** | Godfrey visits Stanwey | Weekend visit—courtship progressing |
+
+---
+
+### PART FIVE: STANWEY INTERLUDE (Mid-November 1114)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **c. 16-23 Nov** | Godfrey at Stanwey (extended) | Shows character through action—helping with manor |
+| **c. 18 Nov** | Goosie's full acceptance | Animal judge trope; "She knows who she is" |
+| **c. 20 Nov** | Harold's health wobbles | Foreshadows mortality; Beatrice's care |
+| **c. 22 Nov** | Letter from court: Christmas invitation | Queen likely extends—testing or including? |
+| **c. 24 Nov** | Return to court for pre-Christmas | Court prepares for Yule |
+
+---
+
+### PART SIX: CHRISTMAS COURT & DUCHESS VISIT (December 1114)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **c. 16 Dec** | Court assembles for Christmas | Historical—royal courts gathered for Christmas |
+| **c. 18 Dec** | **Duchess of Brittany arrives** | Christmas visit natural for king's daughter; betrothed but not yet married (1118) |
+| **c. 19 Dec** | Half-sisters whisper to Duchess | Attempt to poison well—fails |
+| **c. 20 Dec** | **Garden walk with Duchess** | Memory connection (oblique)—nurse's farm, goose chase echo |
+| **c. 21 Dec** | Duchess observes Beatrice at dinner | Confirms her judgment |
+| **c. 22 Dec** | Duchess and Queen private conversation | Allies form; Queen receives report |
+| **c. 23 Dec** | Yule feast | Public test; Duchess's silent support |
+| **c. 24-26 Dec** | Christmas celebrations | Duchess's warmth evident |
+| **c. 27 Dec** | Duchess departs | Must return to Brittany; enemies regroup |
+| **c. 28-31 Dec** | New Year's Eve court | Whispers return—tide pattern |
+
+---
+
+### PART SEVEN: THE DARKEST (January 1115)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **c. 2-5 Jan** | Post-holiday court | Natural low after festivities |
+| **c. 6 Jan** (Epiphany) | Feast of Epiphany | Major feast—public pressure |
+| **c. 8 Jan** | Sir Guy's legal challenge | Legal threat based on escheat—plausible medieval claim |
+| **c. 10 Jan** | Rumors from Brittany | Brittany faction tests waters |
+| **c. 12 Jan** | **Harold collapses** | Health crisis—tests Beatrice's priorities |
+| **c. 13-18 Jan** | Beatrice at Stanwey with Harold | Love is not strategic—she goes |
+| **c. 19 Jan** | Returns to court | Vulnerable |
+| **c. 20 Jan** | **Overhears cruelty** | Darkest moment—words wound |
+| **c. 20 Jan** (afternoon) | **Window seat with Goosie** | Alone; animal comfort |
+| **c. 20 Jan** (evening) | **Queen finds her** | Queen seeks her out—intentional |
+| **c. 20 Jan** (night) | **Queen's speech** | "Edith" revealed—Queen's own journey; moral center |
+
+---
+
+### PART EIGHT: QUEEN'S SECRET PROTECTION (Late January - February 1115)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **c. 22 Jan** | Queen ensures Lady Margaret stays | Behind-scenes protection |
+| **c. 23 Jan** | Half-sisters plan for Candlemas | Escalation |
+| **c. 24 Jan** | Godfrey senses something | Intimacy growing |
+| **c. 25 Jan** | Beatrice tells Godfrey (partially) | Trust building |
+| **c. 26 Jan-1 Feb** | Quiet period at Stanwey | Healing |
+| **c. 2 Feb** (Candlemas) | **Candlemas Feast** | Trap fails—Queen's warning worked |
+| **c. 3-10 Feb** | Sir Guy's final attempt | Last gasp |
+| **c. 12 Feb** | Half-sisters realize tide turning | Adaptation |
+
+---
+
+### PART NINE: PUBLIC TURN (February - March 1115)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **c. 14 Feb** | **Queen's public acknowledgment** | Valentine's? No—but significant date; public validation |
+| **c. 15 Feb** | Herb gift discovered | Skill earns respect |
+| **c. 16-28 Feb** | Weeks of growing acceptance | Whispers fade |
+| **c. 1 Mar** | Harold well enough to visit court | Recovery; father's pride |
+| **c. 2-15 Mar** | Wedding preparations | Court activity |
+
+---
+
+### PART TEN: WEDDING (Spring 1115)
+
+| Date | Event | Key Reasoning |
+| :--- | :--- | :--- |
+| **c. 20 Apr** (Easter season) | **Wedding day** | Spring wedding—traditional; Easter season symbolically rich |
+| **c. 20 Apr** | Procession | Goose leads—non-negotiable image |
+| **c. 20 Apr** | Feast | Celebration |
+| **c. 21 Apr+** | Aftermath | New life begins |
+
+---
+
+## Historical Figures — Key Reasoning Summary
+
+| Figure | Role in Story | Historical Basis | Reasoning for Portrayal |
+| :--- | :--- | :--- | :--- |
+| **Henry I** | King, volatile father | Real (1068-1135) | Known as "Lion of Justice," fierce, educated, illegitimate children; his youth as landless son informs his defense of Godfrey |
+| **Queen Matilda** | Queen, eventual ally | Real (c. 1080-1118) | Born Edith of Scotland; Saxon mother; known for piety, charity, co-rule; her "Edith" identity allows empathy with Beatrice |
+| **Roger of Salisbury** | Justiciar, cold calculator | Real (c. 1065-1139) | Henry's chief administrator; ran royal treasury; sees people as numbers—perfect "system" antagonist |
+| **William Adelin** | Heir, Queen's motivation | Real (1102-1120) | Age 12; his death 1120 (White Ship) after story—Queen's fear for him drives initial opposition |
+| **Duchess Matilda FitzRoy** | Godfrey's sister, ally | Real (c. 1096-?) | Daughter of Henry; married Conan III of Brittany 1118; visit 1114 plausible while betrothed |
+| **Robert Curthose** | Henry's imprisoned brother | Real (c. 1051-1134) | Harold saved him from Severn—historical event adapted; source of old debt |
+
+---
+
+## Fictional Characters — Key Reasoning Summary
+
+| Figure | Role | Reasoning |
+| :--- | :--- | :--- |
+| **Beatrice** | Protagonist | Saxon thegn's daughter; age 16—plausible marriage age, modernly acceptable; runs manor—shows competence; mother's death—emotional anchor |
+| **Godfrey** | Deuteragonist | Illegitimate son of Henry—historical pattern; age 19—old enough to be overlooked, young enough to grow; "watcher" nature from shadow childhood |
+| **Harold Red-Wolf** | Father | Saxon thegn; old warrior—credible backstory; age 64—plausible frailty; debt to Henry drives recognition scene |
+| **Beatrice's mother** | Memory figure | At court in 1090s? Nurse's "my lady" hints; taught Beatrice everything—source of her skills; death sets story in motion |
+| **Nurse** | Connection figure | Godfrey's former nurse; at farm near Stanwey; "my lady" to mother—ambiguous link |
+| **Sir Guy de Montfort** | Antagonist | Young Norman knight; age 24; insulted by Beatrice at fair—personal spite; wants Stanwey lands; legal challenge plausible |
+| **Half-sister Alice** | Antagonist | Age 21; jealous of Godfrey? or just cruel? represents court hostility |
+| **Half-sister Matilda** | Antagonist | Age 19; competitive; pair with Alice |
+| **Lady Margaret** | Mentor | Age 29; experienced court lady; assigned by Queen (likely); daily guidance |
+
+---
+
+## Key Historical/Legal Concepts
+
+| Concept | Role in Story | Reasoning |
+| :--- | :--- | :--- |
+| **Purveyance** | Brings Beatrice to court | Crown right to seize goods for royal household; historical |
+| **Forest Law** | Henry's absolute power | King owns all game; "my father owns all the geese" literal truth |
+| **Thegn** | Harold's status | Saxon noble rank; below Norman baron but respected |
+| **Escheat** | Sir Guy's legal threat | Land reverts to crown if no heir; Sir Guy could claim Stanwey |
+| **Vow *coram rege*** | Plot engine | Spoken before court—sacred, binding; cannot be undone |
+| **Wardship** | Godfrey holds Stanwey | After marriage, husband controls wife's lands; historical |
+
+---
+
+## Why 1114 Works (Summary)
+
+| Factor | 1113 | 1114 |
+| :--- | :--- | :--- |
+| **Henry's location** | In Normandy | **In England** (Wales campaign done, autumn progress) |
+| **Rockingham hunting** | Possible but unconfirmed | **Confirmed as royal itinerary stop** |
+| **Matilda's presence** | Possible | **Likely—she traveled with court** |
+| **Duchess visit** | Betrothed 1113 | **Still betrothed; Christmas visit natural** |
+| **Beatrice's age** | 15 | **16** (better for modern sensibilities) |
+| **Courtship window** | 1 year | **6 months** (tighter, more dramatic) |
+| **Historical texture** | Good | **Better—grounded in real 1114 events** |
+
+---
+
+This annotated master table now serves as the complete reference document for *The Goose Bride*, with every date, age, event, and character placement explained and justified.
+
+The goose leads. The research holds. The story stands.
+
+---
 
 
 PLAN
@@ -631,7 +1141,7 @@ She walked home slowly. At the edge of the clearing, she stopped.
 
 Her father was in the doorway. Not standing tall, not waiting with staghound at his side. Just... leaning. One hand on the frame, the other hanging loose. He looked smaller than she remembered. As if something inside him had collapsed.
 
-He saw her. Tried to raise a hand. Couldn't quite manage it.
+He saw her, tried to raise a hand, but couldn't quite manage it.
 
 Beatrice crossed the clearing and took his hand instead. It was cold.
 
@@ -661,7 +1171,7 @@ And Goosie followed. Always.
 
 One autumn morning, the rhythm of the village was broken by the thunder of hooves.
 
-Beatrice looked up from the herb bed. A royal messenger rode up the track, cloak flying, horse lathered. He didn't slow at the gate. Didn't dismount. Just reined in before the hall and unrolled a stiff parchment.
+Beatrice looked up from the herb bed outside the kitchen. A royal messenger rode up the path leading towards Stanwey Hall, cloak flying, horse lathered. He didn't slow at the gate. Didn't dismount. Just reined in before the hall and unrolled a stiff parchment.
 
 "The King hunts in Rockingham Forest," he announced, projecting toward the timbers as if the building itself were worthy of his breath. "This holding shall render its service: two feathered arrows and a fowl for His Majesty's table."
 
@@ -685,7 +1195,7 @@ He tried to rise. His hands shook. Beatrice saw him brace against the chair, saw
 
 She was at his side in three steps.
 
-"You can't walk that far in the cold."
+"You shouldn't travel that far while the weather is cold."
 
 "Then I shall send the Reeve. He has a sturdy cart and the manner of a village headman."
 
@@ -1921,6 +2431,30 @@ She pauses.
 
 Beatrice's eyes sting. She blinks rapidly.
 
+---
+(insert to edit/contextualise surrounding text - evidences the Queen's character/piety/mindset)
+The Queen motions her maids to the far end of the hall. She waits until the rustle of their kirtles fades before she speaks, her voice dropping into the rhythmic, grounded English of her ancestors.
+
+"You have a fair light in your eyes, child," the Queen says, her gaze kind but heavy with the wisdom of a woman who has survived the shifting tides of the Norman court. "And Godfrey is a good youth—strong of limb and honest of wit. It is a rare mercy to wed a man you might also call a friend."
+
+She reaches out, taking the girl's hand, her grip surprisingly firm.
+
+"But heed me well, for the days are long and the world is weary. In all this provisional earth, my dear, there is none found whom you may truly trust—not even thine own shifting soul—save for God alone. Trust not overmuch in the strength of any man, for even the dearest fall as dust; nor lean upon thine own unsteadfast wit, for our feelings are but a vapour that changes with the wind."
+
+Beatrice looks as if she might protest, her heart full of the boy she loves, but Matilda continues.
+
+"Do not mistake me. Love him well. But do not make a god of him, nor a sanctuary of your own young heart. For hearts are fickle things, and men are but flesh. Put thy whole hope in the Lord, for He alone is the true Rock that no winter can crack. Keep this always in thy remembrance: love the lad, but lean only upon the King of Heaven. Only then will your house stand when the storms of Mercia break against it."
+
+She pats the girl's hand, a silent dismissal, and looks back toward the dying fire.
+
+"Find your joy, but keep your anchor in the Deep."
+
+---
+
+
+
+
+
 **Matilda:** My son William is ten. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are.
 
 She reaches out. Just for a moment, her hand touches Beatrice's.
@@ -2362,7 +2896,7 @@ The Normans themselves were descendants of Vikings who had settled in France in 
 
 **A:** It might seem that way, but actually it reflects the beautiful complexity of medieval England and the English language!
 
-By 1113, when our story takes place, England had been shaped by waves of settlement: Celts, Romans, Angles, Saxons, Vikings, and Normans. A man like Harold represents that layered history. He is:
+By 1114, when our story takes place, England had been shaped by waves of settlement: Celts, Romans, Angles, Saxons, Vikings, and Normans. A man like Harold represents that layered history. He is:
 
 * **By ancestry:** Saxon (with Norse roots in the Danelaw)
 * **By loyalty:** A servant of the Norman crown
@@ -2419,7 +2953,7 @@ King Henry I is famously credited with fathering the **most illegitimate childre
 | **What was her status?** | She was likely a noblewoman, possibly from a Norman or English family. Henry's illegitimate children were married into high noble houses, suggesting their mothers had status enough that the children were considered marriageable. |
 | **Did she raise Godfrey?** | Probably not. Anglo-Norman royal children, legitimate or otherwise, were often raised in households separate from their parents. They might be sent to noble families for fostering or placed in religious houses for education. |
 | **Did she have other children?** | Possibly. Henry's illegitimate children had several different mothers. Godfrey may have had full siblings, or he may have been the only child of this particular union. |
-| **Was she still alive in 1113?** | Possibly, possibly not. She would have had no formal role at court regardless. As an unmarried mistress, her position was entirely dependent on the king's favor. |
+| **Was she still alive in 1114?** | Possibly, possibly not. She would have had no formal role at court regardless. As an unmarried mistress, her position was entirely dependent on the king's favor. |
 
 **What we can imagine:** She was likely young when she caught Henry's eye—perhaps a lady-in-waiting, a daughter of a loyal baron, or a noble widow. Their relationship may have been brief or lasting; we simply don't know. What we do know is that she gave Henry a son, and that son grew up to be a man of "quiet grace" who knew how to wait.
 
@@ -2435,7 +2969,7 @@ This tiny detail opens a window into who she was.
 
 | Fact | What We Know or Can Surmise |
 | :--- | :--- |
-| **She is deceased by 1113** | Harold is alone with Beatrice at the start of the story. The fact that Beatrice manages the household "without murmur" suggests she has stepped into her mother's role. |
+| **She is deceased by 1114** | Harold is alone with Beatrice at the start of the story. The fact that Beatrice manages the household "without murmur" suggests she has stepped into her mother's role. |
 | **She arranged for the goose** | This tells us she was thoughtful, forward-looking, and understood the value of small joys. She knew her daughter would love raising a gosling. |
 | **She taught Beatrice** | Beatrice's skills—tending the sick with herbs and medicine, overseeing the brewing and the buttery, managing the manor—would have been learned from her mother. |
 | **She was Harold's wife** | As the wife of a Saxon thegn who had fought in the wars following the Conquest, she lived through turbulent times. She may have been a Saxon woman from a neighboring family, or perhaps the daughter of another thegn. |
@@ -2551,7 +3085,7 @@ Though neither mother appears in the story, both shape it:
 
 In the halls of Kings, fate is a feathered thing.
 
-England, 1113. Behind the heavy stone walls of Rockingham, King Henry I is losing his patience. Trapped between Queen Matilda’s negotiations with the House of Anjou and the restless spirits of a conquered land, the King issues a reckless, wine-soaked decree to silence his court: the very next maiden to walk through the hall doors shall marry his son, Godfrey FitzRoy—be she noble or milkmaid.
+England, 1114. Behind the heavy stone walls of Rockingham, King Henry I is losing his patience. Trapped between Queen Matilda’s negotiations with the House of Anjou and the restless spirits of a conquered land, the King issues a reckless, wine-soaked decree to silence his court: the very next maiden to walk through the hall doors shall marry his son, Godfrey FitzRoy—be she noble or milkmaid.
 
 They expect a lady of the court. They expects a political solution.
 
@@ -2562,7 +3096,7 @@ Instead, the doors swing wide for Beatrice, the sharp-witted daughter of a falle
 
 > How did she come to raise the goose herself?
 
-AK: *Regarding Goosie, Beatrice's late mother was actually the one that arranged for Beatrice to be there when Goosie hatched from an egg. Geese can live for up to 30 or more years. The King (I suspect) was mainly hoping for a good hunt; things were generally going well for Henry I in 1113, though he came to regret some of his decisions over the next decade; presumably his new daughter-in-law was not among those. :)*
+AK: *Regarding Goosie, Beatrice's late mother was actually the one that arranged for Beatrice to be there when Goosie hatched from an egg. Geese can live for up to 30 or more years. The King (I suspect) was mainly hoping for a good hunt; things were generally going well for Henry I in 1114, though he came to regret some of his decisions over the next decade; presumably his new daughter-in-law was not among those. :)*
 
 
 
