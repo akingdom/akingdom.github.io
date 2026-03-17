@@ -185,7 +185,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Beatrice** | Fic | **c. 1098** | ~5 | **16** | **16-17** | Born spring; ideal age |
 | **Duchess Matilda FitzRoy** | Real | c. 1096? | ~7 | **18** | ~19 | Henry's daughter; betrothed to Conan |
 | **Half-sister Alice** | Fic | c. 1093? | ~10 | **21** | ~22 | Godfrey's jealous half-sister (fictional) |
-| **Half-sister Matilda** | Fic | c. 1095? | ~8 | **19** | ~20 | Godfrey's jealous half-sister (fictional) |
+| **Half-sister Adela** | Fic | c. 1095? | ~8 | **19** | ~20 | Godfrey's jealous half-sister (fictional) |
 | **Lady Margaret** | Fic | c. 1085? | ~18 | **29** | ~30 | Beatrice's daily mentor |
 | **Goosie** | Fic | 1103 | 0 | **11** | ~12 | Hatched spring 1103 |
 
@@ -241,7 +241,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | Date | Day/Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **c. 1-3 Nov** | +2 | Beatrice returns to court (first visit) | Nervous | Stares, whispers | Godfrey's presence | Court watches |
-| **c. 4 Nov** | +2 | **Meeting the half-sisters (Alice & Matilda)** | Confused | Cool politeness, veiled insults | Beatrice misses half | Sisters: Alice (21), Matilda (19) |
+| **c. 4 Nov** | +2 | **Meeting the half-sisters (Alice & Adela)** | Confused | Cool politeness, veiled insults | Beatrice misses half | Sisters: Alice (21), Adela (19) |
 | **c. 5 Nov** | +2 | First formal dinner | Overwhelmed | Wrong knife; snickers | Lady Margaret corrects | Margaret assigned (Queen's doing) |
 | **c. 6 Nov** | +2 | Sir Guy's first rumor | Unaware | Spreads whisper | Duchess (not yet) hears later | Sir Guy schemes |
 | **c. 7-10 Nov** | +2-3 | Daily tutelage with Lady Margaret | Learning | Small cruelties | Margaret's teaching | "They test you. Ignore it." |
@@ -340,7 +340,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 | Source | Attack Type | Timing | Counter |
 | :--- | :--- | :--- | :--- |
-| **Half-sisters (Alice & Matilda)** | Social cruelty, whispers, small humiliations, planned traps | Nov 1114 - Feb 1115 | Queen's protection, Lady Margaret, Beatrice's dignity, Duchess's support |
+| **Half-sisters (Alice & Adela)** | Social cruelty, whispers, small humiliations, planned traps | Nov 1114 - Feb 1115 | Queen's protection, Lady Margaret, Beatrice's dignity, Duchess's support |
 | **Sir Guy de Montfort** | Physical (trip), verbal mockery, legal challenge, rumors | Oct 1114, Nov 1114, Jan 1115 | Henry's shaming, Roger's dismissal, Duchess's letter |
 | **Court whisperers** | Constant erosion of reputation | Nov 1114 - Feb 1115 | Duchess's endorsement, Queen's public nod |
 | **Brittany faction** | Political counter-offer (Agnes of Brittany) | Jan 1115 | Duchess's letter, Queen's diplomacy |
@@ -380,7 +380,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Courtship duration** | ~1 year | **6 months** (Oct 1114 - Apr 1115) |
 | **Wedding date** | Summer 1114 | **Spring 1115** |
 | **Duchess visit** | Anytime 1114 | **Christmas Court 1114** |
-| **Half-sisters introduced** | Implied | **Alice (21), Matilda (19)** |
+| **Half-sisters introduced** | Implied | **Alice (21), Adela (19)** |
 | **Lady Margaret** | Implied | **Age 29, daily mentor** |
 | **Queen's speech** | — | **20 Jan 1115** (exact) |
 | **Candlemas trap** | — | **2 Feb 1115** |
@@ -437,7 +437,7 @@ Here is the expanded master table with **Key Reasoning** added for each major el
 | **Beatrice** | Fic | **c. 1098** | Age 16 at hall—historically plausible for marriage, modernly acceptable; born spring (apple blossoms motif) |
 | **Duchess Matilda FitzRoy** | Real | c. 1096? | ~18 at story; betrothed 1113, marries 1118—fits Christmas visit 1114 |
 | **Half-sister Alice** | Fic | c. 1093? | ~21—older than Godfrey; plausible jealous dynamic |
-| **Half-sister Matilda** | Fic | c. 1095? | ~19—same age as Godfrey; competitive |
+| **Half-sister Adela** | Fic | c. 1095? | ~19—same age as Godfrey; competitive |
 | **Lady Margaret** | Fic | c. 1085? | ~29—experienced court lady, credible mentor |
 | **Goosie** | Fic | 1103 | Hatches same year as meadow; age 11 at story—old for goose but possible; emotional anchor |
 
@@ -610,7 +610,7 @@ Here is the expanded master table with **Key Reasoning** added for each major el
 | **Nurse** | Connection figure | Godfrey's former nurse; at farm near Stanwey; "my lady" to mother—ambiguous link |
 | **Sir Guy de Montfort** | Antagonist | Young Norman knight; age 24; insulted by Beatrice at fair—personal spite; wants Stanwey lands; legal challenge plausible |
 | **Half-sister Alice** | Antagonist | Age 21; jealous of Godfrey? or just cruel? represents court hostility |
-| **Half-sister Matilda** | Antagonist | Age 19; competitive; pair with Alice |
+| **Half-sister Adela** | Antagonist | Age 19; competitive; pair with Alice |
 | **Lady Margaret** | Mentor | Age 29; experienced court lady; assigned by Queen (likely); daily guidance |
 
 ---
@@ -2135,7 +2135,7 @@ We need to rewrite this - tone down the comparatives perhaps, especially a king'
 
 The hall at Stanwey has seen many things. Norman soldiers, royal messengers, a king's son at the threshold asking awkward questions. But it has never seen this: a duchess, dismounting in the mud, her cloak heavy with the dust of long roads, her eyes sharp and curious.
 
-Beatrice is at the herb garden when the rider comes. She straightens, wipes her hands on her apron, and watches the woman approach with the calm assessment of someone who has learned to read people quickly.
+Beatrice is at the herb plot when the rider comes, in the courtyard outside the hall's food preparation area. She straightens, wipes her hands on her apron, and watches the woman approach with the calm assessment of someone who has learned to read people quickly. 
 
 **Duchess:** You're the goose bride.
 
@@ -2457,7 +2457,7 @@ She pats the girl's hand, a silent dismissal, and looks back toward the dying fi
 
 
 
-**Matilda:** My son William is ten. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are.
+**Matilda:** My son William is eleven. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are.
 
 She reaches out. Just for a moment, her hand touches Beatrice's.
 
@@ -3018,6 +3018,12 @@ Though neither mother appears in the story, both shape it:
 | **Knight** | The Norman elite (Sir Guy). They often speak **Old French** and look down on Saxons. |
 | **Villein** | A peasant tied to the land. They provide the labour that keeps the Hall running. |
 
+### Handful of Historical Matilda's
+
+- Matilda FitzRoy of Brittany (Maud) - real illegitimate daughter of King Henry I of England, from same mother as our fictional character Godfrey.
+- Empress Matilda (Maud) - real legitimate daughter of King Henry I and Queen Matilda
+- Queen Matilda of Scotland (Edith) - the real Queen in our story
+- Matilda of Boulogne - real future wife of Stephen of Blois, later competitor to the English crown; not in our story.
 
 ---------------------------------------------
 # Η Χήνα Νύφη (The Goose Bride - In Greek — from an earlier edition)
