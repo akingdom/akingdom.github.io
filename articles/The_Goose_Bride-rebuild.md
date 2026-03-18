@@ -1634,12 +1634,6 @@ Beatrice caught the knight's eye and offered a quick, sharp smile before dipping
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## The Queen Remembers the Vow
-
-Perfect refinements. Let me blend these in seamlessly.
-
----
-
 ## Chapter 5 — The Ledger and the Lion (Extended)
 
 ---
