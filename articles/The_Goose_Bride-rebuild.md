@@ -1604,11 +1604,27 @@ The King roared with excited laughter, in sudden recognition.
 
 “Ha! Then it all returns to me! My father the King gave your father a purse of silver for his damp trouble, and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit instead. My brother Robert was ever more a sodden worm than a lord, and would have stayed on the riverbed had the Red‑Wolf not hauled him to the bank.”
 
-He looked at her and shook his head. 
+The King beamed, shaking his head in surprise. "Well, aren't you a fine she-wolf! Now, do not delay but go, tell your father that I shall visit him next week to hear him tell it anew..."
 
-"Well, aren't you a fine she-wolf! Do not delay but go and tell your father that I shall visit him next week to hear him tell it anew… and return his goose besides and a larder to boot.”
+The Queen was most relieved to see the King now quite relaxed and pleased. She calculated that she had a week. Maybe two. The king had promised a visit. That gave her time. Time to speak with him privately, time to consider the options, time to—
 
-As Beatrice turned to leave, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
+Henry set down his cup, rising. "Hearken now, all my barons and faithful men of England!"
+
+The hall went silent.
+
+Matilda's stomach dropped.
+
+"I grant to Beatrice the daughter of Harold 'Red Wolf' of Stanwey—"
+
+**Queen:** (rising, smoothly) "—this fine goose alive and a larder to fill his hall, as the king in his mercy intends. Let it be recorded."
+
+She turns to the clerk, dictating: "Item: the goose of the daughter of Harold Red-Wolf is spared by the king's grace. Item: a larder shall be sent to Stanwey to honor Harold Red-Wolf's service. Item: the king shall visit Stanwey within the fortnight to hear the tale of the Severn told anew."
+
+**Henry:** (pleased) "Yes, yes. Write it."
+
+**Queen:** (to Beatrice, warmly) "Go home, young lady, and take your goose. The king's word is given."
+
+As Beatrice turned gratefully to leave, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
 
 “And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.”
 
@@ -1628,7 +1644,7 @@ Perfect refinements. Let me blend these in seamlessly.
 
 ---
 
-Beatrice curtsied and went. The doors closed behind her.
+Beatrice curtsied and went. The heavy doors closed behind her.
 
 The hall exhaled. Servants moved again. Knights reached for wine.
 
