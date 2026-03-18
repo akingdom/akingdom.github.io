@@ -953,8 +953,7 @@ A woman's voice called from the edge of the meadow. "Beatrice?! Come here!"
 
 She turned back to thank the boy, but he had vanished.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
+---
 
 Her mother scooped her up, laughing. "Did you find the geese?"
 
@@ -1096,8 +1095,7 @@ Beatrice brought apple blossoms once, when the trees first bloomed. She laid the
 
 Beatrice didn't know what to say. She held Goosie instead, and the goose pressed its warm head against her neck.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
+---
 
 The end came on a morning exactly like that—warm, soft, the apple trees heavy with pink and white.
 
@@ -1121,8 +1119,7 @@ She lifted Goosie—who had followed, always—and held her so that the goose's 
 
 "There," she whispered. "She knows you."
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
+---
 
 At the burial, Harold stood like a man made of stone. His hands were on Beatrice's shoulders—heavy, warm, the only warm thing—but he didn't speak. Didn't move. Just watched as they lowered the plain wooden box into the rich earth.
 
@@ -1142,8 +1139,7 @@ Beatrice stood there for a long time, Goosie pressed against her leg, watching g
 
 The geese knew her now. That was something.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
+---
 
 She walked home slowly. At the edge of the clearing, she stopped.
 
@@ -1159,8 +1155,7 @@ He nodded. Said nothing.
 
 They went inside together. Goosie followed.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
+---
 
 Her father was never the same after that; he changed.
 
@@ -1189,7 +1184,7 @@ Inside, Beatrice scooped up her goose.
 
 Goosie honked.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+---
 
 The messenger rode away, leaving Beatrice in the doorway, feeling unwell, Goosie nesting warmly in her arms. She looked at her father; Harold looked back, his eyes hollow. They both knew, as surely as the sun set over the Wrekin, that they had nothing suitable for the King except the unthinkable.
 
@@ -1207,11 +1202,11 @@ She checked many farms that afternoon.
 
 At the first, the farmer's wife was scrubbing an empty coop with vinegar. "The murrain took half the flock after the river burst its banks in April," she said, not looking up. "The damp-rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We're living on pottage and prayer."
 
-At the second, a tenant of the manor was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale to even to your father. I mean no disrespect, miss."
+At another, a tenant of the manor was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale to even to your father. I mean no disrespect, miss."
 
-At another—the nurse's farm, by the river bend—the nurse herself came out to meet her. She looked at Beatrice's face and seemed to understand.
+At the nurse's farm, the one by the river bend, where Goosie came from as an egg—the nurse herself came out to meet her. She looked at Beatrice's face and seemed to understand.
 
-"You're after a bird for the King's table."
+"The King is back and you're after a bird for the King's table."
 
 Beatrice nodded. "The purveyors... the Abbot... there is nothing."
 
@@ -1225,9 +1220,7 @@ Beatrice interrupted eagerly. "Then I'll buy him. I have the silver Mother left�
 
 The nurse shook her head. "He's already spoken for. The Royal Marshal marked him with the King's seal yesterday. If I sell him to you, they'll hang me for theft of Crown property. He's not a bird anymore, Beatrice; he's a piece of the King's war."
 
-Beatrice's throat tightened. The nurse looked at the speckled goose in Beatrice's arms.
-
-"Count it a blessing that your own bird is still alive. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a soldier's pot or a monk's platter."
+Beatrice’s throat tightened. The nurse looked at the speckled goose in Beatrice's arms. "Count it a blessing that your own bird is still alive. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
 
 This news was too much for Beatrice to bear and she burst into large wet tears. The normally gruff nurse patted her back.
 
@@ -1235,23 +1228,21 @@ The nurse’s hand, calloused from years of plucking and grain-sorting, rested h
 
 "Dry those, girl," the nurse muttered, her voice dropping to a gravelly whisper. "Salt water won't fatten a bird, and it won't soften a King's heart."
 
-She glanced toward the road, making sure the Royal Marshal’s men weren't lingering. Then she leaned in close, smelling of woodsmoke and dried herbs.
+She looked Beatrice square in the eye, her expression hard as flint. "Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here."
 
-"There is one thing that might work. Likely it won't, but it might just keep that silly goose in your arms."
+Beatrice stumbled away, the nurse's words ringing like a death knell. She walked without seeing, her feet finding the path by memory alone. By the time she reached the quiet copse of alders near the stream, her legs gave out.
 
-Beatrice wiped her face with her sleeve, her words tumbling out all at one. "Tell me, please."
+She sat there, head spinning. She might have prayed, or she might have simply drifted off from exhaustion and the sheer weight of grief, nodding into a shallow, grey sleep.
 
-The nurse leant close and calmly explained her idea.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+---
 
 Beatrice walked home in the fading light.
 
 At the edge of the clearing, she stopped. Goosie was there—waiting for her, always waiting. The goose waddled forward and pressed her head against Beatrice's knee.
 
-Beatrice knelt and buried her face in warm feathers. "There's no other bird," she whispered. "Mother taught me to read a fever, to know when bread was ready. She never taught me how to watch a whole shire starve of geese."
+Beatrice knelt and buried her face in warm feathers. "There's no other bird," she whispered. 
 
-The river took the weak. The Church took the strong. The war took the rest.
+The river took the weak. The Abbot took the strong. The war took the rest.
 
 Goosie honked softly. She didn't understand. She just was.
 
@@ -1263,7 +1254,7 @@ Beatrice carried her inside. Harold looked up from his chair. He saw her empty h
 
 He didn't say *your mother's goose*. He didn't need to.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+---
 
 Harold sighed from his chair by the fire. "It must be done, daughter."
 
@@ -1287,9 +1278,11 @@ She was at his side in three steps.
 
 Beatrice shook her head. "The agisters will strip the very shoes from a horse for a 'grazing tax,' and the foresters bleed a man for merely looking at a deer. Besides, the Reeve has a large, hungry family. Goosie would end up in his pot before they even saw the forest."
 
-She looked at the charcoal basket by the hearth. Then at her father's tired face. At the way his hand still rested on his chest.
+She looked at the charcoal basket by the hearth—the same basket she'd carried Goosie home in over ten years ago. The nurse's words echoed: *Only the King or God*.
 
-"No. I'll take her. I'll walk the old Roman road and blend with the charcoal-bearers. Goosie can hide in a basket on my hip." She paused. "Besides, I'm on the King's business if anyone asks."
+She looked at her father's tired face, at the way his hand still rested on his chest. And just like that, she knew what she must do.
+
+"Father, I'll take her. I'll walk the old Roman road and blend with the charcoal-bearers. Goosie can hide in a basket on my hip." She paused. "Besides, I'm on the King's business if anyone asks."
 
 Harold studied her face. For a moment, something flickered in his eyes—the old sharpness, the man who had ridden with kings.
 
@@ -1303,27 +1296,17 @@ Beatrice's throat tightened. She set down the basket—Goosie honked—and hugge
 
 She settled Goosie in the basket and set out.
 
-At the edge of the clearing, she turned. Her father stood in the doorway—not leaning this time, standing on his own. Staghound at his side, one hand raised.
+Her father stood in the doorway—not leaning this time, standing on his own. Staghound at his side, one hand raised high.
 
 She waved.
 
-He raised his hand higher, calling out.
+He raised his hand higher, standing tall, calling out.
 
 "Remember whose hall you enter."
 
 Then the road took her, toward a king who had no idea she was coming.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-This is now a complete, self-contained chapter that:
-- Establishes the systemic pressure (purveyance, war, church, disease)
-- Shows Beatrice's agency (she searches before accepting)
-- Deepens the nurse's role and the mother's legacy
-- Makes Goosie's sacrifice inevitable, not arbitrary
-- Preserves Harold's frailty and final strength
-- Ends with the perfect line: "Remember whose hall you enter."
-
-The goose leads. The chapter holds.
 
 ## Chapter 7 — The King's Frustration
 
