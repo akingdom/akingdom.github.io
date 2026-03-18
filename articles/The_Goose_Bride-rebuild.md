@@ -921,7 +921,7 @@ Then you can judge whether it's a major win or just rearrangement.
 
 It was a witless saying from the Norman harrowing of England. Yet, the wise-wives of Mercia spoke of a maiden who proved the word most true.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## Chapter 1 — A Goose of My Own
 
@@ -953,7 +953,8 @@ A woman's voice called from the edge of the meadow. "Beatrice?! Come here!"
 
 She turned back to thank the boy, but he had vanished.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 Her mother scooped her up, laughing. "Did you find the geese?"
 
@@ -965,7 +966,8 @@ Beatrice sniffled. "Then can I have one of my own, Mummy? So it knows me?"
 
 Her mother smiled—a warm, tired smile. "We'll raise one together. I'll teach you."
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 2 — The Farm by the River
 
@@ -1011,7 +1013,8 @@ Mother didn't react. Just took the basket, steady and careful, and placed it in 
 
 Beatrice walked home holding the basket, barely breathing, as if the smallest movement might break everything. Behind them, the woman watched from the farmhouse door. Just for a moment. Then she turned back to her geese.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 3 — The Vigil
 
@@ -1059,7 +1062,8 @@ Beatrice lifted the gosling. It fit in one palm, warm and weightless.
 
 She named her Goosie.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 4 — Mother Lessons
 
@@ -1071,7 +1075,8 @@ Beatrice learned. She watched and she listened and she grew.
 
 Then her mother grew tired. Then pale. Then thin.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 5 — Apple Blossoms
 
@@ -1091,7 +1096,8 @@ Beatrice brought apple blossoms once, when the trees first bloomed. She laid the
 
 Beatrice didn't know what to say. She held Goosie instead, and the goose pressed its warm head against her neck.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 The end came on a morning exactly like that—warm, soft, the apple trees heavy with pink and white.
 
@@ -1115,7 +1121,8 @@ She lifted Goosie—who had followed, always—and held her so that the goose's 
 
 "There," she whispered. "She knows you."
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 At the burial, Harold stood like a man made of stone. His hands were on Beatrice's shoulders—heavy, warm, the only warm thing—but he didn't speak. Didn't move. Just watched as they lowered the plain wooden box into the rich earth.
 
@@ -1135,7 +1142,8 @@ Beatrice stood there for a long time, Goosie pressed against her leg, watching g
 
 The geese knew her now. That was something.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 She walked home slowly. At the edge of the clearing, she stopped.
 
@@ -1151,7 +1159,8 @@ He nodded. Said nothing.
 
 They went inside together. Goosie followed.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 Her father was never the same after that; he changed.
 
@@ -1165,7 +1174,8 @@ She saw to the villagers' boon-days. She oversaw the brewing and the buttery. Sh
 
 And Goosie followed. Always.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 6 — Galloping Hooves
 
@@ -1178,6 +1188,82 @@ Beatrice looked up from the herb bed outside the kitchen. A royal messenger rode
 Inside, Beatrice scooped up her goose.
 
 Goosie honked.
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+The messenger rode away, leaving Beatrice in the doorway, feeling unwell, Goosie nesting warmly in her arms. She looked at her father; Harold looked back, his eyes hollow. They both knew, as surely as the sun set over the Wrekin, that they had nothing suitable for the King except the unthinkable.
+
+"We shall simply buy a bird for the King, father. Surely there must be at least one," Beatrice said, her voice almost sounding confident. "One of the farm geese—"
+
+Harold shook his head. "Try by all means, Beatrice. Remember I told you back in Spring of the Great Levy for the King's army, down in Wales. Every manor from here to the Severn has been stripped to feed the vanguard."
+
+"They can't take what isn't there," she whispered.
+
+"They took it anyway. What the purveyors didn't seize for the King's table, the Earl's men bought up to provision the baggage trains. Roger of Salisbury's clerks have been through the ledgers; they know exactly how many wings are in every yard."
+
+Beatrice set Goosie down and walked.
+
+She checked many farms that afternoon.
+
+At the first, the farmer's wife was scrubbing an empty coop with vinegar. "The murrain took half the flock after the river burst its banks in April," she said, not looking up. "The damp-rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We're living on pottage and prayer."
+
+At the second, a tenant of the manor was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale to even to your father. I mean no disrespect, miss."
+
+At another—the nurse's farm, by the river bend—the nurse herself came out to meet her. She looked at Beatrice's face and seemed to understand.
+
+"You're after a bird for the King's table."
+
+Beatrice nodded. "The purveyors... the Abbot... there is nothing."
+
+The nurse sighed, wiping her hands on her apron. "When you've kept geese for a king's son, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids in 1113, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we'd recover by this summer, but the King's own host has been marching this year, and they're taking the young birds before they can even grow fat. I've nothing left but scrawny things—all bone and pin-feathers."
+
+"But surely there is one," Beatrice pleaded.
+
+The nurse looked toward the poultry shed. "Only the old gander. He's the last of the 1112 stock—"
+
+Beatrice interrupted eagerly. "Then I'll buy him. I have the silver Mother left—"
+
+The nurse shook her head. "He's already spoken for. The Royal Marshal marked him with the King's seal yesterday. If I sell him to you, they'll hang me for theft of Crown property. He's not a bird anymore, Beatrice; he's a piece of the King's war."
+
+Beatrice's throat tightened. The nurse looked at the speckled goose in Beatrice's arms.
+
+"Count it a blessing that your own bird is still alive. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a soldier's pot or a monk's platter."
+
+This news was too much for Beatrice to bear and she burst into large wet tears. The normally gruff nurse patted her back.
+
+The nurse’s hand, calloused from years of plucking and grain-sorting, rested heavy on Beatrice’s shoulder. She didn't offer empty comfort; in these parts, tears were as common as the rain.
+
+"Dry those, girl," the nurse muttered, her voice dropping to a gravelly whisper. "Salt water won't fatten a bird, and it won't soften a King's heart."
+
+She glanced toward the road, making sure the Royal Marshal’s men weren't lingering. Then she leaned in close, smelling of woodsmoke and dried herbs.
+
+"There is one thing that might work. Likely it won't, but it might just keep that silly goose in your arms."
+
+Beatrice wiped her face with her sleeve, her words tumbling out all at one. "Tell me, please."
+
+The nurse leant close and calmly explained her idea.
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
+Beatrice walked home in the fading light.
+
+At the edge of the clearing, she stopped. Goosie was there—waiting for her, always waiting. The goose waddled forward and pressed her head against Beatrice's knee.
+
+Beatrice knelt and buried her face in warm feathers. "There's no other bird," she whispered. "Mother taught me to read a fever, to know when bread was ready. She never taught me how to watch a whole shire starve of geese."
+
+The river took the weak. The Church took the strong. The war took the rest.
+
+Goosie honked softly. She didn't understand. She just was.
+
+Beatrice carried her inside. Harold looked up from his chair. He saw her empty hands.
+
+"The purveyors took the King's share," Beatrice said, her voice flat. "The floods took the neighbors' flocks. The Abbot took the tithes. There is nothing left but skin and bone. Nothing but..."
+
+"Nothing but Goosie," Harold finished.
+
+He didn't say *your mother's goose*. He didn't need to.
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 Harold sighed from his chair by the fire. "It must be done, daughter."
 
@@ -1223,13 +1309,23 @@ She waved.
 
 He raised his hand higher, calling out.
 
-“Remember whose hall you enter.”
+"Remember whose hall you enter."
 
 Then the road took her, toward a king who had no idea she was coming.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## Chapter 3 — The King's Frustration
+This is now a complete, self-contained chapter that:
+- Establishes the systemic pressure (purveyance, war, church, disease)
+- Shows Beatrice's agency (she searches before accepting)
+- Deepens the nurse's role and the mother's legacy
+- Makes Goosie's sacrifice inevitable, not arbitrary
+- Preserves Harold's frailty and final strength
+- Ends with the perfect line: "Remember whose hall you enter."
+
+The goose leads. The chapter holds.
+
+## Chapter 7 — The King's Frustration
 
 The great oak doors of Rockingham's hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
 
@@ -1271,7 +1367,7 @@ Only then did his expression soften a little. "What news?"
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## Chapter 4 — The Breton Offer
+## Chapter 8 — The Breton Offer
 
 Matilda leaned closer to the King, so that he alone could hear her. "A message from Brittany, my lord."
 
@@ -1313,6 +1409,8 @@ Her voice dropped to a loud whisper.
 
 "You know what they call him. A weak whelp. A sad shadow."
 
+In the shadows near the pillar, Godfrey's face showed nothing. He had learned, long ago, he was safer that way.
+
 Henry raised the queen's cup to his lips before lowering it carefully onto the oak. The moment of silence was more terrifying than a shout.
 
 "A weak whelp," he repeated, his voice a low rasp. "A shadow."
@@ -1335,7 +1433,7 @@ The Queen kept quiet and the hall held its breath, until at long last the king b
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## Chapter 5 — The Ledger and the Lion
+## Chapter 9 — The Ledger and the Lion
 
 Henry stood with his back to the room, a silhouette carved against the roaring central hearth. Still stinging from the Queen's comments about his son, the King did not move for a long moment; he seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
 
@@ -1366,6 +1464,8 @@ Roger didn't even look at the man. "The Sheriff's confusion is a matter for the 
 He paused, his eyes flicking to the King with a look of devastating common sense.
 
 "However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a son who sits outside the direct line of succession. To refuse it is... inefficient. Whether it be the six hundred marks missing from a Sheriff's bag or ten thousand from a Duke's treasury, it is a coin left on the table."
+
+Godfrey heard it. A coin. He looked down at his feet.
 
 Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
 
