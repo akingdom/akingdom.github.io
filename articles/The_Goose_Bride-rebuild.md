@@ -1616,21 +1616,30 @@ Matilda's stomach dropped.
 
 "I grant to Beatrice the daughter of Harold 'Red Wolf' of Stanwey—"
 
-**Queen:** (rising, smoothly) "—this fine goose alive and a larder to fill his hall, as the king in his mercy intends. Let it be recorded."
+The Queen rose smoothly. "—this fine goose alive and a larder to fill his hall, as the king in his mercy intends. Let it be recorded."
 
 She turns to the clerk, dictating: "Item: the goose of the daughter of Harold Red-Wolf is spared by the king's grace. Item: a larder shall be sent to Stanwey to honor Harold Red-Wolf's service. Item: the king shall visit Stanwey within the fortnight to hear the tale of the Severn told anew."
 
-**Henry:** (pleased) "Yes, yes. Write it."
+Henry was pleased. "Yes, yes. Write it."
 
-**Queen:** (to Beatrice, warmly) "Go home, young lady, and take your goose. The king's word is given."
+The Queen turned warmly to Beatrice. "Go home, young lady, and take your goose. The king's word is given."
 
-As Beatrice turned gratefully to leave, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
+As Beatrice turned gratefully to leave, her knees feeling a little weak, the King's eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
 
-“And you, de Montfort—the door will hold up fine without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.”
+“And you, de Montfort, the door will hold up well enough without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.”
 
 It seemed that the King missed very little in his court. 
 
-Beatrice caught the knight's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
+Nearing the entrance, Beatrice caught Sir Guy's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
+
+She faced away from him and her gaze rapidly swept the crowd, looking for safe harbour, something steady. Someone caught her eye, that young man by the pillar, . Not part of the whispers. Not part of the cruelty. Simply there, like a solid rock in a rushing stream.
+
+For a heartbeat—two—she let herself recognise it: *oh. you're not like them.* Not a stare, not a signal. Just a pause.
+
+Something flickered in his face. Barely there. A crack in his cautious mask.
+
+The moment passed. Standing in the large doorway to the hall, she turned and impulsively gave a curtsy without seeing anyone; a mere blur of people as fresh air washed over her.
+
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -1710,7 +1719,7 @@ She became more serious.
 
 He looked at her. Something passed between them—an old understanding, a shared history of managing the unmanageable.
 
-**Henry:** "And the tamer. I'll leave that to you."
+**Henry:** "Depends on the tamer too. I'll leave that to you."
 
 **Queen:** (a real smile now) "You always do."
 
