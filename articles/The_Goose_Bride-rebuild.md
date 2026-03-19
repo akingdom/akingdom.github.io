@@ -381,11 +381,19 @@ Beatrice set Goosie down and walked.
 
 She checked many farms that afternoon.
 
-At the first, the farmer's wife was scrubbing an empty coop with vinegar. "The murrain took half the flock after the river burst its banks in April," she said, not looking up. "The damp-rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We're living on pottage and prayer."
+At the first, the farmer's wife was scrubbing an empty coop with vinegar. "Can't help you, alas. The murrain took half the flock after the river burst its banks in April," she said, not looking up. "The damp-rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We're living on pottage and prayer." 
 
-At another, a tenant of the manor was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale to even to your father. I mean no disrespect, miss."
+Beatrice looked at the woman's wrinkled hands, then reached into her own purse. "Here's a little help from a neighbour." 
 
-At the nurse's farm, the one by the river bend, where Goosie came from as an egg—the nurse herself came out to meet her. She looked at Beatrice's face and seemed to understand.
+The woman looked up with red-rimmed eyes. "Nay, we'll do alright." 
+
+Beatrice insisted. "Then keep it aside for me until it's needed. If not, another neighbour can benefit."
+
+At these words, the woman accepted the gift. "I'll accept it as a mercy between neighbours then. May God bless you, dear. Try big John's farm, by the oak on the hill; he had some birds last I heard."
+
+After a long walk, Beatrice arrived at the farm by the oak, where big John (a tenant of the manor) was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're about two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale to even to your father. I mean no disrespect, miss."
+
+She crossed the river upstream (nearly falling in) and at long last reached the nurse's farm, the one by the reedy wide river bend, where Goosie came from as an egg—the nurse herself came out to meet her. She looked at Beatrice's face and seemed to understand.
 
 "The King is back and you're after a bird for the King's table."
 
