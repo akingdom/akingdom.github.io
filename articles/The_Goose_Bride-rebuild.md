@@ -1578,7 +1578,7 @@ It was a pleasing novelty for a petitioner to plead for a bird’s life while he
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## The Red‑Wolf’s Daughter
+## The Red‑Wolf Honoured
 
 The King leaned forward, studying her with amused wonder.
 
@@ -1643,9 +1643,7 @@ The moment passed. Standing in the large doorway to the hall, she turned and imp
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## Chapter 5 — The Ledger and the Lion (Extended)
-
----
+## Chapter 5 — The Ledger and the Lion
 
 Beatrice curtsied and went. The heavy doors closed behind her.
 
@@ -1655,103 +1653,95 @@ The Queen rose smoothly and gestured to the steward—a small, almost impercepti
 
 Within moments, the immediate press of bodies melted away from the high table, leaving Henry and Matilda in a bubble of semi-privacy. The hall still hummed with life, but no one was close enough to hear.
 
-**Queen:** (settling beside him, voice light, carrying just enough for nearby ears) "The venison is well roasted tonight, my lord. You should eat."
+She settled beside him, voice light, carrying just enough for nearby ears. "The venison is well roasted tonight, my lord. You should eat."
 
-**Henry:** (grunting, reaching for a piece) "The hunt was poor. The cooks make up for it."
+Henry grunted, reaching for a piece. "The hunt was poor. The cooks make up for it."
 
-**Queen:** (leaning slightly closer, voice dropping) "It seems my lord had success in the hunt after all."
+She leaned slightly closer, voice dropping "It seems my lord had success in the hunt after all."
 
-Henry paused, piece of venison halfway to his mouth. He looked at her, distracted.
+Henry paused, piece of venison halfway to his mouth. He looked at her, distracted, lowering his voice to match hers. "What's that?"
 
-**Henry:** (lowering his voice to match hers) "What's that?"
+The Queen have a small smile. "I said you caught a she-wolf today. Despite the frost."
 
-**Queen:** (a small smile) "I said you caught a she-wolf today. Despite the frost."
+He set the meat down. Something flickered—amusement, wariness, affection. He spoke quietly. "You have thoughts, Matilda."
 
-Henry set the meat down. Something flickered—amusement, wariness, affection.
+"I have questions, Henry. There's a difference."
 
-**Henry:** (quietly) "You have thoughts, Matilda."
+"Ask them."
 
-**Queen:** "I have questions, Henry. There's a difference."
+She considering her words with the diplomacy of one who had ruled England in her husband's absence. "The girl is... unexpected."
 
-**Henry:** "Ask them."
+Henry grinned. "That's the point."
 
-**Queen:** (considering her words) "The girl is... unexpected."
+"Is it?"
 
-**Henry:** (grinning) "That's the point."
+She paused. "My lord, consider well the reputation a low-born woman will bring your son."
 
-**Queen:** "Is it?" (pause) "My lord, consider well the reputation a low-born woman will bring your son."
+The King's grin faded. "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—" He stopped. Looked toward the door where Beatrice had vanished. "She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?"
 
-**Henry:** (the grin fading) "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—" He stopped. Looked toward the door where Beatrice had vanished. "She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?"
+"Rarely."
 
-**Queen:** (quietly) "Rarely."
+"Godfrey has been called shadow and whelp and coin. He's been overlooked his whole life. If he marries a princess, he'll still be a shadow—just a shadow with a richer wife. But this girl..." He trailed off.
 
-**Henry:** "Godfrey has been called shadow and whelp and coin. He's been overlooked his whole life. If he marries a princess, he'll still be a shadow—just a shadow with a richer wife. But this girl..." He trailed off.
+The Queen put her hand near his, encouraging him to continue. "This girl...?"
 
-**Queen:** "This girl?"
+Henry met her eyes. "She *saw* him. In the hall, before any of this. She looked at him—just for a moment—and didn't look away. I was watching."
 
-**Henry:** (meeting her eyes) "She *saw* him. In the hall, before any of this. She looked at him—just for a moment—and didn't look away. I was watching."
+The Queen absorbed this. "You're sure?"
 
-The Queen absorbed this.
+"I'm sure. Yes."
 
-**Queen:** "You're sure?"
+A long pause. The fire crackled in the large hearth.
 
-**Henry:** "I'm sure."
+She spoke slowly. "Then perhaps I misjudged."
 
-A long pause. The fire crackled.
+Her husband feigned surprised in a friendly manner. "You?"
 
-**Queen:** (slowly) "Then perhaps I misjudged."
+Laugh lines appeared on the Queen's face, almost smiling. "It happens. Rarely."
 
-**Henry:** (surprised) "You?"
+Henry laughed softly. "I'll mark the day."
 
-**Queen:** (almost smiling) "It happens. Rarely."
+Her tone shifted to a more practical note. "Still. She will need fitting for court. Taming, perhaps. Teaching certainly: manners, dress, language, etiquette—how not to fall foul of others unnecessarily, how to think before she speaks."
 
-**Henry:** (laughing softly) "I'll mark the day."
+She became more serious. "The barons will whisper. Brittany will not be pleased."
 
-**Queen:** (her tone shifting, more practical) "Still. She will need fitting for court. Taming, perhaps. Teaching certainly: manners, dress, language, etiquette—how not to fall foul of others unnecessarily, how to think before she speaks."
+Henry took a small bite at his venison. "A little diplomacy, then. But a tame wolf is still a wolf."
 
-She became more serious.
+The Queen met his eyes. "It depends on the wolf."
 
-**Queen:** "The barons will whisper. Brittany will not be pleased."
+He looked at her. Something informal passed between them—an old understanding, a shared history of managing the unmanageable. "Depends on the tamer too, but I'll leave it in your capable hands."
 
-**Henry:** (considering) "A little diplomacy, then. But a tame wolf is still a wolf."
-
-**Queen:** (meeting his eyes) "Depends on the wolf."
-
-He looked at her. Something passed between them—an old understanding, a shared history of managing the unmanageable.
-
-**Henry:** "Depends on the tamer too. I'll leave that to you."
-
-**Queen:** (a real smile now) "You always do."
+A real smile appeared on the Queen's face, making her seem younger. "You always do."
 
 ---
 
-The King looked toward his sons, for there were several present about the hall. His gaze found Godfrey, half-hidden in the shadows near a pillar.
+The King looked toward his sons (for there were several present about the hall). His gaze found Godfrey watching them, still half-hidden in the shadows near a pillar.
 
-**Henry:** (beckoning) "Godfrey. Come."
+He beckoned to the lad. "Godfrey. Come."
 
 Godfrey crossed the cleared space. He stood before them, uncertain—a young man who had spent his life watching, not being watched.
 
 The Queen studied him. Then, slowly, she smiled.
 
-**Queen:** "It is well, my son."
+*"It is well, my son."
 
-Something crossed Godfrey's face. A flicker. A crack in the careful mask. At her words—*my son*—his throat moved, once. He said nothing. He didn't need to.
+Something crossed Godfrey's face. A flicker. Another crack in the careful mask. At her words—*my son*—his throat moved, once. He said nothing. He didn't need to.
 
-Henry watched the exchange, saying nothing. But his eyes were warm.
+Henry watched the exchange, saying nothing for a moment. But his eyes were warm.
 
-**Henry:** (after a moment) "You will escort the young lady home. Two riders, no more. See her safely to her father's door."
+"You will escort the young lady home. Two riders, no more. See her safely to her father's door."
 
-**Godfrey:** (finding his voice) "Yes, Father."
+Godfrey found his voice. "Yes, Father."
 
-**Queen:** "And Godfrey."
+The Queen leant forwards. "And Godfrey."
 
 Godfrey waited.
 
-**Queen:** "She doesn't know. About the vow. About any of it. When you tell her—" She stopped. Looked at Henry. Looked back at their son. "When you tell her, let it be her father who speaks first. That's the way."
+Her look softened as she gave a mother's advice. "She doesn't know. About the vow. About any of it. When you tell her—" She stopped. Looked at Henry. Looked back at their son. "When you tell her, let it be her father who speaks first. That's the way."
 
-**Godfrey:** (quietly) "I understand."
+Godfrey's voice was quietly. "I understand."
 
-**Queen:** "Go now. She has a head start, and the road grows dark. Be sure not to startle her on the way."
+"Go now. She has a head start, and the road grows dark. Be sure not to startle her on the way."
 
 Godfrey bowed to them both—a bow deeper than protocol required—and turned to go.
 
@@ -1765,53 +1755,53 @@ He went out into the dusk.
 
 The hall fell quiet again. Henry reached for his wine.
 
-**Henry:** "He'll do."
+"He'll do."
 
-**Queen:** "He already has done."
+"He already has done."
 
 Henry looked at her. She met his gaze steadily.
 
-**Henry:** (setting down his cup) "Then let's be done with it."
+He set down his cup. "Then let's be done with the matter, my love."
 
-He rose. The Queen rose with him. The hall, sensing movement, quieted.
+He rose. The Queen rose with him. The hall quieted at the movement. Sensing something momentous, hairs rose like a chill on the arms of some of the men.
 
 Henry looked at his clerk, who already had quill poised over fresh parchment. Then he looked at Matilda. She gave the smallest of nods.
 
 *Together.*
 
-**Henry:** (voice carrying to the furthest rafters) "Hearken now, all my barons and faithful men of England."
+The King's voice carryied to the furthest rafters. "Hearken now, all my barons and faithful men of England."
 
 The chatter died instantly.
 
-**Henry:** "By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that my son, Godfrey, shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession."
+"By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that my son, Godfrey, shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession."
 
 He looked directly at the cluster of knights where Sir Guy stood, his gaze like a physical weight.
 
-**Henry:** "Let this be clear to one and all. My son, Godfrey, shall marry the daughter of Harold Red-Wolf."
+"Let this be clear to one and all. My son, Godfrey, shall marry the daughter of Harold Red-Wolf."
 
-He paused, letting the weight settle.
+He paused, letting the weight settle. Then a boyish grin appeared on his face.
 
-**Henry:** (grinning) "Some may wonder at this match. To them I say: would you rather the boy marry the goose? It arrived first."
+"To all who wonder at such a match, I say: would you rather the boy marry the goose? After all, it arrived first."
 
-Laughter—uncertain, then genuine—rippled through the court. The tension broke.
+Laughter rippled through the court; uncertain, then genuine. The tension broke.
 
 Henry nodded to the clerk, who scribbled furiously. Then he sat, reaching for his wine.
 
 The Queen lowered herself beside him, her voice barely above a murmur:
 
-**Queen:** "Eat your venison, my lord. It's a long night."
+"Eat your venison, my lord. It's a long night."
 
-**Henry:** (reaching for the meat) "You're good at this."
+He reached for the meat. "You're good at this."
 
-**Queen:** "At what?"
+"At what?"
 
-**Henry:** "Making me think I decided things myself."
+"Making me think I decided things myself."
 
-**Queen:** (rising, moving away, but her smile lingered) "I learned from the best."
+The Queen arose, moving away, but her smile lingered. "I learned from the best, my lord."
 
 ---
 
-Outside, the road stretched eastward through the forest, pale stone under a pale sky. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, unaware that her life had just changed forever.
+Outside, the road stretched eastward through the forest, pale stone under a pale sky. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, seemingly unaware that her life had just changed forever.
 
 He walked faster.
 
