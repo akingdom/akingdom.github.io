@@ -1492,7 +1492,7 @@ The Queen stared at him, her face pale. "You cannot possibly mean to cast his li
 
 Henry's posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall provide. Elsewise, let the hall stay empty, that I may drink in peace."
 
-The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow *coram rege*—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
+The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow (*coram rege*)—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
 
 Henry reached for his wine, oblivious, for the most part, to the cage he had just built—its door wide open to the night.
 
