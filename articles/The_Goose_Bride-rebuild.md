@@ -391,7 +391,7 @@ Beatrice insisted. "Then keep it aside for me until it's needed. If not, another
 
 At these words, the woman accepted the gift. "I'll accept it as a mercy between neighbours then. May God bless you, dear. Try big John's farm, by the oak on the hill; he had some birds last I heard."
 
-After a long walk, Beatrice arrived at the farm by the oak, where big John (a tenant of the manor) was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're about two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale to even to your father. I mean no disrespect, miss."
+After a long walk, Beatrice arrived at the farm by the oak, where big John (a tenant of the manor) was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're about two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss."
 
 She crossed the river upstream (nearly falling in) and at long last reached the nurse's farm, the one by the reedy wide river bend, where Goosie came from as an egg—the nurse herself came out to meet her. She looked at Beatrice's face and seemed to understand.
 
