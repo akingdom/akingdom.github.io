@@ -288,7 +288,7 @@ He was in the doorway of the sleeping chamber, not crossing the threshold, just 
 
 Beatrice pushed past him.
 
-Her mother lay still. Too still. Her eyes were closed, her hands folded, and someone—the priest, later, she learned—had already placed a candle at her head and another at her feet.
+Her mother lay still. Too still. Her eyes were closed, her hands folded, and someone (the priest, she later learned) had already placed a candle at her head and another at her feet.
 
 Beatrice didn't cry. She knelt beside the bed and put her cheek against her mother's hand. It was cool to touch. Not cold yet. Just cool.
 
