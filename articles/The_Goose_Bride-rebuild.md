@@ -525,7 +525,7 @@ Henry's steely gaze shifted to the door where his men lingered. Inwardly, he kne
 
 "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
 
-Matilda smiled politely. “Peace is a rare gift, my lord,” she said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the treaty at Gisors last year? Brittany is ours in all but name now, and your daughter sits there as Duchess.”
+Matilda smiled politely. “Peace is a rare gift, my lord,” she said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the treaty at Gisors last year?”
 
 Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
 
