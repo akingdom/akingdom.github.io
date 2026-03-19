@@ -90,14 +90,12 @@
 | **The Old Woman** | Speaks the proverb at the wedding. Represents folk wisdom. | 
 | **The Abbot** | (Unnamed) Tithe collector who stripped local farms. Never appears directly. | 
 
----
-
-OPENING
+-----------------------------------------------------------------------
 
 ## Opening
 
------------------------------------------------------------------------
-A gos may gon þar þe king mot biden. This was a folk speche of þe shires sithen þe Normans comen. Ac a wise wif of Mercie tolde of a maiden þat prouede þe word soth.
+> A gos may gon þar þe king mot biden. This was a folk speche of þe shires sithen þe Normans comen. Ac a wise wif of Mercie tolde of a maiden þat prouede þe word soth.
+
 -----------------------------------------------------------------------
 
 **“A goose may wend where a King must bide.”**
@@ -503,7 +501,7 @@ He gazed sharply about the hall and found little that pleased him, until his eye
 
 The morning's hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. Henry had returned with empty hands and a foul temper.
 
-His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in the food being laid out on the long tables. They knew the signs. When the King's hunt was lean, his wrath was often fat.
+His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their weapons, their gear, the pattern of the rushes coverting the floor; anything to avoid meeting the King's eye. They knew the signs. When the King's hunt was lean, his wrath was often fat.
 
 He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant.
 
@@ -747,17 +745,27 @@ Laughter rippled again throughout the hall.
 
 Sir Guy, emboldened by the court's uncertain laughter, called out: "This Saxon girl needs a lesson her father's hall could not teach!"
 
-Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller. All eyes turned toward her as she curtsied low. Drawing courage in the silence, she spoke.
+Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller.
 
-“She was meant for your table, sire… but if it please you, spare her.”
+Assessing her safety, she glanced at the whirl of faces around her—variously amused, curious, still hostile, fearful. One face though, by the pillar, held no judgment at all. Almost sympathetic. Almost willing her to do well.
+
+Their eyes locked for a long moment.
+
+She turned and found herself curtsying low to the King. No time to think. Drawing courage in the silence, she spoke.
+
+"She was meant for your table, sire... but if it please you, spare her."
 
 Henry chuckled, his eyes glinting with a curious merriment. 
 
 "At last—an honest creature in this hall. Spare the goose, you plead?"
 
-It was a pleasing novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
+He shook his head in astonishment. It was a novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
 
-“I say she has earned mercy from my knife, for she has already graced my table with more sport than my knights.”
+“Take courage, for she has earned mercy from my knife."
+
+The king laughed.
+
+"Indeed, this humble goose has graced my table with more sport this day than *all* my knights put together.”
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -813,15 +821,16 @@ As Beatrice turned gratefully to leave, her knees feeling a little weak, the Kin
 
 It seemed that the King missed very little in his court. 
 
-Nearing the entrance, Beatrice caught Sir Guy's eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
+Sir Guy passed Beatrice, moving aside, red-faced. She caught his eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
 
-She faced away from him and her gaze rapidly swept the crowd, looking for safe harbour, something steady. Someone caught her eye, that young man by the pillar, . Not part of the whispers. Not part of the cruelty. Simply there, like a solid rock in a rushing stream.
+She faced away from the man who had humiliated her earlier; her gaze swept the crowd, looking for safe harbour, anything steady. Her eyes found the pillar—found him. The quiet one. Not part of the whispers. Not part of the cruelty. Simply there.
 
-For a heartbeat—two—she let herself recognise it: *oh. you're not like them.* Not a stare, not a signal. Just a pause.
+For a heartbeat—two—she let her curiousity turn to realisation: oh. you're not like them.
 
 Something flickered in his face. Barely there. A crack in his cautious mask.
 
 The moment passed. Standing in the large doorway to the hall, she turned and impulsively gave a curtsy without seeing anyone; a mere blur of people as fresh air washed over her.
+
 
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
@@ -994,7 +1003,10 @@ He walked faster.
 
 The doors of the hunting lodge closed behind her. Beatrice stood on the steps, Goosie warm in her basket, the evening air cool on her face. Behind her, the hall hummed with resumed life. Ahead, the road stretched eastward through the forest, pale stone under a pale sky.
 
-She had her goose. The king had spared her. More than that—he had laughed. At her, perhaps, but also with her. It was more than she had dared hope.
+She had her goose. The king had spared her. More than that, the king had laughed. At her, perhaps, but with her, certainly. It was more than she had dared hope and she offered silent thanks to the God of Heaven, while standing there on the steps.
+
+After setting off
+
 
 She was still turning it over in her mind when she heard the horses.
 
@@ -2661,21 +2673,45 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 ---
 
-### PART THREE: THE HALL (October 1114)
+## Historical Context — Daylight in Late October
 
-| Date | Day | Event | Beatrice's State | Attack | Defense | Notes |
+| Factor | Value | Source |
+| :--- | :--- | :--- |
+| **Sunrise** | ~6:40 AM | 52°N latitude, late October |
+| **Sunset** | ~4:50 PM | 52°N latitude, late October |
+| **Hunting start** | Dawn (6:40 AM) | Medieval hunts began at first light |
+| **Hunt duration** | 3-5 hours | Failed hunt could return earlier |
+| **Dusk** | ~4:15 PM | Twilight begins before sunset |
+| **Full dark** | ~5:30 PM | After sunset |
+
+---
+
+## Revised Table for PART THREE
+
+| Date | Time | Event | Beatrice's State | Attack | Defense | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon 19 Oct** | -1 | Messenger arrives at Stanwey | Anxious | Purveyance | Beatrice decides to go | Harold worried |
-| **Tue 20 Oct** | **0** | **King's Hall at Rockingham** | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
-| **Tue 20 Oct** | 0 | Henry recognizes Harold | Relieved | Sir Guy's mockery | Henry shames Sir Guy | Queen observes |
-| **Tue 20 Oct** | 0 | Queen invokes vow; betrothal announced | Unaware | Political trap springs | — | Henry: "Would you rather the boy marry the goose?" |
-| **Tue 20 Oct** | 0 | Godfrey commanded to escort her | — | — | — | Henry: "Take her home" |
-| **Tue 20 Oct** | 0 | **The Walk Home** | Confused | — | Godfrey's patience | Connection forms |
-| **Tue 20 Oct** | 0 | Stanwey arrival; Godfrey waits | Nervous | — | He waits outside | Harold watches |
-| **Tue 20 Oct** | 0 | Harold's recognition ("wolf/tree") | Confused | — | Harold pieces it together | "A wolf may find shade under a good tree" |
-| **Tue 20 Oct** | 0 | Godfrey asks Harold properly | Waiting | — | Harold says yes (to courting) | Beatrice watches through window |
-| **Wed 21 Oct** | +1 | Godfrey returns to court | Hopeful | — | Promise to return | |
-| **24-31 Oct** | +4-11 | First days at Stanwey | Settling | Court whispers | Goosie's presence | |
+| **Mon 19 Oct** | ~10:00 AM | Messenger arrives at Stanwey | Anxious | Purveyance | Beatrice decides to go | Harold worried |
+| **Tue 20 Oct** | 6:40 AM | Hunt departs Rockingham | — | — | — | "Frosty morning" |
+| **Tue 20 Oct** | 10:30 AM | Hunt returns (failed) | — | — | — | Henry's foul mood |
+| **Tue 20 Oct** | 10:30-11:30 AM | Political debate (Ch 7-9) | — | — | — | Brittany offer, Roger, the vow |
+| **Tue 20 Oct** | 11:30 AM | Beatrice arrives at lodge | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
+| **Tue 20 Oct** | 11:30 AM | Beatrice arrives at lodge | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
+| **Tue 20 Oct** | 11:45 AM | Henry recognizes Harold | Relieved | Sir Guy's mockery | Henry shames Sir Guy | Queen observes |
+| **Tue 20 Oct** | 12:00 PM | Queen's intervention, larder added | Unaware | — | Queen whispers vow | "Let it be recorded" |
+| **Tue 20 Oct** | 12:00 PM | Typical time for the midday meal to be served | — | — | — | — |
+| **Tue 20 Oct** | 12:15 PM | Formal betrothal announced | (already gone) | — | — | Henry: "Would you rather the boy marry the goose?" |
+| **Tue 20 Oct** | 12:30 PM | Godfrey commanded to escort her | — | — | — | Henry: "Take her home" |
+| **Tue 20 Oct** | 12:47 PM | Godfrey catches Beatrice on road | Confused | — | Godfrey's patience | Connection begins |
+| **Tue 20 Oct** | 1:30 PM | Stanwey arrival; Godfrey waits | Nervous | — | He waits outside | Harold watches |
+| **Tue 20 Oct** | 1:30-2:00 PM | Beatrice tells Harold | — | — | — | — |
+| **Tue 20 Oct** | 2:00 PM | Harold's recognition ("wolf/tree") | Confused | — | Harold pieces it together | "A wolf may find shade under a good tree" |
+| **Tue 20 Oct** | 2:30 PM | Godfrey called inside | — | — | — | Beatrice watches through window |
+| **Tue 20 Oct** | 2:30-3:00 PM | Godfrey asks Harold properly | Waiting | — | Harold says yes (to courting) | Private conversation |
+| **Tue 20 Oct** | 3:00-3:45 PM | Conversation, Goosie accepts | Joyful | — | Goose chooses him | "She knows who she is" |
+| **Tue 20 Oct** | 4:00 PM | Godfrey departs Stanwey | Hopeful | — | Promise to return | Dusk approaching |
+| **Tue 20 Oct** | 4:45 PM | Godfrey returns to Rockingham | — | — | — | Twilight |
+| **Tue 20 Oct** | 5:30 PM | Full dark | — | — | — | — |
+| **Tue 20 Oct** | ~6:00 PM | Supper at Rockingham | — | — | — | Queen's "long night" comment |
 
 ---
 
