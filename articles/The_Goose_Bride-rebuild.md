@@ -1643,7 +1643,7 @@ The moment passed. Standing in the large doorway to the hall, she turned and imp
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## Chapter 5 — The Ledger and the Lion
+## Chapter 10 — A Matter of Diplomacy
 
 Beatrice curtsied and went. The heavy doors closed behind her.
 
@@ -1653,95 +1653,97 @@ The Queen rose smoothly and gestured to the steward—a small, almost impercepti
 
 Within moments, the immediate press of bodies melted away from the high table, leaving Henry and Matilda in a bubble of semi-privacy. The hall still hummed with life, but no one was close enough to hear.
 
-She settled beside him, voice light, carrying just enough for nearby ears. "The venison is well roasted tonight, my lord. You should eat."
+Matilda settled beside him, her voice light, carrying just enough for nearby ears. "The venison is well roasted tonight, my lord. You should eat."
 
 Henry grunted, reaching for a piece. "The hunt was poor. The cooks make up for it."
 
-She leaned slightly closer, voice dropping "It seems my lord had success in the hunt after all."
+She leaned closer, her voice dropping. "It seems my lord had success in the hunt after all."
 
-Henry paused, piece of venison halfway to his mouth. He looked at her, distracted, lowering his voice to match hers. "What's that?"
+Henry paused, piece of venison halfway to his mouth. He looked at her, distracted, and lowered his voice to match hers. "What's that?"
 
-The Queen have a small smile. "I said you caught a she-wolf today. Despite the frost."
+A small smile. "I said you caught a she-wolf today. Despite the frost."
 
-He set the meat down. Something flickered—amusement, wariness, affection. He spoke quietly. "You have thoughts, Matilda."
+He set the meat down. Something flickered—amusement, wariness, affection.
+
+"You have thoughts, Matilda."
 
 "I have questions, Henry. There's a difference."
 
 "Ask them."
 
-She considering her words with the diplomacy of one who had ruled England in her husband's absence. "The girl is... unexpected."
+She considered her words. "The girl is… unexpected."
 
 Henry grinned. "That's the point."
 
-"Is it?"
+"Is it?" A pause. "My lord, consider well the reputation a low-born woman will bring your son."
 
-She paused. "My lord, consider well the reputation a low-born woman will bring your son."
-
-The King's grin faded. "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—" He stopped. Looked toward the door where Beatrice had vanished. "She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?"
+The grin faded. "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—" He stopped, looking toward the door where Beatrice had vanished. "She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?"
 
 "Rarely."
 
-"Godfrey has been called shadow and whelp and coin. He's been overlooked his whole life. If he marries a princess, he'll still be a shadow—just a shadow with a richer wife. But this girl..." He trailed off.
+"Godfrey has been called shadow and whelp and coin. He's been overlooked his whole life. If he marries a princess, he'll still be a shadow—just a shadow with a richer wife. But this girl…" He trailed off.
 
-The Queen put her hand near his, encouraging him to continue. "This girl...?"
+"This girl?"
 
-Henry met her eyes. "She *saw* him. In the hall, before any of this. She looked at him—just for a moment—and didn't look away. I was watching."
+He met her eyes. "She *saw* him. In the hall, before any of this. She looked at him—just for a moment—and didn't look away. I was watching."
 
-The Queen absorbed this. "You're sure?"
+The Queen absorbed this.
 
-"I'm sure. Yes."
+"You're sure?"
 
-A long pause. The fire crackled in the large hearth.
+"I'm sure."
 
-She spoke slowly. "Then perhaps I misjudged."
+A long pause. The fire crackled.
 
-Her husband feigned surprised in a friendly manner. "You?"
+Then, slowly: "Then perhaps I misjudged."
 
-Laugh lines appeared on the Queen's face, almost smiling. "It happens. Rarely."
+Henry looked surprised. "You?"
 
-Henry laughed softly. "I'll mark the day."
+Almost a smile. "It happens. Rarely."
 
-Her tone shifted to a more practical note. "Still. She will need fitting for court. Taming, perhaps. Teaching certainly: manners, dress, language, etiquette—how not to fall foul of others unnecessarily, how to think before she speaks."
+He laughed softly. "I'll mark the day."
 
-She became more serious. "The barons will whisper. Brittany will not be pleased."
+Her tone shifted, more practical. "Still. She will need fitting for court. Taming, perhaps. Teaching certainly: manners, dress, language, etiquette—how not to fall foul of others unnecessarily, how to think before she speaks."
 
-Henry took a small bite at his venison. "A little diplomacy, then. But a tame wolf is still a wolf."
+She became more serious.
 
-The Queen met his eyes. "It depends on the wolf."
+"The barons will whisper. Brittany will not be pleased."
 
-He looked at her. Something informal passed between them—an old understanding, a shared history of managing the unmanageable. "Depends on the tamer too, but I'll leave it in your capable hands."
+Henry considered this. "A little diplomacy, then. But a tame wolf is still a wolf."
 
-A real smile appeared on the Queen's face, making her seem younger. "You always do."
+She met his eyes. "Depends on the wolf."
+
+Something passed between them—an old understanding, a shared history of managing the unmanageable.
+
+"And the tamer," Henry said. "I'll leave that to you."
+
+A real smile now. "You always do."
 
 ---
 
-The King looked toward his sons (for there were several present about the hall). His gaze found Godfrey watching them, still half-hidden in the shadows near a pillar.
+The King looked toward his sons, for there were several present about the hall. His gaze found Godfrey, half-hidden in the shadows near a pillar.
 
-He beckoned to the lad. "Godfrey. Come."
+Henry beckoned. "Godfrey. Come."
 
-Godfrey crossed the cleared space. He stood before them, uncertain—a young man who had spent his life watching, not being watched.
+Godfrey crossed the cleared space and stood before them, uncertain—a young man who had spent his life watching, not being watched.
 
 The Queen studied him. Then, slowly, she smiled.
 
-*"It is well, my son."
+"It is well, my son."
 
-Something crossed Godfrey's face. A flicker. Another crack in the careful mask. At her words—*my son*—his throat moved, once. He said nothing. He didn't need to.
+Something crossed Godfrey's face. A flicker. A crack in the careful mask. At her words—*my son*—his throat moved once. He said nothing. He didn't need to.
 
-Henry watched the exchange, saying nothing for a moment. But his eyes were warm.
+Henry watched the exchange, his eyes warm.
 
-"You will escort the young lady home. Two riders, no more. See her safely to her father's door."
+After a moment: "You will escort the young lady home. Two riders, no more. See her safely to her father's door."
 
 Godfrey found his voice. "Yes, Father."
 
-The Queen leant forwards. "And Godfrey."
+"And Godfrey." Henry paused. "She doesn't know. About the vow. About any of it. When you tell her—" He stopped, glanced at Matilda, then back at his son. "When you tell her, let it be her father who speaks first. That's the way."
 
-Godfrey waited.
+Quietly: "I understand."
 
-Her look softened as she gave a mother's advice. "She doesn't know. About the vow. About any of it. When you tell her—" She stopped. Looked at Henry. Looked back at their son. "When you tell her, let it be her father who speaks first. That's the way."
-
-Godfrey's voice was quietly. "I understand."
-
-"Go now. She has a head start, and the road grows dark. Be sure not to startle her on the way."
+The Queen added, "Go now. She has a head start, and the road grows dark."
 
 Godfrey bowed to them both—a bow deeper than protocol required—and turned to go.
 
@@ -1757,19 +1759,17 @@ The hall fell quiet again. Henry reached for his wine.
 
 "He'll do."
 
-"He already has done."
+Matilda met his gaze steadily. "He already has."
 
-Henry looked at her. She met his gaze steadily.
+Henry set down his cup. "Then let's be done with it."
 
-He set down his cup. "Then let's be done with the matter, my love."
-
-He rose. The Queen rose with him. The hall quieted at the movement. Sensing something momentous, hairs rose like a chill on the arms of some of the men.
+He rose. The Queen rose with him. The hall, sensing movement, quieted.
 
 Henry looked at his clerk, who already had quill poised over fresh parchment. Then he looked at Matilda. She gave the smallest of nods.
 
 *Together.*
 
-The King's voice carryied to the furthest rafters. "Hearken now, all my barons and faithful men of England."
+His voice carried to the furthest rafters. "Hearken now, all my barons and faithful men of England."
 
 The chatter died instantly.
 
@@ -1779,17 +1779,17 @@ He looked directly at the cluster of knights where Sir Guy stood, his gaze like 
 
 "Let this be clear to one and all. My son, Godfrey, shall marry the daughter of Harold Red-Wolf."
 
-He paused, letting the weight settle. Then a boyish grin appeared on his face.
+He paused, letting the weight settle. Then he grinned.
 
-"To all who wonder at such a match, I say: would you rather the boy marry the goose? After all, it arrived first."
+"Some may wonder at this match. To them I say: would you rather the boy marry the goose? It arrived first."
 
-Laughter rippled through the court; uncertain, then genuine. The tension broke.
+Laughter—uncertain, then genuine—rippled through the court. The tension broke.
 
 Henry nodded to the clerk, who scribbled furiously. Then he sat, reaching for his wine.
 
-The Queen lowered herself beside him, her voice barely above a murmur:
+The Queen lowered herself beside him, her voice barely above a murmur.
 
-"Eat your venison, my lord. It's a long night."
+" Eat your venison, my lord. It's a long night."
 
 He reached for the meat. "You're good at this."
 
@@ -1797,31 +1797,21 @@ He reached for the meat. "You're good at this."
 
 "Making me think I decided things myself."
 
-The Queen arose, moving away, but her smile lingered. "I learned from the best, my lord."
+She rose, moving away, but her smile lingered. "I learned from the best."
 
 ---
 
-Outside, the road stretched eastward through the forest, pale stone under a pale sky. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, seemingly unaware that her life had just changed forever.
+Outside, the road stretched eastward through the forest, pale stone under a pale sky. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, unaware that her life had just changed forever.
 
 He walked faster.
 
-
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-
-
-
-
-
-
 ---
 
-## Chapter 6 — The Road Home
+## Chapter 11 — The Road Home
 
 The doors of the hunting lodge closed behind her. Beatrice stood on the steps, Goosie warm in her basket, the evening air cool on her face. Behind her, the hall hummed with resumed life. Ahead, the road stretched eastward through the forest, pale stone under a pale sky.
 
-She had her goose. The king had spared her. More than that—he had *laughed*. At her, perhaps, but also *with* her. It was more than she had dared hope.
+She had her goose. The king had spared her. More than that—he had laughed. At her, perhaps, but also with her. It was more than she had dared hope.
 
 She was still turning it over in her mind when she heard the horses.
 
@@ -1833,25 +1823,23 @@ The horses slowed. Stopped.
 
 She waited, head still bowed. The dust drifted. Someone dismounted.
 
-Then a voice—young, uncertain, not commanding:
-
-"Please. Don't be afraid."
+Then a voice—young, uncertain, not commanding. "Please. Don't be afraid."
 
 She looked up.
 
-It was him. The young man from the hall. The one who had stood by the pillar, watching. Their eyes had met for a heartbeat when she first entered—she remembered because he hadn't looked away quickly, the way nobles usually did when caught staring at a peasant. He'd just... watched. Like he was trying to understand something.
+It was him. The young man from the hall. The one who had stood by the pillar, watching. Their eyes had met for a heartbeat when she first entered—she remembered because he hadn't looked away quickly, the way nobles usually did when caught staring at a peasant. He'd just… watched. Like he was trying to understand something.
 
 Now he stood before her, holding his horse's reins, looking as uncertain as she felt.
 
-**Godfrey:** "I'm sorry to startle you. My father—the king—has commanded me to give you safe escort back to your home. That's all. Nothing more."
+"I'm sorry to startle you. My father—the king—has commanded me to give you safe escort back to your home. That's all. Nothing more."
 
 She stared at him. Safe escort. A prince, sent to walk a goose girl home.
 
-**Beatrice:** "You'll get your boots muddy."
+"You'll get your boots muddy."
 
 He looked down at his fine leather boots. Then at the road. Then back at her.
 
-**Godfrey:** "I've had muddier."
+"I've had muddier."
 
 It was almost a joke. Almost. She didn't smile, but something in her face shifted.
 
@@ -1859,39 +1847,35 @@ It was almost a joke. Almost. She didn't smile, but something in her face shifte
 
 They walked.
 
-The guards followed at a distance—far enough to be respectful, close enough to be protective. Godfrey had offered her his horse, but the thought of sitting on that tall, sleek animal, of being lifted up by a prince in front of soldiers... her face had gone hot just imagining it.
+The guards followed at a distance—far enough to be respectful, close enough to be protective. Godfrey had offered her his horse, but the thought of sitting on that tall, sleek animal, of being lifted up by a prince in front of soldiers… her face had gone hot just imagining it.
 
-**Beatrice:** "I'll walk."
+"I'll walk."
 
 And so they walked.
 
 For a long time, neither spoke. The road crunched under their feet. Goosie rustled in her basket. The forest breathed around them.
 
-Finally, Godfrey spoke.
-
-**Godfrey:** "The goose. What's its name?"
+Finally, Godfrey spoke. "The goose. What's its name?"
 
 She glanced at him sharply, searching for mockery. Found none.
 
-**Beatrice:** "Goosie."
+"Goosie."
 
-**Godfrey:** "Goosie." He nodded, considering it seriously. "That's a good name. Simple. She knows who she is."
+"Goosie." He nodded, considering it seriously. "That's a good name. Simple. She knows who she is."
 
 Beatrice didn't know what to make of that.
 
 ---
 
-After another silence, she asked: "Do you always escort peasants home?"
+After another silence, she asked, "Do you always escort peasants home?"
 
-He almost laughed, then stopped himself.
-
-**Godfrey:** "No. I've never escorted anyone anywhere." A pause. "I mostly just... watch."
+He almost laughed, then stopped himself. "No. I've never escorted anyone anywhere." A pause. "I mostly just… watch."
 
 She remembered him by the pillar. Watching.
 
-**Beatrice:** "Why?"
+"Why?"
 
-**Godfrey:** "It's safer. No one expects much from you if all you ever do is watch."
+He shrugged. "It's safer. No one expects much from you if all you ever do is watch."
 
 She filed that away. It wasn't what a prince was supposed to say.
 
@@ -1903,43 +1887,41 @@ Godfrey kept glancing at her—quick looks, then away, as if trying to work some
 
 Finally, she couldn't bear it.
 
-**Beatrice:** "What is it?" She refused to look at him. "What are you staring at?"
+"What is it?" She refused to look at him. "What are you staring at?"
 
-He went pink. "It's nothing. It's... I'm... I mean I'm sorry. I didn't mean to—"
+He went pink. "It's nothing. It's… I'm… I mean I'm sorry. I didn't mean to—"
 
 She glanced at him sideways. Waited.
 
 He took a breath.
 
-**Godfrey:** "I... I think you're one of the bravest women I've ever seen."
+"I… I think you're one of the bravest women I've ever seen."
 
 She stumbled. Actually stumbled, catching herself just in time.
 
-**Beatrice:** "What!?"
+"What!?"
 
-**Godfrey:** (not looking at her now, staring straight ahead) "In the hall. You walked in after your goose. Everyone was staring. My father was in a mood that could curdle milk. And you just... walked up to him. And begged. For a goose."
+He wasn't looking at her now, staring straight ahead. "In the hall. You walked in after your goose. Everyone was staring. My father was in a mood that could curdle milk. And you just… walked up to him. And begged. For a goose."
 
 Beatrice didn't know what to say. No one had ever called her brave before. Stubborn, yes. Headstrong. Her father said she acted first and thought second. But brave?
 
-**Beatrice:** "I was terrified."
+"I was terrified."
 
-**Godfrey:** "I know." He glanced at her. "That's what made it brave."
+He glanced at her. "I know. That's what made it brave."
 
 ---
 
 They walked on. The forest opened up ahead—she could see the clearing where Stanwey sat, smoke rising from the hall's hearth.
 
-Godfrey took a breath.
-
-**Godfrey:** "My father... said something. Before you came. About me. About..." He stopped. Shook his head. "It doesn't matter."
+Godfrey took a breath. "My father… said something. Before you came. About me. About…" He stopped. Shook his head. "It doesn't matter."
 
 Beatrice looked at him. Waited.
 
-**Godfrey:** "Another time. Perhaps."
+"Another time. Perhaps."
 
 She sensed weight but didn't press. Something in his face told her not to.
 
-**Beatrice:** "As you wish."
+"If you like."
 
 They walked on in silence, but it was a different silence now. Easier.
 
@@ -1947,133 +1929,133 @@ They walked on in silence, but it was a different silence now. Easier.
 
 The road curved through the trees.
 
-**Godfrey:** "Your father. You spoke of him. He's ill?"
+"Your father. You spoke of him. He's ill?"
 
-**Beatrice:** "Old. The winters are hard on him. He pretends they're not."
+"Old. The winters are hard on him. He pretends they're not."
 
-**Godfrey:** "And you run the manor?"
+"And you run the manor?"
 
-**Beatrice:** "Someone has to."
+"Someone has to."
 
-**Godfrey:** (quietly) "That's a lot."
+Quietly: "That's a lot."
 
-**Beatrice:** (shrugging) "Mother taught me. Before she died."
+She shrugged. "Mother taught me. Before she died."
 
 He didn't offer sympathy. Didn't say "I'm sorry." Just nodded, as if she'd told him something important, and walked on beside her.
 
-She found she didn't mind. 
-
-After a while, he asked her more about Goose and so they discussed her until the Manor was in sight.
+She found she didn't mind.
 
 ---
 
 The timbered hall of Stanwey was visible now, a grey island in the clearing. Godfrey slowed.
 
-**Godfrey:** "I'll wait here. Take as long as you need."
+"I'll wait here. Take as long as you need."
 
 Beatrice blinked. "You don't have to—"
 
-**Godfrey:** "He should hear about Goosie from you first. Without me there."
+"He should hear it from you first. Without me there."
 
 She looked at him—this strange, quiet young man who watched and waited and seemed to understand things without being told.
 
-**Beatrice:** (after a moment) "Thank you."
+After a moment: "Thank you."
 
 She walked the last hundred yards alone.
 
-At the edge of the clearing, she turned. He was still there, at the tree line, waiting. He hadn't moved. Hadn't approached. Just... waited.
+At the edge of the clearing, she turned. He was still there, at the tree line, waiting. He hadn't moved. Hadn't approached. Just… waited.
 
 She went inside.
 
 ---
 
-## Chapter 7 — The Old Wolf
+## Chapter 12 — The Old Wolf
 
 Harold was by the fire, staghound at his feet. He looked up as she entered, and his face shifted—relief, then concern as he saw her expression.
 
-**Harold:** "Daughter. You're back. The goose—"
+"Daughter. You're back. The goose—"
 
-**Beatrice:** (setting down the basket) "She's safe. The king spared her."
+She set down the basket. "She's safe. The king spared her."
 
 Goosie waddled out and headed for the hearth. The staghound sniffed her, unimpressed.
 
 Harold stared. "The king spared your goose?"
 
-**Beatrice:** "He laughed at her first. She bit a clerk." A small, tired smile. "Then he laughed at me. Then he remembered you."
+"He laughed at her first. She bit a clerk." A small, tired smile. "Then he laughed at me. Then he remembered you."
 
-**Harold:** "Remembered me?"
+"Remembered me?"
 
-**Beatrice:** (sitting beside him) "The river. Pulling his brother from the Severn. He said—he said he'll visit. Soon. To hear you tell it again."
+She sat beside him. "The river. Pulling his brother from the Severn. He said—he said he'll visit. Soon. To hear you tell it again."
 
 Harold's face changed.
 
 Not dramatically. Not at first. Just a stilling. A holding.
 
-**Harold:** "The king himself."
+"The king himself."
 
-**Beatrice:** "Yes."
+"Yes."
 
-**Harold:** "Coming here."
+"Coming here."
 
-**Beatrice:** "That's what he said."
+"That's what he said."
 
 He moved to the window—not quickly, he couldn't move quickly anymore, but with purpose. He gripped the frame. Looked out at nothing. Or everything.
 
-**Harold:** (very quiet) "The king himself."
+Very quiet: "The king himself."
 
-**Beatrice:** (filling the silence) "He called me a she-wolf. And told off that annoying Sir Guy—finally! I thought the man might actually swallow his tongue. The king just *looked* at him and—"
+She filled the silence. "He called me a she-wolf. And told off that annoying Sir Guy—finally! I thought the man might actually swallow his tongue. The king just looked at him and—"
 
-**Harold:** (still at the window) "A she-wolf."
+Still at the window: "A she-wolf."
 
-**Beatrice:** "Yes. And then, as I was leaving, he said something strange. I didn't understand it."
+"Yes. And then, as I was leaving, he said something strange. I didn't understand it."
 
 Harold turned. Just his head. The rest of him still holding the frame.
 
-**Beatrice:** "He said... 'a wolf may find shade under a good tree.'"
+"He said… 'a wolf may find shade under a good tree.'"
 
 The words landed.
 
 Harold's expression didn't change—not exactly—but something behind it shifted. Like a door opening in a room she didn't know was there.
 
-**Harold:** (very softly) "Did he."
+Very softly: "Did he."
 
-**Beatrice:** "What does it mean?"
+"What does it mean?"
 
 He didn't answer. He was looking at her now. Really looking. As if seeing her for the first time.
 
-**Harold:** "In the old tongue—your mother's tongue, the Saxon words we still use when we're not trying to sound Norman—a 'good tree' is more than shade. It's shelter. It's kin. It's the tree your grandfather planted, the one your children will play under."
+"In the old tongue—your mother's tongue, the Saxon words we still use when we're not trying to sound Norman—a 'good tree' is more than shade. It's shelter. It's kin. It's the tree your grandfather planted, the one your children will play under."
 
 He looked at her.
 
-**Harold:** "A king doesn't speak of wolves and trees by accident, daughter. Not to a girl whose father he remembers. Not after sending his son to walk her home."
+"A king doesn't speak of wolves and trees by accident, daughter. Not to a girl whose father he remembers. Not after sending his son to walk her home."
 
-**Beatrice:** (very quiet) "What are you saying?"
+Very quiet: "What are you saying?"
 
-**Harold:** "I'm saying... when a king calls you a she-wolf, and promises to visit an old wolf he hasn't seen in twenty years, and sends his own cub to stand at your side..." He let it hang.
+"I'm saying… when a king calls you a she-wolf, and promises to visit an old wolf he hasn't seen in twenty years, and sends his own cub to stand at your side…"
 
-**Beatrice:** (after a long moment) "You think he means something."
+He let it hang.
 
-**Harold:** "I think he means everything. I just don't know what yet."
+After a long moment: "You think he means something."
+
+"I think he means everything. I just don't know what yet."
 
 He looked toward the door. Toward the tree line where the young man waited.
 
-**Harold:** "What have you left him outside for?"
+"What have you left him outside for?"
 
-**Beatrice:** "He said he'd wait. Give me time to tell you alone. He was... polite about it."
+"He said he'd wait. Give me time to tell you alone. He was… polite about it."
 
-**Harold:** "Polite." (almost a smile) "A king's son. Walking a maiden home. Waiting outside like a common suitor. And polite."
+"Polite." Almost a smile. "A king's son. Walking a maiden home. Waiting outside like a common suitor. And polite."
 
-**Beatrice:** "Father, you're frightening me."
+"Father, you're frightening me."
 
-**Harold:** (crossing to her, taking her hands) "Go and fetch him."
+He crossed to her, taking her hands. "Go and fetch him."
 
-**Beatrice:** "Now?"
+"Now?"
 
-**Harold:** "Now. And Beatrice—" He squeezed her hands. "When you speak to him... listen. Not to his words. To what he doesn't say."
+"Now. And Beatrice—" He squeezed her hands. "When you speak to him… listen. Not to his words. To what he doesn't say."
 
 ---
 
-## Chapter 8 — The Threshold
+## Chapter 13 — The Threshold
 
 The door closed behind her. Evening air, cool and soft. Godfrey still at the tree line, exactly where she left him. Waiting.
 
@@ -2081,35 +2063,35 @@ She walked toward him. He watched her approach. Read something in her face but s
 
 She stopped a few feet away.
 
-**Beatrice:** "He wants to meet you."
+"He wants to meet you."
 
-**Godfrey:** (quiet) "Is he well?"
+Quietly: "Is he well?"
 
-**Beatrice:** "He's... different." She shook her head. "He knew something. Before I said anything. He looked at me and it was like he was already halfway there."
+"He's… different." She shook her head. "He knew something. Before I said anything. He looked at me and it was like he was already halfway there."
 
-**Godfrey:** "To where?"
+"To where?"
 
-**Beatrice:** "I don't know. That's what I'm trying to understand."
+"I don't know. That's what I'm trying to understand."
 
 A pause. The forest breathed around them.
 
-**Godfrey:** "What did he say?"
+"What did he say?"
 
-**Beatrice:** "He asked what the king said to me. I told him. About the visit. About the she-wolf. About the wolf and the tree."
+"He asked what the king said to me. I told him. About the visit. About the she-wolf. About the wolf and the tree."
 
 Godfrey's face didn't change, but something in his eyes shifted.
 
-**Beatrice:** "You know what it means."
+"You know what it means."
 
-**Godfrey:** "I... I've heard my father speak that way. In parables. In old words. He doesn't say things plainly. Not the important things."
+"I… I've heard my father speak that way. In parables. In old words. He doesn't say things plainly. Not the important things."
 
-**Beatrice:** "What does it mean?"
+"What does it mean?"
 
-**Godfrey:** (carefully) "A wolf... a she-wolf... is someone who belongs to a pack. Who has people. Who is claimed. And a good tree—that's shelter. That's home."
+Carefully: "A wolf… a she-wolf… is someone who belongs to a pack. Who has people. Who is claimed. And a good tree—that's shelter. That's home."
 
 He met her eyes.
 
-**Godfrey:** "That's what a husband is supposed to provide. In the old songs. In the Saxon way."
+"That's what a husband is supposed to provide. In the old songs. In the Saxon way."
 
 She stared at him.
 
@@ -2122,33 +2104,33 @@ The king called her a she-wolf. The king said she would find shade under a good 
 
 The king sent his son to walk her home.
 
-**Beatrice:** (very quiet) "Oh."
+Very quiet: "Oh."
 
-**Godfrey:** "I'm sorry. I should have—"
+"I'm sorry. I should have—"
 
-**Beatrice:** (holding up a hand) "Don't. Don't apologize. Not again."
+She held up a hand. "Don't. Don't apologize. Not again."
 
 She breathed. Once. Twice.
 
-**Beatrice:** "You knew. In the hall. When he said it. You heard him."
+"You knew. In the hall. When he said it. You heard him."
 
-**Godfrey:** "Yes."
+"Yes."
 
-**Beatrice:** "And you still walked me home. You still waited outside. You still let me tell my father first."
+"And you still walked me home. You still waited outside. You still let me tell my father first."
 
-**Godfrey:** "Yes."
+"Yes."
 
-**Beatrice:** "Why?"
+"Why?"
 
-**Godfrey:** (simply) "Because you deserved to hear it from someone who loves you. Not from a stranger."
+Simply: "Because you deserved to hear it from someone who loves you. Not from a stranger."
 
 She didn't know what to say to that.
 
-**Beatrice:** (after a long moment) "Come inside. He's waiting."
+After a long moment: "Come inside. He's waiting."
 
 ---
 
-## Chapter 9 — The Blessing
+## Chapter 14 — The Blessing
 
 Harold was standing by the hearth when they entered. Not sitting. Standing. The staghound at his feet had risen, tail wagging slowly.
 
@@ -2158,63 +2140,61 @@ Harold looked at the young man. Long. Careful. The way old warriors look at youn
 
 Godfrey met his gaze. Didn't flinch. Didn't perform. Simply waited.
 
-**Harold:** (after a long moment) "You have your father's patience."
+After a long moment: "You have your father's patience."
 
-**Godfrey:** "I've been told that. Not always as a compliment."
+"I've been told that. Not always as a compliment."
 
-**Harold:** (almost smiles) "No. I don't suppose it was." He gestured to a stool. "Sit."
+Almost a smile. "No. I don't suppose it was." He gestured to a stool. "Sit."
 
 Godfrey sat.
 
 Harold lowered himself into his chair—slowly, because he must—but his eyes never left Godfrey.
 
-**Harold:** "She told me what the king said. About the wolf and the tree."
+"She told me what the king said. About the wolf and the tree."
 
-**Godfrey:** "Yes."
+"Yes."
 
-**Harold:** "You understood it."
+"You understood it."
 
-**Godfrey:** "I think so."
+"I think so."
 
-**Harold:** (nodding) "Good. Then you know what's coming."
+Nodding. "Good. Then you know what's coming."
 
-**Godfrey:** "I know what my father intends. Whether it comes... that depends on more than intention."
+"I know what my father intends. Whether it comes… that depends on more than intention."
 
-**Harold:** "On what?"
+"On what?"
 
-**Godfrey:** (glancing at Beatrice) "On her. On you. On whether this can be something other than a king's command."
+Glancing at Beatrice. "On her. On you. On whether this can be something other than a king's command."
 
 Beatrice's heart did something strange.
 
-Harold was quiet for a moment. Then:
+Harold was quiet for a moment. Then: "You walked her home. You waited outside. You let her tell me first." A pause. "Why?"
 
-**Harold:** "You walked her home. You waited outside. You let her tell me first." (pause) "Why?"
-
-**Godfrey:** "Because she's not a command. She's a person. I wanted her to know that someone sees that."
+"Because she's not a command. She's a person. I wanted her to know that someone sees that."
 
 Harold looked at him. Long and steady.
 
 Then, slowly, he nodded.
 
-**Harold:** "Your father and I... we're not young men. We've seen too much to believe in easy things. But I'll tell you what I believe: a man who waits, who watches, who sees—that man is worth more than a dozen princes who only know how to take."
+"Your father and I… we're not young men. We've seen too much to believe in easy things. But I'll tell you what I believe: a man who waits, who watches, who sees—that man is worth more than a dozen princes who only know how to take."
 
 He leaned forward, slightly.
 
-**Harold:** "She's all I have. This hall. These lands. Her. If this is some game—some court trick to use her and discard her—"
+"She's all I have. This hall. These lands. Her. If this is some game—some court trick to use her and discard her—"
 
-**Godfrey:** "It's not."
+"It's not."
 
-**Harold:** "How do I know that?"
+"How do I know that?"
 
-**Godfrey:** (quietly) "Because I'm still here. Because I could have sent guards. Could have left her at the gate. Could have done what any prince would do and treated this as a chore to be finished."
+Quietly: "Because I'm still here. Because I could have sent guards. Could have left her at the gate. Could have done what any prince would do and treated this as a chore to be finished."
 
 He looked at Harold directly.
 
-**Godfrey:** "I didn't. I walked. For miles. With a goose in a basket. And I didn't want it to end."
+"I didn't. I walked. For miles. With a goose in a basket. And I didn't want it to end."
 
 Harold saw it. Saw her face. Saw the young man's quiet honesty. Saw something he thought he'd never see again in this hall: possibility.
 
-**Harold:** (to Godfrey, softly) "You love her already."
+To Godfrey, softly: "You love her already."
 
 It wasn't a question.
 
@@ -2222,7 +2202,7 @@ Godfrey didn't answer. Didn't need to. His silence was answer enough.
 
 Harold looked at Beatrice. Then back at Godfrey. Then at the fire, where something old and tired seemed to brighten.
 
-**Harold:** "Then we have much to discuss." He gestured to Beatrice. "Daughter. Sit. This concerns you as much as anyone."
+"Then we have much to discuss." He gestured to Beatrice. "Daughter. Sit. This concerns you as much as anyone."
 
 She crossed the room. Sat on the stool beside Godfrey—not close, but not far. The fire warmed them both.
 
@@ -2234,9 +2214,9 @@ At some point, Goosie waddled out from wherever she'd been hiding. Approached Go
 
 Godfrey looked at her. Didn't move.
 
-**Godfrey:** (quietly) "Hello."
+Quietly: "Hello."
 
-Goosie cocks her head. Took a step closer. Then another.
+Goosie cocked her head. Took a step closer. Then another.
 
 Beatrice held her breath.
 
@@ -2244,15 +2224,15 @@ Goosie pressed her warm head against Godfrey's knee. Just once. Then waddled bac
 
 Harold laughed—a real laugh, surprised out of him.
 
-**Harold:** "Well. That's that, then."
+"Well. That's that, then."
 
-**Beatrice:** "What?"
+"What?"
 
-**Harold:** "The goose decides. Always did."
+"The goose decides. Always did."
 
 Godfrey looked down at his knee, where the warmth still lingered. Then at Beatrice. And for the first time, he smiled—a real smile, unguarded and young.
 
-**Godfrey:** "She knows who she is."
+"She knows who she is."
 
 Beatrice, despite everything, smiled back.
 
@@ -2260,19 +2240,19 @@ Beatrice, despite everything, smiled back.
 
 Later, at the door:
 
-**Godfrey:** (to Harold) "I'll come tomorrow. If I may."
+To Harold: "I'll come tomorrow. If I may."
 
-**Harold:** "You may."
+"You may."
 
 Godfrey looked at Beatrice. Just a look—warm, quiet, asking nothing.
 
-**Godfrey:** "Tomorrow, then."
+"Tomorrow, then."
 
 He went.
 
 Beatrice stood in the doorway, watching until the dark swallowed him.
 
-**Harold:** (from his chair) "Close the door, daughter. You'll let the cold in."
+From his chair: "Close the door, daughter. You'll let the cold in."
 
 She closed it.
 
@@ -2280,33 +2260,33 @@ But the warmth stayed.
 
 ---
 
-## Chapter 10 — First Court Exposure (November 1114)
+## Chapter 15 — First Court Exposure (November 1114)
 
 The weeks that followed were a blur of new faces, new rules, and new ways of falling wrong.
 
 Beatrice returned to court at Godfrey's side, uncertain what she was supposed to do or be. The first day, she wore her best gown—the same one she'd worn to the hall—and immediately felt its plainness among the silks and linens of the court ladies.
 
-**Lady Margaret** appeared at her elbow within the hour. A woman of perhaps thirty, with steady eyes and a voice that carried no judgment.
+Lady Margaret appeared at her elbow within the hour. A woman of perhaps thirty, with steady eyes and a voice that carried no judgment.
 
-**Lady Margaret:** "The Queen thought you might need guidance. I am to help with... whatever needs helping."
+"The Queen thought you might need guidance. I am to help with… whatever needs helping."
 
-**Beatrice:** (wary) "The Queen?"
+Beatrice was wary. "The Queen?"
 
-**Lady Margaret:** (almost smiling) "She has her reasons. Come. Let's start with who to curtsey to and who to simply nod at. It's more complicated than you'd think."
+Almost smiling. "She has her reasons. Come. Let's start with who to curtsey to and who to simply nod at. It's more complicated than you'd think."
 
 ---
 
 That first week, Beatrice met the half-sisters.
 
-**Alice** was the elder—twenty-one, dark-haired, with a smile that never reached her eyes. **Adela** was nineteen, fairer, quicker to laugh, but the laughter was often at someone's expense.
+Alice was the elder—twenty-one, dark-haired, with a smile that never reached her eyes. Adela was nineteen, fairer, quicker to laugh, but the laughter was often at someone's expense.
 
-**Alice:** (curtseying with exaggerated grace) "The goose girl. We've heard so much."
+Alice curtsied with exaggerated grace. "The goose girl. We've heard so much."
 
-**Adela:** (giggling) "Does she sleep in the barn?"
+Adela giggled. "Does she sleep in the barn?"
 
 Beatrice, who had slept in the barn plenty of times during kidding season, blinked.
 
-**Beatrice:** "No. The hall has a chamber. It's small, but warm."
+"No. The hall has a chamber. It's small, but warm."
 
 The sisters exchanged a glance. Beatrice had missed the insult entirely. Lady Margaret, watching from across the room, hid a smile.
 
@@ -2318,11 +2298,11 @@ The first formal dinner was a disaster.
 
 Beatrice sat near the foot of the table, surrounded by ladies who spoke over her and around her as if she weren't there. The array of knives and spoons was bewildering. She reached for the wrong one—a fish knife for the meat course—and a titter ran down the table.
 
-**Lady Margaret:** (quietly, from beside her) "The other one. The broader blade."
+Lady Margaret quietly, from beside her: "The other one. The broader blade."
 
 Beatrice switched, face burning. Across the hall, Alice whispered something to Adela. Both laughed.
 
-Godfrey, seated far above, caught her eye. He didn't smile. Didn't wave. Just... looked. And somehow, that was enough.
+Godfrey, seated far above, caught her eye. He didn't smile. Didn't wave. Just… looked. And somehow, that was enough.
 
 ---
 
@@ -2330,15 +2310,15 @@ The wine spill happened three days later.
 
 Beatrice was crossing the hall when Adela "accidentally" collided with her, sending a cup of red wine down the front of Beatrice's only good gown.
 
-**Adela:** (loudly) "Oh! I'm so sorry—how clumsy of me—"
+Adela loudly: "Oh! I'm so sorry—how clumsy of me—"
 
 Beatrice stood there, wine dripping onto the rushes, fighting the urge to cry.
 
-**Alice:** (sweetly) "Perhaps she should change. Oh, but she hasn't another gown, has she?"
+Alice sweetly: "Perhaps she should change. Oh, but she hasn't another gown, has she?"
 
 Lady Margaret appeared with cloths and a steadying hand.
 
-**Lady Margaret:** (low) "Don't react. That's what they want."
+Low: "Don't react. That's what they want."
 
 Beatrice didn't react. She let Margaret clean what could be cleaned, changed into a plain kirtle borrowed from a maid, and returned to the hall as if nothing had happened.
 
@@ -2348,101 +2328,101 @@ But Queen Matilda, watching from the high table, noted the set of Beatrice's jaw
 
 ---
 
-## Chapter 11 — Stanwey Interlude (Mid-November 1114)
+## Chapter 16 — Stanwey Interlude (Mid-November 1114)
 
 Godfrey visited Stanwey whenever he could slip away from court—a day here, an afternoon there. He helped with the manor in small ways: mending a hinge, checking stores, carrying wood. Harold watched him work.
 
-**Harold:** (to Beatrice, quietly) "He doesn't have to do this."
+To Beatrice, quietly: "He doesn't have to do this."
 
-**Beatrice:** "I know."
+"I know."
 
-**Harold:** "That's why it matters."
+"That's why it matters."
 
 ---
 
 One afternoon, Godfrey found Beatrice in the herb garden, Goosie pecking contentedly nearby. He sat on the bench beside her and said nothing for a long while.
 
-**Godfrey:** (finally) "I should have told you. That day. On the road."
+Finally, not looking up: "I should have told you. That day. On the road."
 
-**Beatrice:** (not looking up) "Told me what?"
+"Told me what?"
 
-**Godfrey:** "About the vow."
+"About the vow."
 
-**Beatrice:** "I know about the vow now. Father told me." She paused. "The next maid through the door. That was me."
+"I know about the vow now. Father told me." She paused. "The next maid through the door. That was me."
 
-**Godfrey:** "Yes."
+"Yes."
 
-**Beatrice:** "You knew. Before you walked me home."
+"You knew. Before you walked me home."
 
-**Godfrey:** "Yes."
+"Yes."
 
-**Beatrice:** (looking at him now) "Why didn't you tell me?"
+Looking at him now: "Why didn't you tell me?"
 
-**Godfrey:** (quiet) "Because I wanted you to be yourself. Just for a little while. Before you had to be something else."
+Quietly: "Because I wanted you to be yourself. Just for a little while. Before you had to be something else."
 
 She stared at him.
 
-**Beatrice:** "That's... strange."
+"That's… strange."
 
-**Godfrey:** (almost a smile) "I know."
+Almost a smile. "I know."
 
-**Beatrice:** (after a moment) "I like it."
+After a moment: "I like it."
 
 They sat together as the light faded. Goosie waddled between them.
 
-**Beatrice:** "What happens now?"
+"What happens now?"
 
-**Godfrey:** "Whatever you want."
+"Whatever you want."
 
 ---
 
-## Chapter 12 — Christmas Court (December 1114)
+## Chapter 17 — Christmas Court (December 1114)
 
 The court assembled at Westminster for Christmas. Nobles from across England, bishops, barons, and foreign visitors filled the halls. Beatrice, now dressed in gowns provided by the Queen's own seamstress, moved through the crowds with growing confidence.
 
 Then the Duchess of Brittany arrived.
 
-**Matilda FitzRoy**—Henry's daughter, Godfrey's half-sister—was eighteen, sharp-eyed, and came with her own suspicions. She had heard of the goose girl, the vow, the strange betrothal. She had come to see for herself.
+Matilda FitzRoy—Henry's daughter, Godfrey's half-sister—was eighteen, sharp-eyed, and came with her own suspicions. She had heard of the goose girl, the vow, the strange betrothal. She had come to see for herself.
 
-**Duchess:** (to Godfrey, privately) "Is she real, or have you lost your wits?"
+To Godfrey, privately: "Is she real, or have you lost your wits?"
 
-**Godfrey:** (simply) "She's real."
+Simply: "She's real."
 
-**Duchess:** "We'll see."
+"We'll see."
 
 ---
 
 The garden walk was cold but clear. The Duchess walked beside Beatrice, asking sharp questions about the manor, the village, the running of things. Beatrice answered directly, without pretense.
 
-**Duchess:** (pausing) "I remember this area. When my father hunted here, we stayed with a nurse a few miles away. She took us to see the farms."
+The Duchess paused. "I remember this area. When my father hunted here, we stayed with a nurse a few miles away. She took us to see the farms."
 
-**Beatrice:** (polite) "It's good land."
+Beatrice polite: "It's good land."
 
-**Duchess:** "There was an iron quarry somewhere here, and a big goose farm by the river bend."
+"There was an iron quarry somewhere here, and a big goose farm by the river bend."
 
-**Beatrice:** (laughs) "I know the one. Guarded by ferocious geese."
+Beatrice laughed. "I know the one. Guarded by ferocious geese."
 
 The Duchess looked at her strangely.
 
-**Duchess:** "I remember a girl, once. About my age. Being chased by those geese. My brother—Godfrey—laughed. Said the geese looked like they were winning."
+"I remember a girl, once. About my age. Being chased by those geese. My brother—Godfrey—laughed. Said the geese looked like they were winning."
 
 Beatrice stopped walking.
 
-**Duchess:** (frowning) "I don't know why I remember that. It was nothing. Just a moment."
+The Duchess frowned. "I don't know why I remember that. It was nothing. Just a moment."
 
-**Beatrice:** (very quiet) "I remember a boy. Who stopped geese. He spread his cloak—"
+Very quiet: "I remember a boy. Who stopped geese. He spread his cloak—"
 
-**Duchess:** (startled) "Like wings. Yes. I'd forgotten that."
+Startled. "Like wings. Yes. I'd forgotten that."
 
 They looked at each other.
 
-**Duchess:** (slowly) "That was you."
+Slowly: "That was you."
 
-**Beatrice:** "That was him."
+"That was him."
 
 A long pause.
 
-**Duchess:** (softly) "Well. The world is smaller than I thought."
+Softly: "Well. The world is smaller than I thought."
 
 ---
 
@@ -2452,7 +2432,7 @@ She told Beatrice privately: "My brother has waited his whole life to be seen. Y
 
 ---
 
-## Chapter 13 — The Darkest (January 1115)
+## Chapter 18 — The Darkest (January 1115)
 
 The new year brought new cruelties.
 
@@ -2470,11 +2450,11 @@ Beatrice left within the hour.
 
 She stayed at Stanwey for six days, sleeping by Harold's bed, feeding him broth, willing him to live. Godfrey came when he could, helping with the manor, sitting with Harold so Beatrice could rest.
 
-**Harold:** (to Godfrey, weakly) "You're still here."
+To Godfrey, weakly: "You're still here."
 
-**Godfrey:** "I said I'd wait."
+"I said I'd wait."
 
-**Harold:** (almost a smile) "So you did."
+Almost a smile. "So you did."
 
 ---
 
@@ -2484,11 +2464,11 @@ The next day, she overheard them.
 
 She was passing the servants' entrance when their voices carried:
 
-**Adela:** "She thinks she's one of them now. The goose girl."
+Adela: "She thinks she's one of them now. The goose girl."
 
-**Alice:** "He'll tire of her. They always do."
+Alice: "He'll tire of her. They always do."
 
-**Adela:** "Wait until Brittany offers again. Ten thousand marks. You think he'll choose a goose over that?"
+Adela: "Wait until Brittany offers again. Ten thousand marks. You think he'll choose a goose over that?"
 
 Beatrice didn't stay to hear more.
 
@@ -2498,89 +2478,87 @@ She found a window seat in a forgotten corridor, Goosie smuggled under her cloak
 
 She didn't hear the footsteps.
 
-**Queen:** (quietly) "You're meant to be at supper."
+Quietly: "You're meant to be at supper."
 
 Beatrice looked up, startled. The Queen stood before her—no attendants, no ladies. Just Matilda, in a simple gown.
 
-**Beatrice:** (rising, curtsying mechanically) "I wasn't hungry, Your Grace."
+Beatrice rose, curtsying mechanically. "I wasn't hungry, Your Grace."
 
-**Queen:** (glancing at Goosie) "The goose is meant to be in the kitchens."
+The Queen glanced at Goosie. "The goose is meant to be in the kitchens."
 
-**Beatrice:** (protectively) "She's with me."
+Protectively: "She's with me."
 
 The Queen studied her. Then, unexpectedly, she sat on the window seat. Not beside Beatrice—a little apart. But sitting.
 
-**Queen:** "You heard something."
+"You heard something."
 
 Beatrice said nothing.
 
-**Queen:** "I've been Queen long enough to know that look. It's the look of someone who's just discovered what people say when they think you can't hear."
+"I've been Queen long enough to know that look. It's the look of someone who's just discovered what people say when they think you can't hear."
 
 Beatrice's throat tightened.
 
-**Queen:** "What did they say?"
+"What did they say?"
 
-**Beatrice:** (after a long moment) "That he'll tire of me. That when Brittany offers again, he'll choose that instead. That I'm a goose girl playing at being someone else."
+After a long moment: "That he'll tire of me. That when Brittany offers again, he'll choose that instead. That I'm a goose girl playing at being someone else."
 
 The Queen was quiet. The winter light faded.
 
-Then:
-
-**Queen:** "I was not born Matilda."
+Then: "I was not born Matilda."
 
 Beatrice looked at her.
 
-**Queen:** "I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the Norman court called me 'the Saxon girl.' They whispered that I'd bring barbarian ways. That I'd never understand how to be queen."
+"I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the Norman court called me 'the Saxon girl.' They whispered that I'd bring barbarian ways. That I'd never understand how to be queen."
 
 She met Beatrice's eyes.
 
-**Queen:** "That was fourteen years ago. I am still here."
+"That was fourteen years ago. I am still here."
 
 Beatrice didn't know what to say.
 
-**Queen:** "The people who whispered then? Most are gone. Forgotten. I am Queen of England."
+"The people who whispered then? Most are gone. Forgotten. I am Queen of England."
 
 She leaned forward slightly.
 
-**Queen:** "You want to know what I think of this match?"
+"You want to know what I think of this match?"
 
 Beatrice waited.
 
-**Queen:** "At first, I hated it. Not because of you—I didn't know you. Because of what it meant for William. My son. The heir. Every piece of attention Godfrey gets, every scrap of affection, every whispered 'he's a king's son too'—I saw it as a threat."
+"At first, I hated it. Not because of you—I didn't know you. Because of what it meant for William. My son. The heir. Every piece of attention Godfrey gets, every scrap of affection, every whispered 'he's a king's son too'—I saw it as a threat."
 
-**Beatrice:** (quietly) "I understand."
+Quietly: "I understand."
 
-**Queen:** "Do you?"
+"Do you?"
 
-**Beatrice:** "I have no brothers. But if I did... if my father had someone else to leave the manor to... I'd want to protect what was mine too."
+"I have no brothers. But if I did… if my father had someone else to leave the manor to… I'd want to protect what was mine too."
 
 The Queen looked at her. Really looked.
 
-**Queen:** (slowly) "Yes. You do understand."
+Slowly: "Yes. You do understand."
 
 A silence.
 
-**Queen:** "I've been watching you. These past weeks. The way you speak to servants. The way you tend the sick in the village. The way you handle my ladies—their whispers, their snubs, their little cruelties. You don't fight. You don't flinch. You just... go on being yourself."
+"I've been watching you. These past weeks. The way you speak to servants. The way you tend the sick in the village. The way you handle my ladies—their whispers, their snubs, their little cruelties. You don't fight. You don't flinch. You just… go on being yourself."
 
 She paused.
 
-**Queen:** "That's rarer than you know."
+"That's rarer than you know."
 
 Beatrice's eyes stung.
 
-**Queen:** "My son William is twelve. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are."
+"My son William is twelve. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are."
 
 She reached out. Just for a moment, her hand touched Beatrice's.
 
-**Queen:** "Godfrey has found one. I see that now."
+"Godfrey has found one. I see that now."
 
 She rose.
 
-**Queen:** "As for Brittany—ten thousand marks is silver. It buys soldiers, ships, alliances. It does not buy a wife who will sit in a cold window seat with a goose and understand without being told."
+"As for Brittany—ten thousand marks is silver. It buys soldiers, ships, alliances. It does not buy a wife who will sit in a cold window seat with a goose and understand without being told."
 
 She moved toward the door. Paused.
 
-**Queen:** "You are not a goose girl playing at being someone else. You are exactly who you are. That is why my stepson—who has watched and waited his whole life—chose you before he even knew he could."
+"You are not a goose girl playing at being someone else. You are exactly who you are. That is why my stepson—who has watched and waited his whole life—chose you before he even knew he could."
 
 She went.
 
@@ -2592,7 +2570,7 @@ Then, slowly, she pressed her face into Goosie's feathers and let herself cry.
 
 ---
 
-## Chapter 14 — The Queen's Protection (Late January 1115)
+## Chapter 19 — The Queen's Protection (Late January 1115)
 
 The next morning, Beatrice found a small bundle outside her chamber door.
 
@@ -2610,7 +2588,7 @@ The half-sisters had planned something. Beatrice knew it—she'd seen the glance
 
 But when the moment came, nothing happened.
 
-Alice dropped her wine cup—no spill. Adela's cutting remark died on her lips as the Queen's gaze swept past. Every trap, every cruelty, every planned humiliation simply... failed.
+Alice dropped her wine cup—no spill. Adela's cutting remark died on her lips as the Queen's gaze swept past. Every trap, every cruelty, every planned humiliation simply… failed.
 
 Beatrice caught the Queen's eye across the hall. Matilda gave the smallest of nods.
 
@@ -2630,7 +2608,7 @@ Later, Beatrice learned that the Queen had spoken to Roger privately the night b
 
 ---
 
-## Chapter 15 — Public Turn (February - March 1115)
+## Chapter 20 — Public Turn (February - March 1115)
 
 **14 February 1115 — Feast of St. Valentine**
 
@@ -2638,15 +2616,15 @@ The feast was crowded, noisy, suffocating. Beatrice moved through it as she alwa
 
 Then the Queen rose.
 
-**Queen:** (voice carrying) "A moment."
+"A moment."
 
 The hall stilled.
 
-**Queen:** "It has come to my attention that certain persons have seen fit to question the king's judgment in the matter of his son's betrothal."
+"It has come to my attention that certain persons have seen fit to question the king's judgment in the matter of his son's betrothal."
 
 A murmur. Alice and Adela went pale.
 
-**Queen:** (looking directly at them) "Let me be clear. The king's vow is sacred. His choice is final. And the lady Beatrice—" She paused, letting the weight settle. "—has my full support. Any who trouble her trouble me."
+Looking directly at them: "Let me be clear. The king's vow is sacred. His choice is final. And the lady Beatrice—" She paused, letting the weight settle. "—has my full support. Any who trouble her trouble me."
 
 She sat.
 
@@ -2674,17 +2652,17 @@ Harold, recovered enough to travel, visited court for the first time.
 
 He stood in the great hall, leaning on his daughter's arm, and faced the court that had whispered about her. The staghound, brought along despite all sense, sat at his feet.
 
-**Harold:** (to Godfrey, loud enough to carry) "You've done well, boy."
+To Godfrey, loud enough to carry: "You've done well, boy."
 
-**Godfrey:** "I've tried."
+"I've tried."
 
-**Harold:** (looking at Beatrice) "She's worth trying for."
+Looking at Beatrice: "She's worth trying for."
 
 He didn't say more. He didn't need to.
 
 ---
 
-## Chapter 16 — Wedding Preparations (March - April 1115)
+## Chapter 21 — Wedding Preparations (March - April 1115)
 
 The weeks before the wedding were a whirlwind of fittings, feast planning, and last-minute diplomacy.
 
@@ -2702,37 +2680,37 @@ Beatrice read it three times. Then she tucked it into the small chest that held 
 
 Godfrey found her in the herb garden, alone.
 
-**Godfrey:** "You should be sleeping."
+"You should be sleeping."
 
-**Beatrice:** "So should you."
+"So should you."
 
 He sat beside her.
 
-**Godfrey:** "I should have told you sooner. About the vow. About all of it."
+"I should have told you sooner. About the vow. About all of it."
 
-**Beatrice:** "You told me when it mattered."
+"You told me when it mattered."
 
-**Godfrey:** "When was that?"
+"When was that?"
 
-**Beatrice:** (looking at him) "When you asked my father. When you waited outside. When you walked me home and didn't say a word." She paused. "You let me choose. Before I knew there was a choice."
+Looking at him: "When you asked my father. When you waited outside. When you walked me home and didn't say a word." She paused. "You let me choose. Before I knew there was a choice."
 
-**Godfrey:** (quiet) "I wanted you to choose me. Not the vow."
+Quietly: "I wanted you to choose me. Not the vow."
 
-**Beatrice:** "I know."
+"I know."
 
 They sat together as the stars wheeled overhead.
 
-**Godfrey:** "Are you afraid?"
+"Are you afraid?"
 
-**Beatrice:** (considering) "A little."
+Considering: "A little."
 
-**Godfrey:** "Me too."
+"Me too."
 
-**Beatrice:** (surprised) "You?"
+Surprised: "You?"
 
-**Godfrey:** "What if I'm not enough? What if the shadow never really goes away?"
+"What if I'm not enough? What if the shadow never really goes away?"
 
-**Beatrice:** (taking his hand) "Then I'll be the light."
+Taking his hand: "Then I'll be the light."
 
 He looked at her. For a long moment, neither spoke.
 
@@ -2742,13 +2720,13 @@ Goosie waddled between them, settled in Beatrice's lap, and tucked her head unde
 
 Godfrey laughed—a real laugh, warm and young.
 
-**Godfrey:** "She knows who she is."
+"She knows who she is."
 
-**Beatrice:** "So do I."
+"So do I."
 
 ---
 
-## Chapter 17 — The Wedding (Spring 1115)
+## Chapter 22 — The Wedding (Spring 1115)
 
 Their wedding was held in the spring, when the oak trees of Rockingham forest were heavy with new green.
 
@@ -2764,11 +2742,11 @@ When the wedding procession left the church porch, a plump white goose waddled p
 
 Someone in the crowd chuckled.
 
-**Voice:** "Look there—the goose leads the bride."
+"Look there—the goose leads the bride."
 
 An old woman nearby nodded knowingly.
 
-**Old Woman:** "Aye. Did I never tell you? In Mercia they say a goose may wend where a King must wait."
+"Aye. Did I never tell you? In Mercia they say a goose may wend where a King must wait."
 
 And so it did.
 
@@ -2794,7 +2772,7 @@ And Goosie lived to be very old indeed, long past the time when geese should die
 
 ---
 
-**“A goose may wend where a King must wait.”**
+**"A goose may wend where a King must wait."**
 
 Foolish village talk to some. In Mercia, however, wise women still tell how a young woman proved the saying strangely true.
 
@@ -2811,273 +2789,24 @@ And if you walk the old Roman road on a spring morning, past the farm by the riv
 
 
 
-REMAINDER
+TO DO
 
 ==========================================================
 
+1. silent prayer offered by Beatrice outside the hall on the steps
+2. A little less on the 'tree' saying maybe.
+3. Matilda wrote to her mother or father or betrothed, not her 'husband'. -- perhaps we simply put in a fact note acknowledging such effect.
+4. I'll be a light -> I'll be your lantern in the darkness.
+5. decide on bide vs wait, and unify all three instances.
+6. eventually we want a full table of who is whom included.
 
 
 
 
 
-## A Dark Place
 
-### Some Weeks into the Courtship
 
-Beatrice has been to court twice. The first time, she endured the whispers. The second time, she answered them with such plain good sense that even the Queen's ladies fell silent.
 
-But tonight, alone in a small chamber off the great hall, she has heard something she cannot answer.
-
-A cluster of noblewomen, unaware she was just around the corner:
-
-*"She thinks she's one of them now. The goose girl."*
-
-*"He'll tire of her. Men do. Especially when the king's will isn't behind it anymore."*
-
-*"The king's will? That was a whim. A mood. He's probably forgotten already."*
-
-*"Wait until the Brittany marriage is proposed again. Ten thousand marks. You think he'll choose a goose over that?"*
-
-Beatrice didn't stay to hear more.
-
-She is sitting now on a cold stone window seat, Goosie (smuggled in, against all rules) pressed against her side. The goose's warmth is the only steady thing.
-
-She should leave. Should walk back to Stanwey tonight, before—
-
-A footstep.
-
-She looks up.
-
-Queen Matilda stands in the doorway.
-
-Not attended. No ladies. Just the Queen, in a simple gown, her face unreadable.
-
-**Matilda:** You're meant to be at supper.
-
-**Beatrice:** (rising, curtsying mechanically) I wasn't hungry, your Majesty.
-
-**Matilda:** (glancing at Goosie) The goose is meant to be in the kitchens.
-
-**Beatrice:** (protectively) She's with me.
-
-A pause. The Queen studies her. Then, unexpectedly, she moves to the window seat and sits. Not beside Beatrice—a little apart. But sitting.
-
-**Matilda:** You heard something.
-
-Beatrice says nothing.
-
-**Matilda:** (quietly) I've been Queen long enough to know that look. It's the look of someone who's just discovered what people say when they think you can't hear.
-
-Beatrice's throat tightens.
-
-**Matilda:** What did they say?
-
-**Beatrice:** (after a long moment) That he'll tire of me. That the king's will was a whim. That when Brittany offers ten thousand marks again, he'll choose that instead.
-
-She stops. Breathes.
-
-**Beatrice:** That I'm a goose girl playing at being someone else.
-
-The Queen is quiet. The fire crackles.
-
-Then:
-
-**Matilda:** I was not born Matilda.
-
-Beatrice looks at her.
-
-**Matilda:** I was born Edith. In Scotland. To a Saxon mother and a Scottish king. When I came to England to marry Henry, the Norman court called me "the Saxon girl." They whispered that I'd bring barbarian ways. That I'd never understand how to be queen.
-
-She meets Beatrice's eyes.
-
-**Matilda:** That was twenty years ago. I am still here.
-
-Beatrice doesn't know what to say.
-
-**Matilda:** The people who whispered then? Most are gone. Forgotten. I am Queen of England.
-
-She leans forward slightly.
-
-**Matilda:** You want to know what I think of this match?
-
-Beatrice waits.
-
-**Matilda:** At first, I hated it. Not because of you—I didn't know you. Because of what it meant for William. My son. The heir. Every piece of attention Godfrey gets, every scrap of affection, every whispered "he's a king's son too"—I saw it as a threat.
-
-**Beatrice:** (quietly) I understand.
-
-**Matilda:** Do you?
-
-**Beatrice:** I have no brothers. But if I did... if my father had someone else to leave the manor to... (she shrugs) I'd want to protect what was mine too.
-
-The Queen looks at her. Really looks.
-
-**Matilda:** (slowly) Yes. You do understand.
-
-A silence. Then:
-
-**Matilda:** I've been watching you. These past weeks. The way you speak to servants. The way you tend the sick in the village. The way you handle my ladies—their whispers, their snubs, their little cruelties. You don't fight. You don't flinch. You just... go on being yourself.
-
-She pauses.
-
-**Matilda:** That's rarer than you know.
-
-Beatrice's eyes sting. She blinks rapidly.
-
----
-(insert to edit/contextualise surrounding text - evidences the Queen's character/piety/mindset)
-The Queen motions her maids to the far end of the hall. She waits until the rustle of their kirtles fades before she speaks, her voice dropping into the rhythmic, grounded English of her ancestors.
-
-"You have a fair light in your eyes, child," the Queen says, her gaze kind but heavy with the wisdom of a woman who has survived the shifting tides of the Norman court. "And Godfrey is a good youth—strong of limb and honest of wit. It is a rare mercy to wed a man you might also call a friend."
-
-She reaches out, taking the girl's hand, her grip surprisingly firm.
-
-"But heed me well, for the days are long and the world is weary. In all this provisional earth, my dear, there is none found whom you may truly trust—not even thine own shifting soul—save for God alone. Trust not overmuch in the strength of any man, for even the dearest fall as dust; nor lean upon thine own unsteadfast wit, for our feelings are but a vapour that changes with the wind."
-
-Beatrice looks as if she might protest, her heart full of the boy she loves, but Matilda continues.
-
-"Do not mistake me. Love him well. But do not make a god of him, nor a sanctuary of your own young heart. For hearts are fickle things, and men are but flesh. Put thy whole hope in the Lord, for He alone is the true Rock that no winter can crack. Keep this always in thy remembrance: love the lad, but lean only upon the King of Heaven. Only then will your house stand when the storms of Mercia break against it."
-
-She pats the girl's hand, a silent dismissal, and looks back toward the dying fire.
-
-"Find your joy, but keep your anchor in the Deep."
-
----
-
-
-
-
-
-**Matilda:** My son William is eleven. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are.
-
-She reaches out. Just for a moment, her hand touches Beatrice's.
-
-**Matilda:** Godfrey has found one. I see that now.
-
-She rises.
-
-**Matilda:** As for Brittany—ten thousand marks is silver. It buys soldiers, ships, alliances. It does not buy a wife who will sit with a frightened girl in a cold window seat and understand her without being told.
-
-She moves toward the door. Pauses.
-
-**Matilda:** You are not a goose girl playing at being someone else. You are exactly who you are. That is why my stepson—who has watched and waited his whole life—chose you before he even knew he could.
-
-She goes.
-
-Beatrice sits alone with Goosie, the goose's warmth against her side.
-
-For a long time, she doesn't move.
-
-Then, slowly, she presses her face into Goosie's feathers and lets herself cry—just a little, just enough.
-
----
-
-### Later — Godfrey Finds Her
-
-He's been searching. His face, when he sees her, is tight with worry.
-
-**Godfrey:** I looked everywhere. They said you'd left the hall, and I thought—
-
-**Beatrice:** I'm here.
-
-He crosses to her. Kneels beside the window seat. Sees her face.
-
-**Godfrey:** What happened?
-
-**Beatrice:** (quietly) Your mother.
-
-His face shifts—wary, protective.
-
-**Beatrice:** No. Not like that. She... (she shakes her head, wondering) She sat with me. She told me about being Edith. About the whispers. She said... she said you chose me.
-
-Godfrey is very still.
-
-**Beatrice:** Did you? Choose me? Before you knew about the vow?
-
-He meets her eyes.
-
-**Godfrey:** In the hall. When you burst in after your goose. When you spoke to my father like he was just a man. When you looked at me—just for a moment, when you first entered—and didn't look away.
-
-He reaches for her hand. Slowly, giving her time to pull back.
-
-She doesn't.
-
-**Godfrey:** I didn't know about the vow then. I just knew I wanted to know who you were.
-
-**Beatrice:** (very soft) Oh.
-
-**Godfrey:** The vow gave me permission to walk you home. It didn't make me want to.
-
-They sit together in the window seat, Goosie between them, the night cold beyond the glass.
-
-**Beatrice:** (after a long moment) I heard things tonight. Cruel things. About me. About us. About what will happen when Brittany offers again.
-
-Godfrey's jaw tightens.
-
-**Godfrey:** Brittany can offer. My father can command. But I— (he stops, starts again) I've spent my whole life being told what to do, where to go, who to be. This is the first thing I've wanted for myself.
-
-He looks at her.
-
-**Godfrey:** I'm not letting it go.
-
-Beatrice looks at him. This quiet young man who waited at the tree line. Who asked her father. Who is still here.
-
-**Beatrice:** (almost a smile) You're strange.
-
-**Godfrey:** (matching it) I know.
-
-Goosie honks.
-
-They both laugh—a little wetly, a little worn, but together.
-
----
-
-### The Next Morning
-
-The Queen, breaking her fast, finds a small bundle outside her chamber door.
-
-Inside: a bunch of dried herbs, carefully bundled, with a note in an uneducated hand:
-
-*For sleepless nights. Steep in hot water. Thank you.*
-
-*—B.*
-
-The Queen's ladies wonder at her expression. It's almost a smile.
-
----
-
-
-
-
-
-
-REMAINDER TO REWRITE MAYBE
-
-## The Goose Bride
-
-Their wedding was held the following spring, when the oak trees of Rockingham forest were heavy with new green.
-
-Nobles came reluctantly at first, expecting scandal.
-
-Instead they found a bright-eyed bride who moved through the court with quiet confidence of a Lady of the Hall.
-
-Even the queen eventually softened and called it a good thing.
-
-Harold watched with a wet eye, knowing that his landhold was revived and the village Reeve would answer to a son-in-law of royal blood."
-
-When the wedding procession left the church porch, a plump white goose waddled proudly ahead of them, its neck stretched high as if it wore a crown of its own.
-
-Someone in the crowd chuckled.
-
-“Look there — the goose leads the bride.”
-
-An old woman nearby nodded knowingly.
-
-“Aye,” she said.
-
-“Did I never tell you? In Mercia they say a goose may wend where a King must wait."
-
-And so it did.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
