@@ -305,7 +305,7 @@ She lifted Goosie—who had followed, always—and held her so that the goose's 
 
 At the burial, Harold stood like a man made of stone. His hands were on Beatrice's shoulders—heavy, warm, the only warm thing—but he didn't speak. Didn't move. Just watched as they lowered the plain wooden box into the rich earth.
 
-The apple blossoms were still blooming. Beatrice hated them.
+The apple blossoms were still blooming. Beatrice hated them for it.
 
 Afterward, she ran.
 
