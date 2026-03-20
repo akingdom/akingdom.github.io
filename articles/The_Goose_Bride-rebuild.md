@@ -398,7 +398,7 @@ Beatrice nodded. "The purveyors... the Abbot... there is nothing."
 
 The nurse sighed, wiping her hands on her apron. "When you've kept geese for a king's son, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids in 1113, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we'd recover by this summer, but the King's own host has been marching this year, and they're taking the young birds before they can even grow fat. I've nothing left but scrawny things—all bone and pin-feathers."
 
-"I cannot bear to send my Goosie to the King. Surely there is another," Beatrice pleaded.
+"I can't bear to send Goosie. Surely there is another," Beatrice pleaded.
 
 The nurse looked toward the poultry shed. "Only the old gander. He's the last of the 1112 stock—"
 
