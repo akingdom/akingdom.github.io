@@ -2566,7 +2566,116 @@ Kept in Harold's recognition scene (essential), but removed from later echoes.
 The goose leads. The women approve. The story is ready.
 
 
+TODO (3)
 
+I’ll give you a **brutally honest** review from the perspective of a site or reader who expects a tight, emotionally satisfying historical romance. I’ll list what’s missing—the gaps that will be called out—and then give a concrete plan to fill them.
+
+---
+
+## What’s Missing (The Brutal Rundown)
+
+### 1. **A Clear Climactic Confrontation**
+The story builds tension beautifully, but the resolution feels diffuse. The wedding is lovely, but there’s no **single, high‑stakes scene** where the central conflict—Beatrice proving she belongs, Godfrey stepping out of the shadows, the court accepting them—reaches a peak and breaks.
+
+- Sir Guy’s legal challenge (Ch. 19) is dismissed *off‑stage* by Roger of Salisbury. That robs us of a satisfying face‑off.
+- The half‑sisters’ hostility fizzles after the Queen’s public statement (Ch. 20). They disappear without a scene where Beatrice confronts them or earns their grudging respect.
+- Godfrey’s internal arc—“the shadow”—is talked about but never tested in a moment where he must act decisively.
+
+**Result**: The ending feels like a series of small victories rather than a hard‑won triumph.
+
+### 2. **Godfrey’s Agency Is Underdeveloped**
+He’s a sympathetic watcher, but we never see him **choose** Beatrice with his own will *after* the vow. The vow itself is the King’s impulsive act. Godfrey’s subsequent actions (walking her home, visiting Stanwey) are dutiful or kind, but not presented as a rebellion against his father’s command or a conscious claiming of his own life.
+
+- A scene where he explicitly says “I want this” to the King (or to himself) is missing.
+- His relationship with his half‑sisters and Sir Guy is never addressed; he never defends Beatrice directly.
+
+### 3. **The Antagonists Lack Depth and Resolution**
+- **Sir Guy** is a cartoon bully. He disappears after the legal challenge is dismissed. No final scene, no comeuppance that Beatrice or Godfrey witnesses.
+- **Avice and Eustacia** are one‑note. They insult Beatrice, get silenced by the Queen, and then “married well and moved away” in the epilogue. We never see a moment where Beatrice rises above them or where they’re forced to acknowledge her worth.
+- **The “Brittany threat”** (Agnes of Brittany) is mentioned repeatedly but never materializes as a real obstacle. No scene where Conan’s envoys arrive, no moment where Godfrey must refuse the ten thousand marks.
+
+### 4. **The Goose Motif Is Underutilized**
+The opening proverb (“A goose may wend where a king must bide”) is a wonderful hook. But apart from Goosie’s comic relief and the final image, the proverb’s deeper meaning—that the humble, persistent, true‑hearted can go where power cannot—is never **articulated** in the plot. Beatrice’s “goose‑like” qualities (tenacity, loyalty, being underestimated) are shown, but the story doesn’t tie them to the proverb in a culminating way.
+
+### 5. **Historical Texture Is Light**
+The setting feels like “castle, king, court” with generic medieval trappings. For a story grounded in 12th‑century England (Henry I, the White Ship disaster is referenced obliquely), there’s little period specificity:
+- The legal/political system (escheat, wardship, the King’s justice) is mentioned but not dramatized.
+- The tension between Normans and Saxons is introduced (Harold Red‑Wolf, the “civilising” comment) but fades after the wedding.
+- The Church is almost invisible (a priest appears briefly, but no ecclesiastical politics).
+
+### 6. **The Love Declaration Feels Rushed**
+Beatrice’s “the man you love” (Ch. 21) comes after a single conversation about shadows. There’s no **gradual build** of physical or emotional intimacy—no shared glances, small touches, or private moments that show her falling in love. The reader is told they’ve been spending time together, but we don’t *see* enough of it.
+
+### 7. **The Queen’s Transformation, While Good, Skips a Beat**
+We see her move from opposition to a private conversation (Ch. 18) to public protection (Ch. 20). But the **catalyst** for her change is unclear. Why does she suddenly decide to support Beatrice? Her line “You were the best of my accidents” implies she now sees value in the match, but the story doesn’t show what convinced her—beyond one garden talk.
+
+### 8. **Harold’s Death Is Handled in the Epilogue**
+His death (and the staghound’s) is mentioned in a single paragraph. For a character who anchored Beatrice’s motivation and provided emotional weight, his passing deserves a scene—or at least a moment where Beatrice grieves and Godfrey supports her.
+
+### 9. **No Final Test of the Relationship**
+After the wedding, there’s no external threat that forces Beatrice and Godfrey to prove their bond. The epilogue summarizes their happy life, but we don’t see them face a crisis together. In romance structure, the “black moment” (where all seems lost) is missing.
+
+---
+
+## Plan to Address the Gaps
+
+### 1. **Add a Climactic Confrontation Scene**
+- **Replace the off‑stage dismissal of Sir Guy’s claim** with a public hearing in the King’s hall. Beatrice must argue for Stanwey herself (drawing on her knowledge of the manor and her mother’s lessons). Godfrey speaks in her defense—publicly choosing her over his status. The Queen, already converted, quietly supports. Sir Guy is humiliated and banished from court.
+- **Combine this with a final confrontation with the half‑sisters.** After Beatrice wins the legal case, Avice and Eustacia attempt one last slight. Beatrice turns to them and delivers a quiet, devastating line (e.g., “I am sorry you were never seen. But that is not my fault.”). They are forced to curtsey to her, and the court sees it.
+
+### 2. **Give Godfrey a Moment of Agency**
+- **Add a scene after the Queen’s public protection (Ch. 20) where Godfrey goes to his father.** He thanks the King for the vow, but says: “I would have chosen her anyway.” He explains why—tying back to the childhood meeting and the qualities he sees in her. This shows him stepping out of the shadow.
+- **In the legal hearing, have Godfrey speak before the court**—not just as the King’s son, but as Beatrice’s intended, stating that Stanwey is hers by right and he will defend it.
+
+### 3. **Deepen the Antagonists**
+- **Give Avice and Eustacia a brief backstory** (through Lady Margaret or a short scene) explaining their bitterness. Perhaps their own marriages were arranged poorly, or they were denied dowries. This makes their defeat more resonant.
+- **Give Sir Guy a final scene**—not redemption, but a moment where he realizes he’s been outmaneuvered by a “goose girl.” He leaves court disgraced, maybe with a bitter line that echoes his earlier arrogance.
+- **Introduce a tangible “Brittany threat”** —an envoy from Conan arrives at court, offering the ten thousand marks directly to Henry. Godfrey must publicly refuse it, stating his commitment to Beatrice. This raises the stakes and gives him an active choice.
+
+### 4. **Weave the Goose Proverb into the Plot’s Resolution**
+- In the legal hearing, have Beatrice use the proverb in her argument. She might say: “A goose may wend where a king must bide. My goose brought me to your hall, and your vow bound us. But it is not the vow that holds me—it is my own two feet. I have walked every field of Stanwey. I have tended its people. No knight who has never mucked a stable can claim it.”
+- In the epilogue, the old woman’s line is already there. Strengthen it by having someone repeat it during the wedding, linking back to the opening.
+
+### 5. **Add Historical Texture**
+- **Incorporate a real historical detail:** the White Ship disaster (1120) is in the future, but you could hint at it (e.g., a sailor’s song, a worried look from the Queen). Or use the Investiture Controversy to show church involvement. Even small touches—a mention of the exchequer, a scene in the treasury with Roger of Salisbury—would ground the story.
+- **Show the Norman‑Saxon tension** in a minor subplot: maybe a village dispute where Beatrice uses her Saxon heritage to mediate, proving her worth to Norman knights.
+
+### 6. **Build the Romance More Gradually**
+- **Add two or three small scenes** between Chapters 15 and 21 where Beatrice and Godfrey interact privately—a walk in the garden, a shared meal, a moment of vulnerability. Show his quiet humor, her growing ease. Use small physical details: a brush of hands, a glance held too long.
+- **Move the “the man you love” confession earlier**—or at least show Beatrice realizing it before she blurts it out. A moment of internal reflection would make it feel less abrupt.
+
+### 7. **Clarify the Queen’s Conversion**
+- **Add a scene** between the garden talk (Ch. 18) and the public declaration (Ch. 20) where the Queen observes something that changes her mind. For instance: she sees Beatrice comforting a crying servant child, or hears how Beatrice managed Stanwey during Harold’s illness. The Queen then says to herself (or to Lady Margaret) something like, “She is what this court needs—someone who sees people, not positions.”
+
+### 8. **Give Harold’s Death a Scene**
+- Move Harold’s death from the epilogue to a chapter of its own. Show Beatrice receiving the news, the journey home, the vigil. Godfrey stays by her side. This gives emotional weight and shows his support in crisis. It also makes the epilogue’s summary feel like a graceful skip forward, not a gloss.
+
+### 9. **Add a “Black Moment” Crisis**
+- **Introduce a final obstacle after the wedding** that tests their bond. For example:
+  - The King demands Godfrey accompany him to Normandy for a year, separating the newlyweds.
+  - A false rumor spreads that the marriage is invalid (because of the vow’s irregularity) and Beatrice is sent away.
+  - Beatrice miscarries their first child (though that might be too heavy).
+- This crisis should force both characters to act: Godfrey defies the King (or proves himself), Beatrice holds Stanwey alone. They overcome it together, cementing their partnership. The epilogue can then show their later life with earned happiness.
+
+---
+
+## Summary of Recommended Revisions (Priority Order)
+
+| Priority | Gap | Solution |
+|----------|-----|----------|
+| **1** | Missing climax | Add public hearing / confrontation with Sir Guy and half‑sisters; Godfrey speaks in court. |
+| **2** | Godfrey’s agency | Add scene with King where Godfrey claims his choice; include his public defense of Beatrice. |
+| **3** | Romance build | Add 2‑3 private scenes before love confession; deepen physical/emotional intimacy. |
+| **4** | Black moment | Add a crisis after wedding that forces them to prove their bond. |
+| **5** | Antagonist resolution | Give Sir Guy a final scene; flesh out half‑sisters’ motivation and defeat. |
+| **6** | Queen’s arc catalyst | Add a scene where she sees Beatrice’s worth (between Ch. 18 and 20). |
+| **7** | Harold’s death | Move to a full chapter; show grief and Godfrey’s support. |
+| **8** | Goose motif | Weave proverb into legal hearing or wedding speech. |
+| **9** | Historical texture | Add specific 12th‑century details (exchequer, church, White Ship hint). |
+
+---
+
+TODO (4) -- revise student questions
 
 
 
