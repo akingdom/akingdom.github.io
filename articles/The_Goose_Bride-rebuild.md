@@ -305,25 +305,21 @@ She lifted Goosie—who had followed, always—and held her so that the goose's 
 
 At the burial, Harold stood like a man made of stone. His hands were on Beatrice's shoulders—heavy, warm, the only warm thing—but he didn't speak. Didn't move. Just watched as they lowered the plain wooden box into the rich earth.
 
-The apple blossoms were still blooming. Beatrice hated them for it.
+The apple trees were still blooming, white petals drifting on the wind. Beatrice hated them for their indifference. She would gladly have stripped every twig bare, if stripping the trees could bring her mother back. She ran from them like a bird flying away. Goosie flapped alongside her, wings half-spread and honking in a frantic, confused rhythm. She bolted through the orchard, past the village and the open fields, her breath coming in ragged stabs. 
 
-Afterward, she ran.
+She ran until her lungs burned and her legs turned to lead. Doubled over, she clutched her knees and waited for the horizon to stop heaving. 
 
-Not toward anything. Just away. Through the village, past the fields, down the lane toward the river. Goosie ran with her, wings half-spread, honking in confusion.
-
-She ran until she couldn't breathe. Then she stopped, bent over, and waited for the world to stop spinning.
-
-When she straightened, she was at the farm by the river bend.
+When she finally straightened, the world was still, and she was staring over the river at the farm by the bend.
 
 The nurse was there, by the poultry shed. She looked up, saw Beatrice's face, and said nothing. Just nodded once and went back to her work.
 
 Beatrice stood there for a long time, Goosie pressed against her leg, watching geese ignore her completely.
 
-The geese knew her now. That was something.
+The geese knew her now, who she was. That was something, at least.
 
 ---
 
-She walked home slowly. At the edge of the clearing, she stopped.
+She wandered home aimlessly, stopping at the edge of the clearing, feeling the emptiness shrink the hall in her sight.
 
 Her father was in the doorway. Not standing tall, not waiting with staghound at his side. Just... leaning. One hand on the frame, the other hanging loose. He looked smaller than she remembered. As if something inside him had collapsed.
 
@@ -341,9 +337,9 @@ They went inside together. Goosie followed.
 
 Her father was never the same after that; he changed.
 
-The sword that had carved through shield walls hung, still above the hearth, but now it seemed like someone else's memory. The man who had led men now sat by the fire with his staghound, watching his daughter run the manor without being asked.
+Above the hearth, the sword that had carved through shield walls hung, but now it seemed like someone else's memory. The man whom had led hundreds, now sat by the fire with his staghound, watching his daughter run the manor without being asked.
 
-The bounce never came back to his step. Not really.
+The familiar bounce in his step seemed lost, never to return.
 
 Beatrice learned to watch for the signs—the way he'd pause at the door, the way his hand would go to his chest after climbing the slope from the village. She didn't say anything. What was there to say?
 
