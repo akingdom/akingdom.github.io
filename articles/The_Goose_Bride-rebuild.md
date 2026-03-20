@@ -402,7 +402,7 @@ Beatrice nodded. "The purveyors... the Abbot... there is nothing."
 
 The nurse sighed, wiping her hands on her apron. "When you've kept geese for a king's son, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids in 1113, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we'd recover by this summer, but the King's own host has been marching this year, and they're taking the young birds before they can even grow fat. I've nothing left but scrawny things—all bone and pin-feathers."
 
-"But surely there is one," Beatrice pleaded.
+"I cannot bear to send my Goosie to the King. Surely there is another," Beatrice pleaded.
 
 The nurse looked toward the poultry shed. "Only the old gander. He's the last of the 1112 stock—"
 
@@ -410,9 +410,9 @@ Beatrice interrupted eagerly. "Then I'll buy him. I have the silver Mother left�
 
 The nurse shook her head. "He's already spoken for. The Royal Marshal marked him with the King's seal yesterday. If I sell him to you, they'll hang me for theft of Crown property. He's not a bird anymore, Beatrice; he's a piece of the King's war."
 
-Beatrice’s throat tightened. The nurse looked at the speckled goose in Beatrice's arms. "Count it a blessing that your own bird is still alive. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
+The nurse looked at her, blunt but not unkind. "Count it a blessing that your own bird has lived as long as she has. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
 
-This news was too much for Beatrice to bear and she burst into large wet tears. The normally gruff nurse patted her back.
+Beatrice’s throat tightened. This news was too much for her to bear and she burst into large wet tears. The normally gruff nurse patted her back.
 
 The nurse’s hand, calloused from years of plucking and grain-sorting, rested heavy on Beatrice’s shoulder. She didn't offer empty comfort; in these parts, tears were as common as the rain.
 
@@ -2675,7 +2675,114 @@ After the wedding, there’s no external threat that forces Beatrice and Godfrey
 
 ---
 
-TODO (4) -- revise student questions
+TODO (4) -- A crosscheck for holes in who knows what and when.
+
+1. I guess she might ask two questions. would you have chosen me without a vow (yes [probably]), probably? so, (annoyed) what would you have done if another had arrived before me? (blank look, long pause, crippling look bordering on heartbreak, my duty). He stands, upset, walking off, turns. I will say this: I am grateful to God that it was you and no other. Her heart melts/changes. She stands. whispers. we're still getting to know one another. (realistic might be that he walks off, a day passes, (lady margaret chats?) they reconvene, they both appologise, he confirms it was partly his fears partly his wish for her to be free from the vow, to choose. perhaps she doesn't understand but says 'but it's the king's vow and the king's word is law surely'. 'the very think that i've lived my whole life under', 'is the king's word so harsh', interrupted by lady margaret arriving (and overhearing, which the queen will be interested to hear beatrice defending the king), we can imply this by the queen giving word to godfrey in passing Queen Matilda: “I have perhaps not been to you the mother you needed. For that, I am sorry.”
+
+Godfrey: (surprised, silent)
+
+Queen Matilda: “Your father means well, even if his word falls like a hammer. He gave you to a vow, in part to protect you. But he also gave you to a woman who asked if that word was harsh—not for herself, but for you. That is not nothing.”
+
+She pauses.
+
+Queen Matilda: “It may be true that you shall not refuse the king's word to this marriage, but it also may be true that God has given you something that I did not expect. And, if so, you must treasure and protect such a rare gift.”
+
+Godfrey leaves, visibly moved.
+
+---
+
+At length...
+
+I’ll integrate your detailed beats for point 1 and fold in the Queen’s catalyst as you’ve described. Below is the **revised plan** with specific scene placements, dialogue summaries, and how they interconnect.
+
+---
+
+## Revised Plan – Point 1 (Beatrice Learns the Vow)
+
+### Step 1: Half‑Sisters Weaponize the Vow
+**Location:** Court exposure phase (Chapter 15 or 16, e.g., after the wine spill).  
+**Scene:** Avice or Eustacia corners Beatrice and delivers the cutting truth:  
+> “Any kitchen maid could have walked through that door after the King spoke and be wearing that ring. Don’t fancy yourself chosen.”
+
+Beatrice is stunned but doesn’t break down. She files it away.
+
+### Step 2: Lady Margaret Explains
+**Location:** Immediately after, in Beatrice’s chamber or a quiet corridor.  
+**Content:**  
+- Margaret confirms the vow was rash, made in anger, and everyone in the hall heard it.  
+- She describes Godfrey: “He has spent his life being moved by others’ decisions. The King’s vow was not his choice. But he walked you home, didn’t he? He waited. That was his choice.”  
+- She advises Beatrice to speak with him directly if she wants truth.
+
+### Step 3: Beatrice Confronts Godfrey (Two Questions)
+**Location:** A private spot—the garden, a quiet courtyard (could replace the existing “night before wedding” scene, or be placed earlier, e.g., Chapter 17).  
+
+**Beats as you outlined:**  
+
+1. **First question:** “Would you have chosen me without the vow?”  
+   Godfrey hesitates, then: “Yes.” (She presses for honesty; he admits “probably” if pushed—he was drawn to her from the start.)  
+
+2. **Second question (annoyed):** “What would you have done if another had arrived before me?”  
+   **Godfrey’s reaction:** Long pause. Blank look. Then, with crippling honesty: “My duty.” He stands, upset, begins to walk off.  
+
+3. He turns back, voice raw:  
+   > “I will say this: I am grateful to God that it was you and no other.”  
+
+4. Beatrice’s heart melts. She steps closer, whispers:  
+   > “We’re still getting to know one another.”
+
+### Step 4: A Day Passes (Reconciliation)
+**Location:** Next day, possibly after Lady Margaret has spoken with Beatrice again.  
+
+- Godfrey and Beatrice meet again (perhaps in the same garden).  
+- They both apologize—he for his silence, she for pushing him into a corner.  
+- He explains: “I didn’t tell you because I wanted you to choose freely. If you knew the vow, you might have felt trapped. I wanted you to choose me—not because a king commanded it.”  
+- Beatrice (now understanding) says: “But it’s the king’s vow. His word is law, surely.”  
+- Godfrey, with a hint of bitterness: “The very thing I’ve lived my whole life under.”  
+- **Interruption:** Lady Margaret arrives (she has been looking for Beatrice) and overhears the last exchange—specifically Beatrice defending the king’s word as law.
+
+### Step 5: Lady Margaret Reports to the Queen
+**Location:** Off‑stage or a brief scene.  
+- Margaret tells the Queen what she overheard: the girl who was humiliated by the vow now defends its binding nature—not for herself, but for Godfrey’s sake.  
+- This becomes the catalyst for the Queen’s change of heart, as she knows the king's human limits and struggles.
+
+### Step 6: Queen’s Private Conversation with Godfrey
+**Location:** A short scene (could be a new chapter or added to an existing one, placed before the Queen’s public protection in Chapter 20).  
+
+**Dialogue (as you wrote):**  
+
+> **Queen Matilda:** “I have perhaps not been to you the mother you needed. For that, I am sorry.”  
+> **Godfrey:** (surprised, silent)  
+> **Queen Matilda:** “Your father means well, even if his word falls like a hammer. He gave you to a vow, in part to protect you. But he also gave you to a woman who asked if that word was harsh—not for herself, but for you. That is not nothing.”  
+> *(She pauses.)*  
+> **Queen Matilda:** “It may be true that you shall not refuse the king’s word to this marriage, but it also may be true that God has given you something that I did not expect. And, if so, you must treasure and protect such a rare gift.”  
+
+Godfrey leaves, visibly moved. This moment completes his emotional arc (being seen by a mother‑figure) and shows the Queen’s full conversion.
+
+---
+
+## How This Fits with Other Points
+
+- **Point 2 (half‑sisters weaponize the vow)** is satisfied by Step 1.  
+- **Point 3 (Harold’s knowledge)** remains separate; we’ll add Godfrey telling Harold directly in Chapter 13.  
+- **Point 6 (Queen’s motivation)** is now fully dramatized via Step 5 and Step 6—no off‑stage guessing.  
+- **Point 7 (Sir Guy’s challenge)** will still be included in the expanded Chapter 19 hearing, with the vow argument as part of his case. This should be set in motion by a background player trying to pull strings. (A missive arrives in french?)
+
+---
+
+## Revised Summary of Changes
+
+| Gap | Revised Action | New Scenes/Changes |
+|-----|----------------|--------------------|
+| 1. Beatrice learns vow | Half‑sisters taunt; Lady Margaret explains; two‑question confrontation; day‑apart; reconciliation with Godfrey; Lady Margaret overhears. | Add ~3 new scenes in Ch. 15‑17 (can replace some existing shorter vignettes). |
+| 2. Half‑sisters use vow | Taunt included in Step 1. | One line added. |
+| 3. Harold’s knowledge | Godfrey tells Harold directly in Ch. 13. | Amend existing dialogue. |
+| 6. Queen’s motivation | Catalyst via Lady Margaret’s report; private conversation with Godfrey (apology). | Add two scenes (report + Queen‑Godfrey talk) before Ch. 20. |
+| 7. Sir Guy’s challenge | Include vow argument in expanded Ch. 19 hearing. | Add to existing plan for that chapter. |
+
+
+---
+TODO (last) -- revise student questions
+TODO (last) -- revise language balance 1100s vs 2020s
 
 
 
