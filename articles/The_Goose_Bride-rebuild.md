@@ -82,7 +82,7 @@
 
 | Character | Identity / Purpose | 
 | :--- | :--- | 
-| **The Nurse** | Godfrey's former wet nurse, age 39. Lives at the farm by the river bend where Goosie's egg came from. Gruff, wise, connected to both Godfrey and Beatrice's mother. | 
+| **The Nurse** | A former wet nurse, age 39. Lives at the farm by the river bend where Goosie's egg came from. Gruff, wise. | 
 | **The Reeve** | Stanwey's village headman. Harold considers sending him with the goose tribute. | 
 | **Staghound** | Harold's loyal dog. Always by the fire at Stanwey. Dies shortly after Harold. | 
 | **The Priest** | Arranged the candles at Beatrice's mother's deathbed. | 
