@@ -350,6 +350,167 @@ And Goosie followed. Always.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
+
+
+
+
+
+## Chapter 5½ – The Weight of Stanwey
+
+Beatrice was fourteen when the reeve’s youngest daughter sickened with a fever that would not break. She remembered her mother’s hands, the way they could find the pulse in a wrist, the way they knew which herbs to steep and which to burn. She knelt beside the girl’s pallet with a cup of yarrow tea and a prayer she had learned from the old nurse.
+
+“You’ll be right,” she said, though her own voice trembled.
+
+The girl lived. Afterward, the reeve’s wife called her “the Lady of Stanwey” with a look that made Beatrice’s throat tighten. She was not a lady. She was a girl who remembered her mother’s hands and tried to be them.
+
+That was the year she began to understand what her father did not say.
+
+He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak of neighbours.
+
+“The thegn of Thornbury has a son,” he said one evening, stirring the coals. “Edmund. He’s seen you at the autumn fair.”
+
+Beatrice’s hands stilled over the bread she was kneading. “Has he?”
+
+“He asked after you.” Harold’s voice was careful. “He’s a solid young man. His father’s lands border ours to the south. It would be a good alliance.”
+
+She said nothing. The bread dough was smooth under her palms, but her thoughts were not.
+
+“You don’t have to decide anything,” Harold added quickly. “I only thought… it would be well to have neighbours who are friends.”
+
+She nodded. “I’ll think on it.”
+
+She did think on it. She thought about Edmund of Thornbury—a quiet young man with calloused hands and a kind smile. She thought about the way he had offered her a cup of cider at the fair, the way he had not laughed when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
+
+She said nothing. The days passed, and Harold did not mention Edmund again.
+
+But he mentioned others. A widowed farmer from the next valley who had three strong sons and a good barn. A merchant from Worcester who had seen her at the market and sent word of his interest. A minor Norman knight whose lands lay west of the forest, a man Harold called “steady.”
+
+Each time, Beatrice found a reason. The farmer’s sons would never respect her. The merchant was too old. The knight’s holding was too far from the river.
+
+Harold listened. He nodded. He did not press.
+
+But she saw the way he looked at the sword above the hearth—the blade he had carried when he rode with kings. She saw the way his hand went to his chest after climbing the slope from the village. He was not getting younger. He was afraid of leaving her alone.
+
+---
+
+The trouble began when Sir Guy de Montfort came to Stanwey.
+
+He arrived in the autumn of Beatrice’s fifteenth year, riding with a small retinue, his horse’s trappings finer than any in the village. He claimed he was passing through, hunting in the king’s forest, but his eyes lingered on the hall, on the fields, on the tidy barns.
+
+Harold received him with courtesy—the hospitality a thegn owed to a knight. Beatrice served the meal, keeping her eyes down, her mother’s voice in her ear: *Watch, and listen.*
+
+Sir Guy was charming. He spoke of his lands in Normandy, of his family’s long service to the crown, of the wars he had fought in the king’s name. He praised Harold’s sword, the story of the Severn, the stoutness of Stanwey’s walls.
+
+“A holding like this should be protected,” he said, his gaze drifting to Beatrice. “A daughter needs strong hands to guard her inheritance.”
+
+Harold’s face was unreadable. “My daughter has strong hands of her own.”
+
+Sir Guy laughed, as if Harold had made a joke.
+
+He came again a month later, then again before Christmas. Each time, he brought gifts: a bolt of silk from the continent, a leather‑bound psalter, a silver brooch with a design Beatrice had never seen. Harold accepted them with careful thanks. Beatrice thanked him with her mother’s courtesies, her face smooth, her mind sharp.
+
+She did not trust him.
+
+She could not say why. He was handsome, well‑spoken, attentive. But when he looked at her, she saw him measuring the timber in the hall, counting the heads of cattle, calculating the value of the wool clip. He did not see her. He saw Stanwey.
+
+One evening, after Sir Guy had ridden away, Harold spoke quietly. “He has asked to speak with me. About a marriage.”
+
+Beatrice’s heart clenched. “What did you say?”
+
+“That I would consider it.” Harold’s eyes were tired. “He is a knight. He has the king’s favour. He could protect this place when I am gone.”
+
+“He does not want me,” Beatrice said. “He wants Stanwey.”
+
+Harold said nothing.
+
+She went to the window, watching the last light fade over the fields. “Father, you taught me to watch. I have watched him. When he thinks no one is listening, he speaks of ‘improving’ the manor. He asks the reeve how many ploughs we have, how many oxen. He asked the nurse whether the river floods in spring.”
+
+“He is a landowner,” Harold said. “These are the things landowners ask.”
+
+“He asked whether the king’s writ runs here, or whether the sheriff’s men are needed to keep order.”
+
+Harold’s expression shifted.
+
+Beatrice turned to face him. “I will marry when I must. But not to a man who sees our people as livestock to be counted.”
+
+---
+
+She discovered the truth three days later.
+
+She had gone to the nurse’s farm to collect eggs, taking the path along the river. The alders were bare, the reeds brown, but the geese were lively, honking and splashing in the shallows. She was halfway down the lane when she heard voices.
+
+Sir Guy was there, standing with the nurse outside the poultry shed. He had ridden alone this time, his horse tied to a post.
+
+“—an old man and a girl,” he was saying, his voice low, impatient. “The estate will escheat within five years. The king’s justices will see it. A daughter cannot hold thegn’s land without a husband.”
+
+The nurse’s voice was flat. “She has a husband when she chooses one.”
+
+“She has refused every man her father has brought. She is stubborn, foolish, or both. But the land is good. The wool from the southern fields alone is worth—”
+
+Beatrice stepped into the clearing.
+
+Sir Guy turned. For a moment, something flickered in his face—surprise, then annoyance, then a smile that did not reach his eyes.
+
+“Beatrice,” he said smoothly. “I was just speaking with your good nurse about the flocks. She tells me the geese are thriving.”
+
+“I heard what you were speaking about,” Beatrice said. Her voice was steady, though her hands were cold. “You will not have Stanwey. Not through me, not through any man the king sends.”
+
+He laughed. “You are young, child. You do not understand how the world works.”
+
+“I understand that you came to my father’s hall pretending honour, and I have found you counting what is not yours to count.” She stepped forward, her chin high. “You will leave. You will not return.”
+
+Sir Guy’s smile vanished. For a moment, his face was ugly—the mask gone, the greed plain. “You will regret this. When your father is dead and the sheriff comes to take this place for the crown, you will remember my offer.”
+
+“I will remember,” Beatrice said, “that you were not honest enough to speak plainly in my father’s hall.”
+
+He stared at her, then at the nurse, who had not moved. Then he untied his horse, mounted, and rode away without another word.
+
+The nurse let out a breath. “That was bold.”
+
+Beatrice’s hands were trembling now that he was gone. “He will do something. He will try to take it.”
+
+“He will try,” the nurse agreed. “But you have seen him. That is more than most.”
+
+---
+
+When Beatrice returned home, she told Harold everything.
+
+He listened in silence, his face pale. When she finished, he closed his eyes.
+
+“I should have seen it,” he said.
+
+“You saw a knight who spoke of protection. There was no shame in that.”
+
+He shook his head. “I wanted to believe there was a way to secure this place without forcing you. I wanted—” He stopped, his voice rough.
+
+Beatrice knelt beside his chair. “Father, I am not afraid of him. And I am not afraid of Stanwey. I will hold it until the day I can hold it no longer. And when that day comes, I will choose the man who takes it. Not you, not the king, not Sir Guy.”
+
+Harold opened his eyes. He looked at her—really looked—and for a moment, she saw the man who had pulled a prince from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
+
+“You are your mother’s daughter,” he said.
+
+She took his hand. “And yours.”
+
+---
+
+That winter, she heard that Sir Guy had taken a manor in the next shire, a small estate whose widow had no sons. She did not know whether to be relieved or sorry for the widow.
+
+She did not think of him again until the king’s messenger came.
+
+But she never forgot the way he had counted the geese, the timber, the souls of Stanwey. And when she walked into the king’s hall with Goosie in her basket, she carried that memory like a shield: she would not be counted. She would not be a measure of land.
+
+She would be herself.
+
+
+
+
+
+
+
+
+
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 ## Chapter 6 — Galloping Hooves
 
 One autumn morning, the rhythm of the village was broken by the thunder of hooves.
@@ -1708,29 +1869,6 @@ The sisters exchanged a look of pure, baffled silence.
 
 ---
 
-Later that evening Godfrey found Beatrice in the garden with Goosie, listening to the peacock crow its wailing cry; a cry which had alarmed Beatrice when she first heard it the previous evening.
-
-She smiled, glad to see a familiar face.
-
-A quiet crooning voice echoed a distant ballad somewhere overhead. 
-
-
-Godfrey: “You know now, don’t you? About the vow.”
-Beatrice: (quietly) “My father—does he know that his hall was wagered?”
-Godfrey: “I asked my father to let him hear it from you. But I will swear before him that I will protect Stanwey as my own, whether you marry me or not.”
-Beatrice: “Then you would have done your duty regardless of who walked in.”
-Godfrey: “Yes. But I am grateful it was you, because I see that you are someone who will do her duty with courage. That is all I hoped for.”
-Beatrice: (after a pause) “What will you require of me?”
-Godfrey: “Only that you be yourself. I have seen enough court masks.”
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2227,584 +2365,182 @@ TO DO (TODO)
 
 ==========================================================
 
-1. silent prayer offered by Beatrice outside the hall on the steps
-2. A little less on the 'tree' saying maybe.
-3. Matilda wrote to her mother or father or betrothed, not her 'husband'. -- perhaps we simply put in a fact note acknowledging such effect.
-4. I'll be a light -> I'll be your lantern in the darkness.
-5. decide on bide vs wait, and unify all three instances.
-6. eventually we want a full table of who is whom included.
+Let’s consolidate **all planned changes** from your notes and our discussions into a single master list, with precise chapter/scene locations and status.
+
+I’ll structure it by chapter, using your existing chapters as anchors (Chapters 1–22 plus the Epilogue). I’ll note which changes are already implemented (from your “Implemented Changes” section) and which are still to be done, including the new scenes from the “Revised Plan – Point 1” and the “Plan to Address the Gaps.”
 
 ---
 
-Excellent. Let me implement these changes and then run the updated story through the panel again.
+## Master Change List – The Goose Bride
+
+### Early Chapters (1–5)
+
+| Chapter | Change | Status | Notes |
+|---------|--------|--------|-------|
+| **After Chapter 5** | New chapter: **“The Weight of Stanwey”** (Chapter 5½) | **Draft written** (user has it) | Establishes pre-Godfrey situation: Harold’s matchmaking, Beatrice’s reluctance, Sir Guy as suitor, overheard greed, her dismissal of him. Introduces estate dependents, stakes. |
+| **Chapter 5½** | Sir Guy’s backstory expanded (via later addition) | **Planned** | Already have a separate backstory scene (Chapter 8.5) but could integrate some into this chapter to avoid info-dump. We’ll track it separately. |
 
 ---
 
-## Implemented Changes (TODO)
+### Chapters 6–9 (Crisis & Vow)
+
+| Chapter | Change | Status | Notes |
+|---------|--------|--------|-------|
+| **Chapter 8.5 (new)** | **“The Root” – Sir Guy’s backstory** | **Implemented** (user’s TODO #5) | Added scene explaining his father’s death, mother’s comparisons, his need to prove himself. Places after his appearance in Chapter 8 or 9. |
+| **Chapter 9 (end)** | **King’s vow proclaimed** | Existing | No change, but ensure it’s clear the vow is public. |
+| **Chapter 10** | **Queen’s motivation hint** | To be enhanced | Add a line where the Queen, after sending Beatrice away, reflects that she’ll watch the girl. Seeds later conversion. |
 
 ---
 
-### 1. Beatrice's Declaration (Night Before Wedding)
+### Chapters 11–14 (Road Home, Harold’s Knowledge)
 
-**Old:**
-> "Then I'll be the light."
-
-**New:**
-> She took his hand. "Then I'll be your lantern in the darkness. Not the sun—I can't promise to blind everyone. But I can promise to be beside you, lit and steady, no matter how deep the shadow."
-
-He stared at her.
-
-"I choose you, Godfrey. Not because of a vow. Not because my father said yes. Because of the walk. Because you waited. Because you saw me before I knew I could be seen."
-
-His voice cracked. "Beatrice—"
-
-"I know I'm not in love yet. Not the way the songs tell it. But I think love is something you build, stone by stone, day by day. And I want to build it with you. That's my choice."
-
-He kissed her hand—not a prince kissing a peasant, but a man kissing someone he had just realized he could not live without.
-
-"That's enough," he whispered. "That's more than enough."
+| Chapter | Change | Status | Notes |
+|---------|--------|--------|-------|
+| **Chapter 11** | **Walk home** – remove any “secret” implication | **To be revised** | Ensure Godfrey does not hide the betrothal. He can mention the king’s proclamation but not the backstory; that’s for Harold to explain. |
+| **Chapter 13** | **Godfrey tells Harold directly about the vow** | **Implemented** (from user’s notes, “Harold’s knowledge clarified”) | Harold’s reaction: anger, then acceptance with condition that Godfrey swear to protect Stanwey. Add line: “Love can grow from honour; honour rarely grows from love alone.” |
+| **Chapter 14** | **Harold‑Beatrice private talk** | **To be added** (as part of father‑daughter tension) | Harold withholds full blessing; expresses fear she’ll be swallowed by court. Beatrice chooses to go anyway. |
 
 ---
 
-### 2. Half-Sisters Clarified & Expanded
+### Chapters 15–17 (Court Exposure – Revised Flow)
 
-**Chapter 15 addition (first meeting):**
+These chapters will be restructured per your earlier plan. I’ll list the new scenes in order.
 
-> Alice curtsied with exaggerated grace. "The goose girl. We've heard so much."
->
-> Adela giggled. "Does she sleep in the barn?"
->
-> Beatrice blinked. "No. The hall has a chamber. It's small, but warm."
->
-> The sisters exchanged a glance. Later, Beatrice learned they were Godfrey's half-sisters too—illegitimate daughters of Henry by different mothers, just as he was. But where Godfrey had been acknowledged and given a place, they had been left to scramble for status however they could.
->
-> *That's why they hate me*, Beatrice realized. *Not because of who I am. Because he was chosen and they weren't.*
-
----
-
-**New Chapter 17.5 — A Small Victory**
-
-*(After the Queen's protection begins, before Christmas)*
-
-Beatrice was crossing the courtyard when Adela's voice rang out behind her.
-
-"Wait."
-
-She turned. Adela stood alone, no Alice beside her. Her face was tight with something that might have been embarrassment.
-
-"I'm supposed to tell you the Queen's lady wants you." A pause. "And... I'm sorry. About the wine. It wasn't—" She stopped. Shook her head. "It doesn't matter."
-
-She turned to go.
-
-Beatrice said, "Why are you telling me this?"
-
-Adela didn't look back. "Because my mother always said I'd end up bitter and alone if I kept on like this. I think I'm proving her right."
-
-She walked away.
-
-Beatrice stood there, unsure what to feel.
+| Chapter | Scene / Change | Status | Notes |
+|---------|----------------|--------|-------|
+| **Chapter 15** | Garderobe, Margaret, Goosie revealed, letter home | Existing | Keep as is. Add small extension to letter for “breathing” (already in your text). |
+| **Chapter 15** | Morning walk with Margaret (existing) | Existing | Keep. |
+| **Chapter 15** | Encounter with half‑sisters (Avice/Eustacia) – “King’s newest curiosity” | Existing | Already in your text. They’re introduced. |
+| **Chapter 15** | **Clarify half‑sisters’ parentage** | **Implemented** (user’s TODO #2) | Add line after: “Later, Beatrice learned they were Godfrey’s half‑sisters too…” (already in your text). |
+| **Chapter 16** | **Morning lessons with Margaret and maids** | **To be added** (new scene) | Table manners, cutlery, who to curtsey to. Sets up formal dinner. |
+| **Chapter 16** | **Evening mingling – overhear vow** | **To be added** (new scene) | Beatrice overhears Avice/Eustacia discussing the vow: “any kitchen maid…” This is Step 1 of vow revelation. |
+| **Chapter 16** | **First Formal Dinner** (wrong cutlery) | Existing | Keep, but Beatrice now knows the vow. |
+| **Chapter 16** | **After‑dinner debrief with Margaret** | **To be added** (new scene) | Margaret explains who the sisters are, confirms the vow, advises Beatrice to talk to Godfrey. (Step 2) |
+| **Chapter 16** | **Garden scene – Beatrice confronts Godfrey** (two questions) | **To be added** (new scene) | Step 3 of vow revelation. Use the two‑question dialogue you outlined. Godfrey’s honesty, his “grateful it was you” line. |
+| **Chapter 16** | **A day passes – reconciliation** (next day) | **To be added** (new scene) | Step 4: they apologize; he explains his silence; Lady Margaret overhears. |
+| **Chapter 17** | **Brief interlude** – “time passes” | **To be added** (short paragraph) | Transition. |
+| **Chapter 17** | **Wine spill** (existing) | Keep | Now placed after the reconciliation. |
+| **Chapter 17** | **Queen observes Beatrice’s composure** | **To be expanded** | Add a line: “Interesting. She learns.” (already in your text) – we can expand to show Queen’s growing interest. |
+| **Chapter 17** | **Lady Margaret reports to Queen** (off-stage or brief scene) | **To be added** | Step 5: Margaret tells Queen what she overheard (Beatrice defending the king’s word). |
+| **Chapter 17.5 (new)** | **“A Small Victory” – Adela’s apology** | **Implemented** (user’s TODO #2) | Adela’s half-apology after Queen’s protection begins. |
+| **Chapter 17** | **Queen’s private conversation with Godfrey** | **To be added** | Step 6: Queen’s apology to Godfrey, with the dialogue you wrote. Place before Chapter 20. |
 
 ---
 
-**Chapter 21 addition (Candlemas trap — second attempt):**
+### Chapter 18 – The Darkest (Harold’s Illness)
 
-The half-sisters had planned something for the Candlemas feast. Beatrice knew it—she'd seen the glances, the whispered conferences. Lady Margaret had heard rumors of a "surprise."
-
-But when the moment came, nothing happened.
-
-Alice dropped her wine cup—no spill. Adela's cutting remark died on her lips as the Queen's gaze swept past. A servant carrying a tray near Beatrice stumbled—and Lady Margaret was there, steadying him before anything could fall.
-
-Every trap, every cruelty, every planned humiliation simply... failed.
-
-Beatrice caught the Queen's eye across the hall. Matilda gave the smallest of nods.
-
-*She knows. She's watching. She's protecting.*
-
-Beatrice almost smiled.
-
-Later, she learned the full story: the spilled wine had been meant for her gown. The servant's stumble had been aimed at her back. The Queen's maid had overheard everything and reported it.
-
-Adela, it was whispered, had been the one to suggest the servant. When it failed, Alice turned on her. They had not spoken since.
+| Change | Status | Notes |
+|--------|--------|-------|
+| Add Beatrice’s interiority (window seat doubts) | **Implemented** (user’s TODO #4) | Already added. |
+| Possibly move Harold’s illness earlier? | Keep as is | It’s in Chapter 18. |
 
 ---
 
-**Wedding addition (tiny redemption):**
+### Chapter 19 – The Legal Hearing (Expanded)
 
-Even the half-sisters, forced to curtsey as Beatrice passed, managed something almost like respect. Adela met her eyes for just a moment—and gave the smallest of nods.
-
-Beatrice nodded back.
-
-It was not forgiveness. It was not friendship. It was... acknowledgment. And that was enough.
-
----
-
-### 3. Godfrey's Proactive Moment (Chapter 19 — Queen's Protection)
-
-**Added scene — Godfrey confronts Sir Guy:**
-
-Sir Guy's legal challenge arrived on a grey morning in early February. The claim: Stanwey should escheat to the crown due to Harold's failing health and Beatrice's sex. A technicality. A poison pill.
-
-Godfrey heard about it from a clerk who thought he should know.
-
-He found Sir Guy in the armory, polishing a sword that didn't need polishing.
-
-"I withdraw the challenge."
-
-Sir Guy didn't look up. "You can't. It's filed."
-
-"I can ask my father to dismiss it."
-
-"Your father has more important things to do than settle petty squabbles." Now he looked up, smiling. "The king's vow supersedes all other claims, they say. But until the wedding, until the vows are spoken, the land is still Harold's. And if Harold dies—" He shrugged. "Escheat. The king takes it back. Then he can give it to whoever he wants. Maybe someone who deserves it."
-
-Godfrey stood very still.
-
-"You're betting on her father's death."
-
-"I'm betting on the law."
-
-Godfrey stepped closer. For a man who had spent his life in shadows, he moved with sudden purpose.
-
-"You will withdraw the challenge. Or I will stand before the king and tell him exactly what you just said—that you're scheming to profit from an old man's death while his daughter prepares for marriage. Let's see how the court likes that."
-
-Sir Guy's smile faltered. "You wouldn't."
-
-"Wouldn't I?"
-
-They stared at each other. Godfrey, for the first time in his life, did not look away.
-
-Three days later, the challenge was withdrawn. No explanation. No apology. Just... gone.
-
-Beatrice never knew.
+| Scene / Change | Status | Notes |
+|----------------|--------|-------|
+| **Sir Guy’s legal challenge arrives** (off-stage) | To be replaced with public hearing | Replace off-stage dismissal with full hearing scene. |
+| **Public hearing in King’s hall** | **To be added** | Combine climax: Sir Guy argues escheat and attacks vow as rash. Godfrey defends the marriage and Stanwey. Beatrice speaks briefly. Queen supports. Sir Guy humiliated, banished. |
+| **Half‑sisters’ final confrontation** | **To be added** | After hearing, they attempt one last slight; Beatrice delivers quiet devastating line; they curtsey. |
+| **Godfrey’s agency – scene with King** (before or after) | **To be added** | Godfrey tells Henry he would have chosen Beatrice anyway. This could be before the hearing, to show his resolve. |
 
 ---
 
-### 4. Beatrice's Internal Struggles (Chapter 18 — The Darkest)
+### Chapter 20 – Queen’s Public Protection
 
-**Added interiority:**
-
-She sat in the window seat, Goosie warm against her side, and let the doubts wash over her.
-
-*I don't belong here. I'm playing at something I'll never be. The way they look at me—like a curiosity, like a pet. Even the kind ones.*
-
-*Godfrey is kind. But is that enough? Am I supposed to love him? I don't even know what love feels like. Mother loved Father—I saw it. The way she looked at him. The way he held her hand at the end. I don't feel that. I feel... comfortable. Safe. Seen.*
-
-*Is that love?*
-
-*What if it's not? What if I'm settling? What if he's settling?*
-
-*What if I wake up in ten years and realize I made a mistake?*
-
-Goosie honked softly.
-
-Beatrice pressed her face into warm feathers. "You don't have these problems," she whispered. "You just... are."
+| Change | Status | Notes |
+|--------|--------|-------|
+| Queen’s public declaration | Existing | Keep. |
+| **Add mention of Queen’s overheard report** | Already integrated via Step 5 | The catalyst is now shown (Margaret’s report, her talk with Godfrey). |
 
 ---
 
-### 5. Sir Guy Expanded (New Chapter 8.5 — The Root)
+### Chapter 21 – Night Before Wedding & Candlemas Trap
 
-**Added backstory:**
-
-Sir Guy de Montfort had been raised on stories of his father's glory. The elder de Montfort had fought at Hastings, had received lands and titles, had been a hero of the Conquest.
-
-Guy had never met him. He died when Guy was three.
-
-What Guy inherited was a name, a small estate, and a mother who never stopped comparing him to the man she'd lost.
-
-"Your father would have known what to do."
-"Your father never would have let that insult pass."
-"Your father was a *man*."
-
-By the time Guy was twenty, he had learned two things: that he would never be good enough, and that the only way to feel worthy was to make others feel small.
-
-Beatrice's sharp smile at the Midsummer Feast—the way she'd dismissed him, the way she'd looked at him like he was nothing—had cut deeper than she knew. Not because of her. Because of every voice in his head that sounded like his mother.
-
-*You're nothing. You'll never be him.*
-
-When Henry shamed him in the hall, something broke loose. The challenge to Stanwey wasn't about land. It was about proving, for once, that he mattered.
-
-He failed.
-
-And in failing, he finally understood: he had been fighting shadows his whole life. The only person who needed to believe in him was himself.
-
-It was too late to change. But for the first time, he knew.
+| Change | Status | Notes |
+|--------|--------|-------|
+| **Beatrice’s declaration** – revised “lantern” speech | **Implemented** (user’s TODO #1) | Already in text. |
+| **Candlemas trap – second attempt by sisters** | **Implemented** (user’s TODO #2) | Already in text (they fail, Queen’s protection). |
+| **Add mention that Adela was the one who suggested the servant** | Already in text | From user’s notes. |
 
 ---
 
-**Chapter 21 addition (Sir Guy's final appearance):**
+### Chapter 22 – The Wedding
 
-Sir Guy was not at the wedding. He had sent word of illness—a diplomatic absence that fooled no one.
-
-But three days later, a small package arrived at Stanwey. Inside: a single silver coin and a scrap of parchment.
-
-*For the goose. Buy her some grain.*
-
-*—G*
-
-No apology. No explanation. Just that.
-
-Beatrice showed it to Godfrey. He read it, said nothing, and tucked it into his purse.
-
-Later, she found him staring at the coin by firelight.
-
-"He's not a good man," Godfrey said quietly. "But maybe he's not only what he seemed."
-
-"That's true of most people," Beatrice said.
-
-He looked at her. Smiled. "Including you."
-
-"Especially me."
+| Change | Status | Notes |
+|--------|--------|-------|
+| **Half‑sisters’ nod** | **Implemented** (user’s TODO #2) | Already in text. |
+| **Goose proverb at wedding** (old woman) | Existing | Ensure it uses “wait” not “bide”. |
+| **Sir Guy’s final gesture** – coin and note | **Implemented** (user’s TODO #5) | Already in text. |
 
 ---
 
-### 6. Reduced "Tree" Saying
+### Epilogue
 
-Kept in Harold's recognition scene (essential), but removed from later echoes.
-
----
-
-### 7. Duchess's Letter — Historical Note
-
-**Added note only, not in narrative text:**
-
-*Historical note: Matilda FitzRoy was betrothed to Conan III of Brittany in 1113 and married him in 1118. Her letter to Beatrice would have been written to her future husband's family, not to a spouse.*
+| Change | Status | Notes |
+|--------|--------|-------|
+| **Harold’s death** – move to its own chapter | **To be added** | Create new chapter after wedding, before epilogue. Show Beatrice receiving news, journey home, vigil, Godfrey’s support. |
+| **Epilogue** – keep brief summary of later years | Existing | But remove Harold’s death paragraph (moved). |
+| **Goose proverb** in epilogue | Existing | Already uses “wait”. |
 
 ---
 
-### 8. "I'll be your lantern in the darkness" (Already implemented above)
+### New “Black Moment” Crisis (After Wedding)
+
+| Change | Status | Notes |
+|--------|--------|-------|
+| **Add a crisis that tests the relationship** | **To be added** | Options: King demands Godfrey go to Normandy for a year; or a false rumor of invalidity. Must force both to act. Place as new chapter(s) after wedding, before Harold’s death or interwoven. |
 
 ---
 
-### 9. "Bide" vs. "Wait" — Unified to "Wait"
+### Historical Texture Additions (Optional)
 
-| Instance | Original | New |
-| :--- | :--- | :--- |
-| Proverb | "A goose may wend where a King must bide." | "A goose may wend where a King must wait." |
-| Old Woman at Wedding | "A goose may wend where a King must bide." | "A goose may wend where a King must wait." |
-| Epilogue | "A goose may wend where a King must wait." | (Already consistent) |
-
----
-
-## Panel Re-Run — With Changes
+| Change | Status | Notes |
+|--------|--------|-------|
+| Add mention of White Ship disaster as foreshadowing | Optional | Could be a sailor’s song, a worried look from the Queen. |
+| Add exchequer scene with Roger of Salisbury | Optional | Could be part of legal hearing. |
+| Add church presence | Optional | A bishop at court, or mention of Investiture Controversy. |
 
 ---
 
-### Eleanor (14, modern teen)
+### Unified Proverb: “bide” → “wait”
 
-| Element | New Reaction |
-| :--- | :--- |
-| **Beatrice's declaration** | ❤️ "YES. 'I think love is something you build'—that's exactly right. That's how it really is." |
-| **Half-sisters** | ❤️ "The Adela moment—'I'm proving her right'—that actually hurt. I felt bad for her." |
-| **Godfrey confronting Sir Guy** | ❤️ "Finally! He actually DOES something. And he did it for her without telling her. That's hot." |
-| **Beatrice's doubts** | ❤️ "The window seat thoughts—'what if I wake up in ten years and realize I made a mistake'—I've thought that. About everything." |
-| **Sir Guy's backstory** | ⚠️ "I get it now, but I still don't like him. Is that okay?" |
-| **"Girly moments" question** | "I don't need dress-up scenes or gossip scenes. I need *her* feeling real. Which she does now. The lantern line—that's girly enough. In a good way." |
-
-**Score:** 10/10 ("I'd read this twice and cry the second time.")
+| Change | Status | Notes |
+|--------|--------|-------|
+| All instances unified | **Implemented** (user’s TODO #9) | Already done. |
 
 ---
 
-### Dr. Sarah Chen (34, historian)
+### Remaining Gaps from “Brutal Rundown” (TODO 3)
 
-| Element | New Reaction |
-| :--- | :--- |
-| **Half-sisters clarified** | ✓ "Illegitimate daughters, scrambling for status—that's historically plausible and adds depth." |
-| **Godfrey's proactive moment** | ✓ "A bastard son asserting himself in the armory—credible, tense, well-placed." |
-| **Sir Guy's psychology** | ✓ "The Hastings legacy, the absent father, the comparing mother—that's period-accurate toxic masculinity." |
-| **Duchess note** | ✓ "Thank you. Historical accuracy preserved without narrative clutter." |
-| **"Bide" to "wait"** | ✓ "Wise choice for modern readers. The meaning holds." |
-| **"Girly moments" question** | "Historically, Beatrice would have had to learn courtly skills—embroidery, music, etc. But showing that would slow the pace. The emotional beats you've added are the right kind of 'feminine'—interiority, relationship, choice." |
-
-**Score:** 10/10 ("Historically sound and dramatically rich.")
-
----
-
-### Maya Okonkwo (28, screenwriter/critic)
-
-| Element | New Reaction |
-| :--- | :--- |
-| **Beatrice's declaration** | ❤️ "That's a monologue. That's an *audition piece*. 'Lantern in the darkness'—visual, active, perfect." |
-| **Half-sisters arc** | ❤️ "You gave them a tiny redemption without forgiving them. That's how you do it. Adela's nod at the wedding—chef's kiss." |
-| **Godfrey's proactive moment** | ❤️ "Finally! He confronts Sir Guy, wins, and she never knows. That's heroism without ego. That's character." |
-| **Sir Guy's backstory** | ❤️ "Now he's a person. A broken one. The silver coin at the end—'Buy her some grain'—that's devastating. He's not redeemed. He's just... human." |
-| **Beatrice's doubts** | ❤️ "The 'what if I'm not in love yet' interiority—that's the most honest thing in the whole story. Teens need to hear that love can be built, not just felt." |
-| **"Girly moments" question** | "You don't need fan service. You need *truth*. The lantern line, the doubts, the choice—that's the real stuff. Any 'girly' scene that doesn't serve character or plot would feel like pandering. You've added exactly what was missing." |
-
-**Score:** 10/10 ("This is a limited series. I'd pitch it tomorrow.")
+| Gap | Status | Notes |
+|-----|--------|-------|
+| 1. Climactic confrontation (hearing) | **To be added** | Covered above (Chapter 19). |
+| 2. Godfrey’s agency (scene with King) | **To be added** | Covered above (Chapter 19). |
+| 3. Romance build (2‑3 private scenes) | **Partially added** | We have the garden scene (two questions) and reconciliation. Could add one more small moment (e.g., a shared meal in Chapter 17). |
+| 4. Black moment | **To be added** | New chapter after wedding. |
+| 5. Antagonist resolution (Sir Guy final scene) | **Implemented** (coin). Half‑sisters’ arc – mostly implemented (apology, nod). Add backstory for them? Optional. |
+| 6. Queen’s arc catalyst | **Implemented** via Steps 5 & 6. |
+| 7. Harold’s death scene | **To be added** | New chapter. |
+| 8. Goose motif woven into climax | **To be added** | Add Beatrice’s line in hearing using the proverb. |
+| 9. Historical texture | Optional / To be considered | Could add one or two small touches. |
 
 ---
 
-### Grandma June (72, book club member)
+## Summary of Pending Work (High Priority)
 
-| Element | New Reaction |
-| :--- | :--- |
-| **Beatrice's declaration** | ❤️ "That's a young woman choosing wisely. Her mother would be proud." |
-| **Half-sisters** | ❤️ "The Adela moment—'I'm proving her right'—that's the kind of thing we talk about in book club. Nature vs. nurture. Can people change?" |
-| **Godfrey's proactive moment** | ❤️ "He finally stood up. And he did it quietly, without telling her. That's a good man." |
-| **Sir Guy's backstory** | ❤️ "The coin at the end—'buy her some grain'—that's the most human thing he does. Not forgiveness. Just... acknowledgment." |
-| **Beatrice's doubts** | ❤️ "Every young woman wonders if she's settling. Every mother worries her daughter will. To have her name it—'I think love is something you build'—that's wisdom." |
-| **"Girly moments" question** | "Honey, the whole story is about a girl and her goose and the boy who waited. That's girly enough. What matters is that she *chooses*. And now she does. That's all we need." |
-
-**Score:** 10/10 ("This one's going on the book club list.")
+1. **Add new scenes for Chapters 16–17** (morning lessons, mingling vow overheard, after‑dinner debrief, garden two‑questions, reconciliation). These replace or augment existing vignettes.
+2. **Write the expanded Chapter 19 hearing** (climactic confrontation).
+3. **Add Godfrey’s scene with King** (agency moment).
+4. **Add Harold’s death chapter**.
+5. **Add black moment chapter** after wedding.
+6. **Weave goose proverb into hearing**.
+7. **Ensure all other implemented changes are correctly placed** (many are already in your text).
 
 ---
 
-## Panel Poll: "Do we need any more 'girly' moments or fan service?"
-
-| Reader | Vote | Reasoning |
-| :--- | :--- | :--- |
-| **Eleanor** | No | "The lantern line and the doubts are enough. I don't need dress-up scenes." |
-| **Dr. Sarah Chen** | No | "Historical accuracy would support courtly training scenes, but they'd slow the pace. The emotional beats you've added are the right focus." |
-| **Maya Okonkwo** | No | "Fan service would undercut the authenticity. You've addressed the gaps without pandering. Trust your instincts." |
-| **Grandma June** | No | "The story's about her heart, not her clothes. You've given us her heart. That's enough." |
-
-**Unanimous:** No additional "girly" scenes needed. The added interiority and declaration scenes provide the emotional depth without sacrificing tone.
-
----
-
-## Remaining Issues (None)
-
-| Previous Gap | Status |
-| :--- | :--- |
-| Half-sisters' parentage | ✓ Clarified |
-| Beatrice's active choice | ✓ Added night-before-wedding declaration |
-| Godfrey's proactive moment | ✓ Added armory confrontation |
-| Beatrice's internal struggles | ✓ Added window seat doubts |
-| Sir Guy's psychology | ✓ Added backstory and coin epilogue |
-| "Tree" overuse | ✓ Reduced |
-| Duchess letter accuracy | ✓ Noted |
-| "Bide" vs. "wait" | ✓ Unified to "wait" |
-
----
-
-## Final Panel Verdict
-
-| Reader | Score | One-line verdict |
-| :--- | :--- | :--- |
-| **Eleanor** | 10 | "She's real. He's real. The goose is real. I'm crying." |
-| **Dr. Sarah Chen** | 10 | "Historical fiction at its finest—rigorous, alive, and deeply human." |
-| **Maya Okonkwo** | 10 | "A limited series waiting to happen. Pitch it. Now." |
-| **Grandma June** | 10 | "This one stays with you. I'll be thinking about it for weeks." |
-
-**Composite Score: 10/10**
-
----
-
-The goose leads. The women approve. The story is ready.
-
-
-TODO (3)
-
-I’ll give you a **brutally honest** review from the perspective of a site or reader who expects a tight, emotionally satisfying historical romance. I’ll list what’s missing—the gaps that will be called out—and then give a concrete plan to fill them.
-
----
-
-## What’s Missing (The Brutal Rundown)
-
-### 1. **A Clear Climactic Confrontation**
-The story builds tension beautifully, but the resolution feels diffuse. The wedding is lovely, but there’s no **single, high‑stakes scene** where the central conflict—Beatrice proving she belongs, Godfrey stepping out of the shadows, the court accepting them—reaches a peak and breaks.
-
-- Sir Guy’s legal challenge (Ch. 19) is dismissed *off‑stage* by Roger of Salisbury. That robs us of a satisfying face‑off.
-- The half‑sisters’ hostility fizzles after the Queen’s public statement (Ch. 20). They disappear without a scene where Beatrice confronts them or earns their grudging respect.
-- Godfrey’s internal arc—“the shadow”—is talked about but never tested in a moment where he must act decisively.
-
-**Result**: The ending feels like a series of small victories rather than a hard‑won triumph.
-
-### 2. **Godfrey’s Agency Is Underdeveloped**
-He’s a sympathetic watcher, but we never see him **choose** Beatrice with his own will *after* the vow. The vow itself is the King’s impulsive act. Godfrey’s subsequent actions (walking her home, visiting Stanwey) are dutiful or kind, but not presented as a rebellion against his father’s command or a conscious claiming of his own life.
-
-- A scene where he explicitly says “I want this” to the King (or to himself) is missing.
-- His relationship with his half‑sisters and Sir Guy is never addressed; he never defends Beatrice directly.
-
-### 3. **The Antagonists Lack Depth and Resolution**
-- **Sir Guy** is a cartoon bully. He disappears after the legal challenge is dismissed. No final scene, no comeuppance that Beatrice or Godfrey witnesses.
-- **Avice and Eustacia** are one‑note. They insult Beatrice, get silenced by the Queen, and then “married well and moved away” in the epilogue. We never see a moment where Beatrice rises above them or where they’re forced to acknowledge her worth.
-- **The “Brittany threat”** (Agnes of Brittany) is mentioned repeatedly but never materializes as a real obstacle. No scene where Conan’s envoys arrive, no moment where Godfrey must refuse the ten thousand marks.
-
-### 4. **The Goose Motif Is Underutilized**
-The opening proverb (“A goose may wend where a king must bide”) is a wonderful hook. But apart from Goosie’s comic relief and the final image, the proverb’s deeper meaning—that the humble, persistent, true‑hearted can go where power cannot—is never **articulated** in the plot. Beatrice’s “goose‑like” qualities (tenacity, loyalty, being underestimated) are shown, but the story doesn’t tie them to the proverb in a culminating way.
-
-### 5. **Historical Texture Is Light**
-The setting feels like “castle, king, court” with generic medieval trappings. For a story grounded in 12th‑century England (Henry I, the White Ship disaster is referenced obliquely), there’s little period specificity:
-- The legal/political system (escheat, wardship, the King’s justice) is mentioned but not dramatized.
-- The tension between Normans and Saxons is introduced (Harold Red‑Wolf, the “civilising” comment) but fades after the wedding.
-- The Church is almost invisible (a priest appears briefly, but no ecclesiastical politics).
-
-### 6. **The Love Declaration Feels Rushed**
-Beatrice’s “the man you love” (Ch. 21) comes after a single conversation about shadows. There’s no **gradual build** of physical or emotional intimacy—no shared glances, small touches, or private moments that show her falling in love. The reader is told they’ve been spending time together, but we don’t *see* enough of it.
-
-### 7. **The Queen’s Transformation, While Good, Skips a Beat**
-We see her move from opposition to a private conversation (Ch. 18) to public protection (Ch. 20). But the **catalyst** for her change is unclear. Why does she suddenly decide to support Beatrice? Her line “You were the best of my accidents” implies she now sees value in the match, but the story doesn’t show what convinced her—beyond one garden talk.
-
-### 8. **Harold’s Death Is Handled in the Epilogue**
-His death (and the staghound’s) is mentioned in a single paragraph. For a character who anchored Beatrice’s motivation and provided emotional weight, his passing deserves a scene—or at least a moment where Beatrice grieves and Godfrey supports her.
-
-### 9. **No Final Test of the Relationship**
-After the wedding, there’s no external threat that forces Beatrice and Godfrey to prove their bond. The epilogue summarizes their happy life, but we don’t see them face a crisis together. In romance structure, the “black moment” (where all seems lost) is missing.
-
----
-
-## Plan to Address the Gaps
-
-### 1. **Add a Climactic Confrontation Scene**
-- **Replace the off‑stage dismissal of Sir Guy’s claim** with a public hearing in the King’s hall. Beatrice must argue for Stanwey herself (drawing on her knowledge of the manor and her mother’s lessons). Godfrey speaks in her defense—publicly choosing her over his status. The Queen, already converted, quietly supports. Sir Guy is humiliated and banished from court.
-- **Combine this with a final confrontation with the half‑sisters.** After Beatrice wins the legal case, Avice and Eustacia attempt one last slight. Beatrice turns to them and delivers a quiet, devastating line (e.g., “I am sorry you were never seen. But that is not my fault.”). They are forced to curtsey to her, and the court sees it.
-
-### 2. **Give Godfrey a Moment of Agency**
-- **Add a scene after the Queen’s public protection (Ch. 20) where Godfrey goes to his father.** He thanks the King for the vow, but says: “I would have chosen her anyway.” He explains why—tying back to the childhood meeting and the qualities he sees in her. This shows him stepping out of the shadow.
-- **In the legal hearing, have Godfrey speak before the court**—not just as the King’s son, but as Beatrice’s intended, stating that Stanwey is hers by right and he will defend it.
-
-### 3. **Deepen the Antagonists**
-- **Give Avice and Eustacia a brief backstory** (through Lady Margaret or a short scene) explaining their bitterness. Perhaps their own marriages were arranged poorly, or they were denied dowries. This makes their defeat more resonant.
-- **Give Sir Guy a final scene**—not redemption, but a moment where he realizes he’s been outmaneuvered by a “goose girl.” He leaves court disgraced, maybe with a bitter line that echoes his earlier arrogance.
-- **Introduce a tangible “Brittany threat”** —an envoy from Conan arrives at court, offering the ten thousand marks directly to Henry. Godfrey must publicly refuse it, stating his commitment to Beatrice. This raises the stakes and gives him an active choice.
-
-### 4. **Weave the Goose Proverb into the Plot’s Resolution**
-- In the legal hearing, have Beatrice use the proverb in her argument. She might say: “A goose may wend where a king must bide. My goose brought me to your hall, and your vow bound us. But it is not the vow that holds me—it is my own two feet. I have walked every field of Stanwey. I have tended its people. No knight who has never mucked a stable can claim it.”
-- In the epilogue, the old woman’s line is already there. Strengthen it by having someone repeat it during the wedding, linking back to the opening.
-
-### 5. **Add Historical Texture**
-- **Incorporate a real historical detail:** the White Ship disaster (1120) is in the future, but you could hint at it (e.g., a sailor’s song, a worried look from the Queen). Or use the Investiture Controversy to show church involvement. Even small touches—a mention of the exchequer, a scene in the treasury with Roger of Salisbury—would ground the story.
-- **Show the Norman‑Saxon tension** in a minor subplot: maybe a village dispute where Beatrice uses her Saxon heritage to mediate, proving her worth to Norman knights.
-
-### 6. **Build the Romance More Gradually**
-- **Add two or three small scenes** between Chapters 15 and 21 where Beatrice and Godfrey interact privately—a walk in the garden, a shared meal, a moment of vulnerability. Show his quiet humor, her growing ease. Use small physical details: a brush of hands, a glance held too long.
-- **Move the “the man you love” confession earlier**—or at least show Beatrice realizing it before she blurts it out. A moment of internal reflection would make it feel less abrupt.
-
-### 7. **Clarify the Queen’s Conversion**
-- **Add a scene** between the garden talk (Ch. 18) and the public declaration (Ch. 20) where the Queen observes something that changes her mind. For instance: she sees Beatrice comforting a crying servant child, or hears how Beatrice managed Stanwey during Harold’s illness. The Queen then says to herself (or to Lady Margaret) something like, “She is what this court needs—someone who sees people, not positions.”
-
-### 8. **Give Harold’s Death a Scene**
-- Move Harold’s death from the epilogue to a chapter of its own. Show Beatrice receiving the news, the journey home, the vigil. Godfrey stays by her side. This gives emotional weight and shows his support in crisis. It also makes the epilogue’s summary feel like a graceful skip forward, not a gloss.
-
-### 9. **Add a “Black Moment” Crisis**
-- **Introduce a final obstacle after the wedding** that tests their bond. For example:
-  - The King demands Godfrey accompany him to Normandy for a year, separating the newlyweds.
-  - A false rumor spreads that the marriage is invalid (because of the vow’s irregularity) and Beatrice is sent away.
-  - Beatrice miscarries their first child (though that might be too heavy).
-- This crisis should force both characters to act: Godfrey defies the King (or proves himself), Beatrice holds Stanwey alone. They overcome it together, cementing their partnership. The epilogue can then show their later life with earned happiness.
-
----
-
-## Summary of Recommended Revisions (Priority Order)
-
-| Priority | Gap | Solution |
-|----------|-----|----------|
-| **1** | Missing climax | Add public hearing / confrontation with Sir Guy and half‑sisters; Godfrey speaks in court. |
-| **2** | Godfrey’s agency | Add scene with King where Godfrey claims his choice; include his public defense of Beatrice. |
-| **3** | Romance build | Add 2‑3 private scenes before love confession; deepen physical/emotional intimacy. |
-| **4** | Black moment | Add a crisis after wedding that forces them to prove their bond. |
-| **5** | Antagonist resolution | Give Sir Guy a final scene; flesh out half‑sisters’ motivation and defeat. |
-| **6** | Queen’s arc catalyst | Add a scene where she sees Beatrice’s worth (between Ch. 18 and 20). |
-| **7** | Harold’s death | Move to a full chapter; show grief and Godfrey’s support. |
-| **8** | Goose motif | Weave proverb into legal hearing or wedding speech. |
-| **9** | Historical texture | Add specific 12th‑century details (exchequer, church, White Ship hint). |
-
----
-
-TODO (4) -- A crosscheck for holes in who knows what and when.
-
-1. I guess she might ask two questions. would you have chosen me without a vow (yes [probably]), probably? so, (annoyed) what would you have done if another had arrived before me? (blank look, long pause, crippling look bordering on heartbreak, my duty). He stands, upset, walking off, turns. I will say this: I am grateful to God that it was you and no other. Her heart melts/changes. She stands. whispers. we're still getting to know one another. (realistic might be that he walks off, a day passes, (lady margaret chats?) they reconvene, they both appologise, he confirms it was partly his fears partly his wish for her to be free from the vow, to choose. perhaps she doesn't understand but says 'but it's the king's vow and the king's word is law surely'. 'the very think that i've lived my whole life under', 'is the king's word so harsh', interrupted by lady margaret arriving (and overhearing, which the queen will be interested to hear beatrice defending the king), we can imply this by the queen giving word to godfrey in passing Queen Matilda: “I have perhaps not been to you the mother you needed. For that, I am sorry.”
-
-Godfrey: (surprised, silent)
-
-Queen Matilda: “Your father means well, even if his word falls like a hammer. He gave you to a vow, in part to protect you. But he also gave you to a woman who asked if that word was harsh—not for herself, but for you. That is not nothing.”
-
-She pauses.
-
-Queen Matilda: “It may be true that you shall not refuse the king's word to this marriage, but it also may be true that God has given you something that I did not expect. And, if so, you must treasure and protect such a rare gift.”
-
-Godfrey leaves, visibly moved.
-
----
-
-At length...
-
-I’ll integrate your detailed beats for point 1 and fold in the Queen’s catalyst as you’ve described. Below is the **revised plan** with specific scene placements, dialogue summaries, and how they interconnect.
-
----
-
-## Revised Plan – Point 1 (Beatrice Learns the Vow)
-
-### Step 1: Half‑Sisters Weaponize the Vow
-**Location:** Court exposure phase (Chapter 15 or 16, e.g., after the wine spill).  
-**Scene:** Avice or Eustacia corners Beatrice and delivers the cutting truth:  
-> “Any kitchen maid could have walked through that door after the King spoke and be wearing that ring. Don’t fancy yourself chosen.”
-
-Beatrice is stunned but doesn’t break down. She files it away.
-
-### Step 2: Lady Margaret Explains
-**Location:** Immediately after, in Beatrice’s chamber or a quiet corridor.  
-**Content:**  
-- Margaret confirms the vow was rash, made in anger, and everyone in the hall heard it.  
-- She describes Godfrey: “He has spent his life being moved by others’ decisions. The King’s vow was not his choice. But he walked you home, didn’t he? He waited. That was his choice.”  
-- She advises Beatrice to speak with him directly if she wants truth.
-
-### Step 3: Beatrice Confronts Godfrey (Two Questions)
-**Location:** A private spot—the garden, a quiet courtyard (could replace the existing “night before wedding” scene, or be placed earlier, e.g., Chapter 17).  
-
-**Beats as you outlined:**  
-
-1. **First question:** “Would you have chosen me without the vow?”  
-   Godfrey hesitates, then: “Yes.” (She presses for honesty; he admits “probably” if pushed—he was drawn to her from the start.)  
-
-2. **Second question (annoyed):** “What would you have done if another had arrived before me?”  
-   **Godfrey’s reaction:** Long pause. Blank look. Then, with crippling honesty: “My duty.” He stands, upset, begins to walk off.  
-
-3. He turns back, voice raw:  
-   > “I will say this: I am grateful to God that it was you and no other.”  
-
-4. Beatrice’s heart melts. She steps closer, whispers:  
-   > “We’re still getting to know one another.”
-
-### Step 4: A Day Passes (Reconciliation)
-**Location:** Next day, possibly after Lady Margaret has spoken with Beatrice again.  
-
-- Godfrey and Beatrice meet again (perhaps in the same garden).  
-- They both apologize—he for his silence, she for pushing him into a corner.  
-- He explains: “I didn’t tell you because I wanted you to choose freely. If you knew the vow, you might have felt trapped. I wanted you to choose me—not because a king commanded it.”  
-- Beatrice (now understanding) says: “But it’s the king’s vow. His word is law, surely.”  
-- Godfrey, with a hint of bitterness: “The very thing I’ve lived my whole life under.”  
-- **Interruption:** Lady Margaret arrives (she has been looking for Beatrice) and overhears the last exchange—specifically Beatrice defending the king’s word as law.
-
-### Step 5: Lady Margaret Reports to the Queen
-**Location:** Off‑stage or a brief scene.  
-- Margaret tells the Queen what she overheard: the girl who was humiliated by the vow now defends its binding nature—not for herself, but for Godfrey’s sake.  
-- This becomes the catalyst for the Queen’s change of heart, as she knows the king's human limits and struggles.
-
-### Step 6: Queen’s Private Conversation with Godfrey
-**Location:** A short scene (could be a new chapter or added to an existing one, placed before the Queen’s public protection in Chapter 20).  
-
-**Dialogue (as you wrote):**  
-
-> **Queen Matilda:** “I have perhaps not been to you the mother you needed. For that, I am sorry.”  
-> **Godfrey:** (surprised, silent)  
-> **Queen Matilda:** “Your father means well, even if his word falls like a hammer. He gave you to a vow, in part to protect you. But he also gave you to a woman who asked if that word was harsh—not for herself, but for you. That is not nothing.”  
-> *(She pauses.)*  
-> **Queen Matilda:** “It may be true that you shall not refuse the king’s word to this marriage, but it also may be true that God has given you something that I did not expect. And, if so, you must treasure and protect such a rare gift.”  
-
-Godfrey leaves, visibly moved. This moment completes his emotional arc (being seen by a mother‑figure) and shows the Queen’s full conversion.
-
----
-
-## How This Fits with Other Points
-
-- **Point 2 (half‑sisters weaponize the vow)** is satisfied by Step 1.  
-- **Point 3 (Harold’s knowledge)** remains separate; we’ll add Godfrey telling Harold directly in Chapter 13.  
-- **Point 6 (Queen’s motivation)** is now fully dramatized via Step 5 and Step 6—no off‑stage guessing.  
-- **Point 7 (Sir Guy’s challenge)** will still be included in the expanded Chapter 19 hearing, with the vow argument as part of his case. This should be set in motion by a background player trying to pull strings. (A missive arrives in french?)
-
----
-
-## Revised Summary of Changes
-
-| Gap | Revised Action | New Scenes/Changes |
-|-----|----------------|--------------------|
-| 1. Beatrice learns vow | Half‑sisters taunt; Lady Margaret explains; two‑question confrontation; day‑apart; reconciliation with Godfrey; Lady Margaret overhears. | Add ~3 new scenes in Ch. 15‑17 (can replace some existing shorter vignettes). |
-| 2. Half‑sisters use vow | Taunt included in Step 1. | One line added. |
-| 3. Harold’s knowledge | Godfrey tells Harold directly in Ch. 13. | Amend existing dialogue. |
-| 6. Queen’s motivation | Catalyst via Lady Margaret’s report; private conversation with Godfrey (apology). | Add two scenes (report + Queen‑Godfrey talk) before Ch. 20. |
-| 7. Sir Guy’s challenge | Include vow argument in expanded Ch. 19 hearing. | Add to existing plan for that chapter. |
-
+If you’d like, I can now draft any of these missing scenes (e.g., the full hearing, the garden two‑questions, the black moment) so you can integrate them. Let me know which you’d like to tackle first.
 
 ---
 TODO (last) -- revise student questions
@@ -3688,700 +3424,4 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Candlemas trap** | — | **2 Feb 1115** |
 
 ---
-
-This master table is now complete, internally consistent, and ready for use as the reference document for all future writing. Every date, age, attack, defense, and emotional beat is fixed and cross-referenced.
-
----
-
-TIMELINE REASONING / DEFENCE
-
-Here is the expanded master table with **Key Reasoning** added for each major element—explaining the *why* behind dates, placements, and character decisions based on our research and discussions.
-
----
-
-# THE GOOSE BRIDE — MASTER TIMELINE WITH KEY REASONING
-## *1114-1115 Edition — Fully Annotated*
-
----
-
-## Fixed Historical Anchors
-
-| Date | Event | Type | Key Reasoning |
-| :--- | :--- | :--- | :--- |
-| **1066** | Norman Conquest | Real | Foundational event; Harold's youth spent in resistance |
-| **1068** | Henry I born | Real | Fixed historical date |
-| **c. 1080** | Matilda of Scotland born | Real | Approximate; historians place her birth c. 1080 |
-| **1100** | Henry becomes king; marries Matilda | Real | After William II's death; unites Norman and Saxon lines |
-| **1102** | William Adelin born | Real | Henry's legitimate heir; Queen's motivation to protect him |
-| **March 1113** | Treaty of Gisors; Matilda FitzRoy betrothed to Conan | Real | Brittany now under English suzerainty; Duchess's backstory |
-| **March-July 1114** | Henry in Normandy, then Wales campaign | Real | Historical record shows Henry abroad until mid-1114 |
-| **Aug-Sept 1114** | Henry returns, consolidates after Wales | Real | He would need to re-establish presence in England |
-| **Mid-Oct 1114** | Royal progress through Midlands | Real | Standard practice after absence; Rockingham logical stop |
-| **Tuesday, 20 Oct 1114** | **KING'S HALL AT ROCKINGHAM** | **Story Fixed Point** | Optimal hunting weather; Henry known to hunt here; fits "frosty morning" |
-| **1118** | Queen Matilda dies | Real | After story ends; allows her full participation |
-| **1120** | White Ship disaster | Real | William dies; succession crisis begins (foreshadowing possible) |
-
----
-
-## Character Birth Table with Reasoning
-
-| Character | Status | Birth Year | Key Reasoning |
-| :--- | :--- | :--- | :--- |
-| **Harold Red-Wolf** | Fic | **c. 1050** | Old enough to fight at Conquest (age 16) and still plausible at wedding (age 65); warrior credibility |
-| **Beatrice's mother** | Fic | **c. 1077** | Young enough to bear Beatrice in 1098 (age 21); old enough to have been at court in 1090s (possible nurse connection) |
-| **Nurse** | Fic | **c. 1075** | ~20 when Godfrey born (1095)—plausible as wet nurse; ~28 at meadow (1103); ~39 at story |
-| **Henry I** | Real | 1068 | Fixed |
-| **Queen Matilda** | Real | c. 1080 | Fixed; age 34 at story—credible as mature queen with political weight |
-| **Roger of Salisbury** | Real | c. 1065 | Fixed; age 49—credible as senior administrator |
-| **Sir Guy de Montfort** | Fic | **c. 1090** | ~24 at story—young enough to be hot-headed, old enough to be knight |
-| **Godfrey FitzRoy** | Fic | **c. 1095** | Henry age 27—plausible for illegitimate son; ~8 in meadow (1103), ~19 at hall (1114)—right for "shadow" status |
-| **William Adelin** | Real | 1102 | Age 12 at story—old enough to be present, young enough to need protection |
-| **Beatrice** | Fic | **c. 1098** | Age 16 at hall—historically plausible for marriage, modernly acceptable; born spring (apple blossoms motif) |
-| **Duchess Matilda FitzRoy** | Real | c. 1096? | ~18 at story; betrothed 1113, marries 1118—fits Christmas visit 1114 |
-| **Half-sister Avice** | Fic | c. 1093? | ~21—older than Godfrey; plausible jealous dynamic |
-| **Half-sister Eustacia** | Fic | c. 1095? | ~19—same age as Godfrey; competitive |
-| **Lady Margaret** | Fic | c. 1085? | ~29—experienced court lady, credible mentor |
-| **Goosie** | Fic | 1103 | Hatches same year as meadow; age 11 at story—old for goose but possible; emotional anchor |
-
----
-
-## Master Timeline with Reasoning
-
----
-
-### PART ONE: THE SEED (1103-1109)
-
-| Year | Date | Event | Key Reasoning |
-| :--- | :--- | :--- | :--- |
-| **1103** | Spring | Meadow encounter with boy (Godfrey, age 8) | Beatrice age 5—old enough to remember vaguely; Godfrey age 8—plausible age to be visiting nurse; sets up fated connection |
-| **1103** | Spring | Farm visit; acquire goose egg | Nurse at farm (Godfrey's former nurse); "my lady" plants ambiguity about mother's past; practical goose-raising knowledge |
-| **1103** | Spring | Goosie hatches (hen surrogate) | Historical method (broody hen sits on goose eggs); Beatrice names her; establishes bond |
-| **1103-1108** | — | Mother lessons | Years of teaching; shows Beatrice's competence source; mother's gradual decline |
-| **1109** | Spring | Mother dies | Beatrice age 11—old enough to remember, young enough to need father; apple blossoms motif; Harold's grief begins |
-
----
-
-### PART TWO: THE YEARS BETWEEN (1109-1114)
-
-| Year | Date | Event | Key Reasoning |
-| :--- | :--- | :--- | :--- |
-| **1109-1114** | — | Beatrice runs manor | Shows her competence; Harold declines naturally; Goosie constant |
-| **March-July 1114** | — | Henry in Normandy/Wales | Historical fact—explains why he might be eager to hunt on return |
-| **Aug-Sept 1114** | — | Henry returns, consolidates | Historical—he would re-establish presence |
-| **Early Oct 1114** | — | Royal progress toward Rockingham | Standard practice; Rockingham logical stop |
-
----
-
-### PART THREE: THE HALL (October 1114)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **Mon 19 Oct** | Messenger arrives at Stanwey | Purveyance—historical right of crown; Beatrice's decision shows agency |
-| **Tue 20 Oct** | **King's Hall at Rockingham** | Optimal hunting date; Henry's mood from failed hunt drives vow |
-| **Tue 20 Oct** | Henry recognizes Harold | Old debt surfaces—Harold saved Robert Curthose (historical brother) |
-| **Tue 20 Oct** | Queen invokes vow; betrothal announced | Vow spoken *coram rege*—legally binding; Beatrice unaware—dramatic irony |
-| **Tue 20 Oct** | Godfrey commanded to escort her | Henry's instinct—sends son, not guard, signaling something |
-| **Tue 20 Oct** | **The Walk Home** | Emotional core; Godfrey's patience; connection forms |
-| **Tue 20 Oct** | Stanwey arrival; Godfrey waits | He lets her tell Harold alone—shows character |
-| **Tue 20 Oct** | Harold's recognition ("wolf/tree") | Harold understands king's coded language from his own court experience |
-| **Tue 20 Oct** | Godfrey asks Harold properly | Asks for courtship, not assuming—respect earns respect |
-| **Wed 21 Oct** | Godfrey returns to court | Promise to return |
-
----
-
-### PART FOUR: FIRST COURT EXPOSURE (November 1114)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **c. 1-3 Nov** | Beatrice returns to court (first visit) | Court assembles after hunting; natural time |
-| **c. 4 Nov** | **Meeting the half-sisters** | Fictional but plausible—Godfrey as acknowledged bastard would have siblings |
-| **c. 5 Nov** | First formal dinner | Table manners test—historical court etiquette |
-| **c. 6 Nov** | Sir Guy's first rumor | Antagonist action—sets up later conflict |
-| **c. 7-10 Nov** | Daily tutelage with Lady Margaret | Queen likely assigns her—subtle protection |
-| **c. 8 Nov** | Half-sister wine spill | Small cruelty—tests Beatrice's reaction |
-| **c. 10 Nov** | Godfrey visits Stanwey | Weekend visit—courtship progressing |
-
----
-
-### PART FIVE: STANWEY INTERLUDE (Mid-November 1114)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **c. 16-23 Nov** | Godfrey at Stanwey (extended) | Shows character through action—helping with manor |
-| **c. 18 Nov** | Goosie's full acceptance | Animal judge trope; "She knows who she is" |
-| **c. 20 Nov** | Harold's health wobbles | Foreshadows mortality; Beatrice's care |
-| **c. 22 Nov** | Letter from court: Christmas invitation | Queen likely extends—testing or including? |
-| **c. 24 Nov** | Return to court for pre-Christmas | Court prepares for Yule |
-
----
-
-### PART SIX: CHRISTMAS COURT & DUCHESS VISIT (December 1114)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **c. 16 Dec** | Court assembles for Christmas | Historical—royal courts gathered for Christmas |
-| **c. 18 Dec** | **Duchess of Brittany arrives** | Christmas visit natural for king's daughter; betrothed but not yet married (1118) |
-| **c. 19 Dec** | Half-sisters whisper to Duchess | Attempt to poison well—fails |
-| **c. 20 Dec** | **Garden walk with Duchess** | Memory connection (oblique)—nurse's farm, goose chase echo |
-| **c. 21 Dec** | Duchess observes Beatrice at dinner | Confirms her judgment |
-| **c. 22 Dec** | Duchess and Queen private conversation | Allies form; Queen receives report |
-| **c. 23 Dec** | Yule feast | Public test; Duchess's silent support |
-| **c. 24-26 Dec** | Christmas celebrations | Duchess's warmth evident |
-| **c. 27 Dec** | Duchess departs | Must return to Brittany; enemies regroup |
-| **c. 28-31 Dec** | New Year's Eve court | Whispers return—tide pattern |
-
----
-
-### PART SEVEN: THE DARKEST (January 1115)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **c. 2-5 Jan** | Post-holiday court | Natural low after festivities |
-| **c. 6 Jan** (Epiphany) | Feast of Epiphany | Major feast—public pressure |
-| **c. 8 Jan** | Sir Guy's legal challenge | Legal threat based on escheat—plausible medieval claim |
-| **c. 10 Jan** | Rumors from Brittany | Brittany faction tests waters |
-| **c. 12 Jan** | **Harold collapses** | Health crisis—tests Beatrice's priorities |
-| **c. 13-18 Jan** | Beatrice at Stanwey with Harold | Love is not strategic—she goes |
-| **c. 19 Jan** | Returns to court | Vulnerable |
-| **c. 20 Jan** | **Overhears cruelty** | Darkest moment—words wound |
-| **c. 20 Jan** (afternoon) | **Window seat with Goosie** | Alone; animal comfort |
-| **c. 20 Jan** (evening) | **Queen finds her** | Queen seeks her out—intentional |
-| **c. 20 Jan** (night) | **Queen's speech** | "Edith" revealed—Queen's own journey; moral center |
-
----
-
-### PART EIGHT: QUEEN'S SECRET PROTECTION (Late January - February 1115)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **c. 22 Jan** | Queen ensures Lady Margaret stays | Behind-scenes protection |
-| **c. 23 Jan** | Half-sisters plan for Candlemas | Escalation |
-| **c. 24 Jan** | Godfrey senses something | Intimacy growing |
-| **c. 25 Jan** | Beatrice tells Godfrey (partially) | Trust building |
-| **c. 26 Jan-1 Feb** | Quiet period at Stanwey | Healing |
-| **c. 2 Feb** (Candlemas) | **Candlemas Feast** | Trap fails—Queen's warning worked |
-| **c. 3-10 Feb** | Sir Guy's final attempt | Last gasp |
-| **c. 12 Feb** | Half-sisters realize tide turning | Adaptation |
-
----
-
-### PART NINE: PUBLIC TURN (February - March 1115)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **c. 14 Feb** | **Queen's public acknowledgment** | Valentine's? No—but significant date; public validation |
-| **c. 15 Feb** | Herb gift discovered | Skill earns respect |
-| **c. 16-28 Feb** | Weeks of growing acceptance | Whispers fade |
-| **c. 1 Mar** | Harold well enough to visit court | Recovery; father's pride |
-| **c. 2-15 Mar** | Wedding preparations | Court activity |
-
----
-
-### PART TEN: WEDDING (Spring 1115)
-
-| Date | Event | Key Reasoning |
-| :--- | :--- | :--- |
-| **c. 20 Apr** (Easter season) | **Wedding day** | Spring wedding—traditional; Easter season symbolically rich |
-| **c. 20 Apr** | Procession | Goose leads—non-negotiable image |
-| **c. 20 Apr** | Feast | Celebration |
-| **c. 21 Apr+** | Aftermath | New life begins |
-
----
-
-## Historical Figures — Key Reasoning Summary
-
-| Figure | Role in Story | Historical Basis | Reasoning for Portrayal |
-| :--- | :--- | :--- | :--- |
-| **Henry I** | King, volatile father | Real (1068-1135) | Known as "Lion of Justice," fierce, educated, illegitimate children; his youth as landless son informs his defense of Godfrey |
-| **Queen Matilda** | Queen, eventual ally | Real (c. 1080-1118) | Born Edith of Scotland; Saxon mother; known for piety, charity, co-rule; her "Edith" identity allows empathy with Beatrice |
-| **Roger of Salisbury** | Justiciar, cold calculator | Real (c. 1065-1139) | Henry's chief administrator; ran royal treasury; sees people as numbers—perfect "system" antagonist |
-| **William Adelin** | Heir, Queen's motivation | Real (1102-1120) | Age 12; his death 1120 (White Ship) after story—Queen's fear for him drives initial opposition |
-| **Duchess Matilda FitzRoy** | Godfrey's sister, ally | Real (c. 1096-?) | Daughter of Henry; married Conan III of Brittany 1118; visit 1114 plausible while betrothed |
-| **Robert Curthose** | Henry's imprisoned brother | Real (c. 1051-1134) | Harold saved him from Severn—historical event adapted; source of old debt |
-
----
-
-## Fictional Characters — Key Reasoning Summary
-
-| Figure | Role | Reasoning |
-| :--- | :--- | :--- |
-| **Beatrice** | Protagonist | Saxon thegn's daughter; age 16—plausible marriage age, modernly acceptable; runs manor—shows competence; mother's death—emotional anchor |
-| **Godfrey** | Deuteragonist | Illegitimate son of Henry—historical pattern; age 19—old enough to be overlooked, young enough to grow; "watcher" nature from shadow childhood |
-| **Harold Red-Wolf** | Father | Saxon thegn; old warrior—credible backstory; age 64—plausible frailty; debt to Henry drives recognition scene |
-| **Beatrice's mother** | Memory figure | At court in 1090s? Nurse's "my lady" hints; taught Beatrice everything—source of her skills; death sets story in motion |
-| **Nurse** | Connection figure | Godfrey's former nurse; at farm near Stanwey; "my lady" to mother—ambiguous link |
-| **Sir Guy de Montfort** | Antagonist | Young Norman knight; age 24; insulted by Beatrice at fair—personal spite; wants Stanwey lands; legal challenge plausible |
-| **Half-sister Avice** | Antagonist | Age 21; jealous of Godfrey? or just cruel? represents court hostility |
-| **Half-sister Eustacia** | Antagonist | Age 19; competitive; pair with Avice |
-| **Lady Margaret** | Mentor | Age 29; experienced court lady; assigned by Queen (likely); daily guidance |
-
----
-
-## Key Historical/Legal Concepts
-
-| Concept | Role in Story | Reasoning |
-| :--- | :--- | :--- |
-| **Purveyance** | Brings Beatrice to court | Crown right to seize goods for royal household; historical |
-| **Forest Law** | Henry's absolute power | King owns all game; "my father owns all the geese" literal truth |
-| **Thegn** | Harold's status | Saxon noble rank; below Norman baron but respected |
-| **Escheat** | Sir Guy's legal threat | Land reverts to crown if no heir; Sir Guy could claim Stanwey |
-| **Vow *coram rege*** | Plot engine | Spoken before court—sacred, binding; cannot be undone |
-| **Wardship** | Godfrey holds Stanwey | After marriage, husband controls wife's lands; historical |
-
----
-
-## Why 1114 Works (Summary)
-
-| Factor | 1113 | 1114 |
-| :--- | :--- | :--- |
-| **Henry's location** | In Normandy | **In England** (Wales campaign done, autumn progress) |
-| **Rockingham hunting** | Possible but unconfirmed | **Confirmed as royal itinerary stop** |
-| **Matilda's presence** | Possible | **Likely—she traveled with court** |
-| **Duchess visit** | Betrothed 1113 | **Still betrothed; Christmas visit natural** |
-| **Beatrice's age** | 15 | **16** (better for modern sensibilities) |
-| **Courtship window** | 1 year | **6 months** (tighter, more dramatic) |
-| **Historical texture** | Good | **Better—grounded in real 1114 events** |
-
----
-
-This annotated master table now serves as the complete reference document for *The Goose Bride*, with every date, age, event, and character placement explained and justified.
-
-The goose leads. The research holds. The story stands.
-
----
-
-## The Illegitimate Children of Henry I
-
-While chroniclers estimate Henry I had around 22 to 25 illegitimate children, identifying every single one with a mother and birthplace is challenging due to the lack of contemporary records. Historians generally agree on the following key individuals and their maternal origins.
-
-| Child | Mother | Mother's/Birth Locale | Notes |
-|---|---|---|---|
-| 🔥 Robert of Gloucester | Likely Sybilla Corbet	 | Domfront, Normandy / Alcester | The most powerful and loyal bastard. Principal supporter of Empress Matilda. Died 1147. |
-| 🔥 Richard of Lincoln | Ansfride | Abingdon, Oxfordshire | Mother was the widow of a knight from Abingdon. Died in the White Ship disaster (1120). |
-| 🔥 Fulk FitzRoy | Ansfride (likely) | Abingdon, Oxfordshire | A monk at Abingdon; died before 1135; Appears in charters with his brother Richard. |
-| ❤️ Sybilla, Queen of Scots | Sybilla Corbet | Domfront, Normandy / Alcester | Born in Normandy; mother from Alcester, Warwickshire; Married Alexander I of Scotland; Died 1122. |
-| ❤️ Juliane de Fontevrault | Ansfride (likely) | Abingdon / Normandy | Famous for trying to kill her father with a crossbow after a hostage dispute. |
-| 🔥 Reginald, Earl of Cornwall | Sybilla Corbet | Dénestanville, Normandy | A key supporter of Empress Matilda. |
-| 🔥 William Constable | Sybilla Corbet | Alcester, Warwickshire | Full brother to Reginald and Sybilla. Died after 1187. Held the title Constable of England |
-| ❤️ Rohese | Sybilla Corbet | Alcester, Warwickshire | Married Henry de la Pomerai. |
-| ❤️ Gundred | Sybilla Corbet | Alcester, Warwickshire | Married William, Lord of Warenne (though some sources attribute her to a different mistress). Often listed as a "possible" child of Henry. |
-| ❤️ Matilda (Maud), Duchess of Brittany | Unknown | Normandy / Brittany | Married Conan III; sister of fictional Godfrey. |
-| ❤️ Matilda (Maud), Countess of Perche | Unknown | Normandy | Married Rotrou III, Count of Perche. Died in the White Ship disaster of 1120. |
-| ❤️ Matilda (Maud), Abbess | Unknown | Montivilliers, Normandy | Abbess of Montivilliers (in Normandy). Died after 1129. Supported her half-sister, Empress Matilda. |
-| 🔥 Henry FitzHenry | Nesta/Angharad (daughter of Osbern FitzRichard) | South Wales | Mother was a Welsh Princess of Deheubarth. Lord of Narberth and Pebidiog. Died 1157. |
-| 🔥 Robert FitzEdith of Okehampton | Edith FitzForne | Greystoke / Oxfordshire | Mother was daughter of Forne Sigulfson of Cumberland. |
-| ❤️ Adeliza (Alice) | Edith FitzForne | Oxfordshire | Full sister to Robert of Okehampton. Married Richard de l’Aigle. |
-| ❤️ Isabel FitzRoy | Isabel de Beaumont | Normandy / Leicester | Mother from the powerful House of Beaumont. Married Gilbert de Clare, Earl of Pembroke. |
-| ❤️ Alice (Aline) | Unknown | France / Normandy | Married Matthew I of Montmorency. |
-| ❤️ Constance | Unknown | Normandy / Maine | Married Roscelin, Viscount of Beaumont. |
-| ❤️ Mabel (Eustacie) | Unknown | Normandy | Married William III Gouet. |
-| 🔥 Gilbert FitzRoy | Unknown | England / Normandy | Mother possibly a sister of Walter de Gand. Died after 1142. |
-| ❤️ Emma | Unknown | Unknown | Possibly a daughter; mother unknown. Married Guy de Laval. |
-| ❤️ Sybilla of Falaise | Unknown | Falaise, Normandy | A niece or ward, likely not a daughter. |
-
-### 📚 Key Authoritative Sources
-
-| Source | Type | Key Contributions to the Revised List |
-| :--- | :--- | :--- |
-| **Kathleen Thompson**, *"Affairs of State: the illegitimate children of Henry I"*<br>*(Journal of Medieval History, 2003)* | Peer-Reviewed Journal Article | The definitive modern study. Thompson argues that **Sybilla Corbet** was the mother of **Robert of Gloucester**, dismisses the "Gayt" family theory, and re-evaluates the **Nest** parentage (concluding Henry FitzHenry’s mother was likely **Nesta, daughter of Osbern FitzRichard**, not the Welsh princess). |
-| **David Crouch**, *"Robert of Gloucester's Mother and Sexual Politics in Norman Oxfordshire"*<br>*(Historical Research, 1999)* | Peer-Reviewed Journal Article | Directly addresses the parentage of **Robert of Gloucester**. Crouch provides the evidence that Robert’s mother was a member of the **Gay** (or Gai) family of Oxfordshire, but notes this does **not** preclude Sybilla Corbet—arguing instead that the two identifications may refer to the same woman or that Robert was raised by the Gay family. Modern consensus (Thompson) leans toward Sybilla Corbet. |
-| **David Crouch**, *"Robert, first earl of Gloucester (b. c. 1090, d. 1147)"*<br>*(Oxford Dictionary of National Biography, 2004)* | Authoritative Biographical Dictionary | Confirms Robert as probably the eldest illegitimate son; notes his mother was "a member of the Gay family of Oxfordshire" but does not rule out Sybilla Corbet. Provides the standard biography. |
-| **Given-Wilson & Curteis**, *The Royal Bastards of Medieval England*<br>(London, 1984; ISBN 0-415-02826-4) | Scholarly Monograph | A foundational modern survey. Lists the children with discussion of sources. Used as a key reference for groupings by mother (Corbet, Ansfride, etc.). |
-| **William of Malmesbury**, *Gesta Regum Anglorum* & *Historia Novella*<br>(12th-century chronicle) | Primary Source (contemporary) | William was a friend and patron of **Robert of Gloucester**. His chronicles are the basis for much of the narrative on the Anarchy and attest to the prominence of Henry’s bastards. |
-| **Orderic Vitalis**, *Ecclesiastical History*<br>(12th-century chronicle) | Primary Source (contemporary) | Provides detailed accounts of **Juliane de Fontevrault** (including the crossbow incident) and mentions the *White Ship* disaster, where **Richard of Lincoln** and **Matilda, Countess of Perche** died. |
-| **W. M. M. Picken**, *"The Descent of the Devon Family of Willington from Robert Earl of Gloucester"*<br>in *A Medieval Cornish Miscellany* (Phillimore, 2000) | Scholarly Article | Provides genealogical evidence for the descendants of **Robert of Gloucester**, confirming his line. |
-
----
-
-## Historical Authorial Principle
-
-A thoughtful authorial principle: use historical authenticity as a yardstick—not to preach, but to let readers measure modern assumptions against the reality of the past. The goal is to offer a genuine contrast that illuminates both eras, allowing the reader to see what endures and what has changed.
-
-For writing and revisions, keep asking: Does this moment reveal how people of the time navigated their world, or does it impose a modern sensibility? If it’s the latter, ask whether that modern moment is necessary for the reader to connect—and if so, whether it can be reframed in period terms.
-
-
-
-
-
-
-
-
-PLAN
-
-
-
-
-
-
-
-This is a fascinating question. Let me put on my "screenwriter's hat" and think about what would change—and what wouldn't—if *The Goose Bride* were adapted for film or animation.
-
----
-
-## What Screenwriters Would Keep
-
-| Element | Why It Works On Screen |
-| :--- | :--- |
-| **The Goose** | Visual comedy gold. A white goose causing chaos in a medieval hall writes itself. |
-| **Beatrice's entrance** | Perfect hero introduction: dusty, determined, carrying a basket, bursting in after her goose. |
-| **Henry's volatility** | Actors love playing kings who can switch from terrifying to amused in a heartbeat. |
-| **The vow** | Clear, dramatic, irreversible. The kind of moment that drives a whole plot. |
-| **The road walk** | Two people, a road, a goose, slowly falling toward each other. Intimate, visual, quiet. |
-| **The charcoal on her nose** | The kind of small, human detail that makes audiences fall in love. |
-
----
-
-## What Screenwriters Would Change (Or Add)
-
-### 1. The Opening (Hook)
-
-Current: A village saying, then backstory about Harold.
-
-Screenwriters would likely **open with Beatrice and the goose in action**—maybe her chasing Goosie through the village, or the messenger arriving while she's mid-argument with her father. They'd want us to *see* who she is before we're told.
-
-**Likely change:** A cold open with young Beatrice and her mother, the egg hatching. Then cut to present day, the messenger arriving. Establishes the goose's importance visually.
-
----
-
-### 2. Godfrey's Presence Before the Road
-
-Current: We don't see Godfrey until Chapter 5's shadow moment.
-
-Screenwriters would almost certainly **show him earlier**—brief shots of him in the hall during Henry's rant, watching, silent. Maybe a close-up when Roger calls him "coin." We need to *see* the shadow before we meet the man.
-
-**Likely addition:** Two or three silent reaction shots of Godfrey during Chapters 3-5. No lines. Just his face, registering everything.
-
----
-
-### 3. Sir Guy's Role
-
-Current: He trips Beatrice, gets humiliated, disappears.
-
-Screenwriters would likely **expand him into a proper antagonist**—maybe he tries to court Beatrice after the betrothal, or schemes with the Queen, or challenges Godfrey. They'd want a through-line of conflict.
-
-**Likely addition:** Sir Guy appears at Stanwey, or spreads rumors at court, or confronts Godfrey directly. He becomes the obstacle that tests their growing bond.
-
----
-
-### 4. The Courtship (What Your New Chapter Replaces)
-
-Current: "A Courtship No One Expected" is a summary.
-
-Your new Chapter 6 is already a huge improvement for screen adaptation—it *shows* the connection forming. But a screenwriter would likely **add more scenes**:
-
-| Scene | Purpose |
-| :--- | :--- |
-| Godfrey helping at Stanwey | Shows his character through action |
-| Beatrice facing court whispers | Shows her courage, his defense of her |
-| A private moment of vulnerability | The emotional core (maybe the mother conversation we discussed) |
-| Goosie accepting him | The visual payoff—the goose trusts him, so we do |
-
----
-
-### 5. The Queen's Arc
-
-Current: She softens "eventually" off-screen.
-
-Screenwriters would **give her a scene** where she tests Beatrice and is won over. Probably a quiet moment—maybe in the garden, or over herbs, connecting to Beatrice's healing skills. They'd want to *see* the change.
-
-**Likely addition:** Queen Matilda summons Beatrice privately. They talk. The Queen realizes this girl is worthy—perhaps because of her Saxon steadiness, reminding the Queen of her own roots.
-
----
-
-### 6. Harold's Role
-
-Current: He watches, blesses, cries.
-
-Screenwriters would likely **give him one big scene** with Godfrey—maybe the night before the wedding, a quiet conversation where Harold sizes him up and gives his blessing. "If you hurt her, I may be old, but I still remember how to use a sword."
-
----
-
-### 7. The Wedding
-
-Current: A paragraph.
-
-Screenwriters would **make it a set piece**. The reluctant nobles, the bright-eyed bride, the queen's softening, Harold's wet eye—and the goose leading the procession. That final image is pure cinema. They'd stretch it, score it, make it the emotional climax.
-
----
-
-### 8. New Material: The "Dark Moment"
-
-Most screenwriters would add a **moment of doubt before the wedding**—Beatrice afraid she doesn't belong, Godfrey afraid he's not enough. A brief separation, then reconciliation. It's formulaic, but it works.
-
-**Likely addition:** Beatrice overhears a cruel comment at court and runs. Godfrey finds her. They talk. They choose each other.
-
----
-
-### 9. Visual Motifs
-
-Screenwriters would **build visual threads**:
-
-| Motif | Meaning |
-| :--- | :--- |
-| The goose | Loyalty, home, Beatrice's true self |
-| Charcoal/dust | Honesty, peasant roots, unpolished truth |
-| Doors/thresholds | Fate, choice, the vow |
-| Shadows | Godfrey's invisibility, then emergence |
-
----
-
-### 10. The Ending
-
-Current: The proverb, the goose leading.
-
-This is **perfect as is**. Screenwriters would keep it word for word, probably with a slow pull-back as the procession moves forward, the goose waddling proudly ahead. Final shot: the goose, then the couple, then the castle, then the sky.
-
----
-
-## Comparison: Old Courtship vs. New Road Chapter
-
-| Element | Old "A Courtship No One Expected" | New Chapter 6 (Road Home) |
-| :--- | :--- | :--- |
-| **Format** | Summary/narration | Scene, dialogue, action |
-| **Shows vs. tells** | Tells us she's different | Shows us who they are |
-| **Godfrey's character** | Described as listener | *Shows* him listening |
-| **Beatrice's character** | Described as plain speaker | *Shows* her wit, fear, love |
-| **Their connection** | Told it happened | *Shows* it beginning |
-| **Visual potential** | Low | High—road, forest, goose, faces |
-| **Emotional arc** | Abstract | Concrete—fear to trust |
-
-A screenwriter would **keep almost all of your new Chapter 6**. It's already cinematic. They might trim some dialogue, add close-ups, but the bones are there.
-
----
-
-## What Would the New Chapter Replace?
-
-In a full adaptation, your new Chapter 6 would be **the first of several courtship scenes**, not the only one. It would be followed by:
-
-| Scene | Content |
-| :--- | :--- |
-| **Chapter 7** | Godfrey arrives at Stanwey, meets Harold properly, helps with something |
-| **Chapter 8** | Beatrice visits court, faces whispers, Godfrey defends her |
-| **Chapter 9** | Private moment—maybe the mother conversation, or a night before the wedding |
-| **Chapter 10** | The wedding, the goose, the proverb |
-
-The summary "A Courtship No One Expected" would be **entirely replaced** by these scenes. Your new Chapter 6 is the perfect foundation for that arc.
-
----
-
-## Summary: What Changes, What Stays
-
-| Element | Would It Change? |
-| :--- | :--- |
-| **Beatrice's character** | ✅ Stays—she's perfect |
-| **Godfrey's character** | ✅ Stays—quiet, watching, listening |
-| **Henry** | ✅ Stays—volatile, witty, proud |
-| **The Queen** | ⚠️ Expanded—gets a redemption scene |
-| **Sir Guy** | ⚠️ Expanded—becomes proper antagonist |
-| **Harold** | ⚠️ Expanded—gets a scene with Godfrey |
-| **The vow** | ✅ Stays—dramatic core |
-| **The goose chase** | ✅ Stays—visual comedy |
-| **The road walk** | ✅ Stays—intimate core |
-| **The courtship** | ❌ Replaced with multiple scenes |
-| **The wedding** | ✅ Stays—expanded visually |
-| **The proverb** | ✅ Stays—perfect closing |
-
----
-
-## The Verdict
-
-Your story is **already unusually cinematic** for a written piece. You think in scenes, in dialogue, in visual details (charcoal on nose, goose leading procession). A screenwriter would:
-
-- **Add** more scenes (courtship expansion, antagonist through-line)
-- **Show** more of what you summarize (the queen softening, Harold's blessing)
-- **Keep** your best moments nearly word for word
-
-Your new Chapter 6 is exactly the kind of scene adaptations are built from. It *shows* the relationship beginning, which is what audiences need to *feel* the wedding payoff.
-
-The summary "A Courtship No One Expected" would be replaced entirely by the kind of scenes you're now writing. That's not a loss—it's a transformation into something more alive.
-
-
-
-
-
-
-
----
----
----
-TOC
-- [The Goose Bride](#the-goose-bride)
-  - [THE GOOSE BRIDE — THE CHARACTERS](#the-goose-bride-the-characters)
-    - [The King and his Family](#the-king-and-his-family)
-    - [Nobles over the sea (Mentioned Only)](#nobles-over-the-sea-mentioned-only)
-    - [The Saxons of Stanwey](#the-saxons-of-stanwey)
-    - [Knights and Nobles](#knights-and-nobles)
-    - [Minor Characters - Royal Court](#minor-characters-royal-court)
-    - [Minor Characters - Stanwey Farms and Beyond](#minor-characters-stanwey-farms-and-beyond)
-  - [Opening](#opening)
-  - [Chapter 1 — A Goose of My Own](#chapter-1-a-goose-of-my-own)
-  - [Chapter 2 — The Farm by the River](#chapter-2-the-farm-by-the-river)
-  - [Chapter 3 — The Vigil](#chapter-3-the-vigil)
-  - [Chapter 4 — Mother Lessons](#chapter-4-mother-lessons)
-  - [Chapter 5 — Apple Blossoms](#chapter-5-apple-blossoms)
-  - [Chapter 6 — Galloping Hooves](#chapter-6-galloping-hooves)
-  - [Chapter 7 — The King's Frustration](#chapter-7-the-kings-frustration)
-  - [Chapter 8 — The Breton Offer](#chapter-8-the-breton-offer)
-  - [Chapter 9 — The Ledger and the Lion](#chapter-9-the-ledger-and-the-lion)
-  - [Sir Guy’s Spite](#sir-guys-spite)
-  - [The Goose Hunt](#the-goose-hunt)
-  - [The Red‑Wolf Honoured](#the-redwolf-honoured)
-  - [Chapter 10 — A Matter of Diplomacy](#chapter-10-a-matter-of-diplomacy)
-  - [Chapter 11 — The Road Home](#chapter-11-the-road-home)
-  - [Chapter 12 — The Old Wolf](#chapter-12-the-old-wolf)
-  - [Chapter 13 — The Threshold](#chapter-13-the-threshold)
-  - [Chapter 14 — The Blessing](#chapter-14-the-blessing)
-  - [Chapter 15 — Stanwey Interlude (Mid-November 1114)](#chapter-15-stanwey-interlude-mid-november-1114)
-  - [Chapter 15 — First Court Exposure (November 1114)](#chapter-15-first-court-exposure-november-1114)
-    - [The First Formal Dinner](#the-first-formal-dinner)
-    - [The Wine Spill](#the-wine-spill)
-  - [Chapter 17 — Christmas Court (December 1114)](#chapter-17-christmas-court-december-1114)
-  - [Chapter 18 — The Darkest (January 1115)](#chapter-18-the-darkest-january-1115)
-  - [Chapter 19 — The Queen's Protection (Late January 1115)](#chapter-19-the-queens-protection-late-january-1115)
-  - [Chapter 20 — Public Turn (February - March 1115)](#chapter-20-public-turn-february-march-1115)
-  - [Chapter 21 — Wedding Preparations (March - April 1115)](#chapter-21-wedding-preparations-march-april-1115)
-  - [Chapter 22 — The Wedding (Spring 1115)](#chapter-22-the-wedding-spring-1115)
-  - [Epilogue — The Years After](#epilogue-the-years-after)
-  - [Implemented Changes (TODO)](#implemented-changes-todo)
-    - [1. Beatrice's Declaration (Night Before Wedding)](#1-beatrices-declaration-night-before-wedding)
-    - [2. Half-Sisters Clarified & Expanded](#2-half-sisters-clarified-expanded)
-    - [3. Godfrey's Proactive Moment (Chapter 19 — Queen's Protection)](#3-godfreys-proactive-moment-chapter-19-queens-protection)
-    - [4. Beatrice's Internal Struggles (Chapter 18 — The Darkest)](#4-beatrices-internal-struggles-chapter-18-the-darkest)
-    - [5. Sir Guy Expanded (New Chapter 8.5 — The Root)](#5-sir-guy-expanded-new-chapter-85-the-root)
-    - [6. Reduced "Tree" Saying](#6-reduced-tree-saying)
-    - [7. Duchess's Letter — Historical Note](#7-duchesss-letter-historical-note)
-    - [8. "I'll be your lantern in the darkness" (Already implemented above)](#8-ill-be-your-lantern-in-the-darkness-already-implemented-above)
-    - [9. "Bide" vs. "Wait" — Unified to "Wait"](#9-bide-vs-wait-unified-to-wait)
-  - [Panel Re-Run — With Changes](#panel-re-run-with-changes)
-    - [Eleanor (14, modern teen)](#eleanor-14-modern-teen)
-    - [Dr. Sarah Chen (34, historian)](#dr-sarah-chen-34-historian)
-    - [Maya Okonkwo (28, screenwriter/critic)](#maya-okonkwo-28-screenwritercritic)
-    - [Grandma June (72, book club member)](#grandma-june-72-book-club-member)
-  - [Panel Poll: "Do we need any more 'girly' moments or fan service?"](#panel-poll-do-we-need-any-more-girly-moments-or-fan-service)
-  - [Remaining Issues (None)](#remaining-issues-none)
-  - [Final Panel Verdict](#final-panel-verdict)
-  - [What’s Missing (The Brutal Rundown)](#whats-missing-the-brutal-rundown)
-    - [1. **A Clear Climactic Confrontation**](#1-a-clear-climactic-confrontation)
-    - [2. **Godfrey’s Agency Is Underdeveloped**](#2-godfreys-agency-is-underdeveloped)
-    - [3. **The Antagonists Lack Depth and Resolution**](#3-the-antagonists-lack-depth-and-resolution)
-    - [4. **The Goose Motif Is Underutilized**](#4-the-goose-motif-is-underutilized)
-    - [5. **Historical Texture Is Light**](#5-historical-texture-is-light)
-    - [6. **The Love Declaration Feels Rushed**](#6-the-love-declaration-feels-rushed)
-    - [7. **The Queen’s Transformation, While Good, Skips a Beat**](#7-the-queens-transformation-while-good-skips-a-beat)
-    - [8. **Harold’s Death Is Handled in the Epilogue**](#8-harolds-death-is-handled-in-the-epilogue)
-    - [9. **No Final Test of the Relationship**](#9-no-final-test-of-the-relationship)
-  - [Plan to Address the Gaps](#plan-to-address-the-gaps)
-    - [1. **Add a Climactic Confrontation Scene**](#1-add-a-climactic-confrontation-scene)
-    - [2. **Give Godfrey a Moment of Agency**](#2-give-godfrey-a-moment-of-agency)
-    - [3. **Deepen the Antagonists**](#3-deepen-the-antagonists)
-    - [4. **Weave the Goose Proverb into the Plot’s Resolution**](#4-weave-the-goose-proverb-into-the-plots-resolution)
-    - [5. **Add Historical Texture**](#5-add-historical-texture)
-    - [6. **Build the Romance More Gradually**](#6-build-the-romance-more-gradually)
-    - [7. **Clarify the Queen’s Conversion**](#7-clarify-the-queens-conversion)
-    - [8. **Give Harold’s Death a Scene**](#8-give-harolds-death-a-scene)
-    - [9. **Add a “Black Moment” Crisis**](#9-add-a-black-moment-crisis)
-  - [Summary of Recommended Revisions (Priority Order)](#summary-of-recommended-revisions-priority-order)
-  - [Revised Plan – Point 1 (Beatrice Learns the Vow)](#revised-plan-point-1-beatrice-learns-the-vow)
-    - [Step 1: Half‑Sisters Weaponize the Vow](#step-1-halfsisters-weaponize-the-vow)
-    - [Step 2: Lady Margaret Explains](#step-2-lady-margaret-explains)
-    - [Step 3: Beatrice Confronts Godfrey (Two Questions)](#step-3-beatrice-confronts-godfrey-two-questions)
-    - [Step 4: A Day Passes (Reconciliation)](#step-4-a-day-passes-reconciliation)
-    - [Step 5: Lady Margaret Reports to the Queen](#step-5-lady-margaret-reports-to-the-queen)
-    - [Step 6: Queen’s Private Conversation with Godfrey](#step-6-queens-private-conversation-with-godfrey)
-  - [How This Fits with Other Points](#how-this-fits-with-other-points)
-  - [Revised Summary of Changes](#revised-summary-of-changes)
-- [**Teacher & Parent Notes**](#teacher-parent-notes)
-  - [**Themes to Explore**](#themes-to-explore)
-  - [**Discussion Questions**](#discussion-questions)
-  - [**Historical & Cultural Notes (Child‑Friendly)**](#historical-cultural-notes-childfriendly)
-  - [**Vocabulary to Notice**](#vocabulary-to-notice)
-  - [**Creative Extension Ideas**](#creative-extension-ideas)
-- [**STUDENT QUESTIONS BY CHAPTER**](#student-questions-by-chapter)
-  - [**Chapter 1 — The Red‑Wolf’s Daughter**](#chapter-1-the-redwolfs-daughter)
-  - [**Chapter 2 — The King’s Demand**](#chapter-2-the-kings-demand)
-  - [**Chapter 3 — The King’s Frustration**](#chapter-3-the-kings-frustration)
-  - [**Chapter 4 — The Breton Offer**](#chapter-4-the-breton-offer)
-  - [**Chapter 5 — The Ledger and the Lion**](#chapter-5-the-ledger-and-the-lion)
-  - [**Chapter 6 — Sir Guy’s Spite**](#chapter-6-sir-guys-spite)
-  - [**Chapter 7 — The Goose Hunt**](#chapter-7-the-goose-hunt)
-  - [**Chapter 8 — The Red‑Wolf’s Daughter (Hall Scene)**](#chapter-8-the-redwolfs-daughter-hall-scene)
-  - [**Chapter 9 — The Queen Remembers the Vow**](#chapter-9-the-queen-remembers-the-vow)
-  - [**Chapter 10 — A Courtship No One Expected**](#chapter-10-a-courtship-no-one-expected)
-  - [**Chapter 11 — The Goose Bride**](#chapter-11-the-goose-bride)
-  - [📜 Facts: The World of the 'Goose Bride' (12th-Century England)](#-facts-the-world-of-the-goose-bride-12th-century-england)
-    - [🏰 The Saxon Home: Life in the "Hall"](#-the-saxon-home-life-in-the-hall)
-    - [🌲 The Law: The King's Forest & Purveyance](#-the-law-the-kings-forest-purveyance)
-    - [⚖️ Politics, Land and Lineage](#-politics-land-and-lineage)
-    - [🐺 Who Was Harold "Red-Wolf"? (And Why Does the King Call Him "Hrathulfr"?)](#-who-was-harold-red-wolf-and-why-does-the-king-call-him-hrathulfr)
-    - [🦢 The Journey: Social Cues & Logistics](#-the-journey-social-cues-logistics)
-    - [👑 The Royal Court: Secrets & Legends](#-the-royal-court-secrets-legends)
-    - [👵 What About the Mothers?](#-what-about-the-mothers)
-      - [👑 Godfrey's Mother: The Unknown Mistress](#-godfreys-mother-the-unknown-mistress)
-      - [🏡 Beatrice's Mother: The Lady of Stanwey](#-beatrices-mother-the-lady-of-stanwey)
-      - [👸 The Queen as Stepmother](#-the-queen-as-stepmother)
-      - [👵 The Mothers' Legacy](#-the-mothers-legacy)
-    - [🛡️ Social Hierarchy: Who's Who?](#-social-hierarchy-whos-who)
-    - [Handful of Historical Matilda's](#handful-of-historical-matildas)
-- [The Goose Bride - In English — from an earlier edition)](#the-goose-bride-in-english-from-an-earlier-edition)
-- [Η Χήνα Νύφη (The Goose Bride - In Greek — from an earlier edition)](#-the-goose-bride-in-greek-from-an-earlier-edition)
-  - [Blurb](#blurb)
-  - [More READER Questions](#more-reader-questions)
-  - [✅ LICENSE](#-license)
-- [APPENDICES](#appendices)
-- [THE GOOSE BRIDE — MASTER TIMELINE (FINAL)](#the-goose-bride-master-timeline-final)
-  - [*1114-1115 Edition*](#1114-1115-edition)
-  - [Fixed Historical Anchors](#fixed-historical-anchors)
-  - [Character Birth Table (Final)](#character-birth-table-final)
-  - [Master Timeline — Complete (1103-1115)](#master-timeline-complete-1103-1115)
-    - [PART ONE: THE SEED (1103-1109)](#part-one-the-seed-1103-1109)
-    - [PART TWO: THE YEARS BETWEEN (1109-1114)](#part-two-the-years-between-1109-1114)
-  - [Historical Context — Daylight in Late October](#historical-context-daylight-in-late-october)
-  - [Revised Table for PART THREE](#revised-table-for-part-three)
-    - [PART FOUR: FIRST COURT EXPOSURE (November 1114)](#part-four-first-court-exposure-november-1114)
-    - [PART FIVE: STANWEY INTERLUDE (Mid-November 1114)](#part-five-stanwey-interlude-mid-november-1114)
-    - [PART SIX: CHRISTMAS COURT & DUCHESS VISIT (December 1114)](#part-six-christmas-court-duchess-visit-december-1114)
-    - [PART SEVEN: THE DARKEST (January 1115)](#part-seven-the-darkest-january-1115)
-    - [PART EIGHT: QUEEN'S SECRET PROTECTION (Late January - February 1115)](#part-eight-queens-secret-protection-late-january-february-1115)
-    - [PART NINE: PUBLIC TURN (February - March 1115)](#part-nine-public-turn-february-march-1115)
-    - [PART TEN: WEDDING (Spring 1115)](#part-ten-wedding-spring-1115)
-  - [Attack Summary by Source](#attack-summary-by-source)
-  - [Peaks and Valleys (Emotional Arc)](#peaks-and-valleys-emotional-arc)
-  - [Key Changes from Previous Timeline](#key-changes-from-previous-timeline)
-- [THE GOOSE BRIDE — MASTER TIMELINE WITH KEY REASONING](#the-goose-bride-master-timeline-with-key-reasoning)
-  - [*1114-1115 Edition — Fully Annotated*](#1114-1115-edition-fully-annotated)
-  - [Fixed Historical Anchors](#fixed-historical-anchors)
-  - [Character Birth Table with Reasoning](#character-birth-table-with-reasoning)
-  - [Master Timeline with Reasoning](#master-timeline-with-reasoning)
-    - [PART ONE: THE SEED (1103-1109)](#part-one-the-seed-1103-1109)
-    - [PART TWO: THE YEARS BETWEEN (1109-1114)](#part-two-the-years-between-1109-1114)
-    - [PART THREE: THE HALL (October 1114)](#part-three-the-hall-october-1114)
-    - [PART FOUR: FIRST COURT EXPOSURE (November 1114)](#part-four-first-court-exposure-november-1114)
-    - [PART FIVE: STANWEY INTERLUDE (Mid-November 1114)](#part-five-stanwey-interlude-mid-november-1114)
-    - [PART SIX: CHRISTMAS COURT & DUCHESS VISIT (December 1114)](#part-six-christmas-court-duchess-visit-december-1114)
-    - [PART SEVEN: THE DARKEST (January 1115)](#part-seven-the-darkest-january-1115)
-    - [PART EIGHT: QUEEN'S SECRET PROTECTION (Late January - February 1115)](#part-eight-queens-secret-protection-late-january-february-1115)
-    - [PART NINE: PUBLIC TURN (February - March 1115)](#part-nine-public-turn-february-march-1115)
-    - [PART TEN: WEDDING (Spring 1115)](#part-ten-wedding-spring-1115)
-  - [Historical Figures — Key Reasoning Summary](#historical-figures-key-reasoning-summary)
-  - [Fictional Characters — Key Reasoning Summary](#fictional-characters-key-reasoning-summary)
-  - [Key Historical/Legal Concepts](#key-historicallegal-concepts)
-  - [Why 1114 Works (Summary)](#why-1114-works-summary)
-  - [The Illegitimate Children of Henry I](#the-illegitimate-children-of-henry-i)
-    - [📚 Key Authoritative Sources](#-key-authoritative-sources)
-  - [What Screenwriters Would Keep](#what-screenwriters-would-keep)
-  - [What Screenwriters Would Change (Or Add)](#what-screenwriters-would-change-or-add)
-    - [1. The Opening (Hook)](#1-the-opening-hook)
-    - [2. Godfrey's Presence Before the Road](#2-godfreys-presence-before-the-road)
-    - [3. Sir Guy's Role](#3-sir-guys-role)
-    - [4. The Courtship (What Your New Chapter Replaces)](#4-the-courtship-what-your-new-chapter-replaces)
-    - [5. The Queen's Arc](#5-the-queens-arc)
-    - [6. Harold's Role](#6-harolds-role)
-    - [7. The Wedding](#7-the-wedding)
-    - [8. New Material: The "Dark Moment"](#8-new-material-the-dark-moment)
-    - [9. Visual Motifs](#9-visual-motifs)
-    - [10. The Ending](#10-the-ending)
-  - [Comparison: Old Courtship vs. New Road Chapter](#comparison-old-courtship-vs-new-road-chapter)
-  - [What Would the New Chapter Replace?](#what-would-the-new-chapter-replace)
-  - [Summary: What Changes, What Stays](#summary-what-changes-what-stays)
-  - [The Verdict](#the-verdict)
 
