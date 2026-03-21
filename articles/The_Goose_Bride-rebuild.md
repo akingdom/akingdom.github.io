@@ -1580,33 +1580,35 @@ The servant looked her up and down, taking in her plain gown, her wind-tangled h
 
 She did not find it.
 
-She turned left instead of right, ended up in a courtyard full of stacked barrels, then a kitchen where a cook shouted at her in French she could barely follow. By the time she stumbled into a small, walled garden, she was near tears with frustration and need.
+She turned left instead of right, ended up in a courtyard full of stacked barrels, then a kitchen where a cook shouted at her in French that she could barely comprehend. By the time she stumbled into a small, walled garden, she was near tears with frustration and urgent need.
 
-A voice cut through the winter air. "What are you doing here?"
+An icy voice cut through the air. "Whatever are you doing here, child?"
 
-Beatrice turned. Two young women stood in the garden doorway. The elder was dark-haired, with a stillness that made Beatrice think of a hawk on a perch. The younger was fairer, with a high, breathless laugh that seemed to belong to someone else.
+Startled, Beatrice turned rapidly towards the voice. In the garden doorway, two young women stood observing her. The elder was dark-haired, and reminded Beatrice of a hawk on a perch. The younger was fairer, with a high, breathless laugh that seemed to belong to someone else.
 
-"Are you lost?" the elder asked. Her tone was not kind.
+"Are you *lost* or merely witless?" the elder enquired. 
+
+"Avice, she certainly looks lost," agreed the younger. Her tone was not kind. "Perhaps she is both lost *and* witless."
 
 Beatrice swallowed her pride. "I was looking for the—" She stopped, face burning. "The place where one... attends to oneself."
 
-The younger's eyes widened. She exchanged a look with the elder that Beatrice couldn't read.
+The elder's eyes widened. She exchanged a look with the younger that Beatrice couldn't read.
 
-"The garderobe," the elder said flatly. "You're looking for the garderobe."
+"Eustacia, I believe she's saying she wants the garderobe," the elder said in an odd voice to the younger, then to Beatrice. "You're looking for the garderobe?"
 
 "Yes," Beatrice breathed. "Can you tell me—"
 
-"Of course." The elder's smile was sharp. "Go back through the courtyard, past the kitchens. There's a door on your left. It's the third one. You can't miss it."
+"Of course." Avice's smile was sharp. "Go back through the courtyard, past the kitchens. There's a door on your left. Don's miss it: it's the third one."
 
 Beatrice turned, ready to run.
 
-"Oh, and child." The voice stopped her. "The servants' garderobe is at the far end of the same corridor. You'll want that one. The other is for nobility."
+"Oh, and child." Avice's icy voice stopped her. "Don't get confused. The servants' garderobe is at the far end of the same corridor. You'll want that one. The other is for nobility."
 
 Beatrice nodded, grateful, and hurried away.
 
-She found the door. It was locked.
+She found the door. Locked. It was firmly locked. She knocked politely, then urgently, but no one answered. 
 
-She tried again, further down the corridor. Another door, another lock. By the time she reached the end of the passage, her face was wet with shame and frustration. The servants' garderobe, when she finally found it, was a small, dark space that smelled of lime and vinegar. It was not the palace she had imagined. It was a relief.
+Perhaps she had misunderstood. She tried further down the corridor. Another door, another lock. By the time she reached the end of the passage, her face was wet with shame and frustration. The servants' garderobe, when she finally found it, was a small, dark space that smelled of lime and vinegar. It was not the palace she had imagined. It was a relief.
 
 ---
 
@@ -1614,55 +1616,53 @@ When she emerged, her hands trembling, a woman was waiting.
 
 She was perhaps thirty, with steady eyes and a voice that carried the quiet authority of someone who had long ago learned to expect obedience.
 
-"You were sent to the east corridor," she said. It was not a question.
+"You were sent to the *east* corridor," she said. It was not a question.
 
 Beatrice nodded, mute.
 
-"The door you tried first belongs to the Queen's private wardrobe. The second is the King's counting house. Neither is marked." The woman studied her. 
+"The locked doors are private and belong to the King and Queen. Neither is marked. It is most unlikely for you to ever need to go there." The woman studied her. 
 
-Beatrice's face was pale. "I must have misunderstood. I'm sorry, I scarcely know what I'm thinking at present, let alone what I'm doing."
+Beatrice's face went pale. "I must have misunderstood. I'm sorry, I scarcely know what I'm thinking at present, let alone what I'm doing. I mean..." Her voice trailed off as the woman waited patiently.
 
-"I am Lady Margaret." The woman's tone softened, just a fraction. "The Queen thought you might need guidance. It seems she was right."
+"I am Lady Margaret." The woman's tone softened, just a fraction. "Her Grace, the Queen, thought you might need *guidance*. It seems she was quite right."
 
-She extended a hand. Not for Beatrice to kiss, but to take.
+She extended a hand. Not for Beatrice to kiss, but to take hold of, like a child.
 
-Beatrice stared at it for a moment, then looked up. "Who am I that the Queen should show me such kindness?"
+"The Queen?" Beatrice hesitated. "But... who am I that the Queen, her Grace I mean, should take interest in me; show me such favour, I mean?"
 
-Lady Margaret's mouth curved. "She has her reasons. Come. Let's get you settled before anyone else decides to 'help' you find your way."
+Lady Margaret's mouth curved at the corners. "The Queen, has her reasons. Come. Walk with me. Let's get you settled. Your chamber is upstairs."
 
 ---
 
-She led Beatrice through the maze of corridors to a small chamber—narrow bed, brazier, window overlooking the river. A simple gown of grey wool hung from a peg.
+She led Beatrice quickly through a maze of corridors to a small chamber with a narrow bed, brazier, and window overlooking the river. A simple gown of grey wool hung from a peg.
 
-Beatrice set down her basket. Lifted the lid.
+As Beatrice set down her basket, the lid popped open and Goosie burst out into the chamber in a flurry of indignant honks.
 
-Goosie burst out in a flurry of indignant honks.
+Lady Margaret went very still, her eyebrows arched, staring.
 
-Lady Margaret went very still, her eyebrows arched.
+Beatrice's heart stopped. "I... I should explain—"
 
-Beatrice's heart stopped. "I can explain—"
+But Margaret wasn't listening, peering at the goose with an expression that might have been wonder. Or horror. Or both.
 
-But Margaret was staring at the goose with an expression that might have been wonder. Or horror. Or both.
+Goosie, unimpressed, waddled past Margaret to inspect the room, and began tugging at a loose thread on the bed hangings.
 
-Goosie, unimpressed, waddled past her and began tugging at a loose thread on the bed hangings.
+After a long moment, Margaret stated, very quietly, "*That*, I suppose, is *the* goose. The same one *blessed* by his Grace, the King."
 
-After a long moment, Margaret said, very quietly, "I suppose that this is *the* goose. The one blessed by the King."
+"Yes." Beatrice simply agreed, utterly bemused at the though of the King having blessed her her goose.
 
-"Yes." Beatrice simply agreed, utterly bemused that her goose was *blessed* by the King.
+"The goose, in the Queen's quarters."
 
-"In the Queen's palace."
+"Yes." Beatrice smiled nervously.
 
-"Yes."
-
-Another pause. Then Margaret's expression twitched. "Does it have a name?"
+Another pause. Then Margaret's expression twitched. "Does the goose have a name?"
 
 "Goosie."
 
-"Goosie." Margaret considered this. "Fortunately for you, Queen keeps a menagerie in the lower yard. Peacocks. Cranes. A rather ill-tempered swan." She looked at Goosie, who had now managed to pull the thread free and was examining it with great suspicion. "If anyone asks, she came with the royal geese. Do you understand?"
+Lady Margaret considered this. "Fortunately for the two of you, her Grace keeps a menagerie in the lower yard. Peacocks. Cranes. A rather ill-tempered swan." She looked at Goosie, who had now managed to pull the thread free and was examining it in great detail. "If anyone asks, Goosie came with the royal geese. Do you understand?"
 
 Beatrice nodded, mute.
 
-"That gown is from the Queen's own stores." Margaret gestured to the grey wool. "She thought you'd want something less... noticeable." Her eyes flicked to Goosie. "I see now why."
+"The gown is from the Queen's own stores." Margaret gestured to the grey wool. "She thought you'd want something less... noticeable." Her eyes flicked to Goosie. "I see now why."
 
 Beatrice touched the fabric. It was softer than anything she owned.
 
@@ -1672,11 +1672,11 @@ A hint of a smile. "Nothing." A pause. "Everything." Another pause. "That's how 
 
 ---
 
-That night, Beatrice sat by the brazier and wrote a letter to Harold. She told him she was safe. She told him about the horse, the noise, the size of the hall. She told him she missed him and that Goosie was safe with her.
+That night, Beatrice sat by the brazier and wrote a letter to father. She told him that she was safe. She told him that Goosie was safe with her, then about the horse, Winchester, the noise, the size of the hall. She told him that she missed him.
 
 She did not tell him about the locked doors. She did not tell him about the garden.
 
-*I am learning,* she wrote. *Slowly.*
+*I am learning,* she wrote lastly. *Slowly.*
 
 She folded the letter, pressed her mother's ring into the wax, and gave it to a servant who promised it would reach him.
 
@@ -1694,7 +1694,7 @@ She was still staring when a voice cut through the silence.
 
 "The King's newest curiosity."
 
-She turned. Avice and Eustacia stood in the doorway—the same two from the garden.
+She turned. the same two from the garden—Avice and Eustacia stood in the doorway—the same two from the garden.
 
 Avice stepped forward, her gaze drifting from Beatrice's gown to her face. "Tell me," she said, her voice a low, melodic purr, "do they not have weavers in the West? Or does your father prefer his women dressed for a sheep-shearing?"
 
@@ -1705,6 +1705,35 @@ Beatrice blinked. She thought of the drafty corridors of the palace, of the cold
 "No," she said clearly. "Our hall has chambers. They are small, but they hold the heat well. You'd find it much warmer than this place."
 
 The sisters exchanged a look of pure, baffled silence.
+
+---
+
+Later that evening Godfrey found Beatrice in the garden with Goosie, listening to the peacock crow its wailing cry; a cry which had alarmed Beatrice when she first heard it the previous evening.
+
+She smiled, glad to see a familiar face.
+
+A quiet crooning voice echoed a distant ballad somewhere overhead. 
+
+
+Godfrey: “You know now, don’t you? About the vow.”
+Beatrice: (quietly) “My father—does he know that his hall was wagered?”
+Godfrey: “I asked my father to let him hear it from you. But I will swear before him that I will protect Stanwey as my own, whether you marry me or not.”
+Beatrice: “Then you would have done your duty regardless of who walked in.”
+Godfrey: “Yes. But I am grateful it was you, because I see that you are someone who will do her duty with courage. That is all I hoped for.”
+Beatrice: (after a pause) “What will you require of me?”
+Godfrey: “Only that you be yourself. I have seen enough court masks.”
+
+
+
+
+
+
+
+
+
+
+
+
 
 Lady Margaret, watching from the shadows, felt a rare tug of amusement.
 
@@ -1728,6 +1757,7 @@ Tomorrow, there would be more to learn. More doors to find. More faces to rememb
 
 But tonight, she let the fire burn down and thought of home.
 
+---
 ---
 
 ### The First Formal Dinner
@@ -3962,6 +3992,17 @@ While chroniclers estimate Henry I had around 22 to 25 illegitimate children, id
 | **W. M. M. Picken**, *"The Descent of the Devon Family of Willington from Robert Earl of Gloucester"*<br>in *A Medieval Cornish Miscellany* (Phillimore, 2000) | Scholarly Article | Provides genealogical evidence for the descendants of **Robert of Gloucester**, confirming his line. |
 
 ---
+
+## Historical Authorial Principle
+
+A thoughtful authorial principle: use historical authenticity as a yardstick—not to preach, but to let readers measure modern assumptions against the reality of the past. The goal is to offer a genuine contrast that illuminates both eras, allowing the reader to see what endures and what has changed.
+
+For writing and revisions, keep asking: Does this moment reveal how people of the time navigated their world, or does it impose a modern sensibility? If it’s the latter, ask whether that modern moment is necessary for the reader to connect—and if so, whether it can be reframed in period terms.
+
+
+
+
+
 
 
 
