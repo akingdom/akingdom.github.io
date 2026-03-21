@@ -4,84 +4,124 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Markdown TOC Generator</title>
-    <link rel="stylesheet" href="../style/ai_commons.css">
+    <link rel="stylesheet" href="../styles/ai_commons.css">
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        textarea {
-            width: 100%;
-            height: 200px;
-            margin-top: 10px;
-            padding: 10px;
-        }
-        .controls {
-        	margin: 1.5em 1.8em;
-        }
-        button {
-            margin-top: 10px;
-        }
-        label {
-            display: block;
-            margin-top: 20px;
-        }
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        textarea { width: 100%; height: 200px; margin-top: 10px; padding: 10px; }
+        .controls { margin: 1.5em 1.8em; display: flex; gap: 10px; }
+        button { margin-top: 10px; }
+        label { display: block; margin-top: 20px; }
     </style>
 </head>
 <body>
     <h1>Markdown Table of Contents Generator</h1>
-    <p>Generate table of contents (TOC) from links in an existing markdown document.</p>
+    <p>Generate TOC and a sticky navigation snippet for your document.</p>
 
-    <label for="markdownInput">Markdown Input <label for="document_fileInput" class="file-upload" id="document_uploadButton">&hellip;</label>
+    <label for="markdownInput">Markdown Input 
+        <label for="document_fileInput" class="file-upload" id="document_uploadButton">&hellip;</label>
         <textarea id="markdownInput" placeholder="Enter your markdown here..."></textarea> 
     </label>
 
     <div class="controls">
-		<button type="button" id="generate" class="button-commons" onclick="generateTOC()">Generate</button>
-	</div>
+        <button type="button" id="generate" class="button-commons" onclick="generateTOC()">Generate</button>
+    </div>
 	
-    <label for="tocOutput">Generated Table of Contents
+    <label for="tocOutput">Generated Table of Contents (Markdown)
         <textarea id="tocOutput" readonly placeholder="The TOC will appear here..."></textarea>
     </label>
         
-	<div class="controls">
-	<button type="button" id="copy-button" class="button-commons" onclick="copyToClipboard('tocOutput', 'copy-button	')">Copy</button>
-	</div>
+    <div class="controls">
+        <button type="button" id="copy-button" class="button-commons" onclick="copyToClipboard('tocOutput', 'copy-button')">Copy TOC</button>
+        <button type="button" id="copy-snippet" class="button-commons" onclick="copySnippet()" style="display:none;">Copy JS/HTML Snippet</button>
+    </div>
 
-	<script src="../js/ai_commons.js"></script>
+    <script src="../js/ai_commons.js"></script>
     <script>
+        let generatedSnippet = "";
 
-        // Function to generate a table of contents from markdown input
-        function generateTOC() {
-            const input = document.getElementById('markdownInput').value;
-            const toc = generateMarkdownTOC(input);
-            document.getElementById('tocOutput').value = toc;
+        function slugify(text) {
+            return text.toLowerCase()
+                .replace(/[^\w\s-]/g, '') // GitHub removes punctuation
+                .replace(/\s+/g, '-')     // Spaces to hyphens
+                .replace(/-+/g, '-');     // Prevent double hyphens
         }
 
-        // Simple function to generate a TOC (this is a basic example)
-        function generateMarkdownTOC(markdown) {
-            const lines = markdown.split('\n');
+        function generateTOC() {
+            const input = document.getElementById('markdownInput').value;
+            const lines = input.split('\n');
             let toc = '';
+            let headers = [];
 
             lines.forEach(line => {
-                const headerMatch = line.match(/^(#{1,6})\s+(.+)/);
-                if (headerMatch) {
-                    const headerLevel = headerMatch[1].length; // Number of #
-                    const headerText = headerMatch[2];
-                    toc += `${' '.repeat((headerLevel - 1) * 2)}- [${headerText}](#${headerText.toLowerCase().replace(/\s+/g, '-')})\n`;
+                const match = line.match(/^(#{1,6})\s+(.+)/);
+                if (match) {
+                    const level = match[1].length;
+                    const text = match[2].trim();
+                    const anchor = slugify(text);
+                    headers.push({ level, text, anchor });
+                    toc += `${'  '.repeat(level - 1)}- [${text}](#${anchor})\n`;
                 }
             });
 
-            return toc || 'No headers found.';
+            document.getElementById('tocOutput').value = toc || 'No headers found.';
+            
+            if (headers.length > 0) {
+                createSnippet(headers);
+                document.getElementById('copy-snippet').style.display = 'inline-block';
+            }
+        }
+
+        function createSnippet(headers) {
+            const options = headers.map(h => 
+                `<option value="${h.anchor}">${"&nbsp;".repeat((h.level-1)*2)}${h.text}</option>`
+            ).join('\n        ');
+
+            const ids = JSON.stringify(headers.map(h => h.anchor));
+
+            generatedSnippet = `
+<!-- Sticky TOC Menu -->
+<div id="nav-wrapper" style="position: sticky; top: 0; background: white; z-index: 9999; padding: 10px; border-bottom: 1px solid #ddd;">
+    <select id="toc-nav" style="width: 100%; padding: 8px;" onchange="document.getElementById(this.value)?.scrollIntoView({behavior: 'smooth'})">
+        ${options}
+    </select>
+</div>
+
+<script>
+(function() {
+    const select = document.getElementById('toc-nav');
+    const ids = ${ids};
+    let manualNav = false;
+
+    const observer = new IntersectionObserver((entries) => {
+        if (manualNav) return;
+        const visible = entries.find(e => e.isIntersecting);
+        if (visible) select.value = visible.target.id;
+    }, { rootMargin: '0px 0px -80% 0px' });
+
+    ids.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) observer.observe(el);
+    });
+
+    select.addEventListener('change', () => {
+        manualNav = true;
+        setTimeout(() => manualNav = false, 1000);
+    });
+})();
+<\/script>`.trim();
+        }
+
+        function copySnippet() {
+            navigator.clipboard.writeText(generatedSnippet);
+            const btn = document.getElementById('copy-snippet');
+            const original = btn.innerText;
+            btn.innerText = "Copied!";
+            setTimeout(() => btn.innerText = original, 2000);
         }
         
-        setupFileUpload(
-			'document_uploadButton', 
-			'markdownInput', 
-			'.txt,text/plain,.md,text/markdown; charset=UTF-8', 
-			'document_fileInput'
-        );
-
+        if (typeof setupFileUpload === 'function') {
+            setupFileUpload('document_uploadButton', 'markdownInput', '.txt,.md', 'document_fileInput');
+        }
     </script>
 </body>
 </html>
