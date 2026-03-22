@@ -1165,6 +1165,381 @@ The doors of the hunting lodge closed behind her. Beatrice stood on the steps, G
 
 She had her goose. The king had spared her. More than that, the king had laughed. At her, perhaps, but with her, certainly. It was more than she had dared hope and she offered silent thanks to the God of Heaven, while standing there on the steps.
 
+
+
+
+
+
+
+
+
+
+
+
+--- REPLACEMENT TEXT CONTINUES BUT VOW DISCUSSED ON THE ROAD
+
+...
+
+I’ll complete Chapter 11 following your beats and incorporating your revisions. I’ll start from where your text cuts off, weaving in the Godfrey encounter, the cart family’s reaction, the walk, and the resolution of Beatrice’s “not for Stanwey” concerns, all with the historical texture and gradual discovery you’ve outlined.
+
+---
+
+## Chapter 11 — The Road Home (Complete)
+
+The doors of the hunting lodge closed behind her. Beatrice stood on the steps, Goosie warm in her basket, the evening air cool on her face. Behind her, the hall hummed with resumed life. Ahead, the road stretched eastward through the forest, pale stone under a pale sky.
+
+She had her goose. The king had spared her. More than that, the king had laughed. At her, perhaps, but *with* her, certainly. It was more than she had dared hope, and she offered silent thanks while standing there on the steps.
+
+She started walking.
+
+The road was quiet at first. She made good time, the basket bumping against her hip. But after a mile, her feet—unused to so much walking—began to ache. She stopped at a mossy stone by the wayside, sat down, and unlaced her shoes. Goosie rustled inside the basket.
+
+“We’ll rest a moment,” she whispered. “Then home.”
+
+She worked a pebble out of her shoe, retied the laces, and sat a little longer than she meant to, watching the sun slant through the oaks. The air was cool, the road empty. She was beginning to feel safe.
+
+Then she heard the cart.
+
+---
+
+It came up behind her, a low wooden frame on squeaking wheels, drawn by a bony horse. A man held the reins; beside him sat a woman with a child in her lap. Two girls perched on the tailboard, their legs swinging, bare feet caked with dust. They had the look of people who had spent the morning delivering something to the king’s kitchens and were now glad to be leaving.
+
+The man pulled up. “Going far?”
+
+“Stanwey,” Beatrice said, rising. “Five miles yet.”
+
+“We turn off before then, but we can take you as far as the lane. Long as you don’t mind the dust.”
+
+Beatrice’s feet throbbed. “I’d be grateful.”
+
+She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a waterskin. Beatrice drank, thanked her, and settled the basket on her knees. It was an old basket, wicker, its lid tied down with twine. Nothing to mark it.
+
+The wheels ground on the old Roman stone. The man hummed under his breath. The girls whispered to each other, glancing at the basket.
+
+Then the woman turned, her eyes bright with the hunger for news. “You come from the lodge, then?”
+
+Beatrice nodded. “Delivered a tribute. A bird for the king’s table.”
+
+“Ah.” The woman leaned closer. “Then you’ll have seen the court. Tell me—what’s this about the king’s vow?”
+
+Beatrice’s stomach tightened. “Vow?”
+
+“Aye.” The woman’s voice dropped conspiratorially. “The baker’s boy—we brought him flour, you see—and he says the king swore a great oath. The next maid through the hall doors would marry one of his sons.”
+
+The man snorted. “Sons. Bastards, more like. The king’s got enough of them.”
+
+“Well, one of his sons, anyway.” The woman waved a hand. “The point is, some girl walked in—with a bird, they say—and now she’s to wed a prince.”
+
+Beatrice’s heart gave a sudden lurch. *A bird. I walked in with a bird. But I heard no vow. It can’t be me, then. Imagine such a thing.*
+
+“They say she got to take her bird home, though,” the woman went on. “Unlike us. We gave up three good capons and a side of bacon, and what do we get? A blessing and a pat on the head.”
+
+“We got paid,” the man said. “Fair enough.”
+
+“Fair.” The woman sniffed. “We’ll be eating pottage for a month.”
+
+Beatrice looked at her strangely, her mind racing. *Took her bird home too. Obviously the queen was feeling generous today. It wasn’t me, or she would have told me at the castle, surely.*
+
+But her hands were cold.
+
+“What kind of bird?” she asked a minute later, her voice steadier than she felt.
+
+The woman frowned. “The baker’s boy said it was a goose. A great white thing, he said. Caused a commotion, chased the clerks.” She laughed. “Imagine that—a goose loose in the king’s hall!”
+
+The girls giggled. The man shook his head. “Goose or no, she’s a lucky lass. A prince, even a bastard, is more than most get.”
+
+“A goose? Mercy me.” Beatrice’s voice wavered, seeming distant from her, surreal. *A commotion. The king laughed. That was me. But I left. I didn’t hear any vow. It was someone else—some other girl with a goose. There must be another, mustn’t there.*
+
+The woman was still watching her. “You look pale, dear. Did the king’s men frighten you?”
+
+“No,” Beatrice said. “It was a long walk, is all.”
+
+“A long walk and a heavy load.” The woman’s gaze dropped to the basket, then rose again. “What bird did you bring?”
+
+“A goose.” The word came out before she could stop it.
+
+The woman’s eyebrows rose. The girls exchanged glances. The man half-turned on his seat.
+
+“A goose,” the woman said slowly, as much to herself as anyone. “I wonder who it is. She must have made an impression, for our capons got no such reception.”
+
+Beatrice said nothing. The cart rumbled on. The woman settled back, but her eyes looked Beatrice up and down curiously. Beatrice shut her eyes for a while. *She’s just gossiping. She doesn’t know, and it wasn’t me.* She tried to imagine her own life as a princess and her stomach hurt.
+
+---
+
+The road curved. Through the trees, she could see the smoke of Stanwey’s hearth. She was beginning to hope they would reach the lane without further trouble when she heard hooves behind them.
+
+Two riders appeared around the bend—men in the king’s colours, swords at their sides, horses blowing. They slowed as they drew alongside the cart.
+
+“Good people,” one called, “we seek a young woman on this road, travelling alone, with a goose.”
+
+Beatrice’s heart almost stopped. The driver reined in, looking from the guards to Beatrice. The woman’s hand went to her chest. The girls sat very still.
+
+“A goose, you said?” the man said. “We’ve seen no one with a goose, not that I’ve seen, anyway.”
+
+The guard leaned down, scanning the cart. His eyes passed over Beatrice, over the basket, over the girls, deciding they were all a family. “Carry on then.”
+
+The other guard looked at Beatrice—a long, appraising look. She avoided his gaze politely, trying not to breathe too hard. Then he shrugged, and they rode on.
+
+The cart lurched forward. The woman let out a long breath. “John, just think, if our daughters were a little older…” she said, and there was laughter in her voice.
+
+Beatrice clutched the basket with sweaty hands.
+
+They rode in silence after that. The girls stared at Beatrice with new eyes. The man kept glancing at her as if she might turn into something else. Beatrice stared straight ahead, counting the trees, willing the lane to appear.
+
+When it did, she nearly wept with relief.
+
+The driver pulled up at the fork. “This is where we turn.”
+
+Beatrice climbed down, legs shaky. “Thank you. For the ride.”
+
+The woman leaned over the side. “Take care of yourself, dear. And your goose.” Her eyes glittered. “I’ve a feeling we’ll be hearing more of you.”
+
+Beatrice did not answer. She stood at the lane’s edge, basket in hand, and watched the cart creak away. The girls waved. The man touched his forehead. Then they were gone, and she was alone.
+
+---
+
+I’ll revise the Godfrey-Beatrice conversation on the lane to slow the revelation, sync their information naturally, and add the emotional gut reaction with era-appropriate responses. I’ll keep the rest of the chapter as you have it.
+NOTE: Perhaps have him confirm it quicker and in one sentence 'official' like. she says 'but father's health' and her face turns red and screws up and she burst into salty tears. He can be unsure or comforting or blend, then enquire of her father. 'you;ll see soon enough'
+---
+
+## Chapter 11 — The Road Home (Revised Section)
+
+[The cart scene and guards remain as written. After the cart departs and Beatrice walks alone, we rejoin at:]
+
+She walked.
+
+The lane was narrow, rutted, the trees close on either side. The silence after the cart’s noise was almost deafening. She could hear her own breathing, the rustle of Goosie in the basket, the crunch of her shoes on the stones.
+
+*The king’s vow. The next maid through the doors. A goose. A Saxon girl. Plain clothes.*
+
+*They were looking for me. The guards were looking for me.*
+
+She stopped, her hand going to her throat. *The king made a vow. About me. About marrying his son.*
+
+*Which son?* the woman had asked. *One of the bastards, likely.*
+
+She thought of the hall—the crowd, the king’s laughter, the young man by the pillar. The one who had watched. The one who had looked at her as if she were worth seeing.
+
+*He knew. He must have known. And he let me walk out the door.*
+
+She was so lost in thought that she did not hear the horse until it was nearly upon her.
+
+It came from behind, a single rider walking slowly. She stepped to the side of the road, pulling the basket close, and kept her eyes down. A noble passing, nothing to do with her.
+
+The horse stopped.
+
+“You there,” a voice said. “I seek the daughter of Harold Red‑Wolf. Do you know her?”
+
+She looked up.
+
+It was him. The young man from the hall. Up close, he was younger than she had thought—not much older than her—with a face that was more watchful than handsome. He sat his horse easily, no guards, no escort, just a man on a quiet horse on a quiet road.
+
+Their eyes met.
+
+She saw recognition flicker in his face—the same recognition she had felt in the hall, that brief moment when they had looked at each other across the crowd.
+
+“You,” he said.
+
+She nodded, not trusting her voice.
+
+He dismounted. Up close, he was taller than she had thought, and more uncertain. He looked at the basket, at her dusty gown, at the road behind her.
+
+“Are you the daughter of Harold Red‑Wolf?” he asked, as if he needed to hear it confirmed.
+
+“I am.”
+
+He let out a breath. “I was sent to find you. My father commanded it.”
+
+“The king?”
+
+“Yes.” He paused. “I am Godfrey. His son.”
+
+She knew that already, but hearing him say it made it real. She curtsied—a quick, awkward thing, her legs stiff from the walk. He put out a hand as if to stop her, then pulled it back.
+
+“You don’t need to,” he said. “Not here.”
+
+They stood there, the road between them, the forest quiet around them. She could hear her own breathing, the rustle of Goosie in the basket, the soft snort of his horse.
+
+He looked toward the lane where the cart had disappeared. “You rode with them?”
+
+“They gave me a lift. My feet were sore.”
+
+“I should have been faster.” He shook his head. “I didn’t know you’d left so quickly. My father commanded me to escort you, but by the time I got to the gate, you were already gone.”
+
+She looked at his horse, then at him. “You came after me yourself?”
+
+“I came after you.” He said it simply, as if it were the most natural thing in the world.
+
+She looked at him, trying to read his face. “The women on the cart,” she said slowly, “they spoke of a vow. Something the king swore. About the next maid through his hall doors.”
+
+He met her eyes. “Yes.”
+
+“They said—” She stopped, her voice catching. “They said she was to marry his son.”
+
+“Yes.”
+
+She swallowed. “Which son?”
+
+He did not look away. “I am the son they mean. The king’s son by a woman not his queen. There are others—my half-brothers—but I am the one he spoke of.” He paused. “I am the one.”
+
+The words landed like stones in her chest. She had known, somehow, since the guards passed. But hearing him say it—seeing him stand there, waiting for her response—made it real in a way the gossip had not.
+
+“So it’s true,” she said. “The vow.”
+
+“It’s true.” His voice was quiet. “My father made it in anger, to silence the court. He did not expect you. He did not expect any of this.”
+
+She thought of the king’s laughter, the queen’s sharp eyes, the way the hall had gone silent when she spoke. *The next maid through the door.* They had all known. They had all been watching her, and she had walked out without hearing a word.
+
+“You knew,” she said. “In the hall. When I was there. You knew.”
+
+He did not deny it. “I heard him speak the words. I did not know—I could not have known—that you would be the one. But when you walked in with your goose, when I saw you stand before my father and speak without fear…” He stopped, searching for words. “I knew something had changed. I did not know how much until after you left.”
+
+She stared at him. “And you let me go. You let me walk out of that hall without telling me.”
+
+“I should have spoken.” He did not make excuses. “I thought—I hoped—my father would reconsider. He is not always a man of his word, when the word was spoken in haste. But he announced the betrothal before I could reach the gate. By the time I got outside, you were already gone.”
+
+She thought of the road, the cart, the women laughing about the girl with the goose. *I’ve a feeling we’ll be hearing more of you.* They had known before she did.
+
+“The guards,” she said. “They were looking for me.”
+
+“Yes. My father sent them. He was angry I’d let you go without escort.” A hint of a smile. “Then he told me to find you myself.”
+
+She did not smile back. Her hands were cold, and her stomach was tight, and she could not seem to catch her breath.
+
+He seemed to sense it. “My father commands that I escort you home and ask your father’s permission. The betrothal—it is not final without his consent. Your father can refuse. If he does, I will go back and tell the king.”
+
+She heard the words, but they seemed to come from far away. Her father. Harold, sitting by the fire, his hand on his chest, the breath that came too hard after climbing the slope from the village.
+
+“My father,” she said, and her voice cracked. “He’s not well. He’s old, and he’s not well, and if I marry—if I leave—” She stopped, her face screwing up. “Who will look after him?”
+
+The tears came before she could stop them. Not the quiet, dignified tears she had shed when the king laughed at her goose. These were ugly tears, the kind that came from deep in the chest, the kind that had no place on a public road with a prince watching.
+
+She turned away, pressing her hand to her mouth, but it was too late. The sobs came anyway—for her father, for Stanwey, for the life she had built and the life that was being taken from her without her consent.
+
+Behind her, she heard him move. She expected him to speak, to offer comfort, to say something princely and meaningless. Instead, she heard nothing. When she looked up, wiping her face with her sleeve, she saw that he had taken a step back—not away from her, but giving her space, the way you would give space to a wounded animal.
+
+He was not looking at her. He was looking at the ground, at the trees, at anything but her tears. His hands were at his sides, not reaching out, not offering what he could not give.
+
+“Your father,” he said finally, his voice low, “will be cared for. My father promised provisions—a larder, enough to see him through the winter. He will visit himself, to hear the old tales. And if you wish, I will see to it that someone is there. A reeve. A servant. Anyone you choose.”
+
+She stared at him. He was not promising her a palace or a crown. He was promising her what she had asked for without knowing she was asking.
+
+“You would do that?” she said, her voice raw.
+
+“I would.” He met her eyes then, and she saw that he meant it. “I am not my father. I cannot give you kingdoms or armies. But I can give you that. Your father will not be left alone.”
+
+She wiped her face again, more slowly this time. The tears had stopped, leaving her tired and hollow and strangely light.
+
+“You said you were grateful,” she said. “Before. That I looked at you like a person.”
+
+He nodded.
+
+“Why?”
+
+He was quiet for a long moment. “Because no one does. Not my father’s clerks, who count me like silver. Not my half-sisters, who see me as a rival for scraps. Not the court, which watches to see if I will rise or fall.” He looked at her. “You did not know who I was. You looked at me anyway. That is more than I have had in years.”
+
+She thought about that—about being seen, about being counted. She thought about Sir Guy, who had looked at Stanwey and seen only timber and wool. She thought about the cart woman, who had looked at her and seen a story to tell.
+
+“I don’t know you,” she said. “I don’t know if you are kind or cruel, honest or false. I don’t know if you will keep your word about my father, or if you will forget it the moment we reach my door.”
+
+He nodded slowly. “You are right to doubt. I am a stranger to you. A stranger with a king’s command behind him.” He paused. “But I can tell you this: I have spent my life watching. Waiting. Being counted and dismissed. I know what it is to have no one see you. I will not do that to you. Or to your father.”
+
+She looked at him for a long time. Then she bent down, picked up the basket—Goosie had been very quiet throughout, as if she understood—and straightened.
+
+“My father will want to see you,” she said. “He will want to know who you are.”
+
+“I will tell him.”
+
+“And he will want to know what you intend for Stanwey. For the people.”
+
+“I will tell him that too.”
+
+She started walking. He fell into step beside her, his horse trailing behind. The lane was narrow, the light fading, the trees closing in. Stanwey was just ahead.
+
+She did not speak again until they reached the edge of the clearing.
+
+“Wait here,” she said. “I need to tell him first.”
+
+He nodded. “Take as long as you need.”
+
+She walked toward the hall. At the door, she turned. He was still there, at the tree line, waiting.
+
+She went inside.
+
+---
+
+The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. When he saw her, he started to rise, then sank back.
+
+“Daughter. You’re back. The goose—”
+
+She set the basket down. Goosie waddled out, headed for the hearth.
+
+“She’s safe. The king spared her.”
+
+Harold stared. “The king spared your goose?”
+
+“He laughed at her first. She bit a clerk.” A small, tired smile. “Then he laughed at me. Then he remembered you.”
+
+“Remembered me?”
+
+She sat beside him. “The river. Pulling his brother from the Severn. He said—he said he’ll visit. Soon. To hear you tell it again.”
+
+Harold’s face changed. Not dramatically, but a stillness came over him.
+
+“The king himself.”
+
+“Yes.”
+
+He was quiet for a long moment. Then: “There’s more.”
+
+She nodded. “A vow. The next woman through his hall door. The cart woman told me. The king swore—” She took a breath. “He swore his son Godfrey would marry her.”
+
+“And you were that woman.”
+
+“Yes.”
+
+Harold closed his eyes. When he opened them, they were wet. “The king has sent for you?”
+
+“He sent his son. He’s outside. Waiting.”
+
+Harold looked toward the door, then back at her. “And you? What do you want?”
+
+She thought about the cart, the gossip, the guards who had not seen her. She thought about Godfrey walking beside her, giving her space to cry, promising her father would not be left alone.
+
+“He said he would care for you,” she said. “That you would not be alone. That Stanwey would not be taken.”
+
+“And do you believe him?”
+
+She met her father’s eyes. “I want to.”
+
+Harold looked at her—really looked—and for a moment she saw the warrior he had been, the man who had pulled a prince from a river and ridden with kings.
+
+“Then you’d better bring him in,” he said.
+
+She rose. At the door, she paused.
+
+“Father? He said something. About a wolf finding shade under a good tree.”
+
+Harold’s face softened. “He knows the old words?”
+
+“I think he’s learning.”
+
+She went out to fetch him.
+
+---
+
+*(The scene continues in Chapter 12, where Godfrey meets Harold, asks for permission, and the practical matters of Harold’s care and the king’s promises are settled.)*
+
+
+
+
+
+
+
+
+
+--- LARGELY REPLACED BELOW WITH ABOVE=======================
+
 After setting off
 
 
