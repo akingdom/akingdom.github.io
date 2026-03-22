@@ -406,25 +406,37 @@ She nodded. “I’ll think on it.”
 
 Her thoughts began with her father. How he would survive in his frail state once she married. She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
 
-She said nothing. The days passed, and Harold did not mention Edmund again.
+Beatrice said nothing until her father spoke about Edmund a week later. “Not for Stanwey,” she replied softly, and Harold did not mention Edmund again.
 
-But he mentioned others. A widowed farmer from the next valley who had three strong sons and a good barn. A merchant from Worcester who had seen her at the market and sent word of his interest. A minor Norman knight whose lands lay west of the forest, a man Harold called “steady.”
+From time to time he would mention others. 
+
+“A merchant from Worcester sends word of his interest. He has gold enough to roof the hall in lead.”
+
+Beatrice didn't look up from her stitching. “Not for Stanwey, Father.”
+
+“A widowed-man from the valley has three strong sons to hold the harvest.”
+
+She stopped mixing herbs and shook her head. “Not for Stanwey.”
+
+"A minor Norman knight whose lands lay west of the forest, a sturdy man.”
+
+Beatrice put another log into the hearth.  “Not for Stanwey.”
 
 Each time, Beatrice found a reason. The farmer’s sons would never respect her. The merchant was too old. The knight’s holding was too far from the river.
 
 Harold listened. He nodded. He did not press.
 
-But she saw the way he looked at the sword above the hearth—the blade he had carried when he rode with kings. She saw the way his hand went to his chest after climbing the slope from the village. He was not getting younger. He was afraid of leaving her alone.
+But she saw the way he looked at the sword above the hearth—the blade he had carried when he rode with kings. She saw the way his hand went to his chest after climbing the slope from the village. He was not getting younger. He was afraid of leaving her alone, and she no less so.
 
 ---
 
-The trouble began when Sir Guy de Montfort came to Stanwey.
+The real trouble began when Sir Guy de Montfort (a knight) came to Stanwey followed by a procession of servants trailing after him.
 
 He arrived in the autumn of Beatrice’s fifteenth year, riding with a small retinue, his horse’s trappings finer than any in the village. He claimed he was passing through, hunting in the king’s forest, but his eyes lingered on the hall, on the fields, on the tidy barns.
 
 Harold received him with courtesy—the hospitality a thegn owed to a knight. Beatrice served the meal, keeping her eyes down, her mother’s voice in her ear: *Watch, and listen.*
 
-Sir Guy was charming. He spoke of his lands in Normandy, of his family’s long service to the crown, of the wars he had fought in the king’s name. He praised Harold’s sword, the story of the Severn, the stoutness of Stanwey’s walls.
+Sir Guy was charming. He spoke of his lands in Normandy, of his family’s long service to the crown, of the wars he had fought in the king’s name. He praised Harold’s sword, the stoutness of Stanwey’s walls.
 
 “A holding like this should be protected,” he said, his gaze drifting to Beatrice. “A daughter needs strong hands to guard her inheritance.”
 
@@ -432,11 +444,9 @@ Harold’s face was unreadable. “My daughter has strong hands of her own.”
 
 Sir Guy laughed, as if Harold had made a joke.
 
-He came again a month later, then again before Christmas. Each time, he brought gifts: a bolt of silk from the continent, a leather‑bound psalter, a silver brooch with a design Beatrice had never seen. Harold accepted them with careful thanks. Beatrice thanked him with her mother’s courtesies, her face smooth, her mind sharp.
+He came again a month later, then again before Christmas, mindful of Goosie's beak, for the goose did not like the man. Each time, he brought gifts: a bolt of silk from the continent, a leather‑bound book, a silver brooch with a design Beatrice had never seen. Harold accepted them with careful thanks. Beatrice thanked him with her mother’s courtesies, her face smooth, her mind sharp.
 
-She did not trust him.
-
-She could not say why. He was handsome, well‑spoken, attentive. But when he looked at her, she saw him measuring the timber in the hall, counting the heads of cattle, calculating the value of the wool clip. He did not see her. He saw Stanwey.
+Yet for Beatrice, something did not ring true about him, though she knew not what and could not say why. He was handsome enough, well‑spoken, attentive. But when he looked at her it was little different from him counting the heads of cattle or calculating the value of the wool clip. He did not see her. He saw Stanwey, measured the timber in the hall.
 
 One evening, after Sir Guy had ridden away, Harold spoke quietly. “He has asked to speak with me. About a marriage.”
 
@@ -444,11 +454,15 @@ Beatrice’s heart clenched. “What did you say?”
 
 “That I would consider it.” Harold’s eyes were tired. “He is a knight. He has the king’s favour. He could protect this place when I am gone.”
 
-“He does not want me,” Beatrice said. “He wants Stanwey.”
+“Father, you taught me to observe the seasons. To know when the first snow will come. And mother taught me to tell a friend from not, whether they be man or beast.”
+
+She went to the window, watching the last light fade over the fields. 
+
+“I have watched him. When he thinks no one is listening, he speaks of ‘improving’ the manor. He asks the reeve how many ploughs we have, how many oxen. He asked the nurse whether the river floods in spring.”
+
+“He does not want me,” Beatrice said. “And he would as soon turn us out without a crust or a thread as... as easily as he would look at his reflection in a bucket.”
 
 Harold said nothing.
-
-She went to the window, watching the last light fade over the fields. “Father, you taught me to watch. I have watched him. When he thinks no one is listening, he speaks of ‘improving’ the manor. He asks the reeve how many ploughs we have, how many oxen. He asked the nurse whether the river floods in spring.”
 
 “He is a landowner,” Harold said. “These are the things landowners ask.”
 
@@ -456,45 +470,21 @@ She went to the window, watching the last light fade over the fields. “Father,
 
 Harold’s expression shifted.
 
-Beatrice turned to face him. “I will marry when I must. But not to a man who sees our people as livestock to be counted.”
+Beatrice turned to face him. “I will marry when I must. But not to a man who sees our people as livestock to be counted. Not for Stanwey, Father.”
 
 ---
 
 She discovered the truth three days later.
 
-She had gone to the nurse’s farm to collect eggs, taking the path along the river. The alders were bare, the reeds brown, but the geese were lively, honking and splashing in the shallows. She was halfway down the lane when she heard voices.
+She had gone to the nurse’s farm to collect eggs, taking the path along the river. The alders were bare, the reeds brown, but the geese were upset, honking and splashing uneasily in the shallows. She was halfway down the lane when she heard voices.
 
 Sir Guy was there, standing with the nurse outside the poultry shed. He had ridden alone this time, his horse tied to a post.
 
-“—an old man and a girl,” he was saying, his voice low, impatient. “The estate will escheat within five years. The king’s justices will see it. A daughter cannot hold thegn’s land without a husband.”
+“The old man is either stubborn or just plain senile.” His voice was low, impatient. “The estate will surely escheat within five years. The king’s justices will see it. Since when can a daughter hold thegn’s land without a husband? Every loose tongue shares how she has refused every man her father has ever brought. She is insolent, foolish, or both. But the land is good. The wool from the southern fields alone is worth—” 
 
-The nurse’s voice was flat. “She has a husband when she chooses one.”
+Sir Guy's horse bolted past them at a gallop, heading for the river crossing. His normally low smooth voice voice turned into yell with words that would make a pig blush. He took off running after his mount, as though chased by a swarm of bees. Behind him the nurse could not help doubling over, laughing and hitting her leg repeatedly with her hand. 
 
-“She has refused every man her father has brought. She is stubborn, foolish, or both. But the land is good. The wool from the southern fields alone is worth—”
-
-Beatrice stepped into the clearing.
-
-Sir Guy turned. For a moment, something flickered in his face—surprise, then annoyance, then a smile that did not reach his eyes.
-
-“Beatrice,” he said smoothly. “I was just speaking with your good nurse about the flocks. She tells me the geese are thriving.”
-
-“I heard what you were speaking about,” Beatrice said. Her voice was steady, though her hands were cold. “You will not have Stanwey. Not through me, not through any man the king sends.”
-
-He laughed. “You are young, child. You do not understand how the world works.”
-
-“I understand that you came to my father’s hall pretending honour, and I have found you counting what is not yours to count.” She stepped forward, her chin high. “You will leave. You will not return.”
-
-Sir Guy’s smile vanished. For a moment, his face was ugly—the mask gone, the greed plain. “You will regret this. When your father is dead and the sheriff comes to take this place for the crown, you will remember my offer.”
-
-“I will remember,” Beatrice said, “that you were not honest enough to speak plainly in my father’s hall.”
-
-He stared at her, then at the nurse, who had not moved. Then he untied his horse, mounted, and rode away without another word.
-
-The nurse let out a breath. “That was bold.”
-
-Beatrice’s hands were trembling now that he was gone. “He will do something. He will try to take it.”
-
-“He will try,” the nurse agreed. “But you have seen him. That is more than most.”
+By the time Beatrice reached the nurse, however, there was barely a hint of a smile on her face. "It seems that someone let Sir Guy's horse loose, fancy that. Fresh eggs, is it?" Then she noticed Beatrice’s trembling hands. She patted her back and simply said, "There, there."
 
 ---
 
@@ -502,15 +492,19 @@ When Beatrice returned home, she told Harold everything.
 
 He listened in silence, his face pale. When she finished, he closed his eyes.
 
-“I should have seen it,” he said.
+“I should have seen the truth of it sooner,” he said.
 
-“You saw a knight who spoke of protection. There was no shame in that.”
+“Father, you saw a knight who spoke of protection. There was no shame in that.”
 
 He shook his head. “I wanted to believe there was a way to secure this place without forcing you. I wanted—” He stopped, his voice rough.
 
-Beatrice knelt beside his chair. “Father, I am not afraid of him. And I am not afraid of Stanwey. I will hold it until the day I can hold it no longer. And when that day comes, I will choose the man who takes it. Not you, not the king, not Sir Guy.”
+Beatrice knelt beside his chair. “Father, I am not afraid of him. And I am not afraid for Stanwey. I will hold it until the day I can hold it no longer. And when that day comes, it will not be Sir Guy who takes it, no, not even the King of England.”
 
-Harold opened his eyes. He looked at her—really looked—and for a moment, she saw the man who had pulled a prince from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
+Harold opened his eyes. “You may keep that last part to yourself, daughter,” he said patiently, looking at her softly. “You do remind me of your mother at times.”
+
+“And yours, father, but as for that man, not for Stanwey, never.”
+
+He looked at her—really looked—and for a moment, she saw the man who had pulled a prince from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
 
 “You are your mother’s daughter,” he said.
 
@@ -518,13 +512,6 @@ She took his hand. “And yours.”
 
 ---
 
-That winter, she heard that Sir Guy had taken a manor in the next shire, a small estate whose widow had no sons. She did not know whether to be relieved or sorry for the widow.
-
-She did not think of him again until the king’s messenger came.
-
-But she never forgot the way he had counted the geese, the timber, the souls of Stanwey. And when she walked into the king’s hall with Goosie in her basket, she carried that memory like a shield: she would not be counted. She would not be a measure of land.
-
-She would be herself.
 
 
 
@@ -2190,6 +2177,38 @@ Sir Guy's final attempt came in the form of a legal challenge. He claimed Stanwe
 The case never reached Henry. Roger of Salisbury dismissed it with a single line: "The king's vow supersedes all other claims."
 
 Later, Beatrice learned that the Queen had spoken to Roger privately the night before.
+
+@@@ TO EXPAND PER PLANS
+
+@@@START SCRAP@@@
+Beatrice stepped into the clearing.
+
+Sir Guy turned. For a moment, something flickered in his face—surprise, then annoyance, then a smile that did not reach his eyes.
+
+“Beatrice,” he said smoothly. “I was just speaking with your good nurse about the flocks. She tells me the geese are thriving.”
+
+“I heard what you were speaking about,” Beatrice said. Her voice was steady, though her hands were cold. “You will not have Stanwey. Not through me, not through any man the king sends.”
+
+He laughed. “You are young, child. You do not understand how the world works.”
+
+“I understand that you came to my father’s hall pretending honour, and I have found you counting what is not yours to count.” She stepped forward, her chin high. “You will leave. You will not return.”
+
+Sir Guy’s smile vanished. For a moment, his face was ugly—the mask gone, the greed plain. “You will regret this. When your father is dead and the sheriff comes to take this place for the crown, you will remember my offer.”
+
+“I will remember,” Beatrice said, “that you were not honest enough to speak plainly in my father’s hall.”
+
+He stared at her, then at the nurse, who had not moved. Then he untied his horse, mounted, and rode away without another word.
+
+---
+
+That winter, she heard that Sir Guy had taken a manor in the next shire, a small estate whose widow had no sons. She did not know whether to be relieved or sorry for the widow.
+
+She did not think of him again until the king’s messenger came.
+
+But she never forgot the way he had counted the geese, the timber, the souls of Stanwey. And when she walked into the king’s hall with Goosie in her basket, she carried that memory like a shield: she would not be counted. She would not be a measure of land.
+
+She would be herself.
+@@@END SCRAP@@@
 
 ---
 
