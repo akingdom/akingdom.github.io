@@ -256,10 +256,9 @@ Beatrice learned. She watched and she listened and she grew.
 
 Then her mother grew tired. Then pale. Then thin.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+---
 
-
-## Chapter 5 — Apple Blossoms
+### Apple Blossoms
 
 It was a slow fading, like the light at the end of a long day. Some mornings her mother seemed almost herself—sitting up, asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow.
 
@@ -325,7 +324,7 @@ Her father was in the doorway. Not standing tall, not waiting with staghound at 
 
 He saw her, tried to raise a hand, but couldn't quite manage it.
 
-Beatrice crossed the clearing and took his hand instead. It was cold.
+Beatrice crossed the clearing and took his hand instead. It felt cold to her touch.
 
 "I'm here, Father."
 
@@ -357,19 +356,45 @@ And Goosie followed. Always.
 
 ## Chapter 5½ – The Weight of Stanwey
 
-Beatrice was fourteen when the reeve’s youngest daughter sickened with a fever that would not break. She remembered her mother’s hands, the way they could find the pulse in a wrist, the way they knew which herbs to steep and which to burn. She knelt beside the girl’s pallet with a cup of yarrow tea and a prayer she had learned from the old nurse.
+It was a still evening in the hall at *Stanwey*. The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. She watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
+
+"Father?" she asked softly.
+
+He paused, the precious book resting on his knees. "My pet?"
+
+"How many winters have I lived through? Truly?"
+
+"Let me see," he mused, his gaze drifting toward the fire as he worked the years in his head. "You had seen but two winters when *King Henry* claimed the throne. Now, it is his twelfth year, I believe. Let me check..."
+
+He turned the parchment pages toward the front, where the calendar of saints was marked with tiny, cramped notes. His finger settled on a faded ink-mark in the margin. "Fourteen," he murmured. "Fourteen years since the great frost's Iron-Bite killed the cattle. A very bad year. *Annus horribilis*. And yet, in the middle of it all, God gave us a most unexpected gift."
+
+Seeing his distant smile, Beatrice leaned in. Knowing it would bring him pleasure to tell his tales—to pull the old world out from the shadows of the rafters for a time—she smiled. "And you, Father? How many winters for the *Red Wolf*, son of *Magnús*?"
+
+Harold paused, his eyes drifting from the script to the window, and for a moment the manor house seemed to grow cold with the memory of salt spray. "Two and sixty," he said, his voice dropping into the low, rolling thrum of a saga-man. "I was but a lad of sixteen when the Sea-Steeds of the Great Harald Harald Hardrada first bit the sands at Riccall. I saw the Raven-Banner snap in the wind before the Storm of Swords broke us at the Bridge. The North-way bled out on that grass, and I thought my own thread was spun."
+
+He fingered a stiff page of the heavy book, his gaze hard but distant. "But the Normans were made of different cloth. I bent my knee to the Bastard King while the blood was still wet on my mail. I traded the axe for a Norman’s horse and rode with a few of his sons and nobles through the mud of the West. Now, that was when—"
+
+He was cut short by a heavy, hesitant rapping at the oak door. The latch clicked, and the cool evening air spilled in.
+
+The quiet was broken as the Reeve appeared at the manor door, his heavy woolen cap clutched tight in his hands. He didn't speak until Harold acknowledged him with a nod, and even then, his voice was thick with a fear no title could mask. His youngest was burning, he said, and the village midwife had already turned away.
+
+---
+
+The Reeve’s wife sent her husband outdoors. "Headman or not," she confided once  Beatrice arrived. Their youngest daughter had sickened with a fever that refused to break. She remembered her mother’s hands, the way they could find the pulse in a wrist, the way they knew which herbs to steep and which to burn. She knelt beside the girl’s pallet with a cup of brewed yarrow, elderflower and mint tea and said a prayer she had learned from the old nurse.
 
 “You’ll be right,” she said, though her own voice trembled.
 
-The girl lived. Afterward, the reeve’s wife called her “the Lady of Stanwey” with a look that made Beatrice’s throat tighten. She was not a lady. She was a girl who remembered her mother’s hands and tried to be them.
+The girl lived. Afterward, the reeve’s wife called her “the Lady of Stanwey” with a look that made Beatrice feel odd, her throat tightening. She was not a lady. She was a girl who remembered her mother’s hands and tried to be like them.
+
+---
 
 That was the year she began to understand what her father did not say.
 
 He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak of neighbours.
 
-“The thegn of Thornbury has a son,” he said one evening, stirring the coals. “Edmund. He’s seen you at the autumn fair.”
+“The thegn of Thornbury was speaking to me of his son,” he said one evening, stirring the coals. “I met the boy. Edmund (Harold said it as *‘Ædmond’*). He’s seen you at the autumn fair.”
 
-Beatrice’s hands stilled over the bread she was kneading. “Has he?”
+Beatrice’s hands kept kneading the bread dough. “Has he?”
 
 “He asked after you.” Harold’s voice was careful. “He’s a solid young man. His father’s lands border ours to the south. It would be a good alliance.”
 
@@ -379,7 +404,7 @@ She said nothing. The bread dough was smooth under her palms, but her thoughts w
 
 She nodded. “I’ll think on it.”
 
-She did think on it. She thought about Edmund of Thornbury—a quiet young man with calloused hands and a kind smile. She thought about the way he had offered her a cup of cider at the fair, the way he had not laughed when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
+Her thoughts began with her father. How he would survive in his frail state once she married. She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
 
 She said nothing. The days passed, and Harold did not mention Edmund again.
 
