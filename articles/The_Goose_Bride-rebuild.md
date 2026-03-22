@@ -349,18 +349,13 @@ And Goosie followed. Always.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-
-
-
-
-
-## Chapter 5½ – The Weight of Stanwey
+## Chapter 5 – Measure of the Hall
 
 It was a still evening in the hall at *Stanwey*. The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. She watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
 
 "Father?" she asked softly.
 
-He paused, the precious book resting on his knees. "My pet?"
+He paused, the precious book resting on his knees. "My dear?"
 
 "How many winters have I lived through? Truly?"
 
@@ -388,9 +383,7 @@ The girl lived. Afterward, the reeve’s wife called her “the Lady of Stanwey�
 
 ---
 
-That was the year she began to understand what her father did not say.
-
-He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak of neighbours.
+That was the year she began to understand what her father would not say about his growing older. He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak of neighbours.
 
 “The thegn of Thornbury was speaking to me of his son,” he said one evening, stirring the coals. “I met the boy. Edmund (Harold said it as *‘Ædmond’*). He’s seen you at the autumn fair.”
 
@@ -402,9 +395,9 @@ She said nothing. The bread dough was smooth under her palms, but her thoughts w
 
 “You don’t have to decide anything,” Harold added quickly. “I only thought… it would be well to have neighbours who are friends.”
 
-She nodded. “I’ll think on it.”
+Beatrice nodded. “I’ll think on it.” Her thoughts quickly turned to her father though: how he would survive in his frail state once she married. 
 
-Her thoughts began with her father. How he would survive in his frail state once she married. She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
+She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
 
 Beatrice said nothing until her father spoke about Edmund a week later. “Not for Stanwey,” she replied softly, and Harold did not mention Edmund again.
 
@@ -512,22 +505,13 @@ She took his hand. “And yours.”
 
 ---
 
-
-
-
-
-
-
-
-
-
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## Chapter 6 — Galloping Hooves
 
 One autumn morning, the rhythm of the village was broken by the thunder of hooves.
 
-Beatrice looked up from the herb bed outside the kitchen. A royal messenger rode up the path leading towards Stanwey Hall, cloak flying, horse lathered. He didn't slow at the gate. Didn't dismount. Just reined in before the hall and unrolled a stiff parchment.
+Beatrice looked up from the herb bed outside the kitchen, wondering who had arrived. A royal messenger rode up the path leading towards Stanwey Hall, cloak flying, horse lathered. He didn't slow at the gate. Didn't dismount. Just reined in before the hall and unrolled a stiff parchment.
 
 "The King hunts in Rockingham Forest," he announced, projecting toward the timbers as if the building itself were worthy of his breath. "This holding shall render its service: two feathered arrows and a fowl for His Majesty's table."
 
@@ -865,11 +849,11 @@ The place swarmed with soldiers and servants.
 
 The hall was still nursing the King's mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary of its hot steam. 
 
-As Beatrice entered, carrying the handmade basket and dusty from the journey, a young Norman knight lounging near the doorway recognised her.
+As Beatrice entered, carrying the handmade basket and dusty from the journey, Sir Guy recognised her as he lounged near the doorway. He was the young Norman knight, who had tried to court her.
 
 **Sir Guy de Montfort.**
 
-Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the elders shared ale by the bonfires, Sir Guy had cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
+Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
 
 Insulted, Beatrice had politely begged to be excused, then to go and find her father.
 
@@ -1008,8 +992,6 @@ For a heartbeat—two—she let her curiousity turn to realisation: oh. you're n
 Something flickered in his face. Barely there. A crack in his cautious mask.
 
 The moment passed. Standing in the large doorway to the hall, she turned and impulsively gave a curtsy without seeing anyone; a mere blur of people as fresh air washed over her.
-
-
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
