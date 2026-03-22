@@ -99,7 +99,7 @@
 
 -----------------------------------------------------------------------
 
-**“A goose may wend where a King must bide.”**
+**“A goose may wend where a King must wait.”**
 
 It was a witless saying from the Norman harrowing of England. Yet, the wise-wives of Mercia spoke of a maiden who proved the word most true.
 
@@ -141,7 +141,7 @@ Her mother scooped her up, laughing. "Did you find the geese?"
 
 "The geese found *me*, Mummy. Why were they chasing me?"
 
-"Only because they don't know you, dear."
+"They don't know you, dear."
 
 Beatrice sniffled. "Then can I have one of my own, Mummy? So it knows me?"
 
@@ -188,7 +188,7 @@ The woman took it. Looked down, surprised.
 
 "Oh, thank you, my lady."
 
-Mother didn't react. Just took the basket, steady and careful, and placed it in Beatrice's arms.
+Mother nodded, politely accepting the basket, steady and careful. She placed it in Beatrice's arms.
 
 "Walk slowly. She's doing the hard part now."
 
@@ -235,7 +235,7 @@ Beatrice looked at her mother.
 
 "Wait until she's dry. She needs to know the hen first."
 
-They waited. The hen, satisfied her job was done, stood and walked away without looking back. The gosling cheeped once, then turned—toward Beatrice.
+They waited. The hen, satisfied her job was done, stood and walked away without looking back. The gosling cheeped once, turned to the hen, then turned back—toward Beatrice.
 
 "Now," mother said softly. "Now she's yours."
 
@@ -315,7 +315,7 @@ The nurse was there, by the poultry shed. She looked up, saw Beatrice's face, an
 
 Beatrice stood there for a long time, Goosie pressed against her leg, watching geese ignore her completely.
 
-The geese knew her now, who she was. That was something, at least.
+The geese knew her now, who she was. That was something, at least. She wondered how geese felt about their mothers.
 
 ---
 
