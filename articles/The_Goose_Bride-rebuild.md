@@ -669,7 +669,7 @@ He strode to his seat beside Queen Matilda at the high table. She watched him ap
 
 Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
 
-For a long moment, no one breathed. Woodsmoke hung lazily in the air, like a reminder of the idle hunt.
+For a long moment, no one breathed, for fear of the king's displeasure. A clerk by the high table watched a large beetle crawl onto his parchment, yet dared not brush it away. Woodsmoke hung lazily in the air, like a reminder of the idle hunt.
 
 Then the Queen spoke.
 
@@ -703,7 +703,9 @@ The Queen smiled slightly and drew a parchment from inside her sleeve.
 
 "Nay, sire, this concerns Duke Conan's daughter, Agnes; she is fair and of marriageable age. They propose a match... with your son Godfrey."
 
-Henry's eyes narrowed, but he said nothing. The Queen turned to face him fully, seeking reassurance.
+Henry's eyes narrowed, but he said nothing. Godfrey was one of his many sons, but lacked lands, great wealth or powerful allies. Men pressed upon such sons, hoping to bend the king through them.
+
+The Queen turned to face the King fully, seeking reassurance.
 
 "Is it not a clever move, my lord? Why, even old Alain (the Duke's father) gives us his blessing."
 
@@ -791,7 +793,9 @@ He paused, his eyes flicking to the King with a look of devastating common sense
 
 "However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a son who sits outside the direct line of succession. To refuse it is... inefficient. Whether it be the six hundred marks missing from a Sheriff's bag or ten thousand from a Duke's treasury, it is a coin left on the table."
 
-Godfrey heard it. A coin. He looked down at his feet.
+A few lords nodded, not in agreement but in habit — the reflex of men well practiced in weighing people, wheat and wool.
+
+Godfrey heard it. A coin. His posture tightened at this sudden appraisal. He glanced down at his shoes.
 
 Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
 
@@ -868,7 +872,7 @@ Seeing her now amused him terribly: standing at the entrance to the King’s roy
 As she walked past him, he extended one boot slightly, interrupting her path.
 
 Beatrice stumbled.
-
+Opportunists smirked.
 The basket flew open.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
@@ -903,7 +907,7 @@ The King blinked.
 
 “Your goose?”
 
-Laughter rippled again throughout the hall. 
+Laughter and confused rippled through the hall, settling finally into unease. No one knew whether the king’s mood would turn to mercy or to wrath. In that breath, every face showed what it feared most.
 
 Sir Guy, emboldened by the court's uncertain laughter, called out: "This Saxon girl needs a lesson her father's hall could not teach!"
 
@@ -945,7 +949,9 @@ The king’s eyebrows shot up.
 
 “Hrathulfr?”
 
-He tilted his head as a distant memory stirred.
+For a heartbeat the name echoed through the hall, for old debts had long memories in England, and kings were not exempt from their reckoning.
+
+The King of England tilted his head, as a distant memory stirred.
 
 “Not the same man who pulled my brother from the Severn?”
 
@@ -999,7 +1005,7 @@ The moment passed. Standing in the large doorway to the hall, she turned and imp
 
 Beatrice curtsied and went. The heavy doors closed behind her.
 
-The hall exhaled. Servants moved again. Knights reached for wine.
+The hall exhaled. Servants moved again. Knights reached for wine. 
 
 The Queen rose smoothly and gestured to the steward—a small, almost imperceptible wave. The steward nodded and, with quiet efficiency, redirected the nearest courtiers toward the sideboards. *Eat. Drink. Give us room.*
 
@@ -1151,9 +1157,11 @@ He reached for the meat. "You're good at this."
 
 She rose, moving away, but her smile lingered. "I learned from the best."
 
----
+--- 
 
-Outside, the road stretched eastward through the forest, pale stone under a pale sky. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, unaware that her life had just changed forever.
+In the hall, a few nobles looked at the door and thought of Godfrey, their eyes narrow, already calculating what this unexpected match might cost or gain them. In courts, alliances could shift faster than the wind, and a cunning soul learned to watch which way it blew.
+
+Outside, under a pale sky, the pale stone road stretched eastward through the forest. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, unaware that her life had just changed forever.
 
 He walked faster.
 
@@ -1535,7 +1543,10 @@ She went out to fetch him.
 
 
 
+--- note for when they later leave for Winchester
 
+Only when the lodge vanished behind the trees did Beatrice’s breath loosen.
+Great changes never felt real at first; the mind lagged behind the world, reaching for the familiar to steady itself.
 
 
 --- LARGELY REPLACED BELOW WITH ABOVE=======================
