@@ -197,6 +197,7 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 
 ### Technology Expertise
 - **AI:** Ethics, tutoring, prompts, tasking and much more.
+	- **Read More**: [AI Governance Policy](https://akingdom.github.io/articles/AI_Governance_Policy_Accountability_First) - Accountability‑First Model for Safe AI Deployment
 	- **Read More**: [Universal Ethical Framework for Future AI](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI)
 	- **Read More**: [Efficient AI communications change management](https://akingdom.github.io/articles/optimizing_communication_with_ai) (for developers).
 	- **Read more**: [Artificial Intelligence nomenclature](https://akingdom.github.io/articles/ai_nomenclature)
