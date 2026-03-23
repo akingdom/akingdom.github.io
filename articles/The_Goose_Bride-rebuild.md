@@ -3515,6 +3515,19 @@ All’s well that ends well! And in the villages of the Midlands, they still tel
 
 ---
 
+## Reasons
+
+Question: Why did you write this story?
+
+Short Answer: I like tales, both factual and fantasy.
+
+Longer Answer (as a guiding principle): As an author, when I got stuck planning, writing or discussing, I generally cross-checked the balance of the following:
+1. Does this scene provide an "honest mirror"? (Is it real enough?)
+2. Does it touch a "positive core need"? (Is it human enough?)
+3. Does it offer a "psychological tool"? (Is it useful enough?)
+
+This tale is an imperfect psychological training kit woven into the fabric of medieval entertainment. It honours the tradition of the morality tale by using the past as an honest mirror for our own lives. We have a natural fascination with seeing things happen to other people; this story harnesses that curiosity to explore our positive core needs for connection, purpose, and safety—needs that never truly change. By representing the Middle Ages as realistically as possible, the book reveals our shared capacity to underestimate our own foolishness and weakness. It provides the reader with sound psychological tools to navigate life today, looking back at the past not to judge it, but to find the insight we need to walk a more balanced and healthy path in the present.
+
 ## Blurb
 
 In the halls of Kings, fate is a feathered thing.
