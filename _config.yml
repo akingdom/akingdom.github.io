@@ -11,8 +11,9 @@ baseurl: "" # This should be empty for a User/Organization Page like yours
 # Add files and directories to the global exclude list 
 # so Jekyll ignores them during the build process entirely.
 exclude:
-  - googlea1314b9930e3daf4.html
-  - images/posts/
+#  - googlea1314b9930e3daf4.html # DO NOT EXCLUDE THIS!
+#  - images/posts/ # DO NOT EXCLUDE THIS!
+# (annoying git)
 
 # -----------------------------
 # THEME
