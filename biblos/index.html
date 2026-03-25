@@ -304,10 +304,24 @@ function render(targetV) {
     const verses = state.fullLibrary[state.ch];
     if (!verses) return;
     document.getElementById('ref-header').innerText = `${state.activeCollection[state.book].name} ${state.ch}`;
+    
     let html = "";
     Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
-        html += `<div id="v-${v}" class="verse-row"><span class="v-num">${v}</span>${verses[v]}</div>`;
+        // We wrap words in spans, but ONLY for the text nodes, 
+        // preserving your existing Strong's/Note HTML.
+        const verseWithSpans = verses[v].replace(/>([^<]+)</g, (match, text) => {
+            return '>' + text.split(/(\s+)/).map(word => 
+                word.trim() ? `<span class="tts-word">${word}</span>` : word
+            ).join('') + '<';
+        }).replace(/^([^<]+)/, (match, text) => { // Catch leading text before first tag
+             return text.split(/(\s+)/).map(word => 
+                word.trim() ? `<span class="tts-word">${word}</span>` : word
+            ).join('');
+        });
+
+        html += `<div id="v-${v}" class="verse-row"><span class="v-num">${v}</span>${verseWithSpans}</div>`;
     });
+    
     document.getElementById('content').innerHTML = html;
     updateQR();
     if (targetV) {
@@ -387,29 +401,101 @@ function toggleStrongs() {
     localStorage.setItem('show_strongs', state.showStrongs);
 }
 
-// Fixed TTS: Sanitize text before speaking
+// Fixed TTS: Sanitize text before speaking, track position
+let currentUtterance = null;
+let currentText = "";
+let charIndex = 0;
+let isSpeaking = false;
+
 const speechControl = {
-    play: () => { 
+    play: function() {
         const synth = window.speechSynthesis;
-        synth.cancel(); 
-        
-        const content = document.getElementById('content');
-        if (!content) return;
-        
-        // Clone and sanitize
-        const clone = content.cloneNode(true);
-        clone.querySelectorAll('.strong-pill, .v-num, .fn-chip, .usfm-id, .usfm-h').forEach(el => el.remove());
-        
-        // Convert structural breaks to audible pauses
-        clone.querySelectorAll('.usfm-b').forEach(el => el.innerText = "... ");
-        
-        const utterance = new SpeechSynthesisUtterance(clone.innerText);
-        utterance.rate = 0.95;
-        synth.speak(utterance); 
+
+        // 1. If currently speaking, this button acts as a Pause
+        if (isSpeaking && !synth.paused) {
+            synth.pause();
+            isSpeaking = false;
+            document.getElementById('play-btn').innerText = "🔊 Resume";
+            return;
+        }
+
+        // 2. If paused, simple resume
+        if (synth.paused) {
+            synth.resume();
+            isSpeaking = true;
+            document.getElementById('play-btn').innerText = "⏸ Pause";
+            return;
+        }
+
+        // 3. If starting fresh or after a full stop
+        this.speakFrom(charIndex);
     },
-    restart: function() { this.play(); }
+
+    speakFrom: function(startIndex) {
+        const synth = window.speechSynthesis;
+        synth.cancel();
+        this.cleanup(); // Always clear old highlights before starting
+
+        const content = document.getElementById('content');
+        const words = content.querySelectorAll('.tts-word');
+        const textToSpeak = Array.from(words).map(w => w.innerText).join(' ');
+
+        currentUtterance = new SpeechSynthesisUtterance(textToSpeak);
+        currentUtterance.rate = 0.95;
+
+        currentUtterance.onboundary = (event) => {
+            if (event.name === "word") {
+                this.cleanup(); // Remove previous highlight
+                
+                // Find the word span by tracking character counts
+                let cumulativeCharCount = 0;
+                for (let i = 0; i < words.length; i++) {
+                    const wordLen = words[i].innerText.length;
+                    if (event.charIndex >= cumulativeCharCount && 
+                        event.charIndex < cumulativeCharCount + wordLen + 1) {
+                        words[i].classList.add('speaking-active');
+                        // Optional: Auto-scroll if word goes off screen
+                        // words[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        break;
+                    }
+                    cumulativeCharCount += wordLen + 1; // +1 for the space
+                }
+            }
+        };
+
+        currentUtterance.onend = () => {
+            isSpeaking = false;
+            this.cleanup();
+            document.getElementById('play-btn').innerText = "🔊 Listen";
+        };
+
+        synth.speak(currentUtterance);
+        isSpeaking = true;
+        document.getElementById('play-btn').innerText = "⏸ Pause";
+    },
+
+    cleanup: function() {
+        document.querySelectorAll('.speaking-active').forEach(el => 
+            el.classList.remove('speaking-active')
+        );
+    }
+
+    restart: function() {
+        charIndex = 0;
+        this.speakFrom(0);
+    }
 };
 
+// Reset position when changing chapter
+const originalChangeChapter = changeChapter;
+changeChapter = function(c, v) {
+    window.speechSynthesis.cancel();
+    charIndex = 0; 
+    isSpeaking = false;
+    document.getElementById('play-btn').innerText = "🔊 Listen";
+    originalChangeChapter(c, v);
+};
+    
 function pickRandom() {
     const codes = Object.keys(state.activeCollection);
     const code = codes[Math.floor(Math.random() * codes.length)];
