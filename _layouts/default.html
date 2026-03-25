@@ -73,7 +73,7 @@
     {% assign qr_marker = '<!-- QR Code -->' %}
     {% assign speech_marker = '<!-- SPEECH -->' %}
 
-    <!-- TITLE RENDERS NATURALLY FROM CONTENT -->
+    <!-- TITLE RENDERS NATURALLY FROM CONTENT (IN MARKDOWN) -->
 
     <!-- CONTROLS ROW (speech + QR) -->
     <div class="controls-row">
@@ -88,15 +88,17 @@
 
     </div>
 
-    <script src="/js/qrcode.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", () => {
-        const el = document.getElementById("qrcode");
-        if (!el) return;
-        const size = el.clientWidth;
-        new QRCode(el, { text: location.href, width: size, height: size });
-      });
-    </script>
+    {% unless content contains qr_marker %}
+      <script src="/js/qrcode.js"></script>
+      <script>
+        document.addEventListener("DOMContentLoaded", () => {
+          const el = document.getElementById("qrcode");
+          if (!el) return;
+          const size = el.clientWidth;
+          new QRCode(el, { text: location.href, width: size, height: size });
+        });
+      </script>
+    {% endunless %}
 
   </header>
 
