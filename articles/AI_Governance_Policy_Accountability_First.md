@@ -13,7 +13,7 @@ Designed for leaders, policymakers, and organizations deploying AI at scale, wit
 A policy is a clearly stated guide for decision-making and behavior; it is **not** a technical procedure or detailed instruction, but a signpost showing how we are expected to act responsibly and accountably.
 
 **Interpretation:**  
-This policy prioritizes truthful understanding of system limits over speed, scale, or certainty; accountability exists to enforce this, not replace it.
+This policy prioritizes truthful understanding of system limits over speed, scale, or certainty; accountability exists to enforce this priority, not replace it.
 
 ---
 
