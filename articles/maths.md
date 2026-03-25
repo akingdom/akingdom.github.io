@@ -4,6 +4,9 @@ By Andrew Kingdom.
 
 ## [Four-colour theorum formula](https://en.wikipedia.org/wiki/Four_color_theorem)
 
+  <img src="https://akingdom.github.io/articles/maths_files/four-colour-theorum.svg"
+       width="90" alt="Four colour theorem illustration" />
+
 The four-colour theory states that any map can be coloured in using a maximum of four colours without using the same colour for neighbouring regions. This has been proven using a computer.
 
 My discovery was a partial-geometric method (collapsing all combinations down to a single set of incomplete-shapes) to prove all combinations on paper, which I believe hadn't been done previously. This can also be done using a divided 2D toroidal (donut) shape series, but I'm not 100% sure it covers all possibilies.
