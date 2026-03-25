@@ -497,12 +497,22 @@ const speechControl = {
         this.cleanup(); // Clean up yellow highlights
     },
 
+// # filename: biblos_viewer.html (Speech Engine Update)
+
     speakFrom: function(startIndex) {
         const synth = window.speechSynthesis;
         synth.cancel();
         
-        const words = document.querySelectorAll('.tts-word');
-        currentText = Array.from(words).map(w => w.innerText).join(' ');
+        const content = document.getElementById('content');
+        
+        // 1. Create a clone to strip out Strong's/Notes BEFORE generating text
+        const clone = content.cloneNode(true);
+        clone.querySelectorAll('.strong-pill, .v-num, .fn-chip').forEach(el => el.remove());
+        
+        // 2. Get the RAW text string. This preserves "David's" as one word 
+        // because the whitespace matches the original USFM source.
+        currentText = clone.innerText.replace(/\s+/g, ' ').trim();
+        
         const textToSpeak = currentText.slice(startIndex);
 
         if (!textToSpeak.trim()) {
@@ -515,9 +525,7 @@ const speechControl = {
 
         currentUtterance.onboundary = (event) => {
             if (event.name === "word") {
-                // Update the global tracker
                 charIndex = startIndex + event.charIndex;
-                // Trigger the visual sync immediately
                 syncHighlight(charIndex);
             }
         };
