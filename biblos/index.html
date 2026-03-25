@@ -147,11 +147,9 @@ button.active { background: var(--primary) !important; color: var(--surface) !im
         <div style="display: flex; gap: 6px;">
             <button id="strong-toggle" class="secondary" onclick="toggleStrongs()">S#</button>
             <button class="secondary" onclick="pickRandom()">🎲 Random</button>
-            <button id="play-btn" onclick="speechControl.play()">🔊 Listen</button>
-            <button id="restart-btn" class="secondary" onclick="speechControl.restart()">🔄 Restart</button>
             <div class="tts-ui-container" style="display:flex; align-items:center; gap:8px;">
                 <button id="play-btn" onclick="speechControl.play()">🔊 Listen</button>
-                <button onclick="speechControl.restart()">🔄</button>
+                <button id="restart-btn" class="secondary" onclick="speechControl.restart()">🔄 Restart</button>
                 
                 <div style="position:relative; display:inline-block;">
                     <button onclick="document.getElementById('voice-picker').classList.toggle('hidden')" 
