@@ -527,6 +527,7 @@ window.speechSynthesis.onvoiceschanged = initVoices;
 initVoices();  // for firefox/safari.
     
 let currentVerseIdx = 0; // The new "Source of Truth"
+let charIndex = 0; // The "Bookmark" within the current verse
 
 const speechControl = {
     play: function() {
@@ -543,9 +544,7 @@ const speechControl = {
         }
 
         // IF NOT SPEAKING -> RESUME/START
-        // We do NOT set currentVerseIdx = 0 here. 
-        // It stays at whatever verse it was last on (or 0 if it's a new chapter).
-        this.speakFrom(currentVerseIdx);
+        this.speakFrom(currentVerseIdx, charIndex);
     },
 
     restart: function() {
@@ -569,48 +568,55 @@ const speechControl = {
         }
     },
 
-    speakFrom: function(idx) {
+    speakFrom: function(vIdx, startChar = 0) {
         const synth = window.speechSynthesis;
         synth.cancel();
 
         const blocks = document.querySelectorAll('.tts-block');
-        if (idx >= blocks.length) {
+        if (!blocks[vIdx]) {
             this.handleEnd();
             return;
         }
 
-        const currentBlock = blocks[idx];
+        const currentBlock = blocks[vIdx];
         const vNum = currentBlock.getAttribute('data-vnum');
-        const textNode = currentBlock.querySelector('.verse-text');
-        const clone = textNode.cloneNode(true);
-        clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
         
-        let textToSpeak = clone.innerText.trim();
-        if (!/[.!?;,]$/.test(textToSpeak)) textToSpeak += ".";
+        // 1. Get the Full Text of the verse (Cleaned)
+        const clone = currentBlock.querySelector('.verse-text').cloneNode(true);
+        clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
+        const fullText = clone.innerText.trim() + ".";
+
+        // 2. SLICE the text if we are resuming mid-verse
+        const textToSpeak = fullText.substring(startChar);
 
         this.highlightBlock(vNum);
 
         const utterance = new SpeechSynthesisUtterance(textToSpeak);
-        
-        // CRITICAL: Explicitly set the voice here every time
-        if (selectedVoice) {
-            utterance.voice = selectedVoice;
-        }
-        
+        if (selectedVoice) utterance.voice = selectedVoice;
         utterance.rate = 0.94;
-        utterance.onend = () => {
-            if (isSpeaking) {
-                currentVerseIdx++;
-                this.speakFrom(currentVerseIdx);
+
+        // 3. THE BOOKMARKER: Update charIndex as it speaks
+        utterance.onboundary = (event) => {
+            if (event.name === 'word') {
+                // charIndex = (where we started this slice) + (offset within this slice)
+                charIndex = startChar + event.charIndex;
             }
         };
 
-        // Standard bug fix: Some browsers need a tiny timeout after cancel()
+        utterance.onend = () => {
+            if (isSpeaking) {
+                currentVerseIdx++; // Move to next verse
+                charIndex = 0;      // Reset bookmark for the fresh verse
+                this.speakFrom(currentVerseIdx, 0);
+            }
+        };
+
+        isSpeaking = true;
+        document.querySelectorAll('#play-btn').forEach(b => b.innerText = "⏸ Pause");
+        
         setTimeout(() => {
             synth.speak(utterance);
-            isSpeaking = true;
-            document.getElementById('play-btn').innerText = "⏸ Pause";
-        }, 20);
+        }, 50);
     },
 
     highlightBlock: function(vNum) {
