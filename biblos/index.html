@@ -437,28 +437,35 @@ function toggleStrongs() {
     localStorage.setItem('show_strongs', state.showStrongs);
 }
 
-// fixed Strong's # handling
+// fixed pause bug
+// # filename: biblos_viewer.html (Speech Engine)
+
 let currentUtterance = null;
 let currentText = "";
-let charIndex = 0;
+let charIndex = 0; // The source of truth for our position
 let isSpeaking = false;
 
 const speechControl = {
     play: function() {
         const synth = window.speechSynthesis;
-        if (isSpeaking && !synth.paused) {
-            synth.pause();
-            isSpeaking = false;
-            document.getElementById('play-btn').innerText = "🔊 Resume";
+
+        // If we are currently talking, "Pause" now means "Stop and Save Position"
+        if (isSpeaking) {
+            this.stopAndSave();
             return;
         }
-        if (synth.paused) {
-            synth.resume();
-            isSpeaking = true;
-            document.getElementById('play-btn').innerText = "⏸ Pause";
-            return;
-        }
+
+        // If we aren't talking, start fresh from where we last left off
         this.speakFrom(charIndex);
+    },
+
+    stopAndSave: function() {
+        const synth = window.speechSynthesis;
+        // We don't use synth.pause() because it is unreliable across browsers
+        synth.cancel(); 
+        isSpeaking = false;
+        document.getElementById('play-btn').innerText = "🔊 Resume";
+        this.cleanup(); // Clean up yellow highlights
     },
 
     speakFrom: function(startIndex) {
@@ -467,14 +474,16 @@ const speechControl = {
         this.cleanup();
 
         const content = document.getElementById('content');
-        // Only select the words we wrapped (excludes Strong's and Notes automatically)
         const words = content.querySelectorAll('.tts-word');
         
+        // Reconstruct the clean text from our spans
         currentText = Array.from(words).map(w => w.innerText).join(' ');
+        
+        // Slice the text so the engine only sees what's left to say
         const textToSpeak = currentText.slice(startIndex);
 
         if (!textToSpeak.trim()) {
-            charIndex = 0; // Reset if at end
+            this.restart(); // Loop back to start if we're at the very end
             return;
         }
 
@@ -484,11 +493,16 @@ const speechControl = {
         currentUtterance.onboundary = (event) => {
             if (event.name === "word") {
                 this.cleanup();
+                
                 let cumulative = 0;
                 for (let i = 0; i < words.length; i++) {
                     const wordLen = words[i].innerText.length;
+                    // Note: event.charIndex is relative to the SLICED text
                     if (event.charIndex >= cumulative && event.charIndex < cumulative + wordLen + 1) {
                         words[i].classList.add('speaking-active');
+                        
+                        // Update our global charIndex so we can resume later
+                        // We add startIndex to make it relative to the FULL text
                         charIndex = startIndex + event.charIndex;
                         break;
                     }
@@ -498,12 +512,16 @@ const speechControl = {
         };
 
         currentUtterance.onend = () => {
-            isSpeaking = false;
-            charIndex = 0;
-            this.cleanup();
-            document.getElementById('play-btn').innerText = "🔊 Listen";
+            // Only reset if we actually finished the whole text
+            if (isSpeaking) {
+                isSpeaking = false;
+                charIndex = 0;
+                this.cleanup();
+                document.getElementById('play-btn').innerText = "🔊 Listen";
+            }
         };
 
+        // Standard 50ms heartbeat to ensure the cancel() has cleared the hardware buffer
         setTimeout(() => {
             synth.speak(currentUtterance);
             isSpeaking = true;
