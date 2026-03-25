@@ -258,9 +258,11 @@ function parseUSFM(usfm) {
         if (metaIgnore.some(m => tag.startsWith(m))) return;
 
         let content = finalize(line);
-        if (content) {
+        const cleanTag = tag.replace('\\', '');
+        
+        // Fix: Preserve structural markers (like \b blank lines) even if content-less
+        if (content || cleanTag === 'b') {
             if (curCh === 0) { curCh = 1; chapters[curCh] = {}; }
-            const cleanTag = tag.replace('\\', '');
             const wrapped = `<span class="usfm-${cleanTag}">${content}</span>`;
 
             if (curV === 0) { curV = 1; chapters[curCh][curV] = wrapped; }
@@ -385,8 +387,26 @@ function toggleStrongs() {
     localStorage.setItem('show_strongs', state.showStrongs);
 }
 
+// Fixed TTS: Sanitize text before speaking
 const speechControl = {
-    play: () => { window.speechSynthesis.cancel(); window.speechSynthesis.speak(new SpeechSynthesisUtterance(document.getElementById('content').innerText)); },
+    play: () => { 
+        const synth = window.speechSynthesis;
+        synth.cancel(); 
+        
+        const content = document.getElementById('content');
+        if (!content) return;
+        
+        // Clone and sanitize
+        const clone = content.cloneNode(true);
+        clone.querySelectorAll('.strong-pill, .v-num, .fn-chip, .usfm-id, .usfm-h').forEach(el => el.remove());
+        
+        // Convert structural breaks to audible pauses
+        clone.querySelectorAll('.usfm-b').forEach(el => el.innerText = "... ");
+        
+        const utterance = new SpeechSynthesisUtterance(clone.innerText);
+        utterance.rate = 0.95;
+        synth.speak(utterance); 
+    },
     restart: function() { this.play(); }
 };
 
@@ -437,8 +457,7 @@ async function runUsfmAudit() {
         const data = window[varName];
         report.perVersion[col.id] = {};
         for (const bookCode in data) {
-            const lines = data[bookCode].usfm.split('\n');
-            lines.forEach(line => {
+            data[bookCode].usfm.split('\n').forEach(line => {
                 if (line.startsWith('\\')) {
                     const tag = line.split(' ')[0].split('\*')[0]; // Catch tags like \v or \q1
                     
