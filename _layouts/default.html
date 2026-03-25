@@ -63,7 +63,13 @@
 
   <!-- TOP BAR -->
   <div class="topbar">
-    <div><a href="{{ "/" | relative_url }}">← Home</a></div>
+    <div>
+      {% if page.url != "/" %}
+        <a href="{{ "/" | relative_url }}">← Home</a>
+      {% else %}
+        <span style="opacity:0.6;">Home</span>
+      {% endif %}
+    </div>
     <div>{{ site.title }}</div>
   </div>
 
