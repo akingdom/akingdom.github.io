@@ -9,7 +9,7 @@
   {% include head-custom.html %}
 
   <style>
-    /* --- GLOBAL TOP BAR --- */
+    /* --- TOP BAR --- */
     .topbar {
       background: #157878;
       color: white;
@@ -29,11 +29,15 @@
       text-decoration: underline;
     }
 
-    /* --- DOCUMENT HEADER --- */
+    /* --- HEADER --- */
     .doc-header {
       padding: 1.8rem 1rem 1rem;
       max-width: 900px;
       margin: 0 auto;
+    }
+
+    .speech-container {
+      margin-bottom: 1rem;
     }
 
     .title-row {
@@ -41,46 +45,20 @@
       justify-content: space-between;
       align-items: center;
       gap: 1rem;
+      margin-bottom: 1rem;
     }
 
-    .doc-header h1 {
-      margin: 0;
-      font-size: 2.1rem;
-      font-weight: 700;
-    }
-
-    .doc-header h2 {
-      margin: 0.4rem 0 0;
-      font-size: 1.2rem;
-      font-weight: 400;
-      color: #444;
-    }
-
-    .doc-meta {
-      margin-top: 0.8rem;
-      font-size: 0.9rem;
-      color: #666;
-    }
-
-    /* --- QR CODE IN HEADER --- */
     .header-qr {
-      width: 6.5rem;
-      height: 6.5rem;
+      width: 5rem;
+      height: 5rem;
       flex-shrink: 0;
-      margin: 0;
     }
 
-    /* --- MAIN CONTENT AREA --- */
+    /* --- MAIN CONTENT --- */
     .main-content {
       max-width: 900px;
       margin: 0 auto;
       padding: 1rem;
-    }
-
-    /* Clear floats for first heading */
-    .main-content h1:first-child,
-    .main-content h2:first-child {
-      clear: both;
     }
   </style>
 </head>
@@ -96,57 +74,49 @@
   <!-- DOCUMENT HEADER -->
   <header class="doc-header">
 
-    {% comment %}
-    Define markers as variables so they never appear in HTML and never break comments.
-    {% endcomment %}
-
     {% assign qr_marker = '<!-- QR Code -->' %}
     {% assign speech_marker = '<!-- SPEECH -->' %}
 
+    <!-- SPEECH CONTROLS -->
+    {% unless content contains speech_marker %}
+      <div class="speech-container">
+        {% include speech-block.html %}
+      </div>
+    {% endunless %}
+
+    <!-- EXTRACT FIRST H1 -->
+    {% assign h1_start = content | index: '<h1' %}
+    {% assign h1_end = content | index: '</h1>' %}
+
+    {% if h1_start != nil and h1_end != nil %}
+      {% assign h1_block = content | slice: h1_start, h1_end | append: '</h1>' %}
+    {% endif %}
+
+    <!-- TITLE + QR ROW -->
     <div class="title-row">
-      {% assign normalized_title = page.title | strip | escape %}
-
-      {% if content contains normalized_title %}
-        <!-- Do NOT print the title — it's already in the content -->
-      {% else %}
-        <h1>{{ page.title }}</h1>
+      {% if h1_block %}
+        {{ h1_block }}
       {% endif %}
-
 
       {% unless content contains qr_marker %}
         <div id="qrcode" class="header-qr"></div>
-        <script src="/js/qrcode.js"></script>
-        <script>
-          document.addEventListener("DOMContentLoaded", () => {
-            const el = document.getElementById("qrcode");
-            if (!el) return;
-            const size = el.clientWidth;
-            new QRCode(el, { text: location.href, width: size, height: size });
-          });
-        </script>
       {% endunless %}
     </div>
 
-    {% if page.description %}
-      <h2>{{ page.description }}</h2>
-    {% endif %}
+    <script src="/js/qrcode.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const el = document.getElementById("qrcode");
+        if (!el) return;
+        const size = el.clientWidth;
+        new QRCode(el, { text: location.href, width: size, height: size });
+      });
+    </script>
 
-    {% if page.author or page.version or page.date or page.status %}
-      <div class="doc-meta">
-        {% if page.author %}<strong>{{ page.author }}</strong>{% endif %}
-        {% if page.version %} · Version {{ page.version }}{% endif %}
-        {% if page.date %} · {{ page.date }}{% endif %}
-        {% if page.status %} · {{ page.status }}{% endif %}
-      </div>
-    {% endif %}
   </header>
 
   <!-- MAIN CONTENT -->
   <main id="content" class="main-content">
-
-    {% unless content contains speech_marker %}
-      {% include speech-block.html %}
-    {% endunless %}
 
     {{ content }}
 
