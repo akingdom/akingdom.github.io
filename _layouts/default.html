@@ -7,6 +7,7 @@
   <meta name="theme-color" content="#157878">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   {% include head-custom.html %}
+
   <style>
     /* --- GLOBAL TOP BAR --- */
     .topbar {
@@ -34,17 +35,27 @@
       max-width: 900px;
       margin: 0 auto;
     }
+
+    .title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
     .doc-header h1 {
       margin: 0;
       font-size: 2.1rem;
       font-weight: 700;
     }
+
     .doc-header h2 {
       margin: 0.4rem 0 0;
       font-size: 1.2rem;
       font-weight: 400;
       color: #444;
     }
+
     .doc-meta {
       margin-top: 0.8rem;
       font-size: 0.9rem;
@@ -53,10 +64,10 @@
 
     /* --- QR CODE IN HEADER --- */
     .header-qr {
-      float: right;
       width: 6.5rem;
       height: 6.5rem;
-      margin-left: 1rem;
+      flex-shrink: 0;
+      margin: 0;
     }
 
     /* --- MAIN CONTENT AREA --- */
@@ -85,27 +96,35 @@
   <!-- DOCUMENT HEADER -->
   <header class="doc-header">
 
-    <!-- Auto‑insert QR unless page already contains <!-- QR Code --> -->
-    {% unless content contains '<!-- QR Code -->' %}
-      <div id="qrcode" class="header-qr"></div>
-      <script src="/js/qrcode.js"></script>
-      <script>
-        document.addEventListener("DOMContentLoaded", () => {
-          const el = document.getElementById("qrcode");
-          if (!el) return;
-          const size = el.clientWidth * (window.devicePixelRatio || 1);
-          new QRCode(el, { text: location.href, width: size, height: size });
-        });
-      </script>
-    {% endunless %}
+    {% comment %}
+    Define markers as variables so they never appear in HTML and never break comments.
+    {% endcomment %}
 
-    <h1>{{ page.title }}</h1>
+    {% assign qr_marker = '<!-- QR Code -->' %}
+    {% assign speech_marker = '<!-- SPEECH -->' %}
+
+    <div class="title-row">
+      <h1>{{ page.title }}</h1>
+
+      {% unless content contains qr_marker %}
+        <div id="qrcode" class="header-qr"></div>
+        <script src="/js/qrcode.js"></script>
+        <script>
+          document.addEventListener("DOMContentLoaded", () => {
+            const el = document.getElementById("qrcode");
+            if (!el) return;
+            const size = el.clientWidth * (window.devicePixelRatio || 1);
+            new QRCode(el, { text: location.href, width: size, height: size });
+          });
+        </script>
+      {% endunless %}
+    </div>
 
     {% if page.description %}
       <h2>{{ page.description }}</h2>
     {% endif %}
 
-    {% if page.version or page.date or page.status %}
+    {% if page.author or page.version or page.date or page.status %}
       <div class="doc-meta">
         {% if page.author %}<strong>{{ page.author }}</strong>{% endif %}
         {% if page.version %} · Version {{ page.version }}{% endif %}
@@ -118,8 +137,7 @@
   <!-- MAIN CONTENT -->
   <main id="content" class="main-content">
 
-    <!-- Auto‑insert Speech unless page already contains <!-- SPEECH --> -->
-    {% unless content contains '<!-- SPEECH -->' %}
+    {% unless content contains speech_marker %}
       {% include speech-block.html %}
     {% endunless %}
 
