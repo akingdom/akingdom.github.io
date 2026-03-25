@@ -149,6 +149,25 @@ button.active { background: var(--primary) !important; color: var(--surface) !im
             <button class="secondary" onclick="pickRandom()">🎲 Random</button>
             <button id="play-btn" onclick="speechControl.play()">🔊 Listen</button>
             <button id="restart-btn" class="secondary" onclick="speechControl.restart()">🔄 Restart</button>
+            <div class="tts-ui-container" style="display:flex; align-items:center; gap:8px;">
+                <button id="play-btn" onclick="speechControl.play()">🔊 Listen</button>
+                <button onclick="speechControl.restart()">🔄</button>
+                
+                <div style="position:relative; display:inline-block;">
+                    <button onclick="document.getElementById('voice-picker').classList.toggle('hidden')" 
+                            style="background:none; border:none; cursor:pointer; padding:4px;">⚙️</button>
+                    <select id="voice-picker" 
+                            class="hidden"
+                            onchange="speechControl.updateVoice(this.value)"
+                            style="position:absolute; bottom:100%; right:0; z-index:100; font-size:11px; width:160px; border-radius:4px; padding:2px;">
+                        <option>Loading...</option>
+                    </select>
+                </div>
+            </div>
+            
+            <style>
+                .hidden { display: none; }
+            </style>
         </div>
     </div>
     <div id="note-display" class="ui-group">
@@ -455,6 +474,60 @@ function syncHighlight(index) {
     }
 }
 
+let selectedVoice = null;
+let voicesLoaded = false;
+    
+function toggleVoiceMenu() {
+    const picker = document.getElementById('voice-picker');
+    picker.style.display = (picker.style.display === 'none') ? 'inline-block' : 'none';
+}
+
+function initVoices() {
+    const synth = window.speechSynthesis;
+    let voices = synth.getVoices();
+
+    // If voices are empty, the browser hasn't initialized the hardware yet
+    if (voices.length === 0) {
+        // Retry once after a short delay for browsers that don't fire onvoiceschanged
+        setTimeout(initVoices, 100);
+        return;
+    }
+
+    const picker = document.getElementById('voice-picker');
+    if (!picker) return;
+
+    // Filter for English and remove duplicates (common in mobile Safari)
+    const englishVoices = voices.filter(v => v.lang.startsWith('en'));
+    
+    // De-duplicate by name to keep the UI clean
+    const uniqueVoices = Array.from(new Map(englishVoices.map(v => [v.name, v])).values());
+
+    picker.innerHTML = uniqueVoices.map(v => {
+        const isDefault = v.default ? " (System)" : "";
+        return `<option value="${v.name}">${v.name}${isDefault}</option>`;
+    }).join('');
+
+    // Persistence: Try to load the user's previous preference from localStorage
+    const savedVoiceName = localStorage.getItem('tts_voice_pref');
+    if (savedVoiceName) {
+        selectedVoice = uniqueVoices.find(v => v.name === savedVoiceName);
+    }
+
+    // Fallback: If no saved pref, look for System Default, else first English voice
+    if (!selectedVoice) {
+        selectedVoice = uniqueVoices.find(v => v.default) || uniqueVoices[0];
+    }
+
+    if (selectedVoice) {
+        picker.value = selectedVoice.name;
+        voicesLoaded = true;
+    }
+}
+
+// Attach listener for async voice loading
+window.speechSynthesis.onvoiceschanged = initVoices;
+initVoices();  // for firefox/safari.
+    
 let currentVerseIdx = 0; // The new "Source of Truth"
 
 const speechControl = {
@@ -474,45 +547,64 @@ const speechControl = {
         this.speakFrom(0);
     },
 
-    speakFrom: function(startIdx) {
+    updateVoice: function(voiceName) {
+        const voices = window.speechSynthesis.getVoices();
+        const found = voices.find(v => v.name === voiceName);
+        
+        if (found) {
+            selectedVoice = found;
+            localStorage.setItem('tts_voice_pref', voiceName);
+            
+            // If the user changes voice MID-SPEECH, restart current verse
+            if (isSpeaking) {
+                this.speakFrom(currentVerseIdx);
+            }
+        }
+    },
+
+    speakFrom: function(idx) {
         const synth = window.speechSynthesis;
         synth.cancel();
-        
+
         const blocks = document.querySelectorAll('.tts-block');
-        if (startIdx >= blocks.length) {
+        if (idx >= blocks.length) {
             this.handleEnd();
             return;
         }
 
-        // We speak ONE verse at a time to ensure the highlight is perfectly synced.
-        // When one verse ends, the 'onend' event triggers the next one.
-        const currentBlock = blocks[startIdx];
+        const currentBlock = blocks[idx];
         const vNum = currentBlock.getAttribute('data-vnum');
-        
-        // Clean text for the current verse
-        const clone = currentBlock.querySelector('.verse-text').cloneNode(true);
+        const textNode = currentBlock.querySelector('.verse-text');
+        const clone = textNode.cloneNode(true);
         clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
         
         let textToSpeak = clone.innerText.trim();
-        // Force the punctuation pause
         if (!/[.!?;,]$/.test(textToSpeak)) textToSpeak += ".";
 
         this.highlightBlock(vNum);
 
-        currentUtterance = new SpeechSynthesisUtterance(textToSpeak);
-        currentUtterance.rate = 0.94;
-
-        currentUtterance.onend = () => {
+        const utterance = new SpeechSynthesisUtterance(textToSpeak);
+        
+        // CRITICAL: Explicitly set the voice here every time
+        if (selectedVoice) {
+            utterance.voice = selectedVoice;
+        }
+        
+        utterance.rate = 0.94;
+        utterance.onend = () => {
             if (isSpeaking) {
                 currentVerseIdx++;
-                this.speakFrom(currentVerseIdx); // Chain to next verse
+                this.speakFrom(currentVerseIdx);
             }
         };
 
-        isSpeaking = true;
-        document.getElementById('play-btn').innerText = "⏸ Pause";
-        synth.speak(currentUtterance);
-    },
+        // Standard bug fix: Some browsers need a tiny timeout after cancel()
+        setTimeout(() => {
+            synth.speak(utterance);
+            isSpeaking = true;
+            document.getElementById('play-btn').innerText = "⏸ Pause";
+        }, 20);
+    }
 
     highlightBlock: function(vNum) {
         this.cleanup();
