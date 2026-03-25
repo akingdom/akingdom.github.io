@@ -107,7 +107,7 @@
       {% assign normalized_title = page.title | strip | escape %}
 
       {% if content contains normalized_title %}
-        {# Do NOT print the title — it's already in the content #}
+        <!-- Do NOT print the title — it's already in the content -->
       {% else %}
         <h1>{{ page.title }}</h1>
       {% endif %}
@@ -120,7 +120,7 @@
           document.addEventListener("DOMContentLoaded", () => {
             const el = document.getElementById("qrcode");
             if (!el) return;
-            const size = el.clientWidth * (window.devicePixelRatio || 1);
+            const size = el.clientWidth;
             new QRCode(el, { text: location.href, width: size, height: size });
           });
         </script>
