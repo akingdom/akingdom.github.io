@@ -315,31 +315,18 @@ function render(targetV) {
     
     let html = "";
     Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
-        const temp = document.createElement('div');
-        // Add a trailing space to every verse to ensure they don't "touch" in the TTS string
-        temp.innerHTML = verses[v] + " "; 
-
-        const wrapTextNodes = (parent) => {
-            Array.from(parent.childNodes).forEach(node => {
-                if (node.nodeType === 3) {
-                    const text = node.nodeValue;
-                    const newSpan = document.createElement('span');
-                    newSpan.innerHTML = text.split(/(\s+)/).map(part => {
-                        return part.trim().length > 0 ? `<span class="tts-word">${part}</span>` : part;
-                    }).join('');
-                    node.replaceWith(newSpan);
-                } else if (node.nodeType === 1 && !node.classList.contains('strong-pill') && !node.classList.contains('fn-chip')) {
-                    wrapTextNodes(node);
-                }
-            });
-        };
-        wrapTextNodes(temp);
-
-        html += `<div id="v-${v}" class="verse-row"><span class="v-num">${v}</span>${temp.innerHTML}</div>`;
+        // We no longer need to wrap every individual word in a span.
+        // Instead, we treat the entire verse as one 'addressable' block.
+        const verseContent = verses[v]; 
+        html += `
+            <div id="v-${v}" class="verse-row tts-block" data-vnum="${v}">
+                <span class="v-num">${v}</span>
+                <span class="verse-text">${verseContent}</span>
+            </div>`;
     });
     
     document.getElementById('content').innerHTML = html;
-    
+        
     // Sync highlight if we are currently paused/resuming
     if (charIndex > 0) {
         syncHighlight(charIndex);
@@ -460,118 +447,86 @@ function syncHighlight(index) {
     }
 }
 
+let currentVerseIdx = 0; // The new "Source of Truth"
+
 const speechControl = {
     play: function() {
-        const synth = window.speechSynthesis;
-
-        // If we are currently talking, "Pause" now means "Stop and Save Position"
         if (isSpeaking) {
-            this.stopAndSave();
+            window.speechSynthesis.cancel();
+            isSpeaking = false;
+            document.getElementById('play-btn').innerText = "🔊 Resume";
             return;
         }
-
-        // If we aren't talking, start fresh from where we last left off
-        this.speakFrom(charIndex);
+        this.speakFrom(currentVerseIdx);
     },
 
-    stopAndSave: function() {
-        const synth = window.speechSynthesis;
-        // We don't use synth.pause() because it is unreliable across browsers
-        synth.cancel(); 
-        isSpeaking = false;
-        document.getElementById('play-btn').innerText = "🔊 Resume";
-        this.cleanup(); // Clean up yellow highlights
+    restart: function() {
+        window.speechSynthesis.cancel();
+        currentVerseIdx = 0;
+        this.speakFrom(0);
     },
 
-    // # filename: biblos_viewer.html -> speechControl.speakFrom()
-
-    speakFrom: function(startIndex) {
+    speakFrom: function(startIdx) {
         const synth = window.speechSynthesis;
         synth.cancel();
         
-        const content = document.getElementById('content');
-        const rows = content.querySelectorAll('.verse-row');
-        
-        // We build the master string by processing each verse row
-        let finalSegments = [];
-        rows.forEach(row => {
-            const clone = row.cloneNode(true);
-            // Remove non-spoken UI elements
-            clone.querySelectorAll('.v-num, .strong-pill, .fn-chip').forEach(el => el.remove());
-            
-            // Get the clean text and add a period if it's missing trailing punctuation
-            let txt = clone.innerText; 
-            if (txt.trim() && !/[.!?;,]$/.test(txt.trim())) {
-                txt = txt.trim() + ". "; // The "Artificial Breath"
-            } else {
-                txt = txt.trim() + " ";
-            }
-            finalSegments.push(txt);
-        });
-
-        // This is the string the engine actually speaks
-        currentText = finalSegments.join('\n'); 
-        const textToSpeak = currentText.slice(startIndex);
-
-        if (!textToSpeak.trim()) {
-            this.restart();
+        const blocks = document.querySelectorAll('.tts-block');
+        if (startIdx >= blocks.length) {
+            this.handleEnd();
             return;
         }
 
-        currentUtterance = new SpeechSynthesisUtterance(textToSpeak);
-        currentUtterance.rate = 0.94; // Optimized for clarity
+        // We speak ONE verse at a time to ensure the highlight is perfectly synced.
+        // When one verse ends, the 'onend' event triggers the next one.
+        const currentBlock = blocks[startIdx];
+        const vNum = currentBlock.getAttribute('data-vnum');
+        
+        // Clean text for the current verse
+        const clone = currentBlock.querySelector('.verse-text').cloneNode(true);
+        clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
+        
+        let textToSpeak = clone.innerText.trim();
+        // Force the punctuation pause
+        if (!/[.!?;,]$/.test(textToSpeak)) textToSpeak += ".";
 
-        currentUtterance.onboundary = (event) => {
-            if (event.name === "word") {
-                charIndex = startIndex + event.charIndex;
-                
-                // TIGHTER SYNC: 
-                // Because we added '.' and '\n', we search for the word 
-                // in the DOM that most closely matches our current text.
-                this.smartHighlight(charIndex);
+        this.highlightBlock(vNum);
+
+        currentUtterance = new SpeechSynthesisUtterance(textToSpeak);
+        currentUtterance.rate = 0.94;
+
+        currentUtterance.onend = () => {
+            if (isSpeaking) {
+                currentVerseIdx++;
+                this.speakFrom(currentVerseIdx); // Chain to next verse
             }
         };
 
-        setTimeout(() => {
-            synth.speak(currentUtterance);
-            isSpeaking = true;
-            document.getElementById('play-btn').innerText = "⏸ Pause";
-        }, 50);
+        isSpeaking = true;
+        document.getElementById('play-btn').innerText = "⏸ Pause";
+        synth.speak(currentUtterance);
     },
 
-    smartHighlight: function(index) {
-        const words = document.querySelectorAll('.tts-word');
+    highlightBlock: function(vNum) {
         this.cleanup();
-
-        // We use a "fuzzy" boundary check to account for the injected periods/newlines
-        let cumulative = 0;
-        for (let i = 0; i < words.length; i++) {
-            const wordText = words[i].innerText;
-            const wordLen = wordText.length;
-            
-            // If the TTS index is within the vicinity of this word
-            if (index >= cumulative && index < cumulative + wordLen + 2) {
-                words[i].classList.add('speaking-active');
-                
-                // Only scroll if necessary
-                const rect = words[i].getBoundingClientRect();
-                if (rect.top < 0 || rect.bottom > window.innerHeight) {
-                    words[i].scrollIntoView({ behavior: 'auto', block: 'center' });
-                }
-                break;
-            }
-            // We increment cumulative, adding +1 for the space we join with
-            cumulative += wordLen + 1;
+        const el = document.getElementById(`v-${vNum}`);
+        if (el) {
+            el.classList.add('speaking-active');
+            // Smooth scroll to the active verse
+            el.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
     },
 
-    cleanup: function() {
-        syncHighlight(0);
+    handleEnd: function() {
+        isSpeaking = false;
+        currentVerseIdx = 0;
+        this.cleanup();
+        document.getElementById('play-btn').innerText = "🔊 Listen";
     },
-    
-    restart: function() {
-        charIndex = 0;
-        this.speakFrom(0);
+
+    cleanup: function() {
+        document.querySelectorAll('.speaking-active').forEach(el => 
+            el.classList.remove('speaking-active')
+        );
     }
 };
 
