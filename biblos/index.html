@@ -530,12 +530,19 @@ let currentVerseIdx = 0; // The new "Source of Truth"
 
 const speechControl = {
     play: function() {
+        const synth = window.speechSynthesis;
+
+        // IF ALREADY SPEAKING -> PAUSE
         if (isSpeaking) {
-            window.speechSynthesis.cancel();
-            isSpeaking = false;
-            document.getElementById('play-btn').innerText = "🔊 Resume";
+            isSpeaking = false; 
+            synth.cancel();
+            this.updateUI("🔊 Resume");
             return;
         }
+
+        // IF NOT SPEAKING -> RESUME/START
+        // We do NOT set currentVerseIdx = 0 here. 
+        // It stays at whatever verse it was last on (or 0 if it's a new chapter).
         this.speakFrom(currentVerseIdx);
     },
 
