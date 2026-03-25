@@ -536,7 +536,9 @@ const speechControl = {
         if (isSpeaking) {
             isSpeaking = false; 
             synth.cancel();
-            this.updateUI("🔊 Resume");
+            // Update the button text so the user knows they can Resume
+            const btn = document.getElementById('play-btn');
+            if (btn) btn.innerText = "🔊 Resume";
             return;
         }
 
