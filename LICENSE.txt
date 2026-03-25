@@ -21,4 +21,4 @@ The full license text is included in the relevant folders.
 ---
 
 If you need permission for uses not covered here, please contact me.  
-Issues, discussion, and contact requests can be raised publicly via GitHub Issues ( https://github.com/akingdom/akingdom.github.io/issues ).
+Issues, discussion, and initial contact requests can be raised publicly via GitHub Issues ( https://github.com/akingdom/akingdom.github.io/issues ).
