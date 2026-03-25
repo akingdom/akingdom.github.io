@@ -87,9 +87,10 @@
     <!-- EXTRACT FIRST H1 -->
     {% assign h1_start = content | index: '<h1' %}
     {% assign h1_end = content | index: '</h1>' %}
-
+    
     {% if h1_start != nil and h1_end != nil %}
-      {% assign h1_block = content | slice: h1_start, h1_end | append: '</h1>' %}
+      {% assign h1_length = h1_end | plus: 5 | minus: h1_start %}
+      {% assign h1_block = content | slice: h1_start, h1_length %}
     {% endif %}
 
     <!-- TITLE + QR ROW -->
