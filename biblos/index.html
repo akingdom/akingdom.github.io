@@ -504,15 +504,26 @@ const speechControl = {
         synth.cancel();
         
         const content = document.getElementById('content');
+        const rows = content.querySelectorAll('.verse-row');
         
-        // 1. Create a clone to strip out Strong's/Notes BEFORE generating text
-        const clone = content.cloneNode(true);
-        clone.querySelectorAll('.strong-pill, .v-num, .fn-chip').forEach(el => el.remove());
-        
-        // 2. Get the RAW text string. This preserves "David's" as one word 
-        // because the whitespace matches the original USFM source.
-        currentText = clone.innerText.replace(/\s+/g, ' ').trim();
-        
+        // Build the text verse-by-verse, adding a "breath" at the end of each
+        let fullTextArray = [];
+        rows.forEach(row => {
+            const clone = row.cloneNode(true);
+            // Strip the verse number and Strong's before reading
+            clone.querySelectorAll('.v-num, .strong-pill, .fn-chip').forEach(el => el.remove());
+            
+            let verseText = clone.innerText.trim();
+            if (verseText) {
+                // Add a period if the verse doesn't end in punctuation to force a pause
+                if (!/[.!?;,]$/.test(verseText)) {
+                    verseText += "."; 
+                }
+                fullTextArray.push(verseText);
+            }
+        });
+
+        currentText = fullTextArray.join('  '); // Double space for extra natural padding
         const textToSpeak = currentText.slice(startIndex);
 
         if (!textToSpeak.trim()) {
@@ -521,7 +532,7 @@ const speechControl = {
         }
 
         currentUtterance = new SpeechSynthesisUtterance(textToSpeak);
-        currentUtterance.rate = 0.95;
+        currentUtterance.rate = 0.92; // Slightly slower for better clarity
 
         currentUtterance.onboundary = (event) => {
             if (event.name === "word") {
