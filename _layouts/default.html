@@ -89,10 +89,11 @@
     {% assign h1_end = content | index: '</h1>' %}
     
     {% if h1_start != nil and h1_end != nil %}
-      {% assign h1_length = h1_end | plus: 5 | minus: h1_start %}
+      {% assign h1_end_plus = h1_end | plus: 5 %}
+      {% assign h1_length = h1_end_plus | minus: h1_start %}
       {% assign h1_block = content | slice: h1_start, h1_length %}
     {% endif %}
-
+    
     <!-- TITLE + QR ROW -->
     <div class="title-row">
       {% if h1_block %}
