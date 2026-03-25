@@ -35,6 +35,7 @@
 | **Duchess Matilda FitzRoy** | Henry's daughter, Godfrey's full-sister. Duchess of Brittany by betrothal (marries 1118). Sharp, observant, becomes Beatrice's friend. | 
 | **Avice** | Godfrey's jealous half-sister (fictional), age 21. Dark-haired, with a smile that never reaches her eyes. Represents court hostility. | 
 | **Eustacia** | Godfrey's younger half-sister (fictional), age 19. Fairer, quicker to laugh, but the laughter is often at someone's expense. Pairs with Avice. | 
+
 ---
 
 ### Nobles over the sea (Mentioned Only)
