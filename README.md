@@ -342,7 +342,7 @@ I have a wide range of interests that inform my work and approach:
 
 ### Footnotes
 - <sub>*Feedback*: Issues, discussion and initial contact requests can be raised publicly via [*GitHub Issues in this repository*](https://github.com/akingdom/akingdom.github.io/issues).</sub>
-- <sub>*Licensing*: This website repository contains content under different licenses. See [`LICENSE.md`](./LICENSE.md) for the full licensing breakdown.</sub>
+- <sub>*Licensing*: This website repository contains content under different licenses. See [`LICENSE.md`](./LICENSE.txt) for the full licensing breakdown.</sub>
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
 
