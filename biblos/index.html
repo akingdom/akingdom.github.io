@@ -307,7 +307,15 @@ function changeChapter(c, v) {
     render(v);
 }
 
+// # filename: biblos_viewer.html
+
 function render(targetV) {
+    // 1. RESET SPEECH STATE ON EVERY NEW RENDER
+    window.speechSynthesis.cancel();
+    currentVerseIdx = 0; 
+    isSpeaking = false;
+    document.getElementById('play-btn').innerText = "🔊 Listen";
+    
     const verses = state.fullLibrary[state.ch];
     if (!verses) return;
     
@@ -533,7 +541,9 @@ const speechControl = {
 // Reset position when changing chapter
 const originalChangeChapter = changeChapter;
 changeChapter = function(c, v) {
+    // Kill speech immediately when the user navigates
     window.speechSynthesis.cancel();
+    currentVerseIdx = 0;
     charIndex = 0; 
     isSpeaking = false;
     document.getElementById('play-btn').innerText = "🔊 Listen";
