@@ -341,18 +341,10 @@ I have a wide range of interests that inform my work and approach:
 > The fallback rule of systems success is: Always use the best tool for the job. Don't force a tool to do a different job; build tools to survive tougher jobs than anticipated and to fail safely when they break. - Andrew Kingdom
 
 ### Footnotes
+- <sub>*Feedback*: Issues, discussion and initial contact requests can be raised publicly via [*GitHub Issues in this repository*](https://github.com/akingdom/akingdom.github.io/issues).</sub>
+- <sub>*Licensing*: This repository contains content under different licenses. See [`LICENSE.md`](./LICENSE) for the full licensing breakdown.</sub>
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
-
-### Feedback
-
-Issues and discussion can be raised publicly via [*GitHub Issues in this repository*](https://github.com/akingdom/akingdom.github.io/issues).
-
-### Licensing
-
-This repository contains content under different licenses.  
-See [`LICENSE.md`](./LICENSE) for the full licensing breakdown.
-
 
 <!-- ALL SCRIPTING -->
 <script src="js/pykelet.js"></script>
