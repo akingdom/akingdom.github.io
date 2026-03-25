@@ -55,6 +55,8 @@
         .usfm-d { display: block; font-style: italic; font-size: 0.9rem; text-align: center; margin-bottom: 0.5rem; opacity: 0.8; }
         .usfm-q { display: block; padding-left: 1.5rem; margin: 0.2rem 0; border-left: 2px solid var(--border); }
         .usfm-p, .usfm-ip { display: block; margin-top: 0.8rem; }
+        .usfm-s1 { font-weight: bold; font-size: 1.0rem; text-align: inherit; margin: 1.5rem 0 0.5rem; color: var(--primary); }
+        .usfm-r { display: block; font-style: italic; font-size: 0.85rem; margin: -0.4rem 0 0.8rem 0; color: #5f6368; text-align: center; }
 
         .bottom-bar { 
             position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); 
@@ -377,6 +379,49 @@ function handleNote(e, t, type) {
 function closeNote() { state.notePinned = false; document.getElementById('bottom-bar').classList.remove('is-note'); document.getElementById('note-display').style.display = 'none'; document.getElementById('standard-controls').style.display = 'flex'; }
 
 document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeNote(); document.getElementById('search-results').style.display='none'; } });
+
+// DEVELOPER TOOL: call this from debug console...
+async function runUsfmAudit() {
+    console.log("🚀 Starting Deep USFM Audit...");
+    const report = {
+        summary: {},
+        perVersion: {}
+    };
+    for (const col of window.BIBLE_INDEX.collections) {
+        console.log(`Checking Version: ${col.name}...`);
+        const varName = `COLLECTION_${col.id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
+        
+        // Ensure the collection is loaded for the audit
+        if (!window[varName]) {
+            await new Promise(r => {
+                const s = document.createElement('script');
+                s.src = col.file;
+                s.onload = r;
+                document.head.appendChild(s);
+            });
+        }
+        const data = window[varName];
+        report.perVersion[col.id] = {};
+        for (const bookCode in data) {
+            const lines = data[bookCode].usfm.split('\n');
+            lines.forEach(line => {
+                if (line.startsWith('\\')) {
+                    const tag = line.split(' ')[0].split('\*')[0]; // Catch tags like \v or \q1
+                    
+                    // Update Summary
+                    report.summary[tag] = (report.summary[tag] || 0) + 1;
+                    
+                    // Update Per Version
+                    report.perVersion[col.id][tag] = (report.perVersion[col.id][tag] || 0) + 1;
+                }
+            });
+        }
+    }
+    console.log("✅ Audit Complete!");
+    console.table(report.summary);
+    console.log("Full Report Object:", report);
+    return report;
+}
 </script>
 </body>
 </html>
