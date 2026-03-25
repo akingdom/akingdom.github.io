@@ -315,34 +315,26 @@ function render(targetV) {
     
     let html = "";
     Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
-        // Create a temporary container to process the existing USFM HTML safely
         const temp = document.createElement('div');
-        temp.innerHTML = verses[v];
+        // Add a trailing space to every verse to ensure they don't "touch" in the TTS string
+        temp.innerHTML = verses[v] + " "; 
 
         const wrapTextNodes = (parent) => {
             Array.from(parent.childNodes).forEach(node => {
-                if (node.nodeType === 3) { 
+                if (node.nodeType === 3) {
                     const text = node.nodeValue;
-                    if (text.trim().length > 0) {
-                        const newSpan = document.createElement('span');
-                        // Split by whitespace (\s+ captures the exact spaces from source)
-                        newSpan.innerHTML = text.split(/(\s+)/).map(part => {
-                            // This ensures "David's," and "Lord." are single tokens
-                            return part.trim().length > 0 ? `<span class="tts-word">${part}</span>` : part;
-                        }).join('');
-                        node.replaceWith(newSpan);
-                    }
-                } else if (node.nodeType === 1) {
-                    if (!node.classList.contains('strong-pill') && !node.classList.contains('fn-chip')) {
-                        wrapTextNodes(node);
-                    }
+                    const newSpan = document.createElement('span');
+                    newSpan.innerHTML = text.split(/(\s+)/).map(part => {
+                        return part.trim().length > 0 ? `<span class="tts-word">${part}</span>` : part;
+                    }).join('');
+                    node.replaceWith(newSpan);
+                } else if (node.nodeType === 1 && !node.classList.contains('strong-pill') && !node.classList.contains('fn-chip')) {
+                    wrapTextNodes(node);
                 }
             });
         };
-        
         wrapTextNodes(temp);
 
-        // Assemble the row using the processed HTML
         html += `<div id="v-${v}" class="verse-row"><span class="v-num">${v}</span>${temp.innerHTML}</div>`;
     });
     
@@ -491,35 +483,34 @@ const speechControl = {
         this.cleanup(); // Clean up yellow highlights
     },
 
+    // # filename: biblos_viewer.html -> speechControl.speakFrom()
+
     speakFrom: function(startIndex) {
         const synth = window.speechSynthesis;
         synth.cancel();
         
         const content = document.getElementById('content');
-        // We select ALL nodes inside the content (words AND whitespace)
-        // but exclude the "garbage" (Strong's, Footnotes, Verse Numbers)
-        const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
-            acceptNode: (node) => {
-                // Check if the text node is inside a forbidden element
-                let p = node.parentNode;
-                while (p && p !== content) {
-                    if (p.classList.contains('strong-pill') || 
-                        p.classList.contains('fn-chip') || 
-                        p.classList.contains('v-num')) return NodeFilter.FILTER_REJECT;
-                    p = p.parentNode;
-                }
-                return NodeFilter.FILTER_ACCEPT;
+        const rows = content.querySelectorAll('.verse-row');
+        
+        // We build the master string by processing each verse row
+        let finalSegments = [];
+        rows.forEach(row => {
+            const clone = row.cloneNode(true);
+            // Remove non-spoken UI elements
+            clone.querySelectorAll('.v-num, .strong-pill, .fn-chip').forEach(el => el.remove());
+            
+            // Get the clean text and add a period if it's missing trailing punctuation
+            let txt = clone.innerText; 
+            if (txt.trim() && !/[.!?;,]$/.test(txt.trim())) {
+                txt = txt.trim() + ". "; // The "Artificial Breath"
+            } else {
+                txt = txt.trim() + " ";
             }
+            finalSegments.push(txt);
         });
 
-        let textParts = [];
-        let n;
-        while(n = walker.nextNode()) {
-            textParts.push(n.nodeValue);
-        }
-
-        // This string is a 100% character-perfect match to the readable DOM
-        currentText = textParts.join('');
+        // This is the string the engine actually speaks
+        currentText = finalSegments.join('\n'); 
         const textToSpeak = currentText.slice(startIndex);
 
         if (!textToSpeak.trim()) {
@@ -528,22 +519,16 @@ const speechControl = {
         }
 
         currentUtterance = new SpeechSynthesisUtterance(textToSpeak);
-        currentUtterance.rate = 0.95;
+        currentUtterance.rate = 0.94; // Optimized for clarity
 
         currentUtterance.onboundary = (event) => {
             if (event.name === "word") {
-                // INSTANT UPDATE: No 0.6s delay because the indices match perfectly
                 charIndex = startIndex + event.charIndex;
-                syncHighlight(charIndex);
-            }
-        };
-
-        currentUtterance.onend = () => {
-            if (isSpeaking) {
-                isSpeaking = false;
-                charIndex = 0;
-                syncHighlight(0);
-                document.getElementById('play-btn').innerText = "🔊 Listen";
+                
+                // TIGHTER SYNC: 
+                // Because we added '.' and '\n', we search for the word 
+                // in the DOM that most closely matches our current text.
+                this.smartHighlight(charIndex);
             }
         };
 
@@ -552,6 +537,32 @@ const speechControl = {
             isSpeaking = true;
             document.getElementById('play-btn').innerText = "⏸ Pause";
         }, 50);
+    },
+
+    smartHighlight: function(index) {
+        const words = document.querySelectorAll('.tts-word');
+        this.cleanup();
+
+        // We use a "fuzzy" boundary check to account for the injected periods/newlines
+        let cumulative = 0;
+        for (let i = 0; i < words.length; i++) {
+            const wordText = words[i].innerText;
+            const wordLen = wordText.length;
+            
+            // If the TTS index is within the vicinity of this word
+            if (index >= cumulative && index < cumulative + wordLen + 2) {
+                words[i].classList.add('speaking-active');
+                
+                // Only scroll if necessary
+                const rect = words[i].getBoundingClientRect();
+                if (rect.top < 0 || rect.bottom > window.innerHeight) {
+                    words[i].scrollIntoView({ behavior: 'auto', block: 'center' });
+                }
+                break;
+            }
+            // We increment cumulative, adding +1 for the space we join with
+            cumulative += wordLen + 1;
+        }
     },
 
     cleanup: function() {
