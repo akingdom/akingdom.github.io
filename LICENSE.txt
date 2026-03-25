@@ -13,7 +13,8 @@ The full MIT license text is generally included in the respective subdirectories
 or the code is marked as MIT‑licensed, implying that the author is as noted in the copyright notice in the website footer.
 
 NON‑COMMERCIAL CONTENT
-Policy frameworks and similar content are generally licensed under **CC BY‑NC 4.0** ( https://creativecommons.org/licenses/by-nc/4.0/ ), unless otherwise noticed or license details are omitted. 
+Policy frameworks and similar content are generally licensed under **CC BY‑NC 4.0** ( https://creativecommons.org/licenses/by-nc/4.0/ ), 
+ unless otherwise noticed or license details are omitted. 
 Commercial use requires explicit permission; please contact me (see below).  
 The full license text is included in the relevant folders.
 
