@@ -104,7 +104,14 @@
     {% assign speech_marker = '<!-- SPEECH -->' %}
 
     <div class="title-row">
-      <h1>{{ page.title }}</h1>
+      {% assign normalized_title = page.title | strip | escape %}
+
+      {% if content contains normalized_title %}
+        {# Do NOT print the title — it's already in the content #}
+      {% else %}
+        <h1>{{ page.title }}</h1>
+      {% endif %}
+
 
       {% unless content contains qr_marker %}
         <div id="qrcode" class="header-qr"></div>
