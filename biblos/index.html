@@ -534,18 +534,84 @@ const speechControl = {
     play: function() {
         const synth = window.speechSynthesis;
 
-        // IF ALREADY SPEAKING -> PAUSE
         if (isSpeaking) {
             isSpeaking = false; 
             synth.cancel();
-            // Update the button text so the user knows they can Resume
-            const btn = document.getElementById('play-btn');
-            if (btn) btn.innerText = "🔊 Resume";
+            document.querySelectorAll('.play-pause-btn').forEach(b => b.innerText = "🔊 Resume");
             return;
         }
 
-        // IF NOT SPEAKING -> RESUME/START
+        // --- THE SENSIBLE ROLLBACK ---
+        // 1. Get the full text of the current verse
+        const blocks = document.querySelectorAll('.tts-block');
+        const currentBlock = blocks[currentVerseIdx];
+        if (!currentBlock) return;
+
+        const clone = currentBlock.querySelector('.verse-text').cloneNode(true);
+        clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
+        const fullText = clone.innerText.trim();
+
+        // 2. Calculate a safe starting point (roll back ~15 chars to find a word break)
+        let safeStart = Math.max(0, charIndex - 15);
+        
+        // 3. Find the first space AFTER our rollback point to avoid partial words
+        const spaceIndex = fullText.indexOf(' ', safeStart);
+        
+        // If we found a space and it's still behind our original cutoff, use it
+        if (spaceIndex !== -1 && spaceIndex < charIndex) {
+            charIndex = spaceIndex + 1; // +1 to start after the space
+        } else if (charIndex < 15) {
+            charIndex = 0; // If we're near the start, just start over
+        }
+
+        // RESUME from the newly calculated charIndex
         this.speakFrom(currentVerseIdx, charIndex);
+    },
+
+    speakFrom: function(vIdx, startChar = 0) {
+        const synth = window.speechSynthesis;
+        synth.cancel();
+
+        const blocks = document.querySelectorAll('.tts-block');
+        if (!blocks[vIdx]) return this.handleEnd();
+
+        const currentBlock = blocks[vIdx];
+        const vNum = currentBlock.getAttribute('data-vnum');
+        
+        const clone = currentBlock.querySelector('.verse-text').cloneNode(true);
+        clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
+        const fullText = clone.innerText.trim() + ".";
+
+        // Slice the text for the "Resume" effect
+        const textToSpeak = fullText.substring(startChar);
+
+        this.highlightBlock(vNum);
+
+        const utterance = new SpeechSynthesisUtterance(textToSpeak);
+        if (selectedVoice) utterance.voice = selectedVoice;
+        utterance.rate = 0.94;
+
+        utterance.onboundary = (event) => {
+            if (event.name === 'word') {
+                // Update global bookmark: (Where this slice started) + (Offset in current slice)
+                charIndex = startChar + event.charIndex;
+            }
+        };
+
+        utterance.onend = () => {
+            if (isSpeaking) {
+                currentVerseIdx++;
+                charIndex = 0; // Fresh verse, fresh index
+                this.speakFrom(currentVerseIdx, 0);
+            }
+        };
+
+        isSpeaking = true;
+        document.querySelectorAll('.play-pause-btn').forEach(b => b.innerText = "⏸ Pause");
+        
+        setTimeout(() => {
+            synth.speak(utterance);
+        }, 50);
     },
 
     restart: function() {
@@ -567,57 +633,6 @@ const speechControl = {
                 this.speakFrom(currentVerseIdx);
             }
         }
-    },
-
-    speakFrom: function(vIdx, startChar = 0) {
-        const synth = window.speechSynthesis;
-        synth.cancel();
-
-        const blocks = document.querySelectorAll('.tts-block');
-        if (!blocks[vIdx]) {
-            this.handleEnd();
-            return;
-        }
-
-        const currentBlock = blocks[vIdx];
-        const vNum = currentBlock.getAttribute('data-vnum');
-        
-        // 1. Get the Full Text of the verse (Cleaned)
-        const clone = currentBlock.querySelector('.verse-text').cloneNode(true);
-        clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
-        const fullText = clone.innerText.trim() + ".";
-
-        // 2. SLICE the text if we are resuming mid-verse
-        const textToSpeak = fullText.substring(startChar);
-
-        this.highlightBlock(vNum);
-
-        const utterance = new SpeechSynthesisUtterance(textToSpeak);
-        if (selectedVoice) utterance.voice = selectedVoice;
-        utterance.rate = 0.94;
-
-        // 3. THE BOOKMARKER: Update charIndex as it speaks
-        utterance.onboundary = (event) => {
-            if (event.name === 'word') {
-                // charIndex = (where we started this slice) + (offset within this slice)
-                charIndex = startChar + event.charIndex;
-            }
-        };
-
-        utterance.onend = () => {
-            if (isSpeaking) {
-                currentVerseIdx++; // Move to next verse
-                charIndex = 0;      // Reset bookmark for the fresh verse
-                this.speakFrom(currentVerseIdx, 0);
-            }
-        };
-
-        isSpeaking = true;
-        document.querySelectorAll('#play-btn').forEach(b => b.innerText = "⏸ Pause");
-        
-        setTimeout(() => {
-            synth.speak(utterance);
-        }, 50);
     },
 
     highlightBlock: function(vNum) {
