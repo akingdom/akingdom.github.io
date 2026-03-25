@@ -5,75 +5,108 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biblos Scripture Viewer</title>
     <style>
-        :root { 
-            --primary: #1967d2; --bg: #f8f9fa; --surface: #ffffff; 
-            --text: #202124; --border: #dadce0; --note-bg: #e8f0fe; 
-            --strong-green: #188038; --hover: #f1f3f4;
-        }
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --primary: #8ab4f8; --bg: #202124; --surface: #2d2e31;
-                --text: #e8eaed; --border: #3c4043; --note-bg: #3c4043;
-                --strong-green: #81c995; --hover: #35363a;
-            }
-        }
+:root { 
+--primary: #1967d2; --bg: #f8f9fa; --surface: #ffffff; 
+--text: #202124; --border: #dadce0; --note-bg: #e8f0fe; 
+--strong-green: #188038; --hover: #f1f3f4;
+}
+@media (prefers-color-scheme: dark) {
+:root {
+    --primary: #8ab4f8; --bg: #202124; --surface: #2d2e31;
+    --text: #e8eaed; --border: #3c4043; --note-bg: #3c4043;
+    --strong-green: #81c995; --hover: #35363a;
+}
+}
 
-        body { font-family: 'Charis SIL', 'Times New Roman', serif; margin: 0; background: var(--bg); color: var(--text); line-height: 1.6; padding-bottom: 140px; }
-        .ui-font { font-family: 'Roboto', 'Segoe UI', Arial, sans-serif; }
-        
-        .container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
-        .card { background: var(--surface); padding: 2.5rem; border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); position: relative; min-height: 70vh; }
-        
-        .sticky-nav { 
-            position: sticky; top: 0; background: var(--surface); padding: 10px 0; 
-            border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; z-index: 1000; 
-            display: flex; gap: 8px; flex-wrap: wrap; align-items: center; 
-        }
-        select, input { border: 1px solid var(--border); padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; background: var(--surface); color: var(--text); }
-        #col-select { max-width: 150px; }
-        #search-box { flex-grow: 1; min-width: 150px; }
-        
-        #search-results { 
-            position: absolute; top: 60px; left: 0; width: 100%; background: var(--surface); 
-            z-index: 2000; border: 1px solid var(--border); border-radius: 8px; 
-            max-height: 450px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
-        }
-        .search-item { padding: 12px; border-bottom: 1px solid var(--border); cursor: pointer; font-size: 0.95rem; }
-        .search-item:hover { background: var(--hover); }
-        .search-nav-indicator { padding: 15px; text-align: center; background: var(--bg); color: var(--primary); cursor: pointer; font-weight: 500; border-top: 1px solid var(--border); }
+body { font-family: 'Charis SIL', 'Times New Roman', serif; margin: 0; background: var(--bg); color: var(--text); line-height: 1.6; padding-bottom: 140px; }
+.ui-font { font-family: 'Roboto', 'Segoe UI', Arial, sans-serif; }
 
-        .ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem; font-weight: 400; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
-        .verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; }
-        .v-num { font-size: 0.75rem; color: #9aa0a6; font-weight: bold; margin-right: 10px; vertical-align: super; font-family: sans-serif; }
-        
-        .strong-pill { font-size: 0.65rem; color: var(--strong-green); background: rgba(129, 201, 149, 0.15); padding: 1px 4px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; font-weight: bold; }
-        .strongs-hidden .strong-pill { display: none !important; }
-        .fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
+.container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+.card { background: var(--surface); padding: 2.5rem; border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); position: relative; min-height: 70vh; }
 
-        /* Structural Styling */
-        .usfm-s { display: block; font-weight: bold; font-size: 1.1rem; text-align: center; margin: 1.5rem 0 0.5rem; color: var(--primary); }
-        .usfm-d { display: block; font-style: italic; font-size: 0.9rem; text-align: center; margin-bottom: 0.5rem; opacity: 0.8; }
-        .usfm-q { display: block; padding-left: 1.5rem; margin: 0.2rem 0; border-left: 2px solid var(--border); }
-        .usfm-p, .usfm-ip { display: block; margin-top: 0.8rem; }
-        .usfm-s1 { font-weight: bold; font-size: 1.0rem; text-align: inherit; margin: 1.5rem 0 0.5rem; color: var(--primary); }
-        .usfm-r { display: block; font-style: italic; font-size: 0.85rem; margin: -0.4rem 0 0.8rem 0; color: #5f6368; text-align: center; }
+.sticky-nav { 
+position: sticky; top: 0; background: var(--surface); padding: 10px 0; 
+border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; z-index: 1000; 
+display: flex; gap: 8px; flex-wrap: wrap; align-items: center; 
+}
+select, input { border: 1px solid var(--border); padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; background: var(--surface); color: var(--text); }
+#col-select { max-width: 150px; }
+#search-box { flex-grow: 1; min-width: 150px; }
 
-        .bottom-bar { 
-            position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); 
-            width: calc(100% - 40px); max-width: 760px; background: var(--surface); 
-            border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); 
-            padding: 12px 20px; z-index: 1000; display: flex; align-items: center; box-sizing: border-box; overflow-x: auto;
-        }
-        .bottom-bar.is-note { background: var(--note-bg); border: 1px solid var(--primary); }
-        .ui-group { display: flex; gap: 10px; width: 100%; min-width: max-content; justify-content: space-between; align-items: center; }
-        
-        button { background: var(--primary); color: white; border: none; padding: 8px 14px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; white-space: nowrap; }
-        button.secondary { background: var(--hover); color: var(--text); }
-        button.active { background: var(--primary) !important; color: var(--surface) !important; outline: 2px solid var(--primary); }
+#search-results { 
+position: absolute; top: 60px; left: 0; width: 100%; background: var(--surface); 
+z-index: 2000; border: 1px solid var(--border); border-radius: 8px; 
+max-height: 450px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
+}
+.search-item { padding: 12px; border-bottom: 1px solid var(--border); cursor: pointer; font-size: 0.95rem; }
+.search-item:hover { background: var(--hover); }
+.search-nav-indicator { padding: 15px; text-align: center; background: var(--bg); color: var(--primary); cursor: pointer; font-weight: 500; border-top: 1px solid var(--border); }
 
-        #note-display { display: none; width: 100%; justify-content: space-between; align-items: center; }
-        #qrcode { float: right; width: 80px; height: 80px; padding: 5px; background: white; border-radius: 8px; margin-left: 10px; }
-        #cache-status { font-size: 0.7rem; color: #9aa0a6; position: absolute; bottom: 5px; right: 10px; }
+.ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem; font-weight: 400; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
+.verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; }
+.v-num { font-size: 0.75rem; color: #9aa0a6; font-weight: bold; margin-right: 10px; vertical-align: super; font-family: sans-serif; }
+
+.strong-pill { font-size: 0.65rem; color: var(--strong-green); background: rgba(129, 201, 149, 0.15); padding: 1px 4px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; font-weight: bold; }
+.strongs-hidden .strong-pill { display: none !important; }
+.fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
+
+/* Structural Styling */
+/* --- Structural Headers --- */
+.usfm-mt1, .usfm-mt2, .usfm-mt3 { display: block; text-align: center; color: var(--primary); font-family: 'Roboto', sans-serif; }
+.usfm-mt1 { font-size: 1.8rem; font-weight: bold; margin-top: 1rem; }
+.usfm-mt2 { font-size: 1.4rem; font-weight: normal; margin-bottom: 0.5rem; }
+.usfm-mt3 { font-size: 1.1rem; font-style: italic; }
+
+.usfm-s1, .usfm-s2, .usfm-ms1 { display: block; font-weight: bold; color: var(--primary); margin: 1.5rem 0 0.5rem; text-align: left; }
+.usfm-s1 { font-size: 1.2rem; border-bottom: 1px solid var(--border); padding-bottom: 4px; }
+.usfm-s2 { font-size: 1.05rem; }
+
+/* --- Paragraphs & Spacing --- */
+.usfm-p { display: block; margin: 0.8rem 0; text-indent: 1.5rem; }
+.usfm-m { display: block; margin: 0.8rem 0; text-indent: 0; } /* Margin paragraph (BSB heavy) */
+.usfm-nb { display: block; margin-top: -0.8rem; } /* No-break paragraph */
+.usfm-b { display: block; height: 1.2rem; content: ""; } /* Blank line / Stanza break */
+
+/* --- Poetic Material --- */
+.usfm-q1 { display: block; padding-left: 2rem; margin: 0.1rem 0; }
+.usfm-q2 { display: block; padding-left: 4rem; margin: 0.1rem 0; }
+.usfm-q3 { display: block; padding-left: 6rem; margin: 0.1rem 0; }
+.usfm-qr { display: block; text-align: right; font-style: italic; font-size: 0.9rem; } /* Poetic right-aligned */
+
+/* --- References & Notes --- */
+.usfm-r { display: block; font-style: italic; font-size: 0.85rem; color: #5f6368; margin-bottom: 0.5rem; }
+.usfm-d { display: block; font-style: italic; font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0; } /* Descriptive title/Psalm heading */
+
+/* --- Lists & Special Blocks --- */
+.usfm-li1 { display: block; padding-left: 2rem; text-indent: -1rem; }
+.usfm-li2 { display: block; padding-left: 3rem; text-indent: -1rem; }
+.usfm-sp { display: block; font-weight: bold; font-style: italic; margin-top: 0.5rem; } /* Speaker */
+.usfm-pc { display: block; text-align: center; } /* Centered paragraph */
+.usfm-pmo { display: block; margin-left: 1.5rem; font-style: italic; } /* Embedded opening oral prayer/address */
+
+/* --- Intro Material (WEB-only) --- */
+.usfm-is1, .usfm-ip, .usfm-ili { color: #70757a; font-size: 0.95rem; }
+.usfm-ili { display: block; padding-left: 1rem; }
+
+/* --- Hide Meta Data from View --- */
+.usfm-id, .usfm-ide, .usfm-h, .usfm-toc1, .usfm-toc2, .usfm-toc3 { display: none; }
+
+.bottom-bar { 
+    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); 
+    width: calc(100% - 40px); max-width: 760px; background: var(--surface); 
+    border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); 
+    padding: 12px 20px; z-index: 1000; display: flex; align-items: center; box-sizing: border-box; overflow-x: auto;
+}
+.bottom-bar.is-note { background: var(--note-bg); border: 1px solid var(--primary); }
+.ui-group { display: flex; gap: 10px; width: 100%; min-width: max-content; justify-content: space-between; align-items: center; }
+
+button { background: var(--primary); color: white; border: none; padding: 8px 14px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; white-space: nowrap; }
+button.secondary { background: var(--hover); color: var(--text); }
+button.active { background: var(--primary) !important; color: var(--surface) !important; outline: 2px solid var(--primary); }
+
+#note-display { display: none; width: 100%; justify-content: space-between; align-items: center; }
+#qrcode { float: right; width: 80px; height: 80px; padding: 5px; background: white; border-radius: 8px; margin-left: 10px; }
+#cache-status { font-size: 0.7rem; color: #9aa0a6; position: absolute; bottom: 5px; right: 10px; }
     </style>
 </head>
 <body class="strongs-hidden">
