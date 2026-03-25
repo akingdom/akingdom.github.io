@@ -1,7 +1,7 @@
 # AI Governance Policy  
 ## Accountability‑First Model for Safe AI Deployment  
 
-**By Andrew Kingdom | Version 1.2 | 2026‑03‑23 | Public Draft**
+**By Andrew Kingdom | Version 1.3 | 2026-03-23 | Public Draft**
 
 ---
 
@@ -9,8 +9,11 @@
 A plain‑language governance model for AI systems that enforces real accountability, not just stated responsibility.  
 Designed for leaders, policymakers, and organizations deploying AI at scale, with a focus on limiting harm, exposing risk, and ensuring decisions remain traceable to individuals.
 
-**Policy Definition:**  
+**Policy Definition:**  
 A policy is a clearly stated guide for decision-making and behavior; it is **not** a technical procedure or detailed instruction, but a signpost showing how we are expected to act responsibly and accountably.
+
+**Interpretation:**  
+This policy prioritizes truthful understanding of system limits over speed, scale, or certainty; accountability exists to enforce this, not replace it.
 
 ---
 
@@ -33,7 +36,7 @@ Builders cannot approve their own systems.
 4. Independent Review  
 5. Monitoring  
 
-**Accountability (named, not shared)**  
+**Accountability (enforces, does not replace understanding)**  
 - Builders → undisclosed or hidden risks  
 - Risk & Integrity Unit → inadequate or weak testing  
 - Executives → knowingly accepted risks that resulted in harm  
@@ -277,7 +280,8 @@ Progressive discipline does not apply in cases of intentional concealment or fra
 ## 10. Guiding Principle
 
 > If we do not understand a system well enough to explain its limits clearly, we do not release it.  
-> If harm appears, we act immediately—not after justification or delay.
+> If harm appears, we act immediately—not after justification or delay.  
+> Accountability exists to uphold this standard, not to compensate for its absence.
 
 ---
 
@@ -285,6 +289,7 @@ Progressive discipline does not apply in cases of intentional concealment or fra
 
 - v1.0 (2026‑03‑23) – Initial release  
 - v1.2 (2026‑03‑23) – Amendments following two rounds of review by 4 x AIs: refined scope, strengthened override process, defined high‑impact systems, added controlled deployment path, specified monitoring escalation timeframe, established independent appeals mechanism, formalized executive risk summary, and clarified unit independence.
+- v1.3 (2026-03-23) – Rebalanced to clarify that accountability enforces, but does not replace, truthful understanding of system limits
 
 ---
 
