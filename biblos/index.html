@@ -319,31 +319,33 @@ function render(targetV) {
         const temp = document.createElement('div');
         temp.innerHTML = verses[v];
 
-        // Surgical Word Wrap: Only wrap raw text nodes, skip Strong's/Notes
         const wrapTextNodes = (parent) => {
             Array.from(parent.childNodes).forEach(node => {
                 if (node.nodeType === 3) { // Text Node
                     const text = node.nodeValue;
                     if (text.trim().length > 0) {
                         const newSpan = document.createElement('span');
-                        // Wrap words but preserve original whitespace
+                        
+                        // NEW LOGIC: Split by whitespace, but don't split on apostrophes or internal punctuation
+                        // This ensures "David's" remains one <span> and one TTS token.
                         newSpan.innerHTML = text.split(/(\s+)/).map(part => {
                             if (part.trim().length > 0) {
+                                // We only wrap the visible word/punctuation combo
                                 return `<span class="tts-word">${part}</span>`;
                             }
-                            return part;
+                            return part; // Return the whitespace as-is
                         }).join('');
+                        
                         node.replaceWith(newSpan);
                     }
                 } else if (node.nodeType === 1) {
-                    // Skip wrapping inside Strong's pills or Footnotes
                     if (!node.classList.contains('strong-pill') && !node.classList.contains('fn-chip')) {
                         wrapTextNodes(node);
                     }
                 }
             });
         };
-
+        
         wrapTextNodes(temp);
 
         // Assemble the row using the processed HTML
