@@ -36,13 +36,9 @@
       margin: 0 auto;
     }
 
-    .speech-container {
-      margin-bottom: 1rem;
-    }
-
-    .title-row {
+    .controls-row {
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-end;
       align-items: center;
       gap: 1rem;
       margin-bottom: 1rem;
@@ -77,32 +73,19 @@
     {% assign qr_marker = '<!-- QR Code -->' %}
     {% assign speech_marker = '<!-- SPEECH -->' %}
 
-    <!-- SPEECH CONTROLS -->
-    {% unless content contains speech_marker %}
-      <div class="speech-container">
-        {% include speech-block.html %}
-      </div>
-    {% endunless %}
+    <!-- TITLE RENDERS NATURALLY FROM CONTENT -->
 
-    <!-- EXTRACT FIRST H1 -->
-    {% assign h1_start = content | index: '<h1' %}
-    {% assign h1_end = content | index: '</h1>' %}
-    
-    {% if h1_start != nil and h1_end != nil %}
-      {% assign h1_end_plus = h1_end | plus: 5 %}
-      {% assign h1_length = h1_end_plus | minus: h1_start %}
-      {% assign h1_block = content | slice: h1_start, h1_length %}
-    {% endif %}
-    
-    <!-- TITLE + QR ROW -->
-    <div class="title-row">
-      {% if h1_block %}
-        {{ h1_block }}
-      {% endif %}
+    <!-- CONTROLS ROW (speech + QR) -->
+    <div class="controls-row">
+
+      {% unless content contains speech_marker %}
+        {% include speech-block.html %}
+      {% endunless %}
 
       {% unless content contains qr_marker %}
         <div id="qrcode" class="header-qr"></div>
       {% endunless %}
+
     </div>
 
     <script src="/js/qrcode.js"></script>
