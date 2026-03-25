@@ -353,8 +353,23 @@ function render(targetV) {
     });
     
     document.getElementById('content').innerHTML = html;
-    
-    // PRESERVED: QR and Scrolling logic
+
+    // NEW: Sync visual highlight with current speech position
+    if (charIndex > 0) {
+        const words = document.querySelectorAll('.tts-word');
+        let cumulative = 0;
+        for (let i = 0; i < words.length; i++) {
+            const wordLen = words[i].innerText.length;
+            if (charIndex >= cumulative && charIndex < cumulative + wordLen + 1) {
+                words[i].classList.add('speaking-active');
+                // Optional: Ensure the resumed position is in view
+                words[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
+                break;
+            }
+            cumulative += wordLen + 1;
+        }
+    }
+
     updateQR();
     if (targetV) {
         setTimeout(() => {
