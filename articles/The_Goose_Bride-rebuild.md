@@ -472,7 +472,7 @@ But she saw the way he looked at the sword above the hearth—the blade he had c
 
 ---
 
-The real trouble began when Sir Guy de Montfort (a knight) came to Stanwey followed by a procession of servants trailing after him.
+The real trouble began when Sir Guy de Montfort (knight) came to Stanwey followed by a procession of servants trailing after him.
 
 He arrived in the autumn of Beatrice’s fifteenth year, riding with a small retinue, his horse’s trappings finer than any in the village. He claimed he was passing through, hunting in the king’s forest, but his eyes lingered on the hall, on the fields, on the tidy barns.
 
@@ -524,9 +524,9 @@ Sir Guy was there, standing with the nurse outside the poultry shed. He had ridd
 
 “The old man is either stubborn or just plain senile.” His voice was low, impatient. “The estate will surely escheat to the crown within five years. The king’s justices will see it. Since when can a daughter hold thegn’s land without a husband? Every loose tongue shares how she has refused every man her father has ever brought. She is insolent, foolish, or both. But the land is good. The wool from the southern fields alone is worth—” 
 
-Sir Guy stopped as his horse bolted past them at a gallop, heading for the river crossing. His normally low smooth voice voice turned into yell with un-knightly words that would make a pig blush. He took off, scattering the geese, running after his mount, as though chased by a swarm of bees. Far behind him, the nurse helplessly doubling over in a fit of laughter, repeatedly slapping her leg from the comedy of the scene. 
+Sir Guy stopped as his horse bolted past them at a gallop, heading for the river crossing. His normally low smooth voice voice turned into yell with un-knightly words that would make a pig blush. He took off, scattering the geese, running after his mount, as though chased by a swarm of bees. Far behind him, the nurse doubled over in a fit of laughter, slapping her leg at the comedy of the scene. 
 
-By the time Beatrice reached the nurse, however, there was barely a smile on her face, only a twinkle in her eye gave told of her good mood.
+By the time Beatrice reached the nurse, however, there was barely a smile on her face, only a twinkle in her eye told of her good mood.
 
 "It seems that someone let Sir Guy's horse loose, fancy that. Fresh eggs, is it?" 
 
@@ -540,7 +540,7 @@ When Beatrice returned home, she told Harold everything.
 
 He listened in silence, his face pale. When she finished, he closed his eyes.
 
-“So that's the mettle of the man. If he had shown the brush of his tail sooner, I should have seen the fox beneath the skin,” he said, his voice grinding like stones.
+“If he had shown the brush of his tail sooner, I should have seen the fox beneath the skin,” he said, his voice grinding like stones.
 
 “Father, you saw a knight who spoke of protection. There was no shame in that.”
 
@@ -1238,6 +1238,8 @@ Then came the rhythmic clump-clump of a bullock team, the cart behind them groan
 
 ---
 
+### The way home
+
 It came up behind her, a low wooden frame on squeaking wheels, drawn by a pair of oxen. A man held a long goad to keep them on track; beside him sat a woman with a child in her lap. Two girls perched on the tailboard, their legs swinging, bare feet caked with dust. They had the look of people who had spent the morning delivering something to the castle and were now glad to be leaving.
 
 The man pulled up. “Far to go?”
@@ -1256,91 +1258,65 @@ After half a mile the woman turned around, her eyes bright with the hunger for n
 
 Beatrice nodded. “Delivered a tribute. A bird for the king’s table.”
 
-“Ah yes,” The woman nodded. “Father and I just dropped off birds and some flour to the kitchens.” She leaned closer. “And you’ll have heard the news, I suppose. Tell me—what’s all this about the king’s vow?”
+“Ah. Father and I just dropped off birds and flour ourselves.” She leaned closer. “Then you’ll have heard all the excitement, then?”
 
-“Vow?” Beatrice frowned blankly, startled and unsure what the woman meant. “What vow?”
+“Excitement?” Beatrice smiled.
 
-“Oh.” The woman’s voice dropped conspiratorially. “Well. I was told by the baker’s boy—the one we brought flour to—he says that the king swore a great oath; caused a great flap among the court. Everyone is talking about it, I’m surprised you don’t know.”
+“Oh.” The woman’s voice dropped. “The baker’s boy—the one we brought flour to—he says that one of the king’s sons is to marry. It caused a flap among the court when it was announced.”
 
-Beatrice shook her head. “I heard nothing about it.”
+Beatrice looked down at her basket. “I was busy, so I didn't hear anything.” 
 
-The woman motioned her to come closer. “They say—” She looked around. ”They say that one of the king’s sons is to marry, by royal decree no less.”
+The man snorted. “Sons? Bastards, more like. The king’s got enough of them.”
 
-The man snorted. “Sons. Bastards, more like. The king’s got enough of them.”
+“The boys can't help their parentage, John.” The woman waved a hand dismissively. “Anyways, some girl arrives with a bird, and would you believe that the king made a vow that she’s to wed a prince. At least that's what the boy said.”
 
-“Well, one of his sons, anyway.” The woman waved a hand. “The point is, some girl walked in—with a bird, they say—and now she’s to wed a prince.”
-
-Beatrice’s heart gave a sudden lurch. *A bird. I walked in with a bird. But I heard no vow. It can’t be me, then.* 
-
-“Oh, really? Imagine such a thing!” She replied, speaking much louder than she had intended. 
-
+Beatrice’s heart gave a sickening lurch. *A bird. I walked in with a bird. There must have been a lot of girls though. It can't be me.*
+ 
 “They say she got to keep her bird,” the woman went on. “Unlike us. We gave up three good capons and a side of bacon, and what do we get?”
 
-“A blessing and a pat on the head.,” said the man. “Though we got paid, to be fair.”
+“A blessing and a pat on the head.,” said the man. “Though we got paid.”
 
-“Fair?” The woman sniffed. “We’ll be eating pottage for a month.”
+“That be sooth, John.” The woman sniffed. “I won't begrudge eating pottage for a month.”
 
-Beatrice looked at her strangely, her mind racing too fast. *Fancy that, another girl took her bird home too? Obviously the queen was feeling generous today. Two birds pardoned. I wonder who she is?*
+Beatrice’s laugh came out strangely loud. ”Imagine such a thing. A girl keeping her bird.” But her hands were cold and her legs weak. *But it can't be me. I heard no vow. Not me.* 
 
-She shook her head and laughed quietly to herself at such goings on. *It's odd that no one told me about it. Did she come in after me, then? The queen would have told me plainly, surely. Not possible for it to be me.*
+”Imagine that.” John turned on his seat to grin at her. “Oh, but you look quite pale, miss.” His gaze dropped to the basket. “What kind of bird did you bring all this way? It must have been heavy, you poor thing.”
 
-But her hands shook with cold and her legs felt as weak as water. ”I heard—” She struggled to catch her breath. ”I saw no such girl. When—”
+“Goose.” The word came out before Beatrice could stop it.
 
-The cart went over a stone. The wife turned away momentarily. ”Mind the road, John! Where was I—Ah yes. Now, I don’t know all the details—Something about the king refusing to marry his son to a foreigner. That’s it.”
+The girls exchanged glances. “A goose, mother! Goosie goosie!”
 
-Her husband turned. “Not quite what I heard, mother.”
+The basket shifted all by itself on Beatrice's lap.
 
-She gave him a sharp look. “You mind the road, John, or you’ll have us all in the ditch. As I was saying, the king wasn’t happy with it all and in the end he says—what do you think?”
+The woman laughed. “Silly, I thought I heard a goose for a moment. Yes, girls a goose; a great white thing. Caused a commotion, chased the clerks. Imagine that—a goose chase in the king’s hall!”
 
-Both girls chimed in as though on cue, “What, mother?”
+The girls giggled. 
 
-”He says—whatever is that?”
+“A chase? Mercy me.” Beatrice’s voice wavered, seeming distant from her, surreal. *A commotion. The king caught Goosie. That was me. But I left. I didn’t hear any vow. Not me.*
 
-She said this because horses’ hooves came quickly towards the cart at a gallop and two horses pulled up.
-
----
-
-Two riders appeared—men in the king’s colours, swords hanging at their sides, horses blowing loudly. They drew alongside the cart.
-
-“Good folk,” one called, “we seek a young woman on this road, travelling alone, leading a goose.”
-
-Beatrice’s heart almost stopped. John called out to the oxen, who slowed to a halt, being well trained. The woman’s hand went to her chest. The girls sat very still. John looked from the guards to Beatrice and back.
-
-“A goose, you said?” the man said. “We’ve seen no one with a goose, sir, at least not that I’ve seen.”
-
-The guard leaned down, scanning the cart. His eyes passed over Beatrice, over the basket, over the girls, concluding they were all one family. “Carry on then.”
-
-The younger guard then looked at Beatrice—a long, appraising look. She avoided his gaze politely, trying not to breathe. He shrugged, and they rode on.
+She could feel the woman's sharp gaze watching, measuring. Beatrice ignored her and wriggled herself up against the backboard, behind John's seat. She leaned back and shut her eyes for a minute. *She doesn’t know, and it wasn’t me. Not me. Not at Stanwey.* She tried to imagine her own life as a princess and her stomach hurt. 
 
 ---
 
-The cart lurched forward and the wife let out a long breath. “John, just think, if our daughters were a little older...” she said, and there was laughter in her voice.
+The cart rumbled slowly on. The rhythmic beat of horse hooves sounded from behind—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them past.
 
-John shook his head and smiled. “Unlikely, mother.” He sat upright on his bench seat. “The baker’s boy said, the king would just as soon marry the son to common folk as to some princess.”
+Two men in the king’s colours drew alongside, their horses blowing. The older guard scanned the cart, his eyes passing over the family, over Beatrice, over the basket. “Good folk,” he said, “we seek a young woman on this road, travelling alone for Stanwey, with a goose.”
 
-His wife interrupted, eager to finish the tale. ”John, yes! He said that the first pure maid to walk in the doors would marry his son no matter if common or noble. And in walks some girl carrying a bird.”
+John’s hand tightened on the goad. “We’ve seen no one with a goose, sir.”
 
-The daughters piped in. “Goose, mother!”
+The guard’s gaze lingered on Beatrice. She kept her face still, her hands folded over the basket. The younger guard leaned down, looking at the girls, at the woman, at the child in her lap. His eyes fell on Beatrice and frowned.
 
-“Yes, a goose; a great white thing. Caused a commotion, chased the clerks.” She laughed. “Imagine that—a goose loose in the king’s hall!”
+“She’d be alone,” the older guard said. “You’re a family.”
 
-The girls giggled. The man shook his head. “Goose or no, she’s a lucky lass. A prince, even a bastard, is more than most get.”
+“That we are,” said the woman, her voice bright. “Just us and our deliveries.”
 
-“A goose? Mercy me.” Beatrice’s voice wavered, seeming distant from her, surreal. *A commotion. The king laughed. That was me. But I left. I didn’t hear any vow. It was someone else—some other girl with a goose. There must be another, mustn’t there?*
+The older guard nodded. “Carry on, then.”
 
-The woman was watching her. “You look pale, dear. Did the soldiers frighten you?”
+They rode on.
 
-“No,” Beatrice said. “It was a long walk, is all.”
+The cart lurched forward. The woman let out a breath. “John, just think, if our daughters were a little older…”
 
-“You poor thing. A long walk and a heavy load.” The woman’s gaze dropped to the basket, then rose again. “What bird did you bring?”
-
-“A goose.” The word came out before she could stop it.
-
-Beatrice blinked. The woman’s eyebrows rose. The girls exchanged glances. The man half-turned on his seat.
-
-“A goose,” the woman said slowly, as much to herself as anyone. “And you say you know nothing about it? Well now, I wonder who she is, father. She must have made an impression, for our capons got no such reception.”
-
-She eyed Beatrice up and down again, but eventually settled on her seat. Beatrice clutched the basket with sweaty hands and shut her eyes for a while. *She’s just gossiping. She doesn’t know, and it wasn’t me. Not me. Not at Stanwey.* She tried to imagine her own life as a princess and her stomach hurt. The cart rumbled slowly on.
+But Beatrice was no longer listening. Her hands cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. Why didn't they tell me earlier?* 
 
 ---
 
@@ -1651,124 +1627,7 @@ Only when the lodge vanished behind the trees did Beatrice’s breath loosen.
 Great changes never felt real at first; the mind lagged behind the world, reaching for the familiar to steady itself.
 
 
---- LARGELY REPLACED BELOW WITH ABOVE=======================
-
-After setting off
-
-
-She was still turning it over in her mind when she heard the horses.
-
-Hooves on stone. Coming fast. Two, maybe three riders.
-
-She stepped to the side of the road without thinking, bowing her head, pulling the basket close. Nobles passed quickly when they passed at all. You stood aside and waited for the dust to settle.
-
-The horses slowed. Stopped.
-
-She waited, head still bowed. The dust drifted. Someone dismounted.
-
-Then a voice—young, uncertain, not commanding. "Please. Don't be afraid."
-
-She looked up.
-
-It was him. The young man from the hall. The one who had stood by the pillar, watching. Their eyes had met for a heartbeat when she first entered—she remembered because he hadn't looked away quickly, the way nobles usually did when caught staring at a peasant. He'd just… watched. Like he was trying to understand something.
-
-Now he stood before her, holding his horse's reins, looking as uncertain as she felt.
-
-"I'm sorry to startle you. My father—the king—has commanded me to give you safe escort back to your home. That's all. Nothing more."
-
-She stared at him. Safe escort. A prince, sent to walk a goose girl home.
-
-"You'll get your boots muddy."
-
-He looked down at his fine leather boots. Then at the road. Then back at her.
-
-"I've had muddier."
-
-It was almost a joke. Almost. She didn't smile, but something in her face shifted.
-
----
-
-They walked.
-
-The guards followed at a distance—far enough to be respectful, close enough to be protective. Godfrey had offered her his horse, but the thought of sitting on that tall, sleek animal, of being lifted up by a prince in front of soldiers… her face had gone hot just imagining it.
-
-"I'll walk."
-
-And so they walked.
-
-For a long time, neither spoke. The road crunched under their feet. Goosie rustled in her basket. The forest breathed around them.
-
-Finally, Godfrey spoke. "The goose. What's its name?"
-
-She glanced at him sharply, searching for mockery. Found none.
-
-"Goosie."
-
-"Goosie." He nodded, considering it seriously. "That's a good name. Simple. She knows who she is."
-
-Beatrice didn't know what to make of that.
-
----
-
-After another silence, she asked, "Do you always escort peasants home?"
-
-He almost laughed, then stopped himself. "No. I've never escorted anyone anywhere." A pause. "I mostly just… watch."
-
-She remembered him by the pillar. Watching.
-
-"Why?"
-
-He shrugged. "It's safer. No one expects much from you if all you ever do is watch."
-
-She filed that away. It wasn't what a prince was supposed to say.
-
----
-
-They walked on. The guards' horses clip-clopped softly behind them.
-
-Godfrey kept glancing at her—quick looks, then away, as if trying to work something out. She felt his gaze like a small warmth.
-
-Finally, she couldn't bear it.
-
-"What is it?" She refused to look at him. "What are you staring at?"
-
-He went pink. "It's nothing. It's… I'm… I mean I'm sorry. I didn't mean to—"
-
-She glanced at him sideways. Waited.
-
-He took a breath.
-
-"I… I think you're one of the bravest women I've ever seen."
-
-She stumbled. Actually stumbled, catching herself just in time.
-
-"What!?"
-
-He wasn't looking at her now, staring straight ahead. "In the hall. You walked in after your goose. Everyone was staring. My father was in a mood that could curdle milk. And you just… walked up to him. And begged. For a goose."
-
-Beatrice didn't know what to say. No one had ever called her brave before. Stubborn, yes. Headstrong. Her father said she acted first and thought second. But brave?
-
-"I was terrified."
-
-He glanced at her. "I know. That's what made it brave."
-
----
-
-They walked on. The forest opened up ahead—she could see the clearing where Stanwey sat, smoke rising from the hall's hearth.
-
-Godfrey took a breath. "My father… said something. Before you came. About me. About…" He stopped. Shook his head. "It doesn't matter."
-
-Beatrice looked at him. Waited.
-
-"Another time. Perhaps."
-
-She sensed weight but didn't press. Something in his face told her not to.
-
-"If you like."
-
-They walked on in silence, but it was a different silence now. Easier.
-
----
+--- LARGELY REPLACED BELOW WITH ABOVE
 
 The road curved through the trees.
 
@@ -3780,7 +3639,6 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Tue 20 Oct** | 6:40 AM | Hunt departs Rockingham | — | — | — | "Frosty morning" |
 | **Tue 20 Oct** | 10:30 AM | Hunt returns (failed) | — | — | — | Henry's foul mood |
 | **Tue 20 Oct** | 10:30-11:30 AM | Political debate (Ch 7-9) | — | — | — | Brittany offer, Roger, the vow |
-| **Tue 20 Oct** | 11:30 AM | Beatrice arrives at lodge | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
 | **Tue 20 Oct** | 11:30 AM | Beatrice arrives at lodge | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
 | **Tue 20 Oct** | 11:45 AM | Henry recognizes Harold | Relieved | Sir Guy's mockery | Henry shames Sir Guy | Queen observes |
 | **Tue 20 Oct** | 12:00 PM | Queen's intervention, larder added | Unaware | — | Queen whispers vow | "Let it be recorded" |
