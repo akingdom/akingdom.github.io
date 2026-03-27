@@ -944,7 +944,9 @@ Someone muttered:
 
 The bird leapt onto the king’s table.
 
-Henry blinked at the goose, then roared with laughter: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
+Henry blinked at the goose, and every face showed what it feared most, not knowing whether the king’s mood would turn to mercy or to wrath. 
+
+In that breath, the king roared with laughter: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
 
 “Well! At last a lively hunt!”
 
@@ -958,7 +960,7 @@ The King blinked.
 
 “Your goose?”
 
-Laughter and confused rippled through the hall, settling finally into unease. No one knew whether the king’s mood would turn to mercy or to wrath. In that breath, every face showed what it feared most.
+Laughter and confused rippled through the hall, settling finally into unease. 
 
 Sir Guy, emboldened by the court's uncertain laughter, called out: "This Saxon girl needs a lesson her father's hall could not teach!"
 
@@ -1288,7 +1290,7 @@ The girls exchanged glances. “A goose, mother! Goosie goosie!”
 
 The basket shifted all by itself on Beatrice's lap.
 
-The woman laughed. “Silly, I thought I heard a goose for a moment. Yes, girls a goose; a great white thing. Caused a commotion, chased the clerks. Imagine that—a goose chase in the king’s hall!”
+The woman laughed. “Silly, I thought I heard a real goose for a moment. Yes, girls a goose; a great white thing. Caused a commotion, chased the clerks. Imagine that—a goose chase in the king’s hall!”
 
 The girls giggled. 
 
@@ -1298,7 +1300,9 @@ She could feel the woman's sharp gaze watching, measuring. Beatrice ignored her 
 
 ---
 
-The cart rumbled slowly on. The rhythmic beat of horse hooves sounded from behind—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them past.
+The cart rumbled slowly on, the bullocks flicking their ears and tails at the flies. 
+
+The rhythmic beat of horse hooves sounded from behind—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them past.
 
 Two men in the king’s colours drew alongside, their horses blowing. The older guard scanned the cart, his eyes passing over the family, over Beatrice, over the basket. “Good folk,” he said, “we seek a young woman on this road, travelling alone for Stanwey, with a goose.”
 
@@ -1316,51 +1320,57 @@ They rode on.
 
 The cart lurched forward. The woman let out a breath. “John, just think, if our daughters were a little older…”
 
-But Beatrice was no longer listening. Her hands cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. Why didn't they tell me earlier?* 
+But Beatrice was no longer listening. Her hands cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. But why didn't anyone tell me earlier?* 
 
 ---
 
 Voices woke Beatrice from a strange dream. The driver, John, had pulled up at the fork. “This is where we turn, Miss.”
 
-Beatrice picked up her basket and climbed down on shaky legs. “Thank you. For the ride and everything.”
+The woman leaned back. “We let you sleep. You must have been worn out, you poor thing.” Her eyes glittered, but not unkindly. “Take care of yourself, dear. And your goose.”
 
-The woman leaned over the side. “Take care of yourself, dear. And your goose.” Her eyes glittered, but not unkindly.
+“Thank you. For the ride and everything.” 
 
-Beatrice nodded, but did not answer. She stood at the lane’s edge, basket in hand, and watched the cart creak away. The girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone with her goose.
+Beatrice picked up her basket and climbed down on shaky legs. She stood at the lane’s edge, basket in hand, and watched the cart creak away. 
+
+The woman and girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone with her goose.
 
 She set her face towards home.
 
 ---
 
-The lane was narrow, rutted, the trees close on either side. The silence after the cart’s noise was almost deafening. She could hear her own breathing, the rustle of Goosie in the basket, the crunch of her shoes on the stones, the thoughts in her head all too insistent.
+The lane was narrow, rutted, the trees close on either side. The silence after the cart’s noise was almost deafening. She could hear her own breathing, the rustle of Goosie in the basket, the crunch of her shoes on the stones.
 
-*The king’s vow. The next maid through the doors. A goose kept. A Saxon girl. Plain clothes. And the road... why this road?*
+*The king’s vow. The next maid through the doors. A goose kept. A Saxon girl. Plain clothes.*
 
 *They were looking for me. The guards were looking for me.*
 
-She stopped, her hand going to her throat. *The king made a vow. About me? About marrying his son?*
+She stopped, her hand going to her throat. 
 
-*Which son?* the woman had asked. 
+*The king made a vow about his son marrying? Was it about me? Which son?*
 
-Beatrice thought of the hall—the crowd, the king’s laughter? Had she seen any sons, maybe the young man by the pillar? The one who had watched. The one who had looked at her as if she were worth seeing. *Was it him or another? It wasn’t her, though. It couldn’t be.*
+Beatrice tried to remember the crowded hall, Sir Guy, the young man by the pillar—the one who had looked at her as if she were worth seeing. 
 
-*He knew. He must have known. And he let me walk out the door. Did he know? Did it matter?*
+*She was imagining it all. It was some other girl.*
 
-She was so lost in thought that she did not hear the horse until it was nearly upon her.
+Did he know? Did it matter if it was him? Why didn't he say anything? He must have known! And he let me walk out the door?*
 
-It came from behind, a single rider walking slowly. She stepped to the side of the road, pulling the basket close, and kept her eyes down. A noble passing, nothing to do with her.
+---
 
-The horse stopped.
+Beatrice was so lost in thought that she did not hear the horse until it was nearly upon her.
 
-“Hie, you there,” said a man's voice. “I seek the daughter of Harold Red‑Wolf. Are you she?”
+It came from behind her, a single noble rider, walking slowly. She stepped to the side of the lane, pulling the basket close, and kept her eyes down.
 
-She looked up and blinked twice, even four times.
+A snort as the iron-shod hooves stopped and stamped about on the gravel, the horse champing at the bit.
 
-Him. It was him. The young man from the hall. He was younger up close than she had thought—not much older than she—with a face that was more watchful than handsome. He sat easily on his horse, no guards, no escort, just a man travelling quietly on the lane to Stanwey village.
+“You there,” a voice said. “I seek the daughter of Harold Red‑Wolf. Are you she?”
 
-Their eyes met. She went to look away, but didn't, her neck flushing pink.
+She looked up.
 
-She saw recognition flicker in his face—the same recognition she had felt in the hall, that brief moment when they had looked at each other across the crowd.
+Him. The young man from the hall. Up close, he was younger than she had thought—not much older than she—with a face that was more watchful than handsome. He sat easily on his horse, no escort, no guards.
+
+Their eyes met. 
+
+Recognition flickered in his face—the same recognition she had felt in the hall, that brief moment across the crowd.
 
 “It is you,” he said with a hesitant smile.
 
@@ -1372,39 +1382,45 @@ He dismounted. Up close, he was taller than she had thought, and more uncertain.
 
 “I am.”
 
-He let out a breath. “I was sent to find you. My father commanded it.”
+He let out a breath. “I was sent to find you, by my father's command.”
 
 “The king?”
 
 “Yes.” He paused. “I am Godfrey. The King's son.”
 
-She was sure of that already, but hearing him say it made it seem more real. She curtsied—a quick, awkward thing, her legs stiff from the walk. He put out a hand as if to stop her, then pulled it back.
+She curtsied—quick, awkward, her legs stiff from the walk. He put out a hand as if to stop her, then pulled it back.
 
 “No. Not here. You don’t need to,” he said.
 
-They stood there with the road separating them, he on one side and she on the other, the forest waiting quietly about them. She could hear her own breathing, the rustle of Goosie in the basket, the soft snort of his horse lifting its nose.
+They stood there with the road between them. She could hear her own breathing, the rustle of Goosie in the basket, the soft snort of his horse.
 
-He looked toward the dusty road, along which the cart had disappeared. “You rode with the cartier?”
+He looked toward the lane where the cart had disappeared. “You rode with the cartier?”
 
-“My feet were sore. They gave me a lift.” She tried to clear her muddled thoughts. “Why are you here?”
+“My feet were sore. They gave me a lift.” 
 
-“My apologies. You were already gone by the time I got to the gate. I should have been faster.” He shook his head. “I didn’t know you’d left so quickly and my father wished to talk before telling me (commanding me) to escort you, so—”
+“My apologies. I was supposed to have a horse waiting for you, but you were already gone by the time I reached the gate. I should have been swifter.”
 
-“No, I mean—” She looked at his horse, then at him. “You came after me yourself?”
+She tried to gather her thoughts, her heart galloping. “Why exactly are you here?”
 
-“I came after you.” He said it simply, as if it were the most natural thing in the world.
+“I came after you.” He said it simply, as if it were merely the path set before him.
 
-“But why? Is this—” She looked at him, trying to read his face, trying to get the words out. “I mean, I walked through the doors—” she said, then stopped, hearing the words that she was saying come out in a voice that didn't seem quite like hers. Her voice trailed off to nothing as she willed him to speak, yet in the same moment hoping that he woudn't.
+She looked at him, trying to read his face. “The women on the cart spoke of a vow. Something the king swore. About the next maid through his hall doors. Be that that sooth or idle chatter?”
 
-He met her eyes. He had warm eyes, and his mouth seemed to struggle to open. Gathering his courage, he spoke. “My father made a rash vow—” 
+He met her eyes. “My father made a rash vow—” 
 
-She nodded to encourage him to continue, but heard her own voice speaking instead. “I heard it was something about the next maid through his hall doors? They said—” She paused, her voice catching. “They said, erm— They said that it was to marry the son.”
+“They said—” She stopped, her voice catching. “They said she was to marry his son.”
+
+“Yes.”
+
+She swallowed. “Which son?”
+
+
 
 “Yes.” It was his turn to nod slowly.
 
 She swallowed. “Which son? Is it—I mean—”
 
-“This son.” He did not look away, serious but not unfriendly. “Me. I am the son they mean. The king’s son by a woman not his queen. There are others—my half-brothers—but I am the one he spoke of.” He paused. “I am the one that—”
+He did not look away. “I am the one.Whilst born of a woman not his queen, I am a son of the king.” He paused. “I am he.”
 
 The words landed like stones in her chest. She had known, somehow, since the guards passed. But hearing him say it—seeing him stand there, waiting for her response—made it real in a way the gossip had not.
 
@@ -3008,7 +3024,7 @@ These activities help deepen engagement:
 
 - **Write a letter** from Beatrice to her father describing her day at court.  
 - **Draw the goose chase** in the king’s hall.  
-- **Retell the river‑rescue** from Hrathulfr’s point of view.  
+- **Retell the river‑rescue** from Rauthulfr’s point of view.  
 - **Invent a new medieval insult** Henry might use (e.g., “sodden worm”).  
 - **Create a map** showing Stan‑Way, the Severn, and the king’s hall.
 
@@ -3212,7 +3228,7 @@ The legal landscape of the 1120s was defined by the struggle between the old Sax
 
 ---
 
-### 🐺 Who Was Harold "Red-Wolf"? (And Why Does the King Call Him "Hrathulfr"?)
+### 🐺 Who Was Harold "Red-Wolf"? (And Why Does the King Call Him "Rauthulfr"?)
 
 Readers sometimes ask: **"In the story, Harold is a Saxon lord who serves Norman kings. Is that historically realistic? Wouldn't the Normans have replaced all the Saxon lords after 1066?"**
 
@@ -3231,11 +3247,11 @@ The fictional Harold "Red-Wolf" fits this pattern, especially with his shared Vi
 
 ---
 
-**Q: Why does King Henry call Harold "Hrathulfr"? That sounds Norse, not Saxon.**
+**Q: Why does King Henry call Harold "Rauthulfr"? That sounds Norse, not Saxon.**
 
-**A:** Another excellent observation! "Hrathulfr" (or Hróðulfr) is indeed an Old Norse name. But here's the historical twist:
+**A:** Another excellent observation! "Rauthulfr" (or Rauðúlfr) is indeed an Old Norse name. But here's the historical twist:
 
-The **Danelaw**—the part of England settled by Vikings centuries before the Conquest—had a lasting influence on names and culture. The Danelaw covered about a third of England, including large parts of the Midlands where Stanwey is located. Many people in these regions had names of Scandinavian origin. A Saxon thegn with a Norse-derived name like "Hrathulfr" is entirely plausible.
+The **Danelaw**—the part of England settled by Vikings centuries before the Conquest—had a lasting influence on names and culture. The Danelaw covered about a third of England, including large parts of the Midlands where Stanwey is located. Many people in these regions had names of Scandinavian origin. A Saxon thegn with a Norse-derived name like "Rauðúlfr" is entirely plausible.
 
 The Normans themselves were descendants of Vikings who had settled in France in the early 900s. So when King Henry uses the old Norse form of Harold's name, it's a subtle nod to their shared ancestral roots—and a sign of personal familiarity. He's not using a formal title; he's using the name from the youth of an old warrior.
 
@@ -3405,7 +3421,7 @@ The King chuckled, his anger completely forgotten. "This Goose has given me the 
 
 "Harold Red-Wolf, Sire."
 
-"Old Hrathulfr!" the King cried. "He was a lion in my father’s army. Does he live nearby?"
+"Old Rauðúlfr!" the King cried. "He was a lion in my father’s army. Does he live nearby?"
 
 "Seven miles to the east, Sire. He sends his regrets that his old bones would not let him come himself."
 
