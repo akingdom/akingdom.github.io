@@ -1430,79 +1430,21 @@ He shook his head.
 
 “But I did.”
 
-“But you did.” He looked at her, and there was something in his face that she could not name. “And now we are both... caught, like two birds in a cage.”
-
-
-him say it. I did not know you would be that woman. Not until you walked in with your goose.” He glanced at her, then away. “You were not what anyone expected.”
-
-
->> above needs to be more characteristing of her outbursts without thought.
-
-He met her eyes. “My father made a rash vow—” 
-
-“They said—” She stopped, her voice catching. “They said she was to marry his son.”
-
-“Yes.”
-
-She swallowed. “What son?”
-
-He did not look away. “Though born of a woman, not his queen, I am a son of the king.” He paused. “I am the one. I am he.”
-
-The words landed like stones in her chest. She had known, somehow, since the guards passed. But hearing him say it—seeing him stand there, waiting for her response—made it real in a way the gossip had not.
-
-“So it’s true,” she interrupted. “The vow.”
-
-“It’s true.”
-
-“Oh!” All hope of it being otherwise faded. *It is me. At Stanwey.*
-
-His voice was quiet. “As I said, my father made it in anger, to silence the court. I—” He wet his lips nervously. “I do not believe that he thought it through, though I may be wrong. Yet the vow is made and I am here to see you safely home.” Nothing more than that. *See her home.*
-
-Beatrice thought of the king’s reaction, the queen’s sharp eyes. *Why did no one **tell** me?* She recalled how the hall had gone silent when she spoke. *The next maid through the door.* They must have known, all of them. They had all been watching her, and she had walked out without hearing a word.
-
-“So you already knew?” she asked. “In the hall. When I was there. You knew about the vow?”
-
-He did not deny it. “I heard him speak the words, to my great shock. I did not expect him to do so—I mean, what mind would? But later, when you walked in with your goose, and stood before my father, and spoke without fear...” He stopped, searching for words, unaware that his face had lit up. “I knew something had changed. I did not know how much until after you left.”
-
-She stared at him, half in disbelief. “And you let me go? You let me walk out of that hall without telling me?” Forgive my bluntness.
-
-*It was the Queen's delay.* “I should have spoken sooner, you are right, lady. In truth, I half expected my father to reconsider, as it was a rash vow, a promise spoken in haste.”
-
-*Spoken in the sight of heaven and earth.*
-
-”He is not always a man of his word, you see, not when the word was spoken in haste. One moment I am merely to escort you, and the next moment I am to—I mean that my father announced the betrothal. Our betrothal, *fait accompli*. By the time I got outside, you were already gone.”
-
-She thought of the road, the cart, the women laughing about the girl with the goose. *The family knew, surely.* She did not smile. Her hands were cold, and her stomach was tight, and she could not seem to catch her breath.
-
-Hoofbeats sounded ahead of them—around the bend, coming from Stanwey. Godfrey's handwent to his horse’s bridle. Beatrice looked up sharply. 
-
-“There were guards looking for me.”
-
-The young man nodded.
-
-”My father's men, sent earlier for your safely.”
-
-“My safety?”
-
-”I mean, for the sake of your father sent them, as Red‑Wolf’s daughter.” A hint of a smile. “Then he insisted that I find you myself.”
-
-Two riders appeared. 
+“But you did.” He looked at her, and there was something in his face that she could not name. “And now we are both... caught, like two birds in a hunter's cage. Hello, who approaches?”
 
 ---
 
-The same guards that had passed Beatrice earlier on the road, pulled up hard, horses blowing, coats lathered. The older one scanned the lane—saw Godfrey, saw Beatrice beside him, saw the basket. His face went through a rapid surprise, recognition, and then something akin to relief.
+Two riders appeared from around the bend—the same two guards from before. They pulled up hard, horses blowing. The older one scanned the lane, saw Godfrey, saw Beatrice beside him, saw the basket. His face flickered: surprise, then relief, then a quick glance at his companion.
 
-The younger guard—the one who had looked at her on the cart—was already staring at her. His mouth opened. Closed.
-
-Godfrey stepped forward. “You reached Red-Wolf’s hall?”
+Godfrey stepped forward. “You reached her father’s hall?”
 
 The older guard dismounted, landing stiffly. “We did, my lord.”
 
 “And the old man?”
 
-“He is well enough. Startled to see us at his door, but well.” The guard glanced at Beatrice. “We told him his daughter was safe and well. That the king had spared her goose. That the king himself would visit in the coming days.”
+“He is well. Startled to see us, but well.” The guard glanced at Beatrice. “We told him his daughter was safe and well. That the king had spared her goose. That the king himself would visit in the coming days.”
 
-Beatrice’s throat tightened. *He told him that. Not the vow. Not the betrothal. Just that she was safe?*
+Beatrice’s throat tightened. *He told him that. Not the vow. Not the betrothal. Just that I was safe?*
 
 The younger guard nodded. “He asked if she was hurt. We said no. He sat down then, said he would wait.”
 
@@ -1512,29 +1454,51 @@ The younger guard nodded. “He asked if she was hurt. We said no. He sat down t
 
 The older guard met her eyes. “He was surprised, my lady. Any father would be. But he is a soldier. He has seen worse than two men at his door with good news.” A pause. “He said to tell you he would have the fire built up.”
 
-Unexpected. She almost laughed. It was such a Harold thing to say. The fire built up. As if that was all that mattered at present.
+The words hit her. She almost laughed. It was such a Harold thing to say. The fire built up. As if that was all that mattered.
 
-The younger guard was still looking at her, his face red. “My lady, on the road earlier—we did not know. Your basket was closed. You were with a family. We were told to look for a woman alone with a goose.” He swallowed. “We rode on.”
+The younger guard was still looking at her, his face red. “My lady, on the road earlier—we did not know you. Your basket was closed. You were with a family. We were told to look for a woman alone with a goose.” He swallowed. “So, we rode on.”
 
-She barely heard him. Her mind was on Harold, sitting by the fire, waiting.
+She barely heard him. Her mind was on Harold, sitting by the fire, waiting for her. She felt warmer already.
 
 The older guard cleared his throat. “My lord, shall we follow you to the hall? Or ride back and report?”
 
 Godfrey considered. “Ride back. Tell the king I have found her. Tell him I am taking her to her father.”
 
-The guards mounted. The older one touched his forehead to Beatrice. “Take courage, my lady. I believe that all will be well. I say this as a father myself, for I have five daughters and a little one on the way.”
+The guards mounted. The older one touched his forehead to Beatrice. “Take courage, my lady. I believe that all will be well. I say this with grown daughters of my own.”
 
-The two horses rode back toward the castle and the shady lane was quiet again.
-
-Beatrice stood very still, the basket heavy in her arms. Goosie shifted inside, a soft rustle, a quiet presence.
-
-Godfrey did not move toward her. He stood where he was, his horse shifting beside him, waiting.
-
-“My father,” Beatrice said, and her voice cracked. “He’s not well. He’s old, and if I marry—if I leave—” She stopped, her face screwing up. “Who will look after him?”
+They rode back toward the castle.
 
 ---
 
-Thinking of her father, the tears burst out unbidden, before she could stop them. Not the quiet, dignified tears she had shed when the king laughed at her goose. These were ugly tears, the kind that came from deep in the chest, the kind that had no place on a public road with a prince watching.
+The shady lane was quiet.
+
+The soldiers were gone.
+ 
+The basket hung heavily on Beatrice's arms. Goosie shifted inside, a soft rustle, a quiet presence. 
+
+The sun had dropped behind the trees; the light was fading, the shadows lengthening.
+
+Godfrey did not move. He stood where he was, his horse shifting beside him, waiting.
+
+At long last, her voice cracked. “My father, he’s not well. He’s old. He sits by the fire and watches me run the manor because he cannot. And if I marry—if I leave—” She stopped, her face screwing up. “Who will look after him?”
+
+The question hung in the air between them. She had not meant to ask it. She had not meant to show him this—this raw, ugly fear that had been gnawing at her since the cart woman first spoke of the vow.
+
+She pressed her lips together, willing herself to be still, to be calm. But her hands were shaking. She could feel the tremors running up her arms, into her chest. She tried to breathe, but the breath came out ragged.
+
+Not here. Not now. Not in front of him.
+
+She turned away, her back to him, her shoulders tight. She would not cry. She would not.
+
+The tears came anyway.
+
+Not the quiet, dignified tears she had shed when the king laughed at her goose. These were ugly tears, the kind that came from deep in the chest, the kind that had no place on a public road with a prince watching. She pressed her hand to her mouth, but it was too late. The sobs came anyway—for her father, for Stanwey, for the life she had built and the life that was being taken from her without her consent.
+
+Behind her, she heard him move. She expected him to speak, to offer comfort, to say something princely and meaningless. Instead, she heard nothing. When she looked up, wiping her face with her sleeve, she saw that he had taken a step back—not away from her, but giving her space, the way you would give space to a wounded animal.
+
+
+---
+
 
 REVIEWING
 
