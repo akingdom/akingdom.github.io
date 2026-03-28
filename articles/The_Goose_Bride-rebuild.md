@@ -1390,9 +1390,21 @@ He dismounted. Up close, he was taller than she had thought, and more uncertain.
 
 She curtsied—quick, awkward, her legs stiff from the day's walk. He put out a hand as if to stop her, then pulled it back.
 
-“No. Not here. You don’t need to,” he said. He indicated the laneway with his hand. “Shall we walk?”
+“No. Not here. You don’t need to,” he said.
 
-She nodded, taking a few stiff steps. He fell in beside her, leading his horse. The animal’s hooves made soft sounds on the packed earth.
+She straightened, flustered. Her hand went to her face uncertainly.
+
+*You’re the king’s son?*
+
+She looked at her fingers smudged with grey, then at him.
+
+*I have charcoal on my nose.*
+
+She tucked her hand down, cheeks burning. She had rubbed it on that morning, to look like a charcoal‑burner while travelling to the hall.
+
+He simply indicated the laneway with his hand. “Shall we walk?”
+
+She nodded, looking away, taking a few stiff steps. He fell in beside her, leading his horse. The animal’s hooves made soft sounds on the packed earth.
 
 He looked back toward the place where the cart had disappeared. “You rode with the cartier?”
 
@@ -1420,17 +1432,19 @@ It was not an accusation. Her voice was flat, as if she were discussing the pric
 
 *And you knew.*
 
-He thought a moment on what she might be asking him.
+Something in her face made him pause. Then, slowly: “Yes. I found out afterwards. In truth, it was a rash vow, a shock to all present.”
 
-“Yes. I found out afterwards. In truth, it was a rash vow, a shock to all present.” The scene flashed again through his mind. “It went something like this: an offer came from Brittany, where my sister is to marry. They ask for me also, but the king said no, one is enough. Others said we need the money and it would stop people calling me names.”
+He expected some response, but nothing. 
 
-He shook his head. 
+“An offer came from Brittany, where my sister is to marry. They ask for me also, but the king said no, one is enough. Others said we need the money and it would stop people calling me names.”
+
+He leant towards her. 
 
 ”That's when he vowed that he would let God decide. I don't think he expected anyone to actually walk in.”
 
 “But I did.”
 
-“But you did.” He looked at her, and there was something in his face that she could not name. “And now we are both... caught, like two birds in a hunter's cage. Hello, who approaches?”
+“But you did.” He looked at her, and there was something in his face that she could not name. “And now we are both... caught, like two birds in a hunter's cage. *Hello, who approaches?*”
 
 ---
 
@@ -1454,7 +1468,7 @@ The younger guard nodded. “He asked if she was hurt. We said no. He sat down t
 
 The older guard met her eyes. “He was surprised, my lady. Any father would be. But he is a soldier. He has seen worse than two men at his door with good news.” A pause. “He said to tell you he would have the fire built up.”
 
-The words hit her. She almost laughed. It was such a Harold thing to say. The fire built up. As if that was all that mattered.
+She almost laughed. It was such a Harold thing to say. The fire built up. As if that was all that mattered.
 
 The younger guard was still looking at her, his face red. “My lady, on the road earlier—we did not know you. Your basket was closed. You were with a family. We were told to look for a woman alone with a goose.” He swallowed. “So, we rode on.”
 
@@ -1524,7 +1538,7 @@ She did not know what to say to that. She wrapped her arms around herself, sudde
 
 He looked toward the lane, then back at her. “I cannot promise you that I know how to be a husband. I do not. I have watched my father’s court, but I have never had a home.” His voice was steady, but she could hear something beneath it—something that sounded like fear. “But I can promise you this: I will not take you from your father. I will not take Stanwey. If you will have me, I will come to you. I will learn your ways. I will be there when you need me, and I will stand aside when you do not.”
 
-She stared. He was not promising her a palace or a crown. He was promising her what she had asked for without knowing she was asking. She felt her cheeks grow hot.
+She stared. He was not promising her a palace or a crown. He was promising her what she had asked for without knowing she was asking. She felt a hot flush rise to her face.
 
 “Earlier,” she asked, her voice raw. “Why did you say you were grateful? That I looked at you like a person.”
 
@@ -1552,7 +1566,7 @@ She started walking. He fell into step beside her, his horse trailing behind. Th
 
 She did not speak again until they reached the edge of the clearing.
 
-“Permit me to see that he is alright,” she said. “I need to tell him first.”
+“Permit me to see that he is alright,” she said. “Before you come.”
 
 He nodded. “I shall wait here. Take as long as you need.”
 
@@ -1564,7 +1578,13 @@ She went inside.
 
 ### Home with a prize
 
-The door closed behind her with a soft thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
+I’ll now compile the full Chapter 12 with all agreed revisions, incorporating the bridge from Chapter 11, the blessing scene, and the final contemplation you’ve approved.
+
+---
+
+## Chapter 12 – The Blessing (Complete)
+
+The door closed behind her with a dull thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
 
 The basket was heavy on her arm. She set it down. Goosie stirred but did not emerge.
 
@@ -1628,8 +1648,6 @@ He walked toward her. She stood aside to let him pass, then followed him inside.
 
 ---
 
-### Chapter 12 – The Blessing
-
 The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
 
 Godfrey stopped at the edge of the hearth. He did not advance further. He did not speak at once.
@@ -1692,15 +1710,29 @@ Godfrey nodded. “He said he would. To hear the old tales.”
 
 “Did he.” Harold’s voice was dry. “He remembers the Severn, then. The drowning lord.”
 
-“He remembers everything,” Godfrey said quietly. “That is what makes him king.”
+“He remembers everything,” Godfrey said quietly. “That is what makes him the scholar king.”
 
 Harold looked at him—a long, measuring look. “And you? What will you remember, when you are old?”
 
-Godfrey did not answer at once. When he did, his voice was low. “That I walked five miles with a goose in a basket. That a woman wept for her father. That I was allowed to stand beside her.”
+He had not intended for Godfrey to answer. It was a purely rhetorical question. But Godfrey missed this, intrigued by the thought.
 
-Beatrice looked down at her hands. Goosie, who had been dozing by the hearth, lifted her head, then settled again.
+“The hall was loud, full of noise and watching,” he said slowly. “She walked in with a goose in her basket, dirt on her face, and my father’s men shouting. Everyone was looking at him. She looked at me.”
 
-Harold let out a breath—not quite a sigh, not quite a laugh. “You will do,” he said. Then, to Beatrice: “The fire needs wood, daughter. And we have a guest for supper.”
+He paused.
+
+“And when he caught the goose and she thought he’d kill it—she didn’t beg for herself. She said, ‘Please don’t hurt Goosie.’ I’d never heard anyone speak to him like that. She was afraid, but she spoke anyway.”
+
+He looked at Harold.
+
+“That’s what I’ll remember.”
+
+Harold studied him, saying nothing for a long moment. The firelight caught the grey in his beard, the lines that years had carved. He had meant the question as a father’s gentle warning: *do not waste your years on things that do not last*. But the young man had answered as though it were a gift.
+
+*He understands*, Harold thought. *He understands without being told.*
+
+He gave a slow nod.
+
+“That is worth remembering,” he said. Then, to Beatrice: “The fire needs wood, daughter. And we have a guest for supper.”
 
 She rose. At the door, she paused, looking back.
 
