@@ -1372,39 +1372,71 @@ Their eyes met.
 
 Recognition flickered in his face—the same recognition she had felt in the hall, that brief moment across the crowd.
 
-“It is you,” he said with a hesitant smile.
-
-She nodded, not trusting her voice.
-
-He dismounted. Up close, he was taller than she had thought, and more uncertain. He looked at the basket, at her dusty gown, at the road behind her.
-
-“Are you the daughter of Harold Red‑Wolf?” he asked, as if he needed to hear it confirmed.
+“Are you the daughter of Harold Red‑Wolf?” he asked, with a hesitant smile, as if he needed to hear it confirmed.
 
 “I am.”
 
-He let out a breath. “I was sent to find you, by my father's command.”
+He let out a breath. “So it's really you,” he said.
+
+She nodded, not trusting her voice.
+
+He dismounted. Up close, he was taller than she had thought, and more uncertain. He looked at the basket, at her dusty gown, at the road beyond her.
+
+“I was sent to find you, and by my father's command, to escort you home.”
 
 “The king?”
 
-“Yes.” He paused. “I am Godfrey. The King's son.”
+“Yes, the King.” He paused. “I am Godfrey, the King's son.”
 
-She curtsied—quick, awkward, her legs stiff from the walk. He put out a hand as if to stop her, then pulled it back.
+She curtsied—quick, awkward, her legs stiff from the day's walk. He put out a hand as if to stop her, then pulled it back.
 
-“No. Not here. You don’t need to,” he said.
+“No. Not here. You don’t need to,” he said. He indicated the laneway with his hand. “Shall we walk?”
 
-They stood there with the road between them. She could hear her own breathing, the rustle of Goosie in the basket, the soft snort of his horse.
+She nodded, taking a few stiff steps. He fell in beside her, leading his horse. The animal’s hooves made soft sounds on the packed earth.
 
-He looked toward the lane where the cart had disappeared. “You rode with the cartier?”
+He looked back toward the place where the cart had disappeared. “You rode with the cartier?”
 
 “My feet were sore. They gave me a lift.” 
 
-“My apologies. I was supposed to have a horse waiting for you, but you were already gone by the time I reached the gate. I should have been swifter.”
+“My apologies. I was supposed to have a horse waiting for you, but you were already gone by the time I reached the gate.” He shook his head. “I should have been swifter.”
 
-She tried to gather her thoughts, her heart galloping. “Why exactly are you here?”
+She tried to gather her thoughts, her feet strolling, but her heart galloping. “Why are you here?”
 
-“I came after you.” He said it simply, as if it were merely the path set before him.
+His voice cracked, and he patted his horse's face. “I... I came after you.” He said it simply, as if it were merely the only path set before him.
 
-She looked at him, trying to read his face. “The women on the cart spoke of a vow. Something the king swore. About the next maid through his hall doors. Be that that sooth or idle chatter?”
+“Oh.” 
+
+A storm of a thousand questions froze at her lips, and she was momentarily at a loss for words. She glanced at him, trying to read his face, then looked back down, standing still, wringing her hands as though cold, the basket swinging on her arm. 
+
+The ice broke. 
+
+“Is it true?” The words came out louder than she intended. “The king’s vow? About a maid walking through his doors?”
+
+Godfrey’s step faltered. He almost tripped. He was quiet for a long breath, then nodded. “He swore it before the whole court. The next woman through the doors.”
+
+“And you knew.” 
+
+It was not an accusation. Her voice was flat, as if she were discussing the price of wool or the coming rain. She stood perfectly still, her knuckles white as she gripped the handle of her basket. 
+
+*And you knew.*
+
+He thought a moment on what she might be asking him.
+
+“Yes. I found out afterwards. In truth, it was a rash vow, a shock to all present.” The scene flashed again through his mind. “It went something like this: an offer came from Brittany, where my sister is to marry. They ask for me also, but the king said no, one is enough. Others said we need the money and it would stop people calling me names.”
+
+He shook his head. 
+
+”That's when he vowed that he would let God decide. I don't think he expected anyone to actually walk in.”
+
+“But I did.”
+
+“But you did.” He looked at her, and there was something in his face that she could not name. “And now we are both... caught, like two birds in a cage.”
+
+
+him say it. I did not know you would be that woman. Not until you walked in with your goose.” He glanced at her, then away. “You were not what anyone expected.”
+
+
+>> above needs to be more characteristing of her outbursts without thought.
 
 He met her eyes. “My father made a rash vow—” 
 
@@ -1412,15 +1444,9 @@ He met her eyes. “My father made a rash vow—”
 
 “Yes.”
 
-She swallowed. “Which son?”
+She swallowed. “What son?”
 
-
-
-“Yes.” It was his turn to nod slowly.
-
-She swallowed. “Which son? Is it—I mean—”
-
-He did not look away. “I am the one.Whilst born of a woman not his queen, I am a son of the king.” He paused. “I am he.”
+He did not look away. “Though born of a woman, not his queen, I am a son of the king.” He paused. “I am the one. I am he.”
 
 The words landed like stones in her chest. She had known, somehow, since the guards passed. But hearing him say it—seeing him stand there, waiting for her response—made it real in a way the gossip had not.
 
