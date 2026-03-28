@@ -1576,13 +1576,7 @@ She went inside.
 
 ---
 
-### Home with a prize
-
-I’ll now compile the full Chapter 12 with all agreed revisions, incorporating the bridge from Chapter 11, the blessing scene, and the final contemplation you’ve approved.
-
----
-
-## Chapter 12 – The Blessing (Complete)
+## Chapter 12 – The Blessing
 
 The door closed behind her with a dull thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
 
@@ -1763,7 +1757,7 @@ Great changes never felt real at first; the mind lagged behind the world, reachi
 
 
 ---
-==> TO INSERT AS APT ABOVE?
+ ==> TO INSERT AS APT ABOVE?
 They talked. Harold asked about the court, about the king's mood, about Brittany and the refused princess. Godfrey answered plainly, without embellishment. Beatrice listened, watched, learned.
 
 At some point, Goosie waddled out from wherever she'd been hiding. Approached Godfrey. Stopped. Stared.
