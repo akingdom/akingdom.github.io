@@ -1478,53 +1478,59 @@ The basket hung heavily on Beatrice's arms. Goosie shifted inside, a soft rustle
 
 The sun had dropped behind the trees; the light was fading, the shadows lengthening.
 
-Godfrey did not move. He stood where he was, his horse shifting beside him, waiting.
+At long last, her voice cracked. “My father, he’s not well. He’s old. He sits by the fire and watches me run the manor because he cannot. After my mother died, I'm all he has. And if I marry—if I leave—” She stopped, her face screwing up. “Who will look after him?”
 
-At long last, her voice cracked. “My father, he’s not well. He’s old. He sits by the fire and watches me run the manor because he cannot. And if I marry—if I leave—” She stopped, her face screwing up. “Who will look after him?”
+The question hung like thick ink in the air. She had not meant to ask it. Yet it sat there like a rat gnawing away at her, exposing the raw ugly fear that had grown hidden inside her for years, now ready to burst.
 
-The question hung in the air between them. She had not meant to ask it. She had not meant to show him this—this raw, ugly fear that had been gnawing at her since the cart woman first spoke of the vow.
+*I must keep calm. I must not let this out. This will hurt Father. Wait!*
 
-She pressed her lips together, willing herself to be still, to be calm. But her hands were shaking. She could feel the tremors running up her arms, into her chest. She tried to breathe, but the breath came out ragged.
+Her lips pressed firmly shut. She willed herself to be still. But when she saw Godfrey waiting there, her hands shook, her arms trembled.
 
-Not here. Not now. Not in front of him.
+*Not in front of him.*
 
-She turned away, her back to him, her shoulders tight. She would not cry. She would not.
+She turned away. Her chest shuddered and a cry welled up from deep inside her being, undignified, big ugly tears that had no business stinging her cheeks, dropping hotly onto her tunic as the world caved in as the tempest hit her.
 
-The tears came anyway.
-
-Not the quiet, dignified tears she had shed when the king laughed at her goose. These were ugly tears, the kind that came from deep in the chest, the kind that had no place on a public road with a prince watching. She pressed her hand to her mouth, but it was too late. The sobs came anyway—for her father, for Stanwey, for the life she had built and the life that was being taken from her without her consent.
-
-Behind her, she heard him move. She expected him to speak, to offer comfort, to say something princely and meaningless. Instead, she heard nothing. When she looked up, wiping her face with her sleeve, she saw that he had taken a step back—not away from her, but giving her space, the way you would give space to a wounded animal.
-
+For her father, for Stanwey, for the life she had built and the life that was being taken from her without her consent; every sob a hammer-blow against her ribs, dropping her to her knees, falling into deep misery.
 
 ---
 
+She did not know how long she knelt there. The ground was cold through her skirt, the basket tipped on its side beside her, Goosie’s worried honks a distant sound.
 
-REVIEWING
+At length, the grief expelled itself, leaving a hollow stillness inside her. The sudden chill of the evening air hit her skin with the force of cold water.
 
-She turned away, pressing her hand to her mouth, but it was too late. The sobs came anyway—for her father, for Stanwey, for the life she had built and the life that was being taken from her without her consent.
-
-Behind her, she heard him move. She expected him to speak, to offer comfort, to say something princely and meaningless. Instead, she heard nothing. When she looked up, wiping her face with her sleeve, she saw that he had taken a step back—not away from her, but giving her space, the way you would give space to a wounded animal.
+She looked around, unable to speak, and saw him standing a little way off, tending to his horse, giving her the space she needed, as you would a wounded animal.
 
 He was not looking at her. He was looking at the ground, at the trees, at anything but her tears. His hands were at his sides, not reaching out, not offering what he could not give.
 
-“Your father,” he said finally, his voice low, “will be cared for. My father promised provisions—a larder, enough to see him through the winter. He will visit himself, to hear the old tales. And if you wish, I will see to it that someone is there. A reeve. A servant. Anyone you choose.”
+---
 
-She stared at him. He was not promising her a palace or a crown. He was promising her what she had asked for without knowing she was asking.
+When she rose, unsteadily, he looked up. She saw him hesitate—the same uncertainty she had seen in the hall, the same careful waiting. Then he walked toward her, stopping a few feet away.
 
-“You would do that?” she said, her voice raw.
+He did not speak at once. Instead, he looked at her—not at her tears, not at the hot mess she had become, but *at her*. As if he was trying to see past the raw edges to what lay underneath, her real self.
 
-“I would.” He met her eyes then, and she saw that he meant it. “I am not my father. I cannot give you kingdoms or armies. But I can give you that. Your father will not be left alone.”
+She wiped her face with the back of her hand, but the gesture was useless. Her eyes were swollen, her nose running, her whole face a ruin. 
 
-She wiped her face again, more slowly this time. The tears had stopped, leaving her tired and hollow and strangely light.
+“You must think me a fool,” she said.
 
-“You said you were grateful,” she said. “Before. That I looked at you like a person.”
+“No.” His voice was quiet.
 
-He nodded.
+“I have spent my life watching people,” he said. “Watching them scheme and flatter and pretend.”
 
-“Why?”
+His words came out naïvely, but true. “I think you love your father.”
 
-He was quiet for a long moment. “Because no one does. Not my father’s clerks, who count me like silver. Not my half-sisters, who see me as a rival for scraps. Not the court, which watches to see if I will rise or fall.” He looked at her. “You did not know who I was. You looked at me anyway. That is more than I have had in years.”
+They were simple and kind words, but they broke open something deep inside her. She stared at him, waiting for the usual polite dismissal, the courtier’s shrug. It did not come.
+
+She did not know what to say to that. She wrapped her arms around herself, suddenly cold.
+
+He looked toward the lane, then back at her. “I cannot promise you that I know how to be a husband. I do not. I have watched my father’s court, but I have never had a home.” His voice was steady, but she could hear something beneath it—something that sounded like fear. “But I can promise you this: I will not take you from your father. I will not take Stanwey. If you will have me, I will come to you. I will learn your ways. I will be there when you need me, and I will stand aside when you do not.”
+
+She stared. He was not promising her a palace or a crown. He was promising her what she had asked for without knowing she was asking. She felt her cheeks grow hot.
+
+“Earlier,” she asked, her voice raw. “Why did you say you were grateful? That I looked at you like a person.”
+
+He was quiet for a long moment. 
+
+“Because no one does. Not my father’s clerks, who count me like silver. Not my half-sisters, who see me as a rival for scraps. Not the court, which watches to see if I will rise or fall.” He looked at her. “You did not know who I was. You looked at me anyway. That is more than I have seen in years.”
 
 She thought about that—about being seen, about being counted. She thought about Sir Guy, who had looked at Stanwey and seen only timber and wool. She thought about the cart woman, who had looked at her and seen a story to tell.
 
@@ -1546,9 +1552,9 @@ She started walking. He fell into step beside her, his horse trailing behind. Th
 
 She did not speak again until they reached the edge of the clearing.
 
-“Wait here,” she said. “I need to tell him first.”
+“Permit me to see that he is alright,” she said. “I need to tell him first.”
 
-He nodded. “Take as long as you need.”
+He nodded. “I shall wait here. Take as long as you need.”
 
 She walked toward the hall. At the door, she turned. He was still there, at the tree line, waiting.
 
@@ -1556,74 +1562,157 @@ She went inside.
 
 ---
 
-*(The scene will continue in Chapter 12, where Godfrey meets Harold, asks for permission, and the practical matters of Harold’s care and the king’s promises are settled.)*
+### Home with a prize
 
----
+The door closed behind her with a soft thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
 
-The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. When he saw her, he started to rise, then sank back.
+The basket was heavy on her arm. She set it down. Goosie stirred but did not emerge.
 
-“Daughter. You’re back. The goose—”
+Across the room, Harold sat in his chair by the hearth. He had not risen. His hands rested on his knees, and his eyes were fixed on the fire. When she stepped forward, he looked up slowly, as if the movement cost him something.
 
-She set the basket down. Goosie waddled out, headed for the hearth.
+“Daughter.” His voice was quiet, steady. “You’re back.”
 
-“She’s safe. The king spared her.”
+She crossed the room and knelt beside his chair, taking his cold hand in hers. His skin was thin as parchment, the veins standing out like rivers on a map.
 
-Harold stared. “The king spared your goose?”
+“I’m back.”
 
-“He laughed at her first. She bit a clerk.” A small, tired smile. “Then he laughed at me. Then he remembered you.”
+He looked at her face—the tear tracks, the swollen eyes, the dirt from the road. His jaw tightened. “What happened?”
 
-“Remembered me?”
+She shook her head. “Nothing. I am well. The goose is well.”
 
-She sat beside him. “The river. Pulling his brother from the Severn. He said—he said he’ll visit. Soon. To hear you tell it again.”
+“You are not well.” He said it simply, without accusation. “Tell me.”
 
-Harold’s face changed. Not dramatically, but a stillness came over him.
+She bowed her head over his hand, gathering herself. Then she told him. Not everything—not the cart woman’s knowing eyes or the way her heart had seized when the guards passed—but the shape of it. The king’s laughter. His promise to visit. The vow.
 
-“The king himself.”
+When she said the words “his son Godfrey is to marry the next maid through the door,” Harold’s hand tightened on hers.
 
-“Yes.”
-
-He was quiet for a long moment. Then: “There’s more.”
-
-She nodded. “A vow. The next woman through his hall door. The cart woman told me. The king swore—” She took a breath. “He swore his son Godfrey would marry her.”
-
-“And you were that woman.”
+“And you were that maid.”
 
 “Yes.”
 
-Harold closed his eyes. When he opened them, they were wet. “The king has sent for you?”
+He was quiet for a long moment. The fire crackled. Goosie, sensing the weight in the room, waddled to the hearth and settled there, her head tucked under her wing.
+
+“The king sent for you?”
 
 “He sent his son. He’s outside. Waiting.”
 
-Harold looked toward the door, then back at her. “And you? What do you want?”
+Harold looked toward the door, then back at her. His eyes were tired, but something in them had sharpened.
 
-She thought about the cart, the gossip, the guards who had not seen her. She thought about Godfrey walking beside her, giving her space to cry, promising her father would not be left alone.
+“You spoke with him.”
 
-“He said he would care for you,” she said. “That you would not be alone. That Stanwey would not be taken.”
+“I did.” She paused. “He walked with me. He told me the truth. He promised—” She stopped, remembering Godfrey’s words. “He promised that Stanwey would not be taken. That you would not be left alone.”
 
-“And do you believe him?”
+Harold said nothing. He looked at her for a long time, his thumb moving slowly over her knuckles.
 
-She met her father’s eyes. “I want to.”
+“And you, daughter? What do you want?”
 
-Harold looked at her—really looked—and for a moment she saw the warrior he had been, the man who had pulled a prince from a river and ridden with kings.
+She thought of the road, the cart, the soldiers who had passed her by. She thought of the young man who had stood apart while she wept, giving her space, not reaching out. She thought of his voice when he said, *I will not take Stanwey from you. I will come to you.*
 
-“Then you’d better bring him in,” he said.
+“I want to know if he is who he says he is,” she said. “I want to know if he will keep his word. I want—” She stopped, her voice catching. “I want to be the one who chooses. Not the king. Not the vow. Me.”
+
+Harold’s face softened. “Then you had better bring him in.”
 
 She rose. At the door, she paused.
 
 “Father? He said something. About a wolf finding shade under a good tree.”
 
-Harold’s face softened. “He knows the old words?”
+Harold’s eyes flickered. “He knows the old words?”
 
-“I think he’s learning.”
+“I think he is learning.”
 
-She went out to fetch him.
+She opened the door and stepped out into the fading light. Godfrey was still there, at the tree line, waiting.
+
+“He will see you now,” she said.
+
+He walked toward her. She stood aside to let him pass, then followed him inside.
 
 ---
 
-*(The scene continues in Chapter 12, where Godfrey meets Harold, asks for permission, and the practical matters of Harold’s care and the king’s promises are settled.)*
+### Chapter 12 – The Blessing
 
+The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
 
+Godfrey stopped at the edge of the hearth. He did not advance further. He did not speak at once.
 
+Beatrice moved to her father’s side, not sitting, just standing where she could see them both.
+
+Harold looked at Godfrey for a long moment. Then, slowly, he inclined his head. “You came after her.”
+
+“I did.”
+
+“On foot.”
+
+“She was walking. It seemed… right.”
+
+Harold’s mouth twitched. Not quite a smile, but something near it. “My daughter is not easily caught. She runs her own race.”
+
+Godfrey glanced at Beatrice, then back at Harold. “I am not here to catch her.”
+
+“No?” Harold’s voice was quiet. “Then why are you here?”
+
+Godfrey was silent for a moment. When he spoke, his voice was steady, but Beatrice heard the effort it cost him.
+
+“I am here because your daughter deserves to know that she is not a command. She is not a vow spoken in haste. She is not a prize to be won or a manor to be acquired.” He paused. “She is the first person who has ever looked at me and seen a man, not a shadow.”
+
+The words hung in the air. Beatrice felt her throat tighten.
+
+Harold studied him. The firelight caught the lines in his face, the grey in his beard. “My daughter,” he said slowly, “has refused every man I have brought before her. A farmer’s son. A merchant. A knight who came with gifts and smooth words. She said to each of them, *not for Stanwey*.”
+
+He leaned forward slightly.
+
+“What would you say to her, if she said that to you?”
+
+Godfrey did not flinch. “I would say that Stanwey is hers. I do not come to take it. I come to stand beside her, if she will have me. And if she will not—” He stopped, as if the words cost him. “Then I go back to my father and tell him that I was not worthy.”
+
+Harold’s expression did not change, but something behind it shifted. He looked at Beatrice.
+
+“And you, daughter? What do you say?”
+
+She felt both their eyes on her. Her father’s, weary but clear. Godfrey’s, steady, asking nothing.
+
+She thought of the cart, the gossip, the soldiers who had passed her by. She thought of the young man who had walked beside her, who had given her space to weep, who had promised nothing but what he could give.
+
+“I say,” she said, her voice steady despite her shaking hands, “that I will not be taken. But I will go. If he will have me.”
+
+Harold looked at her—really looked—and for a moment she saw the man who had pulled a prince from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
+
+He turned back to Godfrey.
+
+“You have my permission to court her. Not to take her. To court her. To learn her ways, her people, her land. And when she is ready—if she is ready—you may come back and ask again.”
+
+Godfrey bowed his head. “I will.”
+
+Harold leaned back in his chair, the tension leaving his shoulders. “Then sit. Both of you. We have much to discuss.”
+
+Beatrice crossed to the stool beside her father’s chair. Godfrey took the one opposite, his horse forgotten outside, his court clothes dusty from the road.
+
+For a moment, no one spoke. Then Harold said, “The king is coming, they tell me.”
+
+Godfrey nodded. “He said he would. To hear the old tales.”
+
+“Did he.” Harold’s voice was dry. “He remembers the Severn, then. The drowning lord.”
+
+“He remembers everything,” Godfrey said quietly. “That is what makes him king.”
+
+Harold looked at him—a long, measuring look. “And you? What will you remember, when you are old?”
+
+Godfrey did not answer at once. When he did, his voice was low. “That I walked five miles with a goose in a basket. That a woman wept for her father. That I was allowed to stand beside her.”
+
+Beatrice looked down at her hands. Goosie, who had been dozing by the hearth, lifted her head, then settled again.
+
+Harold let out a breath—not quite a sigh, not quite a laugh. “You will do,” he said. Then, to Beatrice: “The fire needs wood, daughter. And we have a guest for supper.”
+
+She rose. At the door, she paused, looking back.
+
+Her father was leaning forward, speaking to Godfrey in a low voice. She caught only fragments: “…the old ways… a wolf may find shade under a good tree… you know what that means?”
+
+Godfrey’s answer was too soft to hear.
+
+She smiled, and went out to fetch the wood.
+
+---
+
+
 
 
 
@@ -1633,289 +1722,16 @@ Only when the lodge vanished behind the trees did Beatrice’s breath loosen.
 Great changes never felt real at first; the mind lagged behind the world, reaching for the familiar to steady itself.
 
 
---- LARGELY REPLACED BELOW WITH ABOVE
 
-The road curved through the trees.
 
-"Your father. You spoke of him. He's ill?"
 
-"Old. The winters are hard on him. He pretends they're not."
 
-"And you run the manor?"
 
-"Someone has to."
 
-Quietly: "That's a lot."
 
-She shrugged. "Mother taught me. Before she died."
-
-He didn't offer sympathy. Didn't say "I'm sorry." Just nodded, as if she'd told him something important, and walked on beside her.
-
-She found she didn't mind.
 
 ---
-
-The timbered hall of Stanwey was visible now, a grey island in the clearing. Godfrey slowed.
-
-"I'll wait here. Take as long as you need."
-
-Beatrice blinked. "You don't have to—"
-
-"He should hear it from you first. Without me there."
-
-She looked at him—this strange, quiet young man who watched and waited and seemed to understand things without being told.
-
-After a moment: "Thank you."
-
-She walked the last hundred yards alone.
-
-At the edge of the clearing, she turned. He was still there, at the tree line, waiting. He hadn't moved. Hadn't approached. Just… waited.
-
-She went inside.
-
----
-
-## Chapter 12 — The Old Wolf
-
-Harold was by the fire, staghound at his feet. He looked up as she entered, and his face shifted—relief, then concern as he saw her expression.
-
-"Daughter. You're back. The goose—"
-
-She set down the basket. "She's safe. The king spared her."
-
-Goosie waddled out and headed for the hearth. The staghound sniffed her, unimpressed.
-
-Harold stared. "The king spared your goose?"
-
-"He laughed at her first. She bit a clerk." A small, tired smile. "Then he laughed at me. Then he remembered you."
-
-"Remembered me?"
-
-She sat beside him. "The river. Pulling his brother from the Severn. He said—he said he'll visit. Soon. To hear you tell it again."
-
-Harold's face changed.
-
-Not dramatically. Not at first. Just a stilling. A holding.
-
-"The king himself."
-
-"Yes."
-
-"Coming here."
-
-"That's what he said."
-
-He moved to the window—not quickly, he couldn't move quickly anymore, but with purpose. He gripped the frame. Looked out at nothing. Or everything.
-
-Very quiet: "The king himself."
-
-She filled the silence. "He called me a she-wolf. And told off that annoying Sir Guy—finally! I thought the man might actually swallow his tongue. The king just looked at him and—"
-
-Still at the window: "A she-wolf."
-
-"Yes. And then, as I was leaving, he said something strange. I didn't understand it."
-
-Harold turned. Just his head. The rest of him still holding the frame.
-
-"He said… 'a wolf may find shade under a good tree.'"
-
-The words landed.
-
-Harold's expression didn't change—not exactly—but something behind it shifted. Like a door opening in a room she didn't know was there.
-
-Very softly: "Did he."
-
-"What does it mean?"
-
-He didn't answer. He was looking at her now. Really looking. As if seeing her for the first time.
-
-"In the old tongue—your mother's tongue, the Saxon words we still use when we're not trying to sound Norman—a 'good tree' is more than shade. It's shelter. It's kin. It's the tree your grandfather planted, the one your children will play under."
-
-He looked at her.
-
-"A king doesn't speak of wolves and trees by accident, daughter. Not to a girl whose father he remembers. Not after sending his son to walk her home."
-
-Very quiet: "What are you saying?"
-
-"I'm saying… when a king calls you a she-wolf, and promises to visit an old wolf he hasn't seen in twenty years, and sends his own cub to stand at your side…"
-
-He let it hang.
-
-After a long moment: "You think he means something."
-
-"I think he means everything. I just don't know what yet."
-
-He looked toward the door. Toward the tree line where the young man waited.
-
-"What have you left him outside for?"
-
-"He said he'd wait. Give me time to tell you alone. He was… polite about it."
-
-"Polite." Almost a smile. "A king's son. Walking a maiden home. Waiting outside like a common suitor. And polite."
-
-"Father, you're frightening me."
-
-He crossed to her, taking her hands. "Go and fetch him."
-
-"Now?"
-
-"Now. And Beatrice—" He squeezed her hands. "When you speak to him… listen. Not to his words. To what he doesn't say."
-
----
-
-## Chapter 13 — The Threshold
-
-The door closed behind her. Evening air, cool and soft. Godfrey still at the tree line, exactly where she left him. Waiting.
-
-She walked toward him. He watched her approach. Read something in her face but said nothing.
-
-She stopped a few feet away.
-
-"He wants to meet you."
-
-Quietly: "Is he well?"
-
-"He's… different." She shook her head. "He knew something. Before I said anything. He looked at me and it was like he was already halfway there."
-
-"To where?"
-
-"I don't know. That's what I'm trying to understand."
-
-A pause. The forest breathed around them.
-
-"What did he say?"
-
-"He asked what the king said to me. I told him. About the visit. About the she-wolf. About the wolf and the tree."
-
-Godfrey's face didn't change, but something in his eyes shifted.
-
-"You know what it means."
-
-"I… I've heard my father speak that way. In parables. In old words. He doesn't say things plainly. Not the important things."
-
-"What does it mean?"
-
-Carefully: "A wolf… a she-wolf… is someone who belongs to a pack. Who has people. Who is claimed. And a good tree—that's shelter. That's home."
-
-He met her eyes.
-
-"That's what a husband is supposed to provide. In the old songs. In the Saxon way."
-
-She stared at him.
-
-The words landed. One by one.
-
-*A she-wolf.* Claimed. Belonging.
-*A good tree.* Shelter. Home. Husband.
-
-The king called her a she-wolf. The king said she would find shade under a good tree.
-
-The king sent his son to walk her home.
-
-Very quiet: "Oh."
-
-"I'm sorry. I should have—"
-
-She held up a hand. "Don't. Don't apologize. Not again."
-
-She breathed. Once. Twice.
-
-"You knew. In the hall. When he said it. You heard him."
-
-"Yes."
-
-"And you still walked me home. You still waited outside. You still let me tell my father first."
-
-"Yes."
-
-"Why?"
-
-Simply: "Because you deserved to hear it from someone who loves you. Not from a stranger."
-
-She didn't know what to say to that.
-
-After a long moment: "Come inside. He's waiting."
-
----
-
-## Chapter 14 — The Blessing
-
-Harold was standing by the hearth when they entered. Not sitting. Standing. The staghound at his feet had risen, tail wagging slowly.
-
-Beatrice entered first. Godfrey behind her.
-
-Harold looked at the young man. Long. Careful. The way old warriors look at young ones—measuring, weighing, remembering.
-
-Godfrey met his gaze. Didn't flinch. Didn't perform. Simply waited.
-
-After a long moment: "You have your father's patience."
-
-"I've been told that. Not always as a compliment."
-
-Almost a smile. "No. I don't suppose it was." He gestured to a stool. "Sit."
-
-Godfrey sat.
-
-Harold lowered himself into his chair—slowly, because he must—but his eyes never left Godfrey.
-
-"She told me what the king said. About the wolf and the tree."
-
-"Yes."
-
-"You understood it."
-
-"I think so."
-
-Nodding. "Good. Then you know what's coming."
-
-"I know what my father intends. Whether it comes… that depends on more than intention."
-
-"On what?"
-
-Glancing at Beatrice. "On her. On you. On whether this can be something other than a king's command."
-
-Beatrice's heart did something strange.
-
-Harold was quiet for a moment. Then: "You walked her home. You waited outside. You let her tell me first." A pause. "Why?"
-
-"Because she's not a command. She's a person. I wanted her to know that someone sees that."
-
-Harold looked at him. Long and steady.
-
-Then, slowly, he nodded.
-
-"Your father and I… we're not young men. We've seen too much to believe in easy things. But I'll tell you what I believe: a man who waits, who watches, who sees—that man is worth more than a dozen princes who only know how to take."
-
-He leaned forward, slightly.
-
-"She's all I have. This hall. These lands. Her. If this is some game—some court trick to use her and discard her—"
-
-"It's not."
-
-"How do I know that?"
-
-Quietly: "Because I'm still here. Because I could have sent guards. Could have left her at the gate. Could have done what any prince would do and treated this as a chore to be finished."
-
-He looked at Harold directly.
-
-"I didn't. I walked. For miles. With a goose in a basket. And I didn't want it to end."
-
-Harold saw it. Saw her face. Saw the young man's quiet honesty. Saw something he thought he'd never see again in this hall: possibility.
-
-To Godfrey, softly: "You love her already."
-
-It wasn't a question.
-
-Godfrey didn't answer. Didn't need to. His silence was answer enough.
-
-Harold looked at Beatrice. Then back at Godfrey. Then at the fire, where something old and tired seemed to brighten.
-
-"Then we have much to discuss." He gestured to Beatrice. "Daughter. Sit. This concerns you as much as anyone."
-
-She crossed the room. Sat on the stool beside Godfrey—not close, but not far. The fire warmed them both.
-
----
-
+==> TO INSERT AS APT ABOVE?
 They talked. Harold asked about the court, about the king's mood, about Brittany and the refused princess. Godfrey answered plainly, without embellishment. Beatrice listened, watched, learned.
 
 At some point, Goosie waddled out from wherever she'd been hiding. Approached Godfrey. Stopped. Stared.
@@ -1946,11 +1762,17 @@ Beatrice, despite everything, smiled back.
 
 ---
 
+=> TO CONTINUE
+
 Later, at the door:
 
 To Harold: "I'll come tomorrow. If I may."
 
 "You may."
+
++++ There's a lot to do before my father arrives.
+
++++ (Godfrey response, remembering that the king is coming).
 
 Godfrey looked at Beatrice. Just a look—warm, quiet, asking nothing.
 
