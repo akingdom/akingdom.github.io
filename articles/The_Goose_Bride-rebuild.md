@@ -908,7 +908,7 @@ As Beatrice entered, carrying the handmade basket and dusty from the journey, Si
 
 **Sir Guy de Montfort.**
 
-Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at St Andrews parish church). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
+Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at Laxton parish church, across the valley). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
 
 Insulted, Beatrice had politely begged to be excused, then to go and find her father.
 
@@ -1810,7 +1810,7 @@ Beatrice did not know what to say to that. Her throat tightened. She had not ask
 
 She sat with that for a moment. The garden was quiet, the last of the autumn flowers still clinging to colour. Goosie made a soft sound, content.
 
-“A cook,” she said at last. “I wonder whether my mother’s sister might come from Corby, if the Queen permit? She has been widowed these two years and it is difficult for her there. She knows the hall.”
+“A cook,” she said at last. “I wonder whether my mother’s sister might come from Blatherwycke, if the Queen permit? She has been widowed these two years and it is difficult for her there. She knows the hall.”
 
 Godfrey nodded. “If you think she would suit, I will mention it to the Queen.”
 
@@ -1917,7 +1917,7 @@ Harold’s mouth twitched. “The silver was easier to train.”
 Henry roared with laughter. Godfrey, standing by the door, allowed himself a small smile.
 
 ---
-
+
 Later, when the meal was done and the fire had been built up, Henry sent everyone away. He sat alone with Harold in the small circle of light.
 
 Henry leaned back, contentedly, his broad shoulders relaxing against the wall. “It is good to sit with old friends. Speak your words, Hrathulfr, for your eyes betray you.”
@@ -1933,7 +1933,7 @@ Henry raised an eyebrow. “That is truly a father’s question.”
 “I am saying I need to know what kind of man he is. Not the prince. The man.”
 
 Henry was quiet for a long moment. The fire crackled. Outside, a horse stamped.
-a
+
 “At court, many count him dull,” Henry said at last, “for he does rarely plots, schemes or flatters. But he waits, and watches, and learns. He can read a ledger, write a charter, argue a point of law. He was educated at the same monastery where I learned my letters. He is clever in the ways that matter—just not in the ways that make men popular at court.”
 
 Harold nodded slowly.
@@ -1968,17 +1968,28 @@ Harold’s mouth twitched. “A compromise. Your father would never have agreed 
 
 “We do.”
 
-Henry walked to the door, then paused. “One more thing. Stanwey will be hers. Godfrey will hold it in her name, as her steward, not as its lord. That is my gift to you, for the Severn, and for the daughter you have raised.”
+Henry lowered his voice. “A word in your ear, Rauthulfr. This marriage has another advantage for me. There are nearby barons who think my ears do not hear their plotting.” He paused. “They are wrong.”
+
+Harold nodded slowly. “The Beaumonts.”
+
+“And others.” Henry did not elaborate. He did not need to. “Stanwey is a good vantage point. Close enough to the Rockingham castle to be useful, far enough to be overlooked, if you follow me.” He smiled, coldly. 
+
+Harold absorbed this. “You are using my daughter’s betrothal as a message.”
+
+“I am using everything as a message.” Henry’s voice was quiet. “But that is a king’s burden, not a father’s. Your daughter will be well cared for. And Stanwey will be a shield, not a sword.”
+
+He walked to the door, then looked back. “Tell no one of this. Not even Godfrey. He has enough to carry.” 
+
+He paused. “One more thing. Stanwey will be hers. Godfrey will hold it in her name, as her steward, not as its lord. That is my gift to you, for the Severn, and for the daughter you have raised.”
 
 Harold’s throat tightened. He nodded, not trusting his voice.
 
 Henry opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
 
 
++++ NEED the announcement to the children per above
 
-
-ÔÔÔÔÔÔ
-
+>>> Integrate this herein.
 “I am told,” Henry said, “that you have been worrying about your father, child.”
 
 Beatrice felt her cheeks warm. She glanced at Godfrey, who looked at the fire.
@@ -1990,6 +2001,14 @@ Harold was silent for a moment. Then he said, quietly, “You are kind, sire.”
 “I am practical,” Henry said. “A king’s daughter-in-law should not be distracted by worry. It is bad for the complexion.”
 
 Beatrice looked down at her hands. She did not trust herself to speak.
+
+
++++ NEED ANNOUNCEMENT OF WINCHESTER as discusssed
+
+>>> NEED FOLLOWING plus any planned missing bits for... Departure – The week of preparation, the new reeve and cook, the farewell. AND The Road to Winchester – The journey, Beatrice’s stiffness, the arrival at Westminster (transition to Chapter 17).
+
+
+
 
 ---
 
@@ -3848,15 +3867,16 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 ------------------------------
 
-## Stanwey Estate
+## Stanwey Estate (Fictional)
 
 Stanwey: Thegn’s Estate Profile (c. 1114)
-Stanwey (Old English: Stān "Stone" + Weg "Way/Road") is a strategic royal holding held in capite (directly from the King). It sits atop the ancient Roman industrial corridor of Rockingham Forest, serving as a critical source of iron and timber for the Crown.
+Stanwey (Old English: Stān "Stone" + Weg "Way/Road") is a strategic royal holding held in capite (directly from the King). It sits atop the ancient Roman industrial corridor of Rockingham Forest, serving as a critical source of iron and timber for the Crown. 
+It was a thorn in the side of the late Sherrif of Nottingham as it was under the King's direct jurisdiction not his, unlike much of the rest of the lands.
 
 ------------------------------
 I. Location & Geography
 
-* GPS Centre (approx): 52.5694, -0.6095
+* GPS Centre (example site only): 52.5694, -0.6095
 * Distance to Rockingham Castle: ~5.1 miles (Southwest)
 * Proximity: ~0.8 miles North of Laxton; ~1.2 miles West of Wakerley.
 * The Roman Road: The estate is bisected by Margary 571, the ancient road once linking forest iron-works to the Roman town of Durobrivae.
@@ -3931,3 +3951,5 @@ Logistics & Timing
 
 Stanwey's "Tribute Cart"
 As a King's Thegn, Harold might be required to send a "Carriage Service" (avera) as part of his tenure. This would involve sending his cart and oxen to Rockingham to haul the King’s wine, building stone, or hunting gear whenever the Royal Court was in residence.
+
+Laxton - A Real Village across the valley from 'Stanwey', with All Hallows (All Saints) ancient parish church. Good visibility all the way to Rockingham.
