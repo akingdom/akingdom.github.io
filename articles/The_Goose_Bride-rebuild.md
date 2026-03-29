@@ -1248,13 +1248,15 @@ The man pulled up. “Far to go?”
 
 “Stanwey,” Beatrice said, rising. “Five miles yet.”
 
-“Well, we turn off a bit before then, but we’ll take you to the Stanwey lane, if you like; so long as you don’t mind the dust.”
+“Well, we turn off a bit before then, but we’ll take you to the Stanwey lane, if you like; so long as you don’t mind the dust from the quarries.”
 
 Beatrice’s feet throbbed. “I’d be really grateful.”
 
 She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a waterskin. Beatrice drank, thanked her, and settled the basket on her knees. It was an old basket, wicker, its lid now firmly pegged down. Nothing to mark it or its precious contents.
 
-The cartwheels ground on the old Roman stone. The man hummed a country ditty under his breath. The girls whispered to each other, glancing curiously at Beatrice.
+The cart shifted, its iron-rimmed wheels biting into the white limestone ruts of the zigzag scarp. It was a jarring, metallic crunch on the steep descent, kicking up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
+
+The man hummed a country ditty under his breath. The girls whispered to each other, glancing curiously at Beatrice.
 
 After half a mile the woman turned around, her eyes bright with the hunger for news. “So, you come from the castle, then?”
 
@@ -1572,7 +1574,7 @@ He nodded. “I shall wait here. Take as long as you need.”
 
 She walked toward the hall. At the door, she turned. He was still there, at the tree line, waiting.
 
-She went inside.
+She went inside, carrying the basket.
 
 ---
 
@@ -1580,7 +1582,7 @@ She went inside.
 
 The door closed behind her with a dull thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
 
-The basket was heavy on her arm. She set it down. Goosie stirred but did not emerge.
+The basket was heavy on her arm. She set it down and opened the lid. Goosie stirred, lifting her head to look about, but did not emerge.
 
 Across the room, Harold sat in his chair by the hearth. He had not risen. His hands rested on his knees, and his eyes were fixed on the fire. When she stepped forward, he looked up slowly, as if the movement cost him something.
 
@@ -1634,15 +1636,41 @@ Harold’s eyes flickered. “He knows the old words?”
 
 “I think he is learning.”
 
-She opened the door and stepped out into the fading light. Godfrey was still there, at the tree line, waiting.
+She opened the door and stepped out into the fading light. 
 
-“He will see you now,” she said.
+---
 
-He walked toward her. She stood aside to let him pass, then followed him inside.
+Godfrey was still outside, waiting at the tree line.
+
+Before Beatrice could speak, a rustle of feathers sounded behind her. Goosie waddled past her legs, out into the yard, and stopped. 
+
+The goose stared suspiciously at the young stranger. She stretched out her neck with her head low and wings half‑spread—giving out an unfriendly warning.
+
+Beatrice was surprised. “No, Goosie, come here.” *Had she misjudged Godfrey?* 
+
+But Goosie took a step forward. Then another. Godfrey did not look away, but stood very still, simply waiting.
+
+The goose stopped a foot from his boots. Her head rose. Her neck straightened.
+
+And then, quite suddenly, she tucked her head under her wing, gave a soft rustle, and pressed her warm body against his leg.
+
+Godfrey looked down at her, and something in his face shifted—not quite a smile, but the beginning of one.
+
+“Hello again, little one,” he said quietly.
+
+Goosie waddled back toward the hall, pausing at the threshold to look back at him, as if to say *Well? Are you coming?*
+
+Beatrice let out the breath she had been holding. She turned to Godfrey, her eyes sparkling nervously.
+
+“Father will see you now,” she said, simply.
+
+Godfrey walked toward the door and Goosie led the way inside.
 
 ---
 
 The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
+
+“Well,” he said. “Who is this you’ve brought in, Goosie?”
 
 Godfrey stopped at the edge of the hearth. He did not advance further. He did not speak at once.
 
@@ -1738,147 +1766,302 @@ She smiled, and went out to fetch the wood.
 
 ---
 
-
+## Chapter 15 – The Courtship (Mid‑November 1114)
 
+### The Courtship
 
+In the weeks that followed, Godfrey became a familiar sight at Stanwey. He came when he could—a day here, an afternoon there—always on horseback, always alone. He did not announce himself; he simply appeared and waited until a servant noticed him.
 
---- note for when they later leave for Winchester
+At first, Beatrice did not know what to do with him. He was not like the other men her father had brought before her. He did not boast of his lands or press gifts upon her. He asked to be shown the manor, and when she showed him, he listened. He asked about the crops, the tenants, the forest boundaries. He asked about her father’s health, and when she told him, he nodded and said nothing more.
 
-Only when the lodge vanished behind the trees did Beatrice’s breath loosen.
-Great changes never felt real at first; the mind lagged behind the world, reaching for the familiar to steady itself.
+He helped where help was needed. The goose pen had a loose hinge; he mended it without being asked. The reeve’s cart had a broken wheel; Godfrey helped him lift it, getting dust and grease on his fine tunic. Beatrice found him in the yard one afternoon, stacking firewood with Harold’s reeve, his sleeves rolled up, his hands rough with splinters.
 
+Harold watched from his chair by the window, and when Beatrice came to stand beside him, he said quietly, “The lad doesn’t have to do this, you know.”
 
+“Yes, father.”
 
-
-
-
-
-
-
-
----
- ==> TO INSERT AS APT ABOVE?
-They talked. Harold asked about the court, about the king's mood, about Brittany and the refused princess. Godfrey answered plainly, without embellishment. Beatrice listened, watched, learned.
-
-At some point, Goosie waddled out from wherever she'd been hiding. Approached Godfrey. Stopped. Stared.
-
-Godfrey looked at her. Didn't move.
-
-Quietly: "Hello."
-
-Goosie cocked her head. Took a step closer. Then another.
-
-Beatrice held her breath.
-
-Goosie pressed her warm head against Godfrey's knee. Just once. Then waddled back to the hearth, as though it were more cozy.
-
-Harold laughed—a real laugh, surprised out of him.
-
-"Well. That's official, then."
-
-"What?"
-
-"Goosie made up her mind, decided. Always did."
-
-Godfrey looked down at his knee, where the warmth still lingered. Then at Beatrice. And for the first time, he smiled—a real smile, unguarded and young, sensing what he'd missed all his life.
-
-"She knows who she is."
-
-Beatrice, despite everything, smiled back.
-
----
-
-=> TO CONTINUE
-
-Later, at the door:
-
-To Harold: "I'll come tomorrow. If I may."
-
-"You may."
-
-+++ There's a lot to do before my father arrives.
-
-+++ (Godfrey response, remembering that the king is coming).
-
-Godfrey looked at Beatrice. Just a look—warm, quiet, asking nothing.
-
-"Tomorrow, then."
-
-He went.
-
-Beatrice stood in the doorway, watching until the dark swallowed him.
-
-From his chair: "Close the door, daughter. You'll let the cold in."
-
-She closed it.
-
-But the warmth stayed.
-
----
-
-## Chapter 15 — Stanwey Interlude (Mid-November 1114)
-
-So it was that Godfrey visited Stanwey whenever he could slip away from court at Rockingham Castle—a day here, an afternoon there. He helped with the manor in small ways: mending a hinge, checking stores, carrying wood. 
-
-Harold watched him work. He spoke quietly to Beatrice: "The lad doesn't have to do this, you know."
-
-"Yes, father."
-
-"That's why it matters, daughter."
+“That’s why it matters.”
 
 ---
 
 One afternoon, Godfrey found Beatrice in the herb garden, Goosie pecking contentedly nearby. He sat on the bench beside her and said nothing for a long while.
 
-Finally, not looking up: "I should have told you. That day. On the road."
+Finally: “I was remembering your concerns about your father. From the lane.”
 
-"Told me what?"
+She looked at him, surprised. She had not spoken of it again—had tried not to think of it—but the fear had stayed, a low ache beneath the days of mending and planning.
 
-"About the vow."
+“I mentioned it to the Queen,” Godfrey said. “She instructed me not to interfere too much. But she wondered if a good, reliable man to help manage the estate might be of use. Perhaps a cook as well. Someone who could see to the running of the hall, to help lighten your burden a little.”
 
-"I know about the vow now. Father told me." She paused. "The next maid through the door. That was me."
+Beatrice stared at him, astonished. “You spoke to the Queen about my father?” 
 
-"Yes."
+*Whoever are we that the Queen of England should notice us, let alone the King visit us.*
 
-"You knew. Before you walked me home."
+“She is practical about such things.” Godfrey glanced at her. “She said the king’s visit must not be a burden. And that your father should have what he needs.”
 
-"Yes."
+Beatrice thought of the Queen—her sharp eyes, her cool voice—and tried to imagine her giving instructions about a servant for an old Saxon thegn. “She said that?”
 
-Looking at him now: "Why didn't you tell me?"
+“She did.” He paused. “She seems interested.”
 
-Quietly: "Because I wanted you to be yourself. Just for a little while. Before you had to be something else."
+Beatrice did not know what to say to that. Her throat tightened. She had not asked him to do this. She had not asked anyone. And yet he had done it, quietly, without making it a gift or a promise.
 
-She stared at him.
+“When did you speak to her?”
 
-"That's… strange."
+“Yesterday.” He looked down at Goosie, who had waddled over and was now pressing her warm head against his knee. “I did not want you to worry.”
 
-Almost a smile. "I know."
+She sat with that for a moment. The garden was quiet, the last of the autumn flowers still clinging to colour. Goosie made a soft sound, content.
 
-After a moment: "I like it."
+“A cook,” she said at last. “I wonder whether my mother’s sister might come from Corby, if the Queen permit? She has been widowed these two years and it is difficult for her there. She knows the hall.”
 
-They sat together as the light faded. Goosie waddled between them.
+Godfrey nodded. “If you think she would suit, I will mention it to the Queen.”
 
----
+Beatrice looked at him—the dust on his sleeves, the patient way he sat, the quiet attention he gave to her father’s house, her father’s goose. Something in her chest loosened.
 
-## Chapter 15 — First Court Exposure (November 1114)
+“Thank you,” she said.
 
-The weeks passed well at Rockingham, but a King's days are not all hunting and wine. Thus it was that King Henry gave a royal command that the court would follow him to the city of Winchester, some two day's ride from Rockingham forest. In amongst all the packing up and preparations, Godfrey made time to visit Stanwey Hall.
+He met her eyes, and for a moment there was nothing between them but the fading light and the quiet.
 
-Harold Red-Wolf ran a long hand down the side of his face, eyeing Godfrey. "Well, I suppose it must be so. Far be it from me to go against a King. Do not misunderstand me; I suspected this time was coming, but I've said too many farewells in my lifetime."
-
-Beatrice walked over with a plate of freshly cut fruit. "You're not burying me, Father. It's only a two-day journey, as Godfrey said. Marie and her sister will visit you from the village every day."
-
-Harold smiled at her. "I know, my daughter, I know." He sighed, trying to hide his emotions for her sake. He turned to Godfrey. "It's not the same, though. Still, I give you both my blessing for you to go. I know it is for the best. 
-
-He stirred the dying coals on the hearth. "You must write to me, daughter: a short message that you are well, so that I may rest these old bones at night. Now, go and prepare your belongings for the journey. Be sure to take your good gown. We mustn't let them think that I don't keep you well. We two men need to have a talk between ourselves, so go now."
-
-Beatrice fled to her room to hide her tears and her fears. She watched the dust settle as light came in through a crack in the wall. Everything seemed to be a blur of new faces, new rules, and new ways of falling wrong. A rounded yellow beak poked at her arm in concern and Beatrice hugged Goosie. "Father says you can't come, but I wonder..."
-
-She tucked Goosie into the basket with her gowns, ignoring her father's explicit orders. Taking out a fragment of parchment, she penned a note for her father, leaving it in an obvious place on her bed. It was well thought out and deeply personal, even if the writing was rough and a little shaky. He would forgive her, she was sure of it. 
+Goosie waddled back to the herb bed and settled comfortably there, quite satisfied, a small white guardian in the dusk.
 
 ---
 
-Godfrey arranged for a horse—a placid grey mare with a soft mouth and patient eyes—and Beatrice had been too proud to refuse. She carried a basket and a bag with a little food, and her clothes. She had tucked Goosie into the basket with her gowns, ignoring her father's explicit orders. He would forgive her. He always did.
+### Preparations
+
+The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The reeve set men to repairing the lane. Even the children were put to work, gathering spring flowers to decorate the hall.
+
+Harold, who had been quiet since the betrothal, seemed to come alive. He walked the boundaries of the manor with Godfrey, pointing out where the old Roman road ran, where the best timber stood, where the river flooded in spring. His breath came short, but his eyes were clear.
+
+“You’ll need to know these things,” he told Godfrey, “if you mean to stand beside her.”
+
+Godfrey did not say he meant to. He simply walked and listened.
+
+Beatrice watched them from the door of the hall, Goosie at her feet. Her father was moving more than he had in months, his voice stronger, his step less tentative. She caught herself smiling.
+
+“He is better,” she said to Godfrey that evening, when Harold had gone inside.
+
+“He has something to live for,” Godfrey said. “We all do.”
+
+She did not ask what he meant. She thought she knew.
+
+---
+
+## Chapter 16 – The King’s Visit
+
+The morning of the king’s arrival dawned clear and cold. Beatrice had been up since first light, directing the women with the rushes, checking the firewood, chasing Goosie out of the hall three times. Harold sat in his chair by the hearth, pretending to read his Psalter, but his eyes kept drifting to the window.
+
+“You have re-arranged that shelf twice,” he said mildly.
+
+“The king is coming, Father.”
+
+“I had noticed.”
+
+She stopped, her hands full of dried herbs. “Are you not nervous?”
+
+He looked at her, and for a moment he was the man who had pulled a prince from the Severn, who had ridden with kings. “I have faced worse than a king,” he said. “I have faced your mother when she was displeased.”
+
+She laughed despite herself. The knot in her chest loosened a little.
+
+---
+
+The villagers had done their work well. The lane was swept, the cottages tidy, the children washed and set in rows. The reeve had stationed men at the crossroads to guide the royal retinue. Beatrice had asked for flowers—spring flowers, even though it was only November—and the children had gathered armfuls of late chrysanthemums and dried lavender, their colours muted but brave.
+
+Godfrey arrived first, riding ahead of the main party. He dismounted and came to stand beside Beatrice at the gate.
+
+“He is in a good mood,” Godfrey said quietly. “The hunt went well this morning.”
+
+“He hunted?”
+
+“A small thing. A few birds. He wanted an excuse to be out of the castle.” He glanced at her. “He is looking forward to this.”
+
+Beatrice did not know what to say to that. She watched the road, her hands cold despite the morning sun.
+
+---
+
+The king’s retinue appeared around the bend—a dozen mounted knights, a cart with provisions, a cluster of servants. At their head rode Henry himself, on a great grey horse, his cloak dark against the pale sky.
+
+Beatrice had seen him in the hall, seated, laughing. Seeing him now, riding toward her home, was different. He was not a king on a throne; he was a man on a horse, broad-shouldered, watchful, taking in every detail of the lane, the cottages, the villagers who knelt, for it wasn't every day that a king passed through the village.
+
+The children all threw their flowers, the women curtsied and the men bowed, heads uncovered. The king smiled and nodded, and Beatrice saw the village Reeve’s wife press a hand to her chest as if she had been blessed, talking ernestly to her neighbour.
+
+Henry a his retinue reined in before the gate, where old Harold was waiting eagerly for him. He dismounted, and for a moment the two old warriors looked at each other across the path. Then Henry stepped forward and took Harold’s hand.
+
+“Rauthulfr,” he said. “You have not changed.”
+
+Harold’s mouth twitched. “You have better eyes than I, sire. I am dim of sight and half the man I was.”
+
+“Then the man you were must have been twice the man I remember.” Henry laughed, and the tension broke. He looked at Beatrice, at Godfrey, at the goose waddling unconcernedly across the yard. “And this is the goose.”
+
+Beatrice curtsied. “Goosie, thanks to your mercy, sire.”
+
+“Goosie.” He shook his head. “My clerks will have a fine time with that name.” He offered his arm. “Shall we go inside? I am told there is a fire laid on the hearth, and I have not been warm since October.”
+
+---
+
+The hall had never looked so small. Henry sat in Harold’s chair for a time—Harold had insisted—and the old thegn took the stool beside him, their heads close as they talked. Beatrice moved between them, pouring wine, serving bread, trying not to listen.
+
+But she could not help hearing fragments.
+
+“…the Severn was higher than I had ever seen it. Your brother was clinging to a branch like a wet cat…”
+
+“He always did have more pride than sense.”
+
+“Some things do not change.”
+
+Henry laughed—a real laugh, warm and rough. He looked at Harold, and his face softened. “You saved his life, Hrathulfr. I have not forgotten.”
+
+“I did my duty, sire.”
+
+“You did more than your duty. You did what a man does for another man.” He leaned back. “My father rewarded you with silver. I have rewarded you with a son-in-law. I hope you find the latter more useful.”
+
+Harold’s mouth twitched. “The silver was easier to train.”
+
+Henry roared with laughter. Godfrey, standing by the door, allowed himself a small smile.
+
+---
+
+Later, when the meal was done and the fire had been built up, Henry sent everyone away. He sat alone with Harold in the small circle of light.
+
+Henry leaned back, contentedly, his broad shoulders relaxing against the wall. “It is good to sit with old friends. Speak your words, Hrathulfr, for your eyes betray you.”
+
+Harold leant forwards. “My words as a father are this: Your son. What kind of man is he, when no one is watching?”
+
+Henry raised an eyebrow. “That is truly a father’s question.”
+
+“I am old.” Harold met his eyes. “I will not live forever. My daughter refused every man I have ever brought before her. She has a mind of her own, and I have not tried to break it.”
+
+“You are saying she might even refuse my son?”
+
+“I am saying I need to know what kind of man he is. Not the prince. The man.”
+
+Henry was quiet for a long moment. The fire crackled. Outside, a horse stamped.
+a
+“At court, many count him dull,” Henry said at last, “for he does rarely plots, schemes or flatters. But he waits, and watches, and learns. He can read a ledger, write a charter, argue a point of law. He was educated at the same monastery where I learned my letters. He is clever in the ways that matter—just not in the ways that make men popular at court.”
+
+Harold nodded slowly.
+
+“I have given him my name,” Henry continued, “but not yet lands. The marriage will provide that. Stanwey and beyond will be his holding—in your daughter’s name, as I have said. He will be a lord, and he will learn to be a good one, or he will answer to me.”
+
+“And if she will not have him?”
+
+Henry’s jaw tightened. “Then I will have made a rash vow and a fool of myself. It would not be the first time.” He paused. “But I do not think she will refuse him. I have seen the way she looks at him. Not with love—not yet—but with something. Curiosity. Respect. The beginning of trust.”
+
+Harold said nothing. He was thinking of his own marriage, arranged by his father when he was barely more than a boy. He had been angry at first, resentful. But his wife had been patient, and kind, and over the years anger had softened into something deeper. He wanted the same for Beatrice.
+
+“You know,” he said, “that in our world, parents choose the match. The children learn to love—or at least to live—afterward. But I have seen matches that were nothing but duty, and I have seen matches that grew into something more. I want more for my daughter.”
+
+“So do I,” Henry said. “I did not choose my wife for love. But I have come to value her more than any crown. I would have the same for Godfrey.”
+
+They sat in silence, the fire between them. Then Harold spoke again.
+
+“One condition.”
+
+Henry inclined his head.
+
+“The marriage—if it happens—they will live at Stanwey. Not at court. Not in Normandy. Here. She has built this place. She knows the people, the land, the rhythms of the seasons. I will not have her taken from everything she knows.”
+
+Henry considered this. His first instinct was to refuse—a king’s son should be at court, visible, useful. But he looked around the hall—the low ceiling, the smoke‑blackened beams, the old man in the chair—and saw something he had never given his son.
+
+“Agreed,” he said. “For part of the year. The rest they will spend at court, as my family. That is not negotiable.”
+
+Harold’s mouth twitched. “A compromise. Your father would never have agreed to such a thing.”
+
+“My father conquered kingdoms. I am trying to keep them.” Henry rose. “We understand each other, then.”
+
+“We do.”
+
+Henry walked to the door, then paused. “One more thing. Stanwey will be hers. Godfrey will hold it in her name, as her steward, not as its lord. That is my gift to you, for the Severn, and for the daughter you have raised.”
+
+Harold’s throat tightened. He nodded, not trusting his voice.
+
+Henry opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
+
+
+
+
+ÔÔÔÔÔÔ
+
+“I am told,” Henry said, “that you have been worrying about your father, child.”
+
+Beatrice felt her cheeks warm. She glanced at Godfrey, who looked at the fire.
+
+“Yes, Godfrey mentioned it,” Henry continued. “He is a quiet boy, but he has a way of noticing things.” He looked at Harold. “I have a man in mind. A reeve from one of my own manors, good with accounts, steady. He can see to the hall while your daughter is away. And a cook, if you wish. I am told your wife’s sister might suit, else I have a dozen more.”
+
+Harold was silent for a moment. Then he said, quietly, “You are kind, sire.”
+
+“I am practical,” Henry said. “A king’s daughter-in-law should not be distracted by worry. It is bad for the complexion.”
+
+Beatrice looked down at her hands. She did not trust herself to speak.
+
+---
+
+The fire burned low. Henry and Harold spoke of old wars, old friends, old enemies. Beatrice listened, learning the shape of her father’s youth—the battles, the losses, the narrow escapes. She had heard some of it before, but never like this, never from a king who had been there.
+
+Godfrey stood by the door, watching, waiting, as he always did.
+
+At last, Henry rose. “I have stayed too long. The queen will wonder where I am.” He looked at Harold. “We are going to Winchester in a fortnight. The court has been too long in the forest, and I have business in the city. I would like your daughter to come with us. The queen will take her under her care. She will learn the ways of the court, meet the people she will need to know.”
+
+Harold looked at Beatrice. She nodded.
+
+“Then it is settled,” Henry said. “Godfrey will escort her. I will send the reeve and the cook within the week, so you may settle them before she leaves.” He put a hand on Harold’s shoulder. “You have served me well, Hrathulfr. You have given me a son’s loyalty and a daughter’s courage. I will not forget.”
+
+He turned to go. At the door, he paused and looked at Goosie, who had settled on the hearth.
+
+“That goose,” he said, “is the strangest creature I have ever seen.”
+
+“She is a good judge of character, sire,” Beatrice said.
+
+Henry laughed. “Then I am glad she did not hiss at me.”
+
+He rode away with his knights, the villagers cheering, the children waving. The lane was quiet again.
+
+---
+
+That night, Beatrice sat with her father by the fire. Godfrey had gone home, promising to return in the morning. The reeve and the cook would come tomorrow. The king’s words still echoed in her ears.
+
+“You are not afraid,” Harold said. It was not a question.
+
+“I am afraid,” she said. “But I am also… ready.”
+
+He nodded slowly. “Your mother would have been proud of you.”
+
+She leaned her head against his shoulder. “She would have liked Godfrey.”
+
+Harold smiled. “She would have liked that he does not talk too much.”
+
+They sat in silence as the fire burned down, and Goosie slept between them.
+
+---
+
+## Transition to Departure
+
+The week that followed was a blur of packing, goodbyes, and the quiet settling of the new reeve and cook. Beatrice’s aunt arrived—a thin, capable woman who took one look at the hall and began re‑ordering the kitchen. The reeve, a grey‑haired man named Eldred, sat with Harold each evening, learning the names of the tenants, the boundaries of the fields, the quirks of the river.
+
+Godfrey came every day, helping where he could, saying little. Harold watched him with a kind of quiet approval.
+
+On the morning of their departure, Beatrice stood in the yard, her basket in her hand. Goosie was inside, as she had been on the day she had first walked to the king’s lodge.
+
+Harold stood in the doorway, leaning on his stick. He did not wave. He simply watched.
+
+Beatrice crossed the yard and hugged him, fierce and quick. “I will write.”
+
+“You had better.” His voice was gruff, but his hand trembled on her back.
+
+She stepped away. Godfrey helped her onto the grey mare—she had stopped refusing—and mounted his own horse.
+
+They rode out of the yard, past the village, past the lane where the cart had stopped, past the crossroads where the guards had passed her by.
+
+Only when the lodge vanished behind the trees did Beatrice’s breath loosen. Great changes never felt real at first; the mind lagged behind the world, reaching for the familiar to steady itself.
+
+She touched the basket at her side. Goosie shifted inside, a small warm weight.
+
+Beside her, Godfrey rode in silence. He did not speak. He did not need to. He was simply there, the way he had been since the beginning.
+
+She let out a long breath and looked ahead, toward the road that would take them to Winchester, to the court, to whatever came next.
+
+---
+
+## Chapter 17 – First Court Exposure (November 1114)
+
+Godfrey had arranged for a horse—a placid grey mare with a soft mouth and patient eyes—and Beatrice had been too proud to refuse. She carried a basket and a bag with a little food, and her clothes. She had tucked Goosie into the basket with her gowns, ignoring her father’s explicit orders. He would forgive her. He always did.
 
 Her father was his typical gruff self when they departed. He waved after them until long after the road had hidden them from view.
 
@@ -1886,43 +2069,43 @@ As for Beatrice, by the time the towers of Westminster rose from the winter mist
 
 She had never ridden so far in her life. By the second morning, her legs felt like firewood lashed together with sinew. She had bitten her lip to keep from crying out when she first swung into the saddle, and Godfrey—bless him, fool him—had noticed.
 
-"We can rest," he said quietly.
+“We can rest,” he said quietly.
 
-"I'm fine."
+“I’m fine.”
 
-"You're walking like a newborn colt."
+“You’re walking like a newborn colt.”
 
-She glared at him. "I said I'm fine."
+She glared at him. “I said I’m fine.”
 
-He didn't argue. He simply slowed his horse to match hers and said nothing more. It was, she was learning, his way.
+He didn’t argue. He simply slowed his horse to match hers and said nothing more. It was, she was learning, his way.
 
 ---
 
 They passed through the outer gates at midday. Beatrice had imagined a castle—something like the hunting lodge at Rockingham, but larger. What she saw instead was a city.
 
-Westminster sprawled before her, a chaos of stone and timber and smoke. The great hall, she later learned, had been built by the king's brother, and it dwarfed anything she had ever seen. Its roof seemed to scrape the sky. Its walls were thick enough to swallow sound. When she stepped inside, she forgot to breathe.
+Westminster sprawled before her, a chaos of stone and timber and smoke. The great hall, she later learned, had been built by the king’s brother, and it dwarfed anything she had ever seen. Its roof seemed to scrape the sky. Its walls were thick enough to swallow sound. When she stepped inside, she forgot to breathe.
 
 The noise hit her first.
 
-Not the orderly sounds of a village—the clank of a smith's hammer, the lowing of cattle at dusk—but a wall of sound. Voices in three languages. Armor scraping. Servants shouting. Hounds barking somewhere below the rushes. It was like standing inside a bell after it had been struck.
+Not the orderly sounds of a village—the clank of a smith’s hammer, the lowing of cattle at dusk—but a wall of sound. Voices in three languages. Armour scraping. Servants shouting. Hounds barking somewhere below the rushes. It was like standing inside a bell after it had been struck.
 
 Then came the smell.
 
-Perfume and sweat. Spiced wine and wet wool. The faint, ever-present reek of the river and the sharper stench of unwashed bodies crowded into too small a space. Beatrice's stomach turned. She had to clench her jaw to keep from gagging.
+Perfume and sweat. Spiced wine and wet wool. The faint, ever‑present reek of the river and the sharper stench of unwashed bodies crowded into too small a space. Beatrice’s stomach turned. She had to clench her jaw to keep from gagging.
 
-Godfrey's hand found her elbow. "Are you unwell?"
+Godfrey’s hand found her elbow. “Are you unwell?”
 
-She shook her head. Couldn't speak.
+She shook her head. Couldn’t speak.
 
 He guided her through the press of bodies, past clusters of nobles who barely glanced at her, past servants carrying trays of silver, past a knot of children—royal wards, she guessed—who stared openly.
 
 Then, abruptly, she stopped.
 
-"I need—" She felt her face go scarlet. She leaned toward him, voice barely a whisper. "I need the latrine."
+“I need—” She felt her face go scarlet. She leaned toward him, voice barely a whisper. “I need the latrine.”
 
-Godfrey blinked. "Oh." He glanced around, then nodded toward a doorway. "Through there. I'll wait."
+Godfrey blinked. “Oh.” He glanced around, then nodded toward a doorway. “Through there. I’ll wait.”
 
-Beatrice didn't wait; she fled, ignoring the stiffness of her protesting legs.
+Beatrice didn’t wait; she fled, ignoring the stiffness of her protesting legs.
 
 ---
 
@@ -2065,7 +2248,7 @@ The sisters exchanged a look of pure, baffled silence.
 ---
 
 
-
+ REVIEWING
 
 
 Lady Margaret, watching from the shadows, felt a rare tug of amusement.
@@ -3662,5 +3845,89 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Queen's speech** | — | **20 Jan 1115** (exact) |
 | **Candlemas trap** | — | **2 Feb 1115** |
 
+
+------------------------------
+
+## Stanwey Estate
+
+Stanwey: Thegn’s Estate Profile (c. 1114)
+Stanwey (Old English: Stān "Stone" + Weg "Way/Road") is a strategic royal holding held in capite (directly from the King). It sits atop the ancient Roman industrial corridor of Rockingham Forest, serving as a critical source of iron and timber for the Crown.
+
+------------------------------
+I. Location & Geography
+
+* GPS Centre (approx): 52.5694, -0.6095
+* Distance to Rockingham Castle: ~5.1 miles (Southwest)
+* Proximity: ~0.8 miles North of Laxton; ~1.2 miles West of Wakerley.
+* The Roman Road: The estate is bisected by Margary 571, the ancient road once linking forest iron-works to the Roman town of Durobrivae.
+* Topography: The land slopes through the Welland Valley toward a sharp, distinctive river bend in the Welland, providing rich water meadows and high-ground defense.
+* Industrial Heritage: Features ancient Roman iron-smelting pits near the border (Laxton Lodge area), still yielding bog iron for the King’s use.
+
+------------------------------
+II. Estate Dimensions & Assets
+
+* Total Size: 5 Hides (~600 Acres / 0.94 sq miles).
+* Shape: 2:1 Rectangle oriented along the Roman Road.
+* Short Side: ~0.68 miles (1.1 km)
+   * Long Side: ~1.37 miles (2.2 km)
+* Stanwey Hall: The manorial seat; a robust timber-framed Great Hall built upon a dressed stone foundation.
+* St. Peter’s Church: A small Norman-style stone church with a crypt where the Lord’s wife is interred.
+* Economic Assets: 6 plough teams (48 oxen total), 3 large open fields (Wheat, Barley, Fallow), and a small watermill at the river bend.
+
+------------------------------
+III. The Lord’s Profile: Harold 'Rauthulfr' Magnússon
+
+* Lineage: Norse-Saxon hybrid; descendant of Danelaw settlers.
+* Byname: Rauthulfr (Red Wolf), signifying his fierce northern heritage.
+* Political Standing: A rare "survivor" thegn and friend to Henry I. His direct royal tenure protects him from the territorial ambitions of William Peverel the Younger (High Sheriff of Nottingham).
+* Personal Life: A widower with one daughter and heir, Beatrice (approx. 14–18 years old).
+* Retinue: Two "Huscarl-descended" body-servants who act as his sworn guard.
+
+------------------------------
+IV. Stanwey Census (c. 1114)
+
+| Group | Count | Role & Note |
+|---|---|---|
+| Lord’s Household | 2 | Harold and his daughter, Beatrice. |
+| Household Staff | 2 | Sworn guards/servants (Huscarl-legacy). |
+| The Priest | 1 | Appointed by the Bishop; loyal to the Hall. |
+| Villans (Villains) | 12 | Primary farmers holding ~30 acres each; owners of the ploughs. |
+| Bordars (Cottars) | 8 | Labourers; many are skilled in iron-smelting at the Roman pits. |
+| Slaves (Servi) | 2 | Unfree workers attached to the Hall kitchens and stables. |
+| Total Population | ~120 Souls | Approx. 24 households total. |
+
+------------------------------
+
+V. Historical Context: The Peverel Tension
+While Harold enjoys the King's favour, Stanwey is a target. William Peverel the Elder died in February 1114, leaving a vacuum. As William Peverel the Younger expands his influence over the Honour of Peverel, an independent, iron-rich 5-hide estate held directly from the King is a political thorn in his side. Harold’s Norse woodcraft and his ability to supply high-quality iron for the King’s huntsmen at Rockingham are his primary leverage.
+Peverel the Elder was a political mover and shaker in court but the Younger much less so, aged about 20-30 in 1114.
+During this era, the Sheriff was a powerful crown appointee responsible for law enforcement, judicial matters, and tax collection across both Nottinghamshire and Derbyshire. In 1114, this position also included the custody of the Royal Forests and often the command of Nottingham Castle itself. 
+Peverel’s family founded Lenton Priory, which became the wealthiest and most powerful religious house in Sherwood Forest. 
+Expansion of Forest Law: When the Younger Peverel was exiled in 1155 and his lands were seized by King Henry II, the Crown took direct control of his estates. This allowed the King to significantly expand Forest Law over the region—a move that caused massive local resentment and is a central theme in Robin Hood stories. 
+
 ---
 
+VI. Transport
+Moving a cart from Stanwey to Rockingham Castle in 1114 would be a logistical challenge. While a person on foot could navigate muddy shortcuts, a heavy timber cart laden with iron blooms or grain required the firmest ground possible to avoid "bellied" axles in the thick Northamptonshire clay.
+The Cart Route: The "Stone Way" (Margary 571)
+Harold’s carters would almost certainly stick to the Roman Road (Margary 571) for as long as possible.
+
+* The Surface: Even 700 years after the Romans left, the agger (the raised stone embankment of the road) provided a solid foundation. In the 1100s, this was known as a "Stane-gate" or "Stone-way."
+* The Width: Roman roads were wide enough for two carts to pass, essential for the industrial traffic of the Rockingham iron-works.
+* The "Holloway" Effect: Over centuries, the weight of carts and erosion often turned these roads into "holloways"—sunken lanes with high banks that provided some protection from wind but could become treacherous "rivers of mud" during heavy autumn rains.
+
+The "Rockingham Scarp" Challenge
+The most difficult part of the journey was the final approach to the Castle.
+
+* The Steep Ascent: Rockingham Castle sits on a high limestone ridge. A cart pulled by a team of 4–6 oxen would have to grind up the steep incline from the Welland valley floor.
+* Switchbacks: To manage the gradient, the medieval track likely used "switchbacks" (zigzagging up the hill) rather than the straight Roman line.
+* The Gatehouse: Carts would enter through the Outer Bailey, where they would be unloaded at the Royal Granary or the King's Smithy.
+
+Logistics & Timing
+
+* The Team: Harold would use Oxen rather than horses for heavy carting. Oxen were slower but had much greater "steady pull" through the forest mud.
+* Speed: A cart moved at a "plodding" pace of about 2 miles per hour.
+* Total Time: The 5-mile trip would take 2.5 to 3 hours one way—a full half-day's work for the carter and his team.
+
+Stanwey's "Tribute Cart"
+As a King's Thegn, Harold might be required to send a "Carriage Service" (avera) as part of his tenure. This would involve sending his cart and oxen to Rockingham to haul the King’s wine, building stone, or hunting gear whenever the Royal Court was in residence.
