@@ -1398,13 +1398,15 @@ She straightened, flustered. Her hand went to her face uncertainly.
 
 *You’re the king’s son?*
 
-She looked at her fingers smudged with grey, then at him.
+She looked at her fingers, now smudged with grey, then at him.
 
 *I have charcoal on my nose.*
 
-She tucked her hand down, cheeks burning. She had rubbed it on that morning, to look like a charcoal‑burner while travelling to the hall.
+Beatrice tucked her hand down, cheeks burning. She had rubbed the soot on that morning, to blend in like a charcoal‑burner, not a thegn's daughter, while travelling to the hall.
 
-He simply indicated the laneway with his hand. “Shall we walk?”
+In a hasty turn, she faced away. A quick scrub with linen from her belt-purse cleared the mark, leaving her nose scoured-red and stinging. *Well, that must do.* 
+
+“Shall we walk?” Godfrey simply indicated the laneway with his hand.
 
 She nodded, looking away, taking a few stiff steps. He fell in beside her, leading his horse. The animal’s hooves made soft sounds on the packed earth.
 
@@ -1596,35 +1598,43 @@ He looked at her face—the tear tracks, the swollen eyes, the dirt from the roa
 
 She shook her head. “Nothing. I am well. The goose is well.”
 
-“You are not well.” He said it simply, without accusation. “Tell me.”
+“Truly, something is amiss,” He said, without accusation. “Say it.”
 
 She bowed her head over his hand, gathering herself. Then she told him. Not everything—not the cart woman’s knowing eyes or the way her heart had seized when the guards passed—but the shape of it. The king’s laughter. His promise to visit. The vow.
 
 When she said the words “his son Godfrey is to marry the next maid through the door,” Harold’s hand tightened on hers.
 
-“And you were that maid.”
+“And you were that maid?”
 
 “Yes.”
 
 He was quiet for a long moment. The fire crackled. Goosie, sensing the weight in the room, waddled to the hearth and settled there, her head tucked under her wing.
 
-“The king sent for you?”
+“Then we must arrange a day to meet this boy.”
 
-“He sent his son. He’s outside. Waiting.”
+“Well, he’s waiting outside. The King send him to see me home safely. ”
 
-Harold looked toward the door, then back at her. His eyes were tired, but something in them had sharpened.
+Harold looked toward the door, amazed, then back at her. His eyes were tired, but something in them had sharpened.
 
-“You spoke with him.”
+“So, you spoke with him.”
 
-“I did.” She paused. “He walked with me. He told me the truth. He promised—” She stopped, remembering Godfrey’s words. “He promised that Stanwey would not be taken. That you would not be left alone.”
+“I did.”
+
+“And why the tears?”
+
+She paused long, deep in thought. “I feel upset and afraid. The world seems upside down. I am no longer to be a maiden but a woman. I worry about Stanwey and about you, father. He said—He promised—” She stopped, remembering Godfrey’s words. “He promised that Stanwey would not be taken. That you would not be left alone.”
 
 Harold said nothing. He looked at her for a long time, his thumb moving slowly over her knuckles.
 
 “And you, daughter? What do you want?”
 
+“He doesn't talk much, but seems trustworthy.”
+
+“Nay, what do *you* want?”
+
 She thought of the road, the cart, the soldiers who had passed her by. She thought of the young man who had stood apart while she wept, giving her space, not reaching out. She thought of his voice when he said, *I will not take Stanwey from you. I will come to you.*
 
-“I want to know if he is who he says he is,” she said. “I want to know if he will keep his word. I want—” She stopped, her voice catching. “I want to be the one who chooses. Not the king. Not the vow. Me.”
+“I want to know if he is who he says he is,” she said. “I want to know if he will keep his word. I want—” She stopped, her voice catching. “I want to be the one who chooses, if my life is ending, I mean chageing. Not the king. Not the vow. Me.”
 
 Harold’s face softened. “Then you had better bring him in.”
 
