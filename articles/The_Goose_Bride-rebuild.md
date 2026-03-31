@@ -1200,7 +1200,7 @@ Henry nodded to the clerk, who scribbled furiously. Then he sat, reaching for hi
 
 The Queen lowered herself beside him, her voice barely above a murmur.
 
-" Eat your venison, my lord. It's a long night."
+"Eat your venison, my lord. It's a long night."
 
 He reached for the meat. "You're good at this."
 
@@ -1242,69 +1242,121 @@ Then came the rhythmic clump-clump of a bullock team, the cart behind them groan
 
 ### The way home
 
-It came up behind her, a low wooden frame on squeaking wheels, drawn by a pair of oxen. A man held a long goad to keep them on track; beside him sat a woman with a child in her lap. Two girls perched on the tailboard, their legs swinging, bare feet caked with dust. They had the look of people who had spent the morning delivering something to the castle and were now glad to be leaving.
+It came up behind her, the squeaking wheels of a low-slung bullock-wain. The wooden frame groaned under the weight of two pairs of oxen. The carter set the pace with his long ox-pole tapping a slow *clack* *clack* *clack* on the heavy carved yokes around their neck. Seated beside him on a makeshift bench—a thick-sawn plank—was a woman and a child bundled in her lap. On the tailboard were perched two girls, their legs swinging in a rhythmic blur, bare feet caked with the grey dust of the Rockingham road.
 
-The man pulled up. “Far to go?”
+The family seemed to be on the way home after a morning delivering goods, glad to be leaving the castle.
 
-“Stanwey,” Beatrice said, rising. “Five miles yet.”
+The man pulled up. Beatrice scented the sour‑tallow from the creaking axels.
 
-“Well, we turn off a bit before then, but we’ll take you to the Stanwey lane, if you like; so long as you don’t mind the dust from the quarries.”
+“Far to go?”
 
-Beatrice’s feet throbbed. “I’d be really grateful.”
+“Stanwey,” she said, rising. “Five miles yet.”
 
-She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a waterskin. Beatrice drank, thanked her, and settled the basket on her knees. It was an old basket, wicker, its lid now firmly pegged down. Nothing to mark it or its precious contents.
+“Well, we turn off a bit before then, but we’ll take you as far as the Stanwey lane, if you like; so long as you don’t mind the dust from the quarries.”
 
-The cart shifted, its iron-rimmed wheels biting into the white limestone ruts of the zigzag scarp. It was a jarring, metallic crunch on the steep descent, kicking up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
+Beatrice’s feet throbbed. “Oh, I’d be really grateful. Many thanks.”
 
-The man hummed a country ditty under his breath. The girls whispered to each other, glancing curiously at Beatrice.
+She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a waterskin. Beatrice drank, thanked her, and settled on her knees the old wicker basket. Its lid was now firmly pegged down, and there was nothing to suggest its precious gift inside.
 
-After half a mile the woman turned around, her eyes bright with the hunger for news. “So, you come from the castle, then?”
+The wain lurched forward. The iron‑shod wheels bit into the white limestone ruts of the zigzag scarp with a jarring, metallic crunch. On the steep descent, the heavy frame kicked up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way back and forth down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
 
-Beatrice nodded. “Delivered a tribute. A bird for the king’s table.”
+The man hummed a country ditty under his breath. The girls whispered to each other, glancing curiously at Beatrice, but they were soon enough joining in with their father’s tune, paying her little heed, keeping time with the clack of the ox‑pole.
 
-“Ah. Father and I just dropped off birds and flour ourselves.” She leaned closer. “Then you’ll have heard all the excitement, then?”
+Partway down the winding hillside, the woman half‑turned to Beatrice. “What brought you so far?”
 
-“Excitement?” Beatrice smiled.
+“I had to deliver a bird from our holding,” Beatrice said over the noisy metallic crunch of the wheels.
 
-“Oh.” The woman’s voice dropped. “The baker’s boy—the one we brought flour to—he says that one of the king’s sons is to marry. It caused a flap among the court when it was announced.”
+“Father raises the finest roosters in the whole of the Welland Valley, don’t you, John?”
 
-Beatrice looked down at her basket. “I was busy, so I didn't hear anything.” 
+The man grunted proudly. “For the sake of a dozen fine‑fleshed capons and a sack of fine‑bolted flour—for all that we had to haul up the hillside today. Best birds in the valley, though ’twas lost on the King’s men, what with that commotion over a single bird.”
 
-The man snorted. “Sons? Bastards, more like. The king’s got enough of them.”
+“Belike you heard the news at the gate?” The woman turned further to Beatrice, her eyes bright.
 
-“The boys can't help their parentage, John.” The woman waved a hand dismissively. “Anyways, some girl arrives with a bird, and would you believe that the king made a vow that she’s to wed a prince. At least that's what the boy said.”
+Beatrice looked up. “Which news?”
 
-Beatrice’s heart gave a sickening lurch. *A bird. I walked in with a bird. There must have been a lot of girls though. It can't be me.*
- 
-“They say she got to keep her bird,” the woman went on. “Unlike us. We gave up three good capons and a side of bacon, and what do we get?”
+“What a stir. The baker’s boy says a girl walked right into the King’s court with nothing but a bird in a basket.”
 
-“A blessing and a pat on the head.,” said the man. “Though we got paid.”
+Beatrice felt a chill pass through her, as if the sun had slipped behind a cloud. “A bird?”
 
-“That be sooth, John.” The woman sniffed. “I won't begrudge eating pottage for a month.”
+“Aye. Said she traded it for a man’s life.”
 
-Beatrice’s laugh came out strangely loud. ”Imagine such a thing. A girl keeping her bird.” But her hands were cold and her legs weak. *But it can't be me. I heard no vow. Not me.* 
+“Mother, you’re mixing it up!” The oldest girl raised her voice, kicking grey dust from the tailboard. “It was about the King’s son, not the bird. The bird was just the pledge. That’s why a Saxon girl has to wed the King’s own blood before the moon turns.”
 
-”Imagine that.” John turned on his seat to grin at her. “Oh, but you look quite pale, miss.” His gaze dropped to the basket. “What kind of bird did you bring all this way? It must have been heavy, you poor thing.”
+Beatrice blinked. The words came to her as if from a great depth, and she could not make sense of them.
 
-“Goose.” The word came out before Beatrice could stop it.
+The man snorted, tapping the lead bullock to straighten up. “Blood? Illegitimate, more like. The King’s got more than a dozen by all accounts.”
+
+“John, the boys can’t help their parentage.” The woman waved a hand dismissively.
+
+“Maybe so, mother, but you must admit it’s odd for a King not to care who his son marries.”
+
+Beatrice noticed the girl staring at the basket on her knee. To distract her, she leaned over and whispered as a joke, “Whatever do they mean? Is it some royal ritual?”
+
+The girl leaned closer, her voice a conspiratorial hiss. “No, silly. The court wanted the King’s son to marry a princess, but the King said no.”
+
+The other girl tugged at her sister’s sleeve. “But why would the King say no to a princess?”
+
+“He didn’t say no to a princess,” the elder girl said, with the authority of someone who had heard the story from a kitchen maid. “He said anyone could marry his son.”
+
+“Even me?” The younger girl’s eyes twinkled.
+
+“No, silly. You would have to have been the next woman to come into the hall. It was a dare.”
+
+“What’s a dare?” the younger demanded to know, voice loud and eyes wide.
+
+“A vow,” corrected the father. “It was a vow. Sworn before the whole court. The next girl to walk into the hall would be wed to his son, whether princess or plain folk like us.”
+
+Beatrice pressed her hand to her stomach, which had begun to hurt.
+
+The mother, oblivious, leaned closer to her husband. “We gave up a dozen good capons, a side of bacon and a sack of flour, and what do we get?”
+
+“A blessing and a pat on the head,” said the man. “Though we got paid.”
+
+“That be sooth, John.” The woman sniffed. “I won’t begrudge eating pottage for a month, but it’s not a bird.”
+
+*A bird.* Beatrice hugged the basket without meaning to, her arms tightening around the wicker as if to keep it from being taken.
+
+The older girl was saying something about a goose making everyone laugh. The words came to Beatrice as sounds without meaning. She could feel the basket on her lap, the weight of it, the warmth of the creature inside stirring against the woven willow.
+
+*Her bird. She had walked into the hall with her bird. The king had laughed and smiled at her. She had saved it. That was all. That was what had happened.*
+
+But something pressed at her mind, a thought she did not want to look at directly. It was like a stone in her shoe—she could feel it, but she would not stop to remove it.
+
+*I walked in. Yes, I walked into the hall. But they would have told me.*
+
+She clutched the thought like a rope. *If it was me, they would have said. The queen would have said. Someone would have pulled me aside and told me. I walked out and no one stopped me. No one said a word. I am safe.*
+
+Her fingers were white on the wicker. *It is not me. It cannot be me. It is some other girl with a goose, some girl they did not tell, some girl who was not me.*
+
+The mother’s voice broke through. “As I said before, she got to take her bird home with her. Walked right out of the hall with it under her arm.”
+
+Beatrice heard herself laugh. It came out loud, too loud, like the caw of a rook startled from a branch. “Imagine such a thing. A girl keeping her bird.”
+
+Her hands were cold. Her legs were weak. The words *it is not me* ran through her mind like the refrain of a song she could not stop singing.
+
+“Imagine that.” John turned on his seat to grin at her. “Oh, but you look quite pale, miss.” His gaze dropped to the basket. “What breed of bird did you bring all this way? It must have been heavy, you poor thing.”
+
+“Goose.” The word came out before she could catch it.
 
 The girls exchanged glances. “A goose, mother! Goosie goosie!”
 
-The basket shifted all by itself on Beatrice's lap.
+The basket shifted on Beatrice’s lap, and she felt the warm beak press against her hand through the wicker.
 
-The woman laughed. “Silly, I thought I heard a real goose for a moment. Yes, girls a goose; a great white thing. Caused a commotion, chased the clerks. Imagine that—a goose chase in the king’s hall!”
+The woman laughed. “Silly, I thought I heard a real goose for a moment. Yes, girls, a goose; a great white thing. Caused a commotion, chased the clerks. Imagine that—a goose chase in the king’s hall!”
 
-The girls giggled. 
+The girls giggled.
 
-“A chase? Mercy me.” Beatrice’s voice wavered, seeming distant from her, surreal. *A commotion. The king caught Goosie. That was me. But I left. I didn’t hear any vow. Not me.*
+“A chase? Mercy me.” Beatrice’s voice wavered, seeming to come from somewhere outside herself. *A commotion. The king caught Goosie. That was me. That was me.*
 
-She could feel the woman's sharp gaze watching, measuring. Beatrice ignored her and wriggled herself up against the backboard, behind John's seat. She leaned back and shut her eyes for a minute. *She doesn’t know, and it wasn’t me. Not me. Not at Stanwey.* She tried to imagine her own life as a princess and her stomach hurt. 
+She could feel the woman’s sharp gaze watching, measuring. Beatrice wriggled herself up against the backboard, behind John’s seat, and shut her eyes. *She does not know. It is not me. It cannot be me. Not me. Not at Stanwey.*
+
+She pressed her forehead against the rough wood and tried to think of nothing, but the name *Stanwey* was like a prayer, and she repeated it until the cart rolled on and the voices faded into the clack of the ox‑pole and the grey dust of the road.
 
 ---
 
 The cart rumbled slowly on, the bullocks flicking their ears and tails at the flies. 
 
-The rhythmic beat of horse hooves sounded from behind—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them past.
+A new sound from behind: rhythmic beat of horse hooves—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them past.
 
 Two men in the king’s colours drew alongside, their horses blowing. The older guard scanned the cart, his eyes passing over the family, over Beatrice, over the basket. “Good folk,” he said, “we seek a young woman on this road, travelling alone for Stanwey, with a goose.”
 
@@ -1410,7 +1462,7 @@ In a hasty turn, she faced away. A quick scrub with linen from her belt-purse cl
 
 She nodded, looking away, taking a few stiff steps. He fell in beside her, leading his horse. The animal’s hooves made soft sounds on the packed earth.
 
-He looked back toward the place where the cart had disappeared. “You rode with the cartier?”
+He looked back toward the place where the cart had disappeared. “You rode with the carter?”
 
 “My feet were sore. They gave me a lift.” 
 
