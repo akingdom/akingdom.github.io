@@ -730,11 +730,11 @@ Henry's steely gaze shifted to the door where his men lingered. Inwardly, he kne
 
 "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
 
-Matilda smiled politely. “Peace is a rare gift, my lord,” she said softly, stepping closer. “It is the very thing you won in the County of Anjou back in February. Remember the treaty at Gisors last year?”
-
+“Peace is a rare gift, my lord,” said Matilda softly, stepping closer. “It is the fruit of the seeds you have planted. Our son William is to marry into Anjou, for example.”
+ 
 Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
 
-“And yet, you pressed the French King at Gisors, such that he yielded the west lands to you,” she countered. “Brittany—our rugged sentinel—it is yours in all but name now, and your daughter sits there as Duchess. It is a solid shield for our borders overseas.”
+“And a sword is only as strong as the hand that holds it,” she countered smoothly. “The French King yielded at Gisors because he saw your reach was long. But a reach that is too long can become a strain. We must decide if Brittany is to be a shield or a weight, since our Matilda FitzRoy is to sit there as Duchess.”
 
 She watched his jaw relax. He liked the map she was drawing.
 
@@ -744,83 +744,77 @@ Only then did his expression soften a little. "What news?"
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
+---
+
 ## Chapter 8 — The Breton Offer
 
-Matilda leaned closer to the King, so that he alone could hear her. "A message from Brittany, my lord."
+Queen Matilda smiled slightly and drew a parchment from inside her sleeve, permitting herself a little drama.
 
-"Is our daughter in good health? What news?"
+“My lord, this letter concerns Duke Conan’s daughter, Agnes; she is fair and of marriageable age. They propose a match… with your son Godfrey.”
 
-The Queen smiled slightly and drew a parchment from inside her sleeve. 
-
-"Nay, sire, this concerns Duke Conan's daughter, Agnes; she is fair and of marriageable age. They propose a match... with your son Godfrey."
-
-Henry's eyes narrowed, but he said nothing. Godfrey was one of his many sons, but lacked lands, great wealth or powerful allies. Men pressed upon such sons, hoping to bend the king through them.
+King Henry’s eyes narrowed, but he said nothing. Godfrey was one of his many sons, but lacked lands, great wealth, or powerful allies. Men pressed upon such sons, hoping to bend the king through them.
 
 The Queen turned to face the King fully, seeking reassurance.
 
-"Is it not a clever move, my lord? Why, even old Alain (the Duke's father) gives us his blessing."
+“Is it not a clever move, my lord? Why, even old Alain (the Duke’s father) gives us his blessing.”
 
-Slowly, very slowly, a smile spread across Henry's face; but not a warm smile, rather like that of a man who had just spotted a fox climbing into his henhouse.
+Slowly, very slowly, a smile spread across Henry’s face; but not a warm smile—rather like that of a man who had just spotted a fox climbing into his henhouse.
 
-"Alain and Conan *both* want my son?"
+“Alain and Conan *both* want my son? Is my daughter not enough? The House of Cornouaille has grown hungry indeed.”
 
-He reread the letter, his thumb tracing the wax seal of the House of Cornouaille. 
+He reread the letter, his thumb tracing the wax seal. Then he set it down.
 
-The Queen pressed forward, uncertainly. “It would reinforce our borders. Alain is to retire to a monastery and so wishes to strengthen ties to our house with a second knot.”
+“Old Alain is fading. He looks at his son Conan and wonders: is he strong enough to stand alone? So he reaches for Godfrey as a second string for his bow, in case the first should fail. This wind bodes ill.”
 
-Henry set the parchment down. "That is the point. Old Alain is fading and so he must look at his son Conan and wonder: is he strong enough to stand alone? So he reaches for Godfrey as a second to his son, in case the first should fail. It is an ill wind blowing from the south."
+The Queen frowned. “I see no treachery in it. Godfrey has no lands, little beyond your name. He prefers a scroll to a sword. A Breton marriage would bind them closer to us and give him a place.”
 
-The Queen frowned. "What treachery is found in a knot that only binds us closer as family?"
+Henry’s jaw tightened. “Therein lies the danger. Conan is fickle. If trouble comes, he will expect me to march—to shed English blood for his quarrels. I have spent the summer in Wales; I will not be drawn into Breton wars.” He shook his head. “This wind bodes ill.”
 
-Henry laughed his short, sharp bark. "Fie, I say! Family feeling? Nay Madam; my own brother sits in a dungeon for trying to steal my crown."
+“You speak ill of family, yet my brother came down from Scotland to support you, as did others. Remember too your seed. Our son William will have Anjou. Your daughter Matilda FitzRoy will have Brittany. Even your nephews have lands over the sea.” 
 
-He leaned forward.
+The Queen’s voice dropped into a more serious tone, in a rare display of frustration. 
 
-"Once Godfrey is there, with Breton lords whispering in his ear—a king's son, a warrior's blood—how long before some start thinking *he* would make a fine duke? How long before Conan sees the threat and turns on him? Then I must choose: lose my son, or march on Brittany."
+“Some of your barons whisper and call Godfrey *Lack-land's shadow*. They will watch to see what becomes of him.”
 
-He crumpled the letter.
+Henry stared at her. “William is barely ten, and already you fear shadows.”
 
-"No. If Godfrey is to be a lion, let him grow his claws in my sight. Or would you have me send him back to Salisbury Cathedral? Here is where he belongs."
+She met his gaze. “I fear what whispers may grow in silence, not shadows.”
 
-The Queen's voice rose sharply, in a rare display of annoyance with the King. "Our son William has Anjou. Your daughter Matilda FitzRoy has Brittany. Your nephews have lands over the sea. Yet what lands has Godfrey, and what name?"
+Henry leaned back, his expression unreadable. After a long moment, he spoke, his voice low. “Since when did my queen concern herself so much with whispers?”
 
-Her voice dropped to a loud whisper.
-
-"You know what they call him. A weak whelp. A sad shadow."
-
-In the shadows near the pillar, Godfrey's face showed nothing. He had learned, long ago, he was safer that way.
-
-Henry raised the queen's cup to his lips before lowering it carefully onto the oak. The moment of silence was more terrifying than a shout.
-
-"A weak whelp," he repeated, his voice a low rasp. "A shadow."
-
-The Queen recoiled. "Henry, I meant no slight—"
-
-"You mean to send him across the sea," Henry cut her off, "where he cannot trouble our William."
-
-The Queen said nothing.
-
-Henry stared at her. "William is barely ten, and already you fear shadows."
-
-He leaned back and shook his head in disbelief.
-
-"You speak of Brittany as a sanctuary," he rasped. "I see it as a whetstone where an enemy may sharpen their axe. Would you place a blade in my rival's hand? Pray they do not set it against our William. By all means find Godfrey a wife, but keep him nearby."
-
-The Queen kept quiet and the hall held its breath, until at long last the king broke the silence.
-
-"My lifeblood is in all my children and they each bring us much joy. If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it."
+In truth, he knew the answer. He turned to the fire, and the hall held its breath.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 ## Chapter 9 — The Ledger and the Lion
 
-Henry stood with his back to the room, a silhouette carved against the roaring central hearth. Still stinging from the Queen's comments about his son, the King did not move for a long moment; he seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
+Henry stood with his back to the room, a silhouette carved against the roaring central hearth. His words to his queen—since when did she concern herself with whispers—were meant as concern for her, even if expressed poorly. She was not given to fear; if she heard whispers, they were real.
 
-He turned suddenly, his voice not a shout, but a low, resonant vibration that commanded the sudden silence of the hall.
+He too was concerned. Despite many attempts, only eleven-year-old Matilda and ten-year-old William Adelin had survived. William was the only legitimate male heir to the crown of England, and if something happened to him—it did not bear thinking about.
+
+He sighed and for a long moment he did not move. 
+
+He knew what she was not saying: that there were those who whispered the name “Clito” in the dark—his brother’s son, growing in stature and supporters in the French court, a living alternative to his line. That the succession was a thread, and threads could be cut.
+
+*William is barely ten, and already you fear shadows.*
+
+He thought of his other children. His daughters, married well. His sons, scattered like seed on stony ground. Some he had favoured; others he had ignored. Godfrey—quiet, watchful Godfrey—was the one who most reminded him of himself at that age. The one who waited. The one who had been called a shadow for such a long time.
+
+*There are those who think my departure for Normandy is an opportunity. Enemies who remember the names of Bellême and Clito. They will watch to see which way the wind blows.*
+
+Henry glanced at the barons and knights about the hall, conquered men from Wales, warriors from Scotland, Normandy and England, Settled Danes, Saxons and Jutes. Not all were true friends—men who could be relied on. For soon he must cross again to Normandy—his father's country and now his. *Too many whisperers.*
+
+He seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
+
+“My father—”
+
+The King spoke suddenly, his voice low, resonant vibration that commanded the sudden silence of the hall.
 
 "My father was mocked as the 'Tanner's Grandson' by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
 
 Henry's eyes scanned the far wall, unseeing. "I had no lands. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
+
+The hall was still. Men who had grumbled over the cost of the Welsh campaign and the “aid” for the Empress’s wedding held their tongues. The King was leaving for Normandy in a fortnight, and when a king crossed the water, whispers multiplied.
 
 The rhetoric was cut short by a dry, rhythmic rustle of parchment being squared up.
 
@@ -850,9 +844,9 @@ Godfrey heard it. A coin. His posture tightened at this sudden appraisal. He gla
 
 Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
 
-For a long moment, Henry said nothing. The anger had drained from his face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who saw stepsons as obstacles to be tidied away.
+For a long moment, Henry said nothing. The anger had drained from his face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son.
 
-Then his gaze drifted past them, across the hall—and stopped.
+Henry saw unfriendly faces scattered about the hall, those that would smile in his presence and plot in his absence. Then his gaze drifted past them—and stopped.
 
 In the shadows near the door, half-hidden behind a pillar, sat Godfrey. His son. While knights and lords shifted nervously under Henry's silence, the boy sat perfectly still. Not cowering. Not pleading. Simply... waiting. Watching the debate about his future as if it were a story about someone else.
 
@@ -912,7 +906,7 @@ Months earlier, Beatrice and her father had travelled up to the Midsummer Feast 
 
 Insulted, Beatrice had politely begged to be excused, then to go and find her father.
 
-He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding should be more accommodating to a Norman blade. Else, your lands *escheat* to the King and your hall is burned for charcoal!”
+He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding—she should be more accommodating to a Norman blade. Else, your lands *escheat* to the King and your hall is burned for charcoal!”
 
 She had told him coldly that she preferred men who worked for their supper, not some fine *popinjay* who lived off the sweat of others.
 
@@ -1086,7 +1080,8 @@ She considered her words. "The girl is… unexpected."
 
 Henry grinned. "That's the point."
 
-"Is it?" A pause. "My lord, consider well the reputation a low-born woman will bring your son."
+“Is it?” She let the question hang. “My lord, what of the barons? A Saxon thegn’s daughter—no alliance, no dowry, no lands to speak of. They will say you have slighted your son.”
+
 
 The grin faded. "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—" He stopped, looking toward the door where Beatrice had vanished. "She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?"
 
@@ -1126,7 +1121,7 @@ She met his eyes. "Depends on the wolf."
 
 Something passed between them—an old understanding, a shared history of managing the unmanageable.
 
-"And the tamer," Henry said. "I'll leave that to you."
+"Depends on the tamer, but I'll leave that to you," Henry said.
 
 A real smile now. "You always do."
 
@@ -1828,7 +1823,7 @@ She smiled, and went out to fetch the wood.
 
 ---
 
-## Chapter 15 – The Courtship (Mid‑November 1114)
+## Chapter 15 – The Courtship
 
 ### The Courtship
 
@@ -2069,6 +2064,8 @@ Beatrice looked down at her hands. She did not trust herself to speak.
 
 >>> NEED FOLLOWING plus any planned missing bits for... Departure – The week of preparation, the new reeve and cook, the farewell. AND The Road to Winchester – The journey, Beatrice’s stiffness, the arrival at Westminster (transition to Chapter 17).
 
+“We are going to Winchester in a fortnight. The court has been too long in the forest, and I have business in the city—and after that, I have a ship to catch.”
+
 
 
 
@@ -2140,7 +2137,7 @@ She let out a long breath and looked ahead, toward the road that would take them
 
 ---
 
-## Chapter 17 – First Court Exposure (November 1114)
+## Chapter 17 – First Court Exposure
 
 Godfrey had arranged for a horse—a placid grey mare with a soft mouth and patient eyes—and Beatrice had been too proud to refuse. She carried a basket and a bag with a little food, and her clothes. She had tucked Goosie into the basket with her gowns, ignoring her father’s explicit orders. He would forgive her. He always did.
 
@@ -2395,7 +2392,7 @@ But Queen Matilda, watching from the high table, noted the set of Beatrice's jaw
 
 ---
 
-## Chapter 17 — Christmas Court (December 1114)
+## Chapter 17 — Christmas Court
 
 The court assembled at Westminster for Christmas. Nobles from across England, bishops, barons, and foreign visitors filled the halls. Beatrice, now dressed in gowns provided by the Queen's own seamstress, moved through the crowds with growing confidence.
 
@@ -2614,6 +2611,10 @@ Beatrice caught the Queen's eye across the hall. Matilda gave the smallest of no
 *She knows. She's watching. She's protecting.*
 
 Beatrice almost smiled.
+
+---
+
+“There are those who think the King’s departure for Normandy is an opportunity. Men who remember Bellême, or who whisper the name Clito.”
 
 ---
 
@@ -3664,26 +3665,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 ---
 
 # THE GOOSE BRIDE — MASTER TIMELINE (FINAL)
-## *1114-1115 Edition*
-
----
-
-## Fixed Historical Anchors
-
-| Date | Event | Type | Source |
-| :--- | :--- | :--- | :--- |
-| **1066** | Norman Conquest | Real | History |
-| **1068** | Henry I born | Real | History |
-| **c. 1080** | Matilda of Scotland born | Real | History |
-| **1100** | Henry becomes king; marries Matilda | Real | History |
-| **1102** | William Adelin born | Real | History |
-| **March 1113** | Treaty of Gisors; Matilda FitzRoy betrothed to Conan | Real | History |
-| **March-July 1114** | Henry in Normandy, then Wales campaign | Real | History |
-| **Aug-Sept 1114** | Henry returns, consolidates after Wales | Real | History |
-| **Mid-Oct 1114** | Royal progress through Midlands | Real | History |
-| **Tuesday, 20 Oct 1114** | **KING'S HALL AT ROCKINGHAM** | **Story Fixed Point** | Our anchor |
-| **1118** | Queen Matilda dies | Real | After story |
-| **1120** | White Ship disaster | Real | After story |
+## *1114-1115 Revised (3) Edition*
 
 ---
 
@@ -3707,6 +3689,36 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Lady Margaret** | Fic | c. 1085? | ~18 | **29** | ~30 | Beatrice's daily mentor |
 | **Goosie** | Fic | 1103 | 0 | **11** | ~12 | Hatched spring 1103 |
 
+## Historical Context — Mid‑August Daylight
+
+| Factor | Value |
+| :--- | :--- |
+| **Sunrise** | ~5:45 AM |
+| **Sunset** | ~8:30 PM |
+| **Hunting start** | Dawn (5:45 AM) |
+| **Hunt duration** | 3-5 hours |
+| **Dusk** | ~8:00 PM |
+| **Full dark** | ~9:00 PM |
+
+## Fixed Historical Anchors
+
+| Date | Event | Type | Source |
+| :--- | :--- | :--- | :--- |
+| **1066** | Norman Conquest | Real | History |
+| **1068** | Henry I born | Real | History |
+| **c. 1080** | Matilda of Scotland born | Real | History |
+| **1100** | Henry becomes king; marries Matilda | Real | History |
+| **1102** | William Adelin born | Real | History |
+| **March 1113** | Treaty of Gisors; Matilda FitzRoy betrothed to Conan | Real | History |
+| **June–July 1114** | Henry’s Welsh campaign | Real | History |
+| **Early Aug 1114** | Campaign concludes; Welsh princes submit | Real | History |
+| **Mid-Aug 1114** | **Royal court at Rockingham Castle** | **Story Fixed Point** | Our anchor |
+| **Late Aug 1114** | Court moves to Winchester | Real | History |
+| **1–10 Sep 1114** | Winchester council; preparations for Normandy | Real | History |
+| **21 Sep 1114** | Henry crosses to Normandy | Real | History |
+| **1118** | Queen Matilda dies | Real | After story |
+| **1120** | White Ship disaster | Real | After story |
+
 ---
 
 ## Master Timeline — Complete (1103-1115)
@@ -3727,84 +3739,80 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 ### PART TWO: THE YEARS BETWEEN (1109-1114)
 
-| Year | Date | Beatrice's Age | Event | Type | Notes |
+| Year | Date | Beatrice’s Age | Event | Type | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1109-1114** | — | 11-16 | Beatrice runs manor | Fic | Harold declines; Goosie follows always |
-| **March-July 1114** | — | 16 | Henry in Normandy/Wales | Real | (off-stage) |
-| **Aug-Sept 1114** | — | 16 | Henry returns, consolidates | Real | |
-| **Early Oct 1114** | — | 16 | Royal progress toward Rockingham | Real | Court moves |
+| **June–July 1114** | — | 16 | Henry’s Welsh campaign | Real | (off‑stage) |
+| **Early Aug 1114** | — | 16 | Campaign ends; Welsh princes submit at Shrewsbury | Real | Gruffudd ap Cynan, Owain ap Cadwgan |
+| **Mid-Aug 1114** | — | 16 | Royal court at Rockingham | Real | Hunting, councils, story begins |
 
 ---
 
-## Historical Context — Daylight in Late October
+### PART THREE: THE GOOSE VOW (Mid‑August 1114)
 
-| Factor | Value | Source |
+All times approximate, based on a typical royal day at a hunting lodge.
+
+| Date | Time | Event | Beatrice’s State | Attack | Defense | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon 15 Aug** | ~10:00 AM | Messenger arrives at Stanwey | Anxious | Purveyance | Beatrice decides to go | Harold worried |
+| **Tue 16 Aug** | 5:45 AM | Hunt departs Rockingham | — | — | — | “Frosty morning” (summer mornings can be cool) |
+| **Tue 16 Aug** | 9:30 AM | Hunt returns (failed) | — | — | — | Henry’s foul mood |
+| **Tue 16 Aug** | 9:30-10:30 AM | Political debate (Ch 7-9) | — | — | — | Brittany offer, Roger, the vow |
+| **Tue 16 Aug** | 10:30 AM | Beatrice arrives at lodge | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
+| **Tue 16 Aug** | 10:45 AM | Henry recognizes Harold | Relieved | Sir Guy’s mockery | Henry shames Sir Guy | Queen observes |
+| **Tue 16 Aug** | 11:00 AM | Queen’s intervention, larder added | Unaware | — | Queen whispers vow | “Let it be recorded” |
+| **Tue 16 Aug** | 11:15 AM | Formal betrothal announced | (already gone) | — | — | Henry: “Would you rather the boy marry the goose?” |
+| **Tue 16 Aug** | 11:30 AM | Godfrey commanded to escort her | — | — | — | Henry: “Take her home” |
+| **Tue 16 Aug** | 11:45 AM | Godfrey catches Beatrice on road | Confused | — | Godfrey’s patience | Connection begins |
+| **Tue 16 Aug** | 12:30 PM | Stanwey arrival; Godfrey waits | Nervous | — | He waits outside | Harold watches |
+| **Tue 16 Aug** | 12:30-1:00 PM | Beatrice tells Harold | — | — | — | — |
+| **Tue 16 Aug** | 1:00 PM | Harold’s recognition (“wolf/tree”) | Confused | — | Harold pieces it together | “A wolf may find shade under a good tree” |
+| **Tue 16 Aug** | 1:30 PM | Godfrey called inside | — | — | — | Beatrice watches through window |
+| **Tue 16 Aug** | 1:30-2:00 PM | Godfrey asks Harold properly | Waiting | — | Harold says yes (to courting) | Private conversation |
+| **Tue 16 Aug** | 2:00-2:45 PM | Conversation, Goosie accepts | Joyful | — | Goose chooses him | “She knows who she is” |
+| **Tue 16 Aug** | 3:00 PM | Godfrey departs Stanwey | Hopeful | — | Promise to return | Afternoon |
+| **Tue 16 Aug** | 4:00 PM | Godfrey returns to Rockingham | — | — | — | Still daylight |
+| **Tue 16 Aug** | ~6:00 PM | Supper at Rockingham | — | — | — | Queen’s “long night” comment |
+
+---
+
+### PART FOUR: KING’S VISIT TO STANWEY (Late August 1114)
+
+After the vow, Henry fulfills his promise to visit Harold. This visit likely occurs within a week of the Rockingham events.
+
+| Date | Event | Notes |
 | :--- | :--- | :--- |
-| **Sunrise** | ~6:40 AM | 52°N latitude, late October |
-| **Sunset** | ~4:50 PM | 52°N latitude, late October |
-| **Hunting start** | Dawn (6:40 AM) | Medieval hunts began at first light |
-| **Hunt duration** | 3-5 hours | Failed hunt could return earlier |
-| **Dusk** | ~4:15 PM | Twilight begins before sunset |
-| **Full dark** | ~5:30 PM | After sunset |
+| **c. 20–25 Aug** | King Henry visits Stanwey | Harold and Henry reminisce; the “fathers’ bargain” is struck; the queen’s servant is offered; Henry announces his intention to go to Winchester and then Normandy. |
 
----
+### PART FIVE: FIRST COURT EXPOSURE (Early September 1114)
 
-## Revised Table for PART THREE
+The court moves to Winchester in late August; Beatrice’s first exposure happens as the court prepares for Henry’s departure.
 
-| Date | Time | Event | Beatrice's State | Attack | Defense | Notes |
+| Date | Day/Week | Event | Beatrice’s State | Attack | Defense | Who’s Doing What |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon 19 Oct** | ~10:00 AM | Messenger arrives at Stanwey | Anxious | Purveyance | Beatrice decides to go | Harold worried |
-| **Tue 20 Oct** | 6:40 AM | Hunt departs Rockingham | — | — | — | "Frosty morning" |
-| **Tue 20 Oct** | 10:30 AM | Hunt returns (failed) | — | — | — | Henry's foul mood |
-| **Tue 20 Oct** | 10:30-11:30 AM | Political debate (Ch 7-9) | — | — | — | Brittany offer, Roger, the vow |
-| **Tue 20 Oct** | 11:30 AM | Beatrice arrives at lodge | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
-| **Tue 20 Oct** | 11:45 AM | Henry recognizes Harold | Relieved | Sir Guy's mockery | Henry shames Sir Guy | Queen observes |
-| **Tue 20 Oct** | 12:00 PM | Queen's intervention, larder added | Unaware | — | Queen whispers vow | "Let it be recorded" |
-| **Tue 20 Oct** | 12:00 PM | Typical time for the midday meal to be served | — | — | — | — |
-| **Tue 20 Oct** | 12:15 PM | Formal betrothal announced | (already gone) | — | — | Henry: "Would you rather the boy marry the goose?" |
-| **Tue 20 Oct** | 12:30 PM | Godfrey commanded to escort her | — | — | — | Henry: "Take her home" |
-| **Tue 20 Oct** | 12:47 PM | Godfrey catches Beatrice on road | Confused | — | Godfrey's patience | Connection begins |
-| **Tue 20 Oct** | 1:30 PM | Stanwey arrival; Godfrey waits | Nervous | — | He waits outside | Harold watches |
-| **Tue 20 Oct** | 1:30-2:00 PM | Beatrice tells Harold | — | — | — | — |
-| **Tue 20 Oct** | 2:00 PM | Harold's recognition ("wolf/tree") | Confused | — | Harold pieces it together | "A wolf may find shade under a good tree" |
-| **Tue 20 Oct** | 2:30 PM | Godfrey called inside | — | — | — | Beatrice watches through window |
-| **Tue 20 Oct** | 2:30-3:00 PM | Godfrey asks Harold properly | Waiting | — | Harold says yes (to courting) | Private conversation |
-| **Tue 20 Oct** | 3:00-3:45 PM | Conversation, Goosie accepts | Joyful | — | Goose chooses him | "She knows who she is" |
-| **Tue 20 Oct** | 4:00 PM | Godfrey departs Stanwey | Hopeful | — | Promise to return | Dusk approaching |
-| **Tue 20 Oct** | 4:45 PM | Godfrey returns to Rockingham | — | — | — | Twilight |
-| **Tue 20 Oct** | 5:30 PM | Full dark | — | — | — | — |
-| **Tue 20 Oct** | ~6:00 PM | Supper at Rockingham | — | — | — | Queen's "long night" comment |
+| **c. 1–3 Sep** | +2 | Beatrice arrives at Winchester | Nervous | Stares, whispers | Godfrey’s presence | Court watches |
+| **c. 4 Sep** | +2 | Meeting the half‑sisters (Avice & Eustacia) | Confused | Cool politeness, veiled insults | Beatrice misses half | Sisters: Avice (21), Eustacia (19) |
+| **c. 5 Sep** | +2 | First formal dinner | Overwhelmed | Wrong knife; snickers | Lady Margaret corrects | Margaret assigned (Queen’s doing) |
+| **c. 6 Sep** | +2 | Sir Guy’s first rumor | Unaware | Spreads whisper | Duchess (not yet) hears later | Sir Guy schemes |
+| **c. 7–10 Sep** | +2-3 | Daily tutelage with Lady Margaret | Learning | Small cruelties | Margaret’s teaching | “They test you. Ignore it.” |
+| **c. 8 Sep** | +2 | Half‑sister wine spill | Humiliated | Wine on her only gown | No reaction; Queen’s maid notices | Queen hears report |
+| **c. 10 Sep** | +3 | Godfrey visits Stanwey (weekend) | Relieved | — | Time together; Goosie accepts | Harold watches |
 
 ---
 
-### PART FOUR: FIRST COURT EXPOSURE (November 1114)
+### PART SIX: STANWEY INTERLUDE & HENRY’S DEPARTURE (Mid‑September 1114)
 
-| Date | Day/Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 1-3 Nov** | +2 | Beatrice returns to court (first visit) | Nervous | Stares, whispers | Godfrey's presence | Court watches |
-| **c. 4 Nov** | +2 | **Meeting the half-sisters (Avice & Eustacia)** | Confused | Cool politeness, veiled insults | Beatrice misses half | Sisters: Avice (21), Eustacia (19) |
-| **c. 5 Nov** | +2 | First formal dinner | Overwhelmed | Wrong knife; snickers | Lady Margaret corrects | Margaret assigned (Queen's doing) |
-| **c. 6 Nov** | +2 | Sir Guy's first rumor | Unaware | Spreads whisper | Duchess (not yet) hears later | Sir Guy schemes |
-| **c. 7-10 Nov** | +2-3 | Daily tutelage with Lady Margaret | Learning | Small cruelties | Margaret's teaching | "They test you. Ignore it." |
-| **c. 8 Nov** | +2 | Half-sister wine spill | Humiliated | Wine on her only gown | No reaction; Queen's maid notices | Queen hears report |
-| **c. 10 Nov** | +3 | Godfrey visits Stanwey (weekend) | Relieved | — | Time together; Goosie accepts | Harold watches |
-| **c. 12-15 Nov** | +3-4 | Second week at court | More confident | Whispers continue | Margaret's guidance | Sisters plan escalation |
+| Date | Week | Event | Notes |
+| :--- | :--- | :--- | :--- |
+| **c. 12–18 Sep** | +4 | Godfrey at Stanwey (extended) | Helping with manor, courtship deepens |
+| **c. 14 Sep** | +4 | Goosie’s full acceptance | Goose chooses Godfrey |
+| **c. 16 Sep** | +4 | Harold’s health wobbles | Frailty visible |
+| **21 Sep** | — | **Henry departs for Normandy** | Off‑stage; court now under Queen Matilda’s regency |
+| **c. 22–30 Sep** | +5 | Court remains at Winchester | Beatrice continues her exposure; rumours begin |
 
 ---
 
-### PART FIVE: STANWEY INTERLUDE (Mid-November 1114)
-
-| Date | Week | Event | Beatrice's State | Attack | Defense | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 16-23 Nov** | +4 | Godfrey at Stanwey (extended) | Content | — | Daily life; helping with manor | Harold: "He's good for her" |
-| **c. 18 Nov** | +4 | Goosie's full acceptance | Joyful | — | Goose chooses him | "She knows who she is" |
-| **c. 20 Nov** | +4 | Harold's health wobbles | Worried | His frailty visible | Beatrice tends him; Godfrey helps | Harold hides pain |
-| **c. 22 Nov** | +4 | Letter from court: Christmas invitation | Nervous, excited | — | Godfrey: "I'll be with you" | Queen extends invitation? |
-| **c. 24 Nov** | +5 | Return to court for pre-Christmas | Bracing | — | — | Court prepares for Yule |
-
----
-
-### PART SIX: CHRISTMAS COURT & DUCHESS VISIT (December 1114)
+### PART SEVEN: CHRISTMAS COURT & DUCHESS VISIT (December 1114)
 
 | Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -3821,7 +3829,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 ---
 
-### PART SEVEN: THE DARKEST (January 1115)
+### PART EIGHT: THE DARKEST (January 1115)
 
 | Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -3839,7 +3847,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 ---
 
-### PART EIGHT: QUEEN'S SECRET PROTECTION (Late January - February 1115)
+### PART NINE: QUEEN'S SECRET PROTECTION (Late January - February 1115)
 
 | Date | Week | Event | Beatrice's State | Attack | Hidden Defense | Visible Defense |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -3854,7 +3862,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 ---
 
-### PART NINE: PUBLIC TURN (February - March 1115)
+### PART TEN: PUBLIC TURN (February - March 1115)
 
 | Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -3866,7 +3874,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 ---
 
-### PART TEN: WEDDING (Spring 1115)
+### PART ELEVEN: WEDDING (Spring 1115)
 
 | Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -3894,23 +3902,24 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 
 | Date | Event | Emotional State (1-10) |
 | :--- | :--- | :--- |
-| 20 Oct 1114 | Betrothal, walk, Harold's blessing | 8 (wonder, confusion) |
-| 1-10 Nov 1114 | First court, half-sisters | 5 (shaken, lonely) |
-| 5 Nov 1114 | Dinner humiliation | 3 |
-| 16-23 Nov 1114 | Stanwey with Godfrey | 9 (happy) |
-| 18-27 Dec 1114 | Duchess visit, Christmas | 8 (ally found) |
-| 28 Dec 1114 - 10 Jan 1115 | Duchess leaves, whispers, rumors | 4 (descending) |
-| 12 Jan 1115 | Harold collapses | 2 |
-| 20 Jan 1115 | Overhears cruelty | 1 (lowest) |
-| 20 Jan 1115 (night) | Queen finds her, Queen's speech | 4 (turn) |
-| 22 Jan - 1 Feb 1115 | Queen's secret protection | 5 (rising) |
-| 2 Feb 1115 | Candlemas trap fails | 6 |
-| 14 Feb 1115 | Queen's public acknowledgment | 9 |
-| 20 Apr 1115 | Wedding | 10 |
+| **16 Aug 1114** | Betrothal, walk, Harold’s blessing | 8 |
+| **1–10 Sep 1114** | First court, half‑sisters | 5 |
+| **5 Sep 1114** | Dinner humiliation | 3 |
+| **12–18 Sep 1114** | Stanwey with Godfrey | 9 |
+| **18–27 Dec 1114** | Duchess visit, Christmas | 8 |
+| **28 Dec 1114 – 10 Jan 1115** | Duchess leaves, whispers, rumors | 4 |
+| **12 Jan 1115** | Harold collapses | 2 |
+| **20 Jan 1115** | Overhears cruelty | 1 |
+| **20 Jan 1115 (night)** | Queen finds her, Queen’s speech | 4 |
+| **22 Jan – 1 Feb 1115** | Queen’s secret protection | 5 |
+| **2 Feb 1115** | Candlemas trap fails | 6 |
+| **14 Feb 1115** | Queen’s public acknowledgment | 9 |
+| **20 Apr 1115** | Wedding | 10 |
+
 
 ---
 
-## Key Changes from Previous Timeline
+## Key Changes from Previous Timeline (2)
 
 | Element | Old (1113) | New (1114/1115) |
 | :--- | :--- | :--- |
@@ -3926,6 +3935,17 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Queen's speech** | — | **20 Jan 1115** (exact) |
 | **Candlemas trap** | — | **2 Feb 1115** |
 
+## Key Changes from Previous Timeline (3)
+
+| Element | Old (Oct 1114) | New (Aug 1114) |
+| :--- | :--- | :--- |
+| **King’s Hall date** | Tuesday, 20 October 1114 | **Tuesday, 16 August 1114** |
+| **King’s visit to Stanwey** | Late October | **Late August 1114** |
+| **Court at Winchester** | November–December | **September–December 1114** |
+| **Henry’s departure** | Not mentioned | **21 September 1114** |
+| **Beatrice’s age** | 16 | 16 (unchanged) |
+| **Courtship duration** | 6 months | **8 months** (Aug 1114 – Apr 1115) |
+| **Wedding date** | Spring 1115 | Spring 1115 (unchanged) |
 
 ------------------------------
 
