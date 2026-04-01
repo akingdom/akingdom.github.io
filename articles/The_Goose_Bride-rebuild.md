@@ -4037,3 +4037,82 @@ Stanwey's "Tribute Cart"
 As a King's Thegn, Harold might be required to send a "Carriage Service" (avera) as part of his tenure. This would involve sending his cart and oxen to Rockingham to haul the King’s wine, building stone, or hunting gear whenever the Royal Court was in residence.
 
 Laxton - A Real Village across the valley from 'Stanwey', with All Hallows (All Saints) ancient parish church. Good visibility all the way to Rockingham.
+
+## The Welsh Campaign of 1114
+
+It was a massive show of force by King Henry I, designed to break the power of the native princes and solidify Norman control. Following years of instability in the Marches, the King launched a three-pronged invasion that forced the Welsh leaders into a corner.
+
+### The Campaign and Owain ap Cadwgan
+The primary target of the campaign was Owain ap Cadwgan, a prince notorious for his earlier abduction of Nest (the wife of a Norman constable) and his general defiance of the Crown. After a brief but futile resistance in the mountains of Snowdonia, Owain realised he could not win against the King's overwhelming numbers.
+Negotiating through his uncle, Maredudd, Owain made a formal submission. Henry I—who valued Owain’s military skill despite his "wild" reputation—received him "honourably." Rather than punishing him, the King took Owain into his personal retinue and transported him overseas to Normandy, where he was eventually knighted and served as a royal loyalist.
+
+### The Family Legacy: Henry and Cadwgan
+The two brothers represented the complex intersection of Welsh and Norman bloodlines:
+
+* The Father: Their father was Cadwgan ap Bleddyn, the Prince of Powys. His reign was defined by chaos and family feuding, which ultimately led to his death in 1111 when he was killed by his own nephew, Madog ap Rhirid.
+* Henry ap Cadwgan: Unlike his brother Owain, Henry was the son of a Norman mother (the daughter of Picot de Sai). Because of this noble Anglo-Norman heritage, he was viewed as a more "legitimate" member of the Norman aristocracy. Henry had been a fixture in the King’s court from 1110 onwards, serving as a bridge between his father’s Welsh territories and the King’s central administration.
+
+Ultimately, this campaign transformed the sons of the "conquered" leader from rebels into royal courtiers, though both would meet their end together in the White Ship Disaster of 1120.
+
+## The White Ship disaster
+
+The White Ship, transporting many notables, sank in the English Channel near the Normandy coast, off Barfleur, during a trip from France to England on 25 November 1120. Out of approximately 300 people aboard, only one — a butcher from Rouen — survived.
+
+This could likely have been avoided, as several clear warning signs were ignored by the main royal party. Interestingly, a few high-ranking individuals did try to avoid it by disembarking at the last minute because they were disturbed by the chaos on board.
+
+### The Young Elite
+
+The "riotous and headstrong youths" on the White Ship were the 12th-century version of the "jet set"—the A-list offspring of the Anglo-Norman and Welsh elite. For them, this level of debauchery wasn't just a one-off party; it was a reflection of their social standing and the "new" culture of the royal court.
+
+#### Was this their "Normal"?
+Yes and no. While medieval life was generally strict, the court of William Adelin (Henry I’s heir) was notorious for pushing boundaries:
+
+* The "Gilded" Youth Culture: These young men—including Henry ap Cadwgan and his brother Owain—were part of a generation that valued "Curialitas" (courtliness) but often expressed it through excess. They wore long, flowing hair and pointed shoes, fashions that conservative chroniclers of the time condemned as effeminate and sinful.
+* A Culture of Entitlement: As the sons of the conquerors (and the high-status "conquered" like the Welsh princes), they lived in a bubble of immense wealth and zero accountability. Their "normal" involved hunting, tournament training, and heavy feasting.
+* The Absence of the "Strict Parent": Usually, King Henry I kept a very tight lid on his court. However, because the King had sailed on a separate ship earlier that evening, the youth were left unsupervised. This "when the cat's away" dynamic turned a standard voyage into a literal floating tavern.
+
+#### Why they were drunk
+In the 1100s, wine was a status symbol. Providing it in massive quantities was how a Prince like William Adelin showed his magnificence:
+
+* The Casks: William ordered three huge barrels of wine to be distributed not just to his friends, but to the 50 rowers.
+* The Social Pressure: In this warrior-aristocrat culture, drinking was a competitive sport. To refuse a drink from the Prince was a social snub. By the time they weighed anchor, the crew and passengers were "roaringly drunk," stumbling over oars and mocking the priests who tried to bless the ship.
+
+#### The "Riotous" Element
+The term "riotous" in contemporary accounts (like those of Orderic Vitalis) referred to more than just noise:
+
+* Arrogance: They were so confident in their status that they believed they could defy the sea itself. They actively goaded the captain to "overtake" the King’s ship, despite it being dark and the coastal waters being treacherous.
+* Rebellion against Order: Their refusal to let priests board the ship to perform the traditional blessing was a peak "edgy" move for the time—a literal middle finger to the social and religious order of the day.
+
+Essentially, these youths were living a high-stakes version of a "gap year" in the King's service, and the White Ship was the tragic end to their ultimate party.
+Would you like to know more about the specific fashion or "long hair" controversy that the monks used to explain why God "punished" these youths?
+
+### Those Who Avoided the Ship
+Several notable figures chose to get off the vessel before it sailed, effectively saving their own lives: 
+
+* Stephen of Blois: The King's nephew (and future King of England) was scheduled to be on the ship but disembarked just before departure. Chroniclers like Orderic Vitalis attributed this to a sudden, convenient bout of diarrhoea or a stomach complaint.
+* A Group of Nobles and Monks: A few other "sensible" passengers and two monks also left. They reportedly felt the ship was overcrowded with "riotous and headstrong youths" and were uneasy about the level of intoxication. 
+
+### How It Could Have Been Avoided
+Historians and contemporary chroniclers point to several critical failures that made the disaster "almost inevitable": 
+
+* Extreme Intoxication: Prince William Adelin provided three massive casks of wine to the crew and passengers. By the time they sailed at night, nearly everyone, including the helmsman and Captain Thomas FitzStephen, was heavily drunk
+* The Reckless Race: Despite departing hours after King Henry I's ship, the drunken passengers ordered the captain to overtake the King. This led to the ship being rowed at a dangerous speed through a rocky coastline in the dark.
+* Rejecting the Blessing: In a move seen as an ill omen by contemporaries, the rowdy passengers drove away priests who came to bless the voyage with holy water, mocking them as they left. 
+
+### The "What If" of William Adelin
+Prince William actually did initially survive the sinking. He was placed in a small lifeboat and could have reached the shore. However, he ordered the boat to turn back when he heard the screams of his half-sister, Matilda Fitzroy, the Countess of Perche. His lifeboat was then swamped by other drowning people and sank. 
+
+
+## Matilda (Edith) of Scotland
+
+Matilda of Scotland was a "bridge-builder" who successfully navigated the volatile transition between Anglo-Saxon and Norman England. Her character was defined by a calculated blend of intellectual sophistication, strategic piety, and fierce personal autonomy.
+
+### The Real Matilda: A Balanced Summary
+
+* Matilda of Scotland (born Edith) and King Henry I likely first met during the previous decade (c. 1090s), possibly introduced through Bishop Osmund of Salisbury. Their formal union was a rapid, high-stakes response to the sudden death of King William II in 1100. For Henry, marrying Matilda was a strategic masterstroke; as a descendant of Alfred the Great and the House of Wessex, she provided the "blood legitimacy" his Norman dynasty lacked. Despite the clear political motives, historians like Warren Hollister argue the couple was emotionally close, and chroniclers like William of Malmesbury suggest a genuine bond of affection between them. While Henry was notorious for his many illegitimate children—a common feature of medieval kingship—their early partnership was exceptionally productive; they worked in tandem to stabilize the realm, with Matilda frequently staying in Westminster to manage the machinery of government while Henry secured his territories abroad. 
+* Political Identity: Far from a submissive consort, she was a co-ruler. She mastered the art of "soft power," using the language of maternal care and religious devotion to mask a sharp, pragmatic administrative mind. As Regent of England, she chaired councils and issued legal charters, proving that her elite convent education in three languages and geometry was a practical toolkit for governance.
+* The "Nun" Myth vs. Reality: Her early years were marked by defiance. She famously rejected the veil forced upon her by her aunt, viewing it as a tool of confinement rather than a calling. When challenged, she used the legal system to prove her secular status, clearing the path to marry Henry I and unite the warring royal bloodlines of Wessex and Normandy.
+* Cultural Patronage: She turned the English court into a premier European arts hub. While she loved hagiography and courtly music—notably commissioning The Voyage of Saint Brendan—this was not purely for pleasure. Her lavish funding of poets and musicians was a deliberate "branding" exercise to elevate the prestige of her dynasty, even when it drew criticism for being overly expensive.
+* A "Good Queen" by Design: Her reputation for "exceptional holiness" was both a personal conviction and a political masterstroke. By walking barefoot and washing the feet of the poor, she mirrored the saintliness of her mother, St Margaret. This gained her the deep loyalty of the English people, providing Henry I with the internal stability he needed to maintain his continental empire.
+* Legacy of Infrastructure: Her religious devotion was practical. She despised the idle life of the cloister but loved "holy works" that improved the realm, such as founding St Giles' hospital for lepers and commissioning the Bow Bridge, England’s first arched stone bridge.
+
