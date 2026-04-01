@@ -594,9 +594,9 @@ The woman looked up with red-rimmed eyes. "Nay, we'll do alright."
 
 Beatrice insisted. "Then keep it aside for me until it's needed. If not, another neighbour can benefit."
 
-At these words, the woman accepted the gift. "I'll accept it as a mercy between neighbours then. May God bless you, dear. Try big John's farm, by the oak on the hill; he had some birds last I heard."
+At these words, the woman accepted the gift. "I'll accept it as a mercy between neighbours then. May God bless you, dear. Try big Edwin's farm, by the oak on the hill; he had some birds last I heard."
 
-After a long walk, Beatrice arrived at the farm by the oak, where big John (a tenant of the manor) was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're about two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss."
+After a long walk, Beatrice arrived at the farm by the oak, where big Edwin (a tenant of the manor) was loading the last of his hay. "Looking for a bird?" he barked, seeing her eyes stray to the empty yard. "You're about two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were fished clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss."
 
 She crossed the river upstream (nearly falling in) and at long last reached the nurse's farm, the one by the reedy wide river bend, where Goosie came from as an egg—the nurse herself came out to meet her. She looked at Beatrice's face and seemed to understand.
 
@@ -604,7 +604,7 @@ She crossed the river upstream (nearly falling in) and at long last reached the 
 
 Beatrice nodded. "The purveyors... the Abbot... there is nothing."
 
-The nurse sighed, wiping her hands on her apron. "When you've kept geese for a king's son, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids in 1113, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we'd recover by this summer, but the King's own host has been marching this year, and they're taking the young birds before they can even grow fat. I've nothing left but scrawny things—all bone and pin-feathers."
+The nurse sighed, wiping her hands on her apron. "When you've served a king, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids in 1113, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we'd recover by this summer, but the King's own host has been marching this year, and they're taking the young birds before they can even grow fat. I've nothing left but scrawny things—all bone and pin-feathers."
 
 "I can't bear to send Goosie. Surely there is another," Beatrice pleaded.
 
@@ -614,7 +614,7 @@ Beatrice interrupted eagerly. "Then I'll buy him. I have the silver Mother left�
 
 The nurse shook her head. "He's already spoken for. The Royal Marshal marked him with the King's seal yesterday. If I sell him to you, they'll hang me for theft of Crown property. He's not a bird anymore, Beatrice; he's a piece of the King's war."
 
-The nurse looked at her, blunt but not unkind. "Count it a blessing that your own bird has lived as long as she has. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
+The nurse looked at her, blunt but not unkind. "Count it a blessing that your own bird has rlived as long as she has. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
 
 Beatrice’s throat tightened. This news was too much for her to bear and she burst into large wet tears. The normally gruff nurse patted her back.
 
@@ -802,7 +802,9 @@ He thought of his other children. His daughters, married well. His sons, scatter
 
 *There are those who think my departure for Normandy is an opportunity. Enemies who remember the names of Bellême and Clito. They will watch to see which way the wind blows.*
 
-Henry glanced at the barons and knights about the hall, conquered men from Wales, warriors from Scotland, Normandy and England, Settled Danes, Saxons and Jutes. Not all were true friends—men who could be relied on. For soon he must cross again to Normandy—his father's country and now his. *Too many whisperers.*
+Henry glanced at the barons and knights about the hall, conquered men from Wales, warriors from Scotland, Normandy and England, Settled Danes, Saxons and Jutes. Not all were true friends—men who could be relied on. For soon he must cross again to Normandy—his father's country and now his. 
+
+*Too many whisperers.*
 
 He seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
 
@@ -826,25 +828,25 @@ Henry remained turned toward the fire, his shoulders rigid; thus, it fell to the
 
 Roger bowed—a shallow, efficient nod. "The present is manageable, Majesty. But the parchment from Brittany requires a decision. Duke Conan offers his daughter Agnes for Prince Godfrey."
 
-Henry finally turned, his eyes regaining a wary, cordially sharp edge. He glanced at the Sheriff of the shire, who stood trembling by the sideboards.
+Henry finally turned, his eyes regaining a wary, cordially sharp edge. He glanced at the newly appointed Sheriff of Nottingham.
 
-"Roger. What say you of the local Sheriff's tallies for the forest-fines? He tells me the oaks yielded nothing this season, yet my coffers are bruised and the silver they should have bought is nowhere to be seen. Perhaps you might find the truth where he has found only... 'confusion'."
+"Roger. My coffers are bruised by expense. What say you of Nottingham's tallies—is it true the oaks of Sherwood have been as stingy as the man claims? He tells me the mast-fall was poor this season, yet he’s managed to squeeze more silver from the forest-courts than Peverel ever did in a good year. I suspect he’s found a way to turn acorns into coin."
 
-The Sheriff went pale, sinking into a bow that was more of a collapse.
+The Sheriff offered a modest, practiced bow—the respectful stance of a man who knew his books were in order. "Only the King’s law, Sire," he murmured, his voice steady despite the high company. "The timber is quiet, but the trespass fines have been... fruitful."
 
-Roger didn't even look at the man. "The Sheriff's confusion is a matter for the morning audit, Sire. But the parchment from Brittany is a matter of state. Conan offers a second tie—a redundant circle that adds nothing to our security. We already hold the western flank of Normandy; we do not need to buy Brittany twice."
+Roger didn't even look at the man, though he gave a curt, affirmative sniff. "The Sheriff’s tallies are indeed precise, Sire; his accounts are among the cleanest in the Midlands. But the parchment from Brittany is a matter of state. Conan offers a second tie—a redundant circle that adds nothing to our security. We already hold the western flank of Normandy; we do not need to buy Brittany twice."
 
 He paused, his eyes flicking to the King with a look of devastating common sense.
 
-"However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a son who sits outside the direct line of succession. To refuse it is... inefficient. Whether it be the six hundred marks missing from a Sheriff's bag or ten thousand from a Duke's treasury, it is a coin left on the table."
+"However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a marriageable asset who sits outside the direct line of succession. To refuse it is... inefficient. Your coffers are lean, but there is a coin left on the table."
 
-A few lords nodded, not in agreement but in habit — the reflex of men well practiced in weighing people, wheat and wool.
+For a long moment, Henry said nothing, his diversion having miscarried. A few lords nodded, not in agreement but in habit — the reflex of men well practiced in weighing people, wheat and wool.
 
 Godfrey heard it. A coin. His posture tightened at this sudden appraisal. He glanced down at his shoes.
 
 Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
 
-For a long moment, Henry said nothing. The anger had drained from his face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son.
+The anger had drained from Henry's face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son.
 
 Henry saw unfriendly faces scattered about the hall, those that would smile in his presence and plot in his absence. Then his gaze drifted past them—and stopped.
 
