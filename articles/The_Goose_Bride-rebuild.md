@@ -2354,7 +2354,6 @@ Tomorrow, there would be more to learn. More doors to find. More faces to rememb
 But tonight, she let the fire burn down and thought of home.
 
 ---
----
 
 ### The First Formal Dinner
 
@@ -2444,9 +2443,15 @@ Softly: "Well. The world is smaller than I thought."
 
 ---
 
+=> Matilda had a quiet word with godfrey about the hazing of beatrice going on in quiet corners. 
+
 By the end of Christmas week, the Duchess had become an unexpected ally. She wrote to her husband-to-be in Brittany that the match was solid, the girl was real, and it was likely that any further offers for Godfrey would not be well received.
 
 She told Beatrice privately: "My brother has waited his whole life to be seen. You see him. That's enough."
+
+**IMPORTANT** => The Duchess frequents Devon where her mother (henry's mistress) Edith resided. Godfrey might also go there, anyway, he departs, as encouraged by the enemy set.
+
+=> "she should come with us down to Devon." However, the queen wishes her to stay (or other cause), to help with a favoured project or some such. (we can chronicle them publicly visiting poor/sick/etc.) --> yes, with greater jealousy accordingly. Insert here.
 
 ---
 
@@ -2454,7 +2459,7 @@ She told Beatrice privately: "My brother has waited his whole life to be seen. Y
 
 The new year brought new cruelties.
 
-With the Duchess gone, the half-sisters regrouped. Whispers followed Beatrice through every corridor. "The goose girl." "Can she even read?" "Does she know which fork to use yet?"
+With the Duchess and Godfrey gone, the half-sisters regrouped. Whispers followed Beatrice through every corridor. "The goose girl." "Can she even read?" "Does she know which fork to use yet?"
 
 Beatrice endured. Lady Margaret guided. Godfrey stood beside her. But the erosion was constant.
 
@@ -2465,6 +2470,8 @@ The messenger arrived at court on the twelfth of January, breathless: Harold Red
 Beatrice left within the hour.
 
 ---
+
+=> Godfrey arrived from Devon/wherever.
 
 She stayed at Stanwey for six days, sleeping by Harold's bed, feeding him broth, willing him to live. Godfrey came when he could, helping with the manor, sitting with Harold so Beatrice could rest.
 
