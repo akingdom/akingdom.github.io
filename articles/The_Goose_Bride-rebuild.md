@@ -1257,7 +1257,7 @@ She climbed up beside the girls, who shuffled aside, eyeing her basket. The woma
 
 The wain lurched forward. The iron‑shod wheels bit into the white limestone ruts of the zigzag scarp with a jarring, metallic crunch. On the steep descent, the heavy frame kicked up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way back and forth down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
 
-The man hummed a country ditty under his breath. The girls whispered to each other, glancing curiously at Beatrice, but they were soon enough joining in with their father’s tune, paying her little heed, keeping time with the clack of the ox‑pole.
+The man hummed a country ditty under his breath. The girls whispered to each other, glancing curiously at Beatrice, but they were soon enough joining in with their father’s tune, paying her little heed, keeping time with the clack of the ox‑pole. Beatrice thought briefly about that boy by the pillar and wondered who he was.
 
 Partway down the winding hillside, the woman half‑turned to Beatrice. “What brought you so far?”
 
@@ -1371,7 +1371,7 @@ They rode on.
 
 The cart lurched forward. The woman let out a breath. “John, just think, if our daughters were a little older…”
 
-But Beatrice was no longer listening. Her hands cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. But why didn't anyone tell me earlier?* 
+But Beatrice was no longer listening. Her hands cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. But why didn't anyone tell me earlier? No. Surely not.* 
 
 ---
 
@@ -1653,7 +1653,7 @@ She bowed her head over his hand, gathering herself. Then she told him. Not ever
 
 When she said the words “his son Godfrey is to marry the next maid through the door,” Harold’s hand tightened on hers.
 
-“And you were that maid?”
+“And that maid was you?”
 
 “Yes.”
 
@@ -1663,7 +1663,7 @@ He was quiet for a long moment. The fire crackled. Goosie, sensing the weight in
 
 “Well, he’s waiting outside. The King send him to see me home safely. ”
 
-Harold looked toward the door, amazed, then back at her. His eyes were tired, but something in them had sharpened.
+Harold looked toward the door, amazed, then back at her. His eyes were red and tired, but something in them had sharpened.
 
 “So, you spoke with him.”
 
@@ -1671,7 +1671,7 @@ Harold looked toward the door, amazed, then back at her. His eyes were tired, bu
 
 “And why the tears?”
 
-She paused long, deep in thought. “I feel upset and afraid. The world seems upside down. I am no longer to be a maiden but a woman. I worry about Stanwey and about you, father. He said—He promised—” She stopped, remembering Godfrey’s words. “He promised that Stanwey would not be taken. That you would not be left alone.”
+“I am no longer to be a maiden but a woman.” She paused long, determined not to cry again, giving her time to think. “The whole world seems upside down, changed in a day, father. I worry about Stanwey and about you. He said—He promised—” She stopped, breathing quickly but calming down, remembering Godfrey’s words. “He promised that Stanwey would not be taken. That you would not be left alone.”
 
 Harold said nothing. He looked at her for a long time, his thumb moving slowly over her knuckles.
 
@@ -1679,11 +1679,18 @@ Harold said nothing. He looked at her for a long time, his thumb moving slowly o
 
 “He doesn't talk much, but seems trustworthy.”
 
-“Nay, what do *you* want?”
+“Nay, child, what do **you** want?”
 
-She thought of the road, the cart, the soldiers who had passed her by. She thought of the young man who had stood apart while she wept, giving her space, not reaching out. She thought of his voice when he said, *I will not take Stanwey from you. I will come to you.*
+Beatrice remembered the family during the cart ride, the mother's care.
 
-“I want to know if he is who he says he is,” she said. “I want to know if he will keep his word. I want—” She stopped, her voice catching. “I want to be the one who chooses, if my life is ending, I mean chageing. Not the king. Not the vow. Me.”
+She recalled her mother’s words about her father: “*A man’s character shows in small things. Watch how he treats those who can do nothing for him. For that is the man you must live with.*”
+
+She thought of the parish priest, one Sunday at Lent, preaching on the sacrament: “*When she takes the wine from her betrothed’s hand, she shows her will to the world. For a woman forced is no wife; where the heart is in chains, love cannot dwell.*”
+
+She thought of the young man who had stood apart while she wept, giving her space, not reaching out. She thought of his voice when he said, *I will not take Stanwey from you. I will come to you.*
+
+“I want to know if he is who he says he is,” she said. “I want to know his character, his honour. I want to know if he will keep his word. If—” She stopped, her voice catching. “If my life is to change—I want to be the one who chooses. Not the king. Not the vow. Me.”
+
 
 Harold’s face softened. “Then you had better bring him in.”
 
@@ -1716,7 +1723,7 @@ And then, quite suddenly, she tucked her head under her wing, gave a soft rustle
 Godfrey looked down at her, and something in his face shifted—not quite a smile, but the beginning of one.
 
 “Hello again, little one,” he said quietly.
-
+
 Goosie waddled back toward the hall, pausing at the threshold to look back at him, as if to say *Well? Are you coming?*
 
 Beatrice let out the breath she had been holding. She turned to Godfrey, her eyes sparkling nervously.
@@ -1831,7 +1838,7 @@ She smiled, and went out to fetch the wood.
 
 In the weeks that followed, Godfrey became a familiar sight at Stanwey. He came when he could—a day here, an afternoon there—always on horseback, always alone. He did not announce himself; he simply appeared and waited until a servant noticed him.
 
-At first, Beatrice did not know what to do with him. He was not like the other men her father had brought before her. He did not boast of his lands or press gifts upon her. He asked to be shown the manor, and when she showed him, he listened. He asked about the crops, the tenants, the forest boundaries. He asked about her father’s health, and when she told him, he nodded and said nothing more.
+At first, Beatrice felt very strange and did not quite know what to do with him. He was not like the other men her father had brought before her. He did not boast of his lands or press gifts upon her. He asked to be shown the manor, and when she showed him, he listened. He asked about the crops, the tenants, the forest boundaries. He asked about her father’s health, and when she told him, he nodded and said nothing more. A king's son?
 
 He helped where help was needed. The goose pen had a loose hinge; he mended it without being asked. The reeve’s cart had a broken wheel; Godfrey helped him lift it, getting dust and grease on his fine tunic. Beatrice found him in the yard one afternoon, stacking firewood with Harold’s reeve, his sleeves rolled up, his hands rough with splinters.
 
@@ -2045,11 +2052,87 @@ Harold’s throat tightened. He nodded, not trusting his voice.
 
 Henry opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
 
+---
 
-+++ NEED the announcement to the children per above
+### Twain
 
->>> Integrate this herein.
-“I am told,” Henry said, “that you have been worrying about your father, child.”
+A servant appeared in the doorway, glancing at the two lords. He gave a small bow. “My lord Godfrey said they will be in shortly, my lords.” He vanished before either could answer.
+
+Harold shook his head, but his eyes were bright. He turned to Henry. “The lad has been a help at Stanwey, sire. Mended the goose pen without being asked. Helped the reeve with a cart. Asks about the crops, the tenants.” He smiled, a rare thing. “A man’s character shows in small things.”
+
+Henry nodded slowly. “Small things, yes. But not only small things.” He leaned back, his eyes distant for a moment, remembering.
+
+*He thought of Godfrey—the quiet one. The one who had not waited at Salisbury for his father’s command, but had ridden into the Welsh hills with a message for Maredudd ap Bleddyn when the talks stalled. Henry had heard how the boy had sat in the chieftain’s hall, surrounded by men who had reason to hate the English, and spoken calmly until they agreed to terms. He had not been told to do it; he had simply seen what was needed and acted.*
+
+“So the lad ups and heads off to Wales, to Powys,” Henry said aloud. “The talks with Maredudd ap Bleddyn had stalled. The man had sworn to burn our castles. My knights were ready to march. I had sent messengers; they returned with nothing.” He met Harold’s eyes. “Then this one—this quiet one—rode out alone.”
+
+Harold’s eyebrows rose.
+
+“He went into the chieftain’s hall,” Henry continued, “sat among men who had reason to hate the English, and spoke to them until they agreed to terms.” He looked toward the window, as if seeing the Welsh hills. “He is not a warrior. But he is not a coward. He came back with a treaty.”
+
+He turned back to Harold. “He can wait. But when the moment comes, he moves.”
+
+The fire crackled. Harold’s gaze rested on the empty space where Godfrey had stood.
+
+Henry glanced at the door, then did a double‑take. Godfrey and Beatrice were standing just inside the threshold, quiet as shadows. He had not heard them enter.
+
+“Ah,” he said, his expression unreadable. “There you are.”
+
+Beatrice’s cheeks were pink. Godfrey’s face was still, but his eyes were on his father.
+
+Henry studied her for a long moment. “You have been listening, child?”
+
+Beatrice met his gaze. “Yes, my lord.”
+
+“Good.” He rose, moving toward the fire. “You have heard of his work and his silence. You have heard what he has done when watching was not enough.” His voice was quiet, but it carried. “Now I ask you: what would you have me do?”
+
+Beatrice’s heart was loud in her ears. She looked at the king, then at her father, then at Godfrey.
+
+“My lord, may I ask you something as a father, not as a king?”
+
+Henry’s eyebrows rose. Harold’s face went pale. But Henry’s expression was not displeased. “You may.”
+
+“I was not asked if I would marry your son.” Her voice was steady, though her hands trembled. “I walked into your hall with a goose, and I walked out with a vow I did not make.”
+
+Harold’s hand tightened on his chair. Godfrey did not move.
+
+Henry listened gravely, patiently. “And what would you have me do, young wolf? Do you wish to reject my son?”
+
+Beatrice shook her head. She looked at him, and there was no mocking in his voice. He was in many ways very like Godfrey.
+
+“I wish to—” Her voice faltered. Her throat was dry. She turned, almost without thinking. “Godfrey, would you pass me a drink.”
+
+For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed to her and held it out. Their fingers did not touch, but their eyes met.
+
+She took the cup.
+
+She lifted it to her lips, drank, and lowered it. Then she turned back to the king.
+
+“This is my answer, sire.”
+
+The hall was silent. Henry stared at her for a long moment. Then his face broke into a grin—a real grin, warm and sudden.
+
+“She takes the cup,” he said softly, almost to himself. Then, louder: “Do you know what you have just done, child?”
+
+Beatrice felt her cheeks burn. “I have answered your question, my lord.”
+
+“You have sealed a betrothal.” He looked at Godfrey, who stood frozen beside her. “In the old way. A woman takes wine from her betrothed’s hand, and she shows her will to the world. There is no vow more binding than that.”
+
+Harold’s face, which had been pale with fear, slowly changed. He looked at Beatrice, then at Godfrey, and something in his chest loosened.
+
+Henry clapped Godfrey on the shoulder. “You chose well.”
+
+Then he turned to Harold, his grin still wide. “Well, Harold, I don’t know what they need us for. It seems a decision is made.”
+
+Harold let out a long breath—not quite a laugh, but close. “So it seems.”
+
+## Chapter 16 – The King’s Visit (Final, with Housekeeping & Departure)
+
+*[The cup ritual concludes as above. Henry has just said “Well, Harold, I don’t know what they need us for. It seems a decision is made.”]*
+
+---
+
+Henry turned to Beatrice. “I am told,” he said, “that you have been worrying about your father, child.”
 
 Beatrice felt her cheeks warm. She glanced at Godfrey, who looked at the fire.
 
@@ -2059,29 +2142,31 @@ Harold was silent for a moment. Then he said, quietly, “You are kind, sire.”
 
 “I am practical,” Henry said. “A king’s daughter-in-law should not be distracted by worry. It is bad for the complexion.”
 
-Beatrice looked down at her hands. She did not trust herself to speak.
+He reached for his wine, then set it down again. “One more thing. Stanwey will be hers. Godfrey will hold it in her name, as her steward, not as its lord. That is my gift to you, for the Severn, and for the daughter you have raised.”
 
+Harold’s throat tightened. He nodded, not trusting his voice.
 
-+++ NEED ANNOUNCEMENT OF WINCHESTER as discusssed
+Henry rose and walked to the window. “Now. I have a ship to catch in a fortnight. The queen has asked that Beatrice come to Winchester, to stay with her until Christmas. A little teaching in the ways of the court, that sort of thing. It will do her good—and it will give you time to settle the new household here.”
 
->>> NEED FOLLOWING plus any planned missing bits for... Departure – The week of preparation, the new reeve and cook, the farewell. AND The Road to Winchester – The journey, Beatrice’s stiffness, the arrival at Westminster (transition to Chapter 17).
+He turned back to Harold. “The court has been too long in the forest. I have business in the city, and after that, I must cross to Normandy. There are bottoms that need spanking across the water.” He grinned. “A king’s work is never done.”
 
-“We are going to Winchester in a fortnight. The court has been too long in the forest, and I have business in the city—and after that, I have a ship to catch.”
+Harold’s mouth twitched. “So I have heard.”
 
+Henry looked at Beatrice. “You will come with us, child. Godfrey will escort you. The queen will take you under her care. You will learn the ways of the court, meet the people you will need to know.”
 
-
+Beatrice nodded. “Yes, my lord.”
 
 ---
+
+### Fireside Farewells
 
 The fire burned low. Henry and Harold spoke of old wars, old friends, old enemies. Beatrice listened, learning the shape of her father’s youth—the battles, the losses, the narrow escapes. She had heard some of it before, but never like this, never from a king who had been there.
 
 Godfrey stood by the door, watching, waiting, as he always did.
 
-At last, Henry rose. “I have stayed too long. The queen will wonder where I am.” He looked at Harold. “We are going to Winchester in a fortnight. The court has been too long in the forest, and I have business in the city. I would like your daughter to come with us. The queen will take her under her care. She will learn the ways of the court, meet the people she will need to know.”
+At last, Henry rose. “I have stayed too long. The queen will wonder where I am.”
 
-Harold looked at Beatrice. She nodded.
-
-“Then it is settled,” Henry said. “Godfrey will escort her. I will send the reeve and the cook within the week, so you may settle them before she leaves.” He put a hand on Harold’s shoulder. “You have served me well, Hrathulfr. You have given me a son’s loyalty and a daughter’s courage. I will not forget.”
+He put a hand on Harold’s shoulder. “You have served me well, Hrathulfr. You have given me a son’s loyalty and a daughter’s courage. I will not forget.”
 
 He turned to go. At the door, he paused and looked at Goosie, who had settled on the hearth.
 
@@ -2111,7 +2196,7 @@ They sat in silence as the fire burned down, and Goosie slept between them.
 
 ---
 
-## Transition to Departure
+### The Week of Preparation
 
 The week that followed was a blur of packing, goodbyes, and the quiet settling of the new reeve and cook. Beatrice’s aunt arrived—a thin, capable woman who took one look at the hall and began re‑ordering the kitchen. The reeve, a grey‑haired man named Eldred, sat with Harold each evening, learning the names of the tenants, the boundaries of the fields, the quirks of the river.
 
