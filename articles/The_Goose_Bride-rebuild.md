@@ -4910,7 +4910,7 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **priorSKIP_LINK** (monastic official)  
 - **purgatory** (place of purification)  
 - **purveyance** (right of the crown to requisition goods)  
-- **quicksilver** (liquid mercury metal used in gold mining)
+- **quicksilver** (mercury, liquid metal used in gold mining)
 - **quitclaim** (release of claim)  
 - **reaper** (harvester)  
 - **rectory** (benefice)  
