@@ -4453,7 +4453,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- CONFIGURATION ---
     const START_SUFFIX = "STARTGLOSSARY";
     const END_SUFFIX = "ENDGLOSSARY";
-    const STRIP_ORIGINAL_TAGS = true; // Set to true to replace original HTML with clean DIVs
+    const STRIP_ORIGINAL_TAGS = false; // Set to true to replace original HTML with clean DIVs
     const DUMP_DIAGNOSTICS = true;    // Console log linked vs unlinked terms
     
     // --- USER CONTROL FLAGS ---
