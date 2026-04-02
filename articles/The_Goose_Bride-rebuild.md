@@ -4455,8 +4455,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const END_SUFFIX = "ENDGLOSSARY";
     
     // --- THE THREE LOGIC STATES ---
-    const STRIP_ORIGINAL_TAGS = true;      // State 1: Replace all with clean DIVs
-    const STRIP_UNUSED_FROM_GLOSSARY = true; // State 2: Prune unused <li> from original HTML
+    const STRIP_ORIGINAL_TAGS = true;       // State 1: Wipe and rebuild clean DIVs
+    const STRIP_UNUSED_FROM_GLOSSARY = true; // State 2: Prune <li> from original HTML
     const DUMP_DIAGNOSTICS = true;
     const IGNORE_KEYWORD = "SKIP_LINK";
 
@@ -4468,21 +4468,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const endNode = document.querySelector(`[id$="${END_SUFFIX}" i]`);
     if (!startNode || !endNode) return;
 
-    // 2. Shield the Glossary Area (Using extractContents to avoid InvalidStateError)
-    const range = document.createRange();
-    range.setStartAfter(startNode);
-    range.setEndBefore(endNode);
-
+    // 2. The "Sibling Shield" (Replaces the broken Range.surroundContents)
     const shield = document.createElement('div');
     shield.className = 'glossary-source-area';
-    shield.style.display = 'none'; // Hide from view during processing
+    shield.style.display = 'none'; 
 
-    // This "cuts" the glossary out of the page and into our shield
-    const extracted = range.extractContents();
-    shield.appendChild(extracted);
-    range.insertNode(shield);
+    // Manually move everything between markers into the shield
+    let current = startNode.nextSibling;
+    while (current && current !== endNode) {
+      const next = current.nextSibling;
+      shield.appendChild(current);
+      current = next;
+    }
+    // Place the shield back into the DOM so it has a parent for .closest() checks
+    startNode.parentNode.insertBefore(shield, endNode);
 
-    // 3. Parse Definitions
+    // 3. Parse Definitions from the Shield
     const rawText = shield.textContent;
     const lines = rawText.split(/\r?\n/);
 
@@ -4515,7 +4516,8 @@ document.addEventListener('DOMContentLoaded', () => {
           const p = node.parentElement;
           if (!p) return NodeFilter.FILTER_REJECT;
           
-          // CRITICAL: Reject if inside Shield, Headings, or Links
+          // REJECT: This is why your H3 is currently being picked up. 
+          // We look for any heading ancestor, or the shielded glossary area.
           if (p.closest('.glossary-source-area, h1, h2, h3, h4, h5, h6, a, button, script, style, code')) {
             return NodeFilter.FILTER_REJECT;
           }
@@ -4559,13 +4561,14 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    // 5. Final DOM Update (The Three Logic States)
+    // 5. Apply the Three Logic States
     if (STRIP_ORIGINAL_TAGS) {
-      // STATE 1: Rebuild clean DIVs
+      // STATE 1: Rebuild entirely clean DIVs
       shield.innerHTML = ''; 
       termKeys.forEach(key => {
         const data = glossaryLookup[key];
-        if (STRIP_UNUSED_FROM_GLOSSARY && !foundInText.has(key) && !data.skipLink) return;
+        const isUsed = foundInText.has(key);
+        if (STRIP_UNUSED_FROM_GLOSSARY && !isUsed && !data.skipLink) return;
         
         const row = document.createElement('div');
         row.className = 'glossary-row';
@@ -4579,32 +4582,31 @@ document.addEventListener('DOMContentLoaded', () => {
         shield.appendChild(row);
       });
     } else if (STRIP_UNUSED_FROM_GLOSSARY) {
-      // STATE 2: Prune <li> tags from existing HTML that aren't in foundInText
+      // STATE 2: Prune <li> tags that weren't found in the text
       const listItems = shield.querySelectorAll('li');
       listItems.forEach(li => {
         const liText = li.textContent.toLowerCase();
         const isUsed = Array.from(foundInText).some(term => liText.includes(term));
-        // We also keep it if it was a SKIP_LINK word
         const isSkipped = termKeys.some(k => glossaryLookup[k].skipLink && liText.includes(k));
         
         if (!isUsed && !isSkipped) {
             li.remove();
         }
       });
-      // Cleanup empty parent lists
+      // Cleanup empty parent lists (ul/ol)
       shield.querySelectorAll('ul, ol').forEach(list => {
         if (list.children.length === 0) list.remove();
       });
     }
-    // STATE 3: If both are false, the shield just shows the original HTML exactly as is.
+    // STATE 3: (Implicit) If both false, we just show shield with original HTML.
 
     shield.style.display = 'block'; 
 
     if (DUMP_DIAGNOSTICS) {
       const unused = termKeys.filter(t => !foundInText.has(t));
       console.group("Glossary Diagnostic Report");
-      console.log("✅ Found/Linked in Corpus:", Array.from(foundInText).sort());
-      console.log("❌ Unused in Corpus:", unused.sort());
+      console.log("✅ Linked in Corpus:", Array.from(foundInText).sort());
+      console.log("❌ Unused:", unused.sort());
       console.groupEnd();
     }
 
@@ -4630,6 +4632,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   })();
 });
+
 </script>
 
 
