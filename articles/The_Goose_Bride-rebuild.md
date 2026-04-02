@@ -4454,12 +4454,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const START_SUFFIX = "STARTGLOSSARY";
     const END_SUFFIX = "ENDGLOSSARY";
     const STRIP_ORIGINAL_TAGS = true; 
-    const DUMP_DIAGNOSTICS = false;
+    const DUMP_DIAGNOSTICS = true;
     
-    /** * NEW FLAGS & SETTINGS
-     */
-    const STRIP_UNUSED_FROM_GLOSSARY = true; // Removes terms from the list if not used in story
-    const IGNORE_KEYWORD = "SKIP_LINK";      // Users put this in the definition to skip auto-linking
+    // --- NEW FLAGS & SETTINGS ---
+    const STRIP_UNUSED_FROM_GLOSSARY = true; // Removes terms from list if not found in story
+    const IGNORE_KEYWORD = "SKIP_LINK";      // Users add this to definition to prevent auto-linking
     
     const glossaryLookup = {}; 
     const foundInText = new Set();
@@ -4480,7 +4479,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const glossaryWrapper = document.createElement('div');
     glossaryWrapper.className = 'glossary-source-area'; 
 
-    // 1. First Pass: Parse and identify "Skip" words
+    // 1. Parse Glossary Source
     lines.forEach(line => {
       const trimmed = line.trim();
       if (!trimmed) return;
@@ -4491,33 +4490,40 @@ document.addEventListener('DOMContentLoaded', () => {
         let definition = parts.slice(1).join(':').trim();
         if (definition.endsWith(')')) definition = definition.slice(0, -1).trim();
 
-        // Check if the user wants to skip auto-linking this specific word
         const shouldSkipLink = definition.includes(IGNORE_KEYWORD);
-        // Clean the keyword out of the final displayed definition
         const cleanDefinition = definition.replace(IGNORE_KEYWORD, "").trim();
 
         glossaryLookup[term.toLowerCase()] = { 
           original: term, 
           def: cleanDefinition,
-          skipLink: shouldSkipLink,
-          element: null // Will hold the DOM node for potential stripping later
+          skipLink: shouldSkipLink
         };
       }
     });
 
-    // 2. Global Text Scanner (Before rendering glossary to check usage)
+    // 2. Global Text Scanner
     const termKeys = Object.keys(glossaryLookup).sort((a, b) => b.length - a.length);
     if (termKeys.length === 0) return;
 
-    // Filter keys for the regex: only include those NOT marked with SKIP_LINK
     const linkableKeys = termKeys.filter(k => !glossaryLookup[k].skipLink);
     const pattern = new RegExp(`\\b(${linkableKeys.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|')})\\b`, 'gi');
 
     const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
       acceptNode: (node) => {
         const p = node.parentElement;
-        if (p.closest('.glossary-source-area') || p.classList.contains('glossary-row')) return NodeFilter.FILTER_REJECT;
-        if (['SCRIPT', 'STYLE', 'TEXTAREA', 'A', 'BUTTON'].includes(p.tagName)) return NodeFilter.FILTER_REJECT;
+        const tag = p.tagName;
+        
+        // REJECT if inside Glossary Area
+        if (p.closest('.glossary-source-area')) return NodeFilter.FILTER_REJECT;
+        
+        // REJECT if inside Headings (h1, h2, h3, etc)
+        if (/^H[1-6]$/.test(tag)) return NodeFilter.FILTER_REJECT;
+        
+        // REJECT functional or interactive tags
+        if (['SCRIPT', 'STYLE', 'TEXTAREA', 'A', 'BUTTON', 'CODE'].includes(tag)) {
+            return NodeFilter.FILTER_REJECT;
+        }
+        
         return NodeFilter.FILTER_ACCEPT;
       }
     });
@@ -4529,15 +4535,18 @@ document.addEventListener('DOMContentLoaded', () => {
     nodesToProcess.forEach(node => {
       const text = node.nodeValue;
       if (!pattern.test(text)) return;
+      
       const newFrag = document.createDocumentFragment();
       let lastIdx = 0;
       pattern.lastIndex = 0; 
+      
       let match;
       while ((match = pattern.exec(text)) !== null) {
         newFrag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
         const matchedWord = match[0];
         const key = matchedWord.toLowerCase();
         const data = glossaryLookup[key];
+        
         const span = document.createElement('span');
         span.className = 'term';
         span.textContent = matchedWord;
@@ -4553,26 +4562,23 @@ document.addEventListener('DOMContentLoaded', () => {
       node.parentNode.replaceChild(newFrag, node);
     });
 
-    // 3. Render the Glossary List (Applying the "Strip Unused" logic)
+    // 3. Render Glossary List
     const glossaryFragment = document.createDocumentFragment();
     termKeys.forEach(key => {
       const data = glossaryLookup[key];
       const wasFound = foundInText.has(key);
       
-      // Skip rendering if: 
-      // 1. Strip flag is on AND 
-      // 2. It wasn't found in text AND 
-      // 3. It wasn't a "SKIP_LINK" word (we assume skip_link words are handled manually/separately)
-      if (STRIP_UNUSED_FROM_GLOSSARY && !wasFound && !data.skipLink) {
-          return; 
-      }
+      // Strip unused logic
+      if (STRIP_UNUSED_FROM_GLOSSARY && !wasFound && !data.skipLink) return;
 
       const row = document.createElement('div');
       row.className = 'glossary-row';
       row.style.marginBottom = '0.4rem';
+      
       const bullet = document.createElement('span');
       bullet.innerHTML = '&bull; ';
       bullet.style.cssText = 'color: #6b2e2e; margin-right: 8px; font-weight: bold;';
+      
       const termSpan = document.createElement('span');
       termSpan.className = 'term'; 
       termSpan.textContent = data.original;
@@ -4580,6 +4586,7 @@ document.addEventListener('DOMContentLoaded', () => {
         e.stopPropagation();
         showDefinition(data.original, data.def, termSpan);
       };
+      
       row.appendChild(bullet);
       row.appendChild(termSpan);
       glossaryFragment.appendChild(row);
@@ -4592,15 +4599,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // 4. Diagnostics
     if (DUMP_DIAGNOSTICS) {
       const unused = termKeys.filter(t => !foundInText.has(t) && !glossaryLookup[t].skipLink);
-      const skippedByUser = termKeys.filter(t => glossaryLookup[t].skipLink);
       console.group("Glossary Diagnostic Report");
-      console.log("✅ Linked in Story (%d):", foundInText.size, Array.from(foundInText).sort());
-      console.log("❌ Unused/Stripped (%d):", unused.length, unused.sort());
-      console.log("🛡️ Explicitly Skipped via Keyword (%d):", skippedByUser.length, skippedByUser.sort());
+      console.log("✅ Linked in Story:", foundInText.size, Array.from(foundInText).sort());
+      console.log("❌ Unused/Stripped:", unused.length, unused.sort());
       console.groupEnd();
     }
 
-    // 5. Tooltip
+    // 5. Tooltip Engine
     let tooltip = document.querySelector('.definition-tooltip') || document.createElement('div');
     if (!tooltip.parentElement) {
       tooltip.className = 'definition-tooltip';
@@ -4612,11 +4617,13 @@ document.addEventListener('DOMContentLoaded', () => {
       tooltip.classList.add('show');
       const rect = target.getBoundingClientRect();
       const scrollY = window.pageYOffset;
+      
       if (window.innerWidth >= 640) {
         tooltip.style.position = 'absolute';
         tooltip.style.top = `${rect.bottom + scrollY + 8}px`;
         tooltip.style.left = `${rect.left}px`;
       }
+      
       const hide = () => {
         tooltip.classList.remove('show');
         document.removeEventListener('click', hide);
@@ -4625,7 +4632,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   })();
 });
-</script><
+</script>
 
 
 ## Glossary
@@ -4736,10 +4743,10 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **carucate** (land measure in Danelaw)  
 - **chantry** (chapel endowed for masses)  
 - **chaplain** (priest)  
-- **chapter** (monastic meeting)  
+- **chapterSKIP_LINK** (monastic meeting)  
 - **charger** (warhorse)  
 - **charter** (written grant)  
-- **chase** (a private hunting forest)  
+- **chaseSKIP_LINK** (hunt, a private hunting forest)  
 - **child‑wite** (fine for getting a servant pregnant)  
 - **churl** (free peasant, later a boor)  
 - **cloister** (monastic enclosure)  
@@ -4851,13 +4858,12 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **posset** (hot drink of milk and ale)  
 - **pottage** (stew)  
 - **prebend** (stipend for a canon)  
-- **prior** (monastic official)  
+- **priorSKIP_LINK** (monastic official)  
 - **purgatory** (place of purification)  
 - **purveyance** (right of the crown to requisition goods)  
 - **quitclaim** (release of claim)  
 - **reaper** (harvester)  
 - **rectory** (benefice)  
-- **reeve** (again, listed under ME usage)  
 - **reeve** (manorial officer)  
 - **relic** (sacred object)  
 - **rood** (quarter acre)  
@@ -4871,7 +4877,6 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **sheriff** (from *shire reeve*)  
 - **shilling** (coin)  
 - **shrine** (place of pilgrimage)  
-- **socage** (again)  
 - **socage** (type of land tenure)  
 - **solar** (private upper room in a medieval house)  
 - **sower** (sower of seeds)  
@@ -4906,8 +4911,7 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **warren** (area for breeding game)  
 - **wergild** (again)  
 - **wheelwright** (wheel maker)  
-- **wite** (fine)  
-- **writ** (written order)  
+- **writ** (written order, fine)  
 
 ---
 
@@ -4921,8 +4925,7 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **battering ram** (siege engine)  
 - **battlement** (parapet)  
 - **chaplet** (garland)  
-- **coif** (chain mail hood)  
-- **coif** (head covering)  
+- **coif** (head covering, chain mail hood)  
 - **cotte** (tunic)  
 - **crenellation** (notched battlements)  
 - **crespine** (hair net)  
@@ -5034,5 +5037,6 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **ye** (you – plural)  
 
 <span id="endGLOSSARY"></span>
+
 ---
 
