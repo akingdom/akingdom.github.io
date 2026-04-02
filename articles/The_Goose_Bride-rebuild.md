@@ -4659,7 +4659,9 @@ document.addEventListener('DOMContentLoaded', () => {
       resultWrapper.appendChild(fragment);
     }
 
-    startNode.parentNode.insertBefore(resultWrapper, endNode);
+    if (startNode.parentNode) {
+      startNode.parentNode.insertBefore(resultWrapper, startNode.nextSibling);
+    }
 
     // --- 6. Diagnostics ---
     if (DUMP_DIAGNOSTICS) {
