@@ -4448,66 +4448,94 @@ Matilda of Scotland was a "bridge-builder" who successfully navigated the volati
 </style>
 <script>
 // filename: glossary-engine.js
+// filename: glossary-engine.js
 document.addEventListener('DOMContentLoaded', () => {
   (function() {
+
     // --- CONFIGURATION ---
     const START_SUFFIX = "STARTGLOSSARY";
     const END_SUFFIX = "ENDGLOSSARY";
     
-    // --- THE THREE LOGIC STATES ---
-    const STRIP_ORIGINAL_TAGS = true;       // State 1: Replace original HTML with clean DIVs
-    const STRIP_UNUSED_FROM_GLOSSARY = true; // State 2: Remove only unused <li> from original HTML
+    const STRIP_ORIGINAL_TAGS = true;
+    const STRIP_UNUSED_FROM_GLOSSARY = true;
     const DUMP_DIAGNOSTICS = true;
     const IGNORE_KEYWORD = "SKIP_LINK";
 
-    const glossaryLookup = {}; 
+    const glossaryLookup = {};
     const foundInText = new Set();
 
-    // 1. Locate Markers
+    // ✅ FIXED: normalization order
+    const normalizeKey = (str) =>
+      str
+        .toLowerCase()
+        .replace(/[–—]/g, '-')        // normalize dashes FIRST
+        .replace(/[^\w\s-]/g, '')     // then strip punctuation
+        .replace(/\s+/g, ' ')
+        .trim();
+
+    // --- 1. Locate Markers ---
     const startNode = document.querySelector(`[id$="${START_SUFFIX}" i]`);
     const endNode = document.querySelector(`[id$="${END_SUFFIX}" i]`);
     if (!startNode || !endNode) return;
 
-    // 2. THE SHIELD (Physical Extraction)
-    // We use extractContents() because it is capable of splitting parent tags (like <p>) 
-    // that surroundContents() cannot. This removes the glossary from the DOM 
-    // entirely so the scanner physically cannot "see" it during the scan phase.
+    // --- 2. Extract Glossary ---
     const range = document.createRange();
     range.setStartAfter(startNode);
     range.setEndBefore(endNode);
     const fragment = range.extractContents();
 
-    // 3. PARSING (LI-Focused)
-    // We only parse <li> tags. This prevents H3 headers like "Old English" 
-    // from being erroneously picked up as glossary terms.
+    // --- 3. Parse Glossary ---
     const parseLine = (text) => {
-      const parts = text.split(/[:\(]/);
-      if (parts.length >= 2) {
-        const term = parts[0].trim();
-        let definition = parts.slice(1).join(':').trim();
-        if (definition.endsWith(')')) definition = definition.slice(0, -1).trim();
-        glossaryLookup[term.toLowerCase()] = { 
-          original: term, 
-          def: definition.replace(IGNORE_KEYWORD, "").trim(),
-          skipLink: definition.includes(IGNORE_KEYWORD)
+      let raw = text.trim();
+
+      const skipLink = raw.includes(IGNORE_KEYWORD);
+      raw = raw.replace(IGNORE_KEYWORD, '').trim();
+
+      const termMatch = raw.match(/^(.+?)(?:\s*\(|\s*–|$)/);
+      if (!termMatch) return;
+
+      const term = termMatch[1].trim();
+
+      let defMatch = raw.match(/\((.*?)\)/);
+      let definition = defMatch ? defMatch[1].trim() : '';
+
+      if (!definition) {
+        const dashSplit = raw.split('–');
+        if (dashSplit.length > 1) {
+          definition = dashSplit.slice(1).join('–').trim();
+        }
+      }
+
+      const key = normalizeKey(term);
+
+      if (!glossaryLookup[key]) {
+        glossaryLookup[key] = {
+          original: term,
+          def: definition,
+          skipLink
         };
       }
     };
 
     fragment.querySelectorAll('li').forEach(li => parseLine(li.textContent));
 
-    // 4. GLOBAL SCANNER
+    // --- 4. Global Scanner ---
     const termKeys = Object.keys(glossaryLookup).sort((a, b) => b.length - a.length);
     const linkableKeys = termKeys.filter(k => !glossaryLookup[k].skipLink);
-    
+
     if (linkableKeys.length > 0) {
-      const pattern = new RegExp(`\\b(${linkableKeys.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|')})\\b`, 'gi');
+
+      const pattern = new RegExp(
+        `(?<!\\w)(${linkableKeys
+          .map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'))
+          .join('|')})(?!\\w)`,
+        'gi'
+      );
 
       const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
         acceptNode: (node) => {
           const p = node.parentElement;
-          // REJECT: Ignore headings and interactive elements
-          if (!p || p.closest('h1, h2, h3, h4, h5, h6, a, button, script, style, code')) {
+          if (!p || p.closest('.term, h1, h2, h3, h4, h5, h6, a, button, script, style, code')) {
             return NodeFilter.FILTER_REJECT;
           }
           return NodeFilter.FILTER_ACCEPT;
@@ -4518,81 +4546,122 @@ document.addEventListener('DOMContentLoaded', () => {
       let curr;
       while (curr = walker.nextNode()) nodes.push(curr);
 
+      // ✅ GLOBAL (not per node)
+      const alreadyLinked = new Set();
+
       nodes.forEach(node => {
         const text = node.nodeValue;
-        if (!pattern.test(text)) return;
-        
+
+        pattern.lastIndex = 0;
+        if (!pattern.exec(text)) return;
+        pattern.lastIndex = 0;
+
         const newFrag = document.createDocumentFragment();
         let lastIdx = 0;
-        pattern.lastIndex = 0;
         let match;
-        
+
         while ((match = pattern.exec(text)) !== null) {
-          newFrag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
+
+          newFrag.appendChild(
+            document.createTextNode(text.substring(lastIdx, match.index))
+          );
+
           const matchedWord = match[0];
-          const key = matchedWord.toLowerCase();
+          const key = normalizeKey(matchedWord);
           const data = glossaryLookup[key];
-          
-          const span = document.createElement('span');
-          span.className = 'term';
-          span.textContent = matchedWord;
-          span.onclick = (e) => { 
-            e.stopPropagation(); 
-            showDefinition(data.original, data.def, span); 
-          };
-          
-          newFrag.appendChild(span);
-          foundInText.add(key);
+
+          // ✅ Guard: no lookup match
+          if (!data) {
+            newFrag.appendChild(document.createTextNode(matchedWord));
+            lastIdx = pattern.lastIndex;
+            continue;
+          }
+
+          // ✅ First occurrence only (global)
+          if (alreadyLinked.has(key)) {
+            newFrag.appendChild(document.createTextNode(matchedWord));
+          } else {
+            const span = document.createElement('span');
+            span.className = 'term';
+            span.textContent = matchedWord;
+
+            span.onclick = (e) => {
+              e.stopPropagation();
+              showDefinition(data.original, data.def, span);
+            };
+
+            newFrag.appendChild(span);
+            alreadyLinked.add(key);
+            foundInText.add(key);
+          }
+
           lastIdx = pattern.lastIndex;
         }
-        newFrag.appendChild(document.createTextNode(text.substring(lastIdx)));
+
+        newFrag.appendChild(
+          document.createTextNode(text.substring(lastIdx))
+        );
+
         node.parentNode.replaceChild(newFrag, node);
       });
     }
 
-    // 5. DOM RE-ENTRY (The Three Logic States)
+    // --- 5. Rebuild Glossary ---
     const resultWrapper = document.createElement('div');
     resultWrapper.className = 'glossary-source-area';
 
     if (STRIP_ORIGINAL_TAGS) {
-      // STATE 1: Rebuild entirely clean DIVs
+
       termKeys.forEach(key => {
         const data = glossaryLookup[key];
         const isUsed = foundInText.has(key);
+
         if (STRIP_UNUSED_FROM_GLOSSARY && !isUsed && !data.skipLink) return;
-        
+
         const row = document.createElement('div');
         row.className = 'glossary-row';
         row.style.marginBottom = '0.4rem';
+
         row.innerHTML = `<span style="color:#6b2e2e;font-weight:bold">&bull; </span>`;
+
         const ts = document.createElement('span');
         ts.className = 'term';
         ts.textContent = data.original;
-        ts.onclick = (e) => { e.stopPropagation(); showDefinition(data.original, data.def, ts); };
+
+        ts.onclick = (e) => {
+          e.stopPropagation();
+          showDefinition(data.original, data.def, ts);
+        };
+
         row.appendChild(ts);
         resultWrapper.appendChild(row);
       });
+
     } else {
-      // STATE 2 & 3: Modify the original fragment
+
       if (STRIP_UNUSED_FROM_GLOSSARY) {
         fragment.querySelectorAll('li').forEach(li => {
-          const liText = li.textContent.toLowerCase();
+          const liText = normalizeKey(li.textContent);
+
           const isUsed = Array.from(foundInText).some(term => liText.includes(term));
-          const isSkipped = termKeys.some(k => glossaryLookup[k].skipLink && liText.includes(k));
+          const isSkipped = termKeys.some(k =>
+            glossaryLookup[k].skipLink && liText.includes(k)
+          );
+
           if (!isUsed && !isSkipped) li.remove();
         });
-        // Remove now-empty lists
+
         fragment.querySelectorAll('ul, ol').forEach(list => {
           if (list.children.length === 0) list.remove();
         });
       }
+
       resultWrapper.appendChild(fragment);
     }
 
-    // Re-insert the processed glossary back into the original location
     startNode.parentNode.insertBefore(resultWrapper, endNode);
 
-    // 6. Diagnostics & Tooltip
+    // --- 6. Diagnostics ---
     if (DUMP_DIAGNOSTICS) {
       console.group("Glossary Diagnostic Report");
       console.log("✅ Linked in Story Content:", Array.from(foundInText).sort());
@@ -4600,22 +4669,35 @@ document.addEventListener('DOMContentLoaded', () => {
       console.groupEnd();
     }
 
+    // --- Tooltip ---
     let tooltip = document.querySelector('.definition-tooltip') || document.createElement('div');
-    if (!tooltip.parentElement) { tooltip.className = 'definition-tooltip'; document.body.appendChild(tooltip); }
+
+    if (!tooltip.parentElement) {
+      tooltip.className = 'definition-tooltip';
+      document.body.appendChild(tooltip);
+    }
 
     function showDefinition(term, def, target) {
       tooltip.innerHTML = `<strong>${term}</strong><br>${def}`;
       tooltip.classList.add('show');
+
       const rect = target.getBoundingClientRect();
       const scrollY = window.pageYOffset;
+
       if (window.innerWidth >= 640) {
         tooltip.style.position = 'absolute';
         tooltip.style.top = `${rect.bottom + scrollY + 8}px`;
         tooltip.style.left = `${rect.left}px`;
       }
-      const hide = () => { tooltip.classList.remove('show'); document.removeEventListener('click', hide); };
+
+      const hide = () => {
+        tooltip.classList.remove('show');
+        document.removeEventListener('click', hide);
+      };
+
       setTimeout(() => document.addEventListener('click', hide), 100);
     }
+
   })();
 });
 
