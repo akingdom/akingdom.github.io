@@ -4453,192 +4453,160 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- CONFIGURATION ---
     const START_SUFFIX = "STARTGLOSSARY";
     const END_SUFFIX = "ENDGLOSSARY";
-    const STRIP_ORIGINAL_TAGS = false; // Set to true to replace original HTML with clean DIVs
-    const DUMP_DIAGNOSTICS = true;    // Console log linked vs unlinked terms
     
-    // --- USER CONTROL FLAGS ---
-    const STRIP_UNUSED_FROM_GLOSSARY = true; // Removes terms from list if not found in story
-    const IGNORE_KEYWORD = "SKIP_LINK";      // Keyword in definition to prevent auto-linking
-    
+    // --- THE THREE LOGIC STATES ---
+    const STRIP_ORIGINAL_TAGS = true;      // State 1: Replace litter with clean DIVs
+    const STRIP_UNUSED_FROM_GLOSSARY = true; // State 2: Prune unused <li> from litter
+    const DUMP_DIAGNOSTICS = true;
+
     const glossaryLookup = {}; 
     const foundInText = new Set();
 
-    // 1. Locate Markers (Case-insensitive ends-with)
+    // 1. Locate Markers
     const startNode = document.querySelector(`[id$="${START_SUFFIX}" i]`);
     const endNode = document.querySelector(`[id$="${END_SUFFIX}" i]`);
     if (!startNode || !endNode) return;
 
-    // 2. Capture and Parse Glossary Source
+    // 2. Shield the Glossary Area immediately
+    // We wrap the range in a hidden span so the scanner CANNOT see it yet.
     const range = document.createRange();
     range.setStartAfter(startNode);
     range.setEndBefore(endNode);
 
-    const sourceContainer = document.createElement('div');
-    sourceContainer.appendChild(range.cloneContents());
-    
-    const rawText = sourceContainer.textContent;
+    const shield = document.createElement('span');
+    shield.className = 'glossary-source-area';
+    shield.style.display = 'none'; // Keep it hidden during processing
+    range.surroundContents(shield);
+
+    // 3. Parse definitions from the shielded area
+    const rawText = shield.textContent;
     const lines = rawText.split(/\r?\n/);
-    
-    // This wrapper acts as a shield for the text scanner
-    const glossaryWrapper = document.createElement('div');
-    glossaryWrapper.className = 'glossary-source-area'; 
 
     lines.forEach(line => {
       const trimmed = line.trim();
       if (!trimmed) return;
-
       const parts = trimmed.split(/[:\(]/);
       if (parts.length >= 2) {
         const term = parts[0].trim();
         let definition = parts.slice(1).join(':').trim();
         if (definition.endsWith(')')) definition = definition.slice(0, -1).trim();
 
-        const shouldSkipLink = definition.includes(IGNORE_KEYWORD);
-        const cleanDefinition = definition.replace(IGNORE_KEYWORD, "").trim();
-
         glossaryLookup[term.toLowerCase()] = { 
           original: term, 
-          def: cleanDefinition,
-          skipLink: shouldSkipLink
+          def: definition,
+          skipLink: definition.includes("SKIP_LINK")
         };
       }
     });
 
-    // 3. Global Text Scanner
+    // 4. Global Text Scanner (Now ignoring the Shield and Headings)
     const termKeys = Object.keys(glossaryLookup).sort((a, b) => b.length - a.length);
-    if (termKeys.length === 0) return;
-
-    // Filter out terms the user explicitly marked to skip
     const linkableKeys = termKeys.filter(k => !glossaryLookup[k].skipLink);
-    const pattern = new RegExp(`\\b(${linkableKeys.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|')})\\b`, 'gi');
+    if (linkableKeys.length > 0) {
+      const pattern = new RegExp(`\\b(${linkableKeys.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|')})\\b`, 'gi');
 
-    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
-      acceptNode: (node) => {
-        const p = node.parentElement;
-        const tag = p.tagName;
-        
-        // REJECT if inside the glossary area
-        if (p.closest('.glossary-source-area')) return NodeFilter.FILTER_REJECT;
-        
-        // REJECT if inside a heading (H1, H2, etc)
-        if (/^H[1-6]$/.test(tag)) return NodeFilter.FILTER_REJECT;
-        
-        // REJECT functional/interactive tags
-        if (['SCRIPT', 'STYLE', 'TEXTAREA', 'A', 'BUTTON', 'CODE'].includes(tag)) {
+      const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+        acceptNode: (node) => {
+          const p = node.parentElement;
+          if (!p) return NodeFilter.FILTER_REJECT;
+          // REJECT if inside shield, headings, or interactive tags
+          if (p.closest('.glossary-source-area, h1, h2, h3, h4, h5, h6, a, button, script, style')) {
             return NodeFilter.FILTER_REJECT;
+          }
+          return NodeFilter.FILTER_ACCEPT;
         }
-        
-        return NodeFilter.FILTER_ACCEPT;
-      }
-    });
+      });
 
-    const nodesToProcess = [];
-    let curr;
-    while (curr = walker.nextNode()) nodesToProcess.push(curr);
+      const nodes = [];
+      let curr;
+      while (curr = walker.nextNode()) nodes.push(curr);
 
-    nodesToProcess.forEach(node => {
-      const text = node.nodeValue;
-      if (!pattern.test(text)) return;
-      
-      const newFrag = document.createDocumentFragment();
-      let lastIdx = 0;
-      pattern.lastIndex = 0; 
-      
-      let match;
-      while ((match = pattern.exec(text)) !== null) {
-        newFrag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
-        const matchedWord = match[0];
-        const key = matchedWord.toLowerCase();
-        const data = glossaryLookup[key];
-        
-        const span = document.createElement('span');
-        span.className = 'term';
-        span.textContent = matchedWord;
-        span.onclick = (e) => {
-          e.stopPropagation();
-          showDefinition(data.original, data.def, span);
-        };
-        newFrag.appendChild(span);
-        foundInText.add(key);
-        lastIdx = pattern.lastIndex;
-      }
-      newFrag.appendChild(document.createTextNode(text.substring(lastIdx)));
-      node.parentNode.replaceChild(newFrag, node);
-    });
-
-    // 4. Render Glossary Area (Handling the "Eaten" and "Strip Unused" flags)
-    const glossaryFragment = document.createDocumentFragment();
-    termKeys.forEach(key => {
-      const data = glossaryLookup[key];
-      const wasFound = foundInText.has(key);
-      
-      // Remove from glossary if not used in story (unless skipLink is set)
-      if (STRIP_UNUSED_FROM_GLOSSARY && !wasFound && !data.skipLink) return;
-
-      const row = document.createElement('div');
-      row.className = 'glossary-row';
-      row.style.marginBottom = '0.4rem';
-      
-      const bullet = document.createElement('span');
-      bullet.innerHTML = '&bull; ';
-      bullet.style.cssText = 'color: #6b2e2e; margin-right: 8px; font-weight: bold;';
-      
-      const termSpan = document.createElement('span');
-      termSpan.className = 'term'; 
-      termSpan.textContent = data.original;
-      termSpan.onclick = (e) => {
-        e.stopPropagation();
-        showDefinition(data.original, data.def, termSpan);
-      };
-      
-      row.appendChild(bullet);
-      row.appendChild(termSpan);
-      glossaryFragment.appendChild(row);
-    });
-
-    glossaryWrapper.appendChild(glossaryFragment);
-    
-    // SURGICAL UPDATE
-    if (STRIP_ORIGINAL_TAGS) {
-      range.deleteContents();
-      range.insertNode(glossaryWrapper);
-    } else {
-      // If NOT stripping, we append the rendered list after the end marker
-      endNode.parentNode.insertBefore(glossaryWrapper, endNode.nextSibling);
+      nodes.forEach(node => {
+        const text = node.nodeValue;
+        if (!pattern.test(text)) return;
+        const newFrag = document.createDocumentFragment();
+        let lastIdx = 0;
+        pattern.lastIndex = 0;
+        let match;
+        while ((match = pattern.exec(text)) !== null) {
+          newFrag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
+          const matchedWord = match[0];
+          const key = matchedWord.toLowerCase();
+          const data = glossaryLookup[key];
+          const span = document.createElement('span');
+          span.className = 'term';
+          span.textContent = matchedWord;
+          span.onclick = (e) => { e.stopPropagation(); showDefinition(data.original, data.def, span); };
+          newFrag.appendChild(span);
+          foundInText.add(key);
+          lastIdx = pattern.lastIndex;
+        }
+        newFrag.appendChild(document.createTextNode(text.substring(lastIdx)));
+        node.parentNode.replaceChild(newFrag, node);
+      });
     }
 
-    // 5. Diagnostics
+    // 5. Final DOM Update (Applying your 3-state requirements)
+    if (STRIP_ORIGINAL_TAGS) {
+      // STATE 1: Erase litter, rebuild clean DIVs
+      shield.innerHTML = ''; 
+      termKeys.forEach(key => {
+        const data = glossaryLookup[key];
+        if (STRIP_UNUSED_FROM_GLOSSARY && !foundInText.has(key) && !data.skipLink) return;
+        
+        const row = document.createElement('div');
+        row.className = 'glossary-row';
+        row.innerHTML = `<span style="color:#6b2e2e;font-weight:bold">&bull; </span>`;
+        const ts = document.createElement('span');
+        ts.className = 'term';
+        ts.textContent = data.original;
+        ts.onclick = (e) => { e.stopPropagation(); showDefinition(data.original, data.def, ts); };
+        row.appendChild(ts);
+        shield.appendChild(row);
+      });
+    } else if (STRIP_UNUSED_FROM_GLOSSARY) {
+      // STATE 2: Prune original <li> tags that aren't in the corpus
+      // We look for <li> tags specifically within the shield
+      const listItems = shield.querySelectorAll('li');
+      listItems.forEach(li => {
+        const liText = li.textContent.toLowerCase();
+        // Check if any of our FOUND terms are at the start of this LI
+        const isUsed = Array.from(foundInText).some(term => liText.startsWith(term));
+        if (!isUsed) {
+            li.remove();
+        }
+      });
+      // Clean up empty <ul> or <ol> "isolated parent chains"
+      shield.querySelectorAll('ul, ol').forEach(list => {
+        if (list.children.length === 0) list.remove();
+      });
+    }
+    // STATE 3: (Implicit) If both false, we do nothing and just show the shield.
+
+    shield.style.display = 'block'; // Make it visible again
+
     if (DUMP_DIAGNOSTICS) {
-      const unused = termKeys.filter(t => !foundInText.has(t) && !glossaryLookup[t].skipLink);
       console.group("Glossary Diagnostic Report");
-      console.log("✅ Linked in Story Content (%d):", foundInText.size, Array.from(foundInText).sort());
-      console.log("❌ Defined but Unused (%d):", unused.length, unused.sort());
+      console.log("✅ Linked in Corpus:", Array.from(foundInText).sort());
+      console.log("❌ Unused:", termKeys.filter(t => !foundInText.has(t)).sort());
       console.groupEnd();
     }
 
-    // 6. Shared Tooltip Logic
+    // 6. Tooltip Engine
     let tooltip = document.querySelector('.definition-tooltip') || document.createElement('div');
-    if (!tooltip.parentElement) {
-      tooltip.className = 'definition-tooltip';
-      document.body.appendChild(tooltip);
-    }
+    if (!tooltip.parentElement) { tooltip.className = 'definition-tooltip'; document.body.appendChild(tooltip); }
 
     function showDefinition(term, def, target) {
-      tooltip.innerHTML = `<strong>${term}</strong><br>${def}`;
+      tooltip.innerHTML = `<strong>${term}</strong><br>${def.replace("SKIP_LINK", "")}`;
       tooltip.classList.add('show');
       const rect = target.getBoundingClientRect();
       const scrollY = window.pageYOffset;
-      
       if (window.innerWidth >= 640) {
         tooltip.style.position = 'absolute';
         tooltip.style.top = `${rect.bottom + scrollY + 8}px`;
         tooltip.style.left = `${rect.left}px`;
       }
-      
-      const hide = () => {
-        tooltip.classList.remove('show');
-        document.removeEventListener('click', hide);
-      };
+      const hide = () => { tooltip.classList.remove('show'); document.removeEventListener('click', hide); };
       setTimeout(() => document.addEventListener('click', hide), 100);
     }
   })();
