@@ -4865,9 +4865,7 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **larder** (food storage)  
 - **lathe** (Kentish division)  
 - **league** (distance)  
-- **legerwite** (fine for fornication)  
 - **letters patent**  
-- **leyrwite** (fine for illicit sex)  
 - **livery** (delivery of property, also uniform)  
 - **manciple** (officer in charge of provisions)  
 - **manumission** (freeing of a serf)  
@@ -4883,7 +4881,7 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **murdrum** (fine for the secret killing of a Norman)  
 - **napery** (linen)  
 - **neatherd** (cowherd)  
-- **noble** (gold coin)  
+- **noble** (aristocrat, someone notable)  
 - **obit** (memorial mass)  
 - **ordeal** (trial by fire/water)  
 - **outlawry** (declared outside the law)  
