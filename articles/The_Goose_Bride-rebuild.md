@@ -277,7 +277,7 @@ Beatrice would find him in the doorway of the sleeping chamber, watching, his gr
 
 “Go and tend the fire, husband. Beatrice will stay with me.”
 
-And he would go.
+And he would go. Years later, Beatrice would realise that this was her mother's way of telling her father to rest and that he needed to care for himself more from now on.
 
 Beatrice brought apple blossoms once, when the trees first bloomed. She laid them on the pillow, and her mother’s thin fingers touched the petals.
 
@@ -297,11 +297,11 @@ She ran.
 
 He was in the doorway of the sleeping chamber, not crossing the threshold, just standing there with his back to her. His shoulders were shaking.
 
-Beatrice pushed past him.
+Beatrice looked in.
 
-Her mother lay still. Too still. Her eyes were closed, her hands folded, and someone (the priest, she later learned) had already placed a candle at her head and another at her feet.
+Her mother lay still. Too still. Her eyes were closed, her hands folded.
 
-Beatrice didn’t cry. She knelt beside the bed and put her cheek against her mother’s hand. It was cool to touch. Not cold yet. Just cool.
+Beatrice didn’t cry. She went in and knelt beside the bed and put her cheek against her mother’s hand. It was oddly cool to touch. Not cold yet. Just cool.
 
 Behind her, Harold made a sound she had never heard before and would never hear again. A sound that didn’t belong to the man who had crossed blades with rebels and dragged drowning lords from rivers.
 
@@ -4455,7 +4455,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const START_SUFFIX = "STARTGLOSSARY";
     const END_SUFFIX = "ENDGLOSSARY";
 
-    const STRIP_ORIGINAL_TAGS = true;          // TRUE = remove glossary entirely
+    const STRIP_ORIGINAL_TAGS = false;          // TRUE = remove glossary entirely
     const STRIP_UNUSED_FROM_GLOSSARY = true;   // only applies if above is FALSE
     const DUMP_DIAGNOSTICS = true;
     const IGNORE_KEYWORD = "SKIP_LINK";
