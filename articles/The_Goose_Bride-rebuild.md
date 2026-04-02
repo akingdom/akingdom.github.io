@@ -852,7 +852,7 @@ The King spoke suddenly, his voice low, resonant vibration that commanded the su
 
 "My father was mocked as the 'Tanner's Grandson' by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
 
-Henry's eyes scanned the far wall, unseeing. "I had no lands. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
+Henry's eyes scanned the far wall, unseeing. "They called me Lackland, for I had not a foot of earth to call mine. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
 
 The hall was still. Men who had grumbled over the cost of the Welsh campaign and the “aid” for the Empress’s wedding held their tongues. The King was leaving for Normandy in a fortnight, and when a king crossed the water, whispers multiplied.
 
@@ -878,51 +878,47 @@ He paused, his eyes flicking to the King with a look of devastating common sense
 
 "However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a marriageable asset who sits outside the direct line of succession. To refuse it is... inefficient. Your coffers are lean, but there is a coin left on the table."
 
-For a long moment, Henry said nothing, his diversion having miscarried. A few lords nodded, not in agreement but in habit — the reflex of men well practiced in weighing people, wheat and wool.
+A few lords nodded, not in agreement but in habit — the reflex of men well practiced in weighing people, wheat and wool. 
 
-Godfrey heard it. A coin. His posture tightened at this sudden appraisal. He glanced down at his shoes.
+Robert de Beaumont, Count of Meulan, let out a low, melodic laugh from the shadows of the pillar. He stepped forward, his fine silk robes whispering against the stone—a sharp contrast to Roger’s ink-stained wool.
 
-Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
+“Tell me, Sire, does the Sheriff of Nottingham charge a trespass fine for a Prince’s heart, or is that reserved only for the King’s deer?”
+
+Henry’s jaw tightened, a flash of genuine irritation crossing his face before he smoothed it into a grim half-smile. “Robert, if I taxed your arrogance, I could pay for a royal wedding.”
+
+Beaumont bowed with the satisfaction of a man who had successfully needled a King. “Then we are both in luck, Sire, for my pride is in endless supply. You may not be Lackland, but despite all the taxes, you are become Lacksilver. Now we wonder if your children are Spendsilver or Quicksilver.”
+
+Stinging laughter echoed about the hall from overtaxed barons, and for the longest moment, Henry said nothing, looking at men who had grown fat on royal favour. *Did I built all this*, he thought. *A kingdom where blood is tallied like wool? And these serve it greedily—more than they serve me.*
 
 ---
 
 ### Shadows
 
-The anger had drained from Henry's face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son.
+The anger drained from Henry’s face, leaving a gray weariness. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son. Beaumont’s needling still stung—*Lackland, Lacksilver*—and the unfriendly faces scattered about the hall reminded him that smiles could hide daggers.
 
-Henry saw unfriendly faces scattered about the hall, those that would smile in his presence and plot in his absence. Then his gaze drifted past them—and stopped.
+Then Henry saw it and stopped.
 
-In the shadows near the door, half-hidden behind a pillar, sat Godfrey. His son. While knights and lords shifted nervously under Henry's silence, the boy sat perfectly still. Not cowering. Not pleading. Simply... waiting. Watching the debate about his future as if it were a story about someone else.
+Godfrey. He sat half‑hidden behind a pillar. While lords milled about, the boy sat perfectly still. Not cowering. Simply waiting. Watching the debate about his future as if it were a story about someone else. The patience. The focus. The refusal to beg. 
 
-*He has learned to wait*, Henry thought. *As I waited. As I watched my brothers take everything while I sat in corners just like that.*
+*He has learned to wait*, Henry thought. *As I waited. As my brothers took everything while I sat in corners.* 
 
-The ghost of his own youth stared back at him from across the hall.
+The room felt suddenly small. He had two choices: treat his son as a surplus asset, or leave him with nothing, *unless*—
 
-Godfrey felt his father's gaze and looked up—slowly, carefully, the way a man looks at the sun. Their eyes met.
+Something tickled behind his eyes. Not anger, but shocking clarity. 
 
-Godfrey did not smile. He did not nod. He simply waited, as he had always waited, to see what his father would do.
-
-Henry saw it. The patience. The endurance. The refusal to beg.
-
-*He is better than I was. I clawed and fought and burned. He simply waits. And they call him weak.*
-
-Something hardened in his chest.
-
-*I built this*, he thought. *I made a kingdom where blood is tallied like wool. And now they serve it faithfully—more faithfully, perhaps, than they serve me.*
-
-The room felt suddenly small. Henry realized he had only two choices: accept their framing and treat his son as a surplus asset, or reject it and leave Godfrey with nothing.
-
-Then, something flickered behind his eyes. Not anger, but a dangerous, cold clarity. *Unless there is a third way.*
+*Unless there is a third way.*
 
 "So," Henry said softly, his voice dropping to a dangerous rasp. "Everyone arrays against me? Am I the only man in England who sees a son instead of a sack of wool?"
 
-He looked back at Roger, a dangerous smile playing at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
+A dangerous smile playing at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
 
 "You think my blood is currency, Roger? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid."
 
-Henry's voice began to rise, the "Scholar-King" giving way to the impulsive pride of the Conqueror's son. He jabbed a finger toward the heavy, carved doors of the lodge.
+Henry's voice began to rise, the "Scholar-King" giving way to the impulsive pride of the Conqueror's son. “If he be a coin, Roger, then we shall toss him to the Heavens!”
 
-"If he be a coin, Roger, then we shall toss him to the Heavens! The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
+He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, carved doors of the lodge.
+
+“The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
 
 The Queen stared at him, her face pale. "You cannot possibly mean to cast his life so blindly."
 
@@ -4914,6 +4910,7 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **priorSKIP_LINK** (monastic official)  
 - **purgatory** (place of purification)  
 - **purveyance** (right of the crown to requisition goods)  
+- **quicksilver** (liquid mercury metal used in gold mining)
 - **quitclaim** (release of claim)  
 - **reaper** (harvester)  
 - **rectory** (benefice)  
