@@ -138,6 +138,8 @@ She turned back to thank the boy, but he had vanished.
 
 ---
 
+### A promise made
+
 Her mother scooped her up, laughing. "Did you find the geese?"
 
 "The geese found *me*, Mummy. Why were they chasing me?"
@@ -285,6 +287,8 @@ Beatrice didn’t know what to say. She held Goosie instead, and the goose press
 
 ---
 
+### Falling petals
+
 The end came on a morning exactly like that—warm, soft, the apple trees heavy with pink and white.
 
 Beatrice was fetching water when her father’s shout tore through the village.
@@ -309,6 +313,8 @@ She lifted Goosie—who had followed, always—and held her so that the goose’
 
 ---
 
+### Everything is wrong
+
 At the burial, Harold stood like a man made of stone. His hands were on Beatrice’s shoulders—heavy, warm, the only warm thing—but he didn’t speak. Didn’t move. Just watched as they lowered the plain wooden box into the rich earth.
 
 The apple trees were still blooming, white petals drifting on the wind. Beatrice hated them for their indifference. She would gladly have stripped every twig bare, if stripping the trees could bring her mother back. She ran from them like a bird flying away. Goosie flapped alongside her, wings half-spread and honking in a frantic, confused rhythm. She bolted through the orchard, past the village and the open fields, her breath coming in ragged stabs.
@@ -324,6 +330,8 @@ Beatrice stood there for a long time, Goosie pressed against her leg, watching g
 The geese knew her now, who she was. That was something, at least. She wondered how geese felt about their mothers.
 
 ---
+
+### The weight of memory
 
 She wandered about aimlessly, eventually finding herself back home, stopping at the edge of the clearing.
 
@@ -342,6 +350,8 @@ He nodded. His eyes were dull, as though he had retreated from the outside world
 She led him inside. Goosie followed.
 
 ---
+
+### Caring for father
 
 That night, Beatrice built up the fire and sat with him until the logs burned down to ash. He did not speak. Neither did she. When the room grew too dark to see, she touched his arm and guided him toward the sleeping chamber.
 
@@ -363,6 +373,8 @@ She lay awake a long time, listening. The house was too quiet. No soft breathing
 
 ---
 
+### Rest and healing
+
 In the morning, she found him still in the chair, his cloak pulled tight, the staghound curled at his feet.
 
 He did not sleep in the bed for a month. Each night, he settled into the chair by the hearth, and each morning she found him there, stiff and silent. She did not press him. Instead, she went about the work of the house: she kneaded the bread, she swept the rushes, she tended the fire, she fed the geese. She did not worry him to ask permission. She simply did what needed doing.
@@ -381,6 +393,8 @@ Beatrice closed the door and left him to it. Late that night she heard him sobbi
 
 ---
 
+### Busy every day
+
 In the morning, her father looked refreshed, but frail.
 
 Above the hearth, the sword that had carved through shield walls hung, but now it seemed like someone else’s memory. The familiar bounce in his step was gone, never to return. The man who had led hundreds now sat by the fire with his staghound, watching his daughter run the manor without being asked.
@@ -398,7 +412,7 @@ And Goosie followed her. Always.
 
 It was a still evening in the hall at *Stanwey*. The sun cast long, amber shadows across the rich fallow strips of the fertile river valley, cut deep with an iron tipped plough, and a clamour of rooks circled the wood’s edge, their harsh *kaah-kaah* fading as they settled into the high branches. The smoke from the village fires drifted upward, thin and grey, like a long-held breath finally released.
 
-The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. She watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
+The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. Their two serveants were cleaning up in the background. Beatrice sat down and watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
 
 "Father?" she asked softly.
 
@@ -414,27 +428,39 @@ Seeing his distant smile, Beatrice leaned in and smiled. “Tell me, Father...�
 
 Harold paused, his eyes drifting from the script to the window, and for a moment the manor house seemed to grow cold with the memory of salt spray. "For *Harold Rauth-ulfr Magnús-son*, Two and sixty years," he said, his voice dropping into the low, rolling thrum of a saga-man. "I was but a lad of sixteen when the Sea-Steeds of the Great Harald Harald Hardrada first bit the sands at Riccall. I saw the Raven-Banner snap in the wind before the Storm of Swords broke us at the Bridge. The North-way bled out on that grass, and I thought my own thread was spun."
 
-He fingered a stiff page of the heavy book, his gaze hard but distant. "But the Normans were made of different cloth. I bent my knee to the Bastard King while the blood was still wet on my mail. I traded the axe for a Norman’s horse and rode with a few of his sons and nobles through the mud of the West. Now, that was when—"
+He fingered a stiff page of the heavy book, his gaze hard but distant. "But the Normans were made of different cloth. I bent my knee to their King William while the blood was still wet on my mail. I traded the axe for a Norman’s horse and rode with a few of his sons and nobles through the mud of the West. Now, that was when—"
 
 He was cut short by a heavy, hesitant rapping at the oak door. The latch clicked, and the cool evening air spilled in.
 
-The quiet was broken as the Reeve appeared at the manor door, his heavy woolen cap clutched tight in his hands. He didn't speak until Harold acknowledged him with a nod, and even then, his voice was thick with a fear no title could mask. His youngest was burning, he said, and the village midwife had already turned away.
+The quiet was broken as the Reeve appeared at the manor door, apologetic, wringing his heavy woolen cap tightly in his hands. He didn't speak until Harold acknowledged him with a nod, and even then, his voice was thick with a fear no title could mask. 
+
+”My youngest is ill, burning up”, he said, ”and the village midwife has turned away. If only your wife were still alive—”
+
+”I'll come.” Beatrice stood.
 
 ---
 
-Once Beatrice arrived, the Reeve’s wife sent her husband outdoors. "For illness respects no man and you'd only be in our way, husband, head of the village or not," she said. The youngest daughter had sickened with a fever that refused to break. Beatrice remembered her mother’s hands, the way they could find the pulse in a wrist, the way they knew which herbs to steep and which to burn. She knelt beside the girl’s pallet with a cup of brewed yarrow, elderflower and mint tea and said a prayer she had learned from the old nurse.
+### A life in the balance
+
+At the Reeve’s cottage, he was sent outdoors by his wife. "Illness respects no one, husband, and you'll only be in our way, head of the village or not," she said as Beatrice examined the youngest daughter. The girl had sickened with a fever that refused to break. Beatrice remembered her mother’s hands, the way they could find the pulse in a wrist, the way they knew which herbs to steep and which to burn. She knelt beside the girl’s pallet with a cup of brewed yarrow, elderflower and mint tea and said a prayer she had learned from the old nurse.
 
 “She’ll be right,” she said, though her own voice trembled.
 
-The girl lived. Afterward, the reeve’s wife called her “the Lady of Stanwey” with a look that made Beatrice feel odd, her throat tightening. She was not a lady. She was a maturing girl, who remembered her mother’s hands and tried to be like them.
+The girl lived. Afterward, the Reeve’s wife called her “the Lady of Stanwey” with a look that made Beatrice feel odd, her throat tightening. She was not a lady. She was a maturing girl, who remembered her mother’s hands and tried to be like them.
 
 ---
 
-That was the year she began to understand about her father becoming older—the things he refused to say about himself. He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak to her of various neighbours.
+### Growing up
+
+That was the year she began to understand—about her father becoming older—the things he refused to say about himself. He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak to her of various neighbours.
 
 He would venture down to the village, his breath coming shorter with every step back up the slope, and afterwards he would watch her with a strange, searching look. He spoke of the miller’s new wife who had a "sharp eye for the grain," or how the blacksmith’s son was "strong of arm but slow of wit." He was giving her his eyes, she realized. He was teaching her how to see the people they ruled, before his own sight faded into the grey.
 
-“The thegn of Thornbury was speaking to me of his son,” he said to her one evening, stirring the coals. “I met the boy. Edmund (Harold said it as *‘Ædmond’*). He saw you at the autumn fair.”
+---
+
+### A man
+
+“The thegn of Thornbury was speaking to me of his son,” he said to her one evening, stirring the coals. “I met the boy—Edmund (Harold said it as *‘Ædmond’*). He saw you at the autumn fair.”
 
 Beatrice’s hands kept kneading the bread dough. “Has he?”
 
@@ -444,7 +470,7 @@ She said nothing. The bread dough was smooth under her palms, but her thoughts w
 
 “You don’t have to decide anything,” Harold added quickly. “I only thought… it would be well to have neighbours who are friends.”
 
-Beatrice nodded. “I’ll think on it.” However, her thoughts were for her father. *However would he survive in his frail state once she married?* 
+Beatrice nodded. “I’ll think on it.” But her thoughts were for her father. *However would he survive in his frail state once she married?* 
 
 She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
 
@@ -454,23 +480,23 @@ From time to time he would mention others.
 
 “A merchant from Worcester sends word of his interest. He has gold enough to roof the hall in lead.”
 
-Beatrice didn't look up from her stitching. “Not for Stanwey, Father.”
+Beatrice didn't look up from her stitching. “A merchant? An old coin counter. I am young and have seen but a few harvests. Not for Stanwey, Father.”
 
 “A widowed-man from the valley has three strong sons to hold the harvest.”
 
-She stopped mixing herbs and shook her head. “Not for Stanwey.”
+She stopped mixing herbs and shook her head. Three sons, Father? They would bring three wives, and by the second winter, they would be deciding which corner of the hearth is yours. Not for Stanwey.”
 
-"A minor Norman knight whose lands lay west of the forest, a sturdy man.”
+“A minor Norman knight whose lands lay west, a sturdy man.”
 
-Beatrice put another log into the hearth.  “Not for Stanwey.”
+Beatrice put another log into the hearth. “A man off to war at the first sign of trouble—just like—” She stopped. The unfinished thought hung in the air.
 
-Each time, Beatrice found a reason. The farmer’s sons would never respect her. The merchant was too old. The knight’s holding was too far from the river.
-
-Harold listened. He nodded. He did not press.
+Harold listened. He nodded sadly. He did not press.
 
 But she saw the way he looked at the sword above the hearth—the blade he had carried when he rode with kings. She saw the way his hand went to his chest after climbing the slope from the village. He was not getting younger. He was afraid of leaving her alone, and she no less so.
 
 ---
+
+### Sir Guy - A proud man
 
 The real trouble began when Sir Guy de Montfort (knight) came to Stanwey followed by a procession of servants trailing after him.
 
@@ -496,33 +522,37 @@ Beatrice’s heart clenched. “What did you say?”
 
 “That I would consider it.” Harold’s eyes were tired. “He is a knight. He has the king’s favour. He could protect this place when I am gone.”
 
-“But who would protect me? Father, you taught me to observe the seasons. To know when the first snow will come. And mother taught me to tell a friend from not, no matter whether they be a bird, a man or a beast.”
+“But who would protect me? Father, you taught me to observe the seasons. To know when the first snow will come. And mother taught me to tell friend from foe, no matter if a bird, a man or a beast.”
 
 She went to the window, watching the last light fade over the fields. 
 
 “I have watched him. When he thinks no one is listening, he speaks of ‘improving’ the manor. He asks the reeve how many ploughs we have, how many oxen. He asked the nurse whether the river floods in spring.”
 
-“It is not me he wants,” Beatrice said. “And he would as soon turn us out without a crust or a thread as... as easily as he would look at his reflection in a bucket.”
-
-Harold said nothing.
+“Surely it is not me he wants, but the hall,” Beatrice said. “I think he would as soon turn us out without a crust or a thread as... as easily as he would look at his reflection in a bucket.”
 
 “He is a landowner,” Harold said. “These are the things landowners ask.”
 
-“He asked whether the king’s writ runs here, or whether the sheriff’s men are needed to keep order.”
+Harold and Beatrice both sighed. This was no minor knight, but a man with connections in the royal court.
+
+“Father, he asked whether the king’s writ runs here, or whether the sheriff’s men are needed to keep order.”
 
 Harold’s expression shifted.
 
-Beatrice turned to face him. “I will marry when I must. But not to a man who sees our people as livestock to be counted. Not for Stanwey, Father.”
+Beatrice turned to face him. “I shall marry when I must. But not to a man who sees our people as livestock, as coin to be counted. Not for Stanwey, Father.”
 
 ---
 
-She discovered the truth three days later.
+### Sir Guy's secret
 
-She had gone to the nurse’s farm to collect eggs, taking the path along the river. The alders were bare, the reeds brown, but the geese were upset, honking and splashing uneasily in the shallows. She was halfway down the lane when she heard voices.
+She confirmed the truth three days later.
 
-Sir Guy was there, standing with the nurse outside the poultry shed. He had ridden alone this time, his horse tied to a post.
+It was an overcast day with signs of rain. She had gone to the nurse’s farm to collect eggs, taking the path along the river to the crossing. The alders were bare, the reeds brown, but the geese were upset, honking and splashing uneasily in the shallows. She heard voices coming through the trees and bracken. 
 
-“The old man is either stubborn or just plain senile.” His voice was low, impatient. “The estate will surely escheat to the crown within five years. The king’s justices will see it. Since when can a daughter hold thegn’s land without a husband? Every loose tongue shares how she has refused every man her father has ever brought. She is insolent, foolish, or both. But the land is good. The wool from the southern fields alone is worth—” 
+She was halfway up the track when she spied Sir Guy, standing with the nurse, by the poultry shed. He had ridden alone this time, his horse tied to a post.
+
+“That old man is either stubborn or just plain senile.” His voice was low, impatient. “The estate will surely escheat to the crown within five years. The king’s justices will see it.”
+
+“Since when can a daughter hold thegn’s land without a husband,” he scoffed. Every loose tongue shares how she has refused every man her father has ever brought. She is insolent, foolish, or both. But the land is good. The wool from the southern fields alone is worth—” 
 
 Sir Guy stopped as his horse bolted past them at a gallop, heading for the river crossing. His normally low smooth voice voice turned into yell with un-knightly words that would make a pig blush. He took off, scattering the geese, running after his mount, as though chased by a swarm of bees. Far behind him, the nurse doubled over in a fit of laughter, slapping her leg at the comedy of the scene. 
 
@@ -535,6 +565,8 @@ Then she noticed Beatrice’s trembling hands. She patted her hand and simply sa
 She guided Beatrice back into the shadows of the cottage, toward the low roar of the hearth. The room smelt of ancient peat-smoke and the sharp tang of drying mugwort, but as the woman stirred the pot, the heavy, golden scent of honey rose to meet them. Soon, a steaming wooden mazer was pressed into Beatrice’s palms. It was a spiced posset, thick with honey and the bitter, earthy scent of valerian root, its warmth seeping through the maple wood to still the shaking in her fingers.
 
 ---
+
+### Not for Stanwey
 
 When Beatrice returned home, she told Harold everything.
 
@@ -554,9 +586,8 @@ He looked at her—really looked—and for a moment, she saw the man who had pul
 
 She took his hand. “And your daughter, father, but as for that man, not for Stanwey, no, never.”
 
----
-
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 6 — Galloping Hooves
 
@@ -571,6 +602,8 @@ Inside, Beatrice scooped up her goose.
 Goosie honked.
 
 ---
+
+### My kingdom for a goose
 
 The messenger rode away, leaving Beatrice in the doorway, feeling unwell, Goosie nesting warmly in her arms. She looked at her father; Harold looked back, his eyes hollow. They both knew, as surely as the sun set over the Wrekin, that they had nothing suitable for the King except the unthinkable.
 
@@ -630,6 +663,8 @@ She sat there, head spinning. She might have prayed, or she might have simply dr
 
 ---
 
+### A goose's trouble
+
 Beatrice walked home in the fading light.
 
 At the edge of the clearing, she stopped. Goosie was there—waiting for her, always waiting. The goose waddled forward and pressed her head against Beatrice's knee.
@@ -649,6 +684,8 @@ Beatrice carried her inside. Harold looked up from his chair. He saw her empty h
 He didn't say *your mother's goose*. He didn't need to.
 
 ---
+
+### A reckoning and a plan
 
 Harold sighed from his chair by the fire. "It must be done, daughter."
 
@@ -702,6 +739,7 @@ Then the road took her, toward a king who had no idea she was coming.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
+
 ## Chapter 7 — The King's Frustration
 
 The great oak doors of Rockingham's hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
@@ -744,7 +782,6 @@ Only then did his expression soften a little. "What news?"
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
----
 
 ## Chapter 8 — The Breton Offer
 
@@ -785,6 +822,7 @@ Henry leaned back, his expression unreadable. After a long moment, he spoke, his
 In truth, he knew the answer. He turned to the fire, and the hall held its breath.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 9 — The Ledger and the Lion
 
@@ -846,6 +884,10 @@ Godfrey heard it. A coin. His posture tightened at this sudden appraisal. He gla
 
 Roger finished speaking and returned to his ledger, the scratch of his quill the only sound in the sudden quiet. The Queen folded her hands and waited.
 
+---
+
+### Shadows
+
 The anger had drained from Henry's face, leaving something worse: a gray weariness, the look of a man who has just understood a painful truth about himself. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son.
 
 Henry saw unfriendly faces scattered about the hall, those that would smile in his presence and plot in his absence. Then his gaze drifted past them—and stopped.
@@ -902,7 +944,7 @@ The hall was still nursing the King's mood. Nobles muttered into their wine, cas
 
 As Beatrice entered, carrying the handmade basket and dusty from the journey, Sir Guy recognised her as he lounged near the doorway. He was the young Norman knight, who had tried to court her.
 
-**Sir Guy de Montfort.**
+### **Sir Guy de Montfort.**
 
 Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at Laxton parish church, across the valley). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
 
@@ -1050,6 +1092,7 @@ The moment passed. Standing in the large doorway to the hall, she turned and imp
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
+
 ## Chapter 10 — A Matter of Diplomacy
 
 Beatrice curtsied and went. The heavy doors closed behind her.
@@ -1129,6 +1172,8 @@ A real smile now. "You always do."
 
 ---
 
+### Summoned and sent
+
 The King looked toward his sons, for there were several present about the hall. His gaze found Godfrey, half-hidden in the shadows near a pillar.
 
 Henry beckoned. "Godfrey. Come."
@@ -1162,6 +1207,8 @@ They were watching him. Both of them. Together.
 He went out into the dusk.
 
 ---
+
+### A royal decree
 
 The hall fell quiet again. Henry reached for his wine.
 
@@ -1209,13 +1256,16 @@ She rose, moving away, but her smile lingered. "I learned from the best."
 
 --- 
 
+### The other watchers
+
 In the hall, a few nobles looked at the door and thought of Godfrey, their eyes narrow, already calculating what this unexpected match might cost or gain them. In courts, alliances could shift faster than the wind, and a cunning soul learned to watch which way it blew.
 
 Outside, under a pale sky, the pale stone road stretched eastward through the forest. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, unaware that her life had just changed forever.
 
 He walked faster.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 11 — The Road Home
 
@@ -1258,6 +1308,10 @@ She climbed up beside the girls, who shuffled aside, eyeing her basket. The woma
 The wain lurched forward. The iron‑shod wheels bit into the white limestone ruts of the zigzag scarp with a jarring, metallic crunch. On the steep descent, the heavy frame kicked up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way back and forth down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
 
 The man hummed a country ditty under his breath. The girls whispered to each other, glancing curiously at Beatrice, but they were soon enough joining in with their father’s tune, paying her little heed, keeping time with the clack of the ox‑pole. Beatrice thought briefly about that boy by the pillar and wondered who he was.
+
+---
+
+### News from the gate
 
 Partway down the winding hillside, the woman half‑turned to Beatrice. “What brought you so far?”
 
@@ -1323,9 +1377,13 @@ But something pressed at her mind, a thought she did not want to look at directl
 
 She clutched the thought like a rope. *If it was me, they would have said. The queen would have said. Someone would have pulled me aside and told me. I walked out and no one stopped me. No one said a word. I am safe.*
 
-Her fingers were white on the wicker. *It is not me. It cannot be me. It is some other girl with a goose, some girl they did not tell, some girl who was not me.*
+---
 
-The mother’s voice broke through. “As I said before, she got to take her bird home with her. Walked right out of the hall with it under her arm.”
+### Not me
+
+Beatrice's fingers were white on the wicker. *It is not me. It cannot be me. It is some other girl with a goose, some girl they did not tell, some girl who was not me.*
+
+The mother’s voice broke through. “She got to take her bird home. Walked right out of the hall with it under her arm.”
 
 Beatrice heard herself laugh. It came out loud, too loud, like the caw of a rook startled from a branch. “Imagine such a thing. A girl keeping her bird.”
 
@@ -1351,19 +1409,21 @@ She pressed her forehead against the rough wood and tried to think of nothing, b
 
 ---
 
-The cart rumbled slowly on, the bullocks flicking their ears and tails at the flies. 
+### Why me
+
+The cart rumbled slowly on, the bullocks flicking their ears and tails at the flies.
 
 A new sound from behind: rhythmic beat of horse hooves—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them past.
 
-Two men in the king’s colours drew alongside, their horses blowing. The older guard scanned the cart, his eyes passing over the family, over Beatrice, over the basket. “Good folk,” he said, “we seek a young woman on this road, travelling alone for Stanwey, with a goose.”
+Two men in the king’s colours drew alongside, their horses blowing. The older guard scanned the cart. “Good folk, we seek a young woman on this road, travelling alone for Stanwey, with a goose.”
 
 John’s hand tightened on the goad. “We’ve seen no one with a goose, sir.”
 
-The guard’s gaze lingered on Beatrice. She kept her face still, her hands folded over the basket. The younger guard leaned down, looking at the girls, at the woman, at the child in her lap. His eyes fell on Beatrice and frowned.
+The guard’s gaze lingered on Beatrice. She kept her face still. The younger guard leaned down, his eyes falling on her basket, then moving away.
 
 “She’d be alone,” the older guard said. “You’re a family.”
 
-“That we are,” said the woman, her voice bright. “Just us and our deliveries.”
+“That we are,” said the woman, her voice bright.
 
 The older guard nodded. “Carry on, then.”
 
@@ -1371,23 +1431,25 @@ They rode on.
 
 The cart lurched forward. The woman let out a breath. “John, just think, if our daughters were a little older…”
 
-But Beatrice was no longer listening. Her hands cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. But why didn't anyone tell me earlier? No. Surely not.* 
+But Beatrice was no longer listening. Her hands cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. But why didn't anyone tell me earlier? No. Surely not.*
 
 ---
 
-Voices woke Beatrice from a strange dream. The driver, John, had pulled up at the fork. “This is where we turn, Miss.”
+### Parting of ways
+
+Voices woke Beatrice from a strange dream. John had pulled up at the fork. “This is where we turn, Miss.”
 
 The woman leaned back. “We let you sleep. You must have been worn out, you poor thing.” Her eyes glittered, but not unkindly. “Take care of yourself, dear. And your goose.”
 
-“Thank you. For the ride and everything.” 
+“Thank you. For the ride and everything.”
 
-Beatrice picked up her basket and climbed down on shaky legs. She stood at the lane’s edge, basket in hand, and watched the cart creak away. 
-
-The woman and girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone with her goose.
+Beatrice climbed down on shaky legs. She stood at the lane’s edge, basket in hand, and watched the cart creak away. The woman and girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone with her goose.
 
 She set her face towards home.
 
 ---
+
+### Stanwey lane
 
 The lane was narrow, rutted, the trees close on either side. The silence after the cart’s noise was almost deafening. She could hear her own breathing, the rustle of Goosie in the basket, the crunch of her shoes on the stones.
 
@@ -1407,6 +1469,7 @@ Did he know? Did it matter if it was him? Why didn't he say anything? He must ha
 
 ---
 
+### Company
 Beatrice was so lost in thought that she did not hear the horse until it was nearly upon her.
 
 It came from behind her, a single noble rider, walking slowly. She stepped to the side of the lane, pulling the basket close, and kept her eyes down.
@@ -1450,6 +1513,10 @@ She straightened, flustered. Her hand went to her face uncertainly.
 She looked at her fingers, now smudged with grey, then at him.
 
 *I have charcoal on my nose.*
+
+---
+
+### Many questions
 
 Beatrice tucked her hand down, cheeks burning. She had rubbed the soot on that morning, to blend in like a charcoal‑burner, not a thegn's daughter, while travelling to the hall.
 
@@ -1501,6 +1568,8 @@ He leant towards her.
 
 ---
 
+### Soldiers
+
 Two riders appeared from around the bend—the same two guards from before. They pulled up hard, horses blowing. The older one scanned the lane, saw Godfrey, saw Beatrice beside him, saw the basket. His face flickered: surprise, then relief, then a quick glance at his companion.
 
 Godfrey stepped forward. “You reached her father’s hall?”
@@ -1537,6 +1606,8 @@ They rode back toward the castle.
 
 ---
 
+### Some heavy thoughts
+
 The shady lane was quiet.
 
 The soldiers were gone.
@@ -1561,6 +1632,8 @@ For her father, for Stanwey, for the life she had built and the life that was be
 
 ---
 
+### Feeling empty
+
 She did not know how long she knelt there. The ground was cold through her skirt, the basket tipped on its side beside her, Goosie’s worried honks a distant sound.
 
 At length, the grief expelled itself, leaving a hollow stillness inside her. The sudden chill of the evening air hit her skin with the force of cold water.
@@ -1570,6 +1643,8 @@ She looked around, unable to speak, and saw him standing a little way off, tendi
 He was not looking at her. He was looking at the ground, at the trees, at anything but her tears. His hands were at his sides, not reaching out, not offering what he could not give.
 
 ---
+
+### What manner of man is this
 
 When she rose, unsteadily, he looked up. She saw him hesitate—the same uncertainty she had seen in the hall, the same careful waiting. Then he walked toward her, stopping a few feet away.
 
@@ -1627,7 +1702,8 @@ She walked toward the hall. At the door, she turned. He was still there, at the 
 
 She went inside, carrying the basket.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 12 – The Blessing
 
@@ -1643,7 +1719,11 @@ She crossed the room and knelt beside his chair, taking his cold hand in hers. H
 
 “I’m back.”
 
-He looked at her face—the tear tracks, the swollen eyes, the dirt from the road. His jaw tightened. “What happened?”
+---
+
+### News for father
+
+Harold looked at his daughter's face—the tear tracks, the swollen eyes, the dirt from the road. His jaw tightened. “What happened?”
 
 She shook her head. “Nothing. I am well. The goose is well.”
 
@@ -1691,7 +1771,6 @@ She thought of the young man who had stood apart while she wept, giving her spac
 
 “I want to know if he is who he says he is,” she said. “I want to know his character, his honour. I want to know if he will keep his word. If—” She stopped, her voice catching. “If my life is to change—I want to be the one who chooses. Not the king. Not the vow. Me.”
 
-
 Harold’s face softened. “Then you had better bring him in.”
 
 She rose. At the door, she paused.
@@ -1705,6 +1784,8 @@ Harold’s eyes flickered. “He knows the old words?”
 She opened the door and stepped out into the fading light. 
 
 ---
+
+### Goosie's opinion matters
 
 Godfrey was still outside, waiting at the tree line.
 
@@ -1723,7 +1804,7 @@ And then, quite suddenly, she tucked her head under her wing, gave a soft rustle
 Godfrey looked down at her, and something in his face shifted—not quite a smile, but the beginning of one.
 
 “Hello again, little one,” he said quietly.
-
+
 Goosie waddled back toward the hall, pausing at the threshold to look back at him, as if to say *Well? Are you coming?*
 
 Beatrice let out the breath she had been holding. She turned to Godfrey, her eyes sparkling nervously.
@@ -1733,6 +1814,8 @@ Beatrice let out the breath she had been holding. She turned to Godfrey, her eye
 Godfrey walked toward the door and Goosie led the way inside.
 
 ---
+
+### Godfrey and Harold meet
 
 The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
 
@@ -1830,11 +1913,10 @@ Godfrey’s answer was too soft to hear.
 
 She smiled, and went out to fetch the wood.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 15 – The Courtship
-
-### The Courtship
 
 In the weeks that followed, Godfrey became a familiar sight at Stanwey. He came when he could—a day here, an afternoon there—always on horseback, always alone. He did not announce himself; he simply appeared and waited until a servant noticed him.
 
@@ -1849,6 +1931,8 @@ Harold watched from his chair by the window, and when Beatrice came to stand bes
 “That’s why it matters.”
 
 ---
+
+### A few plans
 
 One afternoon, Godfrey found Beatrice in the herb garden, Goosie pecking contentedly nearby. He sat on the bench beside her and said nothing for a long while.
 
@@ -1908,7 +1992,8 @@ Beatrice watched them from the door of the hall, Goosie at her feet. Her father 
 
 She did not ask what he meant. She thought she knew.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 16 – The King’s Visit
 
@@ -1928,6 +2013,8 @@ She laughed despite herself. The knot in her chest loosened a little.
 
 ---
 
+### A Royal Visit - Ready at last
+
 The villagers had done their work well. The lane was swept, the cottages tidy, the children washed and set in rows. The reeve had stationed men at the crossroads to guide the royal retinue. Beatrice had asked for flowers—spring flowers, even though it was only November—and the children had gathered armfuls of late chrysanthemums and dried lavender, their colours muted but brave.
 
 Godfrey arrived first, riding ahead of the main party. He dismounted and came to stand beside Beatrice at the gate.
@@ -1941,6 +2028,8 @@ Godfrey arrived first, riding ahead of the main party. He dismounted and came to
 Beatrice did not know what to say to that. She watched the road, her hands cold despite the morning sun.
 
 ---
+
+### The King is here
 
 The king’s retinue appeared around the bend—a dozen mounted knights, a cart with provisions, a cluster of servants. At their head rode Henry himself, on a great grey horse, his cloak dark against the pale sky.
 
@@ -1962,6 +2051,8 @@ Beatrice curtsied. “Goosie, thanks to your mercy, sire.”
 
 ---
 
+### Be it ever so humble
+
 The hall had never looked so small. Henry sat in Harold’s chair for a time—Harold had insisted—and the old thegn took the stool beside him, their heads close as they talked. Beatrice moved between them, pouring wine, serving bread, trying not to listen.
 
 But she could not help hearing fragments.
@@ -1972,7 +2063,7 @@ But she could not help hearing fragments.
 
 “Some things do not change.”
 
-Henry laughed—a real laugh, warm and rough. He looked at Harold, and his face softened. “You saved his life, Hrathulfr. I have not forgotten.”
+Henry laughed—a real laugh, warm and rough. He looked at Harold, and his face softened. “You saved his life, Rauthulfr. I have not forgotten.”
 
 “I did my duty, sire.”
 
@@ -1983,10 +2074,14 @@ Harold’s mouth twitched. “The silver was easier to train.”
 Henry roared with laughter. Godfrey, standing by the door, allowed himself a small smile.
 
 ---
-
+
+### Negotiation of fathers
+
 Later, when the meal was done and the fire had been built up, Henry sent everyone away. He sat alone with Harold in the small circle of light.
 
-Henry leaned back, contentedly, his broad shoulders relaxing against the wall. “It is good to sit with old friends. Speak your words, Hrathulfr, for your eyes betray you.”
+They talked a little of *that boy Clito across the water*, and how the *young lions* would soon forget *the conquest of England*, some of them caring more for *who had the pointiest shoes* and other latest trends.
+
+Henry leaned back, contentedly, his broad shoulders relaxing against the wall. “It is good to sit with old friends, but your eyes betray you, Rauthulfr. Speak your words.”
 
 Harold leant forwards. “My words as a father are this: Your son. What kind of man is he, when no one is watching?”
 
@@ -2054,7 +2149,7 @@ Henry opened the door. “Fetch the children,” he called to a servant. “We h
 
 ---
 
-### Twain
+### Negotiation of warriors
 
 A servant appeared in the doorway, glancing at the two lords. He gave a small bow. “My lord Godfrey said they will be in shortly, my lords.” He vanished before either could answer.
 
@@ -2076,7 +2171,7 @@ The fire crackled. Harold’s gaze rested on the empty space where Godfrey had s
 
 Henry glanced at the door, then did a double‑take. Godfrey and Beatrice were standing just inside the threshold, quiet as shadows. He had not heard them enter.
 
-“Ah,” he said, his expression unreadable. “There you are.”
+“Ah,” he said, his expression unreadable. “There you both are.”
 
 Beatrice’s cheeks were pink. Godfrey’s face was still, but his eyes were on his father.
 
@@ -2090,47 +2185,57 @@ Beatrice’s heart was loud in her ears. She looked at the king, then at her fat
 
 “My lord, may I ask you something as a father, not as a king?”
 
-Henry’s eyebrows rose. Harold’s face went pale. But Henry’s expression was not displeased. “You may.”
+Henry’s eyebrows rose. Harold’s face went pale. 
 
-“I was not asked if I would marry your son.” Her voice was steady, though her hands trembled. “I walked into your hall with a goose, and I walked out with a vow I did not make.”
+---
+
+### A good binding
+
+King Henry’s expression was not displeased. “You may.”
+
+“I was not asked whether I would marry your son.” Her voice was steady, though her hands trembled. “I walked into your hall with a goose, and I walked out with a vow I did not make.”
 
 Harold’s hand tightened on his chair. Godfrey did not move.
 
 Henry listened gravely, patiently. “And what would you have me do, young wolf? Do you wish to reject my son?”
 
-Beatrice shook her head. She looked at him, and there was no mocking in his voice. He was in many ways very like Godfrey.
+Beatrice shook her head. She looked at him intently, and there was no mocking in his voice. He was in many ways very like Godfrey.
 
 “I wish to—” Her voice faltered. Her throat was dry. She turned, almost without thinking. “Godfrey, would you pass me a drink.”
 
-For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed to her and held it out. Their fingers did not touch, but their eyes met.
+For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed and offered it to her deliberately. Their fingers did not touch, but their eyes met and lit up. *Will you?*
 
-She took the cup.
+She accepted the cup, nodding solemly, its cold silver weight a sudden, heavy reality against her warm toil-worn skin.
 
-She lifted it to her lips, drank, and lowered it. Then she turned back to the king.
+Beatrice stood still against the firelight, a fixed point in a changing world. The people seemed to retreat into the shadows as she raised the cup high, towards the rafters and beyond, offering a silent libation to a Heaven that felt very far away.
 
-“This is my answer, sire.”
+Yet, courage came and she brought the rim to her lips, gulping the wine down in a determined rush, a frantic breath burning the back of her throat. She lowered the vessel, the silver ringing softly as it met her hand, her gaze clean and clear as it met the King’s eyes.
 
-The hall was silent. Henry stared at her for a long moment. Then his face broke into a grin—a real grin, warm and sudden.
+“This is my answer, sire,” she gasped, for it stung.
 
-“She takes the cup,” he said softly, almost to himself. Then, louder: “Do you know what you have just done, child?”
+The hall was silent. Henry stared at her for a long moment. Then his face broke into a grin—a real grin of enjoyment, swift and warm.
+
+“She takes the cup,” he said softly, almost to himself. Then, louder: “Do you mean what you have just done, child?”
 
 Beatrice felt her cheeks burn. “I have answered your question, my lord.”
 
-“You have sealed a betrothal.” He looked at Godfrey, who stood frozen beside her. “In the old way. A woman takes wine from her betrothed’s hand, and she shows her will to the world. There is no vow more binding than that.”
+Godfrey retrieved the empty silver cup. "By my hand, Father."
 
-Harold’s face, which had been pale with fear, slowly changed. He looked at Beatrice, then at Godfrey, and something in his chest loosened.
+Henry caught the sudden, incandescent grin splitting his son’s face. He shook his head with a wry, appreciative smile.
 
-Henry clapped Godfrey on the shoulder. “You chose well.”
+“She has sealed a betrothal,” the King said, his voice resounding with a rough pride. “In the old way. A woman takes wine from her betrothed’s hand, and she shows her will to the world. There is no vow more binding than that.”
+
+Harold’s face, which had been pale with fear, slowly changed. He looked at Beatrice, then at Godfrey, and a tightness in his chest left him painlessly.
+
+Henry clapped Godfrey on the shoulder in his excitement. “You chose well.”
 
 Then he turned to Harold, his grin still wide. “Well, Harold, I don’t know what they need us for. It seems a decision is made.”
 
-Harold let out a long breath—not quite a laugh, but close. “So it seems.”
-
-## Chapter 16 – The King’s Visit (Final, with Housekeeping & Departure)
-
-*[The cup ritual concludes as above. Henry has just said “Well, Harold, I don’t know what they need us for. It seems a decision is made.”]*
+Harold let out a long breath—not quite a laugh, but his eyes smiled. “So it seems.”
 
 ---
+
+### Departure
 
 Henry turned to Beatrice. “I am told,” he said, “that you have been worrying about your father, child.”
 
@@ -2166,7 +2271,7 @@ Godfrey stood by the door, watching, waiting, as he always did.
 
 At last, Henry rose. “I have stayed too long. The queen will wonder where I am.”
 
-He put a hand on Harold’s shoulder. “You have served me well, Hrathulfr. You have given me a son’s loyalty and a daughter’s courage. I will not forget.”
+He put a hand on Harold’s shoulder. “You have served me well, Rauthulfr. You have given me a son’s loyalty and a daughter’s courage. I will not forget.”
 
 He turned to go. At the door, he paused and looked at Goosie, who had settled on the hearth.
 
@@ -2180,7 +2285,9 @@ He rode away with his knights, the villagers cheering, the children waving. The 
 
 ---
 
-That night, Beatrice sat with her father by the fire. Godfrey had gone home, promising to return in the morning. The reeve and the cook would come tomorrow. The king’s words still echoed in her ears.
+### After the king - breathing again
+
+Later that night, long after the king had gone, Beatrice sat with her father by the fire. Godfrey had promised to return in the morning. The reeve and the cook would come tomorrow. The king’s words still echoed in her ears.
 
 “You are not afraid,” Harold said. It was not a question.
 
@@ -2190,7 +2297,7 @@ He nodded slowly. “Your mother would have been proud of you.”
 
 She leaned her head against his shoulder. “She would have liked Godfrey.”
 
-Harold smiled. “She would have liked that he does not talk too much.”
+Harold smiled. “She would have liked that he does not talk idly, of useless matters.”
 
 They sat in silence as the fire burned down, and Goosie slept between them.
 
@@ -2222,7 +2329,8 @@ Beside her, Godfrey rode in silence. He did not speak. He did not need to. He wa
 
 She let out a long breath and looked ahead, toward the road that would take them to Winchester, to the court, to whatever came next.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 17 – First Court Exposure
 
@@ -2478,7 +2586,7 @@ But Queen Matilda, watching from the high table, noted the set of Beatrice's jaw
 
 ---
 
-## Chapter 17 — Christmas Court
+## Chapter 17 XXX — Christmas Court TODO RENUMBER
 
 The court assembled at Westminster for Christmas. Nobles from across England, bishops, barons, and foreign visitors filled the halls. Beatrice, now dressed in gowns provided by the Queen's own seamstress, moved through the crowds with growing confidence.
 
@@ -2538,7 +2646,8 @@ She told Beatrice privately: "My brother has waited his whole life to be seen. Y
 
 => "she should come with us down to Devon." However, the queen wishes her to stay (or other cause), to help with a favoured project or some such. (we can chronicle them publicly visiting poor/sick/etc.) --> yes, with greater jealousy accordingly. Insert here.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 18 — The Darkest (January 1115)
 
@@ -2678,7 +2787,8 @@ For a long time, she didn't move.
 
 Then, slowly, she pressed her face into Goosie's feathers and let herself cry.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 19 — The Queen's Protection (Late January 1115)
 
@@ -2752,7 +2862,8 @@ But she never forgot the way he had counted the geese, the timber, the souls of 
 She would be herself.
 @@@END SCRAP@@@
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 20 — Public Turn (February - March 1115)
 
@@ -2806,7 +2917,8 @@ Looking at Beatrice: "She's worth trying for."
 
 He didn't say more. He didn't need to.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 21 — Wedding Preparations (March - April 1115)
 
@@ -2882,7 +2994,8 @@ Godfrey laughed again—a laugh filled with warmth and youthfulness.
 
 Beatrice smiled and clapped her hands in delight.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 ## Chapter 22 — The Wedding (Spring 1115)
 
@@ -2938,9 +3051,11 @@ And if you walk the old Roman road on a spring morning, past the farm by the riv
 
 ---
 
-*FINIS*
+***FINIS***
 
 
+***Go talk to someone you love
+about what the story made you feel.***
 
 
 
@@ -2950,6 +3065,80 @@ And if you walk the old Roman road on a spring morning, past the farm by the riv
 TO DO (TODO)
 
 ==========================================================
+
+ONE.
+
+Based on the CinemaTherapy lens and the goal of a film adaptation, here’s what to consider changing or emphasizing:
+
+---
+
+### 1. **Pacing & Structure**
+- **Current:** The story is a deliberate slow burn, with layered scenes (cart gossip, lane conversation) that build emotional weight.  
+- **Film Adaptation:** You’ll need to maintain that rhythm but possibly compress the cart scene slightly—modern audiences might lose patience, but the emotional payoff justifies the pacing.  
+- **Action:** Keep the cart scene’s layered gossip, but consider trimming the most repetitive beats to tighten runtime.
+
+---
+
+### 2. **Conspiracy Subplot (Sir Guy, Beaumont, Whispers)**
+- **Current:** The conspiracy is seeded (Clito, Bellême, whispers) but its climax is the legal hearing and Sir Guy’s banishment.  
+- **Film Adaptation:** The payoff needs to be **active**. Jonathan would want a scene where Godfrey or Beatrice *does* something to expose or thwart the plot—not just the king’s judgment.  
+- **Action:** Ensure the legal hearing includes Beatrice’s public declaration (already planned). Add a moment where Godfrey confronts Sir Guy or a Beaumont agent, tying the whispers directly to his growth from watcher to actor.
+
+---
+
+### 3. **Godfrey’s Active Side**
+- **Current:** His Welsh mediation is mentioned but not dramatized; his help at Stanwey is shown.  
+- **Film Adaptation:** Alan would want to *show* Godfrey in action, not just tell. A brief flashback or a visual reference (e.g., Henry telling the story over a fire with a distant shot of a young man riding into a chieftain’s hall) would make it cinematic.  
+- **Action:** Consider a short, stylized flashback when Henry recounts the tale, or integrate it into the king’s visit as a visual moment (e.g., a tapestry or a map with a figure moving toward Wales).
+
+---
+
+### 4. **Half‑Sisters’ Depth**
+- **Current:** Avice and Eustacia are largely cruel, with only a hint of grudging respect later.  
+- **Film Adaptation:** Jonathan would want a glimpse of their motivation—perhaps a scene where they express feeling overlooked, or a moment where Beatrice sees their vulnerability.  
+- **Action:** Add a brief exchange where they confess envy or fear of being forgotten, making their later curtsey feel earned.
+
+---
+
+### 5. **Historical Density**
+- **Current:** Purveyance, escheat, Welsh campaign, Montfort ties—all historically accurate but potentially overwhelming.  
+- **Film Adaptation:** Alan would advise trusting the audience but ensuring the stakes are always personal. Every historical detail should tie directly to character: Sir Guy’s pursuit of Stanwey, Harold’s royal favour, Henry’s succession anxiety.  
+- **Action:** In dialogue, clarify that the king’s departure for Normandy means the queen is in charge—this is key for the Winchester court scenes.
+
+---
+
+### 6. **Visual Storytelling Enhancements**
+- **Current:** The story uses strong visual beats (charcoal on nose, cup ritual, goose acceptance).  
+- **Film Adaptation:** These are perfect for cinema. Alan would likely want to amplify the cup ritual: slow, deliberate, with close‑ups on Beatrice’s hand, Godfrey’s stillness, Henry’s recognition.  
+- **Action:** Ensure the cup scene is the emotional climax of the king’s visit, not rushed.
+
+---
+
+### 7. **Ending & Tagline**
+- **Current:** The epilogue ends with “Go talk to someone you love about what the story made you feel.”  
+- **Film Adaptation:** This is pure CinemaTherapy—it’s a call to connection that Jonathan often uses. It’s perfect for the credits roll or a post‑credits card.  
+- **Action:** Keep it exactly as written.
+
+---
+
+### Summary of Needed Changes
+
+| Element | Action |
+|--------|--------|
+| **Pacing** | Maintain slow burn; trim repetitive beats in cart scene. |
+| **Conspiracy** | Ensure active confrontation (Godfrey vs. Sir Guy) in legal hearing or earlier. |
+| **Godfrey’s active side** | Add visual flashback or brief dramatization of Welsh ride. |
+| **Half‑sisters** | Add one brief scene showing their motivation (jealousy/fear). |
+| **Historical density** | Tie all political details directly to character stakes. |
+| **Cup ritual** | Make it the visual and emotional centerpiece of the king’s visit. |
+| **Tagline** | Keep; it’s thematically perfect. |
+
+None of these require massive rewrites—they’re small adjustments that align the story with what CinemaTherapy celebrates and what a film adaptation needs. The story already has the emotional truth, healthy relationships, and earned agency that Jonathan would champion; these tweaks will make it even more cinematic and psychologically resonant.
+
+---
+
+
+TWO.
 
 Let’s consolidate **all planned changes** from your notes and our discussions into a single master list, with precise chapter/scene locations and status.
 
@@ -4207,4 +4396,643 @@ Matilda of Scotland was a "bridge-builder" who successfully navigated the volati
 * Cultural Patronage: She turned the English court into a premier European arts hub. While she loved hagiography and courtly music—notably commissioning The Voyage of Saint Brendan—this was not purely for pleasure. Her lavish funding of poets and musicians was a deliberate "branding" exercise to elevate the prestige of her dynasty, even when it drew criticism for being overly expensive.
 * A "Good Queen" by Design: Her reputation for "exceptional holiness" was both a personal conviction and a political masterstroke. By walking barefoot and washing the feet of the poor, she mirrored the saintliness of her mother, St Margaret. This gained her the deep loyalty of the English people, providing Henry I with the internal stability he needed to maintain his continental empire.
 * Legacy of Infrastructure: Her religious devotion was practical. She despised the idle life of the cloister but loved "holy works" that improved the realm, such as founding St Giles' hospital for lepers and commissioning the Bow Bridge, England’s first arched stone bridge.
+
+---
+
+## Inner Struggles – Main Characters (Table)
+
+| Character | Inner Struggle (Rooted in Character & Life Choices) | How It Manifests | Growth Arc | Real‑Person Parallel | Narrative Payoff |
+|-----------|--------------------------------------------------|------------------|------------|----------------------|------------------|
+| **Beatrice** | **Fear of losing control** – after her mother’s death, she built an identity around running Stanwey and protecting her father. The betrothal threatens to strip her of agency. | She resists the vow, clings to denial, panics when she imagines leaving. Her outburst “I want to be the one who chooses” is a cry for autonomy. | She moves from reactive resistance to active, informed choice—first observing Godfrey, then testing him, finally declaring her will publicly (cup ritual, legal hearing). | A caregiver who has taken on adult responsibility early; feels that her life is being taken from her. Often seen in young adults who parent siblings or ill parents. | Her public choice in the cup ritual and later at the hearing proves she has reclaimed agency. The “not for Stanwey” refrain is finally resolved. |
+| **Godfrey** | **Learned passivity (“shadow”)** – from a lifetime of being ignored, counted, and dismissed. He internalised that watching is safer than acting. | He admits “I have spent my life watching.” He hesitates to act, even when he wants to. He lets Beatrice leave the hall without telling her the truth. | He moves from watcher to actor: first by following her, then by helping at Stanwey, later by confronting Sir Guy, and finally by his role in the cup ritual. | Someone who grew up in the shadow of a dominant parent or sibling; learned that speaking up led to rejection or punishment. Often becomes a quiet, hyper‑observant adult. | His confrontation with Sir Guy is the active turning point. Henry’s recognition (“he can wait, but when the moment comes, he moves”) validates his growth. |
+| **Harold** | **Fear of leaving Beatrice alone** – his declining health and the memory of his wife’s death make him desperate to secure Stanwey before he dies. This led him to push suitors. | He tried to arrange matches for Beatrice; when she refused, he worried. He initially considered Sir Guy. He nearly sent her away to Winchester without resolving his fear. | He learns to trust Beatrice’s judgment and Godfrey’s character. He lets her choose, and accepts Henry’s provision of a reeve and cook, letting go of the need to control the outcome. | A parent facing mortality, struggling to let go of control over a child’s future. Often seen in aging parents who want to “fix” things before they go. | His final ease (“So it seems”) when Beatrice chooses Godfrey is the release. His quiet pride at the wedding is the reward. |
+| **Henry** | **Fear of repeating his father’s mistakes** – he conquered a kingdom but struggles with succession, baronial discontent, and the memory of his own landless youth. He uses Godfrey partly as a test. | His rash vow is a gamble. He wavers between treating Godfrey as a pawn and recognising his worth. He is torn between the queen’s fears for William and his own desire to be a good father. | He comes to see Godfrey not as a threat but as a shield. He publicly acknowledges Godfrey’s worth (Welsh story) and accepts the cup ritual as binding. He leaves England trusting the queen and his son. | A leader with high ambition, haunted by family dysfunction, trying to balance legacy and genuine care for his children. | His pride in Godfrey at the cup ritual is a quiet moment of paternal redemption. The historical tragedy (White Ship) will later shadow this, but within the story, he has succeeded. |
+| **Queen Matilda** | **Fear for her son William’s succession** – she sees Godfrey as a potential rival. Her political pragmatism initially overrides family feeling. | She pushes for Godfrey to be sent to Brittany. She calls him “shadow” (in earlier drafts). She is cold to Beatrice initially. | She shifts when she sees Godfrey is not ambitious, and Beatrice is steady. She becomes Beatrice’s protector, uses her political skills to support the match, and trusts Henry’s judgment. | A mother who fears her child’s position is insecure; she may see stepchildren as threats even when they are not. Common in blended royal families. | Her public support of Beatrice (Ch 20) and her private conversation with Beatrice about being Edith of Scotland show her growth. |
+| **Sir Guy** | **Entitlement masked as grievance** – his family lost lands (Évreux), and he believes he deserves to take what he can. He resents Beatrice’s refusal and sees Stanwey as his due. | He pursues Beatrice, then tries to intimidate her. He conspires with Beaumont agents. He brings a legal challenge. He threatens Harold. | He does not grow; he is defeated. His defeat is public (hearing) and his conspiracy is exposed. He leaves court, later to die in rebellion. | A person who feels the world owes them something, often due to family grievance or perceived injustice. They become bitter and predatory. | His banishment and the historical nod to his death in the 1118 rebellion tie off his arc. He serves as contrast to Godfrey’s growth. |
+
+---
+
+## Summary – How These Struggles Serve the Story
+
+1. **Psychological realism**: Each character’s flaw stems from believable life experiences (death of a parent, neglect, aging, political pressure). The growth arcs are earned through action, not just dialogue.
+
+2. **Active agency**: Godfrey’s shift from watcher to actor is dramatised (confronting Sir Guy). Beatrice’s agency is enacted through ritual and public declaration. Henry’s growth is shown through his pride in Godfrey.
+
+3. **Healthy masculinity**: Godfrey’s strength is quiet, patient, and protective. He doesn’t fight with swords; he uses his status and his calm presence. This aligns with CinemaTherapy’s celebration of Aragorn‑style masculinity.
+
+4. **Father‑daughter bond**: Harold’s arc is about learning to let go; Beatrice’s is about stepping into her own adulthood. Their final ease together is earned.
+
+5. **Queen Matilda’s arc**: Her shift from suspicious to supportive is a model of emotional growth. Her private revelation (Edith of Scotland) adds depth.
+
+6. **Vulnerability as strength**: Henry admits his mistakes, Harold shows his fear, Godfrey confesses he’s never had a home. These moments build trust and connection.
+
+7. **The cup ritual**: It encapsulates the climax of multiple arcs: Beatrice’s agency, Godfrey’s action, Henry’s recognition, Harold’s release. It is a perfect “show, don’t tell” moment.
+
+8. **Conspiracy subplot**: Serves as external pressure that forces Godfrey to act, and gives Sir Guy a motivation rooted in historical grievance rather than simple villainy. The confrontation scene is the active payoff.
+
+---
+
+<!-- GLOSSARY HELPER -->
+
+<style>
+.glossary-container {max-width: 800px; margin: 2rem auto; font-family: Georgia, serif; line-height: 1.5; }
+.term-list {display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; margin-top: 1rem; list-style: none; padding-left: 0; }
+.term-item {display: inline-block; background: none; margin: 0; padding: 0; }
+.term {color: #6b2e2e; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 4px; cursor: pointer; font-weight: 500; transition: color 0.2s; }
+.term:hover {color: #a03e3e; }
+.definition-tooltip {position: fixed; bottom: 20px; left: 20px; right: 20px; background: #fff9e8; border-left: 6px solid #6b2e2e; padding: 0.75rem 1rem; box-shadow: 0 2px 12px rgba(0,0,0,0.2); border-radius: 8px; font-size: 1rem; z-index: 1000; transition: opacity 0.2s; opacity: 0; pointer-events: none; }
+.definition-tooltip.show {opacity: 1; pointer-events: auto; }
+@media (min-width: 640px) {
+.definition-tooltip {position: absolute; bottom: auto; left: auto; right: auto; max-width: 300px; top: calc(100% + 8px); left: 0; }
+}
+</style>
+<script>
+// filename: glossary-engine.js
+document.addEventListener('DOMContentLoaded', () => {
+  (function() {
+    // --- CONFIGURATION ---
+    const START_SUFFIX = "STARTGLOSSARY";
+    const END_SUFFIX = "ENDGLOSSARY";
+    const STRIP_ORIGINAL_TAGS = true; 
+    const DUMP_DIAGNOSTICS = false;
+    
+    /** * NEW FLAGS & SETTINGS
+     */
+    const STRIP_UNUSED_FROM_GLOSSARY = true; // Removes terms from the list if not used in story
+    const IGNORE_KEYWORD = "SKIP_LINK";      // Users put this in the definition to skip auto-linking
+    
+    const glossaryLookup = {}; 
+    const foundInText = new Set();
+
+    const startNode = document.querySelector(`[id$="${START_SUFFIX}" i]`);
+    const endNode = document.querySelector(`[id$="${END_SUFFIX}" i]`);
+    if (!startNode || !endNode) return;
+
+    const range = document.createRange();
+    range.setStartAfter(startNode);
+    range.setEndBefore(endNode);
+
+    const sourceContainer = document.createElement('div');
+    sourceContainer.appendChild(range.cloneContents());
+    
+    const rawText = sourceContainer.textContent;
+    const lines = rawText.split(/\r?\n/);
+    const glossaryWrapper = document.createElement('div');
+    glossaryWrapper.className = 'glossary-source-area'; 
+
+    // 1. First Pass: Parse and identify "Skip" words
+    lines.forEach(line => {
+      const trimmed = line.trim();
+      if (!trimmed) return;
+
+      const parts = trimmed.split(/[:\(]/);
+      if (parts.length >= 2) {
+        const term = parts[0].trim();
+        let definition = parts.slice(1).join(':').trim();
+        if (definition.endsWith(')')) definition = definition.slice(0, -1).trim();
+
+        // Check if the user wants to skip auto-linking this specific word
+        const shouldSkipLink = definition.includes(IGNORE_KEYWORD);
+        // Clean the keyword out of the final displayed definition
+        const cleanDefinition = definition.replace(IGNORE_KEYWORD, "").trim();
+
+        glossaryLookup[term.toLowerCase()] = { 
+          original: term, 
+          def: cleanDefinition,
+          skipLink: shouldSkipLink,
+          element: null // Will hold the DOM node for potential stripping later
+        };
+      }
+    });
+
+    // 2. Global Text Scanner (Before rendering glossary to check usage)
+    const termKeys = Object.keys(glossaryLookup).sort((a, b) => b.length - a.length);
+    if (termKeys.length === 0) return;
+
+    // Filter keys for the regex: only include those NOT marked with SKIP_LINK
+    const linkableKeys = termKeys.filter(k => !glossaryLookup[k].skipLink);
+    const pattern = new RegExp(`\\b(${linkableKeys.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|')})\\b`, 'gi');
+
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+      acceptNode: (node) => {
+        const p = node.parentElement;
+        if (p.closest('.glossary-source-area') || p.classList.contains('glossary-row')) return NodeFilter.FILTER_REJECT;
+        if (['SCRIPT', 'STYLE', 'TEXTAREA', 'A', 'BUTTON'].includes(p.tagName)) return NodeFilter.FILTER_REJECT;
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+
+    const nodesToProcess = [];
+    let curr;
+    while (curr = walker.nextNode()) nodesToProcess.push(curr);
+
+    nodesToProcess.forEach(node => {
+      const text = node.nodeValue;
+      if (!pattern.test(text)) return;
+      const newFrag = document.createDocumentFragment();
+      let lastIdx = 0;
+      pattern.lastIndex = 0; 
+      let match;
+      while ((match = pattern.exec(text)) !== null) {
+        newFrag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
+        const matchedWord = match[0];
+        const key = matchedWord.toLowerCase();
+        const data = glossaryLookup[key];
+        const span = document.createElement('span');
+        span.className = 'term';
+        span.textContent = matchedWord;
+        span.onclick = (e) => {
+          e.stopPropagation();
+          showDefinition(data.original, data.def, span);
+        };
+        newFrag.appendChild(span);
+        foundInText.add(key);
+        lastIdx = pattern.lastIndex;
+      }
+      newFrag.appendChild(document.createTextNode(text.substring(lastIdx)));
+      node.parentNode.replaceChild(newFrag, node);
+    });
+
+    // 3. Render the Glossary List (Applying the "Strip Unused" logic)
+    const glossaryFragment = document.createDocumentFragment();
+    termKeys.forEach(key => {
+      const data = glossaryLookup[key];
+      const wasFound = foundInText.has(key);
+      
+      // Skip rendering if: 
+      // 1. Strip flag is on AND 
+      // 2. It wasn't found in text AND 
+      // 3. It wasn't a "SKIP_LINK" word (we assume skip_link words are handled manually/separately)
+      if (STRIP_UNUSED_FROM_GLOSSARY && !wasFound && !data.skipLink) {
+          return; 
+      }
+
+      const row = document.createElement('div');
+      row.className = 'glossary-row';
+      row.style.marginBottom = '0.4rem';
+      const bullet = document.createElement('span');
+      bullet.innerHTML = '&bull; ';
+      bullet.style.cssText = 'color: #6b2e2e; margin-right: 8px; font-weight: bold;';
+      const termSpan = document.createElement('span');
+      termSpan.className = 'term'; 
+      termSpan.textContent = data.original;
+      termSpan.onclick = (e) => {
+        e.stopPropagation();
+        showDefinition(data.original, data.def, termSpan);
+      };
+      row.appendChild(bullet);
+      row.appendChild(termSpan);
+      glossaryFragment.appendChild(row);
+    });
+
+    glossaryWrapper.appendChild(glossaryFragment);
+    range.deleteContents();
+    range.insertNode(glossaryWrapper);
+
+    // 4. Diagnostics
+    if (DUMP_DIAGNOSTICS) {
+      const unused = termKeys.filter(t => !foundInText.has(t) && !glossaryLookup[t].skipLink);
+      const skippedByUser = termKeys.filter(t => glossaryLookup[t].skipLink);
+      console.group("Glossary Diagnostic Report");
+      console.log("✅ Linked in Story (%d):", foundInText.size, Array.from(foundInText).sort());
+      console.log("❌ Unused/Stripped (%d):", unused.length, unused.sort());
+      console.log("🛡️ Explicitly Skipped via Keyword (%d):", skippedByUser.length, skippedByUser.sort());
+      console.groupEnd();
+    }
+
+    // 5. Tooltip
+    let tooltip = document.querySelector('.definition-tooltip') || document.createElement('div');
+    if (!tooltip.parentElement) {
+      tooltip.className = 'definition-tooltip';
+      document.body.appendChild(tooltip);
+    }
+
+    function showDefinition(term, def, target) {
+      tooltip.innerHTML = `<strong>${term}</strong><br>${def}`;
+      tooltip.classList.add('show');
+      const rect = target.getBoundingClientRect();
+      const scrollY = window.pageYOffset;
+      if (window.innerWidth >= 640) {
+        tooltip.style.position = 'absolute';
+        tooltip.style.top = `${rect.bottom + scrollY + 8}px`;
+        tooltip.style.left = `${rect.left}px`;
+      }
+      const hide = () => {
+        tooltip.classList.remove('show');
+        document.removeEventListener('click', hide);
+      };
+      setTimeout(() => document.addEventListener('click', hide), 100);
+    }
+  })();
+});
+</script><
+
+
+## Glossary
+
+This story is set in the 1100s and so in general I have tried to strike a good balance between (i) readablity for modern readers and (ii) the language and thinking of that time. 
+
+English has changed over the years. It is a difficult language, in part as there are so many influences, by trade, by marriage and by conquest.
+
+Learning old words and meanings helps us better understand the language we use today. Many older words have to do with the world around us, such as people, parents, children, animals, plants, land, sea and the weather, how to grow food, how to cook, how to build shelter and how to trade; all the things that effect everyday life.
+
+The story opens with an idiom or saying, written in what we call Middle-English, the language period from roughly 1100 to 1500, though I've moderised it very slightly:
+
+> ***A gos may gon þar þe king mot biden. This was a folk speche of þe shires sithen þe Normans comen. Ac a wise wif of Mercie tolde of a maiden þat prouede þe word soth.***
+
+Look carefully and you'll see the Old English letter þ (thorn) a few times. We say this as *th* but without using our voice, as in the words *thin, thorn, thunder,* and *thistle*. Another Old English letter ð (eth) also became a voiced *th*, as in words like *this, that, they, the, there*, but it was no longer much in use by 1100. Other letters and symbols include letters: Wynn (ƿ), Ash (æ), Ethel (œ), as well as symbols for the word 'and': Ampersand (&) and Tironian Et (⁊) which looks like the number 7.
+
+<span id="STARTGLOSSARY"></span>
+
+### Old English (Anglo-Saxon origins, often obsolete or archaic)
+
+- **bēag** (ring, bracelet)  
+- **boc** (as in “book” – OE *bōc*)  
+- **burh** (borough, fortified place)  
+- **cild** (child)  
+- **cniht** (as in “knight”) – originally a youth or servant  
+- **cot** (cottage)  
+- **cotlif** (cottage with land)  
+- **cwen** (queen)  
+- **cyning** (king)  
+- **denu** (valley)  
+- **dohtor** (daughter)  
+- **ēa** (river)  
+- **ealdorman** (alderman, noble)  
+- **fæder** (father)  
+- **feld** (field)  
+- **feoh** (cattle, property, money)  
+- **folc** (folk, people)  
+- **gār** (spear)  
+- **gebur** (peasant)  
+- **gesith** (companion, retainer)  
+- **hām** (home, village)  
+- **helm** (helmet)  
+- **hlæfdige** (lady)  
+- **hlaford** (lord)  
+- **hlāforddōm** (lordship)  
+- **huscarl** – a household bodyguard  
+- **lēah** (wood, clearing)  
+- **mæg** (kinsman)  
+- **mæġden** (maiden)  
+- **mere** (as in “merely” – archaic sense of boundary or sea)  
+- **mōdor** (mother)  
+- **mōnaþ** (month)  
+- **mōr** (moor)  
+- **rēaf** (robe, spoil)  
+- **rīdere** (rider, knight)  
+- **sǣ** (sea)  
+- **scir** (as in “shire”) – administrative division  
+- **sċyld** (shield)  
+- **stōw** (place)  
+- **strǣt** (street, Roman road)  
+- **sunu** (son)  
+- **thegn** – a lord or retainer in Anglo-Saxon England  
+- **tūn** (town, enclosure)  
+- **villein** (from OE *villein* – a feudal tenant; but the term is Norman French, often used in medieval context) – included under Middle English.
+- **wæpen** (weapon)  
+- **wella** (well, spring)  
+- **wer** (as in “weregeld” – man)  
+- **wergild** (man price)  
+- **wīf** (wife, woman)  
+- **witan** (implied in “witless” – “wit” from OE *witt*)  
+- **witenagemot** (implied in “witan”) – council  
+- **wudu** (wood)  
+- **þegnian** (to serve)  
+
+---
+
+### Middle English (c. 1100–1500, words now rare, archaic, or historical)
+
+- **abbot** (monastery head)  
+- **acre** (unit of land)  
+- **advowson** (right to appoint a priest)  
+- **agister** (official who supervised forest grazing)  
+- **almoner** (distributor of alms)  
+- **amercement** (fine)  
+- **anathema** (formal curse)  
+- **archbishop** (senior clergy)  
+- **archdeacon** (senior clergy)  
+- **arrowslit** (narrow window in a castle)  
+- **assart** (land cleared for cultivation)  
+- **assize** (court session, legal enactment)  
+- **attainder** (loss of civil rights)  
+- **auto‑da‑fé** (not English) – excluded  
+- **avice** (a name, but also an old word for a kind of bird) – rare  
+- **bailey** (castle courtyard)  
+- **bailiff** (manorial officer)  
+- **bailiwick** (area of jurisdiction)  
+- **barbican** (outer fortification)  
+- **bishop** (senior clergy)  
+- **blood‑wite** (fine for bloodshed)  
+- **bordar** (a peasant with a cottage)  
+- **bordars** (smallholders in the Domesday system)  
+- **bovate** (oxgang)  
+- **bride‑wite** (fine for taking a bride)  
+- **buttery** (room for storing provisions)  
+- **canonSKIP_LINK** (cathedral clergy)  
+- **carter** (cart driver)  
+- **carucage** (land tax)  
+- **carucate** (land measure in Danelaw)  
+- **chantry** (chapel endowed for masses)  
+- **chaplain** (priest)  
+- **chapter** (monastic meeting)  
+- **charger** (warhorse)  
+- **charter** (written grant)  
+- **chase** (a private hunting forest)  
+- **child‑wite** (fine for getting a servant pregnant)  
+- **churl** (free peasant, later a boor)  
+- **cloister** (monastic enclosure)  
+- **close roll** (closed letter)  
+- **compurgation** (oath‑swearing as proof)  
+- **cooper** (barrel maker)  
+- **corody** (right to provision)  
+- **coroner** (crown’s officer)  
+- **cottar** (a peasant with a smallholding)  
+- **cottars** (cottagers)  
+- **court baron** (manorial court)  
+- **court leet** (manorial court)  
+- **covenant** (formal agreement)  
+- **crusade** (holy war)  
+- **cucking stool** (ducking stool)  
+- **currier** (leather dresser)  
+- **dairymaid** (milkmaid)  
+- **danegeld** (tax to pay off Vikings)  
+- **dean** (cathedral official)  
+- **demesne** (land retained by a lord)  
+- **destrier** (warhorse)  
+- **donjon** (main tower of a castle)  
+- **ell** (unit of length)  
+- **escheat** (reversion of land to the crown)  
+- **escheator** (official dealing with escheats)  
+- **ewer** (servant who brought water)  
+- **exchequer** (royal treasury)  
+- **excommunication** (exclusion from church)  
+- **farthing** (quarter penny)  
+- **fealty** (loyalty sworn to a lord)  
+- **fineSKIP_LINK** (payment)  
+- **fist‑wite** (fine for fighting)  
+- **forester** (officer in charge of a forest)  
+- **forfeiture** (loss of property)  
+- **frankalmoign** (tenure by religious service)  
+- **franklins** (freeholders)  
+- **frankpledge** (system of collective responsibility)  
+- **friar** (mendicant)  
+- **frumenty** (wheat porridge)  
+- **fuller** (cloth worker)  
+- **furlong** (length of a furrow)  
+- **garderobe** (medieval toilet)  
+- **gavelkind** (a system of land inheritance)  
+- **gibbet** (gallows)  
+- **glebe** (church land)  
+- **gooseherd** (goose keeper)  
+- **groat** (four‑penny piece)  
+- **hackney** (ordinary horse)  
+- **hall** (great hall)  
+- **halmote** (manorial court)  
+- **hearth‑wite** (fine for hiding a crime)  
+- **heathen** (non‑Christian)  
+- **heretic** (one who holds unorthodox beliefs)  
+- **heriot** (death duty)  
+- **hideSKIP_LINK** (unit of land)  
+- **homage** (formal acknowledgment of feudal allegiance)  
+- **hue and cry** (duty to pursue a criminal)  
+- **hundred** (administrative division)  
+- **indenture** (contract with indented edge)  
+- **indulgence** (remission of temporal punishment)  
+- **infidel** (unbeliever)  
+- **inquisition** (heresy investigation)  
+- **interdict** (suspension of sacraments)  
+- **justiciar** (high royal official)  
+- **keepSKIP_LINK** (castle tower)  
+- **knight service** (tenure by military service)  
+- **larder** (food storage)  
+- **lathe** (Kentish division)  
+- **league** (distance)  
+- **legerwite** (fine for fornication)  
+- **letters patent**  
+- **leyrwite** (fine for illicit sex)  
+- **livery** (delivery of property, also uniform)  
+- **manciple** (officer in charge of provisions)  
+- **manumission** (freeing of a serf)  
+- **marks** (unit of currency)  
+- **marshal** (originally a horse-servant, later official)  
+- **mason** (stoneworker)  
+- **mazer** (wooden drinking bowl)  
+- **mendicant** (begging religious)  
+- **merchet** (fine for a serf’s daughter’s marriage)  
+- **miracles** (divine acts)  
+- **mise** (expense, agreement)  
+- **motte** (motte-and-bailey castle)  
+- **murdrum** (fine for the secret killing of a Norman)  
+- **napery** (linen)  
+- **neatherd** (cowherd)  
+- **noble** (gold coin)  
+- **obit** (memorial mass)  
+- **ordeal** (trial by fire/water)  
+- **outlawry** (declared outside the law)  
+- **oxherd** (ox keeper)  
+- **oyer** (hear a case)  
+- **pagan** (non‑Christian)  
+- **palfrey** (saddle horse)  
+- **palmer** (pilgrim who brought back a palm)  
+- **pantry** (bread storage)  
+- **papal legate** (representative)  
+- **pardoner** (seller of indulgences)  
+- **parson** (priest)  
+- **patent** (open letter from the crown)  
+- **penny** (coin)  
+- **perch** (land measure)  
+- **pilgrim** (one who goes on pilgrimage)  
+- **pillory** (punishment frame)  
+- **pipe roll** (annual financial record)  
+- **ploughman** (plowman)  
+- **portcullis** (castle gate)  
+- **posset** (hot drink of milk and ale)  
+- **pottage** (stew)  
+- **prebend** (stipend for a canon)  
+- **prior** (monastic official)  
+- **purgatory** (place of purification)  
+- **purveyance** (right of the crown to requisition goods)  
+- **quitclaim** (release of claim)  
+- **reaper** (harvester)  
+- **rectory** (benefice)  
+- **reeve** (again, listed under ME usage)  
+- **reeve** (manorial officer)  
+- **relic** (sacred object)  
+- **rood** (quarter acre)  
+- **rouncey** (all‑purpose horse)  
+- **sanctuary** (place of refuge)  
+- **scutage** (tax paid in lieu of military service)  
+- **serf** (unfree labourer)  
+- **serjeanty** (tenure by personal service)  
+- **shepherd** (sheep keeper)  
+- **sheriff’s tourn** (court)  
+- **sheriff** (from *shire reeve*)  
+- **shilling** (coin)  
+- **shrine** (place of pilgrimage)  
+- **socage** (again)  
+- **socage** (type of land tenure)  
+- **solar** (private upper room in a medieval house)  
+- **sower** (sower of seeds)  
+- **spicery** (spice storage)  
+- **sterling** (English currency)  
+- **steward** (household or estate manager)  
+- **stocks** (punishment frame)  
+- **summoner** (church court officer)  
+- **sumpter** (packhorse)  
+- **swineherd** (pig keeper)  
+- **tallage** (tax on tenants)  
+- **tally** (stick for recording accounts)  
+- **tanner** (leather worker)  
+- **terminer** (determine a case)  
+- **thatcher** (roof thatcher)  
+- **tithe** (one tenth of produce due to the church)  
+- **tithing** (group of ten households)  
+- **trencher** (wooden plate)  
+- **trespass** (legal term – not always physical)  
+- **verderer** (judicial officer in royal forests)  
+- **vicarage** (benefice)  
+- **view of frankpledge** (court)  
+- **vill** (a village or hamlet)  
+- **villein** (unfree peasant)  
+- **virgate** (land measure)  
+- **wain** (wagon)  
+- **wainwright** (wagon maker)  
+- **wapentake** (Danish administrative division)  
+- **ward** (guardianship, or a ward in a castle)  
+- **warden** (guard)  
+- **wardship** (guardianship of a minor)  
+- **warren** (area for breeding game)  
+- **wergild** (again)  
+- **wheelwright** (wheel maker)  
+- **wite** (fine)  
+- **writ** (written order)  
+
+---
+
+### Historical/Archaic Terms Not in Frequent Use (General)
+
+- **arbalest** (heavy crossbow)  
+- **arrow loop** (arrow slit)  
+- **bailey** (again)  
+- **ballista** (siege engine)  
+- **barbican** (again)  
+- **battering ram** (siege engine)  
+- **battlement** (parapet)  
+- **chaplet** (garland)  
+- **coif** (chain mail hood)  
+- **coif** (head covering)  
+- **cotte** (tunic)  
+- **crenellation** (notched battlements)  
+- **crespine** (hair net)  
+- **crossbow** (bow with mechanical draw)  
+- **cuirass** (breastplate)  
+- **curtain wall**  
+- **donjon** (again)  
+- **drawbridge** (bridge over moat)  
+- **embrasure** (opening in battlement)  
+- **flail** (agricultural tool used as weapon)  
+- **gallowglass** (mercenary) – later  
+- **glaive** (bladed polearm)  
+- **gorget** (throat armour)  
+- **great tower**  
+- **greave** (leg armour)  
+- **halbard** (polearm)  
+- **hauberk** (chain mail shirt)  
+- **hoarding** (wooden gallery on castle wall)  
+- **kern** (Irish soldier) – later  
+- **kirtle** (gown)  
+- **lance** (spear)  
+- **mace** (club)  
+- **machicolation** (overhanging gallery for dropping objects)  
+- **mangonel** (siege engine)  
+- **merlon** (solid part of battlement)  
+- **moat** (ditch)  
+- **motte** (again)  
+- **oubliette** (dungeon with trapdoor)  
+- **palisade** (wooden fence)  
+- **pauldron** (shoulder armour)  
+- **poleyn** (knee armour)  
+- **portcullis** (sliding gate)  
+- **postern** (back gate)  
+- **sabaton** (foot armour)  
+- **sally port** (sortie gate)  
+- **sapper** (one who digs tunnels under walls)  
+- **shell keep**  
+- **siege tower** (mobile tower)  
+- **surcoat** (outer garment)  
+- **tabard** (short coat)  
+- **tower house**  
+- **trebuchet** (siege engine)  
+- **vambrace** (arm armour)  
+- **veil** (head covering)  
+- **wimple** (head covering)  
+
+---
+
+### Archaic Verbs, Adverbs, Adjectives
+
+- **abide** (to wait, tolerate)  
+- **albeit** (although)  
+- **anon** (soon)  
+- **art** (are)  
+- **begat** (past tense)  
+- **beget** (to father)  
+- **beholden** (indebted)  
+- **beseech** (to ask earnestly)  
+- **beseem** (to befit)  
+- **bethink** (to consider)  
+- **betide** (to happen)  
+- **betimes** (early, soon)  
+- **betoken** (to signify)  
+- **bewray** (to betray)  
+- **canst** (can)  
+- **certes** (certainly)  
+- **chide** (to scold)  
+- **cleave** (to split)  
+- **clothe** (to dress) – still in use but archaic in some contexts  
+- **cloven** (split)  
+- **couch** (to lie down, also to express)  
+- **deign** (to condescend)  
+- **didst** (did)  
+- **dost** (do)  
+- **doth** (does)  
+- **dwell** (to live)  
+- **ere** (before)  
+- **ere** (before)  
+- **erst** (formerly)  
+- **fain** (gladly)  
+- **fare** (to go, to do)  
+- **fie** (expression of disgust)  
+- **forbear** (to refrain)  
+- **forsake** (to abandon)  
+- **forsooth** (indeed)  
+- **hark** (to listen)  
+- **hath** (has)  
+- **hearken** (to listen)  
+- **hence** (from here)  
+- **hie** (to go quickly)  
+- **hither** (to this place)  
+- **mayst** (may)  
+- **saith** (says)  
+- **spake** (spoke)  
+- **tarry** (to delay)  
+- **thee** (you – object)  
+- **thence** (from that place)  
+- **thine** (yours)  
+- **thither** (to that place)  
+- **thou** (you – singular)  
+- **thy** (your)  
+- **wast** (were)  
+- **wend** (to go)  
+- **wert** (were)  
+- **whence** (from where)  
+- **whither** (to where)  
+- **wilt** (will)  
+- **wouldst** (would)  
+- **ye** (you – plural)  
+
+<span id="endGLOSSARY"></span>
+---
 
