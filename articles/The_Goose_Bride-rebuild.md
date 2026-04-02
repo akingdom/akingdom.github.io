@@ -4448,28 +4448,26 @@ Matilda of Scotland was a "bridge-builder" who successfully navigated the volati
 </style>
 <script>
 // filename: glossary-engine.js
-// filename: glossary-engine.js
 document.addEventListener('DOMContentLoaded', () => {
   (function() {
 
     // --- CONFIGURATION ---
     const START_SUFFIX = "STARTGLOSSARY";
     const END_SUFFIX = "ENDGLOSSARY";
-    
-    const STRIP_ORIGINAL_TAGS = true;
-    const STRIP_UNUSED_FROM_GLOSSARY = true;
+
+    const STRIP_ORIGINAL_TAGS = true;          // TRUE = remove glossary entirely
+    const STRIP_UNUSED_FROM_GLOSSARY = true;   // only applies if above is FALSE
     const DUMP_DIAGNOSTICS = true;
     const IGNORE_KEYWORD = "SKIP_LINK";
 
     const glossaryLookup = {};
     const foundInText = new Set();
 
-    // ✅ FIXED: normalization order
     const normalizeKey = (str) =>
       str
         .toLowerCase()
         .replace(/[–—]/g, '-')        // normalize dashes FIRST
-        .replace(/[^\w\s-]/g, '')     // then strip punctuation
+        .replace(/[^\w\s-]/g, '')     // strip punctuation
         .replace(/\s+/g, ' ')
         .trim();
 
@@ -4519,7 +4517,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     fragment.querySelectorAll('li').forEach(li => parseLine(li.textContent));
 
-    // --- 4. Global Scanner ---
+    // --- 4. Scan & Link Terms ---
     const termKeys = Object.keys(glossaryLookup).sort((a, b) => b.length - a.length);
     const linkableKeys = termKeys.filter(k => !glossaryLookup[k].skipLink);
 
@@ -4544,9 +4542,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const nodes = [];
       let curr;
-      while (curr = walker.nextNode()) nodes.push(curr);
+      while ((curr = walker.nextNode())) nodes.push(curr);
 
-      // ✅ GLOBAL (not per node)
       const alreadyLinked = new Set();
 
       nodes.forEach(node => {
@@ -4570,14 +4567,12 @@ document.addEventListener('DOMContentLoaded', () => {
           const key = normalizeKey(matchedWord);
           const data = glossaryLookup[key];
 
-          // ✅ Guard: no lookup match
           if (!data) {
             newFrag.appendChild(document.createTextNode(matchedWord));
             lastIdx = pattern.lastIndex;
             continue;
           }
 
-          // ✅ First occurrence only (global)
           if (alreadyLinked.has(key)) {
             newFrag.appendChild(document.createTextNode(matchedWord));
           } else {
@@ -4606,45 +4601,25 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    // --- 5. Rebuild Glossary ---
-    const resultWrapper = document.createElement('div');
-    resultWrapper.className = 'glossary-source-area';
+    // --- 5. DOM RE-ENTRY (FINAL LOGIC) ---
 
+    // MODE A: Remove glossary entirely
     if (STRIP_ORIGINAL_TAGS) {
+      if (startNode && startNode.parentNode) startNode.remove();
+      if (endNode && endNode.parentNode) endNode.remove();
+    }
 
-      termKeys.forEach(key => {
-        const data = glossaryLookup[key];
-        const isUsed = foundInText.has(key);
-
-        if (STRIP_UNUSED_FROM_GLOSSARY && !isUsed && !data.skipLink) return;
-
-        const row = document.createElement('div');
-        row.className = 'glossary-row';
-        row.style.marginBottom = '0.4rem';
-
-        row.innerHTML = `<span style="color:#6b2e2e;font-weight:bold">&bull; </span>`;
-
-        const ts = document.createElement('span');
-        ts.className = 'term';
-        ts.textContent = data.original;
-
-        ts.onclick = (e) => {
-          e.stopPropagation();
-          showDefinition(data.original, data.def, ts);
-        };
-
-        row.appendChild(ts);
-        resultWrapper.appendChild(row);
-      });
-
-    } else {
+    // MODE B: Keep + clean glossary
+    else {
+      const resultWrapper = document.createElement('div');
+      resultWrapper.className = 'glossary-source-area';
 
       if (STRIP_UNUSED_FROM_GLOSSARY) {
         fragment.querySelectorAll('li').forEach(li => {
           const liText = normalizeKey(li.textContent);
 
           const isUsed = Array.from(foundInText).some(term => liText.includes(term));
-          const isSkipped = termKeys.some(k =>
+          const isSkipped = Object.keys(glossaryLookup).some(k =>
             glossaryLookup[k].skipLink && liText.includes(k)
           );
 
@@ -4657,17 +4632,24 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       resultWrapper.appendChild(fragment);
-    }
 
-    if (startNode.parentNode) {
-      startNode.parentNode.insertBefore(resultWrapper, startNode.nextSibling);
+      const parentP = startNode.closest('p');
+
+      if (parentP && parentP.parentNode) {
+        parentP.parentNode.insertBefore(resultWrapper, parentP.nextSibling);
+      } else if (startNode.parentNode) {
+        startNode.parentNode.insertBefore(resultWrapper, startNode.nextSibling);
+      }
+
+      if (startNode && startNode.parentNode) startNode.remove();
+      if (endNode && endNode.parentNode) endNode.remove();
     }
 
     // --- 6. Diagnostics ---
     if (DUMP_DIAGNOSTICS) {
       console.group("Glossary Diagnostic Report");
-      console.log("✅ Linked in Story Content:", Array.from(foundInText).sort());
-      console.log("❌ Unused/Hidden:", termKeys.filter(t => !foundInText.has(t)).sort());
+      console.log("✅ Linked:", Array.from(foundInText).sort());
+      console.log("❌ Unused:", termKeys.filter(t => !foundInText.has(t)).sort());
       console.groupEnd();
     }
 
