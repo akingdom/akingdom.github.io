@@ -783,7 +783,7 @@ Only then did his expression soften a little. "What news?"
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 8 — The Breton Offer
+## Chapter 8 — The Breton Offer (Revised with Land Clause)
 
 Queen Matilda smiled slightly and drew a parchment from inside her sleeve, permitting herself a little drama.
 
@@ -793,7 +793,7 @@ King Henry’s eyes narrowed, but he said nothing. Godfrey was one of his many s
 
 The Queen turned to face the King fully, seeking reassurance.
 
-“Is it not a clever move, my lord? Why, even old Alain (the Duke’s father) gives us his blessing.”
+“Is it not a clever move, my lord? Why, even old Alain (the Duke’s father) gives us his blessing. Conan offers Godfrey the *Breton March*—with its twenty‑nine strongholds along the Norman border—and a place at his court. He asks only that Godfrey reside there to hold the lands.”
 
 Slowly, very slowly, a smile spread across Henry’s face; but not a warm smile—rather like that of a man who had just spotted a fox climbing into his henhouse.
 
@@ -801,23 +801,23 @@ Slowly, very slowly, a smile spread across Henry’s face; but not a warm smile�
 
 He reread the letter, his thumb tracing the wax seal. Then he set it down.
 
-“Old Alain is fading. He looks at his son Conan and wonders: is he strong enough to stand alone? So he reaches for Godfrey as a second string for his bow, in case the first should fail. This wind bodes ill.”
+“Old Alain is fading. He looks at his son Conan and wonders: is he strong enough to stand alone as Duke? So he reaches for Godfrey as both hostage and second string for his bow, in case the first should fail. This wind bodes ill.”
 
 The Queen frowned. “I see no treachery in it. Godfrey has no lands, little beyond your name. He prefers a scroll to a sword. A Breton marriage would bind them closer to us and give him a place.”
 
 Henry’s jaw tightened. “Therein lies the danger. Conan is fickle. If trouble comes, he will expect me to march—to shed English blood for his quarrels. I have spent the summer in Wales; I will not be drawn into Breton wars.” He shook his head. “This wind bodes ill.”
 
-“You speak ill of family, yet my brother came down from Scotland to support you, as did others. Remember too your seed. Our son William will have Anjou. Your daughter Matilda FitzRoy will have Brittany. Even your nephews have lands over the sea.” 
+“You speak ill of family, yet my brother came down from Scotland to support you, as did others. Remember too your seed. Our son William will have Anjou. Your daughter Matilda FitzRoy will have Brittany. Even your nephews have lands over the sea.”
 
-The Queen’s voice dropped into a more serious tone, in a rare display of frustration. 
+The Queen’s voice dropped into a more serious tone, in a rare display of frustration.
 
-“Some of your barons whisper and call Godfrey *Lack-land's shadow*. They will watch to see what becomes of him.”
+“Some of your barons whisper and call Godfrey *Lack‑land’s shadow*. They will watch to see what becomes of him.”
 
 Henry stared at her. “William is barely ten, and already you fear shadows.”
 
 She met his gaze. “I fear what whispers may grow in silence, not shadows.”
 
-Henry leaned back, his expression unreadable. After a long moment, he spoke, his voice low. “Since when did my queen concern herself so much with whispers?”
+Henry leaned back, his expression unreadable. After a long moment, he spoke, his voice low. “Since when did my queen concern herself with such whispers?”
 
 In truth, he knew the answer. He turned to the fire, and the hall held its breath.
 
@@ -876,25 +876,29 @@ Roger didn't even look at the man, though he gave a curt, affirmative sniff. "Th
 
 He paused, his eyes flicking to the King with a look of devastating common sense.
 
-"However, the dowry is ten thousand marks of silver. It is easy silver, Sire. A precise bargain for a marriageable asset who sits outside the direct line of succession. To refuse it is... inefficient. Your coffers are lean, but there is a coin left on the table."
+“However, the land income itself is substantial—the Breton March, twenty‑nine castles along the Norman border. And the dowry is five thousand marks of silver. Easy silver for the future, Sire. A precise bargain for a marriageable asset who sits outside the direct line of succession. To refuse it is… inefficient. Your coffers are lean, but there is a coin left on the table.”
 
 A few lords nodded, not in agreement but in habit — the reflex of men well practiced in weighing people, wheat and wool. 
 
-Robert de Beaumont, Count of Meulan, let out a low, melodic laugh from the shadows of the pillar. He stepped forward, his fine silk robes whispering against the stone—a sharp contrast to Roger’s ink-stained wool.
+Robert de Beaumont, the King's most trusted advisor, let out a low, melodic laugh. He stepped forward, his fine silk robes whispering against the stone—a sharp contrast to Roger’s ink-stained wool.
 
-“Tell me, Sire, does the Sheriff of Nottingham charge a trespass fine for a Prince’s heart, or is that reserved only for the King’s deer?”
+“Tell me, Roger, does the Sheriff of Nottingham charge a trespass fine for a Prince’s heart, or is that reserved only for the King’s deer?”
+
+His tone was forceful but well intended. Men laughed, as another stepped forth
 
 Henry’s jaw tightened, a flash of genuine irritation crossing his face before he smoothed it into a grim half-smile. “Robert, if I taxed your arrogance, I could pay for a royal wedding.”
 
-Beaumont bowed with the satisfaction of a man who had successfully needled a King. “Then we are both in luck, Sire, for my pride is in endless supply. You may not be Lackland, but despite all the taxes, you are become Lacksilver. Now we wonder if your children are Spendsilver or Quicksilver.”
+Beaumont bowed, still smiling. “Then we are both in luck, Sire, for my pride is in endless supply.”
 
-Stinging laughter echoed about the hall from overtaxed barons, and for the longest moment, Henry said nothing, looking at men who had grown fat on royal favour. *Did I built all this*, he thought. *A kingdom where blood is tallied like wool? And these serve it greedily—more than they serve me.*
+He turned to the room, his voice more serious. “But I agree with Roger on one point: the March lands are valuable in coin and defence. The question is not the silver, Sire, but the leash. Conan wants your son to reside there, to hold those strongholds as his vassal. As you say, it is almost hostage taking, but tempting.”
+
+Murmurs echoed about the hall from overtaxed barons, and for the longest moment, Henry said nothing, looking at men who had grown fat on royal favour. *Did I built all this*, he thought. *A kingdom where blood is tallied like wool? And these serve it greedily—more than they serve me.*
 
 ---
 
 ### Shadows
 
-The anger drained from Henry’s face, leaving a gray weariness. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son. Beaumont’s needling still stung—*Lackland, Lacksilver*—and the unfriendly faces scattered about the hall reminded him that smiles could hide daggers.
+The anger had long drained from Henry’s face, leaving a gray weariness. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son. 
 
 Then Henry saw it and stopped.
 
@@ -1286,13 +1290,13 @@ He turned as Sir Guy entered. Middle‑aged, grey‑haired, with the kind of fac
 
 “Sir Guy de Montfort.” It was not a question.
 
-Sir Guy turned. “You have the advantage of me.”
+Guy turned. “You have the advantage of me.”
 
 The grey man gestured to a stool. “I am no one you need to name. Call me a traveller with an interest in… opportunities.”
 
 Sir Guy did not sit. “Opportunities?”
 
-“You want Stanwey. The King has given it to his son. A pity.” The grey man’s tone was light, almost casual. “A fine holding, five hides, iron in the hills. It would make a man independent of royal favour. Such a shame a maid stands in your way.”
+“For instance, you want Stanwey. The King has given it to his son. A pity.” The grey man’s tone was light, almost casual. “A fine holding, five hides, iron in the hills. It would make a man independent of royal favour. Such a shame a maid stands in your way.”
 
 Sir Guy’s hand tightened on his dagger. “Who sent you? The King?”
 
@@ -1300,11 +1304,11 @@ The grey man laughed softly. “The King who spoke in full view of the court wou
 
 Sir Guy’s jaw tightened. “I have lands in Normandy.”
 
-“Do you? Your family’s quarrel with the King over Évreux, it is well known. The King’s justice took what was yours. Now you seek to rebuild in England.” The grey man leaned against the huge stones. “I am not your enemy. I am merely… curious.”
+“Do you, indeed? Your family’s quarrel with the King over Évreux—it is well known. The King’s justice took what was yours. Your father and uncles came to gain lands in England and the King's justice again took what is yours. You sought a bride for yourself with the same outcome. It is difficult for every young man to build a reputation with such interference by the King.” The grey man leaned against the huge stones. “I am not your enemy. Nay, I am merely—shall we say—curious.”
 
 “Curious about what?”
 
-“Whether you are a man who can be helped. Or one who cannot.”
+“Whether you are a man who can be helped. Or a boy who cannot.”
 
 The silence stretched. Sir Guy weighed the man’s words. A trap? Possibly. But the King would not use such a messenger. The Queen? Unlikely. A rival? Perhaps. But the offer was vague, deniable.
 
@@ -2198,7 +2202,7 @@ Harold’s mouth twitched. “A compromise. Your father would never have agreed 
 
 Henry lowered his voice. “A word in your ear, Rauthulfr. This marriage has another advantage for me. There are nearby barons who think my ears do not hear their plotting.” He paused. “They are wrong.”
 
-Harold nodded slowly. “The Beaumonts.”
+Harold nodded slowly. “The Beaumonts.” - replace name in progress
 
 “And others.” Henry did not elaborate. He did not need to. “Stanwey is a good vantage point. Close enough to the Rockingham castle to be useful, far enough to be overlooked, if you follow me.” He smiled, coldly. 
 
@@ -2672,7 +2676,7 @@ She checked inside the needle-case, grateful to find that all the expensive stee
 ---
 
 *That night, Winchester hummed with whispered conversations. The King’s departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
-
+ replace Beaumont -- in progress
 The chamber was small, lit by a single candle. Around the table sat three men: the grey‑haired agent in his plain cloak; a portly figure in a merchant’s fur‑trimmed coat, known only as the Pied Merchant; and a lean, sharp‑featured man whose silence spoke of authority—Robert de Beaumont, Count of Meulan, though no one spoke his name aloud.
 
 Beaumont would sail with the King on the morrow. His presence here was a risk, but risks were how men advanced.
@@ -3024,7 +3028,7 @@ She felt hope.
 
 ## Chapter 17 XXX — Christmas Court -- AK:TODO RENUMBER
 
-The court assembled at Westminster for Christmas. Nobles from across England, bishops, barons, and foreign visitors filled the halls. Beatrice, now dressed in gowns provided by the Queen's own seamstress, moved through the crowds with growing confidence.
+Soon enough, the court assembled at Westminster for Christmas. Nobles from across England, bishops, barons, and foreign visitors filled the halls. Beatrice, now dressed in gowns provided by the Queen's own seamstress, moved through the crowds with growing confidence.
 
 Then the Duchess of Brittany arrived.
 
@@ -3066,7 +3070,7 @@ He did not answer.
 
 “I have fought.”
 
-“Not with swords. With your silence.” Her voice was gentle. “You have always waited for permission. For your father’s nod, for the right moment. But love does not wait for permission, brother.”
+“Not sufficiently, brother.” Her voice was gentle. “You have always waited for permission. For our father’s nod, for the right moment. But love does not wait for permission.”
 
 Godfrey looked at his hands as the Duchess continued.
 
@@ -3092,7 +3096,41 @@ But Queen Matilda shook her head. “I have need of her here. There is a project
 
 The Duchess accepted this, though she noted the jealousy flickering in Avice’s eyes across the hall. “As you wish, Your Grace.”
 
- revisit - the AI got this wrong and reversed whom was to go to devon. correct is godfrey and sister Matilda were arranged to go to Devon with Beatrice too and others plot to keep the latter at Winchester for nefarious reasons, which is why I've had to redo a lot of ths and preceding sections.
+---
+
+### A Quiet Separation
+
+The Duchess of Brittany had been pressing for Godfrey to visit their mother in Devon. “She is unwell,” Matilda FitzRoy said. “It would do her heart good to see you.”
+
+The Beaumont agent, overhearing this, murmured to Sir Guy: “Let him go. A prince who is absent cannot protect a goose girl.”
+
+Godfrey hesitated. He did not want to leave Beatrice.
+
+But the Queen, who had her own reasons, said: “Go. I will keep her safe. There is work here—visiting the sick, distributing alms. The court should see the King’s future daughter‑in‑law as a woman of charity, not just a goose girl.”
+
+Beatrice tried to hide her disappointment. “How long will you be gone?”
+
+“A fortnight. Perhaps less.” Godfrey’s voice was low. “I will return as soon as I can.”
+
+The Duchess smiled. “He will write. I will make sure of it.”
+
+They left on a cold morning, Godfrey riding beside his sister, his face turned back toward Winchester until the road curved and the castle vanished behind the trees.
+
+---
+
+### Charity
+
+The Queen kept her word. Each morning, Beatrice rode out with a small escort to the villages around Winchester, carrying baskets of bread, cloth, and dried herbs. She sat with the sick, listened to their troubles, and distributed alms in the Queen’s name.
+
+The half‑sisters watched from the castle windows, their jealousy sharpening.
+
+“She plays at being a saint,” Avice said.
+
+“The Queen will tire of her,” Eustacia replied confidently.
+
+But the Queen did not tire. And when the poor began to speak of “the Lady of Stanwey” with affection, the whispers at court shifted. Not everyone believed the half‑sisters’ tales anymore.
+
+---
 
 **IMPORTANT** => The Duchess frequents Devon where her mother (henry's mistress) Edith resided. Godfrey might also go there, anyway, he departs, as encouraged by the enemy set (Beaumont: 'well, it is nice to see a boy care for his mother. do give my regards.').
 
