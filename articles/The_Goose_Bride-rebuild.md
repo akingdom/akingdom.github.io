@@ -805,13 +805,25 @@ He reread the letter, his thumb tracing the wax seal. Then he set it down.
 
 The Queen frowned. “I see no treachery in it. Godfrey has no lands, little beyond your name. He prefers a scroll to a sword. A Breton marriage would bind them closer to us and give him a place.”
 
-Henry’s jaw tightened. “Therein lies the danger. Conan is fickle. If trouble comes, he will expect me to march—to shed English blood for his quarrels. I have spent the summer in Wales; I will not be drawn into Breton wars.” He shook his head. “This wind bodes ill.”
+Henry’s jaw tightened and he raised his voice. “Therein lies the danger. What say you, *Roche*?”
 
-“You speak ill of family, yet my brother came down from Scotland to support you, as did others. Remember too your seed. Our son William will have Anjou. Your daughter Matilda FitzRoy will have Brittany. Even your nephews have lands over the sea.”
+*Lord Everard de la Roche* looked up, startled and looking a little guilty. ”My lord?” He had been standing near eough to overhear. This lord had lost lands near Vexin, in the critical border zone between Normandy and France.
+
+”What say you of the Breton Marche, shall I marry a son to gain that border?”
+
+Lord Roche sucked in a deep breath. Borders were a sore topic for him.
+
+”My lord, it is said that Duke Conan is fickle. When trouble comes, will he not expect you to march on the Marche with English sons. We have spent a tiresome summer in Wales, and next we head to Normandy; better not be drawn into Breton wars.” 
+
+Henry nodded his agreement. “Aye. This wind surely bodes ill.”
+
+The Queeen's expression cooled considerably.
+
+“My brother came down from Scotland to support you in Wales, as did others. Remember too your seed, lord. Our son William will have Anjou. Your daughter Matilda FitzRoy will have Brittany. Even your nephews have lands over the sea.”
 
 The Queen’s voice dropped into a more serious tone, in a rare display of frustration.
 
-“Some of your barons whisper and call Godfrey *Lack‑land’s shadow*. They will watch to see what becomes of him.”
+“Some of your barons whisper. They call William Adelin *the child* and Godfrey *Lack‑land’s shadow*.”
 
 Henry stared at her. “William is barely ten, and already you fear shadows.”
 
@@ -884,13 +896,15 @@ Robert de Beaumont, the King's most trusted advisor, let out a low, melodic laug
 
 “Tell me, Roger, does the Sheriff of Nottingham charge a trespass fine for a Prince’s heart, or is that reserved only for the King’s deer?”
 
-His tone was forceful but well intended. Men laughed, as another stepped forth
+His tone was forceful but well intended. Men laughed around the room.
 
 Henry’s jaw tightened, a flash of genuine irritation crossing his face before he smoothed it into a grim half-smile. “Robert, if I taxed your arrogance, I could pay for a royal wedding.”
 
 Beaumont bowed, still smiling. “Then we are both in luck, Sire, for my pride is in endless supply.”
 
-He turned to the room, his voice more serious. “But I agree with Roger on one point: the March lands are valuable in coin and defence. The question is not the silver, Sire, but the leash. Conan wants your son to reside there, to hold those strongholds as his vassal. As you say, it is almost hostage taking, but tempting.”
+More laughter.
+
+Beaumont turned to the room, his voice more serious. “But I agree with Roger on one point: the March lands are valuable in coin and defence. The question is not the silver, Sire, but the leash. Conan wants your son to reside there, to hold those strongholds as his vassal. As you say, it is almost hostage taking, but tempting.”
 
 Murmurs echoed about the hall from overtaxed barons, and for the longest moment, Henry said nothing, looking at men who had grown fat on royal favour. *Did I built all this*, he thought. *A kingdom where blood is tallied like wool? And these serve it greedily—more than they serve me.*
 
@@ -976,9 +990,7 @@ A clerk dropped his parchments.
 
 The goose darted across the hall like a feathered arrow.
 
-Someone muttered:
-
-“My troth! A goose loose in the king’s house.”
+Lord Roche muttered: “My troth! A goose loose in the king’s house.”
 
 The bird leapt onto the king’s table.
 
@@ -2045,15 +2057,15 @@ Goosie waddled back to the herb bed and settled comfortably there, quite satisfi
 
 ---
 
-### Preparations
+### The King is Coming
 
-The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The reeve set men to repairing the lane. Even the children were put to work, gathering spring flowers to decorate the hall.
+The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The reeve set men to repairing the lane. 
 
 Harold, who had been quiet since the betrothal, seemed to come alive. He walked the boundaries of the manor with Godfrey, pointing out where the old Roman road ran, where the best timber stood, where the river flooded in spring. His breath came short, but his eyes were clear.
 
 “You’ll need to know these things,” he told Godfrey, “if you mean to stand beside her.”
 
-Godfrey did not say he meant to. He simply walked and listened.
+Godfrey did not say what he meant to say. He simply walked and listened.
 
 Beatrice watched them from the door of the hall, Goosie at her feet. Her father was moving more than he had in months, his voice stronger, his step less tentative. She caught herself smiling.
 
@@ -2062,6 +2074,76 @@ Beatrice watched them from the door of the hall, Goosie at her feet. Her father 
 “He has something to live for,” Godfrey said. “We all do.”
 
 She did not ask what he meant. She thought she knew.
+
+---
+
+## Respite and Some Advice
+
+On the final day, the Hall was a furnace of frantic industry. The air was thick with the scent of rendering fat and the sharp, rhythmic *thwack* of cleavers on oak. Even the children were put to work, gathering spring flowers to decorate the hall.
+
+Beatrice’s hands were stained a dull, bruised green from the sage and hyssop she had been pounding for the feast-bread. The bread dough—a simple, honest lump of flour, water, and the old starter her mother had kept for years—was finally set to rise in the cool of the pantry, leaving her a throbbing head and too many thoughts.
+
+The relentless scrape of sand on stone as the scullions scrubbed the floors, the shout of the cook, the clatter of iron pots—it was all too much. She needed air. She needed a walk.
+
+She slipped out the side door, past the woodpile, and took the path toward the village. The blacksmith had asked her for a salve for a burn; Beatrice had promised to bring it. A small errand, a reason for some silence without feeling guilty or lazy.
+
+The laneway was unusually quiet since most villagers were already helping gladly up at the hall. The autumn sun was pale, the shadows long. She delivered the salve, exchanged a few pleasant words, and turned back towards the hall.
+
+Goosie had followed her, as always. The bird was tired from the day's activity so waddled over and settled under the wooden bench seat by Beatrice's favourite tree—the one by St. Peter's.
+
+“Little lady!” A distant cheerful voice was followed by a warbling whistled tune. The priest was rounding the corner of his small wattle-and-daub cottage, which sat in the lee of the church's chancel. He was an old man, older than her father, his face carved by wind and prayer.
+
+Behind him, near the low stone wall of the churchyard, his straw skeps—the conical bee-hives—hummed with more activity than even Stanwey hall. The late August sun had turned the air golden, and the bees darted amongst the fading clover and the last of the wild thyme, desperate to fill their combs before the first frost.
+
+*Little lady.* The priest had always called her that since childhood and had no intentions to change now she was growing up. Beatrice sank gratefully onto the wooden bench seat that had stood beneath the tree's deep evergreen canopy for longer than she could remember.
+
+The old man stopped while he wiped his hands on a rough linen apron, his eyes crinkling. “I've a jar of fresh honey if you'll wait a moment. My other ladies have been busy with the heather on the heights; it’s dark and thick as treacle this year.”
+
+He noticed Goosie in her usual place under the seat. “That goose has more sense than some humans I could mention. You look as though you’ve been carrying the world on your shoulders, child,” he said.
+
+Beatrice didn’t open her eyes at first. “Only bread on the oven peel, Father.”
+
+“Well met,” the priest chuckled and joined her in the cool. “Oh, my old bones do need a sit down. Now then, tell me all about this man of yours—the king’s son.”
+
+“I did not choose it,” she said, finally looking up.
+
+“Well, I supposed that much.” The priest’s face was kind, but his eyes were sharp. “How did it come about? I know that you had to take poor Goosie up to the castle.”
+
+Beatrice drew a deep breath. “Sooth. The king made a vow. Godfrey shall marry the next pure maid to walk through that door. I walked in—stumbled in—and now my life is no longer my own.”
+
+She sighed and turned to face him. “Is that what God wants? Is that a good marriage?”
+
+The priest was silent, his focus elsewhere, though watching Goosie pick at a stray blade of grass. “What is it you truly fear?” he asked. “The man, or the loss of what you have?”
+
+Beatrice looked down at her hands. “My father. He is old, and not well. If I leave, who will care for him? I am all he has.”
+
+The priest nodded slowly. “That is a true fear, and a heavy one.” He was quiet for a moment. “Yet I have heard that the king promised provisions?”
+
+“Aye, I did forget that: A larder, a reeve, a cook, all at no cost to us. That is sooth.”
+
+”And I have seen the young man helping your father, even when you are absent. He does not seem eager to cast your father aside.”
+
+Beatrice frowned. “You have seen him?”
+
+“I have eyes, child. And ears. And for these I thank our God often.” 
+
+The priest smiled. “The King of Engliand’s son mended the goose pen. He helped the blacksmith fix his bellows. He sat with your father by the gate in the evening while waiting for you. He even made sure your father's favourite cakes didn't burn. Those are not the acts of a man who means to steal your home.”
+
+“He is trying to be kind,” she admitted.
+
+“Then perhaps your fear is not of him, but of change.” The priest leaned forward. “Is he cruel? Does he mock you? Does he treat servants with contempt?”
+
+“No.”
+
+“Is he detestable?”
+
+She thought of Godfrey standing apart while she wept, giving her space, not reaching out. She merely shook her head, upset by the recollection.
+
+The priest nodded. “Then the king’s vow is a chain, but it is not a prison. You cannot escape the betrothal without great cost—scandal, your father’s suffering. Yet you can choose how you enter it. Watch the man. Judge his character. Walk with your eyes open. Since he listens, clear with him how you see things.”
+
+“But *how* will I know for certain?” she asked.
+
+“You will know,” the priest said, rising and patting the bark of the great tree, “*when you are no longer afraid of the answer*. Now, let me get you that honey.”
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -2200,23 +2282,11 @@ Harold’s mouth twitched. “A compromise. Your father would never have agreed 
 
 “We do.”
 
-Henry lowered his voice. “A word in your ear, Rauthulfr. This marriage has another advantage for me. There are nearby barons who think my ears do not hear their plotting.” He paused. “They are wrong.”
+Henry lowered his voice. “I must be to morrow with Robert Beaumont. We plan my return to Normandy.”
 
-Harold nodded slowly. “The Beaumonts.” - replace name in progress
+Harold nodded slowly. “Greet that man for me. Trouble with King Louis?”
 
-“And others.” Henry did not elaborate. He did not need to. “Stanwey is a good vantage point. Close enough to the Rockingham castle to be useful, far enough to be overlooked, if you follow me.” He smiled, coldly. 
-
-Harold absorbed this. “You are using my daughter’s betrothal as a message.”
-
-“I am using everything as a message.” Henry’s voice was quiet. “But that is a king’s burden, not a father’s. Your daughter will be well cared for. And Stanwey will be a shield, not a sword.”
-
-He walked to the door, then looked back. “Tell no one of this. Not even Godfrey. He has enough to carry.” 
-
-He paused. “One more thing. Stanwey will be hers. Godfrey will hold it in her name, as her steward, not as its lord. That is my gift to you, for the Severn, and for the daughter you have raised.”
-
-Harold’s throat tightened. He nodded, not trusting his voice.
-
-Henry opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
+“And others.” Henry did not elaborate. “That is a king’s burden, not a father’s, so to night, we shall celebrate.” He opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
 
 ---
 
@@ -2274,7 +2344,7 @@ Beatrice shook her head. She looked at him intently, and there was no mocking in
 
 “I wish to—” Her voice faltered. Her throat was dry. She turned, almost without thinking. “Godfrey, would you pass me a drink.”
 
-For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed and offered it to her deliberately. Their fingers did not touch, but their eyes met and lit up. *Will you?*
+For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed and offered it, waiting deliberately. Their fingers did not touch, but their eyes met and lit up. *Will you?*
 
 She accepted the cup, nodding solemly, its cold silver weight a sudden, heavy reality against her warm toil-worn skin.
 
@@ -2631,21 +2701,23 @@ Lady Margaret, watching from the shadows, felt a rare tug of amusement.
 
 The first formal dinner was also the King’s farewell. Henry would leave for Normandy within the week, and the court had gathered in the Great Hall to honour him.
 
-Beatrice sat near the foot of the table, surrounded by ladies, some of whom spoke over her and around her as if she weren’t there. The array of knives and spoons was bewildering. Trying to remember her lessons, she reached for the wrong one—a fish knife for the meat course—and a titter ran down the table.
+Beatrice sat near the foot of the table, a small island in a sea of silk-clad women and whispered judgments. The array of knives and spoons was bewildering. Trying to remember her lessons, she reached for the wrong one—a fish knife for the meat course—and a titter ran down the table.
 
 Lady Margaret, from beside her, quietly: “The other one. The broader blade, girl.”
 
 Beatrice switched, face burning. Across the hall, Avice whispered something to Eustacia. Both laughed, watching the comedy.
 
-Godfrey, seated on the dais, by the King's high table, caught her eye. He didn’t smile. Didn’t wave. Just… looked. And somehow, that was enough to anchor her against the swelling tide of fears.
+Then Beatrice caught Godfrey’s eye. He was seated on the dais among his half‑brothers—Robert of Gloucester, broad and quiet as an idle siege tower; Richard of Lincoln, leaning in to hear some jest. Godfrey did not smile. Did not wave. Just… looked. And somehow, that was enough.
 
-Then the King rose. Following muffled noise of everyone else standing, the hall fell silent.
+At the high table, the King sat flanked by Queen Matilda and the young heir, William Adelin, who was trying to balance a spoon on his nose. Matilda gently removed it. Robert de Beaumont, the King’s most trusted advisor, leaned across to murmur something that made Henry’s jaw tighten. Roger of Salisbury, the bishop‑chancellor, watched the exchange with the stillness of a spider at the edge of its web.
 
-“I leave for Normandy within the week,” Henry said, his voice carrying to the rafters. 
+Nearby, William de Warenne spoke in low tones to Eustace of Boulogne. Their eyes followed the servants, not the King.
 
-“The Queen will govern in my absence. She is my mouth, my hands, my heart. What she commands, I command. What she forbids, I forbid.”
+Then the King rose. With a muffled scrape of benches, the hall stood.
 
-He looked at Matilda, who inclined her head to acknowledge his grace.
+“I leave for Normandy within the week,” Henry said, his voice carrying to the rafters. “The Queen will govern in my absence. She is my mouth, my hands, my heart. What she commands, I command. What she forbids, I forbid.”
+
+Matilda inclined her head. The hall held its breath.
 
 “I call for your loyalty—paying such to her to do so to me. And to my son William Adelin, who shall one day rule after me.” His gaze swept the room, resting for a moment on the cluster of knights where Sir Guy stood. “Those who serve me faithfully will be rewarded. Those who do not will learn that I have a long hand, even reaching across the water.”
 
@@ -2653,13 +2725,15 @@ He raised his cup. “To the Queen, to England, and to the peace we have built.�
 
 The hall echoed: “To the Queen.”
 
-Beatrice drank, her throat tight. She glanced at Godfrey, who was watching his father with an expression she could not name.<<< improve without substantially lengthening or getting abstract.
+Beatrice drank, her throat tight. She glanced at Godfrey again. He was watching his father with an expression she could not name.
 
-As the feast broke, Beatrice hurried to escape the crowded hall, but realized she had left her needle-case—a small, precious cylinder of carved bone—on the bench.
+Below the salt, at the trestle tables, the “New Men” hunched over their cups. Nigel d’Aubigny tore a bread loaf in two. Ranulf le Meschin laughed at something Geoffrey de Clinton said. A Flemish merchant—grey‑haired, nondescript—moved between the benches, refilling cups that were not empty. A wandering clerk in a threadbare cloak sat alone at the end of a bench, his eyes fixed on the high table, his hands still.
 
-Retracing her steps, she tripped on a loose rush and collided squarely with a servant carrying a heavy ewer of dregs. The cold, fatty wash of ale and meat-juice soaked into her new wool sleeve. The servant cursed, then apologised as a group of young squires by the door burst into braying laughter at the "provincial cow" drenched in slops.
+As the feast broke, Beatrice hurried to escape the crowded hall, but realised she had left her needle‑case—a small, precious cylinder of carved bone—on the bench.
 
-Fortunately the needle-case had remained on the table, so she sat to wring out her sleeve.
+Retracing her steps, she tripped on a loose rush and collided squarely with a servant carrying a heavy ewer of dregs. The cold, fatty wash of ale and meat‑juice soaked into her new wool sleeve. The servant cursed, then apologised as a group of young squires by the door burst into braying laughter at the “provincial cow” drenched in slops.
+
+Fortunately the needle‑case had remained on the table, so she sat to wring out her sleeve.
 
 Voices approached.
 
@@ -2671,73 +2745,69 @@ Several nobles noticed her there and fell silent, leaving the hall quickly.
 
 Beatrice sat still, her hands cold. *They are talking about me,* she thought. *And not only about me.*
 
-She checked inside the needle-case, grateful to find that all the expensive steel needles were still present.
+She checked inside the needle‑case, grateful to find that all the expensive steel needles were still present.
 
 ---
 
+### Preparations
+
 *That night, Winchester hummed with whispered conversations. The King’s departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
- replace Beaumont -- in progress
-The chamber was small, lit by a single candle. Around the table sat three men: the grey‑haired agent in his plain cloak; a portly figure in a merchant’s fur‑trimmed coat, known only as the Pied Merchant; and a lean, sharp‑featured man whose silence spoke of authority—Robert de Beaumont, Count of Meulan, though no one spoke his name aloud.
 
-Beaumont would sail with the King on the morrow. His presence here was a risk, but risks were how men advanced.
+The chamber was small, lit by a single candle. Around the table sat four men: the grey‑haired agent in his plain cloak; a portly figure in a merchant’s fur‑trimmed coat, known only as the Pied Merchant; a lean, sharp‑featured man whose silence spoke of authority—Lord Everard de la Roche; and a fourth, younger, who had not yet spoken.
 
-“The King’s campaign in Normandy will succeed,” the Pied Merchant said, his tone light. “The French are disorganised. Clito is a shadow, nothing more. The real danger is… uncertainty. If the Queen feels threatened, she may act rashly.”
+Roche swirled his wine, his eyes distant. “I remember when the old King held court at Rouen. My father knelt before him. We had land then. A hall with a view of the Seine.” He sighed. “Henry took it. Gave it to a clerk with ink on his fingers.”
 
-The grey man nodded. “And a queen who acts rashly is a queen who makes enemies.”
+The Pied Merchant shrugged. “Lands are lost. Lands are won.”
 
-Beaumont swirled his wine. “Young William seemed to enjoy himself at the feast. A fine lad. He will make a good king one day.”
+Roche nodded slowly. “The King’s vow has given us a gift. The girl is nothing. A manor of five hides, a few geese. Let Sir Guy chase his shadow. The marriage serves our purpose. Godfrey will stay small, weak, and forgotten.”
 
-“If he lives that long,” the Pied Merchant murmured, then added quickly, “God willing, of course.”
+The grey man leaned forward. “And the Breton March?”
 
-A pause. The candle flickered.
+“We whispered against it. Henry listened. The March will remain a border, not a fortress.” Roche set down his cup. “Our work is not to stop the marriage. It is to ensure that when the time comes, there is no strong son to rally behind Henry.”
 
-Beaumont set down his cup. “We serve the King. We have always served the King. But service does not mean blindness. We must be ready for any… contingency.”
-
-The grey man leaned forward. “The succession is secure. William is healthy. The Queen is capable. There is nothing to fear.”
-
-“Nothing at all,” Beaumont agreed. His tone was smooth, reassuring.
+The fourth man spoke for the first time, his voice low. “We are here to set the stage for a future heir. After Henry is gone, we—”
 
 A knock at the door. The men fell silent.
 
 A servant’s voice: “Sir Guy de Montfort.”
 
-Beaumont’s eyes flicked to the grey man. “Your petitioner.”
+Roche’s eyes flicked to the grey man. “Hmm. Your petitioner.”
 
 Sir Guy entered, his face flushed with wine and urgency. He sat opposite the grey man, his self‑importance barely contained.
 
-“The Queen is protecting the Saxon girl,” he said. “I saw it tonight. She sat with her in the window seat.”
+“The Queen is surely protecting the Saxon girl,” he said rudely.
 
 The grey man nodded indulgently. “We heard.”
 
-“Then we must move faster. The King will return in the spring. Once he does, any challenge will be crushed.”
+“Then we must move together. The King will return in the spring. Once he does, any challenge will be crushed.”
 
-Beaumont exchanged a glance with the Pied Merchant. Sir Guy was a useful tool—eager, ambitious, and blind to the larger game.
+Roche exchanged a glance with the Pied Merchant. Sir Guy was a useful tool—eager, ambitious, and blind to the larger game.
 
 “What do you propose?” the grey man asked, playing along.
 
-“The legal hearing. Escheat. We claim the old thegn is unfit, that the girl cannot hold the land. Roger of Salisbury will hear the case.”
+“A legal hearing. Escheat. We claim the old thegn is unfit, that the girl cannot hold the land.”
 
 The Pied Merchant shrugged. “A local matter. Pursue it if you wish.”
 
 Sir Guy’s jaw tightened. “I need support. Silver. Witnesses.”
 
-“You will have what you need.” Beaumont’s voice was dismissive. “But do not mistake this for our main purpose. Stanwey is a stone in your shoe, not a cornerstone of the realm.”
+“You shall have what you need,” Roche said, his voice smooth. “But do not mistake this for our main purpose. Stanwey is a stone in your shoe, not a cornerstone of the realm.”
 
 Sir Guy raised his cup, trying to regain the initiative. “To the King’s departure.”
 
 “To the King’s departure,” the others echoed, their voices flat.
 
-Beaumont rose. “I need my sleep. We sail at dawn.” He glanced at the grey man. “Walk with me.”
+Roche rose. “I need my sleep. We sail at dawn.” He glanced at the grey man. “Walk with me.”
 
-The grey man stood. The Pied Merchant followed. The three of them moved toward the door.
+The grey man stood. The Pied Merchant followed. The fourth man rose silently. The three of them moved toward the door.
 
 Sir Guy frowned. “What of the rest? The plan?”
 
-“You have your instructions.” Beaumont paused at the threshold, not looking back. “I will send word from Normandy.”
+“You have your instructions.” Roche paused at the threshold, not looking back. “I will send word from Normandy. Do nothing until then.”
 
-The door closed behind them. Sir Guy sat alone, the candle flickering, the parchment still on the table. He did not notice that they had not once asked for his opinion on anything beyond Stanwey.
+The door closed behind them. Sir Guy sat alone, the candle flickering, the parchment still on the table. He felt important, not noticing that the others had not once asked for his opinion on anything beyond Stanwey.
 
-In the corridor, Beaumont’s voice faded: “Now, about that other matter… the Clito business requires a messenger to Flanders. We must ensure the Queen’s attention stays elsewhere…”
+In the corridor, Roche’s voice faded: “The Clito business requires a messenger to Flanders. The French king waits. We set the stage for a future heir. One step at a time.”
 
 The words trailed off, lost in the stone.
 
@@ -2751,7 +2821,7 @@ For days, the courtyards were a chaos of iron‑shod hooves and the rhythmic *th
 
 Beatrice watched from the high gallery, but she felt miles away. The social distance was a physical weight. The King was a sun around which everything orbited; as he moved toward the coast, the light changed.
 
-Lady Margaret, usually a pillar of exacting instruction, became a ghost. She spent her hours huddled in low‑voiced conferences with the Queen’s clerks, her brow furrowed over parchment tallies and wax seals. When she looked at Beatrice, her eyes didn’t seem to see a ward; she saw another mouth to feed in a fortress that was about to become a lonely island.
+Lady Margaret, usually a pillar of exacting instruction, became impossible to find. She spent her hours huddled in low‑voiced conferences with the Queen’s clerks, her brow furrowed over parchment tallies and wax seals. When she attended Beatrice, her eyes didn’t seem to see a ward to care for, but only another mouth to feed in a fortress that was about to become a lonely island.
 
 Even the Queen, Matilda, seemed to retract. She was no longer the gracious hostess of the feast; she was the **Regent**. She sat in the solar, shrouded by the scratch of quills and the smell of hot sealing wax, her face a mask of statecraft. Beatrice was no longer a pupil to be moulded; she was a piece of furniture in a room where the men were leaving to go to war.
 
@@ -3132,7 +3202,7 @@ But the Queen did not tire. And when the poor began to speak of “the Lady of S
 
 ---
 
-**IMPORTANT** => The Duchess frequents Devon where her mother (henry's mistress) Edith resided. Godfrey might also go there, anyway, he departs, as encouraged by the enemy set (Beaumont: 'well, it is nice to see a boy care for his mother. do give my regards.').
+**IMPORTANT** => The Duchess frequents Devon where her mother (henry's mistress) Edith resided. Godfrey might also go there, anyway, he departs, as encouraged by the enemy set (Roche: 'well, it is nice to see a boy care for his mother. do give my regards.').
 
 => "she should come with us down to Devon." However, the queen wishes her to stay (or other cause), to help with a favoured project or some such. (we can chronicle them publicly visiting poor/sick/etc.) --> yes, with greater jealousy accordingly. Insert here.
 => Show the charity work or imply?
@@ -3885,9 +3955,63 @@ These chapters will be restructured per your earlier plan. I’ll list the new s
 If you’d like, I can now draft any of these missing scenes (e.g., the full hearing, the garden two‑questions, the black moment) so you can integrate them. Let me know which you’d like to tackle first.
 
 ---
+
+Character rundown.
+
+**Everard de la Roche, Seigneur de la Roche** – A minor Norman baron of diminished estate, dispossessed of his ancestral lands in the Vexin after the Battle of Tinchebray (1106). Grey‑haired, soft‑spoken, and easily overlooked, he moves through court as a man of no consequence—precisely as he intends. Once a knight of respectable standing, he now nurses a quiet grievance against King Henry, whom he blames for his family's ruin. In truth, he is an agent of a larger conspiracy, a whisperer in the shadows who carries messages between the English court and the exiled supporters of William Clito. His name—*Everard*, “brave as a wild boar”—is a bitter irony; his courage now expresses itself not in the tilt-yard but in the careful cultivation of disaffection, the planting of rumours, and the patient weaving of plots. He is present at Rockingham, at Winchester, at every critical juncture, watching, waiting, and nudging events toward his masters’ ends. He is not the wolf; he is the shepherd’s dog that has learned to bite.
+
+
+---
+
+A public vow sworn *coram rege* (before the court) was a matter of profound religious and legal seriousness, carrying potentially devastating consequences if broken.
+
+### ⛓️ What Made a Vow Sacred and Binding
+
+For a 12th-century king, a public vow was more than a political promise. It was a matter of eternal salvation.
+
+*   **A Sin and a Crime**: Breaking one's word was not just a legal transgression; it was a **mortal sin**, a "breach of faith" that put the oath-taker's soul in jeopardy of eternal damnation[reference:0]. This spiritual fear was a very real part of the medieval mindset.
+*   **The King's Word Was His Bond**: A king's authority rested on the perception of his honour and trustworthiness. To break a sworn oath would be seen as **perjury**, a crime that could destroy his reputation and undermine his rule[reference:1]. A king who broke his word was a king who could not be trusted.
+*   **Under God's Watchful Eye**: A vow made "before the court" was also made before God and His saints. If made on a relic or a Gospel book, it was considered even more inviolable. The Church taught that God would punish oath-breakers, often in this life, which added a terrifying dimension to the vow.
+
+### 🛡️ The "Flowback" to the Vow-Maker: What If It All Went Wrong?
+
+The consequences for Henry would have been severe if the vow could not be fulfilled. The blowback would come from two directions: the Church and the barons.
+
+#### Spiritual and Political Consequences
+
+*   **Excommunication**: The most terrifying threat for a medieval king. If Henry broke his oath, the Pope could excommunicate him, cutting him off from the Church and its sacraments. An excommunicated king was seen as a tyrant, and his subjects were **freed from their oaths of loyalty**[reference:2].
+*   **A Weapon for Enemies**: A broken vow would be a gift to Henry's enemies. Louis VI of France and the faction supporting William Clito would use it as propaganda, portraying Henry as an oath-breaker and a tyrant, a man whose word was worthless.
+*   **Loss of Authority**: A king who could not enforce his own royal vow would appear weak. Disaffected barons would see it as a sign that the crown's authority was crumbling, encouraging them to pursue their own ambitions.
+
+### 💔 The "Impediments": What Could Go Wrong and Who Would Be to Blame?
+
+If the marriage was prevented, the consequences would fall on whoever was seen as responsible.
+
+*   **Death of Beatrice or Godfrey**: If either died before the wedding, the vow would be rendered impossible. There would be no blame on the king, but he would have to find another way to provide for his son.
+*   **Refusal to Marry**: If Beatrice refused, she would be defying the King's command. The consequences for her could be severe, including imprisonment or the confiscation of her family's lands. If Godfrey refused, he would be seen as a disobedient son and a traitor.
+*   **Harold's Refusal**: As Beatrice's father, Harold's consent was essential. If he refused, he would be in a difficult position, but he might be able to negotiate a settlement or offer compensation. Henry could also seek a papal dispensation to override his objections.
+*   **Other Impediments**: If a valid impediment, such as a pre-existing marriage contract or a被发现秘密, was discovered, the Church could declare the betrothal null and void. This would release Henry from his vow without blame, but it would also be a scandal.
+
+### ⚖️ Betrothal vs. Marriage: A Crucial Distinction
+
+In the 12th century, there was a clear legal distinction between betrothal (*sponsalia de futuro*) and marriage (*sponsalia de praesenti*).
+
+*   **Betrothal**: A promise to marry in the future. It was a binding contract, but it could be broken under certain circumstances, such as mutual consent or the discovery of a valid impediment[reference:3]. A betrothal was not yet a marriage.
+*   **Marriage**: A present consent to be husband and wife. Once the couple exchanged vows of present consent, the marriage was considered valid and indissoluble[reference:4].
+
+In the story, the vow is essentially a forced betrothal. Henry has promised to marry Godfrey to the next woman through the door. Until the marriage is consummated, the betrothal is a binding promise, not yet an indissoluble union.
+
+### 💎 The Real Stakes
+
+The most severe consequence of a broken vow was **eternal damnation** and the potential for **excommunication**. But beyond the spiritual, a broken vow would have been a political disaster, a weapon for Henry's enemies, and a blow to his personal honour. The true weight of Henry's impulsive oath was not just about his son's future, but about the very stability of his reign and the fate of his soul.
+
+---
+TODO add to endnotes what happened to the conspiritors, some arrested, some not.
+TODO add simple era recipes suited to modern tastes - makes a good activity.
+
+
 TODO (last) -- revise student questions
 TODO (last) -- revise language balance 1100s vs 2020s
-
 
 
 
@@ -3995,7 +4119,7 @@ Below is the **full set of chapter‑by‑chapter student questions**, crafted f
 
 # **STUDENT QUESTIONS BY CHAPTER**  
 *(For ages 8–12, with optional challenge questions)*
-
+TODO - redo for new chapters
 ---
 
 ## **Chapter 1 — The Red‑Wolf’s Daughter**
@@ -4342,7 +4466,7 @@ Though neither mother appears in the story, both shape it:
 - Matilda of Boulogne - real future wife of Stephen of Blois, later competitor to the English crown; not in our story.
 
 ---------------------------------------------
-# The Goose Bride - In English — from an earlier edition)
+# The Goose Bride (In English — from an earlier edition)
 ---------------------------------------------
 Once upon a time, in the green and ancient heart of the Midlands—in a wild land that men once called Mercia—there lived a maiden named Beatrice. Her eyes shone as bright as the summer sky, and her hair was as golden and tangled as a meadow swept by the wind. She lived in a small cottage with her father, Harold Red-Wolf, a brave old soldier of the wars. His days of glory had faded like autumn leaves; his health was poor, and the biting frost of winter made his old bones ache, or so he told the travelers who passed his door.
 
@@ -5582,7 +5706,7 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **sally port** (sortie gate)  
 - **sapper** (one who digs tunnels under walls)  
 - **shell keep**  
-- **siege tower** (mobile tower)  
+- **siege tower** (mobile war tower)  
 - **surcoat** (outer garment)  
 - **tabard** (short coat)  
 - **tower house**  
@@ -5669,6 +5793,11 @@ TODO...
 - **apparition**
 - **sconces**
 - **brazier**
+- **regent**
+- **oven peel**
+- **treacle**
+- **tilled**
+- 
 
 <span id="endGLOSSARY"></span>
 
