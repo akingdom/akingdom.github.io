@@ -866,13 +866,15 @@ The King spoke suddenly, his voice low, resonant vibration that commanded the su
 
 Henry's eyes scanned the far wall, unseeing. "They called me Lackland, for I had not a foot of earth to call mine. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
 
-The hall was still. Men who had grumbled over the cost of the Welsh campaign and the “aid” for the Empress’s wedding held their tongues. The King was leaving for Normandy in a fortnight, and when a king crossed the water, whispers multiplied.
+The hall was still for a moment. Men held their tongues who had earlier grumbled over costs of the Welsh campaign and the Empress’s wedding. 
 
-The rhetoric was cut short by a dry, rhythmic rustle of parchment being squared up.
+The silence was broken by a dry, rhythmic rustle of parchment being squared up.
 
-Roger of Salisbury stepped into the light. He was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and the keeper of the realm's cold reality.
+Roger, the Bishop of Salisbury, stepped into the light. Originally a priest, he was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and the keeper of the realm's cold reality.
 
-Henry remained turned toward the fire, his shoulders rigid; thus, it fell to the Queen to anchor the moment.
+Muted murmurs arose among the knights, barons and especially the churchmen. These latter had come to offer thanks for the King's success in Wales and to consecrate his hunt, but the hunt had failed, leaving them somewhat embarrassed, or so it seemed. The Archbishop of Canterbury sat gravely by the King's seat. The sharp tongued Bishop of Lincoln watched from up the back with cold interest. Various others, mostly local, looked at the crowd around them.
+
+But Henry ignored them all, facing the flickering fire; thus, it fell to the Queen to anchor the moment.
 
 "Welcome, Lord Roger," she said, her voice cool and steady. "We were just speaking of the weight of legacy. I trust you bring the weight of the present to balance it?"
 
@@ -938,7 +940,9 @@ He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, ca
 
 “The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
 
-The Queen stared at him, her face pale. "You cannot possibly mean to cast his life so blindly."
+The Archbishop’s eyes widened. Bishop Bloet exchanged a glance with Roger of Salisbury. The Cistercian monk lowered his head and his lips began to move silently.
+
+As for the Queen, she stared at the King, a picture of astonishment. "You cannot possibly mean to cast his life so blindly."
 
 Henry's posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall provide. Elsewise, let the hall stay empty, that I may drink in peace."
 
@@ -3959,6 +3963,12 @@ If you’d like, I can now draft any of these missing scenes (e.g., the full hea
 Character rundown.
 
 **Everard de la Roche, Seigneur de la Roche** – A minor Norman baron of diminished estate, dispossessed of his ancestral lands in the Vexin after the Battle of Tinchebray (1106). Grey‑haired, soft‑spoken, and easily overlooked, he moves through court as a man of no consequence—precisely as he intends. Once a knight of respectable standing, he now nurses a quiet grievance against King Henry, whom he blames for his family's ruin. In truth, he is an agent of a larger conspiracy, a whisperer in the shadows who carries messages between the English court and the exiled supporters of William Clito. His name—*Everard*, “brave as a wild boar”—is a bitter irony; his courage now expresses itself not in the tilt-yard but in the careful cultivation of disaffection, the planting of rumours, and the patient weaving of plots. He is present at Rockingham, at Winchester, at every critical juncture, watching, waiting, and nudging events toward his masters’ ends. He is not the wolf; he is the shepherd’s dog that has learned to bite.
+
+Archbishop of Canterbury, Ralph d’Escures.
+
+The Bishop of Lincoln, Robert Bloet, a royal judge. 
+
+A Cistercian monk from the abbey at Citeaux.
 
 
 ---
