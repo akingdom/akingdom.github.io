@@ -2063,9 +2063,9 @@ Goosie waddled back to the herb bed and settled comfortably there, quite satisfi
 
 ### The King is Coming
 
-The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The reeve set men to repairing the lane. 
+The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The Reeve set men to repairing the lane. 
 
-Harold, who had been quiet since the betrothal, seemed to come alive. He walked the boundaries of the manor with Godfrey, pointing out where the old Roman road ran, where the best timber stood, where the river flooded in spring. His breath came short, but his eyes were clear.
+Harold too, seemed to come alive. He walked the boundaries of the manor with Godfrey, pointing out where the old Roman road ran, where the best timber stood, where the river flooded in spring. His breath came short, but his eyes were clear.
 
 “You’ll need to know these things,” he told Godfrey, “if you mean to stand beside her.”
 
@@ -2089,7 +2089,7 @@ Beatrice’s hands were stained a dull, bruised green from the sage and hyssop s
 
 The relentless scrape of sand on stone as the scullions scrubbed the floors, the shout of the cook, the clatter of iron pots—it was all too much. She needed air. She needed a walk.
 
-She slipped out the side door, past the woodpile, and took the path toward the village. The blacksmith had asked her for a salve for a burn; Beatrice had promised to bring it. A small errand, a reason for some silence without feeling guilty or lazy.
+She slipped out the side door, past the woodpile, and took the path toward the village. The blacksmith had asked her for a salve for his burnt arm; Beatrice had promised to bring it. A small errand, a reason for some silence without feeling guilty or lazy.
 
 The laneway was unusually quiet since most villagers were already helping gladly up at the hall. The autumn sun was pale, the shadows long. She delivered the salve, exchanged a few pleasant words, and turned back towards the hall.
 
@@ -2105,7 +2105,7 @@ The old man stopped while he wiped his hands on a rough linen apron, his eyes cr
 
 He noticed Goosie in her usual place under the seat. “That goose has more sense than some humans I could mention. You look as though you’ve been carrying the world on your shoulders, child,” he said.
 
-Beatrice didn’t open her eyes at first. “Only bread on the oven peel, Father.”
+Beatrice didn’t open her eyes at first. “Only bread on the oven peel, Father,” she murmured.
 
 “Well met,” the priest chuckled and joined her in the cool. “Oh, my old bones do need a sit down. Now then, tell me all about this man of yours—the king’s son.”
 
