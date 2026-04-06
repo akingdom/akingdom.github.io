@@ -3627,17 +3627,15 @@ Avice’s face went pale. She did not try again.
 
 **10 February 1115**
 
-After some time, Sir Guy was brought before the Queen in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Roger of Salisbury stood at the Queen’s side, a parchment in his hand.
+After some time, Sir Guy was brought before the Queen in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Roger, Bishop of Salisbury and Robert de Beaumont, Earl of Leicester, stood at the Queen’s side.
 
-Matilda’s voice was cold. “Sir Guy de Montfort, you have been found guilty of attempted kidnapping, of forging a document to defraud the King’s justice, and of plotting against the King’s vow. Do you have anything to say for yourself?”
+Matilda’s voice was cold. “Guy de Montfort of Évreux, you have been found guilty of attempted kidnapping, of forging documents to defraud the King’s justice, and of plotting against the King’s vow. These are treasonous acts. Do you have anything to say for yourself?”
 
-Sir Guy stood in chains, his face pale. “I acted alone. I wanted Stanwey. There was no larger plot.”
+Guy stood in chains, his face pale. “I acted alone. I wanted Stanwey. There was no larger plot.”
 
-The Queen’s eyes narrowed. “You expect me to believe that?”
+The Queen’s eyes narrowed, but she turned aside. “Lord Beaumont?”
 
-“It is the truth.”
-
-Roger stepped forward. “The forged document was written by a clerk in the employ of the Flemish merchant. The merchant has been arrested for defrauding the King’s customs. He will be deported. The clerk has vanished. Your accomplices have abandoned you.”
+Lord Robert de Beaumont stepped forward. “My lady, the document were fabricated by a clerk in the employ of a Flemish merchant. The merchant was been arrested this morning. Your accomplices have abandoned you, Montfort.”
 
 Sir Guy said nothing.
 
@@ -5937,26 +5935,60 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **wouldst** (would)  
 - **ye** (you – plural)  
 
-TODO...
+---
 
-- **Runes**
-- **Latinate clusters**
-- **merchant**
-- **pied**
-- **dais** (a raised platform or table, often for honoured guests)
-- **grace** (mercy, elegance, noteworthiness)
-- **dregs**
-- **wring**
-- **poppet** (doll, later meaning a puppet)
-- **apparition**
-- **sconces**
-- **brazier**
-- **regent**
-- **oven peel**
-- **treacle**
-- **tilled**
-- **hamper**
-- 
+### The Scholar’s Words
+- **Runes** (Ancient, angular letters used by Norsemen and Saxons, often carved into stone or wood)
+- **Latinate clusters** (Groups of words or letters that come from the Latin language, often used by scholars like Godfrey; pronounced ‘Lat-in-ate’)
+- **regent** (A person who rules a kingdom while the King is away, as Queen Matilda does for King Henry; pronounced ‘Ree-jent’)
+- **apparition** (A ghostly or sudden appearance of something, like a figure in the mist; pronounced ‘Ap-pa-ri-shun’)
+
+---
+
+### The Great Hall & Court
+- **dais** (A raised wooden platform at the end of a hall, where the King and Queen sit above the crowd; pronounced ‘Day-iss’)
+- **grace** (A word for mercy, elegance, or a high favor granted by a ruler)
+- **sconces** (Metal brackets held against a wall to hold flickering torches or candles; pronounced ‘Skon-ses’)
+- **brazier** (A large metal basket or pan used to hold burning coals to heat a cold stone room; pronounced ‘Bray-zeer’)
+
+---
+
+### The Village & Trade
+- **merchant** (A person who buys and sells goods like wool or wine, often traveling long distances to trade)
+- **pied** (A word for something having two or more colors in patches, like a bird’s feathers or a traveler’s patterned cloak)
+- **hamper** (A sturdy wicker basket with a lid, used for carrying valuable goods or a very important goose)
+- **poppet** (A small handmade doll or figure, often made of cloth or straw)
+
+---
+
+### The Work of the Hands
+- **oven peel** (A long-handled wooden shovel used by bakers to slide bread safely into a hot stone oven)
+- **treacle** (A thick, sticky dark syrup used in cooking, known today as molasses; pronounced ‘Tree-kul’)
+- **tilled** (Land that has been turned over and prepared for planting seeds)
+- **wring** (To twist or squeeze something tightly, like wet cloth or a person’s nervous hands)
+- **dregs** (The solid bits that settle at the bottom of a cup of cider or a pot of stew; the very last, least-wanted part of something)
+
+---
+
+### The European Map
+- **Brittany** (A rugged peninsula in France, home to skilled mercenaries)
+- **Normandy** (The King’s land across the sea, famous for castles and apple orchards)
+- **Évreux** (A place in Normandy, prononced 'Ivroo')
+- **Anjou** (A rival territory in France, pronounced ‘An-joo’)
+- **Flanders** (A wealthy land of weavers and merchants, pronounced ‘Flan-derz’)
+- **Maine** (A heavily wooded borderland between Normandy and Anjou, pronounced ‘Mane’)
+
+### The English Map
+- **Rockingham** (A massive Royal Forest in the middle of England, the King’s private hunting ground)
+- **Westminster** (A village near London, home to the King’s Great Hall and the Abbey)
+- **Devon** (A wild, hilly county in the far southwest of England, known for red earth and tin mines)
+- **Stanwey** (The quiet manor and farm estate that Beatrice calls home, pronounced ‘Stan-way’ (Fictional))
+
+### The Waterways
+- **Thames** (The great river flowing through Westminster to the sea, pronounced ‘Tems’)
+- **Severn** (A wide, dangerous river in the west with a rushing tidal wave, pronounced ‘Sev-ern’)
+
+---
 
 <span id="endGLOSSARY"></span>
 
