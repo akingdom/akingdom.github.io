@@ -3645,6 +3645,10 @@ She turned to the guards. “Take him away.”
 
 Sir Guy bowed his head. He did not look at Beatrice. He did not look at Godfrey. He walked out of the hall, and no one ever spoke of him again.
 
+About that time, certain other people found that King Henry indeed had a long hand, and an even longer memory. For that hand reached out across the narrow sea, to find a man in a house, a merchant in a warehouse and a lord in a castle. 
+
+For their meddling, some were cast out from the sight of green England, some found the world reduced to the four walls of the King’s iron-barred rooms, and some paid a higher price still.
+
 ---
 
 **14 February 1115 — Feast of St. Valentine**
@@ -3809,21 +3813,21 @@ And so it did.
 
 ## Epilogue — The Years After
 
-The king visited Stanwey that summer, as promised. He sat by Harold's fire, heard the tale of the Severn told anew, and laughed until his sides ached.
+The King returned to England in July of 1115, and visited Stanwey in the thaw and green of spring, as promised. He sat by Harold's fire, heard the tale of the Severn told anew, and laughed until his sides ached.
 
-Harold died two years later, peacefully, with Beatrice and Godfrey at his side. The staghound went with him, somehow, within the week—as if it had only been waiting.
+Harold Red-Wolf, the son of Magnús, died two years later, peacefully, with Beatrice and Godfrey at his side. The staghound followed him, somehow, within the week—as if it always had.
 
-The Duchess of Brittany visited often, and she and Beatrice became true sisters, writing letters that crossed the sea in both directions.
+Stanwey was often warmly visited by Duchess Mathilda Fitzroy of Brittany. She and Beatrice became as true sisters, writing many letters, up until a boating accident.
 
-Queen Matilda lived until 1118, long enough to see her grandson—Beatrice and Godfrey's first child—and to hold him once. She told Beatrice, in her final months: "You were the best of my accidents."
+Queen Matilda of England lived until 1118, long enough to see her grandson—Beatrice and Godfrey's first child—and to hold him once. She told Beatrice, in her final months: "You were the best of my mistakes."
 
 The half-sisters married well and moved away. Avice wrote once, years later, a letter that might have been an apology. Beatrice answered it warmly. They never met again.
 
-Sir Guy de Montfort died on crusade, forgotten by all but the chroniclers who noted his name in passing.
+Sir Guy de Montfort died on crusade, forgotten by all but an obscure chronicler who noted his name in passing.
 
-Godfrey never became a king. He never wanted to. He held Stanwey, served his father faithfully, and raised his children to watch and wait and see.
+Godfrey never became a king. He never wanted to. He held Stanwey, served his father faithfully, and raised his children and grandchildren to watch the skies and wait and see the seasons.
 
-And Goosie lived to be very old indeed, long past the time when geese should die. On warm days, she could still be found in the herb garden, waddling slowly behind a woman who had once been a girl with a goose, a king with a vow, and a road that led home.
+And Goosie lived to be very old indeed, long past the time when geese should die. On warm days, she could still be found in the herb garden, waddling slowly behind a woman who had once been a girl with a goose, a surprise to a king with a vow, on a road that led to the home she loved.
 
 ---
 
