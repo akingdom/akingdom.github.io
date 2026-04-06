@@ -1605,9 +1605,9 @@ She looked down at her fingers, now smudged with grey, then up at him.
 
 ### Many questions
 
-Beatrice tucked her hand down, cheeks burning. She had rubbed the soot on that morning, to blend in like a charcoal‑burner, not a thegn's daughter, while travelling to the hall.
+In a hasty turn, Beatrice faced away. A quick scrub with linen from her belt-purse cleared the mark, leaving her nose scoured-red and stinging. *Well, that must do.* 
 
-In a hasty turn, she faced away. A quick scrub with linen from her belt-purse cleared the mark, leaving her nose scoured-red and stinging. *Well, that must do.* 
+She tucked her hand down, cheeks burning. She had rubbed the soot on eariler that morning, to look more like a charcoal‑burner, not a thegn's daughter, while travelling to the hall.
 
 “Shall we walk?” Godfrey simply indicated the laneway with his hand.
 
