@@ -1597,7 +1597,7 @@ She straightened, flustered. Her hand went to her face uncertainly.
 
 *You’re the king’s son?*
 
-She looked at her fingers, now smudged with grey, then at him.
+She looked down at her fingers, now smudged with grey, then up at him.
 
 *I have charcoal on my nose.*
 
