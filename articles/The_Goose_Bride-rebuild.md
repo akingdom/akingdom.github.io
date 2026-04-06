@@ -1340,7 +1340,7 @@ Sir Guy’s face darkened. “I want what is mine. The land was my family’s by
 
 “Perhaps not. But the King’s vow was made *coram rege*. Some might argue that the girl had already left the hall, and the vow was not legitimately fulfilled.” He met Sir Guy’s eyes. “There are many ways to make a maid reconsider.”
 
-The grey man walked toward the stairs, then paused. “If you should ever need a friend—one who values discretion—you may leave word at the sign of the Blue Boar in Winchester. Ask for the pied merchant from Flanders.”
+The grey man walked toward the stairs, then paused. “If you should ever need a friend—one who values discretion—you may leave word at the sign of the Blue Boar in Westminster. Ask for the pied merchant from Flanders.”
 
 He was gone before Sir Guy could answer.
 
@@ -2418,7 +2418,7 @@ He reached for his wine, then set it down again. “One more thing. Stanwey will
 
 Harold’s throat tightened. He nodded, not trusting his voice.
 
-Henry rose and walked to the window. “Now. I have a ship to catch in a fortnight. The queen has asked that Beatrice come to Winchester, to stay with her until Christmas. A little teaching in the ways of the court, that sort of thing. It will do her good—and it will give you time to settle the new household here.”
+Henry rose and walked to the window. “Now. I have a ship to catch in a fortnight. The queen has asked that Beatrice come to Westminster, to stay with her until Christmas. A little teaching in the ways of the court, that sort of thing. It will do her good—and it will give you time to settle the new household here.”
 
 He turned back to Harold. “The court has been too long in the forest. I have business in the city, and after that, I must cross to Normandy. There are bottoms that need spanking across the water.” He grinned. “A king’s work is never done.”
 
@@ -2494,7 +2494,7 @@ She touched the basket at her side. Goosie shifted inside, a small warm weight.
 
 Beside her, Godfrey rode in silence. He did not speak. He did not need to. He was simply there, the way he had been since the beginning.
 
-She let out a long breath and looked ahead, toward the road that would take them to Winchester, to the court, to whatever came next.
+She let out a long breath and looked ahead, toward the road that would take them to Westminster, to the court, to whatever came next.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -2777,7 +2777,7 @@ She checked inside the needle‑case, grateful to find that all the expensive st
 
 ### After the celebrations
 
-*That night, Winchester hummed with whispered conversations. The King’s departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
+*That night, Westminster hummed with whispered conversations. The King’s departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
 
 The chamber was small, lit by a single candle. Around the table sat four men: the grey‑haired agent in his plain cloak; a portly figure in a merchant’s fur‑trimmed coat, known only as the Pied Merchant; a lean, sharp‑featured man whose silence spoke of authority—Lord Everard de la Roche; and a fourth, younger, who had not yet spoken.
 
@@ -2847,7 +2847,7 @@ The words trailed off, lost in the stone.
 
 #### The Great Unmooring
 
-The King’s departure was not a single moment of waving silk, but a week‑long evacuation of the soul of the court. To Beatrice, it felt as though the very air was being sucked out of Winchester, leaving behind a vacuum of anxious women and distracted men.
+The King’s departure was not a single moment of waving silk, but a week‑long evacuation of the soul of the court. To Beatrice, it felt as though the very air was being sucked out of Westminster, leaving behind a vacuum of anxious women and distracted men.
 
 For days, the courtyards were a chaos of iron‑shod hooves and the rhythmic *thud‑clack* of heavy supply wains being loaded with silver plate, tapestries, and armour. Henry moved with a sudden, sharp gravity, surrounded by a phalanx of mail‑clad knights whose presence made the stone corridors feel narrow and dangerous.
 
@@ -2867,7 +2867,7 @@ It was a task usually left to women of all ranks, but Beatrice claimed it with a
 
 The repetitive, rhythmic motion of her hands allowed her to disappear. The other girls tittered about the knights who were riding away, but Beatrice focused on the tactile reality of the fibre. It was the only thing she could control. While the King’s fleet readied at the coast—a forest of masts she would never see—she anchored herself to the smell of sheep and the steady, grounding work of a daughter of the shires.
 
-As the final horn sounded from the outer gate, signalling the King’s last troop had cleared the walls, the silence that fell over Winchester was deafening. The King's men were gone. The Queen was now the Law. And Beatrice was just a girl with a handful of wool and a very long memory.
+As the final horn sounded from the outer gate, signalling the King’s last troop had cleared the walls, the silence that fell over Westminster was deafening. The King's men were gone. The Queen was now the Law. And Beatrice was just a girl with a handful of wool and a very long memory.
 
 ---
 
@@ -2927,7 +2927,7 @@ But tonight, she let the fire burn down and thought of home.
 
 ---
 
-### The Ghost of Winchester
+### The Ghost of Westminster
 
 It began, as such things often do, with a lie. A lie and a goose.
 
@@ -3216,13 +3216,13 @@ Beatrice tried to hide her disappointment. “How long will you be gone?”
 
 The Duchess smiled. “He will write. I will make sure of it.”
 
-They left on a cold morning, Godfrey riding beside his sister, his face turned back toward Winchester until the road curved and the castle vanished behind the trees.
+They left on a cold morning, Godfrey riding beside his sister, his face turned back toward Westminster until the road curved and the castle vanished behind the trees.
 
 ---
 
 ### Charity
 
-The Queen kept her word. Each morning, Beatrice rode out with a small escort to the villages around Winchester, carrying baskets of bread, cloth, and dried herbs. She sat with the sick, listened to their troubles, and distributed alms in the Queen’s name.
+The Queen kept her word. Each morning, Beatrice rode out with a small escort to the villages around Westminster, carrying baskets of bread, cloth, and dried herbs. She sat with the sick, listened to their troubles, and distributed alms in the Queen’s name.
 
 The half‑sisters watched from the castle windows, their jealousy sharpening.
 
@@ -3453,7 +3453,7 @@ They were pushed into a cart and driven away into the cold night. The reeve and 
 
 ### Godfrey’s Arrival
 
-Godfrey reached Stanwey the next morning. He had ridden from Winchester as soon as the Queen’s warning reached him – a plot against “a son,” she had said – but the roads were dark and the winter mud deep.
+Godfrey reached Stanwey the next morning. He had ridden from Westminster as soon as the Queen’s warning reached him – a plot against “a son,” she had said – but the roads were dark and the winter mud deep.
 
 The hall was dark. The fire was cold. The guards lay bound in the yard. The reeve and the cook were nowhere to be seen.
 
@@ -3579,7 +3579,7 @@ Beatrice helped Harold to his feet. Godfrey sheathed his sword.
 
 ### The Return
 
-Sir Guy was taken back to Winchester in chains. Beatrice and Godfrey followed, with Harold placed in a cart padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked.
+Sir Guy was taken back to Westminster in chains. Beatrice and Godfrey followed, with Harold placed in a cart padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked.
 
 Goosie, exhausted but triumphant, rode in the basket at Beatrice’s feet.
 
@@ -3891,7 +3891,7 @@ Based on the CinemaTherapy lens and the goal of a film adaptation, here’s what
 ### 5. **Historical Density**
 - **Current:** Purveyance, escheat, Welsh campaign, Montfort ties—all historically accurate but potentially overwhelming.  
 - **Film Adaptation:** Alan would advise trusting the audience but ensuring the stakes are always personal. Every historical detail should tie directly to character: Sir Guy’s pursuit of Stanwey, Harold’s royal favour, Henry’s succession anxiety.  
-- **Action:** In dialogue, clarify that the king’s departure for Normandy means the queen is in charge—this is key for the Winchester court scenes.
+- **Action:** In dialogue, clarify that the king’s departure for Normandy means the queen is in charge—this is key for the Westminster court scenes.
 
 ---
 
@@ -4109,7 +4109,7 @@ If you’d like, I can now draft any of these missing scenes (e.g., the full hea
 
 Character rundown.
 
-**Everard de la Roche, Seigneur de la Roche** – A minor Norman baron of diminished estate, dispossessed of his ancestral lands in the Vexin after the Battle of Tinchebray (1106). Grey‑haired, soft‑spoken, and easily overlooked, he moves through court as a man of no consequence—precisely as he intends. Once a knight of respectable standing, he now nurses a quiet grievance against King Henry, whom he blames for his family's ruin. In truth, he is an agent of a larger conspiracy, a whisperer in the shadows who carries messages between the English court and the exiled supporters of William Clito. His name—*Everard*, “brave as a wild boar”—is a bitter irony; his courage now expresses itself not in the tilt-yard but in the careful cultivation of disaffection, the planting of rumours, and the patient weaving of plots. He is present at Rockingham, at Winchester, at every critical juncture, watching, waiting, and nudging events toward his masters’ ends. He is not the wolf; he is the shepherd’s dog that has learned to bite.
+**Everard de la Roche, Seigneur de la Roche** – A minor Norman baron of diminished estate, dispossessed of his ancestral lands in the Vexin after the Battle of Tinchebray (1106). Grey‑haired, soft‑spoken, and easily overlooked, he moves through court as a man of no consequence—precisely as he intends. Once a knight of respectable standing, he now nurses a quiet grievance against King Henry, whom he blames for his family's ruin. In truth, he is an agent of a larger conspiracy, a whisperer in the shadows who carries messages between the English court and the exiled supporters of William Clito. His name—*Everard*, “brave as a wild boar”—is a bitter irony; his courage now expresses itself not in the tilt-yard but in the careful cultivation of disaffection, the planting of rumours, and the patient weaving of plots. He is present at Rockingham, at Westminster, at every critical juncture, watching, waiting, and nudging events toward his masters’ ends. He is not the wolf; he is the shepherd’s dog that has learned to bite.
 
 Archbishop of Canterbury, Ralph d’Escures.
 
@@ -4847,8 +4847,8 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **June–July 1114** | Henry’s Welsh campaign | Real | History |
 | **Early Aug 1114** | Campaign concludes; Welsh princes submit | Real | History |
 | **Mid-Aug 1114** | **Royal court at Rockingham Castle** | **Story Fixed Point** | Our anchor |
-| **Late Aug 1114** | Court moves to Winchester | Real | History |
-| **1–10 Sep 1114** | Winchester council; preparations for Normandy | Real | History |
+| **Late Aug 1114** | Court moves to Westminster | Real | History |
+| **1–10 Sep 1114** | Westminster council; preparations for Normandy | Real | History |
 | **21 Sep 1114** | Henry crosses to Normandy | Real | History |
 | **1118** | Queen Matilda dies | Real | After story |
 | **1120** | White Ship disaster | Real | After story |
@@ -4916,15 +4916,15 @@ After the vow, Henry fulfills his promise to visit Harold. This visit likely occ
 
 | Date | Event | Notes |
 | :--- | :--- | :--- |
-| **c. 20–25 Aug** | King Henry visits Stanwey | Harold and Henry reminisce; the “fathers’ bargain” is struck; the queen’s servant is offered; Henry announces his intention to go to Winchester and then Normandy. |
+| **c. 20–25 Aug** | King Henry visits Stanwey | Harold and Henry reminisce; the “fathers’ bargain” is struck; the queen’s servant is offered; Henry announces his intention to go to Westminster and then Normandy. |
 
 ### PART FIVE: FIRST COURT EXPOSURE (Early September 1114)
 
-The court moves to Winchester in late August; Beatrice’s first exposure happens as the court prepares for Henry’s departure.
+The court moves to Westminster in late August; Beatrice’s first exposure happens as the court prepares for Henry’s departure.
 
 | Date | Day/Week | Event | Beatrice’s State | Attack | Defense | Who’s Doing What |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 1–3 Sep** | +2 | Beatrice arrives at Winchester | Nervous | Stares, whispers | Godfrey’s presence | Court watches |
+| **c. 1–3 Sep** | +2 | Beatrice arrives at Westminster | Nervous | Stares, whispers | Godfrey’s presence | Court watches |
 | **c. 4 Sep** | +2 | Meeting the half‑sisters (Avice & Eustacia) | Confused | Cool politeness, veiled insults | Beatrice misses half | Sisters: Avice (21), Eustacia (19) |
 | **c. 5 Sep** | +2 | First formal dinner | Overwhelmed | Wrong knife; snickers | Lady Margaret corrects | Margaret assigned (Queen’s doing) |
 | **c. 6 Sep** | +2 | Sir Guy’s first rumor | Unaware | Spreads whisper | Duchess (not yet) hears later | Sir Guy schemes |
@@ -4942,7 +4942,7 @@ The court moves to Winchester in late August; Beatrice’s first exposure happen
 | **c. 14 Sep** | +4 | Goosie’s full acceptance | Goose chooses Godfrey |
 | **c. 16 Sep** | +4 | Harold’s health wobbles | Frailty visible |
 | **21 Sep** | — | **Henry departs for Normandy** | Off‑stage; court now under Queen Matilda’s regency |
-| **c. 22–30 Sep** | +5 | Court remains at Winchester | Beatrice continues her exposure; rumours begin |
+| **c. 22–30 Sep** | +5 | Court remains at Westminster | Beatrice continues her exposure; rumours begin |
 
 ---
 
@@ -5075,7 +5075,7 @@ The court moves to Winchester in late August; Beatrice’s first exposure happen
 | :--- | :--- | :--- |
 | **King’s Hall date** | Tuesday, 20 October 1114 | **Tuesday, 16 August 1114** |
 | **King’s visit to Stanwey** | Late October | **Late August 1114** |
-| **Court at Winchester** | November–December | **September–December 1114** |
+| **Court at Westminster** | November–December | **September–December 1114** |
 | **Henry’s departure** | Not mentioned | **21 September 1114** |
 | **Beatrice’s age** | 16 | 16 (unchanged) |
 | **Courtship duration** | 6 months | **8 months** (Aug 1114 – Apr 1115) |
@@ -5256,7 +5256,7 @@ Matilda of Scotland was a "bridge-builder" who successfully navigated the volati
 |-----------|--------------------------------------------------|------------------|------------|----------------------|------------------|
 | **Beatrice** | **Fear of losing control** – after her mother’s death, she built an identity around running Stanwey and protecting her father. The betrothal threatens to strip her of agency. | She resists the vow, clings to denial, panics when she imagines leaving. Her outburst “I want to be the one who chooses” is a cry for autonomy. | She moves from reactive resistance to active, informed choice—first observing Godfrey, then testing him, finally declaring her will publicly (cup ritual, legal hearing). | A caregiver who has taken on adult responsibility early; feels that her life is being taken from her. Often seen in young adults who parent siblings or ill parents. | Her public choice in the cup ritual and later at the hearing proves she has reclaimed agency. The “not for Stanwey” refrain is finally resolved. |
 | **Godfrey** | **Learned passivity (“shadow”)** – from a lifetime of being ignored, counted, and dismissed. He internalised that watching is safer than acting. | He admits “I have spent my life watching.” He hesitates to act, even when he wants to. He lets Beatrice leave the hall without telling her the truth. | He moves from watcher to actor: first by following her, then by helping at Stanwey, later by confronting Sir Guy, and finally by his role in the cup ritual. | Someone who grew up in the shadow of a dominant parent or sibling; learned that speaking up led to rejection or punishment. Often becomes a quiet, hyper‑observant adult. | His confrontation with Sir Guy is the active turning point. Henry’s recognition (“he can wait, but when the moment comes, he moves”) validates his growth. |
-| **Harold** | **Fear of leaving Beatrice alone** – his declining health and the memory of his wife’s death make him desperate to secure Stanwey before he dies. This led him to push suitors. | He tried to arrange matches for Beatrice; when she refused, he worried. He initially considered Sir Guy. He nearly sent her away to Winchester without resolving his fear. | He learns to trust Beatrice’s judgment and Godfrey’s character. He lets her choose, and accepts Henry’s provision of a reeve and cook, letting go of the need to control the outcome. | A parent facing mortality, struggling to let go of control over a child’s future. Often seen in aging parents who want to “fix” things before they go. | His final ease (“So it seems”) when Beatrice chooses Godfrey is the release. His quiet pride at the wedding is the reward. |
+| **Harold** | **Fear of leaving Beatrice alone** – his declining health and the memory of his wife’s death make him desperate to secure Stanwey before he dies. This led him to push suitors. | He tried to arrange matches for Beatrice; when she refused, he worried. He initially considered Sir Guy. He nearly sent her away to Westminster without resolving his fear. | He learns to trust Beatrice’s judgment and Godfrey’s character. He lets her choose, and accepts Henry’s provision of a reeve and cook, letting go of the need to control the outcome. | A parent facing mortality, struggling to let go of control over a child’s future. Often seen in aging parents who want to “fix” things before they go. | His final ease (“So it seems”) when Beatrice chooses Godfrey is the release. His quiet pride at the wedding is the reward. |
 | **Henry** | **Fear of repeating his father’s mistakes** – he conquered a kingdom but struggles with succession, baronial discontent, and the memory of his own landless youth. He uses Godfrey partly as a test. | His rash vow is a gamble. He wavers between treating Godfrey as a pawn and recognising his worth. He is torn between the queen’s fears for William and his own desire to be a good father. | He comes to see Godfrey not as a threat but as a shield. He publicly acknowledges Godfrey’s worth (Welsh story) and accepts the cup ritual as binding. He leaves England trusting the queen and his son. | A leader with high ambition, haunted by family dysfunction, trying to balance legacy and genuine care for his children. | His pride in Godfrey at the cup ritual is a quiet moment of paternal redemption. The historical tragedy (White Ship) will later shadow this, but within the story, he has succeeded. |
 | **Queen Matilda** | **Fear for her son William’s succession** – she sees Godfrey as a potential rival. Her political pragmatism initially overrides family feeling. | She pushes for Godfrey to be sent to Brittany. She calls him “shadow” (in earlier drafts). She is cold to Beatrice initially. | She shifts when she sees Godfrey is not ambitious, and Beatrice is steady. She becomes Beatrice’s protector, uses her political skills to support the match, and trusts Henry’s judgment. | A mother who fears her child’s position is insecure; she may see stepchildren as threats even when they are not. Common in blended royal families. | Her public support of Beatrice (Ch 20) and her private conversation with Beatrice about being Edith of Scotland show her growth. |
 | **Sir Guy** | **Entitlement masked as grievance** – his family lost lands (Évreux), and he believes he deserves to take what he can. He resents Beatrice’s refusal and sees Stanwey as his due. | He pursues Beatrice, then tries to intimidate her. He conspires with Beaumont agents. He brings a legal challenge. He threatens Harold. | He does not grow; he is defeated. His defeat is public (hearing) and his conspiracy is exposed. He leaves court, later to die in rebellion. | A person who feels the world owes them something, often due to family grievance or perceived injustice. They become bitter and predatory. | His banishment and the historical nod to his death in the 1118 rebellion tie off his arc. He serves as contrast to Godfrey’s growth. |
