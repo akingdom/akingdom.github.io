@@ -3583,7 +3583,7 @@ The gathering wended their way back to Stanwey hall. A cart was brought and Beat
 
 A detachment of guards took Sir Guy and the others to Westminster in chains, to await the Queen's judgement. 
 
-As for Beatrice and Godfrey, they stayed with her father at Stanwey for a fortnight, well cared for until Harold was well enough to travel to Westminster Palace by cart.
+As for Beatrice and Godfrey, they stayed with her father at Stanwey, until Harold had recovered sufficiently to the two to travek back to Westminster Palace by cart. Beatrice knew that her father would be very well cared for after they said their goodbytes.
 
 ---
 
