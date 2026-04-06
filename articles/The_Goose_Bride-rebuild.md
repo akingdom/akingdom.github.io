@@ -3091,11 +3091,11 @@ Godfrey bowed and left. In the corridor, he stood still for a long moment. Perha
 
 ### The Aftermath (Godfrey’s Return)
 
-Later that night, Godfrey returned to Beatrice’s chamber. She was still awake, sitting by the dying brazier, Goosie asleep in her lap. Her eyes were red.
+Later that night, Godfrey met with Beatrice in a small alcove near her chamber. She was still awake, sitting by the dying brazier, Goosie asleep in her lap. Her eyes were red.
 
 “You should be in bed,” he said.
 
-“I cannot sleep.” Her voice was thick. “I have disgraced you. I have disgraced the Queen. The whole court is calling me ‘goose girl.’”
+“I would not sleep.” Her voice was thick. “I have disgraced you. I have disgraced the Queen. The whole court is calling me ‘goose girl.’”
 
 Godfrey sat on the stool opposite her. “I know.”
 
@@ -3109,13 +3109,13 @@ Beatrice shook her head. “It is not your fault. I brought Goosie. I hid her. I
 
 Beatrice’s eyes widened. “She did?”
 
-“She did.” He reached out and took her hand. “I will not let them hurt you. Not with words. Not with whispers. I will stand beside you, and they will see that the goose girl is not alone.”
+“She did.” He reached out and squeezed her hand. “I will not let them hurt you. Not with words. Not with whispers. I will stand beside you, and they will see that the goose girl is not alone.”
 
 Beatrice’s throat tightened. “I am so ashamed.”
 
 “Do not be.” His voice was gentle. “You made a mistake. You will mend the tapestry. You will learn. And one day, they will call you by your name, not by their mockery.”
 
-She looked down at their hands. His fingers were warm, steady.
+She looked down at her hand. His fingers had been warm, steady.
 
 “Thank you,” she whispered.
 
@@ -3123,7 +3123,7 @@ He rose. “Sleep. Tomorrow, we begin again.”
 
 He left. Beatrice sat in the dark, Goosie warm against her side, and for the first time since the ink had spilled, she felt something other than shame.
 
-She felt hope.
+She felt hope, and perhaps a little more also.
 
 ---
 
