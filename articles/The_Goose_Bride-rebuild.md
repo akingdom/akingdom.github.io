@@ -3579,17 +3579,19 @@ Beatrice helped Harold to his feet. Godfrey sheathed his sword.
 
 ### The Return
 
-Sir Guy was taken back to Westminster in chains. Beatrice and Godfrey followed, with Harold placed in a cart padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked.
+The gathering wended their way back to Stanwey hall. A cart was brought and Beatrice and Godfrey travelled with Harold, who was padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked. Goosie, exhausted but triumphant, met them at the gate. She hissed at Sir Guy, with her wings apart.
 
-Goosie, exhausted but triumphant, rode in the basket at Beatrice’s feet.
+A detachment of guards took Sir Guy and the others to Westminster in chains, to await the Queen's judgement. 
+
+As for Beatrice and Godfrey, they stayed with her father at Stanwey for a fortnight, well cared for until Harold was well enough to travel to Westminster Palace by cart.
 
 ---
 
 ## Chapter 19 – The Queen’s Protection (Late January 1115)
 
-The next morning, Beatrice found a small bundle outside her chamber door.
+Upon their return, Beatrice found a small bundle outside her chamber door.
 
-Inside: a warm cloak, fine wool, clearly from the Queen’s own stores. A note in a precise hand:
+Inside: a new warm cloak, of the finest wool, from the Queen’s own stores. A note in a precise hand:
 
 *For cold days. Keep your anchor in the Deep.*
 
@@ -3625,7 +3627,7 @@ Avice’s face went pale. She did not try again.
 
 **10 February 1115**
 
-Sir Guy was brought before the Queen in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Roger of Salisbury stood at the Queen’s side, a parchment in his hand.
+After some time, Sir Guy was brought before the Queen in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Roger of Salisbury stood at the Queen’s side, a parchment in his hand.
 
 Matilda’s voice was cold. “Sir Guy de Montfort, you have been found guilty of attempted kidnapping, of forging a document to defraud the King’s justice, and of plotting against the King’s vow. Do you have anything to say for yourself?”
 
