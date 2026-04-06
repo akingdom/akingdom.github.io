@@ -3740,7 +3740,7 @@ He sat beside her.
 
 "When was that?"
 
-Looking at him: "When you asked my father. When you waited outside. When you walked me home and didn't say a word." She paused. "You let me choose. Before I knew there was a choice."
+Looking at him: "When you stood with an upset pure maid in the middle of the laneway not caring who saw you but giving me room. When you asked my father. When you waited outside. When you walked me home and didn't say a word." She paused. "You let me choose. Before I knew there was a choice."
 
 Quietly: "I wanted you to choose me. Not the vow."
 
@@ -3756,11 +3756,7 @@ Considering: "A little."
 
 Surprised: "You?"
 
-"What if I'm not enough? What if the shadow never really goes away?"
-
-"Explain it to me. What *is* all this shadow talk about?"
-
-He blinked. "It's about me not being enough?"
+"What if I'm not enough?"
 
 "Why!?"
 
