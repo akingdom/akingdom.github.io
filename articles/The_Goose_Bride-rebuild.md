@@ -1529,7 +1529,7 @@ The woman leaned back. “We let you sleep. You must have been worn out, you poo
 
 “Thank you. For the ride and everything.”
 
-Beatrice climbed down on shaky legs. She stood at the lane’s edge, basket in hand, and watched the cart creak away. The woman and girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone with her goose.
+Beatrice climbed down on shaky legs. She stood at the lane’s edge, basket in hand, and watched the cart creak away. The woman and girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone with her hampered goose.
 
 She set her face towards home.
 
@@ -5957,6 +5957,7 @@ TODO...
 - **oven peel**
 - **treacle**
 - **tilled**
+- **hamper**
 - 
 
 <span id="endGLOSSARY"></span>
