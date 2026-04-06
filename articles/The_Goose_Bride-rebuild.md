@@ -2081,6 +2081,28 @@ She did not ask what he meant. She thought she knew.
 
 ---
 
+### A Quiet Lesson
+
+One afternoon, Godfrey found Harold sitting on a log in the yard, by the whetsone. He was running his thumb along the edge of his old sword. The blade was nicked but still keen, glinting in the sun.
+
+“You know how to use a sword, lad?” Harold asked, not looking up.
+
+“I was taught,” Godfrey said. “At Salisbury. The knights there said I had… adequate form.”
+
+Harold snorted. “Adequate. That’s the word for a horse that won’t throw you, not a blade that might save your life.” He tossed Godfrey a practice sword. “Show me.”
+
+Godfrey caught it. He moved through the forms – guard, thrust, parry – his movements clean but unspectacular. He did not have the raw power of his half‑brother Robert of Gloucester, nor the speed of Richard of Lincoln. But his footwork was precise. He did not waste motion.
+
+Harold watched, silent. When Godfrey finished, he nodded slowly. “You’ll never be a knight. But you won’t cut your own leg off, either.”
+
+“A ringing endorsement,” Godfrey said dryly.
+
+Harold almost smiled. “It’s enough. The man who thinks he’s a warrior is a fool. The man who knows he’s not – and practices anyway – might survive.” He handed Godfrey back the real sword. “Keep it close. Not to fight. To remind yourself that you can.”
+
+Godfrey took it. The weight was unfamiliar but not unwelcome.
+
+---
+
 ## Respite and Some Advice
 
 On the final day, the Hall was a furnace of frantic industry. The air was thick with the scent of rendering fat and the sharp, rhythmic *thwack* of cleavers on oak. Even the children were put to work, gathering spring flowers to decorate the hall.
@@ -2753,37 +2775,43 @@ She checked inside the needle‑case, grateful to find that all the expensive st
 
 ---
 
-### Preparations
+### After the celebrations
 
 *That night, Winchester hummed with whispered conversations. The King’s departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
 
 The chamber was small, lit by a single candle. Around the table sat four men: the grey‑haired agent in his plain cloak; a portly figure in a merchant’s fur‑trimmed coat, known only as the Pied Merchant; a lean, sharp‑featured man whose silence spoke of authority—Lord Everard de la Roche; and a fourth, younger, who had not yet spoken.
 
-Roche swirled his wine, his eyes distant. “I remember when the old King held court at Rouen. My father knelt before him. We had land then. A hall with a view of the Seine.” He sighed. “Henry took it. Gave it to a clerk with ink on his fingers.”
+De la Roche swirled his wine, his eyes distant. “I remember when the old King held court at Rouen. My father knelt before him. We had land then. A hall with a view of the Seine.” He sighed. “Henry took it. Gave it to a clerk with ink on his fingers.”
 
-The Pied Merchant shrugged. “Lands are lost. Lands are won.”
+The Pied Merchant shrugged. “Lands are lost. Lands are won. We are here for what comes next.”
 
-Roche nodded slowly. “The King’s vow has given us a gift. The girl is nothing. A manor of five hides, a few geese. Let Sir Guy chase his shadow. The marriage serves our purpose. Godfrey will stay small, weak, and forgotten.”
+“The King’s vow,” Roche said, setting down his cup. “He swore on the Gospels before bishops and barons. A sacred oath, binding under pain of excommunication. If he breaks it, the Church will turn against him. If the marriage becomes a scandal, his enemies will laugh. Either way, we win.”
 
-The grey man leaned forward. “And the Breton March?”
+The grey man nodded. “The girl is a nobody. A Saxon thegn’s daughter. If she proves *unfit* – unchaste, unwilling, or simply a fool – the barons will whisper that the King sold his son for a goose. The vow will be mocked.”
 
-“We whispered against it. Henry listened. The March will remain a border, not a fortress.” Roche set down his cup. “Our work is not to stop the marriage. It is to ensure that when the time comes, there is no strong son to rally behind Henry.”
+“And if the marriage goes forward?” asked the younger man.
 
-The fourth man spoke for the first time, his voice low. “We are here to set the stage for a future heir. After Henry is gone, we—”
+Roche smiled. “Then Godfrey remains landless, tied to a minor manor, far from any border. No Breton March, no strongholds. A scholar‑son married to a goose girl. He will never be a threat to Clito.”
+
+The Pied Merchant leaned forward. “Our task is to ensure the vow becomes a liability. Spread whispers that the girl is unsuitable. Pressure her father. Make the marriage a subject of ridicule. If Henry is forced to break his word, his reputation crumbles. If he stubbornly proceeds, the match will be a laughingstock.”
+
+“And Sir Guy?” the grey man asked.
+
+“A useful distraction,” Roche said. “His land claim keeps the court busy. If he succeeds, the girl loses Stanwey and the betrothal may falter. If he fails, we lose nothing. Either way, the vow is under scrutiny.”
 
 A knock at the door. The men fell silent.
 
 A servant’s voice: “Sir Guy de Montfort.”
 
-Roche’s eyes flicked to the grey man. “Hmm. Your petitioner.”
+Roche’s eyes flicked to the grey man. “Your petitioner.”
 
 Sir Guy entered, his face flushed with wine and urgency. He sat opposite the grey man, his self‑importance barely contained.
 
-“The Queen is surely protecting the Saxon girl,” he said rudely.
+“The Queen is surely protecting the Saxon girl,” he said.
 
-The grey man nodded indulgently. “We heard.”
+The grey man nodded indulgently, with a significant look at the others. “We are aware.”
 
-“Then we must move together. The King will return in the spring. Once he does, any challenge will be crushed.”
+“Then we must act together. The King will return in the spring. Once he does, any challenge will be crushed.”
 
 Roche exchanged a glance with the Pied Merchant. Sir Guy was a useful tool—eager, ambitious, and blind to the larger game.
 
@@ -2795,7 +2823,7 @@ The Pied Merchant shrugged. “A local matter. Pursue it if you wish.”
 
 Sir Guy’s jaw tightened. “I need support. Silver. Witnesses.”
 
-“You shall have what you need,” Roche said, his voice smooth. “But do not mistake this for our main purpose. Stanwey is a stone in your shoe, not a cornerstone of the realm.”
+“You shall have what you need,” Roche said, his voice smooth. “But do not mistake this for our main purpose. Stanwey is a stone in your shoe, not the crown we seek.”
 
 Sir Guy raised his cup, trying to regain the initiative. “To the King’s departure.”
 
@@ -2811,7 +2839,7 @@ Sir Guy frowned. “What of the rest? The plan?”
 
 The door closed behind them. Sir Guy sat alone, the candle flickering, the parchment still on the table. He felt important, not noticing that the others had not once asked for his opinion on anything beyond Stanwey.
 
-In the corridor, Roche’s voice faded: “The Clito business requires a messenger to Flanders. The French king waits. We set the stage for a future heir. One step at a time.”
+In the corridor, Roche’s voice faded: “The Clito business requires a messenger to Flanders. The French king waits. We set the stage for a scandal that will echo for years. One step at a time.”
 
 The words trailed off, lost in the stone.
 
@@ -3211,226 +3239,139 @@ But the Queen did not tire. And when the poor began to speak of “the Lady of S
 => "she should come with us down to Devon." However, the queen wishes her to stay (or other cause), to help with a favoured project or some such. (we can chronicle them publicly visiting poor/sick/etc.) --> yes, with greater jealousy accordingly. Insert here.
 => Show the charity work or imply?
 
+TODO -- ensure Godfrey shows protection of Beatrice before his departure for devon above.
 
-
-### Reinforcements
-
-Queen Matilda having had a quiet word with Godfrey about the hazing of Beatrice going on in quiet corners. He listened, nodded, and said nothing. But the next morning, when Avice opened her mouth to make a cutting remark at breakfast, Godfrey rose from his seat and walked to stand behind Beatrice’s chair. He did not speak. He simply stood there, his hand resting on the back of her chair, his gaze steady on the half‑sisters.
-
-Avice’s words died in her throat. Eustacia looked away.
-
-Beatrice, startled, glanced up at him. He gave her the smallest of smiles.
-
-From that moment, the open cruelties paused. The whispers continued, but no one dared speak loudly while in Godfrey’s presence.
-
----
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
 ## Chapter 18 — The Darkest (January 1115)
 
+## Chapter 18 – The Darkest (January 1115) – Revised with Legal Hearing Setup
+
 The new year brought new cruelties.
 
-With the Duchess and Godfrey gone, the half-sisters regrouped. Whispers followed Beatrice through every corridor. "The goose girl." "Can she even read?" "Does she know which fork to use yet?"
+With the Duchess and Godfrey gone, the half‑sisters regrouped. Whispers followed Beatrice through every corridor. “The goose girl.” “Can she even read?” “Does she know which fork to use yet?”
 
-Beatrice endured. Lady Margaret guided. Godfrey stood beside her. But the erosion was constant.
+Beatrice endured. Lady Margaret guided. But the erosion was constant.
 
-Then Harold collapsed.
+One grey afternoon, the Queen found her in a forgotten corridor. Beatrice sat on a window seat, Goosie hidden under her cloak. The winter light was fading.
 
-The messenger arrived at court on the twelfth of January, breathless: Harold Red-Wolf had been found in the yard, unable to rise. His heart—or his lungs—or simply his years—had finally betrayed him.
+“You’re meant to be at supper,” Matilda said.
 
-Beatrice left within the hour.
-
----
-
-### Godfrey arrives
-
-=> Godfrey arrived from Devon/wherever.
-
-She stayed at Stanwey for six days, sleeping by Harold's bed, feeding him broth, willing him to live. Godfrey came when he could, helping with the manor, sitting with Harold so Beatrice could rest.
-
-To Godfrey, weakly: "You're still here."
-
-"I said I'd wait."
-
-Almost a smile. "So you did."
-
----
-
-### Vultures
-
-Beatrice returned to court on the nineteenth of January, exhausted and vulnerable. The half-sisters circled.
-
-The next day, she overheard them.
-
-She was passing the servants' entrance when their voices carried:
-
-Eustacia: "She thinks she's one of them now. The goose girl."
-
-Avice: "He'll tire of her. They always do."
-
-Eustacia: "Wait until Brittany offers again. Ten thousand marks. You think he'll choose a goose over that?"
-
-Beatrice didn't stay to hear more.
-
----
-
-### Some advice from the Queen
-
-She found a window seat in a forgotten corridor, Goosie smuggled under her cloak. She sat there, hollow, as the winter light faded.
-
-She didn't hear the footsteps.
-
-Quietly: "You're meant to be at supper."
-
-Beatrice looked up, startled. The Queen stood before her—no attendants, no ladies. Just Matilda, in a simple gown.
-
-Beatrice rose, curtsying mechanically. "I wasn't hungry, Your Grace."
-
-The Queen glanced at Goosie. "The goose is meant to be in the kitchens."
-
-Protectively: "She's with me."
+Beatrice rose, curtsying mechanically. “I wasn’t hungry, Your Grace.”
 
 The Queen studied her. Then, unexpectedly, she sat on the window seat. Not beside Beatrice—a little apart. But sitting.
 
-"You heard something."
+“You heard something.”
 
 Beatrice said nothing.
 
-"I've been Queen long enough to know that look. It's the look of someone who's just discovered what people say when they think you can't hear."
+“I’ve been Queen long enough to know that look. It’s the look of someone who’s just discovered what people say when they think you can’t hear.”
 
-Beatrice's throat tightened.
+Beatrice’s throat tightened.
 
-"What did they say?"
+“What did they say?”
 
-After a long moment: "That he'll tire of me. That when Brittany offers again, he'll choose that instead. That I'm a goose girl playing at being someone else."
+After a long moment: “That he’ll tire of me. That when Brittany offers again, he’ll choose that instead. That I’m a goose girl playing at being someone else.”
 
 The Queen was quiet. The winter light faded.
 
-Then: "I was not born Matilda."
+Then: “I was not born Matilda.”
 
 Beatrice looked at her.
 
-"I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the Norman court called me 'the Saxon girl.' They whispered that I'd bring barbarian ways. That I'd never understand how to be queen."
+“I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the Norman court called me ‘the Saxon girl.’ They whispered that I’d bring barbarian ways. That I’d never understand how to be queen.”
 
-She met Beatrice's eyes.
+She met Beatrice’s eyes.
 
-"That was fourteen years ago. I am still here."
+“That was fourteen years ago. I am still here.”
 
-Beatrice didn't know what to say.
+Beatrice didn’t know what to say.
 
-"The people who whispered then? Most are gone. Forgotten. I am Queen of England."
+“The people who whispered then? Most are gone. Forgotten. I am Queen of England.”
 
 She leaned forward slightly.
 
-"You want to know what I think of this match?"
+“You want to know what I think of this match?”
 
 Beatrice waited.
 
-"At first, I hated it. Not because of you—I didn't know you. Because of what it meant for William. My son. The heir. Every piece of attention Godfrey gets, every scrap of affection, every whispered 'he's a king's son too'—I saw it as a threat."
+“At first, I hated it. Not because of you—I didn’t know you. Because of what it meant for William. My son. The heir. Every scrap of attention Godfrey gets, every whispered ‘he’s a king’s son too’—I saw it as a threat.”
 
-Quietly: "I understand."
+Quietly: “I understand.”
 
-"Do you?"
+“Do you?”
 
-"I have no brothers. But if I did… if my father had someone else to leave the manor to… I'd want to protect what was mine too."
+“I have no brothers. But if I did… if my father had someone else to leave the manor to… I’d want to protect what was mine too.”
 
 The Queen looked at her. Really looked.
 
-Slowly: "Yes. You do understand."
+Slowly: “Yes. You do understand.”
 
 A silence.
 
-"I've been watching you. These past weeks. The way you speak to servants. The way you tend the sick in the village. The way you handle my ladies—their whispers, their snubs, their little cruelties. You don't fight. You don't flinch. You just… go on being yourself."
+“I’ve been watching you. The way you speak to servants. The way you tend the sick. The way you handle my ladies—their whispers, their cruelties. You don’t fight. You don’t flinch. You just… go on being yourself.”
 
 She paused.
 
-"That's rarer than you know."
+“That’s rarer than you know.”
 
-Beatrice's eyes stung.
+Beatrice’s eyes stung.
 
-"My son William is twelve. When he's older, he'll need people around him who are steady. Who don't bend with every wind. Who know who they are."
+“My son William is twelve. When he’s older, he’ll need people around him who are steady. Who don’t bend with every wind. Who know who they are.”
 
-She reached out. Just for a moment, her hand touched Beatrice's.
+She reached out. Just for a moment, her hand touched Beatrice’s.
 
-"Godfrey has found one. I see that now."
+“Godfrey has found one. I see that now.”
 
 She rose.
 
-"As for Brittany—ten thousand marks is silver. It buys soldiers, ships, alliances. It does not buy a wife who will sit in a cold window seat with a goose and understand without being told."
+“As for Brittany—ten thousand marks is silver. It buys soldiers, ships, alliances. It does not buy a wife who will sit in a cold window seat with a goose and understand without being told.”
 
 She moved toward the door. Paused.
 
-"You are not a goose girl playing at being someone else. You are exactly who you are. That is why my stepson—who has watched and waited his whole life—chose you before he even knew he could."
+“You are not a goose girl playing at being someone else. You are exactly who you are. That is why my stepson chose you before he even knew he could.”
 
 She went.
 
-Beatrice sat alone with Goosie, the goose's warmth against her side.
-
-For a long time, she didn't move.
-
-Then, slowly, she pressed her face into Goosie's feathers and let herself cry.
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
-
-## Chapter 19 — The Queen's Protection (Late January 1115)
-
-The next morning, Beatrice found a small bundle outside her chamber door.
-
-Inside: a warm cloak, fine wool, clearly from the Queen's own stores. A note in a precise hand:
-
-*For cold days. Keep your anchor in the Deep.*
-
-*—M*
+Beatrice sat alone with Goosie, the goose’s warmth against her side. For a long time, she didn’t move. Then, slowly, she pressed her face into Goosie’s feathers and let herself cry.
 
 ---
 
-**Candlemas, 2 February 1115**
+### The Summons
 
-The half-sisters had planned something. Beatrice knew it—she'd seen the glances, the whispered conferences. Lady Margaret had heard rumors of a "surprise" at the feast.
+A few days later, a servant found Beatrice in the weaving room. “My lady, a message from Sir Guy de Montfort. He requests your presence at a hearing regarding your father’s estate. He says it is a formality—the King’s justices need to verify that Stanwey is being properly managed in your father’s absence.”
 
-But when the moment came, nothing happened.
+Beatrice frowned. “My father is not absent. He is ill, but he is still lord of Stanwey.”
 
-Avice dropped her wine cup—no spill. Eustacia's cutting remark died on her lips as the Queen's gaze swept past. Every trap, every cruelty, every planned humiliation simply… failed.
+The servant shrugged. “I only deliver the message, my lady. Sir Guy said you might bring a witness if you wish.”
 
-Beatrice caught the Queen's eye across the hall. Matilda gave the smallest of nods.
+Beatrice thought of the Queen’s warning, of the whispers, of Sir Guy’s greedy eyes. She decided to go. Not because she trusted him, but because she wanted to see what he was planning.
 
-*She knows. She's watching. She's protecting.*
-
-Beatrice almost smiled.
-
----
-
-
-The whispers grew louder after Candlemas. Beatrice heard them in the corridors, in the kitchens, even in the chapel. “The King’s son deserves better.” “The Saxon girl will bring nothing.” “Wait until the Breton offer is renewed.”
-
-But the Queen’s protection held. Lady Margaret was always near. Godfrey was always watching. And when Avice tried to trip Beatrice as she walked to the high table, Godfrey caught her arm and steadied her without a word.
-
-Avice’s face went pale. She did not try again.
-
+She asked Lady Margaret to accompany her.
 
 ---
 
 ### The Legal Hearing
 
-**10 February 1115**
+The hearing was held in a small chamber off the Great Hall. Sir Guy sat at a table, flanked by the grey‑haired agent and a clerk with a parchment. Two of the King’s justices sat behind a trestle table, looking bored.
 
-Sir Guy’s legal challenge came to a formal hearing in a small chamber off the Great Hall. Two of the King’s justices sat behind a trestle table, looking bored. Roger of Salisbury presided, his face unreadable.
+Beatrice entered, Lady Margaret at her side. Sir Guy’s eyes widened. He had not expected her to bring anyone. He certainly had not expected to see her at all.
 
-Beatrice stood before them, her hands clasped. Godfrey stood beside her. Sir Guy sat opposite, flanked by the grey‑haired agent and a clerk with a parchment. There were few others present.
+Before he could speak, the door opened again. Roger of Salisbury stepped into the room, his ink‑stained fingers holding a folded parchment.
 
-Sir Guy was upset that Roger of Salisbury was present as another had been paid to favour his case.  Might be better to expand and scatter this a little within the sectino.
+“I was told there was a matter concerning the King’s vow,” Roger said, his voice flat. “I am here to ensure the King’s justice is served.”
 
-Roger opened the proceedings. “The claim is that Harold of Stanwey, due to his age and infirmity, is unable to manage his estate. Therefore, the manor should escheat to the crown. The lady Beatrice, as his only heir, is of marriageable age but has not yet produced a male heir. The claimant, Sir Guy de Montfort, asserts that the land should be granted to him as a loyal knight of the King, in lieu of his family's prior claim in the late conquest.”
- above line per conquest likely needs correct legal wording for era. Idea is that de Montfort family overran Stanwey and Rockingham during the conquest, but Harold redwolf submitted to the king and by valour his family was thus granted a (legal word?) exemption by William the conqueror.
+Sir Guy’s face went pale. “My lord Roger, this is a minor matter—a question of escheat. It hardly requires—”
+
+“The King’s vow is never a minor matter.” Roger took a seat at the head of the table. “Proceed.”
+
+Roger opened the proceedings. “The claim is that Harold of Stanwey, due to age and infirmity, is unable to manage his estate. Therefore, the manor should escheat to the crown. The lady Beatrice, as his only heir, is of marriageable age. The claimant, Sir Guy de Montfort, asserts that the land should be granted to him as a loyal knight of the King.”
 
 Sir Guy rose. “The old thegn is frail. The girl is untrained. Stanwey will fall into ruin. I can protect it, serve the King, and ensure the land’s prosperity.”
 
-Beatrice’s heart hammered, but she remembered the Queen’s words: *You don’t fight. You don’t flinch. You just go on being yourself.*
-
-She stepped forward. “My lord Roger, may I speak?”
+Beatrice stepped forward. “My lord Roger, may I speak?”
 
 Roger raised an eyebrow. “You may.”
 
@@ -3440,123 +3381,325 @@ Roger’s expression did not change. “Sir Guy, your response?”
 
 Sir Guy’s face reddened. “The girl is impertinent. The King’s vow does not grant her the right to hold land. She is a woman.”
 
-“The King’s vow,” Roger said dryly, “supersedes all other claims. The betrothal is valid. The land is held in trust for the prince. The case is dismissed.”
+Before Roger could answer, the chamber door opened. A messenger, breathless and mud‑spattered, pushed through the guards.
 
-He rose. The justices followed. Sir Guy stood frozen, his fists clenched.
+“My lord Roger, a message from Stanwey. Harold Red‑Wolf has collapsed. He lies in his bed, unable to rise. The lady Beatrice is asked to come at once.”
 
-Beatrice let out a breath. Godfrey’s hand found hers, briefly, then released.
+Beatrice’s face went pale. She turned to Roger. “My lord, I ask for a stay. My father—”
 
- This above  section may need extending, bringing in some mystery person to cause challenge and an unexpected resolution. not the usual trope but something suited to this story. I'm merging it with the following to that end.
+Roger held up a hand. “The King’s vow supersedes all other claims. The betrothal is valid. The land is held in trust for the prince.” He looked at Sir Guy. “This case is dismissed.”
+
+Sir Guy’s fists clenched. “You cannot simply—”
+
+“I can. And I have.” Roger rose. The justices followed. “The lady Beatrice is free to go to her father. This matter is closed.”
+
+The chamber emptied. Beatrice hurried to the Queen.
 
 ---
 
- Merge into above, possibly reverse their order and have Roger walk in midway, and the queen later on as the surprise final 'guest'.
+### Leave to Go
 
-“My lady,” Sir Guy said, his voice smooth. “A small formality. A document to settle the matter of Stanwey. Your father’s health is uncertain; it is best to have the succession clear.”
+Matilda was in her solar. She listened to Beatrice’s request and nodded.
 
-He slid a parchment toward her. Beatrice read it slowly. The language was thick, but the meaning was plain: she was to renounce her claim to Stanwey and acknowledge that she was “unfit” to marry the King’s son. In exchange, the escheat charge would be dropped.
+“Go. Take Lady Margaret and two guards. I will send Godfrey after you when he returns from Devon.”
 
-“You would have me sign away my father’s land,” she said, her voice steady, “and call myself unfit.”
+She reached into a chest and drew out a warm cloak of fine wool. “For the road. It is cold.” She paused, then added quietly, “And take this as well.” She pressed a small, sharp knife into Beatrice’s palm. “For protection. I pray you will not need it.”
 
-Sir Guy’s smile did not waver. “It is the only way to save his honour. The Queen herself doubted the match. Do you think she will thank you for forcing it?”
+Beatrice curtsied. “Thank you, Your Grace.”
 
-Beatrice’s hand tightened on the parchment. She remembered the cart woman’s eyes, the laughter in the hall, her father’s hand on his chest. She remembered the young man who had stood apart while she wept, and the cup she had taken from his hand.
+She left within the hour.
 
-“No.”
+---
 
-Sir Guy’s expression flickered. “My lady, I am trying to protect you.”
+### The Capture
 
-“You are trying to steal what is not yours.” She let the parchment fall. “I will not sign.”
+Beatrice reached Stanwey by midday. Harold was in his chair by the hearth, pale but alive. She knelt beside him, took his cold hands in hers, and wept with relief.
 
-“Then I will present it as a confession. I have witnesses who saw you—”
+“I am here, Father. I am here.”
 
-“You have nothing.” The voice came from the doorway.
+She tended him through the afternoon – broth, warm cloths, prayers. Lady Margaret helped. The two guards the Queen had sent stood watch outside.
 
-Godfrey stepped into the room. He did not look at Sir Guy; his eyes were on Beatrice. He moved to stand beside her.
+The reeve and the cook (Beatrice’s aunt) went about their business. The new servants the King had promised – a steady man named Eldred and a thin, capable woman – helped where they could.
 
-Sir Guy’s face reddened. “My lord, this is a private matter.”
+Goosie was restless. The bird hissed at shadows, flapped her wings, and refused to settle.
 
-“It is a matter of the King’s son and his betrothed.” Godfrey’s voice was quiet, but it carried. “You will leave. Now.”
+“Hush,” Beatrice said. “There is nothing.”
 
-Before Sir Guy could answer, another figure appeared in the doorway. Queen Matilda swept in, her ladies behind her.
+But there was.
 
-“You presume to speak for me, de Montfort?” Her voice was ice. “I have never opposed this match. I have only doubted the company my stepson keeps.”
+---
 
-Sir Guy went pale. “Your Grace, I meant no—”
+That night, as the household slept, armed men surrounded the hall. Sir Guy de Montfort led them.
 
-“You meant exactly what you said.” The Queen looked at the parchment on the table. “I have seen this document. I know who wrote it. You will withdraw your claim, or you will answer to the King when he returns.”
+The two guards fought bravely, but they were outnumbered. Within minutes, they were bound and gagged. Sir Guy’s men burst into the hall.
 
-The clerk and the grey‑haired agent were already edging toward the door. Sir Guy stood frozen.
+Beatrice woke to the crash of the door. She saw Sir Guy’s face in the firelight – smug, triumphant.
 
-Beatrice looked at the Queen, then at Godfrey. Something in her chest loosened.
+“You,” she whispered.
 
-She picked up the parchment and tore it in two. “I am resolved to act in the manner which will, in my own judgment, secure my happiness and my father’s peace. You have no authority over me, Sir Guy. Your threats are dust.”
+“Me.” He grabbed her arm. “Your father is coming with us. If you want him to live, you will do exactly as I say.”
 
-The pieces fell to the floor.
+Goosie exploded from her basket, hissing, flapping, pecking at the intruders. One man cursed. Another stumbled. For a moment, chaos. But Sir Guy laughed and kicked the goose aside. Goosie fell, then scrambled away into the darkness.
 
-Sir Guy stared at them, then at the Queen, then at Godfrey. He bowed stiffly and left without a word.
+“Stupid bird,” Sir Guy said. He pushed Beatrice toward the door. “Move.”
 
-The Queen let out a breath. “You have courage, child. And a sharper tongue than I gave you credit for.”
+Harold was already outside, his hands bound, his face pale but his eyes defiant. “Beatrice, do not—”
 
-Beatrice’s hands were still shaking, but she smiled. “I learned from watching my father.”
+“Quiet, old man.”
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+They were pushed into a cart and driven away into the cold night. The reeve and the cook, roused by the noise, hid in the pantry. They were not harmed. When the cart was gone, they ran to the nearest village to raise the alarm.
 
+---
 
+### Godfrey’s Arrival
 
-## Chapter 20 — Public Turn (February - March 1115)
+Godfrey reached Stanwey the next morning. He had ridden from Winchester as soon as the Queen’s warning reached him – a plot against “a son,” she had said – but the roads were dark and the winter mud deep.
+
+The hall was dark. The fire was cold. The guards lay bound in the yard. The reeve and the cook were nowhere to be seen.
+
+But Goosie was there. The goose stood in the middle of the yard, alone, her feathers ruffled, her eyes bright. She hissed at Godfrey, then waddled toward the door and back again, as if trying to tell him something.
+
+Godfrey knelt. “Where is she?”
+
+Goosie pecked at his boot and waddled toward the path that led into the forest.
+
+Godfrey found a note pinned to the door with a hunting knife. *Come alone, or the old man dies.*
+
+He tucked the note into his belt, mounted his horse, and followed the goose’s direction. Goosie ran ahead, her white feathers a ghost in the grey dawn.
+
+---
+
+### The Chapel
+
+The trail led to St. Mary‑by‑the‑Woods, a small, forgotten chapel half‑hidden in the trees. Godfrey dismounted and listened. Sir Guy’s voice came from inside.
+
+“Sign, or your father dies.”
+
+Beatrice’s voice, steady: “I cannot sign. I cannot write.”
+
+Godfrey’s hand went to the hilt of his sword. He was not a warrior. But he had practiced. Harold had said his form was adequate.
+
+*Adequate would have to be enough.*
+
+He kicked the door open.
+
+Sir Guy spun around, sword drawn. “You.”
+
+Godfrey stepped inside. “Let them go, de Montfort. This is between us.”
+
+“Between us?” Sir Guy laughed. “You think you can fight me? The shadow? The scholar?”
+
+“I think,” Godfrey said, drawing his sword, “that I can try.”
+
+---
+
+They clashed in the narrow aisle. Sir Guy was stronger, faster. Godfrey was not. But he had watched. He had practiced. He did not waste motion.
+
+He parried, retreated, parried again. Sir Guy pressed forward, grinning.
+
+“Is this all you have?”
+
+Godfrey did not answer. He let Sir Guy drive him back, toward a pillar. Then, at the last moment, he sidestepped. Sir Guy’s sword bit into the wood, stuck for a heartbeat.
+
+Godfrey kicked his knee. Sir Guy stumbled. Godfrey brought the pommel of his sword down on Sir Guy’s wrist. The sword clattered to the floor.
+
+“It is enough,” Godfrey said.
+
+---
+
+### Beatrice’s Agency
+
+While the swords clashed, Beatrice’s fingers worked. She had a pin hidden in her hair – a small, sharp thing. She had been working it free for the past hour.
+
+She cut the rope around her wrists, one strand at a time.
+
+The priest saw her. His eyes widened. “My lady—”
+
+“Quiet,” she hissed. “Or I will tell the Queen you took bribes.”
+
+The priest backed away.
+
+The rope snapped. Her hands were free. She stood and picked up a heavy brass candlestick from the altar.
+
+“Father, get behind me.”
+
+Harold’s eyes were wet, but he did not argue. He shuffled behind her as best he could with bound hands.
+
+---
+
+### The Forester’s Horn
+
+A royal forester, patrolling the woods, had seen the armed men ride toward the chapel. He did not engage. He rode back to the nearest village and blew his horn – a long, low note that meant *danger*.
+
+The villagers knew the sound. Some gathered torches. Others ran to the castle to alert the Queen’s men.
+
+The horn echoed through the trees.
+
+---
+
+### The Turn
+
+Sir Guy heard the horn. His face went pale. “What was that?”
+
+The priest backed away. “The foresters. They signal when there is trouble.”
+
+“There is no trouble.”
+
+“There is,” Beatrice said. She stood, candlestick raised. “The King’s son is here. And you, Sir Guy, are finished.”
+
+Behind her, the door creaked. A villager peered in – a woman, drawn by the horn. “Is someone in trouble?”
+
+Sir Guy turned. Beatrice threw the candlestick. It hit the priest’s shoulder. He yelped and fled.
+
+Chaos.
+
+Sir Guy’s men, hearing the commotion and seeing the villagers, hesitated. Then they saw Godfrey standing over their leader, sword pointed at his throat, and they ran.
+
+---
+
+### The Queen’s Men
+
+The captain of the guard arrived with a dozen men. The forester’s report had reached the castle, and the Queen had dispatched them at once.
+
+The captain dismounted. “Sir Guy de Montfort, you are under arrest by order of the Queen.”
+
+Sir Guy looked at his empty hands, at his fleeing men, at the priest’s abandoned robes. He said nothing.
+
+Beatrice helped Harold to his feet. Godfrey sheathed his sword.
+
+“You are hurt?” he asked her.
+
+“Bruised. Not broken.” She looked at him. “You came.”
+
+“I rode,” he said. “I did not fight well.”
+
+“You fought enough.”
+
+---
+
+### The Return
+
+Sir Guy was taken back to Winchester in chains. Beatrice and Godfrey followed, with Harold placed in a cart padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked.
+
+Goosie, exhausted but triumphant, rode in the basket at Beatrice’s feet.
+
+---
+
+## Chapter 19 – The Queen’s Protection (Late January 1115)
+
+The next morning, Beatrice found a small bundle outside her chamber door.
+
+Inside: a warm cloak, fine wool, clearly from the Queen’s own stores. A note in a precise hand:
+
+*For cold days. Keep your anchor in the Deep.*
+
+*—M*
+
+---
+
+### Candlemas, 2 February 1115
+
+The half‑sisters had planned something. Beatrice knew it—she’d seen the glances, the whispered conferences. Lady Margaret had heard rumors of a “surprise” at the feast.
+
+But when the moment came, nothing happened.
+
+Avice dropped her wine cup—no spill. Eustacia’s cutting remark died on her lips as the Queen’s gaze swept past. Every trap, every cruelty, every planned humiliation simply… failed.
+
+Beatrice caught the Queen’s eye across the hall. Matilda gave the smallest of nods.
+
+*She knows. She’s watching. She’s protecting.*
+
+Beatrice almost smiled.
+
+---
+
+The whispers grew louder after Candlemas. Beatrice heard them in the corridors, in the kitchens, even in the chapel. “The King’s son deserves better.” “The Saxon girl will bring nothing.” “Wait until the Breton offer is renewed.”
+
+But the Queen’s protection held. Lady Margaret was always near. Godfrey was always watching. And when Avice tried to trip Beatrice as she walked to the high table, Godfrey caught her arm and steadied her without a word.
+
+Avice’s face went pale. She did not try again.
+
+---
+
+### The Queen’s Judgment
+
+**10 February 1115**
+
+Sir Guy was brought before the Queen in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Roger of Salisbury stood at the Queen’s side, a parchment in his hand.
+
+Matilda’s voice was cold. “Sir Guy de Montfort, you have been found guilty of attempted kidnapping, of forging a document to defraud the King’s justice, and of plotting against the King’s vow. Do you have anything to say for yourself?”
+
+Sir Guy stood in chains, his face pale. “I acted alone. I wanted Stanwey. There was no larger plot.”
+
+The Queen’s eyes narrowed. “You expect me to believe that?”
+
+“It is the truth.”
+
+Roger stepped forward. “The forged document was written by a clerk in the employ of the Flemish merchant. The merchant has been arrested for defrauding the King’s customs. He will be deported. The clerk has vanished. Your accomplices have abandoned you.”
+
+Sir Guy said nothing.
+
+The Queen rose. “You are stripped of all lands and titles. Your estates are forfeit to the crown. You will leave England within three days. If you return, you will be hanged for treason.”
+
+She turned to the guards. “Take him away.”
+
+Sir Guy bowed his head. He did not look at Beatrice. He did not look at Godfrey. He walked out of the hall, and no one ever spoke of him again.
+
+---
 
 **14 February 1115 — Feast of St. Valentine**
 
 The feast was crowded, noisy, suffocating. Beatrice moved through it as she always did now—quietly, carefully, watching.
 
-Then the Queen rose.
+Then the Queen rose and clapped her hands twice, sharply.
 
 "A moment."
 
 The hall stilled.
 
-"It has come to my attention that certain persons have seen fit to question the king's judgment in the matter of his son's betrothal."
+"It has come to my attention that certain persons have seen fit to question the judgment of my lord, the king in the matter of our son's betrothal."
 
-A murmur. Avice and Eustacia went pale.
+A murmur. Avice, Eustacia and various others went pale.
 
-Looking directly at them: "Let me be clear. The king's vow is sacred. His choice is final. And the lady Beatrice—" She paused, letting the weight settle. "—has my full support. Any who trouble her trouble me."
+Looking directly at them: "Let me be clear. The King's vow is sacred. His choice is final. Our son shall marry. And the lady Beatrice—" She paused, letting the weight settle. She spoke slowly and deliberately "—has my full support. Any who trouble her trouble myself and the King."
 
-She sat.
+She let all sound die completely into silence before turning and sitting.
 
-The hall erupted in whispers. Beatrice stood frozen, tears pricking her eyes.
+The hall erupted in murmurs and whispers, but few if any dared be critical of the young couple.
+
+Beatrice stood frozen in time, tears shining her eyes.
 
 Godfrey, beside her, said nothing. He didn't need to.
 
 ---
 
-### A gift for the queen
-**15 February 1115**
+### A Gift for the Queen
 
-The next morning, a small bundle of dried herbs appeared outside the Queen's chamber door. A note in an uneducated hand:
+The next morning, a small bundle of dried herbs appeared outside the Queen’s chamber door. A note in an uneducated hand:
 
 *For sleepless nights. Steep in hot water. Thank you.*
 
 *—B*
 
-The Queen's ladies wondered at her expression. It was almost a smile.
+The Queen’s ladies wondered at her expression. It was almost a smile.
 
 ---
 
-### Harold at court
+### Harold at Court
+
 **1 March 1115**
 
 Harold, recovered enough to travel, visited court for the first time.
 
-He stood in the great hall, leaning on his daughter's arm, and faced the court that had whispered about her. The staghound, brought along despite all sense, sat at his feet.
+He stood in the great hall, leaning on his daughter’s arm, and faced the court that had whispered about her. The staghound, brought along despite all sense, sat at his feet. And Goosie was there, preening her feathers.
 
-To Godfrey, loud enough to carry: "You've done well, boy."
+To Godfrey, loud enough to carry: “You’ve done well, boy.”
 
-"I've tried."
+“I’ve tried.”
 
-Looking at Beatrice: "She's worth trying for."
+Looking at Beatrice: “She’s worth trying for.”
 
-He didn't say more. He didn't need to.
+He didn’t say more. He didn’t need to.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -4018,6 +4161,9 @@ The most severe consequence of a broken vow was **eternal damnation** and the po
 ---
 TODO add to endnotes what happened to the conspiritors, some arrested, some not.
 TODO add simple era recipes suited to modern tastes - makes a good activity.
+
+TODO - more a future note for myself - we've just put a lot of work into revising the vow. The intent is to refocus the plotters (especially in the conspiracy meeting the day of the king's farewell celebration) - this is all to answer the question on what are the consipirators doing as we need to make this clear (as discussed much earlier in the scrollback here). In short, they wish to cause a political scandal concerning the king's vow about beatrice and godfrey. This is to become clear. This is all part of a larger out-of-story-scope plot to manage the succession of England and Normandy, which we touch on but should not actively drive, except reflecting in the epilogue. The prime plotters are in the camps of Louis of France and Baldwin of Flanders. Thus the main goal then is to get (and fail to have) Henry break the vow via any reasonable measure available to them.
+
 
 
 TODO (last) -- revise student questions
