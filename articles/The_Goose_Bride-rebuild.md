@@ -1685,27 +1685,39 @@ He was not looking at her. He was looking at the ground, at the trees, at anythi
 
 ### What manner of man is this
 
-When she rose, unsteadily, he looked up. She saw him hesitate—the same uncertainty she had seen in the hall, the same careful waiting. Then he walked toward her, stopping a few feet away.
+When she rose, unsteadily, he walked toward her, but stopped a few feet away, his caution less about her tears and more about whether she would turn him away.
 
-He did not speak at once. Instead, he looked at her—not at her tears, not at the hot mess she had become, but *at her*. As if he was trying to see past the raw edges to what lay underneath, her real self.
+She wiped her face with the back of her hand, but the gesture was useless. Her eyes were swollen, her nose running, her whole face a ruin.
 
-She wiped her face with the back of her hand, but the gesture was useless. Her eyes were swollen, her nose running, her whole face a ruin. 
+*A thegn’s daughter showing weakness. Falling apart in front of a king’s son, no less.*
 
-“You must think me a fool,” she said.
+She braced for his distance. The polite nod. The retreat into rank. *That was how the world worked.*
+
+It did not come.
+
+“You must think me a fool,” she said, not knowing what to say.
 
 “No.” His voice was quiet.
+
+She saw him waiting—the same expression she had seen in the hall—but it wasn't uncertainty. It was like he was letting the stormburst of her grief drench him, taking it in without flinching, without judging, without trying to stop it. He did not speak at once.
+
+Instead, he looked at her—not at her tears, not at the hot mess she had become, but *at her*. As if he was trying to see past the raw edges to what lay underneath, her real self.
 
 “I have spent my life watching people,” he said. “Watching them scheme and flatter and pretend.”
 
 His words came out naïvely, but true. “I think you love your father.”
 
-They were simple and kind words, but they broke open something deep inside her. She stared at him, waiting for the usual polite dismissal, the courtier’s shrug. It did not come.
+She wrapped her arms around herself, suddenly cold. They were simple and kind words, but her expression showed strange and lonely terrors, stirred up from deep inside her soul. 
 
-She did not know what to say to that. She wrapped her arms around herself, suddenly cold.
+He looked toward the lane, then back at her. “I cannot promise you that I know how to be a husband. I do not. I have watched my father’s court, but I have never had a home.” His voice was steady, but she could hear something beneath it—something that sounded like fear. “But I can promise you this: If you will have me, I will come to you. I will learn your ways. I will be there when you need me, and I will stand aside when you do not. I will not take you from your father. I will not take Stanwey. Because I see how you love him.”
 
-He looked toward the lane, then back at her. “I cannot promise you that I know how to be a husband. I do not. I have watched my father’s court, but I have never had a home.” His voice was steady, but she could hear something beneath it—something that sounded like fear. “But I can promise you this: I will not take you from your father. I will not take Stanwey. If you will have me, I will come to you. I will learn your ways. I will be there when you need me, and I will stand aside when you do not.”
+*A king’s son, no less, calling it love. Falling apart in front of him was not weakness after all.*
 
 She stared. He was not promising her a palace or a crown. He was promising her what she had asked for without knowing she was asking. She felt a hot flush rise to her face.
+
+---
+
+### Being seen
 
 “Earlier,” she asked, her voice raw. “Why did you say you were grateful? That I looked at you like a person.”
 
@@ -2048,23 +2060,40 @@ She did not ask what he meant. She thought she knew.
 
 ### A Quiet Lesson
 
-One afternoon, Godfrey found Harold sitting on a log in the yard, by the whetsone. He was running his thumb along the edge of his old sword. The blade was nicked but still keen, glinting in the sun.
+*It is amazing how quickly you can turn around when you want to disappear.*
 
-“You know how to use a sword, lad?” Harold asked, not looking up.
+Beatrice pressed her back against the oak door, her face burning. Through the crack she heard Harold’s dry, rasping voice:  
+“You’re holding it like a scythe. A poor one.”
 
-“I was taught,” Godfrey said. “At Salisbury. The knights there said I had… adequate form.”
+A pause. Then Godfrey, strained:  
+“The knights said I had adequate form.”
 
-Harold snorted. “Adequate. That’s the word for a horse that won’t throw you, not a blade that might save your life.” He tossed Godfrey a practice sword. “Show me.”
+Harold snorted. “Adequate. That’s the word for a horse that won’t throw you – and nothing else worth praising.”
 
-Godfrey caught it. He moved through the forms – guard, thrust, parry – his movements clean but unspectacular. He did not have the raw power of his half‑brother Robert of Gloucester, nor the speed of Richard of Lincoln. But his footwork was precise. He did not waste motion.
+Beatrice risked a glance and opened the door.
 
-Harold watched, silent. When Godfrey finished, he nodded slowly. “You’ll never be a knight. But you won’t cut your own leg off, either.”
+Godfrey moved through the forms — guard, thrust, parry — his footwork neat as a scribe’s lettering, his ears a violent shade of red. He risked a glance toward the door.
 
-“A ringing endorsement,” Godfrey said dryly.
+He saw her.
 
-Harold almost smiled. “It’s enough. The man who thinks he’s a warrior is a fool. The man who knows he’s not – and practices anyway – might survive.” He handed Godfrey back the real sword. “Keep it close. Not to fight. To remind yourself that you can.”
+His stance faltered. The practice sword dipped.  
+He straightened at once, jaw tightening, as if hoping she had not noticed the stumble.
 
-Godfrey took it. The weight was unfamiliar but not unwelcome.
+*Definitely noticed.*
+
+Their eyes met for the briefest heartbeat before she vanished behind the door like a startled wren, heart thudding.
+
+*He tries things he is not good at*, she thought, pressing her palms to her cheeks. *And somehow looks both brave and ridiculous doing it.*
+
+The guard she had held around her heart for years finally dropped. She closed the door and went to find Goosie, a small, genuine smile catching on her lips.
+
+Outside, Harold almost smiled.  
+“It’s enough. The man who thinks he’s a warrior is a fool. The man who knows he’s not — and practices anyway — might survive.”
+
+He handed Godfrey the real sword.  
+“Keep it close. Not to fight. To remind yourself you can do hard things — even badly.”
+
+Godfrey took it. The weight was unfamiliar, but not unwelcome.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -4134,7 +4163,7 @@ Use these to prompt reflection, conversation, or written responses:
 - **Retell the river‑rescue** from Harold’s point of view.
 - **Invent a new medieval insult** Henry might use (e.g., “sodden worm”).
 - **Create a map** showing Stanwey, Rockingham Castle, and the Roman road.
-- **Act out the cup ritual** – discuss why Beatrice’s choice matters.
+- **Share about the cup ritual** – discuss (in small groups if possible): Why did Beatrice ask Godfrey for the drink instead of answering the king directly? What did that action represent?”
 
 ---
 
