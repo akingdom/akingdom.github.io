@@ -17,81 +17,6 @@
     </div>
 </div>
 
-
-
-## THE GOOSE BRIDE — THE CHARACTERS
-
----
-
-### The King and his Family
-
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **King Henry I** | King of England, Duke of Normandy. Volatile, witty, dangerous, but ultimately just. Father of Godfrey and William. His rash vow drives the plot. |
-| **Queen Matilda of Scotland** | Henry's wife. Born Edith of Scotland, with Saxon heritage. Politically astute, protective of her son William, but capable of growth. Beatrice's unexpected ally. | 
-| **William Adelin** | Henry's legitimate son and heir, age 12. Queen Matilda's motivation for her initial opposition to Godfrey's match. | 
-| **Robert Curthose** | Henry's imprisoned older brother. The man Harold saved from the Severn. Never appears, but his rescue is the source of the old debt. | 
-| **Godfrey FitzRoy** | Deuteragonist. Illegitimate son of King Henry I, age 19. A watcher, a waiter, a listener. Has been called "shadow" and "coin" his whole life. | 
-| **Duchess Matilda FitzRoy** | Henry's daughter, Godfrey's full-sister. Duchess of Brittany by betrothal (marries 1118). Sharp, observant, becomes Beatrice's friend. | 
-| **Avice** | Godfrey's jealous half-sister (fictional), age 21. Dark-haired, with a smile that never reaches her eyes. Represents court hostility. | 
-| **Eustacia** | Godfrey's younger half-sister (fictional), age 19. Fairer, quicker to laugh, but the laughter is often at someone's expense. Pairs with Avice. | 
-
----
-
-### Nobles over the sea (Mentioned Only)
-
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **Conan, Duke of Brittany** | Father of Agnes. Proposes the match between Agnes and Godfrey. |
-| **Agnes of Brittany** | Conan's daughter, offered as Godfrey's bride with a dowry of 10,000 marks. The "Brittany threat" throughout the courtship. | 
-| **Alain** | Conan's father, retiring to a monastery. Supports the match. | 
-| **Giselberthe of Flanders** | Henry I's maternal aunt. |
-
----
-
-### The Saxons of Stanwey
-
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **Harold Red-Wolf** | Beatrice's father. A Saxon thegn, once a warrior who rode with kings and saved Henry's brother from drowning. Now old and frail, but sharp-eyed. | 
-| **Beatrice's Mother** | (Name unknown) Harold's wife, died when Beatrice was 11. Formerly at court? Taught Beatrice everything: herbs, brewing, healing, people. | 
-| **Beatrice** | Protagonist. Daughter of Harold Red-Wolf. A Saxon girl of 16 who runs her father's manor, speaks her mind, and loves her goose Goosie above almost all else. | 
-| **Goosie** | Beatrice's goose. Hatched from an egg Beatrice acquired as a child. Her mother's last gift. Comic relief, emotional barometer, and plot engine. | 
-
----
-
-### Knights and Nobles
-
-| Character | Identity / Purpose | 
-| :--- | :--- |
-| **Lady Margaret** | Beatrice's daily mentor at court, age 29. Assigned by the Queen (likely). Experienced, patient, quietly kind. Teaches Beatrice court etiquette and survival. | 
-| **Sir Guy de Montfort** | Young Norman knight, age 24. A bully, petty and cruel. Insulted by Beatrice at a fair months before the story. Wants Stanwey's lands. |
-| **Roger of Salisbury** | Henry's Justiciar, age 49. The second most powerful man in England. Keeper of the ledger, sees people as numbers. Cold, efficient, not cruel—just mathematical. | Chapter 9 — The Ledger and the Lion |
-| **Court Whisperers** | Unnamed nobles, ladies, and servants who spread rumors and erode Beatrice's reputation. Represent the system's constant pressure. | 
-
----
-
-### Minor Characters - Royal Court
-
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **The Clerk** | Royal clerk who records the king's words. | 
-| **The Steward** | Royal household steward who clears space for the Queen. | 
-| **The Royal Marshal** | Marked a gander with the king's seal. Never appears directly. | 
-
-### Minor Characters - Stanwey Farms and Beyond
-
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **The Nurse** | A former wet nurse, age 39. Owns a farm by the river bend where Goosie's egg came from. Gruff, wise. | 
-| **The Reeve** | Stanwey's village headman. Harold considers sending him with the goose tribute. | 
-| **Staghound** | Harold's loyal dog. Always by the fire at Stanwey. Dies shortly after Harold. | 
-| **The Priest** | Arranged the candles at Beatrice's mother's deathbed. | 
-| **Farmer's Wife** | One of the farmers Beatrice visits while searching for a bird. Her flock was taken by murrain. | 
-| **Tenant Farmer** | Another farmer Beatrice visits. His birds were taken by the Abbot's tithe collector. | 
-| **The Old Woman** | Speaks the proverb at the wedding. Represents folk wisdom. | 
-| **The Abbot** | (Unnamed) Tithe collector who stripped local farms. Never appears directly. | 
-
 -----------------------------------------------------------------------
 
 ## Opening
@@ -412,7 +337,7 @@ And Goosie followed her. Always.
 
 It was a still evening in the hall at *Stanwey*. The sun cast long, amber shadows across the rich fallow strips of the fertile river valley, cut deep with an iron tipped plough, and a clamour of rooks circled the wood’s edge, their harsh *kaah-kaah* fading as they settled into the high branches. The smoke from the village fires drifted upward, thin and grey, like a long-held breath finally released.
 
-The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. Their two serveants were cleaning up in the background. Beatrice sat down and watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
+The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. Their two servants were cleaning up in the background. Beatrice sat down and watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
 
 "Father?" she asked softly.
 
@@ -472,7 +397,7 @@ She said nothing. The bread dough was smooth under her palms, but her thoughts w
 
 Beatrice nodded. “I’ll think on it.” But her thoughts were for her father. *However would he survive in his frail state once she married?* 
 
-She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
+She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
 
 Beatrice said nothing until her father raised the matter of Edmund a week later. “Not for Stanwey,” she replied softly, and Harold did not mention Edmund again.
 
@@ -496,7 +421,7 @@ But she saw the way he looked at the sword above the hearth—the blade he had c
 
 ---
 
-### Sir Guy - A proud man
+### Sir Guy – A proud man
 
 The real trouble began when Sir Guy de Montfort (knight) came to Stanwey followed by a procession of servants trailing after him.
 
@@ -647,7 +572,7 @@ Beatrice interrupted eagerly. "Then I'll buy him. I have the silver Mother left�
 
 The nurse shook her head. "He's already spoken for. The Royal Marshal marked him with the King's seal yesterday. If I sell him to you, they'll hang me for theft of Crown property. He's not a bird anymore, Beatrice; he's a piece of the King's war."
 
-The nurse looked at her, blunt but not unkind. "Count it a blessing that your own bird has rlived as long as she has. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
+The nurse looked at her, blunt but not unkind. "Count it a blessing that your own bird has lived as long as she has. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
 
 Beatrice’s throat tightened. This news was too much for her to bear and she burst into large wet tears. The normally gruff nurse patted her back.
 
@@ -752,7 +677,7 @@ He gazed sharply about the hall and found little that pleased him, until his eye
 
 The morning's hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. Henry had returned with empty hands and a foul temper.
 
-His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their weapons, their gear, the pattern of the rushes coverting the floor; anything to avoid meeting the King's eye. They knew the signs. When the King's hunt was lean, his wrath was often fat.
+His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their weapons, their gear, the pattern of the rushes covering the floor; anything to avoid meeting the King's eye. They knew the signs. When the King's hunt was lean, his wrath was often fat.
 
 He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant.
 
@@ -783,7 +708,7 @@ Only then did his expression soften a little. "What news?"
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 8 — The Breton Offer (Revised with Land Clause)
+## Chapter 8 — The Breton Offer
 
 Queen Matilda smiled slightly and drew a parchment from inside her sleeve, permitting herself a little drama.
 
@@ -807,7 +732,7 @@ The Queen frowned. “I see no treachery in it. Godfrey has no lands, little bey
 
 Henry’s jaw tightened and he raised his voice. “Therein lies the danger. What say you, *Roche*?”
 
-*Lord Everard de la Roche* looked up, startled and looking a little guilty. ”My lord?” He had been standing near eough to overhear. This lord had lost lands near Vexin, in the critical border zone between Normandy and France.
+*Lord Everard de la Roche* looked up, startled and looking a little guilty. ”My lord?” He had been standing near enough to overhear. This lord had lost lands near Vexin, in the critical border zone between Normandy and France.
 
 ”What say you of the Breton Marche, shall I marry a son to gain that border?”
 
@@ -817,7 +742,7 @@ Lord Roche sucked in a deep breath. Borders were a sore topic for him.
 
 Henry nodded his agreement. “Aye. This wind surely bodes ill.”
 
-The Queeen's expression cooled considerably.
+The Queen's expression cooled considerably.
 
 “My brother came down from Scotland to support you in Wales, as did others. Remember too your seed, lord. Our son William will have Anjou. Your daughter Matilda FitzRoy will have Brittany. Even your nephews have lands over the sea.”
 
@@ -908,7 +833,7 @@ More laughter.
 
 Beaumont turned to the room, his voice more serious. “But I agree with Roger on one point: the March lands are valuable in coin and defence. The question is not the silver, Sire, but the leash. Conan wants your son to reside there, to hold those strongholds as his vassal. As you say, it is almost hostage taking, but tempting.”
 
-Murmurs echoed about the hall from overtaxed barons, and for the longest moment, Henry said nothing, looking at men who had grown fat on royal favour. *Did I built all this*, he thought. *A kingdom where blood is tallied like wool? And these serve it greedily—more than they serve me.*
+Murmurs echoed about the hall from overtaxed barons, and for the longest moment, Henry said nothing, looking at men who had grown fat on royal favour. *Did I build all this*, he thought. *A kingdom where blood is tallied like wool? And these serve it greedily—more than they serve me.*
 
 ---
 
@@ -1529,7 +1454,7 @@ The woman leaned back. “We let you sleep. You must have been worn out, you poo
 
 “Thank you. For the ride and everything.”
 
-Beatrice climbed down on shaky legs. She stood at the lane’s edge, basket in hand, and watched the cart creak away. The woman and girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone with her hampered goose.
+Beatrice climbed down on shaky legs. She stood at the lane’s edge, basket in hand, and watched the cart creak away. The woman and girls waved. The man touched his forehead. Then they were gone, and she was left standing there alone on the laneway, with Goosie in a the coal hamper.
 
 She set her face towards home and the ones that she loved.
 
@@ -1607,7 +1532,7 @@ She looked down at her fingers, now smudged with grey, then up at him.
 
 In a hasty turn, Beatrice faced away. A quick scrub with linen from her belt-purse cleared the mark, leaving her nose scoured-red and stinging. *Well, that must do.* 
 
-She tucked her hand down, cheeks burning. She had rubbed the soot on eariler that morning, to look more like a charcoal‑burner, not a thegn's daughter, while travelling to the hall.
+She tucked her hand down, cheeks burning. She had rubbed the soot on earlier that morning, to look more like a charcoal‑burner, not a thegn's daughter, while travelling to the hall.
 
 “Shall we walk?” Godfrey simply indicated the laneway with his hand.
 
@@ -2153,7 +2078,7 @@ Beatrice frowned. “You have seen him?”
 
 “I have eyes, child. And ears. And for these I thank our God often.” 
 
-The priest smiled. “The King of Engliand’s son mended the goose pen. He helped the blacksmith fix his bellows. He sat with your father by the gate in the evening while waiting for you. He even made sure your father's favourite cakes didn't burn. Those are not the acts of a man who means to steal your home.”
+The priest smiled. “The King of England’s son mended the goose pen. He helped the blacksmith fix his bellows. He sat with your father by the gate in the evening while waiting for you. He even made sure your father's favourite cakes didn't burn. Those are not the acts of a man who means to steal your home.”
 
 “He is trying to be kind,” she admitted.
 
@@ -2214,9 +2139,9 @@ The king’s retinue appeared around the bend—a dozen mounted knights, a cart 
 
 Beatrice had seen him in the hall, seated, laughing. Seeing him now, riding toward her home, was different. He was not a king on a throne; he was a man on a horse, broad-shouldered, watchful, taking in every detail of the lane, the cottages, the villagers who knelt, for it wasn't every day that a king passed through the village.
 
-The children all threw their flowers, the women curtsied and the men bowed, heads uncovered. The king smiled and nodded, and Beatrice saw the village Reeve’s wife press a hand to her chest as if she had been blessed, talking ernestly to her neighbour.
+The children all threw their flowers, the women curtsied and the men bowed, heads uncovered. The king smiled and nodded, and Beatrice saw the village Reeve’s wife press a hand to her chest as if she had been blessed, talking earnestly to her neighbour.
 
-Henry a his retinue reined in before the gate, where old Harold was waiting eagerly for him. He dismounted, and for a moment the two old warriors looked at each other across the path. Then Henry stepped forward and took Harold’s hand.
+Henry and his retinue reined in before the gate, where old Harold was waiting eagerly for him. He dismounted, and for a moment the two old warriors looked at each other across the path. Then Henry stepped forward and took Harold’s hand.
 
 “Rauthulfr,” he said. “You have not changed.”
 
@@ -2308,11 +2233,11 @@ Harold’s mouth twitched. “A compromise. Your father would never have agreed 
 
 “We do.”
 
-Henry lowered his voice. “I must be to morrow with Robert Beaumont. We plan my return to Normandy.”
+Henry lowered his voice. “I must meet tomorrow with Robert Beaumont. We plan my return to Normandy.”
 
 Harold nodded slowly. “Greet that man for me. Trouble with King Louis?”
 
-“And others.” Henry did not elaborate. “That is a king’s burden, not a father’s, so to night, we shall celebrate.” He opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
+“And others.” Henry did not elaborate. “That is a king’s burden, not a father’s, so tonight, we shall celebrate.” He opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
 
 ---
 
@@ -2591,7 +2516,7 @@ The elder's eyes widened. She exchanged a look with the younger that Beatrice co
 
 "Yes," Beatrice breathed. "Can you tell me—"
 
-"Of course." Avice's smile was sharp. "Go back through the courtyard, past the kitchens. There's a door on your left. Don's miss it: it's the third one."
+"Of course." Avice's smile was sharp. "Go back through the courtyard, past the kitchens. There's a door on your left. Don't miss it: it's the third one."
 
 Beatrice turned, ready to run.
 
@@ -2647,7 +2572,7 @@ Goosie, unimpressed, waddled past Margaret to inspect the room, and began tuggin
 
 After a long moment, Margaret stated, very quietly, "*That*, I suppose, is *the* goose. The same one *blessed* by his Grace, the King."
 
-"Yes." Beatrice simply agreed, utterly bemused at the though of the King having blessed her her goose.
+"Yes." Beatrice simply agreed, utterly bemused at the though of the King having blessed her goose.
 
 "The goose, in the Queen's quarters."
 
@@ -2703,7 +2628,7 @@ She was still staring when a voice cut through the silence.
 
 "The King's newest curiosity."
 
-She turned. the same two from the garden—Avice and Eustacia stood in the doorway—the same two from the garden.
+She turned. The same two from the garden—Avice and Eustacia—stood in the doorway.
 
 Avice stepped forward, her gaze drifting from Beatrice's gown to her face. "Tell me," she said, her voice a low, melodic purr, "do they not have weavers in the West? Or does your father prefer his women dressed for a sheep-shearing?"
 
@@ -2777,7 +2702,7 @@ She checked inside the needle‑case, grateful to find that all the expensive st
 
 ### After the celebrations
 
-*That night, Westminster hummed with whispered conversations. The King’s departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
+*That night, Westminster hummed with whispered conversations. The King’s pending departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
 
 The chamber was small, lit by a single candle. Around the table sat four men: the grey‑haired agent in his plain cloak; a portly figure in a merchant’s fur‑trimmed coat, known only as the Pied Merchant; a lean, sharp‑featured man whose silence spoke of authority—Lord Everard de la Roche; and a fourth, younger, who had not yet spoken.
 
@@ -3234,11 +3159,6 @@ But the Queen did not tire. And when the poor began to speak of “the Lady of S
 
 ---
 
-**IMPORTANT** => The Duchess frequents Devon where her mother (henry's mistress) Edith resided. Godfrey might also go there, anyway, he departs, as encouraged by the enemy set (Roche: 'well, it is nice to see a boy care for his mother. do give my regards.').
-
-=> "she should come with us down to Devon." However, the queen wishes her to stay (or other cause), to help with a favoured project or some such. (we can chronicle them publicly visiting poor/sick/etc.) --> yes, with greater jealousy accordingly. Insert here.
-=> Show the charity work or imply?
-
 TODO -- ensure Godfrey shows protection of Beatrice before his departure for devon above.
 
 
@@ -3246,8 +3166,6 @@ TODO -- ensure Godfrey shows protection of Beatrice before his departure for dev
 
 
 ## Chapter 18 — The Darkest (January 1115)
-
-## Chapter 18 – The Darkest (January 1115) – Revised with Legal Hearing Setup
 
 The new year brought new cruelties.
 
@@ -3409,6 +3327,22 @@ Beatrice curtsied. “Thank you, Your Grace.”
 
 She left within the hour.
 
+Meanwhile, in the solar, a man stepped out from the shadows. “My lady.”
+
+“Do continue, sir. Your report is most interesting.”
+
+“We have intercepted men from a ship in Sutton, along with a coded letter of Flemish origin. It speaks of capturing one of the King’s sons as a hostage to France.”
+
+“Lord Godfrey is in Devon at present, with his mother,” the Queen mused, her eyes tracking the dust motes in the light. “We should ensure his safety further. He is a scholar, not a soldier, and an easy mark for such wolves.”
+
+“And the other, my lady?”
+
+“Robert of Gloucester was at Exeter but two days ago,” the Queen replied. “But he has already taken ship for Normandy to join the King's host. He is beyond their reach now, with a hundred knights at his back. It is Godfrey who stands alone in the west.”
+
+“Yes, my lady. Will that be all?”
+
+“For now.”
+
 ---
 
 ### The Capture
@@ -3531,7 +3465,7 @@ Harold’s eyes were wet, but he did not argue. He shuffled behind her as best h
 
 A royal forester, patrolling the woods, had seen the armed men ride toward the chapel. He did not engage. He rode back to the nearest village and blew his horn – a long, low note that meant *danger*.
 
-The villagers knew the sound. Some gathered torches. Others ran to the castle to alert the Queen’s men.
+The villagers knew the sound. Some gathered torches. Another forester then rode quickly up to Rockingham castle to alert the Queen’s men there.
 
 The horn echoed through the trees.
 
@@ -3583,7 +3517,7 @@ The gathering wended their way back to Stanwey hall. A cart was brought and Beat
 
 A detachment of guards took Sir Guy and the others to Westminster in chains, to await the Queen's judgement. 
 
-As for Beatrice and Godfrey, they stayed with her father at Stanwey, until Harold had recovered sufficiently to the two to travek back to Westminster Palace by cart. Beatrice knew that her father would be very well cared for after they said their goodbytes.
+As for Beatrice and Godfrey, they stayed with her father at Stanwey, until Harold had recovered sufficiently to the two to travek back to Westminster Palace by cart. Beatrice knew that her father would be very well cared for after they said their goodbyes.
 
 ---
 
@@ -3627,23 +3561,23 @@ Avice’s face went pale. She did not try again.
 
 **10 February 1115**
 
-After some time, Sir Guy was brought before the Queen in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Roger, Bishop of Salisbury and Robert de Beaumont, Earl of Leicester, stood at the Queen’s side.
+After some time, Sir Guy was brought before the Queen, who was seated in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Lord Roger, Royal Judiciar and Bishop of Salisbury, stood at the Queen’s side.
 
-Matilda’s voice was cold. “Guy de Montfort of Évreux, you have been found guilty of attempted kidnapping, of forging documents to defraud the King’s justice, and of plotting against the King’s vow. These are treasonous acts. Do you have anything to say for yourself?”
+Lord Roger’s voice was cold. “Guy de Montfort of Évreux, you have been found guilty of attempted kidnapping, of defrauding the King’s justice, and of plotting against the King’s vow. These are treasonous acts. Do you have anything to say for yourself?”
 
 Guy stood in chains, his face pale. “I acted alone. I wanted Stanwey. There was no larger plot.”
 
-The Queen’s eyes narrowed, but she turned aside. “Lord Beaumont?”
+The Queen’s eyes narrowed, displeased, but she turned aside. “Lord Roger?”
 
-Lord Robert de Beaumont stepped forward. “My lady, the document were fabricated by a clerk in the employ of a Flemish merchant. The merchant was been arrested this morning. Your accomplices have abandoned you, Montfort.”
+Lord Roger stepped forward. “My lady, we have documents fabricated by a clerk in the employ of a Flemish merchant. The merchant has been arrested early yesterday morning while fleeing to the coast. Your accomplices have all abandoned you, Montfort.”
 
-Sir Guy said nothing.
+Guy said nothing.
 
-The Queen rose. “You are stripped of all lands and titles. Your estates are forfeit to the crown. You will leave England within three days. If you return, you will be hanged for treason.”
+The Queen rose. “You are hereby stripped of all lands and titles. Your estates are forfeit to the crown. You will leave England within three days. If you return, you will be hanged for treason.”
 
-She turned to the guards. “Take him away.”
+She turned to the guards. “Send him.”
 
-Sir Guy bowed his head. He did not look at Beatrice. He did not look at Godfrey. He walked out of the hall, and no one ever spoke of him again.
+Sir Guy bowed his head. He did not look at Beatrice. He did not look at Godfrey. He walked out of the hall, and few ever spoke of him again.
 
 About that time, certain other people found that King Henry indeed had a long hand, and an even longer memory. For that hand reached out across the narrow sea, to find a man in a house, a merchant in a warehouse and a lord in a castle. 
 
@@ -3671,7 +3605,7 @@ She let all sound die completely into silence before turning and sitting.
 
 The hall erupted in murmurs and whispers, but few if any dared be critical of the young couple.
 
-Beatrice stood frozen in time, tears shining her eyes.
+Beatrice stood frozen in time, tears shining in her eyes.
 
 Godfrey, beside her, said nothing. He didn't need to.
 
@@ -3738,7 +3672,7 @@ He sat beside her.
 
 "When was that?"
 
-Looking at him: "When you stood with an upset pure maid in the middle of the laneway not caring who saw you but giving me room. When you asked my father. When you waited outside. When you walked me home and didn't say a word." She paused. "You let me choose. Before I knew there was a choice."
+Looking at him: "When you stood unashamed with an weeping maid in the middle of the laneway, not caring who saw you but giving me room. When you asked my father. When you waited outside. When you walked me home and didn't say a word." She paused. "You let me choose. Before I knew there was a choice."
 
 Quietly: "I wanted you to choose me. Not the vow."
 
@@ -3813,7 +3747,7 @@ The King returned to England in July of 1115, and visited Stanwey in the thaw an
 
 Harold Red-Wolf, the son of Magnús, died two years later, peacefully, with Beatrice and Godfrey at his side. The staghound followed him, somehow, within the week—as if it always had.
 
-Stanwey was often warmly visited by Duchess Mathilda Fitzroy of Brittany. She and Beatrice became as true sisters, writing many letters, up until a boating accident.
+Stanwey was often warmly visited by Duchess Matilda Fitzroy of Brittany. She and Beatrice became as true sisters, writing many letters, up until the White Ship disaster of 1120.
 
 Queen Matilda of England lived until 1118, long enough to see her grandson—Beatrice and Godfrey's first child—and to hold him once. She told Beatrice, in her final months: "You were the best of my mistakes."
 
@@ -4259,7 +4193,7 @@ These activities help deepen engagement:
 - **Draw the goose chase** in the king’s hall.  
 - **Retell the river‑rescue** from Rauthulfr’s point of view.  
 - **Invent a new medieval insult** Henry might use (e.g., “sodden worm”).  
-- **Create a map** showing Stan‑Way, the Severn, and the king’s hall.
+- **Create a map** showing Stanwey, the Severn, and the king’s hall.
 
 ---
 
@@ -4786,22 +4720,14 @@ AK: *Regarding Goosie, Beatrice's late mother was actually the one that arranged
 
 # APPENDICES
 
-TIMELINE (CANONICAL)
+These are from the author's story notes, mainly to help coordinate the core story details. I thought these might be of interest to some readers.
 
----
 
-Here is the final, solidified master table—fully updated with 1114 as the fixed point, all ages recalculated, all events placed, and all hurdles integrated.
+## THE GOOSE BRIDE — CANONICAL TIMELINE
 
----
+### Character Birth Table Guide
 
-# THE GOOSE BRIDE — MASTER TIMELINE (FINAL)
-## *1114-1115 Revised (3) Edition*
-
----
-
-## Character Birth Table (Final)
-
-| Character | Status | Birth Year | Age at Meadow (c. 1103) | Age at Hall (20 Oct 1114) | Age at Wedding (Spring 1115) | Notes |
+| Character | Status | Birth Year | Age at Meadow (c. 1103) | Age at Hall (Aug 1114) | Age at Wedding (Spring 1115) | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Harold Red-Wolf** | Fic | **c. 1050** | ~53 | ~64 | ~65 | Warrior at Conquest (16); old but plausible |
 | **Beatrice's mother** | Fic | **c. 1077** | ~26 (dies 1109) | — | — | Married c. 1096 (age ~19) |
@@ -4819,7 +4745,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Lady Margaret** | Fic | c. 1085? | ~18 | **29** | ~30 | Beatrice's daily mentor |
 | **Goosie** | Fic | 1103 | 0 | **11** | ~12 | Hatched spring 1103 |
 
-## Historical Context — Mid‑August Daylight
+### Historical Context — Mid‑August Daylight
 
 | Factor | Value |
 | :--- | :--- |
@@ -4830,7 +4756,7 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Dusk** | ~8:00 PM |
 | **Full dark** | ~9:00 PM |
 
-## Fixed Historical Anchors
+### Fixed Historical Timeline Anchors
 
 | Date | Event | Type | Source |
 | :--- | :--- | :--- | :--- |
@@ -4844,251 +4770,48 @@ Here is the final, solidified master table—fully updated with 1114 as the fixe
 | **Early Aug 1114** | Campaign concludes; Welsh princes submit | Real | History |
 | **Mid-Aug 1114** | **Royal court at Rockingham Castle** | **Story Fixed Point** | Our anchor |
 | **Late Aug 1114** | Court moves to Westminster | Real | History |
-| **1–10 Sep 1114** | Westminster council; preparations for Normandy | Real | History |
-| **21 Sep 1114** | Henry crosses to Normandy | Real | History |
+| **Late Aug 1114** | Westminster council; preparations for Normandy | Real | History |
+| **Late Aug / Mid Sep 1114** | Henry crosses to Normandy | Real | History |
 | **1118** | Queen Matilda dies | Real | After story |
 | **1120** | White Ship disaster | Real | After story |
 
----
+### Master Timeline — Complete (1103-1115)
 
-## Master Timeline — Complete (1103-1115)
-
----
-
-### PART ONE: THE SEED (1103-1109)
-
-| Year | Date | Beatrice's Age | Event | Type | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **1103** | Spring | 5 | **Meadow encounter with boy (Godfrey, age 8)** | Fic | Boy vanishes; "My father owns all the geese" |
-| **1103** | Spring | 5 | Farm visit; acquire goose egg | Fic | Nurse: "my lady"; mother pays |
-| **1103** | Spring | 5 | Goosie hatches (hen surrogate) | Fic | Beatrice names her |
-| **1103-1108** | — | 5-10 | Mother lessons | Fic | Herbs, brewing, healing, settling disputes |
-| **1109** | Spring | 11 | **Mother dies** | Fic | Apple blossoms; Harold's grief begins |
-
----
-
-### PART TWO: THE YEARS BETWEEN (1109-1114)
-
-| Year | Date | Beatrice’s Age | Event | Type | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **1109-1114** | — | 11-16 | Beatrice runs manor | Fic | Harold declines; Goosie follows always |
-| **June–July 1114** | — | 16 | Henry’s Welsh campaign | Real | (off‑stage) |
-| **Early Aug 1114** | — | 16 | Campaign ends; Welsh princes submit at Shrewsbury | Real | Gruffudd ap Cynan, Owain ap Cadwgan |
-| **Mid-Aug 1114** | — | 16 | Royal court at Rockingham | Real | Hunting, councils, story begins |
-
----
-
-### PART THREE: THE GOOSE VOW (Mid‑August 1114)
-
-All times approximate, based on a typical royal day at a hunting lodge.
-
-| Date | Time | Event | Beatrice’s State | Attack | Defense | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon 15 Aug** | ~10:00 AM | Messenger arrives at Stanwey | Anxious | Purveyance | Beatrice decides to go | Harold worried |
-| **Tue 16 Aug** | 5:45 AM | Hunt departs Rockingham | — | — | — | “Frosty morning” (summer mornings can be cool) |
-| **Tue 16 Aug** | 9:30 AM | Hunt returns (failed) | — | — | — | Henry’s foul mood |
-| **Tue 16 Aug** | 9:30-10:30 AM | Political debate (Ch 7-9) | — | — | — | Brittany offer, Roger, the vow |
-| **Tue 16 Aug** | 10:30 AM | Beatrice arrives at lodge | Terrified | Sir Guy trips her | Goose chase; Henry laughs | Godfrey watches |
-| **Tue 16 Aug** | 10:45 AM | Henry recognizes Harold | Relieved | Sir Guy’s mockery | Henry shames Sir Guy | Queen observes |
-| **Tue 16 Aug** | 11:00 AM | Queen’s intervention, larder added | Unaware | — | Queen whispers vow | “Let it be recorded” |
-| **Tue 16 Aug** | 11:15 AM | Formal betrothal announced | (already gone) | — | — | Henry: “Would you rather the boy marry the goose?” |
-| **Tue 16 Aug** | 11:30 AM | Godfrey commanded to escort her | — | — | — | Henry: “Take her home” |
-| **Tue 16 Aug** | 11:45 AM | Godfrey catches Beatrice on road | Confused | — | Godfrey’s patience | Connection begins |
-| **Tue 16 Aug** | 12:30 PM | Stanwey arrival; Godfrey waits | Nervous | — | He waits outside | Harold watches |
-| **Tue 16 Aug** | 12:30-1:00 PM | Beatrice tells Harold | — | — | — | — |
-| **Tue 16 Aug** | 1:00 PM | Harold’s recognition (“wolf/tree”) | Confused | — | Harold pieces it together | “A wolf may find shade under a good tree” |
-| **Tue 16 Aug** | 1:30 PM | Godfrey called inside | — | — | — | Beatrice watches through window |
-| **Tue 16 Aug** | 1:30-2:00 PM | Godfrey asks Harold properly | Waiting | — | Harold says yes (to courting) | Private conversation |
-| **Tue 16 Aug** | 2:00-2:45 PM | Conversation, Goosie accepts | Joyful | — | Goose chooses him | “She knows who she is” |
-| **Tue 16 Aug** | 3:00 PM | Godfrey departs Stanwey | Hopeful | — | Promise to return | Afternoon |
-| **Tue 16 Aug** | 4:00 PM | Godfrey returns to Rockingham | — | — | — | Still daylight |
-| **Tue 16 Aug** | ~6:00 PM | Supper at Rockingham | — | — | — | Queen’s “long night” comment |
-
----
-
-### PART FOUR: KING’S VISIT TO STANWEY (Late August 1114)
-
-After the vow, Henry fulfills his promise to visit Harold. This visit likely occurs within a week of the Rockingham events.
-
-| Date | Event | Notes |
-| :--- | :--- | :--- |
-| **c. 20–25 Aug** | King Henry visits Stanwey | Harold and Henry reminisce; the “fathers’ bargain” is struck; the queen’s servant is offered; Henry announces his intention to go to Westminster and then Normandy. |
-
-### PART FIVE: FIRST COURT EXPOSURE (Early September 1114)
-
-The court moves to Westminster in late August; Beatrice’s first exposure happens as the court prepares for Henry’s departure.
-
-| Date | Day/Week | Event | Beatrice’s State | Attack | Defense | Who’s Doing What |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 1–3 Sep** | +2 | Beatrice arrives at Westminster | Nervous | Stares, whispers | Godfrey’s presence | Court watches |
-| **c. 4 Sep** | +2 | Meeting the half‑sisters (Avice & Eustacia) | Confused | Cool politeness, veiled insults | Beatrice misses half | Sisters: Avice (21), Eustacia (19) |
-| **c. 5 Sep** | +2 | First formal dinner | Overwhelmed | Wrong knife; snickers | Lady Margaret corrects | Margaret assigned (Queen’s doing) |
-| **c. 6 Sep** | +2 | Sir Guy’s first rumor | Unaware | Spreads whisper | Duchess (not yet) hears later | Sir Guy schemes |
-| **c. 7–10 Sep** | +2-3 | Daily tutelage with Lady Margaret | Learning | Small cruelties | Margaret’s teaching | “They test you. Ignore it.” |
-| **c. 8 Sep** | +2 | Half‑sister wine spill | Humiliated | Wine on her only gown | No reaction; Queen’s maid notices | Queen hears report |
-| **c. 10 Sep** | +3 | Godfrey visits Stanwey (weekend) | Relieved | — | Time together; Goosie accepts | Harold watches |
-
----
-
-### PART SIX: STANWEY INTERLUDE & HENRY’S DEPARTURE (Mid‑September 1114)
-
-| Date | Week | Event | Notes |
+| Timeframe | Key Events | Location | Notes |
 | :--- | :--- | :--- | :--- |
-| **c. 12–18 Sep** | +4 | Godfrey at Stanwey (extended) | Helping with manor, courtship deepens |
-| **c. 14 Sep** | +4 | Goosie’s full acceptance | Goose chooses Godfrey |
-| **c. 16 Sep** | +4 | Harold’s health wobbles | Frailty visible |
-| **21 Sep** | — | **Henry departs for Normandy** | Off‑stage; court now under Queen Matilda’s regency |
-| **c. 22–30 Sep** | +5 | Court remains at Westminster | Beatrice continues her exposure; rumours begin |
-
----
-
-### PART SEVEN: CHRISTMAS COURT & DUCHESS VISIT (December 1114)
-
-| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 16 Dec** | +8 | Court assembles for Christmas | Overwhelmed | More nobles, more scrutiny | Godfrey constant | Half-sisters poised |
-| **c. 18 Dec** | +8 | **Duchess of Brittany arrives** | Curious, wary | Comes suspicious | Beatrice's plain honesty | Duchess watches |
-| **c. 19 Dec** | +8 | Half-sisters whisper to Duchess | Unaware | "She's vulgar, ignorant" | Duchess makes up own mind | Sisters overplay hand |
-| **c. 20 Dec** | +9 | **Garden walk with Duchess** | Open, herself | — | Memory connection (oblique) | Duchess softens |
-| **c. 21 Dec** | +9 | Duchess observes Beatrice at dinner | Nervous | Sisters' subtle digs | Beatrice's dignity; Duchess notes | Queen also watches |
-| **c. 22 Dec** | +9 | Duchess and Queen private conversation | — | — | Duchess: "She's real" | Queen: "I've noticed" |
-| **c. 23 Dec** | +9 | Yule feast | Public test | Sisters plan something | Duchess sits near Beatrice | Silent support |
-| **c. 24-26 Dec** | +9-10 | Christmas celebrations | Joyful, then sad | — | Duchess's warmth | Duchess must leave |
-| **c. 27 Dec** | +10 | Duchess departs | Loss felt | Sisters "regroup like tide" | Duchess promises to write | Godfrey: "She liked you" |
-| **c. 28-31 Dec** | +10 | New Year's Eve court | Weary | Whispers return | Godfrey's steadiness | Half-sisters plan escalation |
-
----
-
-### PART EIGHT: THE DARKEST (January 1115)
-
-| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 2-5 Jan** | +11 | Post-holiday court | Low | Whispers intensify | Lady Margaret's kindness | Sir Guy returns |
-| **c. 6 Jan** (Epiphany) | +11 | Feast of Epiphany | Public pressure | Sisters mock her speech | Beatrice stumbles, recovers | Queen observes |
-| **c. 8 Jan** | +11 | Sir Guy's legal challenge | Shaken, scared | Claims Stanwey should escheat | Roger dismisses (Queen's influence?) | Roger: "The betrothal stands" |
-| **c. 10 Jan** | +12 | Rumors from Brittany | Anxious | "Agnes still available" | Duchess's letter arrives privately | Duchess strengthens |
-| **c. 12 Jan** | +12 | **Harold collapses** (messenger arrives) | Terrified | His health fails | Beatrice goes immediately | Court whispers: "She left?" |
-| **c. 13-18 Jan** | +12-13 | Beatrice at Stanwey with Harold | Grieving | Court interprets absence as weakness | Godfrey visits; helps | Harold recovers slowly |
-| **c. 19 Jan** | +13 | Returns to court | Vulnerable | Sisters' cruelty peaks | Too tired to react | They mistake exhaustion |
-| **c. 20 Jan** | +13 | **Overhears cruelty** | Crushed | "She thinks she's one of them now. The goose girl." | No defense—she runs | Sisters laughing |
-| **c. 20 Jan** (afternoon) | +13 | **Window seat with Goosie** | Hollow | — | Goosie's warmth | No one knows where she is |
-| **c. 20 Jan** (evening) | +13 | **Queen finds her** | Shattered | — | Queen sits with her | Queen alone? |
-| **c. 20 Jan** (night) | +13 | **Queen's speech** | Weeping→grounded | — | "Love him, but lean on the Deep" | Queen reveals "Edith" |
-
----
-
-### PART NINE: QUEEN'S SECRET PROTECTION (Late January - February 1115)
-
-| Date | Week | Event | Beatrice's State | Attack | Hidden Defense | Visible Defense |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 22 Jan** | +14 | Queen ensures Lady Margaret stays | Strengthened | — | Queen's instruction | Margaret's continued presence |
-| **c. 23 Jan** | +14 | Half-sisters plan for Candlemas | Unaware | Plan to embarrass | Queen's maid overhears | Beatrice warned quietly |
-| **c. 24 Jan** | +14 | Godfrey senses something | Confused | — | — | He asks; she says nothing yet |
-| **c. 25 Jan** | +14 | Beatrice tells Godfrey (partially) | Relieved | — | He listens | He: "I'm here" |
-| **c. 26 Jan-1 Feb** | +14-15 | Quiet period at Stanwey | Healing | — | Time with Harold, Goosie | Godfrey visits |
-| **c. 2 Feb** (Candlemas) | +15 | **Candlemas Feast** | Nervous but ready | Sisters' trap sprung—but fails | Queen's warning worked | Beatrice prepared; sisters confused |
-| **c. 3-10 Feb** | +15-16 | Sir Guy's final attempt | Tense | Spreads rumor about Beatrice's "past" | Duchess's letter read at court | Duchess's public support |
-| **c. 12 Feb** | +16 | Half-sisters realize tide turning | Cautious | They begin to be polite | — | Queen's nod to Beatrice at dinner |
-
----
-
-### PART TEN: PUBLIC TURN (February - March 1115)
-
-| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 14 Feb** | +17 | **Queen's public acknowledgment** | Vindicated, tearful | Sisters forced to curtsey | Queen nods to Beatrice at feast | Whole court sees |
-| **c. 15 Feb** | +17 | Herb gift discovered | Surprised | — | Queen's ladies find herbs; story spreads | Queen: "For sleepless nights" |
-| **c. 16-28 Feb** | +17-19 | Weeks of growing acceptance | Rising confidence | Sporadic whispers | Godfrey, Margaret, Queen's visible favor | Harold's health improving |
-| **c. 1 Mar** | +19 | Harold well enough to visit court | Joyful, proud | — | Father sees her in her element | Harold meets Queen? |
-| **c. 2-15 Mar** | +19-21 | Wedding preparations | Busy, happy | Last small cruelties | Everyone too busy | Court prepares |
-
----
-
-### PART ELEVEN: WEDDING (Spring 1115)
-
-| Date | Week | Event | Beatrice's State | Attack | Defense | Who's Doing What |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **c. 20 Apr** (Easter season) | +26 | **Wedding day** | Triumphant, emotional | Last whispers, last doubts | Goose leads; Queen smiles; Duchess's letter read | Everyone present |
-| **c. 20 Apr** | +26 | Procession | Pure joy | — | Goose waddles ahead | Crowd laughs, then cheers |
-| **c. 20 Apr** | +26 | Feast | Celebrating | Sir Guy absent? | — | Harold watches, wet-eyed |
-| **c. 21 Apr+** | +27+ | Aftermath | Content, cautious | — | New life begins | Godfrey: "Now what?" |
-
----
-
-## Attack Summary by Source
-
-| Source | Attack Type | Timing | Counter |
-| :--- | :--- | :--- | :--- |
-| **Half-sisters (Avice & Eustacia)** | Social cruelty, whispers, small humiliations, planned traps | Nov 1114 - Feb 1115 | Queen's protection, Lady Margaret, Beatrice's dignity, Duchess's support |
-| **Sir Guy de Montfort** | Physical (trip), verbal mockery, legal challenge, rumors | Oct 1114, Nov 1114, Jan 1115 | Henry's shaming, Roger's dismissal, Duchess's letter |
-| **Court whisperers** | Constant erosion of reputation | Nov 1114 - Feb 1115 | Duchess's endorsement, Queen's public nod |
-| **Brittany faction** | Political counter-offer (Agnes of Brittany) | Jan 1115 | Duchess's letter, Queen's diplomacy |
-| **Harold's health** | Emotional drain, potential loss | Nov 1114, Jan 1115 | Beatrice's care, Godfrey's help, eventual recovery |
-| **Beatrice's own doubt** | Internal erosion | Jan 1115 | Queen's speech, Godfrey's constancy, Goosie's love |
-
----
-
-## Peaks and Valleys (Emotional Arc)
-
-| Date | Event | Emotional State (1-10) |
-| :--- | :--- | :--- |
-| **16 Aug 1114** | Betrothal, walk, Harold’s blessing | 8 |
-| **1–10 Sep 1114** | First court, half‑sisters | 5 |
-| **5 Sep 1114** | Dinner humiliation | 3 |
-| **12–18 Sep 1114** | Stanwey with Godfrey | 9 |
-| **18–27 Dec 1114** | Duchess visit, Christmas | 8 |
-| **28 Dec 1114 – 10 Jan 1115** | Duchess leaves, whispers, rumors | 4 |
-| **12 Jan 1115** | Harold collapses | 2 |
-| **20 Jan 1115** | Overhears cruelty | 1 |
-| **20 Jan 1115 (night)** | Queen finds her, Queen’s speech | 4 |
-| **22 Jan – 1 Feb 1115** | Queen’s secret protection | 5 |
-| **2 Feb 1115** | Candlemas trap fails | 6 |
-| **14 Feb 1115** | Queen’s public acknowledgment | 9 |
-| **20 Apr 1115** | Wedding | 10 |
-
-
----
-
-## Key Changes from Previous Timeline (2)
-
-| Element | Old (1113) | New (1114/1115) |
-| :--- | :--- | :--- |
-| **King's Hall date** | Autumn 1113 | **Tuesday, 20 October 1114** |
-| **Beatrice's age at Hall** | 15 | **16** |
-| **Godfrey's age at Hall** | 18 | **19** |
-| **Harold's birth** | 1055 | **1050** (warrior credibility) |
-| **Courtship duration** | ~1 year | **6 months** (Oct 1114 - Apr 1115) |
-| **Wedding date** | Summer 1114 | **Spring 1115** |
-| **Duchess visit** | Anytime 1114 | **Christmas Court 1114** |
-| **Half-sisters introduced** | Implied | **Avice (21), Eustacia (19)** |
-| **Lady Margaret** | Implied | **Age 29, daily mentor** |
-| **Queen's speech** | — | **20 Jan 1115** (exact) |
-| **Candlemas trap** | — | **2 Feb 1115** |
-
-## Key Changes from Previous Timeline (3)
-
-| Element | Old (Oct 1114) | New (Aug 1114) |
-| :--- | :--- | :--- |
-| **King’s Hall date** | Tuesday, 20 October 1114 | **Tuesday, 16 August 1114** |
-| **King’s visit to Stanwey** | Late October | **Late August 1114** |
-| **Court at Westminster** | November–December | **September–December 1114** |
-| **Henry’s departure** | Not mentioned | **21 September 1114** |
-| **Beatrice’s age** | 16 | 16 (unchanged) |
-| **Courtship duration** | 6 months | **8 months** (Aug 1114 – Apr 1115) |
-| **Wedding date** | Spring 1115 | Spring 1115 (unchanged) |
+| **1103** | Encounter with a boy | Meadow | Boy vanishes; "My father owns all the geese" |
+| **1103** | acquiring a goose egg | River Bend Farm | Nurse: "my lady"; mother pays |
+| **1103** | Goosie hatches (hen surrogate) | Stanwey Hall | Beatrice names her |
+| **1103-1108** | Mother lessons | Stanwey Estate | Herbs, brewing, healing, settling disputes |
+| **1109** | Mother dies | Stanwey Hall | Apple blossoms; Harold's grief begins |
+| **1109-1114** | Beatrice runs manor | Stanwey Hall | Harold declines; Goosie follows always |
+| **Mid‑Aug 1114** | Goose vow, betrothal, road home, Godfrey meets Harold | Rockingham Castle / Stanwey | Chapters 1–12 |
+| **Late Aug 1114** | King Henry visits Stanwey; cup ritual; departure for Westminster | Stanwey | Chapters 15–16 |
+| **Late Aug 1114** | Court moves to Westminster; Henry departs for Normandy (off‑stage) | Westminster | Chapter 17 (first court exposure) |
+| **Sep–Dec 1114** | Beatrice’s court life; half‑sisters, Duchess visit, charity work | Westminster | Chapters 17–18 (part) |
+| **Early Jan 1115** | Queen’s window seat conversation (Edith); legal hearing begins | Westminster | Chapter 18 |
+| **12 Jan 1115** | Harold collapses; hearing dismissed; Beatrice leaves for Stanwey | Westminster → Stanwey | Chapter 18 |
+| **13–18 Jan 1115** | Capture at Stanwey; Godfrey’s rescue; Sir Guy arrested | Stanwey / Chapel | Chapter 18 |
+| **19 Jan 1115** | Beatrice returns to court; overhears half‑sisters | Westminster | Chapter 18 |
+| **Late Jan – Feb 1115** | Queen’s protection; Candlemas; legal judgment; Sir Guy banished | Westminster | Chapter 19 |
+| **14 Feb 1115** | Queen’s public declaration at St. Valentine’s feast | Westminster | Chapter 20 |
+| **1 Mar 1115** | Harold visits court | Westminster | Chapter 20 |
+| **March–April 1115** | Wedding preparations | Westminster / Stanwey | Chapter 21 |
+| **Spring 1115** | Wedding | Stanwey | Chapter 22 |
+| **After 1115** | Harold’s death (c. 1117); Queen Matilda dies (1118); White Ship (1120) | Various | Epilogue |
 
 ------------------------------
 
-## Stanwey Estate (Fictional)
+## Stanwey Estate
 
-Stanwey: Thegn’s Estate Profile (c. 1114)
+Stanwey: Fictional Thegn’s Estate (circa 1114)
 Stanwey (Old English: Stān "Stone" + Weg "Way/Road") is a strategic royal holding held in capite (directly from the King). It sits atop the ancient Roman industrial corridor of Rockingham Forest, serving as a critical source of iron and timber for the Crown. 
-It was a thorn in the side of the late Sherrif of Nottingham as it was under the King's direct jurisdiction not his, unlike much of the rest of the lands.
+It was a thorn in the side of the late Sheriff of Nottingham, William Peverel the Elder, as it was under the King's direct jurisdiction not his, unlike much of the rest of the lands.
 
 ------------------------------
 I. Location & Geography
 
-* GPS Centre (example site only): 52.5694, -0.6095
+* Approximate GPS Coordinates: 52.5694, -0.6095
 * Distance to Rockingham Castle: ~5.1 miles (Southwest)
 * Proximity: ~0.8 miles North of Laxton; ~1.2 miles West of Wakerley.
 * The Roman Road: The estate is bisected by Margary 571, the ancient road once linking forest iron-works to the Roman town of Durobrivae.
@@ -5135,7 +4858,7 @@ While Harold enjoys the King's favour, Stanwey is a target. William Peverel the 
 Peverel the Elder was a political mover and shaker in court but the Younger much less so, aged about 20-30 in 1114.
 During this era, the Sheriff was a powerful crown appointee responsible for law enforcement, judicial matters, and tax collection across both Nottinghamshire and Derbyshire. In 1114, this position also included the custody of the Royal Forests and often the command of Nottingham Castle itself. 
 Peverel’s family founded Lenton Priory, which became the wealthiest and most powerful religious house in Sherwood Forest. 
-Expansion of Forest Law: When the Younger Peverel was exiled in 1155 and his lands were seized by King Henry II, the Crown took direct control of his estates. This allowed the King to significantly expand Forest Law over the region—a move that caused massive local resentment and is a central theme in Robin Hood stories. 
+Robin Hood: When the Younger Peverel was exiled in 1155 and his lands were seized by King Henry II, the Crown took direct control of his estates. This allowed the King to significantly expand Forest Law over the region—a move that caused massive local resentment and is a central theme in Robin Hood stories. 
 
 ---
 
@@ -5276,6 +4999,84 @@ Matilda of Scotland was a "bridge-builder" who successfully navigated the volati
 7. **The cup ritual**: It encapsulates the climax of multiple arcs: Beatrice’s agency, Godfrey’s action, Henry’s recognition, Harold’s release. It is a perfect “show, don’t tell” moment.
 
 8. **Conspiracy subplot**: Serves as external pressure that forces Godfrey to act, and gives Sir Guy a motivation rooted in historical grievance rather than simple villainy. The confrontation scene is the active payoff.
+
+---
+
+
+## THE GOOSE BRIDE — THE CHARACTERS
+
+TODO - update with missing characters
+
+---
+
+### The King and his Family
+
+| Character | Identity / Purpose | 
+| :--- | :--- | 
+| **King Henry I** | King of England, Duke of Normandy. Volatile, witty, dangerous, but ultimately just. Father of Godfrey and William. His rash vow drives the plot. |
+| **Queen Matilda of Scotland** | Henry's wife. Born Edith of Scotland, with Saxon heritage. Politically astute, protective of her son William, but capable of growth. Beatrice's unexpected ally. | 
+| **William Adelin** | Henry's legitimate son and heir, age 12. Queen Matilda's motivation for her initial opposition to Godfrey's match. | 
+| **Robert Curthose** | Henry's imprisoned older brother. The man Harold saved from the Severn. Never appears, but his rescue is the source of the old debt. | 
+| **Godfrey FitzRoy** | Deuteragonist. Illegitimate son of King Henry I, age 19. A watcher, a waiter, a listener. Has been called "shadow" and "coin" his whole life. | 
+| **Duchess Matilda FitzRoy** | Henry's daughter, Godfrey's full-sister. Duchess of Brittany by betrothal (marries 1118). Sharp, observant, becomes Beatrice's friend. | 
+| **Avice** | Godfrey's jealous half-sister (fictional), age 21. Dark-haired, with a smile that never reaches her eyes. Represents court hostility. | 
+| **Eustacia** | Godfrey's younger half-sister (fictional), age 19. Fairer, quicker to laugh, but the laughter is often at someone's expense. Pairs with Avice. | 
+
+---
+
+### Nobles over the sea (Mentioned Only)
+
+| Character | Identity / Purpose | 
+| :--- | :--- | 
+| **Conan, Duke of Brittany** | Father of Agnes. Proposes the match between Agnes and Godfrey. |
+| **Agnes of Brittany** | Conan's daughter, offered as Godfrey's bride with a dowry of 10,000 marks. The "Brittany threat" throughout the courtship. | 
+| **Alain** | Conan's father, retiring to a monastery. Supports the match. | 
+| **Giselberthe of Flanders** | Henry I's maternal aunt. |
+
+---
+
+### The Saxons of Stanwey
+
+| Character | Identity / Purpose | 
+| :--- | :--- | 
+| **Harold Red-Wolf** | Beatrice's father. A Saxon thegn, once a warrior who rode with kings and saved Henry's brother from drowning. Now old and frail, but sharp-eyed. | 
+| **Beatrice's Mother** | (Name unknown) Harold's wife, died when Beatrice was 11. Formerly at court? Taught Beatrice everything: herbs, brewing, healing, people. | 
+| **Beatrice** | Protagonist. Daughter of Harold Red-Wolf. A Saxon girl of 16 who runs her father's manor, speaks her mind, and loves her goose Goosie above almost all else. | 
+| **Goosie** | Beatrice's goose. Hatched from an egg Beatrice acquired as a child. Her mother's last gift. Comic relief, emotional barometer, and plot engine. | 
+
+---
+
+### Knights and Nobles
+
+| Character | Identity / Purpose | 
+| :--- | :--- |
+| **Lady Margaret** | Beatrice's daily mentor at court, age 29. Assigned by the Queen (likely). Experienced, patient, quietly kind. Teaches Beatrice court etiquette and survival. | 
+| **Sir Guy de Montfort** | Young Norman knight, age 24. A bully, petty and cruel. Insulted by Beatrice at a fair months before the story. Wants Stanwey's lands. |
+| **Roger of Salisbury** | Henry's Justiciar, age 49. The second most powerful man in England. Keeper of the ledger, sees people as numbers. Cold, efficient, not cruel—just mathematical. | Chapter 9 — The Ledger and the Lion |
+| **Court Whisperers** | Unnamed nobles, ladies, and servants who spread rumors and erode Beatrice's reputation. Represent the system's constant pressure. | 
+
+---
+
+### Minor Characters - Royal Court
+
+| Character | Identity / Purpose | 
+| :--- | :--- | 
+| **The Clerk** | Royal clerk who records the king's words. | 
+| **The Steward** | Royal household steward who clears space for the Queen. | 
+| **The Royal Marshal** | Marked a gander with the king's seal. Never appears directly. | 
+
+### Minor Characters - Stanwey Farms and Beyond
+
+| Character | Identity / Purpose | 
+| :--- | :--- | 
+| **The Nurse** | A former wet nurse, age 39. Owns a farm by the river bend where Goosie's egg came from. Gruff, wise. | 
+| **The Reeve** | Stanwey's village headman. Harold considers sending him with the goose tribute. | 
+| **Staghound** | Harold's loyal dog. Always by the fire at Stanwey. Dies shortly after Harold. | 
+| **The Priest** | Arranged the candles at Beatrice's mother's deathbed. | 
+| **Farmer's Wife** | One of the farmers Beatrice visits while searching for a bird. Her flock was taken by murrain. | 
+| **Tenant Farmer** | Another farmer Beatrice visits. His birds were taken by the Abbot's tithe collector. | 
+| **The Old Woman** | Speaks the proverb at the wedding. Represents folk wisdom. | 
+| **The Abbot** | (Unnamed) Tithe collector who stripped local farms. Never appears directly. | 
 
 ---
 
@@ -5982,6 +5783,8 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **Rockingham** (A massive Royal Forest in the middle of England, the King’s private hunting ground)
 - **Westminster** (A village near London, home to the King’s Great Hall and the Abbey)
 - **Devon** (A wild, hilly county in the far southwest of England, known for red earth and tin mines)
+- **Exeter** (The largest fortified city in Devon and the gateway to the west, pronounced ‘Ex-eh-ter’)
+- **Sutton** (A small, quiet fishing village and harbor in Devon that later became the city of Plymouth)
 - **Stanwey** (The quiet manor and farm estate that Beatrice calls home, pronounced ‘Stan-way’ (Fictional))
 
 ### The Waterways
@@ -5994,3 +5797,8 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 
 ---
 
+# Story Editions
+
+1. Original 'fairytale'
+2. 'School Reader' expanded version.
+3. Novella edition (this)
