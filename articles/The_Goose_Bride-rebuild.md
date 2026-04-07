@@ -1855,7 +1855,7 @@ Godfrey walked toward the door and Goosie led the way inside.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 15 - The Blessing
+### The Blessing
 
 The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
 
@@ -3731,9 +3731,10 @@ About that time, certain other people found that King Henry indeed had a long ha
 
 For their meddling, some were cast out from the sight of green England, some found the world reduced to the four walls of the King’s iron-barred rooms, and some paid a higher price still.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-## Chapter 42 -— Feast of St. Valentine (14 February 1115)
+
+## Chapter 42 - Feast of St. Valentine (14 February 1115)
 
 The feast was crowded, noisy, suffocating. Beatrice moved through it as she always did now—quietly, carefully, watching.
 
@@ -3916,9 +3917,11 @@ Queen Matilda of England lived until 1118, long enough to see her grandson—Bea
 
 The half-sisters married well and moved away. Avice wrote once, years later, a letter that might have been an apology. Beatrice answered it warmly. They never met again.
 
-Sir Guy de Montfort died on crusade, forgotten by all but an obscure chronicler who noted his name in passing.
+Sir Guy de Montfort, a disgraced nephew of Amaury III de Montfort, Count of Évreux, never regained his family’s favour. He died on crusade, forgotten by all but an obscure chronicler who noted his name in passing.
 
 Godfrey never became a king. He never wanted to. He held Stanwey, served his father faithfully, and raised his children and grandchildren to watch the skies and wait and see the seasons.
+
+Of the other identified conspirators, the grey‑haired agent vanished like smoke. The Pied Merchant was arrested on charge of keeledge, stripped of his silver, and deported to Flanders. Lord Everard de la Roche sailed to Normandy with the King, but his heart remained with the plotters; he died in the rebellion of 1118, sword in hand, fighting for William Clito. 
 
 And Goosie lived to be very old indeed, long past the time when geese should die. On warm days, she could still be found in the herb garden, waddling slowly behind a woman who had once been a girl with a goose, a surprise to a king with a vow, on a road that led to the home she loved.
 
@@ -3955,1312 +3958,526 @@ about what the story made you feel.***
 
 
 
-
-
-
-
-
-
-
-TO DO (TODO)
-
-==========================================================
-
-ONE.
-
-Based on the CinemaTherapy lens and the goal of a film adaptation, here’s what to consider changing or emphasizing:
-
----
-
-### 1. **Pacing & Structure**
-- **Current:** The story is a deliberate slow burn, with layered scenes (cart gossip, lane conversation) that build emotional weight.  
-- **Film Adaptation:** You’ll need to maintain that rhythm but possibly compress the cart scene slightly—modern audiences might lose patience, but the emotional payoff justifies the pacing.  
-- **Action:** Keep the cart scene’s layered gossip, but consider trimming the most repetitive beats to tighten runtime.
-
----
-
-### 2. **Conspiracy Subplot (Sir Guy, Beaumont, Whispers)**
-- **Current:** The conspiracy is seeded (Clito, Bellême, whispers) but its climax is the legal hearing and Sir Guy’s banishment.  
-- **Film Adaptation:** The payoff needs to be **active**. Jonathan would want a scene where Godfrey or Beatrice *does* something to expose or thwart the plot—not just the king’s judgment.  
-- **Action:** Ensure the legal hearing includes Beatrice’s public declaration (already planned). Add a moment where Godfrey confronts Sir Guy or a Beaumont agent, tying the whispers directly to his growth from watcher to actor.
-
----
-
-### 3. **Godfrey’s Active Side**
-- **Current:** His Welsh mediation is mentioned but not dramatized; his help at Stanwey is shown.  
-- **Film Adaptation:** Alan would want to *show* Godfrey in action, not just tell. A brief flashback or a visual reference (e.g., Henry telling the story over a fire with a distant shot of a young man riding into a chieftain’s hall) would make it cinematic.  
-- **Action:** Consider a short, stylized flashback when Henry recounts the tale, or integrate it into the king’s visit as a visual moment (e.g., a tapestry or a map with a figure moving toward Wales).
-
----
-
-### 4. **Half‑Sisters’ Depth**
-- **Current:** Avice and Eustacia are largely cruel, with only a hint of grudging respect later.  
-- **Film Adaptation:** Jonathan would want a glimpse of their motivation—perhaps a scene where they express feeling overlooked, or a moment where Beatrice sees their vulnerability.  
-- **Action:** Add a brief exchange where they confess envy or fear of being forgotten, making their later curtsey feel earned.
-
----
-
-### 5. **Historical Density**
-- **Current:** Purveyance, escheat, Welsh campaign, Montfort ties—all historically accurate but potentially overwhelming.  
-- **Film Adaptation:** Alan would advise trusting the audience but ensuring the stakes are always personal. Every historical detail should tie directly to character: Sir Guy’s pursuit of Stanwey, Harold’s royal favour, Henry’s succession anxiety.  
-- **Action:** In dialogue, clarify that the king’s departure for Normandy means the queen is in charge—this is key for the Westminster court scenes.
-
----
-
-### 6. **Visual Storytelling Enhancements**
-- **Current:** The story uses strong visual beats (charcoal on nose, cup ritual, goose acceptance).  
-- **Film Adaptation:** These are perfect for cinema. Alan would likely want to amplify the cup ritual: slow, deliberate, with close‑ups on Beatrice’s hand, Godfrey’s stillness, Henry’s recognition.  
-- **Action:** Ensure the cup scene is the emotional climax of the king’s visit, not rushed.
-
----
-
-### 7. **Ending & Tagline**
-- **Current:** The epilogue ends with “Go talk to someone you love about what the story made you feel.”  
-- **Film Adaptation:** This is pure CinemaTherapy—it’s a call to connection that Jonathan often uses. It’s perfect for the credits roll or a post‑credits card.  
-- **Action:** Keep it exactly as written.
-
----
-
-### Summary of Needed Changes
-
-| Element | Action |
-|--------|--------|
-| **Pacing** | Maintain slow burn; trim repetitive beats in cart scene. |
-| **Conspiracy** | Ensure active confrontation (Godfrey vs. Sir Guy) in legal hearing or earlier. |
-| **Godfrey’s active side** | Add visual flashback or brief dramatization of Welsh ride. |
-| **Half‑sisters** | Add one brief scene showing their motivation (jealousy/fear). |
-| **Historical density** | Tie all political details directly to character stakes. |
-| **Cup ritual** | Make it the visual and emotional centerpiece of the king’s visit. |
-| **Tagline** | Keep; it’s thematically perfect. |
-
-None of these require massive rewrites—they’re small adjustments that align the story with what CinemaTherapy celebrates and what a film adaptation needs. The story already has the emotional truth, healthy relationships, and earned agency that Jonathan would champion; these tweaks will make it even more cinematic and psychologically resonant.
-
----
-
-
-TWO.
-
-Let’s consolidate **all planned changes** from your notes and our discussions into a single master list, with precise chapter/scene locations and status.
-
-I’ll structure it by chapter, using your existing chapters as anchors (Chapters 1–22 plus the Epilogue). I’ll note which changes are already implemented (from your “Implemented Changes” section) and which are still to be done, including the new scenes from the “Revised Plan – Point 1” and the “Plan to Address the Gaps.”
-
----
-
-## Master Change List – The Goose Bride
-
-### Early Chapters (1–5)
-
-| Chapter | Change | Status | Notes |
-|---------|--------|--------|-------|
-| **After Chapter 5** | New chapter: **“The Weight of Stanwey”** (Chapter 5½) | **Draft written** (user has it) | Establishes pre-Godfrey situation: Harold’s matchmaking, Beatrice’s reluctance, Sir Guy as suitor, overheard greed, her dismissal of him. Introduces estate dependents, stakes. |
-| **Chapter 5½** | Sir Guy’s backstory expanded (via later addition) | **Planned** | Already have a separate backstory scene (Chapter 8.5) but could integrate some into this chapter to avoid info-dump. We’ll track it separately. |
-
----
-
-### Chapters 6–9 (Crisis & Vow)
-
-| Chapter | Change | Status | Notes |
-|---------|--------|--------|-------|
-| **Chapter 8.5 (new)** | **“The Root” – Sir Guy’s backstory** | **Implemented** (user’s TODO #5) | Added scene explaining his father’s death, mother’s comparisons, his need to prove himself. Places after his appearance in Chapter 8 or 9. |
-| **Chapter 9 (end)** | **King’s vow proclaimed** | Existing | No change, but ensure it’s clear the vow is public. |
-| **Chapter 10** | **Queen’s motivation hint** | To be enhanced | Add a line where the Queen, after sending Beatrice away, reflects that she’ll watch the girl. Seeds later conversion. |
-
----
-
-### Chapters 11–14 (Road Home, Harold’s Knowledge)
-
-| Chapter | Change | Status | Notes |
-|---------|--------|--------|-------|
-| **Chapter 11** | **Walk home** – remove any “secret” implication | **To be revised** | Ensure Godfrey does not hide the betrothal. He can mention the king’s proclamation but not the backstory; that’s for Harold to explain. |
-| **Chapter 13** | **Godfrey tells Harold directly about the vow** | **Implemented** (from user’s notes, “Harold’s knowledge clarified”) | Harold’s reaction: anger, then acceptance with condition that Godfrey swear to protect Stanwey. Add line: “Love can grow from honour; honour rarely grows from love alone.” |
-| **Chapter 14** | **Harold‑Beatrice private talk** | **To be added** (as part of father‑daughter tension) | Harold withholds full blessing; expresses fear she’ll be swallowed by court. Beatrice chooses to go anyway. |
-
----
-
-### Chapters 15–17 (Court Exposure – Revised Flow)
-
-These chapters will be restructured per your earlier plan. I’ll list the new scenes in order.
-
-| Chapter | Scene / Change | Status | Notes |
-|---------|----------------|--------|-------|
-| **Chapter 15** | Garderobe, Margaret, Goosie revealed, letter home | Existing | Keep as is. Add small extension to letter for “breathing” (already in your text). |
-| **Chapter 15** | Morning walk with Margaret (existing) | Existing | Keep. |
-| **Chapter 15** | Encounter with half‑sisters (Avice/Eustacia) – “King’s newest curiosity” | Existing | Already in your text. They’re introduced. |
-| **Chapter 15** | **Clarify half‑sisters’ parentage** | **Implemented** (user’s TODO #2) | Add line after: “Later, Beatrice learned they were Godfrey’s half‑sisters too…” (already in your text). |
-| **Chapter 16** | **Morning lessons with Margaret and maids** | **To be added** (new scene) | Table manners, cutlery, who to curtsey to. Sets up formal dinner. |
-| **Chapter 16** | **Evening mingling – overhear vow** | **To be added** (new scene) | Beatrice overhears Avice/Eustacia discussing the vow: “any kitchen maid…” This is Step 1 of vow revelation. |
-| **Chapter 16** | **First Formal Dinner** (wrong cutlery) | Existing | Keep, but Beatrice now knows the vow. |
-| **Chapter 16** | **After‑dinner debrief with Margaret** | **To be added** (new scene) | Margaret explains who the sisters are, confirms the vow, advises Beatrice to talk to Godfrey. (Step 2) |
-| **Chapter 16** | **Garden scene – Beatrice confronts Godfrey** (two questions) | **To be added** (new scene) | Step 3 of vow revelation. Use the two‑question dialogue you outlined. Godfrey’s honesty, his “grateful it was you” line. |
-| **Chapter 16** | **A day passes – reconciliation** (next day) | **To be added** (new scene) | Step 4: they apologize; he explains his silence; Lady Margaret overhears. |
-| **Chapter 17** | **Brief interlude** – “time passes” | **To be added** (short paragraph) | Transition. |
-| **Chapter 17** | **Wine spill** (existing) | Keep | Now placed after the reconciliation. |
-| **Chapter 17** | **Queen observes Beatrice’s composure** | **To be expanded** | Add a line: “Interesting. She learns.” (already in your text) – we can expand to show Queen’s growing interest. |
-| **Chapter 17** | **Lady Margaret reports to Queen** (off-stage or brief scene) | **To be added** | Step 5: Margaret tells Queen what she overheard (Beatrice defending the king’s word). |
-| **Chapter 17.5 (new)** | **“A Small Victory” – Adela’s apology** | **Implemented** (user’s TODO #2) | Adela’s half-apology after Queen’s protection begins. |
-| **Chapter 17** | **Queen’s private conversation with Godfrey** | **To be added** | Step 6: Queen’s apology to Godfrey, with the dialogue you wrote. Place before Chapter 20. |
-
----
-
-### Chapter 18 – The Darkest (Harold’s Illness)
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| Add Beatrice’s interiority (window seat doubts) | **Implemented** (user’s TODO #4) | Already added. |
-| Possibly move Harold’s illness earlier? | Keep as is | It’s in Chapter 18. |
-
----
-
-### Chapter 19 – The Legal Hearing (Expanded)
-
-| Scene / Change | Status | Notes |
-|----------------|--------|-------|
-| **Sir Guy’s legal challenge arrives** (off-stage) | To be replaced with public hearing | Replace off-stage dismissal with full hearing scene. |
-| **Public hearing in King’s hall** | **To be added** | Combine climax: Sir Guy argues escheat and attacks vow as rash. Godfrey defends the marriage and Stanwey. Beatrice speaks briefly. Queen supports. Sir Guy humiliated, banished. |
-| **Half‑sisters’ final confrontation** | **To be added** | After hearing, they attempt one last slight; Beatrice delivers quiet devastating line; they curtsey. |
-| **Godfrey’s agency – scene with King** (before or after) | **To be added** | Godfrey tells Henry he would have chosen Beatrice anyway. This could be before the hearing, to show his resolve. |
-
----
-
-### Chapter 20 – Queen’s Public Protection
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| Queen’s public declaration | Existing | Keep. |
-| **Add mention of Queen’s overheard report** | Already integrated via Step 5 | The catalyst is now shown (Margaret’s report, her talk with Godfrey). |
-
----
-
-### Chapter 21 – Night Before Wedding & Candlemas Trap
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| **Beatrice’s declaration** – revised “lantern” speech | **Implemented** (user’s TODO #1) | Already in text. |
-| **Candlemas trap – second attempt by sisters** | **Implemented** (user’s TODO #2) | Already in text (they fail, Queen’s protection). |
-| **Add mention that Adela was the one who suggested the servant** | Already in text | From user’s notes. |
-
----
-
-### Chapter 22 – The Wedding
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| **Half‑sisters’ nod** | **Implemented** (user’s TODO #2) | Already in text. |
-| **Goose proverb at wedding** (old woman) | Existing | Ensure it uses “wait” not “bide”. |
-| **Sir Guy’s final gesture** – coin and note | **Implemented** (user’s TODO #5) | Already in text. |
-
----
-
-### Epilogue
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| **Harold’s death** – move to its own chapter | **To be added** | Create new chapter after wedding, before epilogue. Show Beatrice receiving news, journey home, vigil, Godfrey’s support. |
-| **Epilogue** – keep brief summary of later years | Existing | But remove Harold’s death paragraph (moved). |
-| **Goose proverb** in epilogue | Existing | Already uses “wait”. |
-
----
-
-### New “Black Moment” Crisis (After Wedding)
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| **Add a crisis that tests the relationship** | **To be added** | Options: King demands Godfrey go to Normandy for a year; or a false rumor of invalidity. Must force both to act. Place as new chapter(s) after wedding, before Harold’s death or interwoven. |
-
----
-
-### Historical Texture Additions (Optional)
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| Add mention of White Ship disaster as foreshadowing | Optional | Could be a sailor’s song, a worried look from the Queen. |
-| Add exchequer scene with Roger of Salisbury | Optional | Could be part of legal hearing. |
-| Add church presence | Optional | A bishop at court, or mention of Investiture Controversy. |
-
----
-
-### Unified Proverb: “bide” → “wait”
-
-| Change | Status | Notes |
-|--------|--------|-------|
-| All instances unified | **Implemented** (user’s TODO #9) | Already done. |
-
----
-
-### Remaining Gaps from “Brutal Rundown” (TODO 3)
-
-| Gap | Status | Notes |
-|-----|--------|-------|
-| 1. Climactic confrontation (hearing) | **To be added** | Covered above (Chapter 19). |
-| 2. Godfrey’s agency (scene with King) | **To be added** | Covered above (Chapter 19). |
-| 3. Romance build (2‑3 private scenes) | **Partially added** | We have the garden scene (two questions) and reconciliation. Could add one more small moment (e.g., a shared meal in Chapter 17). |
-| 4. Black moment | **To be added** | New chapter after wedding. |
-| 5. Antagonist resolution (Sir Guy final scene) | **Implemented** (coin). Half‑sisters’ arc – mostly implemented (apology, nod). Add backstory for them? Optional. |
-| 6. Queen’s arc catalyst | **Implemented** via Steps 5 & 6. |
-| 7. Harold’s death scene | **To be added** | New chapter. |
-| 8. Goose motif woven into climax | **To be added** | Add Beatrice’s line in hearing using the proverb. |
-| 9. Historical texture | Optional / To be considered | Could add one or two small touches. |
-
----
-
-## Summary of Pending Work (High Priority)
-
-1. **Add new scenes for Chapters 16–17** (morning lessons, mingling vow overheard, after‑dinner debrief, garden two‑questions, reconciliation). These replace or augment existing vignettes.
-2. **Write the expanded Chapter 19 hearing** (climactic confrontation).
-3. **Add Godfrey’s scene with King** (agency moment).
-4. **Add Harold’s death chapter**.
-5. **Add black moment chapter** after wedding.
-6. **Weave goose proverb into hearing**.
-7. **Ensure all other implemented changes are correctly placed** (many are already in your text).
-
----
-
-If you’d like, I can now draft any of these missing scenes (e.g., the full hearing, the garden two‑questions, the black moment) so you can integrate them. Let me know which you’d like to tackle first.
-
----
-
-Character rundown.
-
-**Everard de la Roche, Seigneur de la Roche** – A minor Norman baron of diminished estate, dispossessed of his ancestral lands in the Vexin after the Battle of Tinchebray (1106). Grey‑haired, soft‑spoken, and easily overlooked, he moves through court as a man of no consequence—precisely as he intends. Once a knight of respectable standing, he now nurses a quiet grievance against King Henry, whom he blames for his family's ruin. In truth, he is an agent of a larger conspiracy, a whisperer in the shadows who carries messages between the English court and the exiled supporters of William Clito. His name—*Everard*, “brave as a wild boar”—is a bitter irony; his courage now expresses itself not in the tilt-yard but in the careful cultivation of disaffection, the planting of rumours, and the patient weaving of plots. He is present at Rockingham, at Westminster, at every critical juncture, watching, waiting, and nudging events toward his masters’ ends. He is not the wolf; he is the shepherd’s dog that has learned to bite.
-
-Archbishop of Canterbury, Ralph d’Escures.
-
-The Bishop of Lincoln, Robert Bloet, a royal judge. 
-
-A Cistercian monk from the abbey at Citeaux.
-
-
----
-
-A public vow sworn *coram rege* (before the court) was a matter of profound religious and legal seriousness, carrying potentially devastating consequences if broken.
-
-### ⛓️ What Made a Vow Sacred and Binding
-
-For a 12th-century king, a public vow was more than a political promise. It was a matter of eternal salvation.
-
-*   **A Sin and a Crime**: Breaking one's word was not just a legal transgression; it was a **mortal sin**, a "breach of faith" that put the oath-taker's soul in jeopardy of eternal damnation[reference:0]. This spiritual fear was a very real part of the medieval mindset.
-*   **The King's Word Was His Bond**: A king's authority rested on the perception of his honour and trustworthiness. To break a sworn oath would be seen as **perjury**, a crime that could destroy his reputation and undermine his rule[reference:1]. A king who broke his word was a king who could not be trusted.
-*   **Under God's Watchful Eye**: A vow made "before the court" was also made before God and His saints. If made on a relic or a Gospel book, it was considered even more inviolable. The Church taught that God would punish oath-breakers, often in this life, which added a terrifying dimension to the vow.
-
-### 🛡️ The "Flowback" to the Vow-Maker: What If It All Went Wrong?
-
-The consequences for Henry would have been severe if the vow could not be fulfilled. The blowback would come from two directions: the Church and the barons.
-
-#### Spiritual and Political Consequences
-
-*   **Excommunication**: The most terrifying threat for a medieval king. If Henry broke his oath, the Pope could excommunicate him, cutting him off from the Church and its sacraments. An excommunicated king was seen as a tyrant, and his subjects were **freed from their oaths of loyalty**[reference:2].
-*   **A Weapon for Enemies**: A broken vow would be a gift to Henry's enemies. Louis VI of France and the faction supporting William Clito would use it as propaganda, portraying Henry as an oath-breaker and a tyrant, a man whose word was worthless.
-*   **Loss of Authority**: A king who could not enforce his own royal vow would appear weak. Disaffected barons would see it as a sign that the crown's authority was crumbling, encouraging them to pursue their own ambitions.
-
-### 💔 The "Impediments": What Could Go Wrong and Who Would Be to Blame?
-
-If the marriage was prevented, the consequences would fall on whoever was seen as responsible.
-
-*   **Death of Beatrice or Godfrey**: If either died before the wedding, the vow would be rendered impossible. There would be no blame on the king, but he would have to find another way to provide for his son.
-*   **Refusal to Marry**: If Beatrice refused, she would be defying the King's command. The consequences for her could be severe, including imprisonment or the confiscation of her family's lands. If Godfrey refused, he would be seen as a disobedient son and a traitor.
-*   **Harold's Refusal**: As Beatrice's father, Harold's consent was essential. If he refused, he would be in a difficult position, but he might be able to negotiate a settlement or offer compensation. Henry could also seek a papal dispensation to override his objections.
-*   **Other Impediments**: If a valid impediment, such as a pre-existing marriage contract or a被发现秘密, was discovered, the Church could declare the betrothal null and void. This would release Henry from his vow without blame, but it would also be a scandal.
-
-### ⚖️ Betrothal vs. Marriage: A Crucial Distinction
-
-In the 12th century, there was a clear legal distinction between betrothal (*sponsalia de futuro*) and marriage (*sponsalia de praesenti*).
-
-*   **Betrothal**: A promise to marry in the future. It was a binding contract, but it could be broken under certain circumstances, such as mutual consent or the discovery of a valid impediment[reference:3]. A betrothal was not yet a marriage.
-*   **Marriage**: A present consent to be husband and wife. Once the couple exchanged vows of present consent, the marriage was considered valid and indissoluble[reference:4].
-
-In the story, the vow is essentially a forced betrothal. Henry has promised to marry Godfrey to the next woman through the door. Until the marriage is consummated, the betrothal is a binding promise, not yet an indissoluble union.
-
-### 💎 The Real Stakes
-
-The most severe consequence of a broken vow was **eternal damnation** and the potential for **excommunication**. But beyond the spiritual, a broken vow would have been a political disaster, a weapon for Henry's enemies, and a blow to his personal honour. The true weight of Henry's impulsive oath was not just about his son's future, but about the very stability of his reign and the fate of his soul.
-
----
-TODO add to endnotes what happened to the conspiritors, some arrested, some not.
-TODO add simple era recipes suited to modern tastes - makes a good activity.
-
-TODO - more a future note for myself - we've just put a lot of work into revising the vow. The intent is to refocus the plotters (especially in the conspiracy meeting the day of the king's farewell celebration) - this is all to answer the question on what are the consipirators doing as we need to make this clear (as discussed much earlier in the scrollback here). In short, they wish to cause a political scandal concerning the king's vow about beatrice and godfrey. This is to become clear. This is all part of a larger out-of-story-scope plot to manage the succession of England and Normandy, which we touch on but should not actively drive, except reflecting in the epilogue. The prime plotters are in the camps of Louis of France and Baldwin of Flanders. Thus the main goal then is to get (and fail to have) Henry break the vow via any reasonable measure available to them.
-
-
-
-TODO (last) -- revise student questions
-TODO (last) -- revise language balance 1100s vs 2020s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
-
----
-# **Teacher & Parent Notes**  
----
-**Recommended Age Range:** *8–12 years*
-
-*The Goose Bride* is a short medieval tale suitable for independent readers in upper primary and early secondary years. Its language, themes, and humour are accessible to children around ten, while still offering enough richness for older readers to enjoy. Younger children (7–8) can follow it easily when read aloud.
-
----
-
-## **Themes to Explore**
-These themes appear naturally in the story and lend themselves to discussion:
-
-- **Kindness & Mercy**  
-  Beatrice pleads for the life of a goose meant for the king’s table.
-
-- **Courage & Integrity**  
-  A young girl enters a royal hall alone, speaks honestly, and stands her ground.
-
-- **Justice & Fair Leadership**  
-  King Henry rewards humility, corrects arrogance, and notices more than his court expects.
-
-- **Memory, Gratitude & Community**  
-  The king remembers an old debt to Beatrice’s father and honours it.
-
-- **Humility vs Pride**  
-  Beatrice’s modesty contrasts with Sir Guy’s idleness and entitlement.
-
----
-
-## **Discussion Questions**
-Use these to prompt reflection, conversation, or written responses:
-
-1. Why does Beatrice risk entering the king’s hall?  
-2. What does the goose chase reveal about King Henry’s character?  
-3. How does Henry treat Beatrice differently from Sir Guy?  
-4. What makes Beatrice brave?  
-5. Why does the king value her father’s past actions so highly?  
-6. What qualities make a good leader in this story?  
-7. How does humour help soften tense or formal situations?
-
----
-
-## **Historical & Cultural Notes (Child‑Friendly)**
-These points help young readers understand the medieval setting:
-
-- **Showing empty hands** was a traditional sign of peaceful intent.  
-- **Royal halls** were public spaces where people brought petitions to the king.  
-- **Lineage and reputation** mattered greatly in medieval society.  
-- **Lampreys** were a favourite royal delicacy.  
-- **Nicknames** like “Red‑Wolf” or “she‑wolf” often reflected personality, deeds, or family history.
-
----
-
-## **Vocabulary to Notice**  
-These words may be new to some readers but are easy to explain:
-
-- **sire** — a respectful way to address a king  
-- **curtsy** — a bow made by women or girls  
-- **thegn** — a nobleman or landholder in early medieval England  
-- **purveyance** — the king’s right to take goods for royal use  
-- **wimple** — a cloth head‑covering worn by medieval women  
-
-(These can be included in a short glossary if desired.)
-
----
-
-## **Creative Extension Ideas**
-These activities help deepen engagement:
-
-- **Write a letter** from Beatrice to her father describing her day at court.  
-- **Draw the goose chase** in the king’s hall.  
-- **Retell the river‑rescue** from Rauthulfr’s point of view.  
-- **Invent a new medieval insult** Henry might use (e.g., “sodden worm”).  
-- **Create a map** showing Stanwey, the Severn, and the king’s hall.
-
----
-
-Below is the **full set of chapter‑by‑chapter student questions**, crafted for ages 8–12, with a mix of:
-
-- ✔ straightforward comprehension  
-- ✔ inference  
-- ✔ emotional intelligence  
-- ✔ creative thinking  
-- ✔ one optional “challenge question” per chapter  
-
----
-
-# **STUDENT QUESTIONS BY CHAPTER**  
-*(For ages 8–12, with optional challenge questions)*
-TODO - redo for new chapters
----
-
-## **Chapter 1 — The Red‑Wolf’s Daughter**
-1. Why does Beatrice’s father send her to the king instead of going himself?  
-2. How does Beatrice feel about her task, and what clues show this?  
-3. What does the nickname “Red‑Wolf” suggest about her father?  
-4. Why is Beatrice determined to complete her errand?  
-5. Creative: Draw or describe what you imagine Stan‑Way looks like.
-
-**Knight's Challenge:**  
-Why might the king remember the Red‑Wolf even if many years have passed?
-
----
-
-## **Chapter 2 — The King’s Demand**
-1. What does the king want from the people of Stan‑Way?  
-2. How do the villagers react to the king’s order?  
-3. Why is Beatrice troubled by the king’s demand?  
-4. What does this chapter show about the king’s personality?  
-5. Creative: If you were in Beatrice’s place, what would you do?
-
-**Knight's Challenge:**  
-Is the king being unfair, or is he acting as a medieval king normally would? Explain your reasoning.
-
----
-
-## **Chapter 3 — The King’s Frustration**
-
-1. **The Hunt:** Why is the King’s hunt described as a "disaster," and how does his mood affect the other people in the hall?
-2. **The King’s Stature:** The text says Henry was built like a "war-horse." What specific details describe his physical strength?
-3. **The Queen’s Approach:** How does Queen Matilda attempt to soothe the King before she brings up the news?
-4. **The Contrast:** Why is the King’s silence described as being as "fat" as his wrath is lean?
-5. **Creative:** Describe the sound of the oak doors crashing inward from the perspective of one of the hounds by the hearth.
-
-**Knight's Challenge:**
-In the 1100s, a King’s physical presence was his power. Why would it be important for a medieval audience to know that the King was "barrel-chested" and "broad-shouldered" even if he wasn't very tall?
-
----
-They are still **largely relevant**, but the revisions to Chapter 5 have added so much psychological depth that a few questions now feel a bit "thin" compared to the new text. To maintain the "Dunnett-style" complexity for your readers, we should sharpen them to reflect Henry’s self-realization and the specific "accounting" metaphors.
-
-Here is the updated set, refined to mesh perfectly with the new "Option D" narrative.
-
----
-
-## **Chapter 4 — The Breton Offer**
-
-1. **The Trap:** Why does Henry believe the marriage offer for Agnes of Brittany is a "fox in his henhouse" rather than a kind gesture?
-2. **Family Feeling:** Henry says "Family feeling fills dungeons." Based on what you know of his brothers, why does he find "kindness" dangerous?
-3. **The Queen’s Motive:** The Queen calls Godfrey a "weak whelp" and a "sad shadow." Why does she want him sent across the sea to Brittany?
-4. **The Whetstone:** Henry describes Brittany as a "whetstone." What does he fear the Bretons will do with his son if he sends him there?
-5. **Creative:** If you were Duke Alain of Brittany, write the one "personal note" from Godfrey’s sister Matilda that would be most likely to convince him to come.
-
-**Knight's Challenge:**
-Henry says he cannot trust his own daughter because her loyalty is now to her husband’s land. In the medieval world, how did marriage change a woman’s political "team"?
-
----
-
-## **Chapter 5 — The Ledger and the Lion**
-
-1. **The Tanner's Grandson:** Henry mentions his father (William the Conqueror) was mocked. How does his father’s history influence Henry's view on what makes a person "royal"?
-2. **The "Accounting" Crisis:** Henry realizes he made a kingdom where "blood is tallied like wool." Why does it bother him that Roger and the Queen are being "perfectly loyal" and "perfectly correct"?
-3. **The "Sack of Wool":** Why does seeing Godfrey's patience change Henry's mood?
-4. **The Third Way:** Henry feels "suffocated" by the choices Roger and the Queen give him. How is his "Next Maid" vow a "Third Way" or a way to "destroy the table"?
-5. **The Cage of Law:** If a beggar girl walks through the door, why would Henry's knights stop keeping their oaths if he refused to marry her to Godfrey?
-
-**Knight's Challenge:**
-Henry says, "If he cannot thrive with a peasant at his side, he was never my son at all." This reflects a belief in **Innate Nobility** (nobility born *within* a person). Does Henry believe a crown makes a King, or does the man make the Crown? Use evidence from his "Tanner" speech to explain.
-
----
-
-## **Chapter 6 — Sir Guy’s Spite**
-1. What does Sir Guy do that shows his spiteful nature?  
-2. How does Beatrice respond to his behaviour?  
-3. What does this chapter reveal about the difference between Beatrice and Sir Guy?  
-4. Why might Sir Guy feel threatened by Beatrice?  
-5. Creative: Describe Sir Guy using an animal metaphor (e.g., “as sly as…”).
-
-**Knight's Challenge:**  
-Is Sir Guy’s behaviour caused by pride, jealousy, or fear? Defend your answer.
-
----
-
-## **Chapter 7 — The Goose Hunt**
-1. What causes chaos in the king’s hall?  
-2. How does the king react to the goose’s behaviour?  
-3. What does Beatrice do when she enters the hall?  
-4. Why is she afraid, and what helps her find courage?  
-5. Creative: Draw or describe the goose chase in the hall.
-
-**Knight's Challenge:**  
-Why does the king spare the goose? Is it mercy, amusement, or something deeper?
-
----
-
-## **Chapter 8 — The Red‑Wolf’s Daughter (Hall Scene)**
-1. How does the king recognise Beatrice’s father?  
-2. What story does Henry remember about his brother?  
-3. Why does Henry decide to visit the Red‑Wolf?  
-4. What does the king’s treatment of Sir Guy reveal about leadership?  
-5. Creative: Write a short speech Henry might give when he visits Stan‑Way.
-
-**Knight's Challenge:**  
-Why does Henry value the Red‑Wolf’s old deed more than Sir Guy’s present service?
-
----
-
-## **Chapter 9 — The Queen Remembers the Vow**
-1. What vow does the queen remember?  
-2. Why does the vow cause trouble now?  
-3. How does the queen feel about the king’s promise?  
-4. What does this chapter show about royal responsibility?  
-5. Creative: Write a diary entry from the queen’s point of view.
-
-**Knight's Challenge:**  
-Is the queen more concerned with honour, politics, or her son’s future? Explain.
-
----
-
-## **Chapter 10 — A Courtship No One Expected**
-1. How does Godfrey react to meeting Beatrice?  
-2. What surprises the court about their interaction?  
-3. How does Beatrice behave during the courtship?  
-4. What does this chapter reveal about Godfrey’s character?  
-5. Creative: Imagine a short conversation between Beatrice and Godfrey after the feast.
-
-**Knight's Challenge:**  
-Why might Beatrice be a better match for Godfrey than the noble brides the queen prefers?
-
----
-
-## **Chapter 11 — The Goose Bride**
-1. How does the story resolve the king’s vow?  
-2. What happens to Beatrice and Godfrey at the end?  
-3. How does the goose play a role in the final outcome?  
-4. What lesson does the king learn?  
-5. Creative: Write a one‑sentence moral for the story.
-
-**Knight's Challenge:**  
-What is the true “gift” Beatrice brings to the royal family — and why is it more valuable than gold or tribute?
-
-
-Here is the complete, updated Fact Sheet with all revisions integrated:
-
----
-
-## 📜 Facts: The World of the 'Goose Bride' (12th-Century England)
-
-This guide provides the historical "bones" for our story. It explains why Beatrice walks, why her father is worried, and how the law of the forest rules their lives.
-
----
-
-### 🏰 The Saxon Home: Life in the "Hall"
-
-In the 1100s, Beatrice and Harold don't live in a house—they live in a **Hall**.
-
-* **The Structure:** A timber-framed "longhall" with a central fire-pit. There are no chimneys; smoke escapes through a hole in the thatch roof.
-* **The Saxon Thegn:** Harold "Red-Wolf" represents the Thegns, the pre-Conquest Saxon nobility. While many lost their lands to Norman lords, some were kept on as foresters or local officials because of their deep knowledge of the terrain and their martial skill.
-* **The Status:** The Hall is the heart of the community. It's where the **Manorial Court** is held and where villagers bring their "renders" (taxes paid in eggs, grain, or ale).
-* **The Upkeep:** The villagers (called **villeins**) owe Harold "boon-work." They are legally required to help repair his roof or stone walls.
-
----
-
-### 🌲 The Law: The King's Forest & Purveyance
-
-Stanwey is located within **Rockingham Forest**. In the 1100s, a "Forest" wasn't just trees; it was a legal zone where the King's word was absolute.
-
-* **Rockingham Forest & Purveyance:** Rockingham was a Royal Forest, subject to "Forest Law" rather than Common Law. This gave the King absolute power over the land, its deer, and its inhabitants. **Purveyance** was the dreaded royal right to seize food and transport from locals to support the travelling court.
-* **Vert and Venison:** It was a crime to cut "green wood" or hunt the King's deer. Even carrying a bow could lead to a massive fine.
-* **The "Lawed" Dog:** To protect the deer, any large dog kept for protection had to have three claws removed from its front feet (called "expediting") so it couldn't chase game.
-* **The Roman Road (Stanwey):** The name Stanwey refers to the Roman roads common in the Rockingham area. *Stan* means stone and *Wey* (or Way) means a thoroughfare or road. The **Gartree Road**—an ancient, straight, stone-paved Roman highway—is the main artery for messengers and charcoal-burners.
-
----
-
-### ⚖️ Politics, Land and Lineage
-
-The legal landscape of the 1120s was defined by the struggle between the old Saxon ways and the new Norman rules.
-
-* **The Son-less Lord:** In Norman law, land is held in exchange for military service. Because Harold has no son to fight for him, his land is "vulnerable."
-* **The Ward of the Crown:** If Harold dies, the King has the legal right to choose Beatrice's husband—usually a Norman knight who wants her land.
-* **The "Scutage" (Shield Money):** Harold likely sold his warhorses to pay "scutage"—a tax paid to the King to avoid going to war in his old age.
-* **The King's Brother (Robert Curthose):** Henry I's eldest brother, Robert, was Duke of Normandy. Their relationship was defined by bitter rivalry. Henry eventually defeated Robert at the Battle of Tinchebray (1106) and kept him imprisoned for the rest of his life—making the King's jokes about Robert's "wet wit" and "sodden toad" historically biting.
-* **Prince Godfrey (The "Natural" Son):** King Henry I is famously credited with fathering the most illegitimate children of any English monarch (over 20). While the "Lord Godfrey" of this story is fictional, Henry frequently used his "natural" children to build political bridges and reward loyal families.
-
----
-
-### 🐺 Who Was Harold "Red-Wolf"? (And Why Does the King Call Him "Rauthulfr"?)
-
-Readers sometimes ask: **"In the story, Harold is a Saxon lord who serves Norman kings. Is that historically realistic? Wouldn't the Normans have replaced all the Saxon lords after 1066?"**
-
-**A:** It's realistic—but it was rare, needing the right circumstances.
-
-After the Norman Conquest in 1066, William the Conqueror did indeed replace most of the Anglo-Saxon aristocracy with his own Norman followers. This process took about twenty years, and by the 1080s, very few Saxon lords held significant lands.
-
-However, there were exceptions. A Saxon lord might keep his lands if he:
-
-* **Submitted to William early**, before the major battles
-* **Swore loyalty** and proved useful to the new regime
-* **Performed a valuable service** that earned royal gratitude
-* **Held lands in a strategic area** where the king preferred continuity
-
-The fictional Harold "Red-Wolf" fits this pattern, especially with his shared Viking ancestry. He fought in the early resistance (as the story says, he "fought in the wars that followed the Conquest"), but eventually made peace with the new order. His heroic act—saving the king's brother from drowning—would have been exactly the kind of deed that earned lasting royal favor.
-
 ---
-
-**Q: Why does King Henry call Harold "Rauthulfr"? That sounds Norse, not Saxon.**
 
-**A:** Another excellent observation! "Rauthulfr" (or Rauðúlfr) is indeed an Old Norse name. But here's the historical twist:
+> 🟢 **Did You Know?**
+>
+> The Sheriff of Nottingham who appears in this story was a real official. His family’s lands later became part of the Royal Forest – the very setting where legends of Robin Hood would grow. Some scholars believe the Sheriff’s harsh enforcement of forest law helped inspire the tales of the outlaw of Sherwood.
 
-The **Danelaw**—the part of England settled by Vikings centuries before the Conquest—had a lasting influence on names and culture. The Danelaw covered about a third of England, including large parts of the Midlands where Stanwey is located. Many people in these regions had names of Scandinavian origin. A Saxon thegn with a Norse-derived name like "Rauðúlfr" is entirely plausible.
+***
 
-The Normans themselves were descendants of Vikings who had settled in France in the early 900s. So when King Henry uses the old Norse form of Harold's name, it's a subtle nod to their shared ancestral roots—and a sign of personal familiarity. He's not using a formal title; he's using the name from the youth of an old warrior.
+## Author’s Note — Why I Wrote This Story
 
----
+**Simple Answer:** I like tales, both factual and fantasy. I grew up reading and have a love for stories from around the world, both from real history and from made up stories.
 
-**Q: Harold "Red-Wolf" is Saxon, but he has a Norse name and serves Norman kings. Isn't that confusing?**
+**Professional Answer (as a guiding principle):** As an author, when I got stuck on this story planning, writing or discussing, I generally cross-checked the balance of the following:
+1. Does this scene provide an “honest mirror”? (Is it real enough?)
+2. Does it touch a “positive core need”? (Is it human enough?)
+3. Does it offer a “psychological tool”? (Is it useful enough?)
 
-**A:** It might seem that way, but actually it reflects the beautiful complexity of medieval England and the English language!
+This tale is an imperfect psychological training kit woven into the fabric of medieval entertainment. It honours the tradition of the morality tale by using the past as an honest mirror for our own lives. We have a natural fascination with seeing things happen to other people; this story harnesses that curiosity to explore our positive core needs for connection, purpose, and safety—needs that never truly change. By representing the Middle Ages as realistically as possible, the book reveals our shared capacity to underestimate our own foolishness and weakness. It provides the reader with sound psychological tools to navigate life today, looking back at the past not to judge it, but to discover the insight we need to walk a more balanced and healthy path in the present.
 
-By 1114, when our story takes place, England had been shaped by waves of settlement: Celts, Romans, Angles, Saxons, Vikings, and Normans. A man like Harold represents that layered history. He is:
 
-* **By ancestry:** Saxon (with Norse roots in the Danelaw)
-* **By loyalty:** A servant of the Norman crown
-* **By reputation:** "Red-Wolf," a nickname earned by his deeds
-* **By relationship:** An old warrior remembered personally by the king
+# FACTS: THE WORLD OF THE ‘GOOSE BRIDE’ (12th‑CENTURY ENGLAND)
 
-This complexity enriches the story. It shows that identity in the Middle Ages wasn't simple—and that loyalty, courage, and honor transcended the labels of "Saxon" or "Norman."
+This guide provides the historical “bones” for the story.
 
 ---
-
-**Q: Does this matter for the story?**
 
-**A:** Yes—in a wonderful way!
+## 🏰 The Saxon Home: Life in the “Hall”
 
-Harold's Saxon heritage creates a quiet but powerful theme. Here is a man from a conquered people, yet he is honored by the king, his daughter marries a prince, and his ancient bloodline is called "good blood of an ancient house." This echoes the story's deeper message: true worth is not a matter of birth or conquest, but of character and deeds.
+- **Structure:** Timber‑framed “longhall” with a central fire‑pit. No chimneys; smoke escapes through a hole in the thatch.
+- **The Saxon Thegn:** Harold represents the pre‑Conquest Saxon nobility. Some kept their lands by submitting early or performing valuable service.
+- **The Status:** The Hall is the heart of the community – manor court, tax collection, justice.
+- **The Upkeep:** Villagers (villeins) owe “boon‑work” – labour to repair the hall.
 
-When Henry later says, *"If my blood is weak, no crown can help the boy. If it is royal, no rags can hide it,"* he could almost be talking about Harold—a man whose nobility needed no crown to prove it.
-
 ---
-
-### 🦢 The Journey: Social Cues & Logistics
 
-Beatrice walking five miles to the Royal Lodge at **Brigstock** isn't just about exercise; it's a statement of her status and her survival skills.
+## 🌲 The Law: The King’s Forest & Purveyance
 
-* **Avoiding Tolls:** Riding a horse often meant paying "palfrey taxes" or forest tolls to the King's officers (the **Agisters**).
-* **The "Peaceful Petitioner" Gesture:** The act of raising both palms (*ostentatio manuum*) was a recognised legal and social gesture. It proved the petitioner was unarmed and was a common posture for those seeking mercy or making a formal request of a superior.
-* **Maidenly Modesty (Hair and Rings):** In the 12th century, loose, uncovered hair was the primary signifier of an unmarried maiden. Once married, a woman was socially and religiously required to wear a wimple or veil. Similarly, the absence of a ring or band on the hand and by naming her father's household, it is all clear enough that she is still under her father's "*mund*" (legal protection/guardianship).
-* **The Goose Factor:** A large, angry white goose is much easier to carry in a basket than to balance on a galloping horse!
+Stanwey lies within **Rockingham Forest**, a Royal Forest subject to special “Forest Law”.
 
----
-
-### 👑 The Royal Court: Secrets & Legends
+- **Purveyance:** The king’s right to seize food and transport from locals.
+- **Vert and Venison:** Crimes included cutting green wood or hunting the king’s deer.
+- **The “Lawed” Dog:** Large dogs had three claws removed so they couldn’t chase game.
+- **The Roman Road (Stanwey):** *Stan* (stone) + *Wey* (way) – the old Roman road was a main route for messengers and charcoal‑burners.
 
-* **Queen Matilda's Secret Heritage:** Though the court called her by her Norman name, Matilda, she was born a Saxon princess named Edith. Her marriage to Henry I was a calculated political move to appease the English population. Because of her own Saxon roots, the Queen's eventual "softening" toward Beatrice carries a deeper historical weight.
-* **The Lamprey Legend:** Henry I was famously fond of lampreys (eel-like jawless vertebrates). His death in 1135 was famously attributed by the chronicler Henry of Huntingdon to a "surfeit of lampreys," which the King ate against his physician's advice.
-
 ---
 
-### 👵 What About the Mothers?
+## ⚖️ Politics, Land and Lineage
 
-**Q: We hear a lot about the fathers in this story—Harold and Henry. But what about the mothers? Who was Godfrey's mother? And what happened to Beatrice's mother?**
+- **Son‑less Lord:** Harold has no male heir, so his land is vulnerable to escheat.
+- **Ward of the Crown:** If Harold dies, the king can choose Beatrice’s husband.
+- **Scutage (Shield Money):** A tax paid to avoid military service.
+- **Robert Curthose:** Henry’s imprisoned brother – the man Harold saved from the Severn.
+- **Prince Godfrey (fictional):** Henry I had many illegitimate children and used them as political tools.
 
-**A:** Wonderful question! The story focuses on the fathers because medieval inheritance and politics ran through the male line, but the mothers are present in the story's silences. Here's what we know—and what we can surmise.
-
 ---
-
-#### 👑 Godfrey's Mother: The Unknown Mistress
 
-King Henry I is famously credited with fathering the **most illegitimate children of any English monarch—over 20 in total**. While his legitimate children (William Adelin and Empress Matilda) were born to Queen Matilda of Scotland, his "natural" children like Godfrey came from a series of mistresses whose identities were rarely recorded.
+## 🐺 Who Was Harold “Red‑Wolf”? (And Why “Rauthulfr”?)
 
-| Fact | What We Know |
-| :--- | :--- |
-| **Who was she?** | Her name is lost to history—deliberately. Chronicles recorded the names of kings and bishops, not the women who bore their bastards. |
-| **What was her status?** | She was likely a noblewoman, possibly from a Norman or English family. Henry's illegitimate children were married into high noble houses, suggesting their mothers had status enough that the children were considered marriageable. |
-| **Did she raise Godfrey?** | Probably not. Anglo-Norman royal children, legitimate or otherwise, were often raised in households separate from their parents. They might be sent to noble families for fostering or placed in religious houses for education. |
-| **Did she have other children?** | Possibly. Henry's illegitimate children had several different mothers. Godfrey may have had full siblings, or he may have been the only child of this particular union. |
-| **Was she still alive in 1114?** | Possibly, possibly not. She would have had no formal role at court regardless. As an unmarried mistress, her position was entirely dependent on the king's favor. |
+Harold is a fictional Saxon thegn who kept his lands after the Conquest because he submitted early, swore loyalty, and performed a heroic deed (saving the king’s brother). The name **Rauthulfr** (Old Norse) reflects the Danelaw heritage of the Midlands. The Normans were also of Viking descent, so Henry uses the old name as a sign of familiarity.
 
-**What we can imagine:** She was likely young when she caught Henry's eye—perhaps a lady-in-waiting, a daughter of a loyal baron, or a noble widow. Their relationship may have been brief or lasting; we simply don't know. What we do know is that she gave Henry a son, and that son grew up to be a man of "quiet grace" who knew how to wait.
-
 ---
-
-#### 🏡 Beatrice's Mother: The Lady of Stanwey
-
-Beatrice's mother is never named in the story, but her presence is felt throughout. The READER questions section reveals one crucial detail:
-
-> **"How did she come to raise the goose herself? AK: Regarding Goosie, Beatrice's late mother was actually the one that arranged for Beatrice to be there when Goosie hatched from an egg."**
 
-This tiny detail opens a window into who she was.
+## 🦢 The Journey: Social Cues & Logistics
 
-| Fact | What We Know or Can Surmise |
-| :--- | :--- |
-| **She is deceased by 1114** | Harold is alone with Beatrice at the start of the story. The fact that Beatrice manages the household "without murmur" suggests she has stepped into her mother's role. |
-| **She arranged for the goose** | This tells us she was thoughtful, forward-looking, and understood the value of small joys. She knew her daughter would love raising a gosling. |
-| **She taught Beatrice** | Beatrice's skills—tending the sick with herbs and medicine, overseeing the brewing and the buttery, managing the manor—would have been learned from her mother. |
-| **She was Harold's wife** | As the wife of a Saxon thegn who had fought in the wars following the Conquest, she lived through turbulent times. She may have been a Saxon woman from a neighboring family, or perhaps the daughter of another thegn. |
-| **She likely had other children** | The story mentions Beatrice has "no brother to defend the holding." This doesn't mean she had no siblings—only that she had no *brothers*. Sisters would not affect the inheritance. |
+- **Avoiding Tolls:** Walking avoided forest tolls.
+- **Peaceful Petitioner Gesture:** Raising empty palms showed peaceful intent.
+- **Maidenly Modesty:** Uncovered hair and no ring showed she was unmarried and under her father’s protection.
+- **The Goose Factor:** Easier to carry in a basket than on a horse.
 
-**What we can imagine:** She was the practical heart of Stanwey—the one who knew which herbs healed fevers, which villagers could be trusted, and how to stretch provisions through a hard winter. She saw in Beatrice the same capable spirit and nurtured it. Her death left a void that Beatrice quietly filled, and a grief that Harold carries in his tired bones.
-
 ---
-
-#### 👸 The Queen as Stepmother
 
-Queen Matilda was a real person. Her relationship to fictional Godfrey adds another layer to the story's exploration of motherhood.
+## 👑 The Royal Court: Secrets & Legends
 
-| Fact | Relevance |
-| :--- | :--- |
-| **Matilda was known for piety and learning** | She ran a cultured court, patronized the arts, and was deeply involved in governance. When Henry was away, she governed in his name. She would have set expectations for all the young people in her household. |
-| **She had her own children to protect** | Her son William Adelin was the heir. Her daughter Matilda (later Empress) was married into German nobility. Her primary loyalty was to them. |
-| **Step-relations were complex** | Royal stepmothers were expected to care for all children in the household, but their first duty was to their own offspring. This tension is exactly what we see in Chapter 4. |
+- **Queen Matilda** was born Edith of Scotland, a Saxon princess. Her marriage to Henry united Norman and Saxon bloodlines.
+- **The Lamprey Legend:** Henry I supposedly died from eating too many lampreys (a medieval delicacy).
 
-When the Queen calls Godfrey a "weak whelp" and a "sad shadow," it's not simple cruelty—it's a woman trying to clear a path for her own child, while trying to care for another. Her later softening toward Beatrice, noted in the wedding chapter, reflects both her own Saxon heritage (which would make her sympathetic to Beatrice's bloodline) and perhaps a recognition that she had been too harsh.
-
 ---
-
-#### 👵 The Mothers' Legacy
-
-Though neither mother appears in the story, both shape it:
 
-| Mother | Legacy |
-| :--- | :--- |
-| **Godfrey's mother** | Gave him royal blood and a place at court, then stepped aside—as mistresses had to—leaving him to navigate the world on his own. His patience and quiet grace may have been her gifts. |
-| **Beatrice's mother** | Trained her daughter to manage a manor, tend the sick, and speak her mind. She gave her a goose—a small thing that became the instrument of fate. |
-| **Queen Matilda** | Complicates the story with her very human conflict: love for her own child versus duty to her stepson. Her arc from suspicion to acceptance mirrors the story's theme that true worth reveals itself. |
+## 👵 What About the Mothers?
 
-**In short:** The mothers are absent but not absent. They live on in what their children have become—and in one case, in a goose that waddles where kings must wait.
+- **Godfrey’s mother** is unknown – Henry I had many mistresses. She likely was a noblewoman who gave her son a place at court but not a home.
+- **Beatrice’s mother** is unnamed. She taught Beatrice herb lore, brewing, and running a manor. She arranged for the goose egg that became Goosie.
+- **Queen Matilda** (Edith) is a real historical figure who initially saw Godfrey as a threat to her son William but later became Beatrice’s ally.
 
 ---
 
-### 🛡️ Social Hierarchy: Who's Who?
+## 🛡️ Social Hierarchy: Who’s Who?
 
 | Title | Role |
 | --- | --- |
-| **Thegn** | A Saxon noble (Harold). High status, but fading fast under Norman rule. |
-| **Reeve** | The village headman. The "bridge" between the peasants and the Lord. |
-| **Knight** | The Norman elite (Sir Guy). They often speak **Old French** and look down on Saxons. |
-| **Villein** | A peasant tied to the land. They provide the labour that keeps the Hall running. |
+| **Thegn** | Saxon noble (Harold) |
+| **Reeve** | Village headman |
+| **Knight** | Norman elite (Sir Guy) |
+| **Villein** | Peasant tied to the land |
 
-### Handful of Historical Matilda's
+### Handful of Historical Matildas
 
-- Matilda FitzRoy of Brittany (Maud) - real illegitimate daughter of King Henry I of England, from same mother as our fictional character Godfrey.
-- Empress Matilda (Maud) - real legitimate daughter of King Henry I and Queen Matilda
-- Queen Matilda of Scotland (Edith) - the real Queen in our story
-- Matilda of Boulogne - real future wife of Stephen of Blois, later competitor to the English crown; not in our story.
-
----------------------------------------------
-# The Goose Bride (In English — from an earlier edition)
----------------------------------------------
-Once upon a time, in the green and ancient heart of the Midlands—in a wild land that men once called Mercia—there lived a maiden named Beatrice. Her eyes shone as bright as the summer sky, and her hair was as golden and tangled as a meadow swept by the wind. She lived in a small cottage with her father, Harold Red-Wolf, a brave old soldier of the wars. His days of glory had faded like autumn leaves; his health was poor, and the biting frost of winter made his old bones ache, or so he told the travelers who passed his door.
-
-One morning, a King’s messenger rode up to their gate. The King was hunting in the great forest nearby and demanded a tribute from every hearth: two sharp arrows and a plump bird for the royal spit. Beatrice looked at her father with a heavy heart, for their only bird was the Goose—a snowy-white creature she had raised by hand. The Goose was her dearest companion, and tears pricked Beatrice’s eyes as her father made his grim choice.
-
-"It is our duty, daughter," he said with a voice as raspy as dry leaves. "A subject must serve his King, even when the heart is heavy." (He also knew that without the Goose, there would be no more large white eggs for their breakfast).
-
-Beatrice was a girl of spirit, and she did not like this one bit. "Who is this King to take our friend? Have you not bled enough for the crown, Father? I have half a mind to tell him so myself!"
-
-Her father gave her a look of quiet wisdom. "A crown, Beatrice, is a weight that bows the head. A King must care for a whole kingdom, and though his commands seem sharp, he is but a man like us. He has few friends he can trust with his life. Tomorrow, I shall take the bird."
-
-"No, Father," Beatrice cried. "You must rest your weary bones. Let our neighbor Wilfred go, or..." A bold, twinkling thought struck her. "If you permit it, Father, I shall take the bird myself."
-
-So it was settled. The next morning, Beatrice set off with the live Goose tucked firmly under her arm. The bird let out such nervous honks and hisses that the whole village turned to look. When she reached the King’s lodge, it was a whirlwind of noise. Guards paced the stone walls, and cooks scurried through the kitchens like mice, preparing the royal feast. Beatrice held her Goose tighter and asked the busy servants where to deliver the "poultry."
-
-Now, inside the great hall, the King and Queen were having a "spirited discussion." The Queen loved the fine stone houses of the city, while the King loved nothing more than the muddy trails of the forest. The Queen boasted of the rich, clever wives she had chosen for her two eldest sons, but the King grumbled that those women were as greedy as magpies for gold and power.
-
-The Queen was determined to find a bride for her youngest son, Geoffrey, who was a kind lad but not nearly as "sharp" as his brothers. Finally, the King lost his temper. In a voice like rolling thunder, he shouted, "Enough, my Lady! I swear by my beard, the very next maiden to walk through that door shall be our son's bride!"
-
-Hardly had he finished speaking when—flap, flap, honk!—the great white Goose came bursting into the hall! It had escaped Beatrice’s arms and was now flapping over the tables, knocking over silver cups while a frantic clerk and three guards chased it in circles. The King let out a roar of laughter. He leapt from his throne, joined the chase, and caught the bird by its wings just as it was about to nip the royal clerk’s nose.
-
-"Please, Great King! Do not harm the Goose!"
-
-The King blinked and turned. Standing in the doorway was a young woman, trembling with fear but standing tall. The King raised an eyebrow. "Is this noisy creature yours?"
-
-"Yes, Sire. I mean no, Sire. She is a gift from my father—along with these two arrows—but I beg you, do not eat her!"
-
-The King chuckled, his anger completely forgotten. "This Goose has given me the best chase of the season! Tell me, maiden, who is your father?"
-
-"Harold Red-Wolf, Sire."
-
-"Old Rauðúlfr!" the King cried. "He was a lion in my father’s army. Does he live nearby?"
-
-"Seven miles to the east, Sire. He sends his regrets that his old bones would not let him come himself."
-
-"Well," said the King, "tell him I shall visit him myself next week. And as for the Goose, I give her back to you as a royal gift."
-
-As Beatrice and the bird headed home, the Queen turned to her husband with a face as pale as milk. "You were not serious about your oath, I hope? A common girl for our son?"
-
-The King smiled a slow, clever smile. "Clerk! What were my words?"
-
-The clerk stammered, "You said the Prince would marry the next maiden to walk through the door, Sire."
-
-The King nodded and commanded Prince Geoffrey to lead the girl home with a royal escort. "The Goose came through the door first," the King laughed, "but the girl was right behind her. Harold’s daughter comes from a brave and honest line. She is a better match than a dozen greedy duchesses."
-
-And so, the Prince and Beatrice spent much time together (for the Prince found many excuses to visit the farm). Before the year was out, they were happily wed. The Queen eventually smiled upon the match, though she often teased the King that he was lucky he didn’t have a fourth son, or they might have ended up with a literal goose for a daughter-in-law!
-
-All’s well that ends well! And in the villages of the Midlands, they still tell the tale of the Goose Bride and the King who was as good as his word.
-
----------------------------------------------
-# Η Χήνα Νύφη (The Goose Bride - In Greek — from an earlier edition)
----------------------------------------------
-Στα αγγλικά μέσα της χώρας, σε εκείνη τη γη που κάποτε ονομαζόταν Μερκία (τώρα τα Μίντλαντς), ζούσε μια νεαρή γυναίκα ονόματι Βεατρίκη. Τα μάτια της έλαμπαν σαν το καλοκαιρινό ουρανό και τα μαλλιά της ήταν άγρια και ξανθά σαν ανεμοδαρμένο λιβάδι. Μοναδική συντροφιά της ήταν ο πατέρας της, ο Χάρολντ, ένας γηρασμένος βετεράνος πολέμου. Οι ένδοξες μέρες του είχαν πια επισκιαστεί από την κακή υγεία και τα τσουχτερά κρύα του χειμώνα που τον πονούσαν στα κόκαλα, τουλάχιστον έτσι έλεγε στους παλιούς του φίλους όταν τον επισκέπτονταν.
-
-Μια μέρα, ένας αγγελιοφόρος έφερε νέα στο σπιτικό τους. Ο βασιλιάς θα κυνηγούσε κοντά και απαιτούσε φόρο: δύο φτερωτά βέλη και ένα πουλερικό για το τραπέζι του. Η Βεατρίκη κοίταξε φοβισμένη τον πατέρα της, γιατί η μοναδική τους κότα κατάλληλη για βασιλικό τραπέζι ήταν η Χήνα - μια χοντρή, λευκή χήνα που την είχε μεγαλώσει η ίδια με το χέρι. Ήταν η αγαπημένη της συντροφιά και τα μάτια της βούρκωσαν καθώς ο πατέρας της έπαιρνε μια δύσκολη απόφαση. "Αυτό είναι το καθήκον μας, κόρη μου", είπε βραχνά, η φωνή του βαριά από τύψεις (γιατί η Χήνα έφερνε και πολλά αυγά).
-
-Η Βεατρίκη καταλάβαινε την υποχρέωση, όμως, το ελεύθερο πνεύμα της δεν μπορούσε να δεχτεί τον χαμό της αγαπημένης της χήνας. "Ποιος είναι αυτός που απαιτεί τη Χήνα μας; Δεν έχεις προσφέρει αρκετά στον βασιλιά, πατέρα; Θα ήθελα να του πω μερικά καλά λόγια!"
-
-Η απάντηση του πατέρα της ήταν μια τυπική σοφή συμβουλή: "Ένα στέμμα, Βεατρίκη, είναι ένα βαρύ φορτίο. Ένας βασιλιάς υπηρετεί το βασίλειο και οι απαιτήσεις προς αυτόν πρέπει να εκπληρωθούν, ακόμα κι αν φαίνονται σκληρές. Είναι άνθρωπος σαν κι εμάς, μα έχει λίγους φίλους στους οποίους μπορεί να εμπιστευτεί τυφλά. Η ζωή του μπορεί να είναι τόσο ευλογία όσο και βάρος. Για αυτό, θα πάω εγώ τη χήνα αύριο".
-
-Η Βεατρίκη διαφώνησε έντονα. "Όχι, πατέρα, χρειάζεσαι την ανάπαυση σου. Άσε τον Γουίλφρεντ, τον γείτονά μας, να την πάει ή..." Με ένα τολμηρό σχέδιο να στριφογυρίζει στο μυαλό της, ανακοίνωσε: "Αν μπορώ, πατέρα, ίσως να την πάω εγώ".
-
-Έτσι τα συμφώνησαν και το επόμενο πρωί, Βεατρίκη ξεκίνησε το ταξίδι της με τη ζωντανή χήνα σφιχτά κάτω από το μπράτσο της. Τα νευρικά κρώξιματα του πουλιού αντηχούσαν σε όλο το χωριό. Το κατάλυμα του βασιλιά έσφυζε από δραστηριότητα. Φρουροί στέκονταν αγέρωχοι στις επάλξεις, ενώ μάγειρες έτρεχαν στην κουζίνα ετοιμάζοντας το βασιλικό γεύμα. Η Βεατρίκη, κρατώντας τη χήνα πιο σφιχτά, πλησίασε το πολυάσχολο προσωπικό και ρώτησε για να παραδώσει τα "πουλερικά".
-
-Εν τω μεταξύ, μέσα στο κατάλυμα, ο βασιλιάς και η βασίλισσα βρίσκονταν σε μια ακόμα περίοδο "ζωηρών συζητήσεων" όπως τις ονόμαζε ο βασιλιάς (περισσότερο διαφωνίες παρά καβγάδες). Η βασίλισσα προτιμούσε τη ζωή στις πόλεις, ενώ ο βασιλιάς δεν αγαπούσε τίποτα περισσότερο από το ατέρμονο κυνήγι στην εξοχή. Η βασίλισσα λάτρευε τις έξυπνες και όμορφες συζύγους που είχε διαλέξει για τους δύο μεγαλύτερους γιους τους, αλλά ο βασιλιάς πίστευε ότι διψούσαν υπερβολικά για εξουσία και πλούτη.
-
-Η βασίλισσα είχε βάλει εδώ και πολύ καιρό στόχο να βρει μια γυναίκα για τον γιο της που είχε απομείνει, τον Γοδεφρείδο, αν και δεν ήταν τόσο όμορφος ή ευφυής όσο οι μεγαλύτεροι αδερφοί του. Ο βασιλιάς, σε μια έκρηξη απογοήτευσης από τις ατέρμονες συζητήσεις για το θέμα, της φώναξε (πολύ πιο δυνατά απ' όσο σκόπευε), "Κυρία μου, η επόμενη κατάλληλη δεσποινίδα που θα μπει από αυτή την πόρτα θα γίνει η νύφη του γιου σας!"
-
-Ευτυχώς για όλους, η κακή διάθεση του βασιλιά διαλύθηκε γρήγορα με την θορυβώδη είσοδο μιας μεγάλης λευκής χήνας που πέταξε φτερουγίζοντας μέσα στο δωμάτιο και άρχισε να τρέχει πανικόβλητη, κυνηγημένη από έναν γραμματέα και αρκετούς φρουρούς. Ο βασιλιάς ξέσπασε σε γέλια με το θέαμα, άρχισε να την κυνηγάει κι εκείνος και τελικά την έπιασε μόνος του, ακριβώς την ώρα που ετοιμαζόταν να δαγκώσει τον γραμματέα.
-
-"Σε παρακαλώ, μην πειράξετε τη Χήνα!"
-
-Ο βασιλιάς ανοιγόκλεισε τα μάτια του και κοίταξε γύρω του για να βρει την πηγή της άγνωστης φωνής. Τελικά είδε μια νεαρή γυναίκα να τον κοιτάζει με μεγάλο φόβο. Ο βασιλιάς σήκωσε τα φρύδια του. "Η δική σου χήνα;"
-
-"Ναι, κύριε. Θέλω να πω όχι, κύριε. Θέλω να πω είναι δώρο από τον πατέρα μου σε εσάς (μαζί με δύο βέλη, κύριε), αλλά σας παρακαλώ μην φάτε τη Χήνα."
-
-Ο βασιλιάς χαχάρισε. "Λοιπόν, η Χήνα μου έδωσε το καλύτερο κυνήγι της ημέρας... αλλά ποιος είναι ο πατέρας σου;"
-
-"Τον λένε Χάρολντ Ρεντ-Γουλφ, κύριε."
-
-"Ο γέρος Χράθουλφρ! Πολέμησε υπό τις διαταγές του πατέρα μου, ένας καλός άνθρωπος ήταν. Η γη του είναι κοντά;"
-
-"Ναι, κύριε, αλλά εφτά μίλια ανατολικά από εδώ. Σας ζητάει συγγνώμη που δεν ήρθε ο ίδιος λόγω της κακής του υγείας."
-
-"Λοιπόν, μπορείς να του πεις ότι την επόμενη εβδομάδα θα τον επισκεφτώ εγώ ο ίδιος. Του χαρίζω μια χήνα."
-
-"Α, σας ευχαριστώ, κύριε. Σημαίνει πολλά για μένα. Θα του το πω."
-
-Καθώς το κορίτσι και η χήνα αποχωρούσαν, η βασίλισσα στράφηκε επειγόντως στον βασιλιά. "Δεν μιλούσατε σοβαρά, ελπίζω."
-
-"Για ποιο πράγμα; Για την επίσκεψη;"
-
-Η βασίλισσα τον κοίταξε αυστηρά. "Δεν θέλω καμία κοπέλα της χήνας για νύφη του γιου μας."
-
-Ο βασιλιάς γέλασε σιγανά. "Γραμματέα. Τι είπα νωρίτερα;"
-
-Ο γραμματέας κοίταξε νευρικά τη βασίλισσα. Ήξερε ότι τα προηγούμενα λόγια του βασιλιά ειπώθηκαν βιαστικά, χωρίς πολλή σκέψη, κυρίως ως έκφραση της εκνευρισμού του βασιλιά. "Ο γιος σας θα παντρευτεί όποια κατάλληλη νεαρή γυναίκα μπει από την πόρτα στη συνέχεια, κύριε."
-
-Ο βασιλιάς έγνεψε καταφατικά και κάλεσε τον γιο του να πάει να συνοδεύσει τη νεαρή γυναίκα σπίτι της με ασφάλεια. Η βασίλισσα φαινόταν χλωμή. "Άρχοντά μου, δεν μπορείς να μιλάς σοβαρά. Μια κοινή θνητή;"
-
-"Να τον παντρέψω καλύτερα με τη χήνα; Χα! Ήταν η πρώτη που μπήκε από την πόρτα, τελικά." Ο βασιλιάς χαμογέλασε πλατιά. "Η κόρη του Χάρολντ κατάγεται από καλό σόι."
-
-Η αυλή ήταν σε κατάσταση σοκ, αλλά ως άνθρωπος του λόγου του, ο βασιλιάς ανακοίνωσε, "Ο Πρίγκιπας Γοδεφρείδος θα παντρευτεί την κόρη του Χάρολντ Χράθουλφρ."
-
-Όσο για τον νεαρό πρίγκιπα και τη Βεατρίκη, αν και έκπληκτοι, αφού πέρασαν κάποιο χρονικό διάστημα μαζί (οι επισκέψεις του πρίγκιπα έγιναν τακτικές), οι δυο τους χάρηκαν να παντρευτούν. Σε σύντομο χρονικό διάστημα, η βασίλισσα συγχώρεσε τον βασιλιά, περιστασιακά τον ανέβαζε το ηθικό λέγοντάς του ότι ήταν καλό που δεν είχαν άλλους γιους, διαφορετικά θα μπορούσε να καταλήξει με μια χήνα στην οικογένεια.
+- **Matilda FitzRoy of Brittany** – real illegitimate daughter of Henry I, same mother as Godfrey (fictional).
+- **Empress Matilda** – legitimate daughter, later claimant to the throne.
+- **Queen Matilda of Scotland (Edith)** – the real queen in the story.
+- **Matilda of Boulogne** – future wife of Stephen of Blois (not in story).
 
 
-Τέλος καλό, όλα καλά! Η ιστορία της Βεατρίκης και της Χήνας της έγινε αγαπημένο παραμύθι ανάμεσα στους ανθρώπους του βασιλείου. Κάποιοι ψιθύριζαν για καλή τύχη που ήρθε με τη μορφή μιας χήνας, άλλοι για τη σοφία του βασιλιά να τηρεί τον λόγο του και μερικοί για την ευτυχία που βρήκε ένας πρίγκιπας με μια απλή κοπέλα. Όποιος κι αν ήταν ο λόγος, η βασιλική αυλή γνώρισε μια περίοδο ειρήνης και χαράς χάρη στην έξυπνη Βεατρίκη και τη γενναία της χήνα.
+***
 
-(Τέλος καλό, όλα καλά! -  All's well that ends well!)
+
+# APPENDIX – TEACHER & PARENT GUIDE
+
+*The Goose Bride* is a medieval historical romance suitable for readers aged 8–12. Its language, themes, and humour are accessible to children around ten, while still offering enough richness for older readers. Younger children (7–8) can follow it easily when read aloud.
 
 ---
 
-## Reasons
+## THEMES TO EXPLORE
 
-Question: Why did you write this story?
+These themes appear naturally in the story and lend themselves to discussion:
 
-Short Answer: I like tales, both factual and fantasy.
-
-Longer Answer (as a guiding principle): As an author, when I got stuck planning, writing or discussing, I generally cross-checked the balance of the following:
-1. Does this scene provide an "honest mirror"? (Is it real enough?)
-2. Does it touch a "positive core need"? (Is it human enough?)
-3. Does it offer a "psychological tool"? (Is it useful enough?)
-
-This tale is an imperfect psychological training kit woven into the fabric of medieval entertainment. It honours the tradition of the morality tale by using the past as an honest mirror for our own lives. We have a natural fascination with seeing things happen to other people; this story harnesses that curiosity to explore our positive core needs for connection, purpose, and safety—needs that never truly change. By representing the Middle Ages as realistically as possible, the book reveals our shared capacity to underestimate our own foolishness and weakness. It provides the reader with sound psychological tools to navigate life today, looking back at the past not to judge it, but to find the insight we need to walk a more balanced and healthy path in the present.
-
-## Blurb
-
-In the halls of Kings, fate is a feathered thing.
-
-England, 1114. Behind the heavy stone walls of Rockingham, King Henry I is losing his patience. Trapped between Queen Matilda’s negotiations with the House of Anjou and the restless spirits of a conquered land, the King issues a reckless, wine-soaked decree to silence his court: the very next maiden to walk through the hall doors shall marry his son, Godfrey FitzRoy—be she noble or milkmaid.
-
-They expect a lady of the court. They expects a political solution.
-
-Instead, the doors swing wide for Beatrice, the sharp-witted daughter of a fallen Saxon warrior known as the Red-Wolf. She hasn't come for a crown or a husband; she has come to save her prize goose from the King's table.
-
----
-## More READER Questions
-
-> How did she come to raise the goose herself?
-
-AK: *Regarding Goosie, Beatrice's late mother was actually the one that arranged for Beatrice to be there when Goosie hatched from an egg. Geese can live for up to 30 or more years. The King (I suspect) was mainly hoping for a good hunt; things were generally going well for Henry I in 1114, though he came to regret some of his decisions over the next decade; presumably his new daughter-in-law was not among those. :)*
-
-
+- **Kindness & Mercy** – Beatrice pleads for the life of a goose meant for the king’s table.
+- **Courage & Integrity** – A young girl enters a royal hall alone, speaks honestly, and stands her ground.
+- **Justice & Fair Leadership** – King Henry rewards humility, corrects arrogance, and notices more than his court expects.
+- **Memory, Gratitude & Community** – The king remembers an old debt to Beatrice’s father and honours it.
+- **Humility vs Pride** – Beatrice’s modesty contrasts with Sir Guy’s idleness and entitlement.
+- **Consent & Agency** – Beatrice insists on choosing her own path, and the story respects the Church’s teaching that a forced marriage is no marriage at all.
 
 ---
 
-## ✅ LICENSE
+## DISCUSSION QUESTIONS (General)
 
-> **Text (English and Greek):** © 2024-2026 Andrew Kingdom. This work in its entirety is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). Educators may reproduce this story for classroom use without additional permission. All other rights, including film, translation, and commercial adaptation, are reserved.
->
-> **Images:** © 2024-2026 Andrew Kingdom. Images are covered under the same CC BY-NC-ND 4.0 license as the text. For commercial or print publication, please contact the author for licensing.
->
-> **Greek version:** Licensed exclusively to Greek Fairy Tales for publication. All other rights remain with the author.
->
-> **Attribution for educators:** When sharing, please include: *"The Goose Bride" © 2024-2026 Andrew Kingdom, used under CC BY-NC-ND 4.0. Original at [https://akingdom.github.io/articles/The_Goose_Bride].*
+Use these to prompt reflection, conversation, or written responses:
 
+1. Why does Beatrice risk entering the king’s hall?
+2. What does the goose chase reveal about King Henry’s character?
+3. How does Henry treat Beatrice differently from Sir Guy?
+4. What makes Beatrice brave?
+5. Why does the king value her father’s past actions so highly?
+6. What qualities make a good leader in this story?
+7. How does humour help soften tense or formal situations?
+8. Why does the queen change her mind about the match?
+9. What does Godfrey learn about himself by the end of the story?
+10. How does the goose (Goosie) influence the plot beyond being a pet?
 
+---
 
+## HISTORICAL & CULTURAL NOTES (Child‑Friendly)
 
+- **Showing empty hands** was a traditional sign of peaceful intent.
+- **Royal halls** were public spaces where people brought petitions to the king.
+- **Lineage and reputation** mattered greatly in medieval society.
+- **Lampreys** (eel‑like fish) were a favourite royal delicacy.
+- **Nicknames** like “Red‑Wolf” or “she‑wolf” often reflected personality, deeds, or family history.
+- **Purveyance** was the king’s right to take food and goods from local people to feed his court.
+- **A thegn** was a Saxon nobleman who held land directly from the king.
 
-# APPENDICES
+---
 
-These are from the author's story notes, mainly to help coordinate the core story details. I thought these might be of interest to some readers.
+## VOCABULARY TO NOTICE
 
+| Word | Meaning |
+|------|---------|
+| **sire** | a respectful way to address a king |
+| **curtsy** | a bow made by women or girls |
+| **thegn** | a nobleman or landholder in early medieval England |
+| **purveyance** | the king’s right to take goods for royal use |
+| **escheat** | the return of land to the crown when the owner dies without an heir |
+| **garderobe** | a medieval toilet |
+| **brazier** | a metal basket for burning coals to heat a room |
+| **distaff** | a tool used in spinning wool |
+
+---
+
+## CREATIVE EXTENSION IDEAS
+
+- **Write a letter** from Beatrice to her father describing her first day at court.
+- **Draw the goose chase** in the king’s hall.
+- **Retell the river‑rescue** from Harold’s point of view.
+- **Invent a new medieval insult** Henry might use (e.g., “sodden worm”).
+- **Create a map** showing Stanwey, Rockingham Castle, and the Roman road.
+- **Act out the cup ritual** – discuss why Beatrice’s choice matters.
+
+---
+
+# STUDENT QUESTIONS BY CHAPTER (Selected)
+
+*For ages 8–12, with optional challenge questions. These focus on the most pedagogically rich chapters.*
+
+---
+
+## Chapter 1 – A Goose of My Own
+
+1. Why does the boy spread his arms like wings? What does that tell you about him?
+2. How does Beatrice feel when the geese chase her? What words show her fear?
+3. What does Beatrice ask her mother at the end of the chapter? Why is that important?
+4. Creative: Draw the meadow with the geese and the boy.
+5. **Knight’s Challenge:** The boy says, “My father owns all the geese.” What might that suggest about his family?
+
+---
+
+## Chapter 4 – Mother Lessons
+
+1. What does Beatrice learn from her mother besides herbs and bread‑making?
+2. Why does her mother speak quietly about “the mark of womanhood”? How does Beatrice react?
+3. How does Harold change after his wife’s death? Give two examples.
+4. Creative: Write a short recipe for one of Beatrice’s herbal remedies.
+5. **Knight’s Challenge:** Why do you think the author included the mother’s advice about menstruation? Is it important for the story?
+
+---
+
+## Chapter 5 – The Measure of a Man
+
+1. Why does Beatrice refuse every suitor her father suggests?
+2. What does she mean by “Not for Stanwey”?
+3. How does Beatrice discover Sir Guy’s true nature?
+4. Creative: Write a short speech where Beatrice tells Sir Guy exactly what she thinks of him.
+5. **Knight’s Challenge:** Sir Guy says the land will “escheat to the crown.” What does that mean, and why is it a threat?
+
+---
+
+## Chapter 9 – The Ledger and the Lion
+
+1. Why is King Henry frustrated at the beginning of the chapter?
+2. What does Roger of Salisbury mean when he calls Godfrey “a coin left on the table”?
+3. How does Henry’s view of his son change when he sees Godfrey waiting patiently?
+4. Creative: Imagine you are a clerk in the hall. Describe the moment the king makes his vow.
+5. **Knight’s Challenge:** The king swears a vow “before the court.” Why is that so serious in the Middle Ages?
+
+---
+
+## Chapter 14 – The Road Home (Cart Scene)
+
+1. Why does the carter’s wife think Beatrice looks pale?
+2. How does Beatrice feel when she hears the family talking about “the goose girl”?
+3. What does Beatrice do when she realises she might be the one the king’s vow is about?
+4. Creative: Write a short diary entry from Beatrice’s point of view after the cart ride.
+5. **Knight’s Challenge:** Why does the author make the gossip come from a poor family rather than nobles?
+
+---
+
+## Chapter 15 – Tales to Tell / The Blessing
+
+1. Why does Harold ask Godfrey “What will you remember, when you are old?”
+2. What does Godfrey’s answer tell Harold about his character?
+3. How does Goosie show that she accepts Godfrey?
+4. Creative: Act out the conversation between Harold and Godfrey with a friend.
+5. **Knight’s Challenge:** Harold says, “A wolf may find shade under a good tree.” What does that proverb mean in the context of the story?
+
+---
+
+## Chapter 22 – The Cup
+
+1. Why does Beatrice ask Godfrey to pass her a drink instead of answering the king directly?
+2. What does Henry mean when he says, “She takes the cup”?
+3. How does Harold’s expression change during this scene? Why?
+4. Creative: Draw the moment Beatrice raises the cup toward the rafters.
+5. **Knight’s Challenge:** In the 12th century, a woman taking wine from her betrothed’s hand was a binding act. Why do you think the author chose this ritual instead of a church wedding?
+
+---
+
+## Chapter 30 – The Ghost of Westminster
+
+1. Why do the servants think the Queen’s quarter is haunted?
+2. What is the real “ghost”?
+3. How do the half‑sisters use the goose incident to mock Beatrice?
+4. Creative: Rewrite the scene from Goosie’s point of view.
+5. **Knight’s Challenge:** The half‑sisters are cruel, but the story hints they are jealous. What might they be jealous of?
+
+---
+
+## Chapter 32 – Edith of Scotland
+
+1. What secret does Queen Matilda reveal to Beatrice?
+2. Why did the Norman court call her “the Saxon girl”?
+3. How does the queen’s story help Beatrice feel less alone?
+4. Creative: Write a short monologue where Queen Matilda tells her own story to a friend.
+5. **Knight’s Challenge:** Why does the queen say, “You are not a goose girl playing at being someone else”? How does this connect to her own experience?
+
+---
+
+## Chapter 40 – The Forester’s Horn
+
+1. How does Godfrey escape from the chapel storeroom?
+2. What does Beatrice use to cut her ropes? Why is that clever?
+3. How do the villagers and foresters help rescue Beatrice and Harold?
+4. Creative: Draw the moment Beatrice raises the candlestick to defend her father.
+5. **Knight’s Challenge:** Sir Guy is captured but not killed. Why do you think the author chose banishment instead of execution?
+
+---
+
+## Chapter 45 – The Wedding
+
+1. What does the old woman say when the goose leads the bride?
+2. How do the half‑sisters behave at the wedding? What does that tell you?
+3. Why does Harold stand tall despite his pain?
+4. Creative: Write a one‑sentence moral for the story.
+5. **Knight’s Challenge:** The story ends with the proverb “A goose may wend where a King must wait.” How does Beatrice prove this saying true?
+
+---
+
+## Epilogue – The Years After
+
+1. What happens to Sir Guy? To Everard de la Roche?
+2. How does Queen Matilda describe Beatrice in her final months?
+3. What does Godfrey choose to do with his life?
+4. Creative: Write a short letter from the Duchess of Brittany to Beatrice after the White Ship disaster (you may need to research it).
+5. **Knight’s Challenge:** The epilogue mentions the White Ship disaster. Why do you think the author included that real historical event?
+
+---
+
+# APPENDICES – AUTHOR NOTES
+
+*These are from the author’s story notes, mainly to help coordinate the core story details. Some readers may find them interesting.*
+
+---
 
 ## THE GOOSE BRIDE — CANONICAL TIMELINE
 
-### Character Birth Table Guide
+### Character Birth Table
 
-| Character | Status | Birth Year | Age at Meadow (c. 1103) | Age at Hall (Aug 1114) | Age at Wedding (Spring 1115) | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Harold Red-Wolf** | Fic | **c. 1050** | ~53 | ~64 | ~65 | Warrior at Conquest (16); old but plausible |
-| **Beatrice's mother** | Fic | **c. 1077** | ~26 (dies 1109) | — | — | Married c. 1096 (age ~19) |
-| **Nurse** | Fic | **c. 1075** | ~28 | ~39 | ~40 | Godfrey's former nurse |
-| **Henry I** | Real | 1068 | ~35 | **46** | ~47 | |
-| **Queen Matilda** | Real | c. 1080 | ~23 | **34** | ~35 | Dies 1118 (after story) |
-| **Roger of Salisbury** | Real | c. 1065 | ~38 | **49** | ~50 | |
-| **Sir Guy de Montfort** | Fic | **c. 1090** | ~13 | **24** | ~25 | Young knight, bully |
-| **Godfrey FitzRoy** | Fic | **c. 1095** | ~8 | **19** | ~20 | Illegitimate son of Henry |
-| **William Adelin** | Real | 1102 | ~1 | **12** | ~13 | Heir; dies 1120 |
-| **Beatrice** | Fic | **c. 1098** | ~5 | **16** | **16-17** | Born spring; ideal age |
-| **Duchess Matilda FitzRoy** | Real | c. 1096? | ~7 | **18** | ~19 | Henry's daughter; betrothed to Conan |
-| **Half-sister Avice** | Fic | c. 1093? | ~10 | **21** | ~22 | Godfrey's jealous half-sister (fictional) |
-| **Half-sister Eustacia** | Fic | c. 1095? | ~8 | **19** | ~20 | Godfrey's jealous half-sister (fictional) |
-| **Lady Margaret** | Fic | c. 1085? | ~18 | **29** | ~30 | Beatrice's daily mentor |
-| **Goosie** | Fic | 1103 | 0 | **11** | ~12 | Hatched spring 1103 |
-
-### Historical Context — Mid‑August Daylight
-
-| Factor | Value |
-| :--- | :--- |
-| **Sunrise** | ~5:45 AM |
-| **Sunset** | ~8:30 PM |
-| **Hunting start** | Dawn (5:45 AM) |
-| **Hunt duration** | 3-5 hours |
-| **Dusk** | ~8:00 PM |
-| **Full dark** | ~9:00 PM |
+| Character | Status | Birth Year | Age at Hall (Aug 1114) | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| Harold Red‑Wolf | Fic | c. 1050 | ~64 | Warrior at Conquest (16) |
+| Beatrice’s mother | Fic | c. 1077 | — | Dies 1109 |
+| Nurse | Fic | c. 1075 | ~39 | Godfrey’s former nurse |
+| Henry I | Real | 1068 | 46 | |
+| Queen Matilda | Real | c. 1080 | 34 | Dies 1118 |
+| Roger of Salisbury | Real | c. 1065 | 49 | |
+| Sir Guy de Montfort | Fic | c. 1090 | 24 | |
+| Godfrey FitzRoy | Fic | c. 1095 | 19 | Illegitimate son of Henry |
+| William Adelin | Real | 1102 | 12 | Heir; dies 1120 |
+| Beatrice | Fic | c. 1098 | 16 | |
+| Duchess Matilda FitzRoy | Real | c. 1096? | 18 | Henry’s daughter |
+| Avice (half‑sister) | Fic | c. 1093? | 21 | Fictional |
+| Eustacia (half‑sister) | Fic | c. 1095? | 19 | Fictional |
+| Lady Margaret | Fic | c. 1085? | 29 | Beatrice’s mentor |
+| Goosie | Fic | 1103 | 11 | Hatched spring 1103 |
 
 ### Fixed Historical Timeline Anchors
 
-| Date | Event | Type | Source |
-| :--- | :--- | :--- | :--- |
-| **1066** | Norman Conquest | Real | History |
-| **1068** | Henry I born | Real | History |
-| **c. 1080** | Matilda of Scotland born | Real | History |
-| **1100** | Henry becomes king; marries Matilda | Real | History |
-| **1102** | William Adelin born | Real | History |
-| **March 1113** | Treaty of Gisors; Matilda FitzRoy betrothed to Conan | Real | History |
-| **June–July 1114** | Henry’s Welsh campaign | Real | History |
-| **Early Aug 1114** | Campaign concludes; Welsh princes submit | Real | History |
-| **Mid-Aug 1114** | **Royal court at Rockingham Castle** | **Story Fixed Point** | Our anchor |
-| **Late Aug 1114** | Court moves to Westminster | Real | History |
-| **Late Aug 1114** | Westminster council; preparations for Normandy | Real | History |
-| **Late Aug / Mid Sep 1114** | Henry crosses to Normandy | Real | History |
-| **1118** | Queen Matilda dies | Real | After story |
-| **1120** | White Ship disaster | Real | After story |
+| Date | Event |
+| :--- | :--- |
+| 1066 | Norman Conquest |
+| 1068 | Henry I born |
+| c. 1080 | Matilda of Scotland born |
+| 1100 | Henry becomes king; marries Matilda |
+| 1102 | William Adelin born |
+| March 1113 | Treaty of Gisors; Matilda FitzRoy betrothed to Conan |
+| June–July 1114 | Henry’s Welsh campaign |
+| Early Aug 1114 | Campaign concludes |
+| **Mid‑Aug 1114** | **Royal court at Rockingham Castle – The Goose Vow** |
+| Late Aug 1114 | Court moves to Westminster; Henry crosses to Normandy |
+| 1118 | Queen Matilda dies |
+| 1120 | White Ship disaster |
 
-### Master Timeline — Complete (1103-1115)
+### Master Timeline (1103‑1115)
 
-| Timeframe | Key Events | Location | Notes |
-| :--- | :--- | :--- | :--- |
-| **1103** | Encounter with a boy | Meadow | Boy vanishes; "My father owns all the geese" |
-| **1103** | acquiring a goose egg | River Bend Farm | Nurse: "my lady"; mother pays |
-| **1103** | Goosie hatches (hen surrogate) | Stanwey Hall | Beatrice names her |
-| **1103-1108** | Mother lessons | Stanwey Estate | Herbs, brewing, healing, settling disputes |
-| **1109** | Mother dies | Stanwey Hall | Apple blossoms; Harold's grief begins |
-| **1109-1114** | Beatrice runs manor | Stanwey Hall | Harold declines; Goosie follows always |
-| **Mid‑Aug 1114** | Goose vow, betrothal, road home, Godfrey meets Harold | Rockingham Castle / Stanwey | Chapters 1–12 |
-| **Late Aug 1114** | King Henry visits Stanwey; cup ritual; departure for Westminster | Stanwey | Chapters 15–16 |
-| **Late Aug 1114** | Court moves to Westminster; Henry departs for Normandy (off‑stage) | Westminster | Chapter 17 (first court exposure) |
-| **Sep–Dec 1114** | Beatrice’s court life; half‑sisters, Duchess visit, charity work | Westminster | Chapters 17–18 (part) |
-| **Early Jan 1115** | Queen’s window seat conversation (Edith); legal hearing begins | Westminster | Chapter 18 |
-| **12 Jan 1115** | Harold collapses; hearing dismissed; Beatrice leaves for Stanwey | Westminster → Stanwey | Chapter 18 |
-| **13–18 Jan 1115** | Capture at Stanwey; Godfrey’s rescue; Sir Guy arrested | Stanwey / Chapel | Chapter 18 |
-| **19 Jan 1115** | Beatrice returns to court; overhears half‑sisters | Westminster | Chapter 18 |
-| **Late Jan – Feb 1115** | Queen’s protection; Candlemas; legal judgment; Sir Guy banished | Westminster | Chapter 19 |
-| **14 Feb 1115** | Queen’s public declaration at St. Valentine’s feast | Westminster | Chapter 20 |
-| **1 Mar 1115** | Harold visits court | Westminster | Chapter 20 |
-| **March–April 1115** | Wedding preparations | Westminster / Stanwey | Chapter 21 |
-| **Spring 1115** | Wedding | Stanwey | Chapter 22 |
-| **After 1115** | Harold’s death (c. 1117); Queen Matilda dies (1118); White Ship (1120) | Various | Epilogue |
-
-------------------------------
-
-## Stanwey Estate
-
-Stanwey: Fictional Thegn’s Estate (circa 1114)
-Stanwey (Old English: Stān "Stone" + Weg "Way/Road") is a strategic royal holding held in capite (directly from the King). It sits atop the ancient Roman industrial corridor of Rockingham Forest, serving as a critical source of iron and timber for the Crown. 
-It was a thorn in the side of the late Sheriff of Nottingham, William Peverel the Elder, as it was under the King's direct jurisdiction not his, unlike much of the rest of the lands.
-
-------------------------------
-I. Location & Geography
-
-* Approximate GPS Coordinates: 52.5694, -0.6095
-* Distance to Rockingham Castle: ~5.1 miles (Southwest)
-* Proximity: ~0.8 miles North of Laxton; ~1.2 miles West of Wakerley.
-* The Roman Road: The estate is bisected by Margary 571, the ancient road once linking forest iron-works to the Roman town of Durobrivae.
-* Topography: The land slopes through the Welland Valley toward a sharp, distinctive river bend in the Welland, providing rich water meadows and high-ground defense.
-* Industrial Heritage: Features ancient Roman iron-smelting pits near the border (Laxton Lodge area), still yielding bog iron for the King’s use.
-
-------------------------------
-II. Estate Dimensions & Assets
-
-* Total Size: 5 Hides (~600 Acres / 0.94 sq miles).
-* Shape: 2:1 Rectangle oriented along the Roman Road.
-* Short Side: ~0.68 miles (1.1 km)
-   * Long Side: ~1.37 miles (2.2 km)
-* Stanwey Hall: The manorial seat; a robust timber-framed Great Hall built upon a dressed stone foundation.
-* St. Peter’s Church: A small Norman-style stone church with a crypt where the Lord’s wife is interred.
-* Economic Assets: 6 plough teams (48 oxen total), 3 large open fields (Wheat, Barley, Fallow), and a small watermill at the river bend.
-
-------------------------------
-III. The Lord’s Profile: Harold 'Rauthulfr' Magnússon
-
-* Lineage: Norse-Saxon hybrid; descendant of Danelaw settlers.
-* Byname: Rauthulfr (Red Wolf), signifying his fierce northern heritage.
-* Political Standing: A rare "survivor" thegn and friend to Henry I. His direct royal tenure protects him from the territorial ambitions of William Peverel the Younger (High Sheriff of Nottingham).
-* Personal Life: A widower with one daughter and heir, Beatrice (approx. 14–18 years old).
-* Retinue: Two "Huscarl-descended" body-servants who act as his sworn guard.
-
-------------------------------
-IV. Stanwey Census (c. 1114)
-
-| Group | Count | Role & Note |
-|---|---|---|
-| Lord’s Household | 2 | Harold and his daughter, Beatrice. |
-| Household Staff | 2 | Sworn guards/servants (Huscarl-legacy). |
-| The Priest | 1 | Appointed by the Bishop; loyal to the Hall. |
-| Villans (Villains) | 12 | Primary farmers holding ~30 acres each; owners of the ploughs. |
-| Bordars (Cottars) | 8 | Labourers; many are skilled in iron-smelting at the Roman pits. |
-| Slaves (Servi) | 2 | Unfree workers attached to the Hall kitchens and stables. |
-| Total Population | ~120 Souls | Approx. 24 households total. |
-
-------------------------------
-
-V. Historical Context: The Peverel Tension
-While Harold enjoys the King's favour, Stanwey is a target. William Peverel the Elder died in February 1114, leaving a vacuum. As William Peverel the Younger expands his influence over the Honour of Peverel, an independent, iron-rich 5-hide estate held directly from the King is a political thorn in his side. Harold’s Norse woodcraft and his ability to supply high-quality iron for the King’s huntsmen at Rockingham are his primary leverage.
-Peverel the Elder was a political mover and shaker in court but the Younger much less so, aged about 20-30 in 1114.
-During this era, the Sheriff was a powerful crown appointee responsible for law enforcement, judicial matters, and tax collection across both Nottinghamshire and Derbyshire. In 1114, this position also included the custody of the Royal Forests and often the command of Nottingham Castle itself. 
-Peverel’s family founded Lenton Priory, which became the wealthiest and most powerful religious house in Sherwood Forest. 
-Robin Hood: When the Younger Peverel was exiled in 1155 and his lands were seized by King Henry II, the Crown took direct control of his estates. This allowed the King to significantly expand Forest Law over the region—a move that caused massive local resentment and is a central theme in Robin Hood stories. 
+| Timeframe | Key Events |
+| :--- | :--- |
+| 1103 | Meadow encounter; acquire goose egg; Goosie hatches |
+| 1103‑1108 | Mother lessons |
+| 1109 | Mother dies |
+| 1109‑1114 | Beatrice runs manor |
+| Mid‑Aug 1114 | Goose vow, betrothal, road home, Godfrey meets Harold |
+| Late Aug 1114 | King Henry visits Stanwey; cup ritual; departure for Westminster |
+| Sep–Dec 1114 | Beatrice’s court life; half‑sisters, Duchess visit, charity work |
+| Early Jan 1115 | Queen’s window seat conversation; legal hearing begins |
+| 12 Jan 1115 | Harold collapses; hearing dismissed; Beatrice leaves for Stanwey |
+| 13–18 Jan 1115 | Capture at Stanwey; Godfrey’s rescue; Sir Guy arrested |
+| 19 Jan 1115 | Beatrice returns to court; overhears half‑sisters |
+| Late Jan – Feb 1115 | Queen’s protection; Candlemas; Sir Guy banished |
+| 14 Feb 1115 | Queen’s public declaration at St. Valentine’s feast |
+| 1 Mar 1115 | Harold visits court |
+| March–April 1115 | Wedding preparations |
+| Spring 1115 | Wedding |
+| After 1115 | Harold’s death (c. 1117); Queen Matilda dies (1118); White Ship (1120) |
 
 ---
 
-VI. Transport
-Moving a cart from Stanwey to Rockingham Castle in 1114 would be a logistical challenge. While a person on foot could navigate muddy shortcuts, a heavy timber cart laden with iron blooms or grain required the firmest ground possible to avoid "bellied" axles in the thick Northamptonshire clay.
-The Cart Route: The "Stone Way" (Margary 571)
-Harold’s carters would almost certainly stick to the Roman Road (Margary 571) for as long as possible.
+## STANWEY ESTATE (Fictional)
 
-* The Surface: Even 700 years after the Romans left, the agger (the raised stone embankment of the road) provided a solid foundation. In the 1100s, this was known as a "Stane-gate" or "Stone-way."
-* The Width: Roman roads were wide enough for two carts to pass, essential for the industrial traffic of the Rockingham iron-works.
-* The "Holloway" Effect: Over centuries, the weight of carts and erosion often turned these roads into "holloways"—sunken lanes with high banks that provided some protection from wind but could become treacherous "rivers of mud" during heavy autumn rains.
-
-The "Rockingham Scarp" Challenge
-The most difficult part of the journey was the final approach to the Castle.
-
-* The Steep Ascent: Rockingham Castle sits on a high limestone ridge. A cart pulled by a team of 4–6 oxen would have to grind up the steep incline from the Welland valley floor.
-* Switchbacks: To manage the gradient, the medieval track likely used "switchbacks" (zigzagging up the hill) rather than the straight Roman line.
-* The Gatehouse: Carts would enter through the Outer Bailey, where they would be unloaded at the Royal Granary or the King's Smithy.
-
-Logistics & Timing
-
-* The Team: Harold would use Oxen rather than horses for heavy carting. Oxen were slower but had much greater "steady pull" through the forest mud.
-* Speed: A cart moved at a "plodding" pace of about 2 miles per hour.
-* Total Time: The 5-mile trip would take 2.5 to 3 hours one way—a full half-day's work for the carter and his team.
-
-Stanwey's "Tribute Cart"
-As a King's Thegn, Harold might be required to send a "Carriage Service" (avera) as part of his tenure. This would involve sending his cart and oxen to Rockingham to haul the King’s wine, building stone, or hunting gear whenever the Royal Court was in residence.
-
-Laxton - A Real Village across the valley from 'Stanwey', with All Hallows (All Saints) ancient parish church. Good visibility all the way to Rockingham.
-
-## The Welsh Campaign of 1114
-
-It was a massive show of force by King Henry I, designed to break the power of the native princes and solidify Norman control. Following years of instability in the Marches, the King launched a three-pronged invasion that forced the Welsh leaders into a corner.
-
-### The Campaign and Owain ap Cadwgan
-The primary target of the campaign was Owain ap Cadwgan, a prince notorious for his earlier abduction of Nest (the wife of a Norman constable) and his general defiance of the Crown. After a brief but futile resistance in the mountains of Snowdonia, Owain realised he could not win against the King's overwhelming numbers.
-Negotiating through his uncle, Maredudd, Owain made a formal submission. Henry I—who valued Owain’s military skill despite his "wild" reputation—received him "honourably." Rather than punishing him, the King took Owain into his personal retinue and transported him overseas to Normandy, where he was eventually knighted and served as a royal loyalist.
-
-### The Family Legacy: Henry and Cadwgan
-The two brothers represented the complex intersection of Welsh and Norman bloodlines:
-
-* The Father: Their father was Cadwgan ap Bleddyn, the Prince of Powys. His reign was defined by chaos and family feuding, which ultimately led to his death in 1111 when he was killed by his own nephew, Madog ap Rhirid.
-* Henry ap Cadwgan: Unlike his brother Owain, Henry was the son of a Norman mother (the daughter of Picot de Sai). Because of this noble Anglo-Norman heritage, he was viewed as a more "legitimate" member of the Norman aristocracy. Henry had been a fixture in the King’s court from 1110 onwards, serving as a bridge between his father’s Welsh territories and the King’s central administration.
-
-Ultimately, this campaign transformed the sons of the "conquered" leader from rebels into royal courtiers, though both would meet their end together in the White Ship Disaster of 1120.
-
-## The White Ship disaster
-
-The White Ship, transporting many notables, sank in the English Channel near the Normandy coast, off Barfleur, during a trip from France to England on 25 November 1120. Out of approximately 300 people aboard, only one — a butcher from Rouen — survived.
-
-This could likely have been avoided, as several clear warning signs were ignored by the main royal party. Interestingly, a few high-ranking individuals did try to avoid it by disembarking at the last minute because they were disturbed by the chaos on board.
-
-### The Young Elite
-
-The "riotous and headstrong youths" on the White Ship were the 12th-century version of the "jet set"—the A-list offspring of the Anglo-Norman and Welsh elite. For them, this level of debauchery wasn't just a one-off party; it was a reflection of their social standing and the "new" culture of the royal court.
-
-#### Was this their "Normal"?
-Yes and no. While medieval life was generally strict, the court of William Adelin (Henry I’s heir) was notorious for pushing boundaries:
-
-* The "Gilded" Youth Culture: These young men—including Henry ap Cadwgan and his brother Owain—were part of a generation that valued "Curialitas" (courtliness) but often expressed it through excess. They wore long, flowing hair and pointed shoes, fashions that conservative chroniclers of the time condemned as effeminate and sinful.
-* A Culture of Entitlement: As the sons of the conquerors (and the high-status "conquered" like the Welsh princes), they lived in a bubble of immense wealth and zero accountability. Their "normal" involved hunting, tournament training, and heavy feasting.
-* The Absence of the "Strict Parent": Usually, King Henry I kept a very tight lid on his court. However, because the King had sailed on a separate ship earlier that evening, the youth were left unsupervised. This "when the cat's away" dynamic turned a standard voyage into a literal floating tavern.
-
-#### Why they were drunk
-In the 1100s, wine was a status symbol. Providing it in massive quantities was how a Prince like William Adelin showed his magnificence:
-
-* The Casks: William ordered three huge barrels of wine to be distributed not just to his friends, but to the 50 rowers.
-* The Social Pressure: In this warrior-aristocrat culture, drinking was a competitive sport. To refuse a drink from the Prince was a social snub. By the time they weighed anchor, the crew and passengers were "roaringly drunk," stumbling over oars and mocking the priests who tried to bless the ship.
-
-#### The "Riotous" Element
-The term "riotous" in contemporary accounts (like those of Orderic Vitalis) referred to more than just noise:
-
-* Arrogance: They were so confident in their status that they believed they could defy the sea itself. They actively goaded the captain to "overtake" the King’s ship, despite it being dark and the coastal waters being treacherous.
-* Rebellion against Order: Their refusal to let priests board the ship to perform the traditional blessing was a peak "edgy" move for the time—a literal middle finger to the social and religious order of the day.
-
-Essentially, these youths were living a high-stakes version of a "gap year" in the King's service, and the White Ship was the tragic end to their ultimate party.
-Would you like to know more about the specific fashion or "long hair" controversy that the monks used to explain why God "punished" these youths?
-
-### Those Who Avoided the Ship
-Several notable figures chose to get off the vessel before it sailed, effectively saving their own lives: 
-
-* Stephen of Blois: The King's nephew (and future King of England) was scheduled to be on the ship but disembarked just before departure. Chroniclers like Orderic Vitalis attributed this to a sudden, convenient bout of diarrhoea or a stomach complaint.
-* A Group of Nobles and Monks: A few other "sensible" passengers and two monks also left. They reportedly felt the ship was overcrowded with "riotous and headstrong youths" and were uneasy about the level of intoxication. 
-
-### How It Could Have Been Avoided
-Historians and contemporary chroniclers point to several critical failures that made the disaster "almost inevitable": 
-
-* Extreme Intoxication: Prince William Adelin provided three massive casks of wine to the crew and passengers. By the time they sailed at night, nearly everyone, including the helmsman and Captain Thomas FitzStephen, was heavily drunk
-* The Reckless Race: Despite departing hours after King Henry I's ship, the drunken passengers ordered the captain to overtake the King. This led to the ship being rowed at a dangerous speed through a rocky coastline in the dark.
-* Rejecting the Blessing: In a move seen as an ill omen by contemporaries, the rowdy passengers drove away priests who came to bless the voyage with holy water, mocking them as they left. 
-
-### The "What If" of William Adelin
-Prince William actually did initially survive the sinking. He was placed in a small lifeboat and could have reached the shore. However, he ordered the boat to turn back when he heard the screams of his half-sister, Matilda Fitzroy, the Countess of Perche. His lifeboat was then swamped by other drowning people and sank. 
-
-
-## Matilda (Edith) of Scotland
-
-Matilda of Scotland was a "bridge-builder" who successfully navigated the volatile transition between Anglo-Saxon and Norman England. Her character was defined by a calculated blend of intellectual sophistication, strategic piety, and fierce personal autonomy.
-
-### The Real Matilda: A Balanced Summary
-
-* Matilda of Scotland (born Edith) and King Henry I likely first met during the previous decade (c. 1090s), possibly introduced through Bishop Osmund of Salisbury. Their formal union was a rapid, high-stakes response to the sudden death of King William II in 1100. For Henry, marrying Matilda was a strategic masterstroke; as a descendant of Alfred the Great and the House of Wessex, she provided the "blood legitimacy" his Norman dynasty lacked. Despite the clear political motives, historians like Warren Hollister argue the couple was emotionally close, and chroniclers like William of Malmesbury suggest a genuine bond of affection between them. While Henry was notorious for his many illegitimate children—a common feature of medieval kingship—their early partnership was exceptionally productive; they worked in tandem to stabilize the realm, with Matilda frequently staying in Westminster to manage the machinery of government while Henry secured his territories abroad. 
-* Political Identity: Far from a submissive consort, she was a co-ruler. She mastered the art of "soft power," using the language of maternal care and religious devotion to mask a sharp, pragmatic administrative mind. As Regent of England, she chaired councils and issued legal charters, proving that her elite convent education in three languages and geometry was a practical toolkit for governance.
-* The "Nun" Myth vs. Reality: Her early years were marked by defiance. She famously rejected the veil forced upon her by her aunt, viewing it as a tool of confinement rather than a calling. When challenged, she used the legal system to prove her secular status, clearing the path to marry Henry I and unite the warring royal bloodlines of Wessex and Normandy.
-* Cultural Patronage: She turned the English court into a premier European arts hub. While she loved hagiography and courtly music—notably commissioning The Voyage of Saint Brendan—this was not purely for pleasure. Her lavish funding of poets and musicians was a deliberate "branding" exercise to elevate the prestige of her dynasty, even when it drew criticism for being overly expensive.
-* A "Good Queen" by Design: Her reputation for "exceptional holiness" was both a personal conviction and a political masterstroke. By walking barefoot and washing the feet of the poor, she mirrored the saintliness of her mother, St Margaret. This gained her the deep loyalty of the English people, providing Henry I with the internal stability he needed to maintain his continental empire.
-* Legacy of Infrastructure: Her religious devotion was practical. She despised the idle life of the cloister but loved "holy works" that improved the realm, such as founding St Giles' hospital for lepers and commissioning the Bow Bridge, England’s first arched stone bridge.
+- **Name:** Stanwey (Old English *Stān* “stone” + *Weg* “way/road”)
+- **Location:** ~5 miles southwest of Rockingham Castle
+- **Size:** 5 hides (~600 acres)
+- **Features:** Stanwey Hall (timber‑framed great hall), St. Peter’s Church, watermill, iron‑smelting pits
+- **Lord:** Harold ‘Rauthulfr’ Magnússon, a rare survivor thegn
+- **Population:** ~120 souls (24 households)
 
 ---
 
-## Inner Struggles – Main Characters (Table)
+## HISTORICAL BACKGROUND
 
-| Character | Inner Struggle (Rooted in Character & Life Choices) | How It Manifests | Growth Arc | Real‑Person Parallel | Narrative Payoff |
-|-----------|--------------------------------------------------|------------------|------------|----------------------|------------------|
-| **Beatrice** | **Fear of losing control** – after her mother’s death, she built an identity around running Stanwey and protecting her father. The betrothal threatens to strip her of agency. | She resists the vow, clings to denial, panics when she imagines leaving. Her outburst “I want to be the one who chooses” is a cry for autonomy. | She moves from reactive resistance to active, informed choice—first observing Godfrey, then testing him, finally declaring her will publicly (cup ritual, legal hearing). | A caregiver who has taken on adult responsibility early; feels that her life is being taken from her. Often seen in young adults who parent siblings or ill parents. | Her public choice in the cup ritual and later at the hearing proves she has reclaimed agency. The “not for Stanwey” refrain is finally resolved. |
-| **Godfrey** | **Learned passivity (“shadow”)** – from a lifetime of being ignored, counted, and dismissed. He internalised that watching is safer than acting. | He admits “I have spent my life watching.” He hesitates to act, even when he wants to. He lets Beatrice leave the hall without telling her the truth. | He moves from watcher to actor: first by following her, then by helping at Stanwey, later by confronting Sir Guy, and finally by his role in the cup ritual. | Someone who grew up in the shadow of a dominant parent or sibling; learned that speaking up led to rejection or punishment. Often becomes a quiet, hyper‑observant adult. | His confrontation with Sir Guy is the active turning point. Henry’s recognition (“he can wait, but when the moment comes, he moves”) validates his growth. |
-| **Harold** | **Fear of leaving Beatrice alone** – his declining health and the memory of his wife’s death make him desperate to secure Stanwey before he dies. This led him to push suitors. | He tried to arrange matches for Beatrice; when she refused, he worried. He initially considered Sir Guy. He nearly sent her away to Westminster without resolving his fear. | He learns to trust Beatrice’s judgment and Godfrey’s character. He lets her choose, and accepts Henry’s provision of a reeve and cook, letting go of the need to control the outcome. | A parent facing mortality, struggling to let go of control over a child’s future. Often seen in aging parents who want to “fix” things before they go. | His final ease (“So it seems”) when Beatrice chooses Godfrey is the release. His quiet pride at the wedding is the reward. |
-| **Henry** | **Fear of repeating his father’s mistakes** – he conquered a kingdom but struggles with succession, baronial discontent, and the memory of his own landless youth. He uses Godfrey partly as a test. | His rash vow is a gamble. He wavers between treating Godfrey as a pawn and recognising his worth. He is torn between the queen’s fears for William and his own desire to be a good father. | He comes to see Godfrey not as a threat but as a shield. He publicly acknowledges Godfrey’s worth (Welsh story) and accepts the cup ritual as binding. He leaves England trusting the queen and his son. | A leader with high ambition, haunted by family dysfunction, trying to balance legacy and genuine care for his children. | His pride in Godfrey at the cup ritual is a quiet moment of paternal redemption. The historical tragedy (White Ship) will later shadow this, but within the story, he has succeeded. |
-| **Queen Matilda** | **Fear for her son William’s succession** – she sees Godfrey as a potential rival. Her political pragmatism initially overrides family feeling. | She pushes for Godfrey to be sent to Brittany. She calls him “shadow” (in earlier drafts). She is cold to Beatrice initially. | She shifts when she sees Godfrey is not ambitious, and Beatrice is steady. She becomes Beatrice’s protector, uses her political skills to support the match, and trusts Henry’s judgment. | A mother who fears her child’s position is insecure; she may see stepchildren as threats even when they are not. Common in blended royal families. | Her public support of Beatrice (Ch 20) and her private conversation with Beatrice about being Edith of Scotland show her growth. |
-| **Sir Guy** | **Entitlement masked as grievance** – his family lost lands (Évreux), and he believes he deserves to take what he can. He resents Beatrice’s refusal and sees Stanwey as his due. | He pursues Beatrice, then tries to intimidate her. He conspires with Beaumont agents. He brings a legal challenge. He threatens Harold. | He does not grow; he is defeated. His defeat is public (hearing) and his conspiracy is exposed. He leaves court, later to die in rebellion. | A person who feels the world owes them something, often due to family grievance or perceived injustice. They become bitter and predatory. | His banishment and the historical nod to his death in the 1118 rebellion tie off his arc. He serves as contrast to Godfrey’s growth. |
+### The Welsh Campaign of 1114
 
----
+Henry I launched a three‑pronged invasion to force the Welsh princes into submission. Owain ap Cadwgan submitted, was taken to Normandy, and later knighted.
 
-## Summary – How These Struggles Serve the Story
+### The White Ship Disaster (1120)
 
-1. **Psychological realism**: Each character’s flaw stems from believable life experiences (death of a parent, neglect, aging, political pressure). The growth arcs are earned through action, not just dialogue.
+The White Ship sank near Barfleur, killing nearly 300 people, including William Adelin. Only one man survived. The disaster was caused by drunkenness, a reckless race, and rejection of a priest’s blessing.
 
-2. **Active agency**: Godfrey’s shift from watcher to actor is dramatised (confronting Sir Guy). Beatrice’s agency is enacted through ritual and public declaration. Henry’s growth is shown through his pride in Godfrey.
+### Matilda (Edith) of Scotland
 
-3. **Healthy masculinity**: Godfrey’s strength is quiet, patient, and protective. He doesn’t fight with swords; he uses his status and his calm presence. This aligns with CinemaTherapy’s celebration of Aragorn‑style masculinity.
-
-4. **Father‑daughter bond**: Harold’s arc is about learning to let go; Beatrice’s is about stepping into her own adulthood. Their final ease together is earned.
-
-5. **Queen Matilda’s arc**: Her shift from suspicious to supportive is a model of emotional growth. Her private revelation (Edith of Scotland) adds depth.
-
-6. **Vulnerability as strength**: Henry admits his mistakes, Harold shows his fear, Godfrey confesses he’s never had a home. These moments build trust and connection.
-
-7. **The cup ritual**: It encapsulates the climax of multiple arcs: Beatrice’s agency, Godfrey’s action, Henry’s recognition, Harold’s release. It is a perfect “show, don’t tell” moment.
-
-8. **Conspiracy subplot**: Serves as external pressure that forces Godfrey to act, and gives Sir Guy a motivation rooted in historical grievance rather than simple villainy. The confrontation scene is the active payoff.
+Matilda was a co‑ruler, a patron of the arts, and a “good queen” by design. She was born Edith, a Saxon princess, and used her piety to gain the loyalty of the English people.
 
 ---
 
+## INNER STRUGGLES – MAIN CHARACTERS (Table)
 
-## THE GOOSE BRIDE — THE CHARACTERS
-
-TODO - update with missing characters
+| Character | Inner Struggle | Growth Arc |
+|-----------|----------------|------------|
+| **Beatrice** | Fear of losing control | Moves from resistance to active choice |
+| **Godfrey** | Learned passivity (“shadow”) | From watcher to actor |
+| **Harold** | Fear of leaving Beatrice alone | Learns to let go |
+| **Henry** | Fear of repeating his father’s mistakes | Recognises Godfrey’s worth |
+| **Queen Matilda** | Fear for William’s succession | From suspicion to support |
+| **Sir Guy** | Entitlement masked as grievance | Defeated, does not grow |
 
 ---
+
+## THE GOOSE BRIDE — CHARACTERS
 
 ### The King and his Family
 
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **King Henry I** | King of England, Duke of Normandy. Volatile, witty, dangerous, but ultimately just. Father of Godfrey and William. His rash vow drives the plot. |
-| **Queen Matilda of Scotland** | Henry's wife. Born Edith of Scotland, with Saxon heritage. Politically astute, protective of her son William, but capable of growth. Beatrice's unexpected ally. | 
-| **William Adelin** | Henry's legitimate son and heir, age 12. Queen Matilda's motivation for her initial opposition to Godfrey's match. | 
-| **Robert Curthose** | Henry's imprisoned older brother. The man Harold saved from the Severn. Never appears, but his rescue is the source of the old debt. | 
-| **Godfrey FitzRoy** | Deuteragonist. Illegitimate son of King Henry I, age 19. A watcher, a waiter, a listener. Has been called "shadow" and "coin" his whole life. | 
-| **Duchess Matilda FitzRoy** | Henry's daughter, Godfrey's full-sister. Duchess of Brittany by betrothal (marries 1118). Sharp, observant, becomes Beatrice's friend. | 
-| **Avice** | Godfrey's jealous half-sister (fictional), age 21. Dark-haired, with a smile that never reaches her eyes. Represents court hostility. | 
-| **Eustacia** | Godfrey's younger half-sister (fictional), age 19. Fairer, quicker to laugh, but the laughter is often at someone's expense. Pairs with Avice. | 
+| Character | Identity |
+| :--- | :--- |
+| **King Henry I** | Volatile, witty, dangerous, ultimately just. Father of Godfrey and William. |
+| **Queen Matilda of Scotland** | Born Edith. Saxon heritage. Politically astute, protective of William. |
+| **William Adelin** | Legitimate son and heir, age 12. |
+| **Robert Curthose** | Henry’s imprisoned brother; saved by Harold. |
+| **Godfrey FitzRoy** | Illegitimate son, age 19. A watcher, called “shadow” and “coin”. |
+| **Duchess Matilda FitzRoy** | Henry’s daughter, Godfrey’s full sister. Becomes Beatrice’s friend. |
+| **Avice** | Godfrey’s jealous half‑sister (fictional), age 21. |
+| **Eustacia** | Godfrey’s younger half‑sister (fictional), age 19. |
 
----
+### Nobles over the Sea (Mentioned Only)
 
-### Nobles over the sea (Mentioned Only)
-
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **Conan, Duke of Brittany** | Father of Agnes. Proposes the match between Agnes and Godfrey. |
-| **Agnes of Brittany** | Conan's daughter, offered as Godfrey's bride with a dowry of 10,000 marks. The "Brittany threat" throughout the courtship. | 
-| **Alain** | Conan's father, retiring to a monastery. Supports the match. | 
-| **Giselberthe of Flanders** | Henry I's maternal aunt. |
-
----
+| Character | Identity |
+| :--- | :--- |
+| **Conan, Duke of Brittany** | Father of Agnes. |
+| **Agnes of Brittany** | Offered as Godfrey’s bride. |
+| **Alain** | Conan’s father, retiring to a monastery. |
+| **Giselberthe of Flanders** | Henry I’s maternal aunt. |
 
 ### The Saxons of Stanwey
 
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **Harold Red-Wolf** | Beatrice's father. A Saxon thegn, once a warrior who rode with kings and saved Henry's brother from drowning. Now old and frail, but sharp-eyed. | 
-| **Beatrice's Mother** | (Name unknown) Harold's wife, died when Beatrice was 11. Formerly at court? Taught Beatrice everything: herbs, brewing, healing, people. | 
-| **Beatrice** | Protagonist. Daughter of Harold Red-Wolf. A Saxon girl of 16 who runs her father's manor, speaks her mind, and loves her goose Goosie above almost all else. | 
-| **Goosie** | Beatrice's goose. Hatched from an egg Beatrice acquired as a child. Her mother's last gift. Comic relief, emotional barometer, and plot engine. | 
-
----
+| Character | Identity |
+| :--- | :--- |
+| **Harold Red‑Wolf** | Beatrice’s father. Old, frail, but sharp‑eyed. |
+| **Beatrice’s Mother** | (Name unknown) Died when Beatrice was 11. |
+| **Beatrice** | Protagonist, age 16. Runs the manor. |
+| **Goosie** | Beatrice’s goose. |
 
 ### Knights and Nobles
 
-| Character | Identity / Purpose | 
+| Character | Identity |
 | :--- | :--- |
-| **Lady Margaret** | Beatrice's daily mentor at court, age 29. Assigned by the Queen (likely). Experienced, patient, quietly kind. Teaches Beatrice court etiquette and survival. | 
-| **Sir Guy de Montfort** | Young Norman knight, age 24. A bully, petty and cruel. Insulted by Beatrice at a fair months before the story. Wants Stanwey's lands. |
-| **Roger of Salisbury** | Henry's Justiciar, age 49. The second most powerful man in England. Keeper of the ledger, sees people as numbers. Cold, efficient, not cruel—just mathematical. | Chapter 9 — The Ledger and the Lion |
-| **Court Whisperers** | Unnamed nobles, ladies, and servants who spread rumors and erode Beatrice's reputation. Represent the system's constant pressure. | 
+| **Lady Margaret** | Beatrice’s daily mentor at court, age 29. |
+| **Sir Guy de Montfort** | Young Norman knight, age 24. Wants Stanwey. |
+| **Roger of Salisbury** | Henry’s Justiciar, bishop, age 49. |
+| **Court Whisperers** | Unnamed nobles and servants. |
+
+### Minor Characters – Royal Court
+
+| Character | Identity |
+| :--- | :--- |
+| **The Clerk** | Royal clerk. |
+| **The Steward** | Household steward. |
+| **The Royal Marshal** | Marked a gander with the king’s seal. |
+
+### Minor Characters – Stanwey Farms and Beyond
+
+| Character | Identity |
+| :--- | :--- |
+| **The Nurse** | Former wet nurse, owns the farm by the river bend. |
+| **The Reeve** | Stanwey’s village headman. |
+| **Staghound** | Harold’s loyal dog. |
+| **The Priest** | Village priest at St. Peter’s. |
+| **Farmer’s Wife** | Loses her flock to murrain. |
+| **Tenant Farmer** | Loses birds to the Abbot’s tithe collector. |
+| **The Old Woman** | Speaks the proverb at the wedding. |
+| **The Abbot** | Unnamed tithe collector. |
 
 ---
 
-### Minor Characters - Royal Court
+## QUICK GLOSSARY (excerpt)
 
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **The Clerk** | Royal clerk who records the king's words. | 
-| **The Steward** | Royal household steward who clears space for the Queen. | 
-| **The Royal Marshal** | Marked a gander with the king's seal. Never appears directly. | 
+*For the full glossary, see the separate section in the book or interactve words on the web.*
 
-### Minor Characters - Stanwey Farms and Beyond
+**Old English (Anglo‑Saxon)**
+- **thegn** – a lord or retainer
+- **wergild** – man price (blood money)
+- **huscarl** – household bodyguard
 
-| Character | Identity / Purpose | 
-| :--- | :--- | 
-| **The Nurse** | A former wet nurse, age 39. Owns a farm by the river bend where Goosie's egg came from. Gruff, wise. | 
-| **The Reeve** | Stanwey's village headman. Harold considers sending him with the goose tribute. | 
-| **Staghound** | Harold's loyal dog. Always by the fire at Stanwey. Dies shortly after Harold. | 
-| **The Priest** | Arranged the candles at Beatrice's mother's deathbed. | 
-| **Farmer's Wife** | One of the farmers Beatrice visits while searching for a bird. Her flock was taken by murrain. | 
-| **Tenant Farmer** | Another farmer Beatrice visits. His birds were taken by the Abbot's tithe collector. | 
-| **The Old Woman** | Speaks the proverb at the wedding. Represents folk wisdom. | 
-| **The Abbot** | (Unnamed) Tithe collector who stripped local farms. Never appears directly. | 
+**Middle English (c. 1100‑1500)**
+- **escheat** – reversion of land to the crown
+- **purveyance** – right of the crown to requisition goods
+- **garderobe** – toilet
+- **posset** – hot drink of milk and ale
+
+**Archaic Verbs, Adverbs, Adjectives**
+- **wend** – to go
+- **hie** – to go quickly
+- **forsooth** – indeed
+
+**The Scholar’s Words**
+- **runes** – ancient angular letters
+- **Latinate clusters** – groups of Latin‑derived words
+- **regent** – one who rules in the king’s absence
 
 ---
+
+**END OF APPENDICES**
+---
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- GLOSSARY HELPER -->
 
@@ -5534,449 +4751,373 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 
 <span id="STARTGLOSSARY"></span>
 
-### Old English (Anglo-Saxon origins, often obsolete or archaic)
-
-- **bēag** (ring, bracelet)  
-- **boc** (as in “book” – OE *bōc*)  
-- **burh** (borough, fortified place)  
-- **cild** (child)  
-- **cniht** (as in “knight”) – originally a youth or servant  
-- **cot** (cottage)  
-- **cotlif** (cottage with land)  
-- **cwen** (queen)  
-- **cyning** (king)  
-- **denu** (valley)  
-- **dohtor** (daughter)  
-- **ēa** (river)  
-- **ealdorman** (alderman, noble)  
-- **fæder** (father)  
-- **feld** (field)  
-- **feoh** (cattle, property, money)  
-- **folc** (folk, people)  
-- **gār** (spear)  
-- **gebur** (peasant)  
-- **gesith** (companion, retainer)  
-- **hām** (home, village)  
-- **helm** (helmet)  
-- **hlæfdige** (lady)  
-- **hlaford** (lord)  
-- **hlāforddōm** (lordship)  
-- **huscarl** – a household bodyguard  
-- **lēah** (wood, clearing)  
-- **mæg** (kinsman)  
-- **mæġden** (maiden)  
-- **mere** (as in “merely” – archaic sense of boundary or sea)  
-- **mōdor** (mother)  
-- **mōnaþ** (month)  
-- **mōr** (moor)  
-- **rēaf** (robe, spoil)  
-- **rīdere** (rider, knight)  
-- **sǣ** (sea)  
-- **scir** (as in “shire”) – administrative division  
-- **sċyld** (shield)  
-- **stōw** (place)  
-- **strǣt** (street, Roman road)  
-- **sunu** (son)  
-- **thegn** – a lord or retainer in Anglo-Saxon England  
-- **tūn** (town, enclosure)  
-- **villein** (from OE *villein* – a feudal tenant; but the term is Norman French, often used in medieval context) – included under Middle English.
-- **wæpen** (weapon)  
-- **wella** (well, spring)  
-- **wer** (as in “weregeld” – man)  
-- **wergild** (man price)  
-- **wīf** (wife, woman)  
-- **witan** (implied in “witless” – “wit” from OE *witt*)  
-- **witenagemot** (implied in “witan”) – council  
-- **wudu** (wood)  
-- **þegnian** (to serve)  
+### **I. Power, Law & The Royal Court**
+- **cyning** (King; Old English *cyning*)
+- **cwen** (Queen; Old English *cwēn*)
+- **regent** (A person who rules while the King is away)
+- **fitzroy** (The surname for a King's child born outside of marriage; *Fitz* means 'child of' and *Roy* means 'King')
+- **hlaford** (Lord; Old English *hlāford*)
+- **hlæfdige** (Lady; Old English *hlæfdige*)
+- **hlāforddōm** (Lordship)
+- **ealdorman** (Alderman, a high-ranking noble)
+- **noble** (An aristocrat or person of high rank)
+- **license** (The official permission or 'leave' granted by a King or Lord to do something important)
+- **justiciar** (The highest royal official for law)
+- **sheriff** (The *shire reeve*; the King's law official in a county)
+- **exchequer** (The royal treasury)
+- **chancellor** (The official in charge of the King's writing and seals)
+- **writ** (A written order or legal command)
+- **charter** (A formal written grant or treaty)
+- **letters patent** (Open letters from the crown for all to see)
+- **patent** (An open letter or grant)
+- **assize** (A court session or a specific legal act)
+- **oyer** (The legal right to hear a case)
+- **terminer** (The legal power to determine or finish a case)
+- **amercement** (A fine paid to a lord or King)
+- **attainder** (The loss of all civil rights and land due to a crime)
+- **escheat** (When land goes back to the King because there is no heir)
+- **escheator** (The official who handles land that has "escheated")
+- **forfeiture** (The loss of property as a punishment)
+- **outlawry** (Being declared "outside the law," where anyone can harm you)
+- **hue and cry** (The duty of all citizens to chase a criminal)
+- **frankpledge** (A system where a group is responsible for each member's behavior)
+- **view of frankpledge** (A court that checked these groups)
+- **tithing** (A group of ten households who looked out for each other)
+- **trespass** (A legal term for a wrong—not just walking on land)
+- **quitclaim** (A formal release of a legal claim)
+- **manumission** (The formal act of freeing a serf)
+- **rebellion** (An organized fight by lords against their King)
+- **deported** (Forcibly sent out of a country back to one’s land of birth)
 
 ---
 
-### Middle English (c. 1100–1500, words now rare, archaic, or historical)
-
-- **abbot** (monastery head)  
-- **acre** (unit of land)  
-- **advowson** (right to appoint a priest)  
-- **agister** (official who supervised forest grazing)  
-- **almoner** (distributor of alms)  
-- **amercement** (fine)  
-- **anathema** (formal curse)  
-- **archbishop** (senior clergy)  
-- **archdeacon** (senior clergy)  
-- **arrowslit** (narrow window in a castle)  
-- **assart** (land cleared for cultivation)  
-- **assize** (court session, legal enactment)  
-- **attainder** (loss of civil rights)  
-- **auto‑da‑fé** (not English) – excluded  
-- **aviceSKIP_LINK** (a name, but also an old word for a kind of bird) – rare  
-- **bailey** (castle courtyard)  
-- **bailiff** (manorial officer)  
-- **bailiwick** (area of jurisdiction)  
-- **barbican** (outer fortification)  
-- **bishop** (senior clergy)  
-- **blood‑wite** (fine for bloodshed)  
-- **bordar** (a peasant with a cottage)  
-- **bordars** (smallholders in the Domesday system)  
-- **bovate** (oxgang)  
-- **bride‑wite** (fine for taking a bride)  
-- **buttery** (room for storing provisions)  
-- **canonSKIP_LINK** (cathedral clergy)  
-- **carter** (cart driver)  
-- **carucage** (land tax)  
-- **carucate** (land measure in Danelaw)  
-- **chantry** (chapel endowed for masses)  
-- **chaplain** (priest)  
-- **chapterSKIP_LINK** (monastic meeting)  
-- **charger** (warhorse)  
-- **charter** (written grant)  
-- **chaseSKIP_LINK** (hunt, a private hunting forest)  
-- **child‑wite** (fine for getting a servant pregnant)  
-- **churl** (free peasant, later a boor)  
-- **cloister** (monastic enclosure)  
-- **close roll** (closed letter)  
-- **compurgation** (oath‑swearing as proof)  
-- **cooper** (barrel maker)  
-- **corody** (right to provision)  
-- **coroner** (crown’s officer)  
-- **cottar** (a peasant with a smallholding)  
-- **cottars** (cottagers)  
-- **court baron** (manorial court)  
-- **court leet** (manorial court)  
-- **covenant** (formal agreement)  
-- **crusade** (holy war)  
-- **cucking stool** (ducking stool)  
-- **currier** (leather dresser)  
-- **dairymaid** (milkmaid)  
-- **danegeld** (tax to pay off Vikings)  
-- **dean** (cathedral official)  
-- **demesne** (land retained by a lord)  
-- **destrier** (warhorse)  
-- **donjon** (main tower of a castle)  
-- **ell** (unit of length)  
-- **escheat** (reversion of land to the crown)  
-- **escheator** (official dealing with escheats)  
-- **ewer** (servant who brought water)  
-- **exchequer** (royal treasury)  
-- **excommunication** (exclusion from church)  
-- **farthing** (quarter penny)  
-- **fealty** (loyalty sworn to a lord)  
-- **fineSKIP_LINK** (payment)  
-- **fist‑wite** (fine for fighting)  
-- **forester** (officer in charge of a forest)  
-- **forfeiture** (loss of property)  
-- **frankalmoign** (tenure by religious service)  
-- **franklins** (freeholders)  
-- **frankpledge** (system of collective responsibility)  
-- **friar** (mendicant)  
-- **frumenty** (wheat porridge)  
-- **fuller** (cloth worker)  
-- **furlong** (length of a furrow)  
-- **garderobe** (medieval toilet)  
-- **gavelkind** (a system of land inheritance)  
-- **gibbet** (gallows)  
-- **glebe** (church land)  
-- **gooseherd** (goose keeper)  
-- **groat** (four‑penny piece)  
-- **hackney** (ordinary horse)  
-- **hall** (great hall)  
-- **halmote** (manorial court)  
-- **hearth‑wite** (fine for hiding a crime)  
-- **heathen** (non‑Christian)  
-- **heretic** (one who holds unorthodox beliefs)  
-- **heriot** (death duty)  
-- **hideSKIP_LINK** (unit of land)  
-- **homage** (formal acknowledgment of feudal allegiance)  
-- **hue and cry** (duty to pursue a criminal)  
-- **hundred** (administrative division)  
-- **indenture** (contract with indented edge)  
-- **indulgence** (remission of temporal punishment)  
-- **infidel** (unbeliever)  
-- **inquisition** (heresy investigation)  
-- **interdict** (suspension of sacraments)  
-- **justiciar** (high royal official)  
-- **keepSKIP_LINK** (castle tower)  
-- **knight service** (tenure by military service)  
-- **larder** (food storage)  
-- **lathe** (Kentish division)  
-- **league** (distance)  
-- **letters patent**  
-- **livery** (delivery of property, also uniform)  
-- **manciple** (officer in charge of provisions)  
-- **manumission** (freeing of a serf)  
-- **marks** (unit of currency)  
-- **marshal** (originally a horse-servant, later official)  
-- **mason** (stoneworker)  
-- **mazer** (wooden drinking bowl)  
-- **mendicant** (begging religious)  
-- **merchet** (fine for a serf’s daughter’s marriage)  
-- **miracles** (divine acts)  
-- **mise** (expense, agreement)  
-- **motte** (motte-and-bailey castle)  
-- **murdrum** (fine for the secret killing of a Norman)  
-- **napery** (linen)  
-- **neatherd** (cowherd)  
-- **noble** (aristocrat, someone notable)  
-- **obit** (memorial mass)  
-- **ordeal** (trial by fire/water)  
-- **outlawry** (declared outside the law)  
-- **oxherd** (ox keeper)  
-- **oyer** (hear a case)  
-- **pagan** (non‑Christian)  
-- **palfrey** (saddle horse)  
-- **palmer** (pilgrim who brought back a palm)  
-- **pantry** (bread storage)  
-- **papal legate** (representative)  
-- **pardoner** (seller of indulgences)  
-- **parson** (priest)  
-- **patent** (open letter from the crown)  
-- **penny** (coin)  
-- **perch** (land measure)  
-- **pilgrim** (one who goes on pilgrimage)  
-- **pillory** (punishment frame)  
-- **pipe roll** (annual financial record)  
-- **ploughman** (plowman)  
-- **portcullis** (castle gate)  
-- **posset** (hot drink of milk and ale)  
-- **pottage** (stew)  
-- **prebend** (stipend for a canon)  
-- **priorSKIP_LINK** (monastic official)  
-- **purgatory** (place of purification)  
-- **purveyance** (right of the crown to requisition goods)  
-- **quicksilver** (mercury, liquid metal used in gold mining)
-- **quitclaim** (release of claim)  
-- **reaper** (harvester)  
-- **rectory** (benefice)  
-- **reeve** (manorial officer)  
-- **relic** (sacred object)  
-- **rood** (quarter acre)  
-- **rouncey** (all‑purpose horse)  
-- **sanctuary** (place of refuge)  
-- **scutage** (tax paid in lieu of military service)  
-- **serf** (unfree labourer)  
-- **serjeanty** (tenure by personal service)  
-- **shepherd** (sheep keeper)  
-- **sheriff’s tourn** (court)  
-- **sheriff** (from *shire reeve*)  
-- **shilling** (coin)  
-- **shrine** (place of pilgrimage)  
-- **socage** (type of land tenure)  
-- **solar** (private sunny upper room in a medieval house)  
-- **sower** (sower of seeds)  
-- **spicery** (spice storage)  
-- **sterling** (English currency)  
-- **steward** (household or estate manager)  
-- **stocks** (punishment frame)  
-- **summoner** (church court officer)  
-- **sumpter** (packhorse)  
-- **swineherd** (pig keeper)  
-- **tallage** (tax on tenants)  
-- **tally** (stick for recording accounts)  
-- **tanner** (leather worker)  
-- **terminer** (determine a case)  
-- **thatcher** (roof thatcher)  
-- **tithe** (one tenth of produce due to the church)  
-- **tithing** (group of ten households)  
-- **trencher** (wooden plate)  
-- **trespass** (legal term – not always physical)  
-- **verderer** (judicial officer in royal forests)  
-- **vicarage** (benefice)  
-- **view of frankpledge** (court)  
-- **vill** (a village or hamlet)  
-- **villein** (unfree peasant)  
-- **virgate** (land measure)  
-- **wain** (wagon)  
-- **wainwright** (wagon maker)  
-- **wapentake** (Danish administrative division)  
-- **ward** (guardianship, or a ward in a castle)  
-- **warden** (guard)  
-- **wardship** (guardianship of a minor)  
-- **warren** (area for breeding game)  
-- **wergild** (again)  
-- **wheelwright** (wheel maker)  
-- **writ** (written order, fine)  
+### **II. Castles, Combat & The Knight’s World**
+- **burh** (A fortified place or "borough")
+- **motte** (The high earthen mound a castle sits on)
+- **bailey** (The castle courtyard)
+- **donjon** (The main tower or "keep" of a castle)
+- **keep** (The strongest, central tower of a castle)
+- **barbican** (An outer fortification guarding a gate)
+- **portcullis** (A sliding heavy gate of iron and wood)
+- **oubliette** (A deep dungeon reached only through a trapdoor)
+- **ward** (A guarded area or a section of a castle)
+- **battlement** (A parapet at the top of a wall with gaps for shooting)
+- **crenellation** (The notched pattern at the top of a castle wall)
+- **merlon** (The solid part of a battlement)
+- **embrasure** (An opening in a wall for firing weapons)
+- **machicolation** (An overhanging gallery for dropping rocks on enemies)
+- **hoarding** (A wooden gallery built on a castle wall)
+- **curtain wall** (The outer wall connecting castle towers)
+- **postern** (A small, secret back gate)
+- **sally port** (A gate used for "sallying out" to attack siegers)
+- **drawbridge** (A bridge that can be raised to block an entrance)
+- **moat** (A deep ditch, often filled with water)
+- **palisade** (A strong wooden fence for defense)
+- **cniht** (Knight; originally meaning a youth or servant)
+- **rīdere** (A rider or knight)
+- **manfully** (To act with the courage, strength, and responsibility expected of a knight)
+- **knight service** (Holding land in exchange for fighting for a lord)
+- **scutage** (Money paid to a King instead of performing military service)
+- **huscarl** (A household bodyguard)
+- **warden** (A high-ranking guard or official)
+- **archer** (A bowman)
+- **arrowslit** (A narrow window in a castle wall)
+- **arrow loop** (Another name for an arrowslit)
+- **crossbow** (A bow with a mechanical draw)
+- **arbalest** (A very heavy, powerful crossbow)
+- **mangonel** (A type of catapult for throwing rocks)
+- **trebuchet** (A massive siege engine for hurling stones)
+- **ballista** (A giant crossbow engine for siege warfare)
+- **battering ram** (A heavy beam used to break down gates)
+- **siege tower** (A tall wooden tower on wheels for attacking walls)
+- **sapper** (A soldier who digs tunnels under enemy walls)
+- **gār** (Spear; Old English *gār*)
+- **lance** (A long spear used by knights on horseback)
+- **mace** (A heavy club, often with a metal head)
+- **glaive** (A long pole with a large blade on the end)
+- **halbard** (A pole weapon with an axe and a spike)
+- **flail** (A weapon with a spiked ball on a chain)
+- **sċyld** (Shield; Old English *sċyld*)
+- **helm** (Helmet)
+- **coif** (A chain mail hood or close-fitting cap)
+- **hauberk** (A long shirt of chain mail)
+- **cuirass** (A metal breastplate)
+- **gorget** (Armor that protects the throat)
+- **pauldron** (Armor for the shoulder)
+- **vambrace** (Armor for the arm)
+- **poleyn** (Armor for the knee)
+- **greave** (Armor for the lower leg)
+- **sabaton** (Armor for the foot)
+- **surcoat** (A garment worn over armor)
+- **tabard** (A short coat showing a knight's coat of arms)
+- **charger** (A powerful horse used in battle)
+- **destrier** (The finest type of warhorse)
+- **palfrey** (A smooth-riding horse for traveling)
+- **rouncey** (An all-purpose, everyday horse)
+- **hackney** (An ordinary, hired horse)
+- **sumpter** (A packhorse for carrying baggage)
+- **marshal** (Originally a horse-servant; later a high official)
 
 ---
 
-### Historical/Archaic Terms Not in Frequent Use (General)
-
-- **arbalest** (heavy crossbow)  
-- **arrow loop** (arrow slit)  
-- **bailey** (again)  
-- **ballista** (siege engine)  
-- **barbican** (again)  
-- **battering ram** (siege engine)  
-- **battlement** (parapet)  
-- **chaplet** (garland)  
-- **coif** (head covering, chain mail hood)  
-- **cotte** (tunic)  
-- **crenellation** (notched battlements)  
-- **crespine** (hair net)  
-- **crossbow** (bow with mechanical draw)  
-- **cuirass** (breastplate)  
-- **curtain wall**  
-- **donjon** (again)  
-- **drawbridge** (bridge over moat)  
-- **embrasure** (opening in battlement)  
-- **flail** (agricultural tool used as weapon)  
-- **gallowglass** (mercenary) – later  
-- **glaive** (bladed polearm)  
-- **gorget** (throat armour)  
-- **great tower**  
-- **greave** (leg armour)  
-- **halbard** (polearm)  
-- **hauberk** (chain mail shirt)  
-- **hoarding** (wooden gallery on castle wall)  
-- **kern** (Irish soldier) – later  
-- **kirtle** (gown)  
-- **lance** (spear)  
-- **mace** (club)  
-- **machicolation** (overhanging gallery for dropping objects)  
-- **mangonel** (siege engine)  
-- **merlon** (solid part of battlement)  
-- **moat** (ditch)  
-- **motte** (again)  
-- **oubliette** (dungeon with trapdoor)  
-- **palisade** (wooden fence)  
-- **pauldron** (shoulder armour)  
-- **poleyn** (knee armour)  
-- **portcullis** (sliding gate)  
-- **postern** (back gate)  
-- **sabaton** (foot armour)  
-- **sally port** (sortie gate)  
-- **sapper** (one who digs tunnels under walls)  
-- **shell keep**  
-- **siege tower** (mobile war tower)  
-- **surcoat** (outer garment)  
-- **tabard** (short coat)  
-- **tower house**  
-- **trebuchet** (siege engine)  
-- **vambrace** (arm armour)  
-- **veil** (head covering)  
-- **wimple** (head covering)  
+### **III. The Church, Faith & The Soul**
+- **abbot** (The head of a monastery)
+- **prior** (A monastic official ranking below an abbot)
+- **cloister** (An enclosed walkway in a monastery)
+- **chapter** (A meeting of monks or clergy)
+- **canon** (A member of the clergy serving a cathedral)
+- **prebend** (A portion of cathedral land or money given to a canon)
+- **bishop** (A senior leader in the Church)
+- **archbishop** (A high-ranking bishop in charge of other bishops)
+- **archdeacon** (A senior priest who helps a bishop)
+- **dean** (A senior cathedral official)
+- **parson** (A priest in charge of a local parish)
+- **vicarage** (The home or position of a vicar)
+- **rectory** (The home or position of a rector)
+- **chaplain** (A priest who serves a private chapel)
+- **chantry** (A chapel where priests say prayers for the dead)
+- **papal legate** (The personal representative of the Pope)
+- **friar** (A religious man who travels and begs to help people)
+- **mendicant** (A religious person who lives by begging)
+- **summoner** (An officer who calls people to a Church court)
+- **almoner** (The person who gives out alms to the poor)
+- **alms** (Money, food, or clothing given to those in need)
+- **tithe** (One-tenth of a person's produce given to the Church)
+- **relic** (A holy object from a saint's life or body)
+- **shrine** (A holy place where a relic is kept)
+- **pilgrim** (One who travels to a holy place)
+- **palmer** (A pilgrim who brought back a palm branch)
+- **anathema** (A formal curse or ban from the Church)
+- **excommunication** (Being officially cut off from the Church)
+- **interdict** (A ban on all Church services in a whole land)
+- **indulgence** (A way to reduce punishment for sins)
+- **pardoner** (One who sold "indulgences" to people)
+- **compurgation** (Proving one is innocent by getting others to swear an oath)
+- **ordeal** (A dangerous trial—like fire or water—to let God decide guilt)
+- **purgatory** (A place where souls are purified before Heaven)
+- **miracles** (Divine or supernatural acts)
+- **heathen** (A person who does not believe in Christ)
+- **pagan** (Country dweller; also another term for a non-Christian)
+- **heretic** (One who holds beliefs the Church says are wrong)
+- **heresy** (An belief that goes against the Church)
+- **inquisition** (An investigation into someone's religious beliefs)
+- **infidel** (An "unbeliever")
+- **sanctuary** (A holy place where a person is safe from arrest)
+- **rood** (A cross; also a unit of land)
+- **runes** (Ancient letters carved into wood or stone)
+- **obit** (A special mass or prayer for someone who has died)
+- **glebe** (Land given to a priest for his own use)
+- **advowson** (The right of a lord to choose a local priest)
+- **frankalmoign** (Holding land in exchange for praying for the giver)
 
 ---
 
-### Archaic Verbs, Adverbs, Adjectives
-
-- **abide** (to wait, tolerate)  
-- **albeit** (although)  
-- **anon** (soon)  
-- **art** (are)  
-- **begat** (past tense)  
-- **beget** (to father)  
-- **beholden** (indebted)  
-- **beseech** (to ask earnestly)  
-- **beseem** (to befit)  
-- **bethink** (to consider)  
-- **betide** (to happen)  
-- **betimes** (early, soon)  
-- **betoken** (to signify)  
-- **bewray** (to betray)  
-- **canst** (can)  
-- **certes** (certainly)  
-- **chide** (to scold)  
-- **cleave** (to split)  
-- **clothe** (to dress) – still in use but archaic in some contexts  
-- **cloven** (split)  
-- **couch** (to lie down, also to express)  
-- **deign** (to condescend)  
-- **didst** (did)  
-- **dost** (do)  
-- **doth** (does)  
-- **dwell** (to live)  
-- **ere** (before)  
-- **ere** (before)  
-- **erst** (formerly)  
-- **fain** (gladly)  
-- **fare** (to go, to do)  
-- **fie** (expression of disgust)  
-- **forbear** (to refrain)  
-- **forsake** (to abandon)  
-- **forsooth** (indeed)  
-- **hark** (to listen)  
-- **hath** (has)  
-- **hearken** (to listen)  
-- **hence** (from here)  
-- **hie** (to go quickly)  
-- **hither** (to this place)  
-- **mayst** (may)  
-- **saith** (says)  
-- **spake** (spoke)  
-- **tarry** (to delay)  
-- **thee** (you – object)  
-- **thence** (from that place)  
-- **thine** (yours)  
-- **thither** (to that place)  
-- **thou** (you – singular)  
-- **thy** (your)  
-- **wast** (were)  
-- **wend** (to go)  
-- **wert** (were)  
-- **whence** (from where)  
-- **whither** (to where)  
-- **wilt** (will)  
-- **wouldst** (would)  
-- **ye** (you – plural)  
-
----
-
-### The Scholar’s Words
-- **Runes** (Ancient, angular letters used by Norsemen and Saxons, often carved into stone or wood)
-- **Latinate clusters** (Groups of words or letters that come from the Latin language, often used by scholars like Godfrey; pronounced ‘Lat-in-ate’)
-- **regent** (A person who rules a kingdom while the King is away, as Queen Matilda does for King Henry; pronounced ‘Ree-jent’)
-- **apparition** (A ghostly or sudden appearance of something, like a figure in the mist; pronounced ‘Ap-pa-ri-shun’)
-
----
-
-### The Great Hall & Court
-- **dais** (A raised wooden platform at the end of a hall, where the King and Queen sit above the crowd; pronounced ‘Day-iss’)
-- **grace** (A word for mercy, elegance, or a high favor granted by a ruler)
-- **sconces** (Metal brackets held against a wall to hold flickering torches or candles; pronounced ‘Skon-ses’)
-- **brazier** (A large metal basket or pan used to hold burning coals to heat a cold stone room; pronounced ‘Bray-zeer’)
-
----
-
-### The Village & Trade
-- **merchant** (A person who buys and sells goods like wool or wine, often traveling long distances to trade)
-- **pied** (A word for something having two or more colors in patches, like a bird’s feathers or a traveler’s patterned cloak)
-- **hamper** (A sturdy wicker basket with a lid, used for carrying valuable goods or a very important goose)
-- **poppet** (A small handmade doll or figure, often made of cloth or straw)
+### **IV. Village, Farm & Trade**
+- **folc** (Folk or people)
+- **tūn** (A town or enclosed village)
+- **vill** (A village or hamlet)
+- **scir** (A "shire" or administrative county)
+- **hundred** (A smaller division of a shire)
+- **lathe** (A division of the county of Kent)
+- **wapentake** (A division of land in Viking-influenced areas)
+- **hām** (Home or village)
+- **mæg** (Kinsman)
+- **sunu** (Son)
+- **dohtor** (Daughter)
+- **fæder** (Father)
+- **mōdor** (Mother)
+- **wīf** (Wife or woman)
+- **mæġden** (Maiden)
+- **cild** (Child)
+- **gebur** (A peasant)
+- **churl** (A free peasant; later came to mean someone rude)
+- **serf** (An "unfree" laborer bound to the land)
+- **villein** (A feudal tenant; an unfree peasant)
+- **franklins** (Freeholders; peasants who owned their own land)
+- **bordar** (A peasant with a very small cottage)
+- **cottar** (A peasant with a small cottage and no plow)
+- **manor** (The lord's estate and the village around it)
+- **demesne** (The land kept specifically for the lord's own use)
+- **reeve** (The manorial officer who oversaw the village)
+- **bailiff** (The officer who managed the lord's estate)
+- **steward** (The high-ranking manager of a household or estate)
+- **court baron** (A court held for the free tenants of a manor)
+- **court leet** (A manorial court for minor crimes)
+- **halmote** (Another name for a manorial court)
+- **merchet** (A fine paid to a lord when a serf's daughter married)
+- **heriot** (A "death duty" paid to a lord when a tenant died)
+- **tallage** (A tax paid by tenants to their lord)
+- **danegeld** (A tax originally paid to buy off Viking raiders)
+- **carucage** (A tax based on how much land a plow could cover)
+- **knight service** (Service in exchange for land)
+- **socage** (Holding land in exchange for money or farm work)
+- **serjeanty** (Holding land in exchange for a personal service to the King)
+- **gavelkind** (A way of dividing land equally among sons)
+- **wergild** (A "man-price"; the fine paid for killing someone)
+- **blood-wite** (A fine for shedding someone's blood)
+- **fist-wite** (A fine for fighting with fists)
+- **bride-wite** (A fine for taking a bride)
+- **child-wite** (A fine for getting a servant pregnant)
+- **hearth-wite** (A fine for hiding a crime in one's house)
+- **cucking stool** (A "ducking stool" used for punishment)
+- **pillory** (A wooden frame for public punishment)
+- **stocks** (A wooden frame to hold a prisoner's feet)
+- **gibbet** (A gallows for hanging criminals)
+- **ploughman** (One who plows the fields)
+- **sower** (One who sows seeds)
+- **reaper** (One who harvests crops)
+- **shepherd** (One who keeps sheep)
+- **swineherd** (One who keeps pigs)
+- **gooseherd** (One who keeps geese)
+- **neatherd** (One who keeps cows)
+- **oxherd** (One who keeps oxen)
+- **dairymaid** (One who milks cows and makes butter)
+- **thatcher** (One who makes roofs out of straw)
+- **mason** (A person who works with stone)
+- **cooper** (A person who makes barrels)
+- **wainwright** (A person who makes wagons)
+- **wheelwright** (A person who makes wheels)
+- **tanner** (A person who makes leather)
+- **currier** (A person who dresses leather)
+- **fuller** (A person who cleans and thickens cloth)
+- **carter** (A person who drives a cart)
+- **merchant** (A person who buys and sells goods)
+- **quicksilver** (Mercury; used in gold mining and making mirrors)
+- **sterling** (English silver currency)
+- **penny** (The basic silver coin)
+- **farthing** (A quarter of a penny)
+- **shilling** (A coin or value worth 12 pennies)
+- **groat** (A coin worth four pennies)
+- **noble** (A gold coin or a high-born person)
+- **marks** (A unit of weight or money)
+- **tally** (A stick used to record accounts with notches)
+- **pipe roll** (The King's long financial records rolled up)
+- **close roll** (A private, closed royal letter)
 
 ---
 
-### The Work of the Hands and Body
-- **oven peel** (A long-handled wooden shovel used by bakers to slide bread safely into a hot stone oven)
-- **treacle** (A thick, sticky dark syrup used in cooking, known today as molasses; pronounced ‘Tree-kul’)
-- **tilled** (Land that has been turned over and prepared for planting seeds)
-- **wring** (To twist or squeeze something tightly, like wet cloth or a person’s nervous hands)
-- **dregs** (The solid bits that settle at the bottom of a cup of cider or a pot of stew; the very last, least-wanted part of something)
-- **the courses** (A 12th-century term for a woman’s monthly period; it refers to the "natural cycle" or flow of time)
-- **griping** (An old word for sharp, cramping pains in the stomach or bowels)
-- **yarrow** (A hardy wild herb with feathery leaves used by medieval healers to stop bleeding and ease pain; pronounced ‘Ya-ro’)
-- **distaff** (A wooden tool used in spinning to hold the unspun wool; pronounced ‘Dis-taff’)
-- **fleece** (The woolly coat shorn from a sheep in one piece)
+### **V. The Medieval House & Daily Life**
+- **hall** (The "Great Hall"; the main room of a house or castle)
+- **solar** (A private, sunny upper room in a medieval house)
+- **garderobe** (A medieval toilet)
+- **larder** (A room for storing meat and food)
+- **pantry** (A room for storing bread; from the word for "bread")
+- **buttery** (A room for storing ale and provisions)
+- **spicery** (A room for storing valuable spices)
+- **napery** (Table linens and cloths)
+- **ewer** (A servant who brings water for washing)
+- **manciple** (An officer in charge of food and supplies)
+- **trencher** (A flat piece of bread or wood used as a plate)
+- **mazer** (A wooden drinking bowl)
+- **posset** (A hot drink of curdled milk and ale)
+- **pottage** (A thick vegetable and grain stew)
+- **frumenty** (A wheat porridge)
+- **treacle** (A thick, dark syrup used in cooking)
+- **hippocras** (A 12th-century drink of wine mixed with honey and expensive spices)
+- **poppet** (A small handmade doll or figure)
+- **chaplet** (A garland or wreath worn on the head)
+- **veil** (A head covering for women)
+- **wimple** (A cloth that covers the head, neck, and chin)
+- **crespine** (A hairnet made of fine thread or gold wire)
+- **kirtle** (A basic gown or tunic worn by men and women)
+- **cotte** (A long-sleeved tunic)
+- **rēaf** (A robe or fine garment)
+- **linen** (Cloth made from flax)
+- **livery** (The special clothes worn by a lord's servants)
 
 ---
 
-### The European Map
-- **Brittany** (A rugged peninsula in France, home to skilled mercenaries)
-- **Normandy** (The King’s land across the sea, famous for castles and apple orchards)
-- **Évreux** (A place in Normandy, prononced 'Ivroo')
-- **Anjou** (A rival territory in France, pronounced ‘An-joo’)
-- **Flanders** (A wealthy land of weavers and merchants, pronounced ‘Flan-derz’)
-- **Maine** (A heavily wooded borderland between Normandy and Anjou, pronounced ‘Mane’)
+### **VI. Land, Nature & The Shires**
+- **ēa** (River)
+- **sǣ** (Sea)
+- **wella** (A well or spring)
+- **denu** (A valley)
+- **mōr** (A moor; wild, open highland)
+- **wudu** (Wood)
+- **lēah** (A wood or a clearing)
+- **feld** (A field)
+- **stōw** (A place)
+- **strǣt** (A street or Roman road)
+- **mere** (A boundary; also a lake or the sea)
+- **hide** (A unit of land—about 120 acres—enough to support a family)
+- **acre** (The amount of land an ox team could plow in a day)
+- **furlong** (The length of a "furrow" in a plowed field)
+- **rood** (A quarter of an acre)
+- **perch** (A measurement of length or land)
+- **virgate** (A land measurement; about 30 acres)
+- **bovate** (Also called an "oxgang"; as much land as one ox could plow)
+- **carucate** (As much land as a team of eight oxen could plow)
+- **ell** (A unit of length for measuring cloth)
+- **league** (A long distance; about 3 miles)
+- **assart** (Land that has been cleared of trees for farming)
+- **forester** (An officer in charge of the King's woods)
+- **verderer** (A judge in the royal forests)
+- **agister** (An official who oversaw animals grazing in the forest)
+- **chase** (A private hunting forest)
+- **warren** (A place kept for breeding rabbits or game)
 
-### The English Map
-- **Rockingham** (A massive Royal Forest in the middle of England, the King’s private hunting ground)
-- **Westminster** (A village near London, home to the King’s Great Hall and the Abbey)
-- **Devon** (A wild, hilly county in the far southwest of England, known for red earth and tin mines)
-- **Exeter** (The largest fortified city in Devon and the gateway to the west, pronounced ‘Ex-eh-ter’)
-- **Sutton** (A small, quiet fishing village and harbor in Devon that later became the city of Plymouth)
-- **Stanwey** (The quiet manor and farm estate that Beatrice calls home, pronounced ‘Stan-way’ (Fictional))
+---
 
-### The Waterways
-- **Thames** (The great river flowing through Westminster to the sea, pronounced ‘Tems’)
-- **Severn** (A wide, dangerous river in the west with a rushing tidal wave, pronounced ‘Sev-ern’)
+### **VII. Archaic Verbs, Adverbs & Ways of Thinking**
+- **abide** (To wait for or tolerate)
+- **albeit** (Although)
+- **anon** (Soon)
+- **art / canst / didst / dost / doth** (Old forms of "are," "can," "did," and "do")
+- **hath / saith** (Old forms of "has" and "says")
+- **begat / beget** (To father a child)
+- **beholden** (Indebted to someone)
+- **beseech** (To ask very earnestly)
+- **beseem** (To be appropriate or fit)
+- **bethink** (To consider or think about)
+- **betide** (To happen)
+- **betimes** (Early or in good time)
+- **betoken** (To signify or mean something)
+- **bewray** (To betray or reveal a secret)
+- **certes** (Certainly)
+- **chide** (To scold)
+- **cleave / cloven** (To split or divide)
+- **clothe** (To dress)
+- **couch** (To express something in a certain way)
+- **deign** (To condescend or agree to do something beneath you)
+- **dwell** (To live in a place)
+- **ere / erst** (Before / formerly)
+- **fain** (Gladly)
+- **fare** (To travel or to do)
+- **fie** (An exclamation of disgust or disapproval)
+- **forbear** (To refrain from doing something)
+- **forsake** (To abandon)
+- **forsooth** (Truly or indeed)
+- **hark / hearken** (To listen closely)
+- **hence / hither** (From here / to here)
+- **thence / thither** (From there / to there)
+- **whence / whither** (From where / to where)
+- **hie** (To go quickly)
+- **mayst / wilt / wouldst** (Old forms of "may," "will," and "would")
+- **spake** (Spoke)
+- **tarry** (To delay or linger)
+- **thee / thy / thine** (Old forms of "you" and "your")
+- **thou** (You—singular)
+- **wast / wert** (Old forms of "were")
+- **wend** (To go or travel)
+- **ye** (You—plural)
+- **witan / witt** (To know / intelligence; as in "witless")
+- **witenagemot** (The King's council)
+- **þegnian** (To serve)
+
+---
+
+### **VIII. The Map of Beatrice's World**
+- **Westminster** (The King’s home near London; home to the King’s Great Hall and the Abbey)
+- **London** (The great city on the Thames)
+- **Thames** (The great river; pronounced 'Tems')
+- **Devon** (The red-earth county in the far southwest of England)
+- **Exeter** (The fortress city of the west; pronounced 'Ex-eh-ter')
+- **Normandy** (The King’s land across the sea)
+- **Évreux** (A powerful city in Normandy; pronounced 'Iv-roo')
+- **Brittany** (A rugged land in France; home of mercenaries)
+- **Anjou** (A rival land in France; pronounced 'An-joo')
+- **Flanders** (A land of weavers across the sea)
+- **Maine** (The borderland in France; pronounced 'Mane')
 
 <span id="endGLOSSARY"></span>
 
@@ -5987,3 +5128,17 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 1. Original 'fairytale'
 2. 'School Reader' expanded version.
 3. Novella edition (this)
+
+---
+
+## ✅ LICENSE
+
+> **Text (English and Greek):** © 2024-2026 Andrew Kingdom. This work in its entirety is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). Educators may reproduce this story or support materials for classroom use without additional permission. All other rights, including film, translation, and commercial adaptation, are reserved.
+>
+> **Images:** © 2024-2026 Andrew Kingdom. Images are covered under the same CC BY-NC-ND 4.0 license as the text. For commercial or print publication, please contact the author for licensing.
+>
+> **Greek version:** Licensed exclusively to Greek Fairy Tales for publication. All other rights remain with the author.
+>
+> **Attribution for educators:** When sharing, please include: *"The Goose Bride" Edition 3 - © 2024-2026 Andrew Kingdom, used under CC BY-NC-ND 4.0. Original at [https://akingdom.github.io/articles/The_Goose_Bride].*
+> 
+> **Clarification:** This work *is* available under paid licensing arrangements.
