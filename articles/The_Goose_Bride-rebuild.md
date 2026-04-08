@@ -2802,7 +2802,7 @@ De la Roche swirled his wine, his eyes distant. “I remember when the old King 
 
 The Pied Merchant shrugged. “Lands are lost. Lands are won. We are here for what comes next.”
 
-“The King’s vow,” Roche said, setting down his cup. “He swore on the Gospels before bishops and barons. A sacred oath, binding under pain of excommunication. If he breaks it, the Church will turn against him. If the marriage becomes a scandal, his enemies will laugh. Either way, we win.”
+“The King’s vow,” Roche said, setting down his cup. “He swore this before bishops and barons. A sacred oath, binding under pain of excommunication. If he breaks it, the Church will turn against him. If the marriage becomes a scandal, his enemies will laugh. Either way, we win.”
 
 The grey man nodded. “The girl is a nobody. A Saxon thegn’s daughter. If she proves *unfit* – unchaste, unwilling, or simply a fool – the barons will whisper that the King sold his son for a goose. The vow will be mocked.”
 
