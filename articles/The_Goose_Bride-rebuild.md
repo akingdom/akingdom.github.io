@@ -1,6 +1,17 @@
 
 # The Goose Bride
 
+---
+
+> ***STATUS - IN REVIEW (AND REVISION)***
+>
+> => Human Input
+> => AI review
+>
+> => (Related REVIEW NOTES at very end)
+
+---
+
 ## Opening
 
 <div style="text-align: center; margin: 20px 0;">
@@ -5171,3 +5182,92 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 > **Attribution for educators:** When sharing, please include: *"The Goose Bride" Edition 3 - © 2024-2026 Andrew Kingdom, used under CC BY-NC-ND 4.0. Original at [https://akingdom.github.io/articles/The_Goose_Bride].*
 > 
 > **Clarification:** This work *is* available under paid licensing arrangements.
+
+*** 
+
+# REVIEW NOTES
+
+# A Reader's Critique of "The Goose Bride"
+
+Thank you for sharing this complete draft. This is an ambitious work—historical fiction blending with fairy-tale romance, spanning court intrigue, political conspiracy, and domestic tenderness. I'll offer an honest assessment of what works powerfully and where the manuscript might be strengthened.
+
+---
+
+## What Works Exceptionally Well
+
+**The Opening.** The Middle English epigraph and its translation create immediate atmosphere. The image of a boy spreading his cloak like wings to calm geese is haunting and memorable. This is the kind of specific, unexpected detail that lingers.
+
+**The Mother-Daughter Thread.** The scenes of mother teaching daughter—bread-making, herb-lore, the matter-of-fact conversation about menstruation—are tender without sentimentality. The mother's death and Harold's paralysis afterward feel earned, not manipulative. Beatrice's line "There... She knows you" as she places Goosie against her father's shoulder is quietly devastating.
+
+**Goosie as Character.** The goose is never anthropomorphized into cuteness. She hisses, bites, makes messes, and yet her loyalty feels real precisely because it's animal loyalty—instinctive, wordless, unwavering. The scene where Goosie presses against Godfrey's leg and tucks her head under her wing is a small miracle of showing rather than telling.
+
+**The King's Vow.** Henry's impulsive "next pure maid through that door" is exactly the kind of rash, theatrical gesture a volatile king might make—and the consequences spiral believably from it.
+
+**The Cart Scene (Chapter 14).** Beatrice overhearing the family gossip about "the goose girl" while realizing she *is* that girl is masterful dramatic irony. Her internal denial ("Not me. It cannot be me") is psychologically true.
+
+**Godfrey's Character Arc.** The "shadow who learns to act" is a classic structure, but executed with restraint. His swordfight with Sir Guy—acknowledging he's not a warrior, that his form is merely "adequate"—is more satisfying than a sudden martial transformation would be.
+
+---
+
+## Structural Concerns
+
+**The Middle Sags.** Chapters 23-30 (Westminster court intrigue) lose momentum. The half-sisters' cruelty becomes repetitive; the "ghost of Westminster" goose-chaos scene, while amusing, stretches thin. Consider cutting or consolidating.
+
+**Too Many Historical Figures.** Roger of Salisbury, Robert de Beaumont, William Adelin, the Duchess of Brittany—these real historical names appear, deliver a few lines, and vanish. Either give them meaningful roles or replace them with fictional stand-ins who won't distract readers expecting historical significance.
+
+**The Conspiracy Thread Feels Underbaked.** Sir Guy's alliance with de la Roche and the "grey man" is introduced (Chapter 27), then largely forgotten until the capture. The resolution (Chapter 41) dispatches them hurriedly. Either develop this thread or simplify—Sir Guy acting alone would be cleaner and wouldn't diminish the stakes.
+
+**The Epilogue Rushes.** The White Ship disaster (1120) is mentioned in a single sentence. Queen Matilda's death (1118) gets a paragraph. These are major emotional beats that deserve space—or omission if you don't want to deal with them.
+
+---
+
+## Line-Level & Craft Notes
+
+**Dialogue Tags.** You rely heavily on "said Beatrice," "said Godfrey" in sequences where speakers are obvious from context. Trust your reader more.
+
+**Modernisms.** Phrases like "take courage" (Chapter 11) and "permit me to see that he is alright" (Chapter 14) feel slightly anachronistic in their politeness patterns. Compare to authentic period dialogue in, say, *The Name of the Rose* or even *Ivanhoe*—medieval speech should feel slightly formal but not stiff.
+
+**The Glossary Is Overwhelming.** A 150+ term glossary for a 60,000-word novel signals insecurity about the reader's intelligence. Most of these terms either don't appear or are explained in context. Consider cutting to 30 essential terms or removing the glossary entirely.
+
+**The Author's Note ("Professional Answer").** The explanation about "honest mirror / positive core need / psychological tool" reads like an academic grant proposal. Either trust the story to speak for itself or move this reflection to a blog post, not the book itself.
+
+---
+
+## Historical Accuracy Notes
+
+**The "Roman Road" detail** is good, but "Watling Street" specifically ran from Dover to Wroxeter—check whether your Stanwey's location (five miles from Rockingham) would place it on that route.
+
+**The Queen's solar** at Westminster in 1114: The current Westminster Hall was built by William Rufus (1097), but the private royal apartments were less developed. Your description is plausible but slightly idealized.
+
+**The White Ship disaster (1120)** is correctly placed after this story (1114-1115), so mentioning it in the epilogue is fine—but be aware that knowledgeable readers will know William Adelin's death changes everything for Henry's succession. The story doesn't engage with that, which is fine, but the epilogue's casual mention might feel dismissive.
+
+---
+
+## What's Missing
+
+**Beatrice's Interiority in the Middle Chapters.** Once she reaches court, she becomes reactive—observing, enduring, being protected. We lose her voice. A few scenes of her writing letters home (Chapter 25 does this briefly) could be expanded to maintain her perspective.
+
+**The Queen's Motivation.** Matilda shifts from hostile to protective. We get her window-seat confession (Chapter 32), which helps, but the transition feels abrupt. A scene showing her *choosing* to protect Beatrice—rather than simply announcing it—would strengthen this arc.
+
+**Sensory Details of Stanwey.** You describe Westminster vividly (smells, sounds, textures). Stanwey gets less sensory attention. The early chapters have more, but by Part Five, the hall becomes abstract. Ground us there.
+
+---
+
+## Final Assessment
+
+**This is a solid draft that needs tightening and focus.** The core story—a girl, her goose, a king's rash vow, and a quiet prince learning to act—is charming and emotionally true. The historical texture is rich without being pedantic. Beatrice is a protagonist worth following.
+
+**Recommended revisions:**
+1. Cut 15-20% of the Westminster court scenes
+2. Either develop or remove the conspiracy subplot
+3. Add 2-3 scenes showing Beatrice's active perspective mid-story
+4. Trim the glossary and appendices
+5. Strengthen Queen Matilda's arc with one decisive scene
+
+**The audience:** Young adult readers (14-18) who enjoy *The Queen's Thief* series or Robin LaFevers's historical romances. It's too long for middle-grade (8-12) despite the teacher's guide suggesting that range. The 8-12 label feels like marketing hedging.
+
+**The question only you can answer:** Is this a romance with historical window dressing, or historical fiction with a romantic subplot? The manuscript wavers. Clarifying that would sharpen every editorial decision.
+
+---
+
+I recognize this is substantial feedback on a labor of love. The care you've invested—the timeline, the character table, the research—is evident. My criticisms come from respect for what you've built and a desire to see it reach its potential.
