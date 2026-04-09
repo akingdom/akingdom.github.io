@@ -3017,14 +3017,11 @@ Beatrice looked astonished as Matilda continued. ”I remember our nurse telling
 
 Beatrice’s cheeks flushed. “No! That was your brother? Godfrey?”
 
-Matilda stared at her. “That was you?” Matilda’s smile widened. “I can't wait to tell him.”
+Matilda stared at her. “That was you?” Her smile widened, her eyes excited. “Oh! I can't wait to tell him.”
 
 “Well,” Beatrice said softly. “That is something. I meant to thank the boy, Godfrey I mean, but he didn't stay there.”
 
 “He wouldn’t,” Matilda said. “He’s not one to boast.” She took Beatrice’s arm. “So, He has been watching out for you longer than you think!”
-
-
-...
 
 ---
 
