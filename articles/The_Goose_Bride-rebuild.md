@@ -843,11 +843,11 @@ He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, ca
 
 “The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
 
-The Archbishop’s eyes widened. Bishop Bloet exchanged a glance with Roger of Salisbury. The Cistercian monk lowered his head and his lips began to move silently.
+Roger’s eyes widened in shock. Bishop Bloet exchanged a glance with the Archbishop of Caterbury. The Cistercian monk lowered his head and his lips began to move silently.
 
 As for the Queen, she stared at the King, a picture of astonishment. "You cannot possibly mean to cast his life so blindly."
 
-Henry's posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall provide. Elsewise, let the hall stay empty, that I may drink in peace."
+Henry's posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall surely provide. Elsewise, let the hall stay empty, that I may drink in peace."
 
 The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow (*coram rege*)—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
 
