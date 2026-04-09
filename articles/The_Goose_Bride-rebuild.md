@@ -2578,40 +2578,6 @@ She did not write of the locked doors or the garden or such matters. To write it
 
 She gave it to a servant who promised it would reach the Midlands by week's end.
 
----
-
-### A strange morning
-
-The next morning, Lady Margaret appeared at her door before the bells had finished ringing.
-
-"This morning," Margaret said, "we walk. You will see the hall, the chapel, the Queen's chambers. You will learn who to curtsey to and who to simply nod at. It is more complicated than you'd think, and twice as dangerous."
-
-Beatrice pulled on the grey gown and followed.
-
-The Great Hall at dawn was almost empty. The long tables gleamed. The morning light fell through the high windows in pillars of gold. It was the most beautiful thing she had ever seen.
-
-She was still staring when a voice cut through the silence.
-
-"The King's newest curiosity."
-
-She turned. The same two from the garden—Avice and Eustacia—stood in the doorway.
-
-Avice stepped forward, her gaze drifting from Beatrice's gown to her face. "Tell me," she said, her voice a low, melodic purr, "do they not have weavers in the West? Or does your father prefer his women dressed for a sheep-shearing?"
-
-Eustacia giggled. "Perhaps she sleeps in the barn. It would explain the... sturdy nature of the fabric."
-
-Beatrice blinked. She thought of the drafty corridors of the palace, of the cold that seeped through every stone, and felt a surge of genuine pity.
-
-"No," she said clearly. "Our hall has chambers. They are small, but they hold the heat well. You'd find it much warmer than this place."
-
-The sisters exchanged a look of pure, baffled silence.
-
----
-
-Lady Margaret, watching from the shadows, felt a rare tug of amusement.
-
-*She'll do,* she thought. *Not because she's clever enough to play their game—but because she's too much herself to realize they're playing one.*
-
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
@@ -2623,9 +2589,7 @@ Beatrice sat near the foot of the table, a small island in a sea of silk-clad wo
 
 Lady Margaret, from beside her, quietly: “The other one. The broader blade, girl.”
 
-Beatrice switched, face burning. Across the hall, Avice whispered something to Eustacia. Both laughed, watching the comedy.
-
-Then Beatrice caught Godfrey’s eye. He was seated on the dais among his half‑brothers—Robert of Gloucester, broad and quiet as an idle siege tower; Richard of Lincoln, leaning in to hear some jest. Godfrey did not smile. Did not wave. Just… looked. And somehow, that was enough.
+Beatrice switched, face burning. Then she caught Godfrey’s eye. He was seated on the dais among his half‑brothers—Robert of Gloucester, broad and quiet as an idle siege tower; Richard of Lincoln, leaning in to hear some jest. Godfrey did not smile. Did not wave. Just… looked. And somehow, that was enough.
 
 At the high table, the King sat flanked by Queen Matilda and the young heir, William Adelin, who was trying to balance a spoon on his nose. Matilda gently removed it. Robert de Beaumont, the King’s most trusted advisor, leaned across to murmur something that made Henry’s jaw tighten. Roger of Salisbury, the bishop‑chancellor, watched the exchange with the stillness of a spider at the edge of its web.
 
@@ -2705,15 +2669,17 @@ Beatrice did not have yarrow here, but the cooks used ginger for the Queen’s w
 
 ## Chapter 28 - The Wine Spill
 
-Three days after the King’s departure, the hall felt emptier, though just as many people crowded it. The absence of men had left the women to their own devices, and the half‑sisters had grown bolder.
+Three days after the King’s departure, the hall felt emptier, though just as many people crowded it: women to their own devices, now that the men were absent.
 
-Beatrice was crossing the hall with a cup of watered wine for Lady Margaret, who had not slept in two days and now sat by the fire with red‑rimmed eyes, still going over accounts. Eustacia “accidentally” collided with her, sending the cup spinning. Red wine splashed down the front of Beatrice’s only good gown.
+Beatrice was crossing the hall, carefully carrying a cup of watered wine for Lady Margaret.
 
-Eustacia, loudly: “Oh! I’m so sorry—how clumsy of me—”
+Someone collided with her, sending the cup spinning and almost knocking her over. A wave of red wine hit her.
 
-Beatrice stood there, utterly shocked, wine dripping onto the rushes, fighting the urge to cry. The stain spread like a wound.
+Beatrice stood there, utterly shocked, wine dripping onto the rushes. She recognised that girl from her arrival, Eustacia, who exclaimed loudly: “Oh! I’m so sorry—how clumsy of me—”
 
-Avice, sweetly: “Perhaps she should change. Oh, but she hasn’t another gown, has she?”
+The stain spread like a wound on the front of Beatrice’s only good gown, as she fought the urge to cry.
+
+The sister, Avice, chimed in sweetly: “Perhaps she should change into another gown. But, does she have another gown? We might have to lend her one.”
 
 Beatrice remembered Lady Margaret's lessons about controlling her feelings in court. She smiled and turned shakily to leave.
 
@@ -2722,6 +2688,16 @@ Lady Margaret caught her eye, her patience thin.
 Beatrice saw a flicker in her eyes—not pity, but recognition. 
 
 Margaret had been young once, and new to court. She rose stiffly, her joints cracking. “Come, child. We will clean it.”
+
+Beatrice paused. She looked down at the wine stain spreading across her chest – a deep, ugly red. Then she looked at Eustacia’s smug face.
+
+“No,” she said quietly. “I will wear it.”
+
+Lady Margaret blinked. “Child—”
+
+“A stain does not wound.” Beatrice straightened her shoulders. “And I have nothing to be ashamed of.”
+
+She walked across the hall, wine-dark and steady, and took her place at the low table. The whispers followed her, but she refused to bend.
 
 Queen Matilda, watching from the high table, noted the set of Beatrice’s jaw. Noted the way she didn’t look at the sisters. Noted the dignity, and the quiet way Margaret had stood for her.
 
@@ -2732,7 +2708,7 @@ Queen Matilda, watching from the high table, noted the set of Beatrice’s jaw. 
 
 ## Chapter 29 - A Little Understanding
 
-In a side chamber, Beatrice let Lady Margaret clean what could be cleaned of the wine stain on her only gown. 
+Afterwards, in her chamber, Beatrice let Lady Margaret clean what could be cleaned of the wine stain on her only gown. 
 
 A headache was forming at the front of Beatrice's head. “I'm so sorry,” she said as her dress was sponged with white vinegar.
 
