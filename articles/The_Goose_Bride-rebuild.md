@@ -17,6 +17,7 @@
 >
 > - TODO - USA VS British spelling?
 
+
 ---
 
 ## Opening
@@ -212,8 +213,6 @@ She learned which green stalks to gather from the riverbank: willow bark to chew
 
 Most importantly, she learned how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
 
-She became skilled at managing the estate accounts. These were mostly rolls of parchment bound with faded ribbons, kept in a chest at the foot of her mother’s bed. She meant to ask about one entry in an unsteady hand, but was distracted by her goose. It read: “Levy unpaid. See reeve at Michaelmas. Silver set aside.” 
-
 And so, Beatrice learnt. She watched and she listened and she grew.
 
 Then her mother grew tired. Then pale. Then thin.
@@ -368,6 +367,8 @@ And Goosie followed her. Always.
 ## Chapter 5 – The Measure of a Man
 
 It was a still evening in the hall at *Stanwey*. The sun cast long, amber shadows across the rich fallow strips of the fertile river valley, cut deep with an iron tipped plough, and a clamour of rooks circled the wood’s edge, their harsh *kaah-kaah* fading as they settled into the high branches. The smoke from the village fires drifted upward, thin and grey, like a long-held breath finally released.
+
+Her day had been spent poring over the estate accounts, comparing them to earlier years. She had become skilled at managing accounts — her hardest challenge now was keeping Goosie away from the ribbons that bound the parchment rolls. 
 
 The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. Their two servants were cleaning up in the background. Beatrice sat down and watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
 
@@ -1652,13 +1653,13 @@ She crossed the room and knelt beside his chair, taking his cold hand in hers. H
 
 “I’m back.”
 
-Harold looked at his daughter's face—the tear tracks, the swollen eyes, the dirt from the road. His jaw tightened. “What happened?”
+Harold looked at his daughter's face—the tear tracks, the swollen eyes, the dirt from the road. His jaw tightened. “What happened? Tell me.”
 
 ---
 
 ### News for father
 
-Beatrice shook her head for her father's benefit. “Nothing happened. I am well. The goose is well.”
+Beatrice shook her head for her father's benefit. “Nothing happened.” She pressed her lips together, unable to cry again. Her hands were still shaking. “I am well. The goose is well.”
 
 “Truly, something is amiss,” He said, without accusation. “Say it.”
 
@@ -1684,13 +1685,19 @@ Harold looked toward the door, amazed, then back at her. His eyes were red and t
 
 “And why the tears?”
 
-“I am no longer to be a maiden but a woman.” She paused long, determined not to cry again, giving her time to think. “The whole world seems upside down, changed in a day, father. I worry about Stanwey and about you. He said—He promised—” She stopped, breathing quickly but calming down, remembering Godfrey’s words. “He promised that Stanwey would not be taken. That you would not be left alone.”
+Beatrice lay her head down on her father's lap, as she once would as a young girl. “Everything has changed,” she whispered angrily. “I walked into that hall a girl with a goose. I walked out… promised to a stranger.”
+
+Harold held her hands – still red from gripping the basket, still cold from the road. 
+
+Beatrice paused long, determined not to cry again, giving her time to think. 
+
+“I am no longer to be a maiden but a woman. The whole world seems upside down, changed in a day, father. I worry about Stanwey and about you. He said—But he promised—” She stopped, breathing quickly but calming down, remembering Godfrey’s words. “He promised that Stanwey would not be taken. That you would not be left alone.”
 
 Harold said nothing. He looked at her for a long time, his thumb moving slowly over her knuckles.
 
 “And you, daughter? What do you want?”
 
-“He doesn't talk much, but seems trustworthy.”
+“He doesn't talk much, but he does at least seem trustworthy.”
 
 “Nay, child, what do **you** want?”
 
@@ -3302,67 +3309,99 @@ Meanwhile, in the solar, a man stepped out from the shadows. “My lady.”
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 36 - The Capture
+### Chapter 36 – The Capture
 
-Beatrice reached Stanwey by midday. Harold was in his chair by the hearth, pale but alive. She knelt beside him, took his cold hands in hers, and wept with relief.
+Beatrice reached Stanwey by midday, after an uncomfortable day’s travel. Harold was in his chair by the hearth, pale but alive. She knelt beside him, took his cold hands in hers, and wept with relief.
 
 “I am here, Father. I am here.”
 
 She tended him through the afternoon – broth, warm cloths, prayers. Lady Margaret helped. The two guards the Queen had sent stood watch outside.
 
-The reeve and the cook (Beatrice’s aunt) went about their business. The new servants the King had promised – a steady man named Eldred and a thin, capable woman – helped where they could.
+The reeve and the cook – Beatrice’s aunt – went about their business. The new servants the King had promised – a steady man named Eldred and a thin, capable woman – helped where they could.
 
 Goosie was restless. The bird hissed at shadows, flapped her wings, and refused to settle.
 
-“Hush,” Beatrice said. “There is nothing.”
+“Hush,” Beatrice said, stroking her feathers. “You are back home. There is nothing to be alarmed about, Goosie goose.”
 
 But there was.
 
 ---
 
-That night, as the household slept, armed men surrounded the hall. Sir Guy de Montfort led them.
+**That Night**
 
-The two guards fought bravely, but they were outnumbered. Within minutes, they were bound and gagged. Sir Guy’s men burst into the hall.
+The night smelled of damp earth and the last smoke from the banked hearth. Beatrice lay awake, listening to Harold’s uneven breathing from the next room. Goosie had finally settled, a warm weight against her side. Her hand rested on the small knife the Queen had given her, hidden beneath her pillow.
 
-Beatrice woke to the crash of the door. She saw Sir Guy’s face in the firelight – smug, triumphant.
+Then she heard it: a scuff of boots on the outer step. Too many boots.
 
-“You,” she whispered.
+Before she could rise, the door exploded inward. Torchlight flooded the hall, harsh and orange, throwing wild shadows against the rafters. Men poured through – not knights in gleaming mail, but rough men in stained tunics, faces half‑hidden by scarves, carrying cudgels and short swords. Drifters. Outlaws. The kind of men who asked no questions, only coin.
 
-“Me.” He grabbed her arm. “Your father is coming with us. If you want him to live, you will do exactly as I say.”
+*He had spent his last silver on them.*
 
-Goosie exploded from her basket, hissing, flapping, pecking at the intruders. One man cursed. Another stumbled. For a moment, chaos. But Sir Guy laughed and kicked the goose aside. Goosie fell, then scrambled away into the darkness.
+Sir Guy stepped through the doorway, his sword drawn, his smile thin and cold. “Where is the old man?”
 
-“Stupid bird,” Sir Guy said. He pushed Beatrice toward the door. “Move.”
+The two royal guards on the threshold went down fighting – a shout, a crash, then silence. A torch clattered to the floor; the rushes began to smolder.
 
-Harold was already outside, his hands bound, his face pale but his eyes defiant. “Beatrice, do not—”
+Beatrice sat up, clutching the thin linen of her chemise. Goosie burst from the dark, hissing, wings spread, pecking at the nearest man’s shins. He cursed and stumbled. Another man laughed. Sir Guy kicked the goose aside – not hard, but enough to send her skittering into the darkness.
 
-“Quiet, old man.”
+“Fool bird.”
 
-They were pushed into a cart and driven away into the cold night. The reeve and the cook, roused by the noise, hid in the pantry. They were not harmed. When the cart was gone, they ran to the nearest village to raise the alarm.
+A hand seized Beatrice’s arm. Rough fingers, iron rings biting through her bare skin.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+“At least let me dress,” Beatrice said, her voice steady despite her shaking hands. “And my father. He is old. He will not survive the night in the cold.”
 
+Sir Guy laughed – a short, ugly sound. “You’ll travel as you are. The cold won’t kill you.”
 
-## Chapter 37 - Godfrey’s Arrival
+“My father is already unwell,” Beatrice said, her eyes hard. “Do you intend to kill him?”
 
-Godfrey reached Stanwey the next morning. He had ridden from Westminster as soon as the Queen’s warning reached him – a plot against “a son,” she had said – but the roads were dark and the winter mud deep.
+Sir Guy paused at the door. His jaw tightened. He pointed at the cook – Beatrice’s aunt – who stood frozen in the doorway of the pantry. “You. Dress the old man. Quickly.”
 
-The hall was dark. The fire was cold. The guards lay bound in the yard. The reeve and the cook were nowhere to be seen.
+The cook nodded, trembling, and hurried to Harold’s side.
 
-But Goosie was there. The goose stood in the middle of the yard, alone, her feathers ruffled, her eyes bright. She hissed at Godfrey, then waddled toward the door and back again, as if trying to tell him something.
+Beatrice did not wait for permission. She slipped off the bed, grabbed her gown from the peg, and pulled it over her head. Her fingers found the knife hidden beneath the pillow – the Queen’s knife – and she slid it into her belt, hidden by the folds of wool. No one saw.
 
-Godfrey knelt. “Where is she?”
+Two men hauled Harold from his bed. His gown hung loose on his thin frame, his grey legs bare below the knee. He did not struggle; his eyes found Beatrice’s and something like a command passed between them.
 
-Goosie pecked at his boot and waddled toward the path that led into the forest.
+Sir Guy’s face loomed close, studying Beatrice’s face. She could smell wine on his breath, and something else – the sour sweat of desperation.
 
-Godfrey found a note pinned to the door with a hunting knife. *Come alone, or the old man dies.*
+“Two secrets I will tell you. King Henry plans to steal my family’s lands. But I shall be recognised by my grandfather as his heir. *I shall.*”
 
-He tucked the note into his belt, mounted his horse, and followed the goose’s direction. Goosie ran ahead, her white feathers a ghost in the grey dawn.
+His lip curled. “That bastard son of his – that arrogant Godfrey. He has life so easy. Given a place at court. Given a princess. But…” He grabbed Beatrice’s chin, forcing her to look at him. “He shall not have you.”
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+He released her with a shove before walking out. “Bring them. Move.”
 
+They were marched into the yard, hands bound. The staghound bayed once and was gagged for its trouble.
 
-## Chapter 38 - The Swordfight
+“Where are you taking us –”
+
+“Quiet, old man. You’ll find out soon enough.”
+
+The men laughed as they shoved Beatrice and her father into a waiting cart, the wood rough and cold against Beatrice’s back. She pressed her palms to the rough planks and counted her breaths. She would not scream. She would wait. She would listen. Her hand brushed the knife hidden in her belt. *Not yet.*
+
+The last thing she saw before the canvas dropped was Goosie, standing in the doorway, her feathers ruffled, her head cocked as if trying to understand.
+
+Then the cart lurched forward, and the night swallowed them.
+
+---
+
+### Chapter 37 – Godfrey’s Arrival
+
+Godfrey reached Stanwey the next morning. He had ridden as soon as he had heard that Harold was unwell.
+
+In the village he met the two bruised guards and the cook, who told him what had happened except they had no idea where Beatrice and her father had been taken. 
+
+The hall itself was dark. The fire was cold. Goosie was there. The goose stood in the middle of the yard, alone, her feathers ruffled, her eyes bright. She hissed at Godfrey, then waddled toward the door and back again, as if trying to tell him something.
+
+Godfrey knelt. “I'd wager that you know where she is.”
+
+Goosie pecked at his boot and waddled toward Beatrice's bed.
+
+On the wall, Godfrey found a note written in charcoal. *St Marys* Somehow she must have found out where they were going.
+
+He mounted his horse, and followed the goose’s direction. Goosie ran ahead, her white feathers a ghost in the grey dawn.
+
+---
+
+### Chapter 38 – The Swordfight
 
 The trail led to St. Mary‑by‑the‑Woods, a small, forgotten chapel half‑hidden in the trees. Godfrey dismounted and listened. Sir Guy’s voice came from inside.
 
@@ -3374,6 +3413,8 @@ Godfrey’s hand went to the hilt of his sword. He was not a warrior. But he had
 
 *Adequate would have to be enough.*
 
+His heart hammered. *He was going to die.* Then he saw the pillar.
+
 He kicked the door open.
 
 Sir Guy spun around, sword drawn. “You.”
@@ -3384,34 +3425,31 @@ Godfrey stepped inside. “Let them go, de Montfort. This is between us.”
 
 “Let us,” Godfrey said, drawing his sword, “find out.”
 
----
-
 They clashed in the narrow aisle. Sir Guy was stronger, faster. Godfrey was not. But he had watched. He had practiced. He did not waste motion.
 
 He parried, retreated, parried again. Sir Guy pressed forward, grinning.
 
-“Is this all you have? Shadow.”
+“Is this all you have? Shadow. A bastard and a goose girl. My father won lands with a sword. You couldn’t even win a wife.”
 
-Godfrey did not answer. He let Sir Guy drive him back, toward a pillar. Then, at the last moment, he sidestepped. Sir Guy’s sword bit into the wood, stuck for a heartbeat.
+Godfrey did not answer. He let Sir Guy drive him back, toward the pillar. Then, at the last moment, he sidestepped. Sir Guy’s sword bit into the wood, stuck for a heartbeat.
 
-Godfrey kicked his knee. Sir Guy stumbled. Godfrey brought the pommel of his sword down shattering Sir Guy’s wrist. The sword clattered to the floor.
+Godfrey kicked his knee. Sir Guy stumbled. Godfrey brought the pommel of his sword down, cracking Sir Guy’s wrist. The sword clattered to the floor.
 
 “It is enough,” Godfrey said.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+---
 
+### Chapter 39 – The Candlestick
 
-## Chapter 39 - The Candlestick
+While the swords clashed, Beatrice’s fingers worked with added urgency.
 
-While the swords clashed, Beatrice’s fingers worked with added urgency. 
-
-She had a hair pin in her hair in her hand – a small, sharp thing. She had been working it free for the past hour, while stalling for time.
+She had a hairpin hidden in her hair – a small, sharp thing. She had been working it free for the past hour, while stalling for time.
 
 *I am more frightened than I have ever been, but I will not let anyone see it.*
 
-The final strand of rope cut and the rope came loose from around her wrists. Her hands were free. 
+The final strand of rope cut and the rope came loose from around her wrists. Her hands were free.
 
-The priest saw her. His eyes widened. “My lady—”
+The priest saw her. His eyes widened. “My lady –”
 
 “Quiet,” she hissed. “Or the Queen shall know that you took bribes.”
 
@@ -3421,14 +3459,13 @@ The priest backed away.
 
 Beatrice turned, ready to defend her old father.
 
-”Father, stay behind me, if you will.”
+“Father, stay behind me, if you will.”
 
 Harold’s eyes were wet, but he did not argue. He shuffled behind her as best he could with bound hands.
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+---
 
-
-## Chapter 40 - The Forester’s Horn
+### Chapter 40 – The Forester’s Horn
 
 A royal forester, patrolling the woods, had seen the armed men ride toward the chapel. He did not engage. He rode back to the nearest village and blew his horn – a long, low note that meant *danger*.
 
@@ -3438,7 +3475,7 @@ The horn echoed through the trees.
 
 ---
 
-### The Turn
+**The Turn**
 
 Sir Guy heard the horn. His face went pale. “What was that?”
 
@@ -3458,13 +3495,13 @@ Sir Guy’s men, hearing the commotion and seeing the villagers, hesitated. Then
 
 ---
 
-### The Queen’s Men
+**The Queen’s Men**
 
 The captain of the guard arrived with a dozen men. The forester’s report had reached the castle, and the Queen had dispatched them at once.
 
 The captain dismounted. “Sir Guy de Montfort, you are under arrest by order of the Queen.”
 
-Sir Guy looked at his empty hands, at his fleeing men, at the priest’s abandoned robes. He said nothing.
+Sir Guy looked at his empty hands, then at Godfrey. His face was empty – not angry, not afraid. Just finished. He said nothing.
 
 Beatrice helped Harold to his feet. Godfrey sheathed his sword.
 
@@ -3476,19 +3513,21 @@ Beatrice helped Harold to his feet. Godfrey sheathed his sword.
 
 “You fought enough.”
 
----
-
-### The Return
-
-The gathering wended their way back to Stanwey hall. A cart was brought and Beatrice and Godfrey travelled with Harold, who was padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked. Goosie, exhausted but triumphant, met them at the gate. She hissed at Sir Guy, with her wings apart.
-
-A detachment of guards took Sir Guy and the others to Westminster in chains, to await the Queen's judgement. 
-
-As for Beatrice and Godfrey, they stayed with her father at Stanwey, until Harold had recovered sufficiently to the two to travek back to Westminster Palace by cart. Beatrice knew that her father would be very well cared for after they said their goodbyes.
+Later, as they rode back, Godfrey said quietly, “He will return to Normandy in disgrace. His family will not thank him.” Beatrice said nothing. She was thinking of the knife still hidden in her belt.
 
 ---
 
-### The Queen’s Protection (Late January 1115)
+**The Return**
+
+The gathering wended their way back to Stanwey hall. A cart was brought, and Beatrice and Godfrey travelled with Harold, who was padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked. Goosie, exhausted but triumphant, met them at the gate. She hissed at Sir Guy, her wings spread.
+
+A detachment of guards took Sir Guy and the others to Westminster in chains, to await the Queen’s judgement.
+
+As for Beatrice and Godfrey, they stayed with her father at Stanwey until Harold had recovered sufficiently for the two to travel back to Westminster Palace by cart. Beatrice knew that her father would be very well cared for after they said their goodbyes.
+
+---
+
+**The Queen’s Protection (Late January 1115)**
 
 Upon their return, Beatrice found a small bundle outside her chamber door.
 
@@ -3498,21 +3537,58 @@ Inside: a new warm cloak, of the finest wool, from the Queen’s own stores. A n
 
 *—M*
 
+
+
+
+
+
+### Chapter 42 – The Queen’s Solar (replaces the bundle and Candlemas)
+
+The Queen’s solar was warm, the fire built high. Matilda sat in a carved chair, a cup of wine untouched at her elbow. She did not rise when Beatrice entered.
+
+“Sit.”
+
+Beatrice sat.
+
+For a long moment, the Queen said nothing. Then: “You used the knife?”
+
+“No, Your Grace. I did not need to.”
+
+“But you were ready.”
+
+“Yes.”
+
+The Queen nodded slowly. “That is why I gave it to you. Not to use. To remind you that you could.”
+
+She reached into a chest beside her chair and drew out a folded cloak of finest wool – deep blue, almost black, trimmed with grey fur. “This is not a reward. It is a recognition. You walked into that hall a girl with a goose. You walked out a woman who chose her own life. And when a desperate man tried to take that choice from you, you did not break.”
+
+She set the cloak on Beatrice’s lap. “Wear it. Not for me. For yourself.”
+
+Beatrice’s throat tightened. “Thank you, Your Grace.”
+
+“Matilda,” the Queen said quietly. “When we are alone, you may call me Matilda. You have earned that much.”
+
+She picked up her wine. “Now go. Get some sleep. Tomorrow, the court will try to forget what happened. Do not let them. You are not a victim. You are the woman who faced a knight with a candlestick and won.”
+
 ---
 
-### Candlemas, 2 February 1115
+### Chapter 43 – The Morning After, 2 February 1115
 
-The half‑sisters had planned something. Beatrice knew it—she’d seen the glances, the whispered conferences. Lady Margaret had heard rumors of a “surprise” at the feast.
+The next morning, Beatrice walked through the Great Hall in the Queen’s cloak. The half‑sisters were at their usual table, heads together, whispers ready.
 
-But when the moment came, nothing happened.
+Avice opened her mouth.
 
-Avice dropped her wine cup—no spill. Eustacia’s cutting remark died on her lips as the Queen’s gaze swept past. Every trap, every cruelty, every planned humiliation simply… failed.
+Beatrice looked at her. Not with anger. Not with fear. Just… looked.
 
-Beatrice caught the Queen’s eye across the hall. Matilda gave the smallest of nods.
+Avice’s mouth closed. Eustacia looked away.
 
-*She knows. She’s watching. She’s protecting.*
+Beatrice walked on.
 
-Beatrice almost smiled.
+Lady Margaret fell into step beside her. “What did you say to them?”
+
+“Nothing.”
+
+“Even better.”
 
 ---
 
@@ -3521,6 +3597,59 @@ The whispers grew louder after Candlemas. Beatrice heard them in the corridors, 
 But the Queen’s protection held. Lady Margaret was always near. Godfrey was always watching. And when Avice tried to trip Beatrice as she walked to the high table, Godfrey caught her arm and steadied her without a word.
 
 Avice’s face went pale. She did not try again.
+
+
+
+xxxxxxx PUTTING BELOW INTO PLACE ABOVE
+
+
+## Assessment – Why the Current “Bookend” Feels Weak
+
+You’re right. The sequence after the rescue lacks emotional and thematic closure. Here’s why:
+
+| Problem | Explanation |
+|---------|-------------|
+| **The bundle & note** | A nice gesture, but it arrives *after* Beatrice has already proven herself. It feels like a reward, not a culmination. The note “Keep your anchor in the Deep” is mysterious but doesn’t tie back to anything Beatrice experienced during the kidnapping. |
+| **The Candlemas scene** | The half‑sisters’ failed plotting is a rehash of earlier court friction. It doesn’t connect to Sir Guy’s defeat or Beatrice’s trauma. It feels like a separate, lesser conflict tacked on. |
+| **No emotional aftermath** | We don’t see Beatrice processing what happened – her fear, her relief, her gratitude to Godfrey, her changed relationship with the Queen. The story jumps from “you fought enough” to a bundle and then to petty court gossip. |
+| **The Queen’s role is underplayed** | The Queen gave Beatrice the knife, warned her, sent Godfrey, dispatched guards. But after the rescue, we get only a note and a nod across the hall. The Queen’s protection should feel earned and personal. |
+
+---
+
+## What a Stronger Bookend Needs
+
+1. **Emotional continuity** – Show Beatrice’s internal state after the rescue. What did she learn? How has she changed?
+2. **Thematic payoff** – “Anchor in the Deep” should connect to something she experienced (e.g., the knife, the cart, Goosie, her own resolve).
+3. **Queen’s protection made tangible** – Not just a cloak, but a conversation or a gesture that acknowledges Beatrice’s courage.
+4. **Closure on Sir Guy** – We have his banishment, but what does Beatrice feel about it? Relief? Pity? Nothing?
+5. **Remove or transform the half‑sisters** – Their petty cruelty feels irrelevant after a kidnapping. Either cut the Candlemas scene entirely or repurpose it to show Beatrice’s new confidence (she dismisses them with a look, not needing Godfrey’s protection).
+
+---
+
+## Proposed Revised Ending (Chapters 41–42)
+
+Below is a reworked sequence that keeps the bundle and note but places them in a more meaningful context, cuts the Candlemas scene, and adds emotional closure.
+
+---
+
+### Chapter 41 – The Queen’s Judgment (as before, but with added emotional beat)
+
+*[Keep the existing Chapter 41: Sir Guy banished, Godfrey’s line about family disgrace, Beatrice thinking of the knife.]*
+
+Then add:
+
+That night, Beatrice sat alone in her chamber. Goosie slept on the hearth, exhausted. The knife lay on the table – the Queen’s knife. She picked it up, turned it over in her hands. *Not yet.* She had not used it. But she had been ready.
+
+A knock at the door. Lady Margaret entered, her face softer than usual.
+
+“The Queen asks for you. In her solar. Now.”
+
+---
+
+
+---
+
+xxxxxxx PUTTING ABOVE INTO PLACE
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -3538,15 +3667,9 @@ After some time, Sir Guy was brought before the Queen, who was seated in the Gre
 
 Lord Roger’s voice was cold. “Guy de Montfort of Évreux, you have been found guilty of attempted kidnapping, of defrauding the King’s justice, and of plotting against the King’s vow. These are treasonous acts. Do you have anything to say for yourself?”
 
-Guy stood in chains, his face pale. “I acted alone. I wanted Stanwey. There was no larger plot.”
+Guy stood in chains, his face pale, and cried out, “What knows this king of true justice?” Beyond that, he refused to say a word more.
 
-The Queen’s eyes narrowed, displeased, but she turned aside. “Lord Roger?”
-
-Lord Roger stepped forward. “My lady, we have documents fabricated by a clerk in the employ of a Flemish merchant. The merchant has been arrested early yesterday morning while fleeing to the coast. Your accomplices have all abandoned you, Montfort.”
-
-Guy said nothing.
-
-The Queen rose. “You are hereby stripped of all lands and titles. Your estates are forfeit to the crown. You will leave England within three days. If you return, you will be hanged for treason.”
+The Queen rose, displeased. “You are hereby stripped of all lands and titles. Your estates are forfeit to the crown. You will leave England within three days. If you return, you will be hanged for treason.”
 
 She turned to the guards. “Send him.”
 
