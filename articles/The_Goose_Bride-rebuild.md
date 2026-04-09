@@ -3009,7 +3009,22 @@ And so Matilda Fitzroy arranged for a leisurely stroll with Beatrice through the
 
 The Duchess paused. “I remember the area. Sometimes when my father hunted here, I stayed with our old nurse a few miles away, by the river bend.”
 
-Beatrice laughed. “I know the one. Guarded by ferocious geese. I have a dear goose from there myself.”
+Beatrice laughed. “I know the one. Guarded by ferocious geese. My own dear pet goose came from that farm as an egg.”
+
+Matilda turned to Beatrice with a mysterious smile. “That is my nurse's farm.”
+
+Beatrice looked astonished as Matilda continued. ”I remember our nurse telling us of a lady who came with her daughter to buy a goose egg to hatch. She said the lady paid far too much for it.” She tilted her head. “Oh, that’s right. It was while we were staying with her that time. Our nurse was laughing her head off some days earlier, for the same daughter was earlier chased all the way from the river, halfway across the meadow. The nurse said a boy – my brother, as it turned out – spread his cloak and calmed the geese.”
+
+Beatrice’s cheeks flushed. “No! That was your brother? Godfrey?”
+
+Matilda stared at her. “That was you?” Matilda’s smile widened. “I can't wait to tell him.”
+
+“Well,” Beatrice said softly. “That is something. I meant to thank the boy, Godfrey I mean, but he didn't stay there.”
+
+“He wouldn’t,” Matilda said. “He’s not one to boast.” She took Beatrice’s arm. “So, He has been watching out for you longer than you think!”
+
+
+...
 
 ---
 
