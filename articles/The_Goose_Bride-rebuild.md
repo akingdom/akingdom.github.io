@@ -3309,7 +3309,7 @@ Meanwhile, in the solar, a man stepped out from the shadows. “My lady.”
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-### Chapter 36 – The Capture
+## Chapter 36 – The Capture
 
 Beatrice reached Stanwey by midday, after an uncomfortable day’s travel. Harold was in his chair by the hearth, pale but alive. She knelt beside him, took his cold hands in hers, and wept with relief.
 
@@ -3381,9 +3381,10 @@ The last thing she saw before the canvas dropped was Goosie, standing in the doo
 
 Then the cart lurched forward, and the night swallowed them.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-### Chapter 37 – Godfrey’s Arrival
+
+## Chapter 37 – Godfrey’s Arrival
 
 Godfrey reached Stanwey the next morning. He had ridden as soon as he had heard that Harold was unwell.
 
@@ -3399,9 +3400,10 @@ On the wall, Godfrey found a note written in charcoal. *St Marys* Somehow she mu
 
 He mounted his horse, and followed the goose’s direction. Goosie ran ahead, her white feathers a ghost in the grey dawn.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-### Chapter 38 – The Swordfight
+
+## Chapter 38 – The Swordfight
 
 The trail led to St. Mary‑by‑the‑Woods, a small, forgotten chapel half‑hidden in the trees. Godfrey dismounted and listened. Sir Guy’s voice came from inside.
 
@@ -3437,17 +3439,26 @@ Godfrey kicked his knee. Sir Guy stumbled. Godfrey brought the pommel of his swo
 
 “It is enough,” Godfrey said.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-### Chapter 39 – The Candlestick
 
-While the swords clashed, Beatrice’s fingers worked with added urgency.
+## Chapter 39 – The Candlestick
 
-She had a hairpin hidden in her hair – a small, sharp thing. She had been working it free for the past hour, while stalling for time.
+While the swords clashed, Beatrice’s fingers worked with desperate slowness.
+
+Her hands were bound behind her back. The knife was in her belt – she could feel the handle pressing against her spine – but her fingers could not reach it. Not yet.
+
+She twisted her wrists, straining against the rope. The fibers bit into her skin. She ignored the pain.
 
 *I am more frightened than I have ever been, but I will not let anyone see it.*
 
-The final strand of rope cut and the rope came loose from around her wrists. Her hands were free.
+Her right hand slipped lower. Her fingertips brushed the knife’s hilt. She hooked one finger around it – pulled – and the blade slid free.
+
+But her hands were still bound. She had to turn the knife in her grip, blindly, one-handed, the edge pressing against her own palm. She cut. The rope frayed. She cut again.
+
+It took longer than she had expected. Too long.
+
+Finally, the rope fell away. Her hands were free.
 
 The priest saw her. His eyes widened. “My lady –”
 
@@ -3457,15 +3468,16 @@ She stood and picked up a heavy brass candlestick from the altar.
 
 The priest backed away.
 
-Beatrice turned, ready to defend her old father.
+Harold eyed the candlestick nervously as Beatrice turned, ready to defend her old father.
 
 “Father, stay behind me, if you will.”
 
 Harold’s eyes were wet, but he did not argue. He shuffled behind her as best he could with bound hands.
 
----
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
-### Chapter 40 – The Forester’s Horn
+
+## Chapter 40 – The Forester’s Horn
 
 A royal forester, patrolling the woods, had seen the armed men ride toward the chapel. He did not engage. He rode back to the nearest village and blew his horn – a long, low note that meant *danger*.
 
@@ -3495,9 +3507,9 @@ Sir Guy’s men, hearing the commotion and seeing the villagers, hesitated. Then
 
 ---
 
-**The Queen’s Men**
+**All the King’s Men**
 
-The captain of the guard arrived with a dozen men. The forester’s report had reached the castle, and the Queen had dispatched them at once.
+The captain of the guard arrived with a dozen men. The forester’s report had reached the castle, and the captain had been dispatched at once.
 
 The captain dismounted. “Sir Guy de Montfort, you are under arrest by order of the Queen.”
 
@@ -3511,7 +3523,7 @@ Beatrice helped Harold to his feet. Godfrey sheathed his sword.
 
 “I rode,” he said. “I did not fight well.”
 
-“You fought enough.”
+“You fought enough. And you are alive.”
 
 Later, as they rode back, Godfrey said quietly, “He will return to Normandy in disgrace. His family will not thank him.” Beatrice said nothing. She was thinking of the knife still hidden in her belt.
 
@@ -3519,42 +3531,38 @@ Later, as they rode back, Godfrey said quietly, “He will return to Normandy in
 
 **The Return**
 
-The gathering wended their way back to Stanwey hall. A cart was brought, and Beatrice and Godfrey travelled with Harold, who was padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked. Goosie, exhausted but triumphant, met them at the gate. She hissed at Sir Guy, her wings spread.
+The gathering wended their way back to Stanwey hall. A cart was brought, and Beatrice and Godfrey travelled with Harold, padded with blankets. The reeve and the cook, who had raised the alarm, were found and thanked. Goosie, exhausted but triumphant, met them at the gate. She hissed at Sir Guy, her wings spread.
 
 A detachment of guards took Sir Guy and the others to Westminster in chains, to await the Queen’s judgement.
 
-As for Beatrice and Godfrey, they stayed with her father at Stanwey until Harold had recovered sufficiently for the two to travel back to Westminster Palace by cart. Beatrice knew that her father would be very well cared for after they said their goodbyes.
+As for Beatrice and Godfrey, they stayed with her father at Stanwey until Harold had recovered sufficiently under excellent care. 
 
----
+After goodbyes, the two travelled to Westminster Palance, accompanied by a number of guards. 
 
-**The Queen’s Protection (Late January 1115)**
-
-Upon their return, Beatrice found a small bundle outside her chamber door.
-
-Inside: a new warm cloak, of the finest wool, from the Queen’s own stores. A note in a precise hand:
-
-*For cold days. Keep your anchor in the Deep.*
-
-*—M*
+![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
+## Chapter 42 – The Queen’s Solar (Late January 1115)
 
+Beatrice had not long sat down in her chamber to rest when there was a knock at the door. 
 
+Goosie lifted her head momentarily, asleep on the hearth. 
 
+Beatrice, however, picked up the knife – the Queen’s knife — from under her pillow. She would get over it but it was an automatic response now.
 
-### Chapter 42 – The Queen’s Solar (replaces the bundle and Candlemas)
+Lady Margaret entered, her face softer than usual. “The Queen asks for you. In her solar. Now.”
 
 The Queen’s solar was warm, the fire built high. Matilda sat in a carved chair, a cup of wine untouched at her elbow. She did not rise when Beatrice entered.
 
-“Sit.”
+“Have a seat.”
 
 Beatrice sat.
 
 For a long moment, the Queen said nothing. Then: “You used the knife?”
 
-“No, Your Grace. I did not need to.”
+“Yes, Your Grace. I did not need to do much.”
 
-“But you were ready.”
+“I heard an account of a different and active nature. But you were ready.”
 
 “Yes.”
 
@@ -3566,90 +3574,11 @@ She set the cloak on Beatrice’s lap. “Wear it. Not for me. For yourself.”
 
 Beatrice’s throat tightened. “Thank you, Your Grace.”
 
-“Matilda,” the Queen said quietly. “When we are alone, you may call me Matilda. You have earned that much.”
+“Matilda,” the Queen said quietly. “When we are alone, and only then, you may call me Matilda. You have earned that much. Understand that this is a privilege.”
 
-She picked up her wine. “Now go. Get some sleep. Tomorrow, the court will try to forget what happened. Do not let them. You are not a victim. You are the woman who faced a knight with a candlestick and won.”
+She picked up her wine. “Now go, girl. You look as though you need rest. Tomorrow, the court will try to forget what happened. Do not let them. You are not a victim. You are the woman who faced a knight with a candlestick and won, from what I hear.”
 
----
-
-### Chapter 43 – The Morning After, 2 February 1115
-
-The next morning, Beatrice walked through the Great Hall in the Queen’s cloak. The half‑sisters were at their usual table, heads together, whispers ready.
-
-Avice opened her mouth.
-
-Beatrice looked at her. Not with anger. Not with fear. Just… looked.
-
-Avice’s mouth closed. Eustacia looked away.
-
-Beatrice walked on.
-
-Lady Margaret fell into step beside her. “What did you say to them?”
-
-“Nothing.”
-
-“Even better.”
-
----
-
-The whispers grew louder after Candlemas. Beatrice heard them in the corridors, in the kitchens, even in the chapel. “The King’s son deserves better.” “The Saxon girl will bring nothing.” “Wait until the Breton offer is renewed.”
-
-But the Queen’s protection held. Lady Margaret was always near. Godfrey was always watching. And when Avice tried to trip Beatrice as she walked to the high table, Godfrey caught her arm and steadied her without a word.
-
-Avice’s face went pale. She did not try again.
-
-
-
-xxxxxxx PUTTING BELOW INTO PLACE ABOVE
-
-
-## Assessment – Why the Current “Bookend” Feels Weak
-
-You’re right. The sequence after the rescue lacks emotional and thematic closure. Here’s why:
-
-| Problem | Explanation |
-|---------|-------------|
-| **The bundle & note** | A nice gesture, but it arrives *after* Beatrice has already proven herself. It feels like a reward, not a culmination. The note “Keep your anchor in the Deep” is mysterious but doesn’t tie back to anything Beatrice experienced during the kidnapping. |
-| **The Candlemas scene** | The half‑sisters’ failed plotting is a rehash of earlier court friction. It doesn’t connect to Sir Guy’s defeat or Beatrice’s trauma. It feels like a separate, lesser conflict tacked on. |
-| **No emotional aftermath** | We don’t see Beatrice processing what happened – her fear, her relief, her gratitude to Godfrey, her changed relationship with the Queen. The story jumps from “you fought enough” to a bundle and then to petty court gossip. |
-| **The Queen’s role is underplayed** | The Queen gave Beatrice the knife, warned her, sent Godfrey, dispatched guards. But after the rescue, we get only a note and a nod across the hall. The Queen’s protection should feel earned and personal. |
-
----
-
-## What a Stronger Bookend Needs
-
-1. **Emotional continuity** – Show Beatrice’s internal state after the rescue. What did she learn? How has she changed?
-2. **Thematic payoff** – “Anchor in the Deep” should connect to something she experienced (e.g., the knife, the cart, Goosie, her own resolve).
-3. **Queen’s protection made tangible** – Not just a cloak, but a conversation or a gesture that acknowledges Beatrice’s courage.
-4. **Closure on Sir Guy** – We have his banishment, but what does Beatrice feel about it? Relief? Pity? Nothing?
-5. **Remove or transform the half‑sisters** – Their petty cruelty feels irrelevant after a kidnapping. Either cut the Candlemas scene entirely or repurpose it to show Beatrice’s new confidence (she dismisses them with a look, not needing Godfrey’s protection).
-
----
-
-## Proposed Revised Ending (Chapters 41–42)
-
-Below is a reworked sequence that keeps the bundle and note but places them in a more meaningful context, cuts the Candlemas scene, and adds emotional closure.
-
----
-
-### Chapter 41 – The Queen’s Judgment (as before, but with added emotional beat)
-
-*[Keep the existing Chapter 41: Sir Guy banished, Godfrey’s line about family disgrace, Beatrice thinking of the knife.]*
-
-Then add:
-
-That night, Beatrice sat alone in her chamber. Goosie slept on the hearth, exhausted. The knife lay on the table – the Queen’s knife. She picked it up, turned it over in her hands. *Not yet.* She had not used it. But she had been ready.
-
-A knock at the door. Lady Margaret entered, her face softer than usual.
-
-“The Queen asks for you. In her solar. Now.”
-
----
-
-
----
-
-xxxxxxx PUTTING ABOVE INTO PLACE
+She smiled. A real smile.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
