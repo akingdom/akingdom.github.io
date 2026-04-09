@@ -3,6 +3,10 @@
 
 ---
 
+> Edition 3
+>
+> Revision 1
+>
 > ***STATUS - IN REVIEW (AND REVISION)***
 >
 > => Human Input
@@ -723,173 +727,117 @@ Henry's steely gaze shifted to the door where his men lingered. Inwardly, he kne
 
 "The game is shy," he repeated, his voice a low rumble. "Or perhaps my knights have grown fat and lazy on my peace."
 
-“Peace is a rare gift, my lord,” said Matilda softly, stepping closer. “It is the fruit of the seeds you have planted. Our son William is to marry into Anjou, for example.”
- 
+The Queen looked at him directly, she who had ruled England as regent in his stead and knew well the weight of the crown, far more than any of the barons.
+
+“My lord's peace cannot be mistaken for a poor gift. Nay, husband, it is the fruit of seeds planted by my lord. Has not Anjou been a thorn in Normandy’s side, troubling your lands? That lion is now tamed. Anjou's heir is bound to our son, William.”
+
 Henry grunted, his fingers drumming on the oak. “If it holds. A promise is only as strong as the sword behind it.”
 
-“And a sword is only as strong as the hand that holds it,” she countered smoothly. “The French King yielded at Gisors because he saw your reach was long. But a reach that is too long can become a strain. We must decide if Brittany is to be a shield or a weight, since our Matilda FitzRoy is to sit there as Duchess.”
+“And a sword is only as strong as the hand that holds it,” she countered smoothly. “The French King yielded at Gisors because he saw your reach was long. What are stags compared with your sons, and foxes to your daughters?”
 
 She watched his jaw relax. He liked the map she was drawing.
 
-“In fact,” she added, her voice dropping, “I have recently had news from that very place.”
+It was then that Roger, the Bishop of Salisbury, stepped forward. He was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and keeper of the realm’s cold reality.
 
-Only then did his expression soften a little. "What news?"
+“My lord the king,” Roger said, his voice precise, “It is well met, for I would speak of a son, not in terms of silver and swords but, in I would speak of souls, of welfare.”
 
-![Chapter](Goose_Bride-goosemark-cut_small.png) 
+Henry turned, his eyes wary.
 
+Roger inclined his head. “Your lordship studied at Salisbury Catheral, and did well. Your son, Godfrey Fitzroy, has now completed his own studies. The canons speak highly of his learning. He reads Latin, writes a fair charter, and can argue a point of canon law without losing his temper.” A thin smile. “More than I could say for many a knight.”
 
-## Chapter 8 — The Breton Offer
+Something flickered in Henry’s face. Pride? Surprise? He said nothing.
 
-Queen Matilda smiled slightly and drew a parchment from inside her sleeve, permitting herself a little drama.
+Roger continued, his tone shifting. “My lord, as each of your children has proven themselves, coming of age, you have provided for each. Robert, a captain’s command. Sybilla, a crown. Even Fulk has found his cloister.”
 
-“My lord, this letter concerns Duke Conan’s daughter, Agnes; she is fair and of marriageable age. They propose a match… with your son Godfrey.”
+He paused. The hall grew quiet.
 
-King Henry’s eyes narrowed, but he said nothing. Godfrey was one of his many sons, but lacked lands, great wealth, or powerful allies. Men pressed upon such sons, hoping to bend the king through them.
+“But is it to be for this son Godfrey — the one who studied under my own roof — having neither land, nor title, nor marriage. He has naught but your name. The canons ask me, my lord. I ask you. What do you mean to do for him?”
 
-The Queen turned to face the King fully, seeking reassurance.
+Henry’s face went still. His fingers, which had been drumming on the oak, stopped.
 
-“Is it not a clever move, my lord? Why, even old Alain (the Duke’s father) gives us his blessing. Conan offers Godfrey the *Breton March*—with its twenty‑nine strongholds along the Norman border—and a place at his court. He asks only that Godfrey reside there to hold the lands.”
+For a long moment, he did not speak. The silence was a physical weight.
 
-Slowly, very slowly, a smile spread across Henry’s face; but not a warm smile—rather like that of a man who had just spotted a fox climbing into his henhouse.
+Then, slowly, he said, “Godfrey is… young.”
 
-“Alain and Conan *both* want my son? Is my daughter not enough? The House of Cornouaille has grown hungry indeed.”
+Roger’s eyebrows rose. “At his age you seized the treasury at Winchester.”
 
-He reread the letter, his thumb tracing the wax seal. Then he set it down.
+Henry’s jaw tightened. “He studies” He said it as if convincing himself. “There is time enough.”
 
-“Old Alain is fading. He looks at his son Conan and wonders: is he strong enough to stand alone as Duke? So he reaches for Godfrey as both hostage and second string for his bow, in case the first should fail. This wind bodes ill.”
+“Time for what?” Roger’s voice was flat. “It is whispered in the corridors, at the supper tables, and now even to my own ears: Lackland’s shadow.”
 
-The Queen frowned. “I see no treachery in it. Godfrey has no lands, little beyond your name. He prefers a scroll to a sword. A Breton marriage would bind them closer to us and give him a place.”
+Henry flinched. The word Lackland — his own childhood wound — landed like a blade between his ribs.
 
-Henry’s jaw tightened and he raised his voice. “Therein lies the danger. What say you, *Roche*?”
+He turned back to the fire, his back to Roger, his back to the room. His hand pressed against his chest, as if holding something in place.
 
-*Lord Everard de la Roche* looked up, startled and looking a little guilty. ”My lord?” He had been standing near enough to overhear. This lord had lost lands near Vexin, in the critical border zone between Normandy and France.
+No one spoke.
 
-”What say you of the Breton Marche, shall I marry a son to gain that border?”
+The Queen glanced at Roger, then at Henry. She had her own fears — that Godfrey might overshadow William — but she held her tongue. This was between the King and his conscience.
 
-Lord Roche sucked in a deep breath. Borders were a sore topic for him.
+After a long silence, Henry said, his voice rough, “Leave me.”
 
-”My lord, it is said that Duke Conan is fickle. When trouble comes, will he not expect you to march on the Marche with English sons. We have spent a tiresome summer in Wales, and next we head to Normandy; better not be drawn into Breton wars.” 
+Roger bowed. “As you wish, my lord.”
 
-Henry nodded his agreement. “Aye. This wind surely bodes ill.”
-
-The Queen's expression cooled considerably.
-
-“My brother came down from Scotland to support you in Wales, as did others. Remember too your seed, lord. Our son William will have Anjou. Your daughter Matilda FitzRoy will have Brittany. Even your nephews have lands over the sea.”
-
-The Queen’s voice dropped into a more serious tone, in a rare display of frustration.
-
-“Some of your barons whisper. They call William Adelin *the child* and Godfrey *Lack‑land’s shadow*.”
-
-Henry stared at her. “William is barely ten, and already you fear shadows.”
-
-She met his gaze. “I fear what whispers may grow in silence, not shadows.”
-
-Henry leaned back, his expression unreadable. After a long moment, he spoke, his voice low. “Since when did my queen concern herself with such whispers?”
-
-In truth, he knew the answer. He turned to the fire, and the hall held its breath.
+He stepped back into the shadows. The hall slowly resumed its murmur. But the question hung in the air like a drawn sword.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
+
 
 
 ## Chapter 9 — The Ledger and the Lion
 
-Henry stood with his back to the room, a silhouette carved against the roaring central hearth. His words to his queen—since when did she concern herself with whispers—were meant as concern for her, even if expressed poorly. She was not given to fear; if she heard whispers, they were real.
+Roger’s question still burned in his chest: What do you mean to do for him?
 
-He too was concerned. Despite many attempts, only eleven-year-old Matilda and ten-year-old William Adelin had survived. William was the only legitimate male heir to the crown of England, and if something happened to him—it did not bear thinking about.
+He thought of Godfrey—quiet, watchful Godfrey. The one who most reminded him of himself at that age. The one who waited. The one they called shadow.
 
-He sighed and for a long moment he did not move. 
+Lackland’s shadow.
 
-He knew what she was not saying: that there were those who whispered the name “Clito” in the dark—his brother’s son, growing in stature and supporters in the French court, a living alternative to his line. That the succession was a thread, and threads could be cut.
+The word had cut deep. He knew what it was to have no place to stand. His father had given him silver and told him to wait. He had waited while his brothers took everything. And when the moment came, he had seized what was his.
 
-*William is barely ten, and already you fear shadows.*
+But Godfrey still waited. And Henry had done nothing.
 
-He thought of his other children. His daughters, married well. His sons, scattered like seed on stony ground. Some he had favoured; others he had ignored. Godfrey—quiet, watchful Godfrey—was the one who most reminded him of himself at that age. The one who waited. The one who had been called a shadow for such a long time.
+He glanced at the barons and knights about the hall. Not all were true friends. Soon he must cross again to Normandy—his father’s country and now his. Too many whisperers.
 
-*There are those who think my departure for Normandy is an opportunity. Enemies who remember the names of Bellême and Clito. They will watch to see which way the wind blows.*
+Too many whisperers.
 
-Henry glanced at the barons and knights about the hall, conquered men from Wales, warriors from Scotland, Normandy and England, Settled Danes, Saxons and Jutes. Not all were true friends—men who could be relied on. For soon he must cross again to Normandy—his father's country and now his. 
-
-*Too many whisperers.*
-
-He seemed to be reading the flames, perhaps seeing the ghosts of his own landless youth in the shifting embers.
-
-“My father—”
-
-The King spoke suddenly, his voice low, resonant vibration that commanded the sudden silence of the hall.
+“My father—” The King spoke suddenly, his voice low, resonant, commanding silence.
 
 "My father was mocked as the 'Tanner's Grandson' by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it."
 
 Henry's eyes scanned the far wall, unseeing. "They called me Lackland, for I had not a foot of earth to call mine. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne."
 
-The hall was still for a moment. Men held their tongues who had earlier grumbled over costs of the Welsh campaign and the Empress’s wedding. 
+The hall was still for a moment. Men held their tongues. 
 
-The silence was broken by a dry, rhythmic rustle of parchment being squared up.
+Finally, Roger, Bishop of Salisbury, could no longer stay silent in the shadows. “My lord, we speak of silver.”
 
-Roger, the Bishop of Salisbury, stepped into the light. Originally a priest, he was a quiet, scholarly figure, his fingers stained with the permanent gray of ink—the second most powerful man in England and the keeper of the realm's cold reality.
+Henry nodded, for Roger managed the royal treasury. 
 
-Muted murmurs arose among the knights, barons and especially the churchmen. These latter had come to offer thanks for the King's success in Wales and to consecrate his hunt, but the hunt had failed, leaving them somewhat embarrassed, or so it seemed. The Archbishop of Canterbury sat gravely by the King's seat. The sharp tongued Bishop of Lincoln watched from up the back with cold interest. Various others, mostly local, looked at the crowd around them.
+“My lord, I put it to all present that royal seed, the sons and daughters, these are the true currency of kings.”
 
-But Henry ignored them all, facing the flickering fire; thus, it fell to the Queen to anchor the moment.
+Muted murmurs arose among the knights, barons and especially the churchmen. Roger ploughed on, regardless.
 
-"Welcome, Lord Roger," she said, her voice cool and steady. "We were just speaking of the weight of legacy. I trust you bring the weight of the present to balance it?"
+”Thus, I return to the matter of young Godfrey. Is not your son a coin left on the table?"
 
-Roger bowed—a shallow, efficient nod. "The present is manageable, Majesty. But the parchment from Brittany requires a decision. Duke Conan offers his daughter Agnes for Prince Godfrey."
+Henry turned. His eyes were dangerous.
 
-Henry finally turned, his eyes regaining a wary, cordially sharp edge. He glanced at the newly appointed Sheriff of Nottingham.
+“A coin, Roger?” His laugh was low, rough, forced.
 
-"Roger. My coffers are bruised by expense. What say you of Nottingham's tallies—is it true the oaks of Sherwood have been as stingy as the man claims? He tells me the mast-fall was poor this season, yet he’s managed to squeeze more silver from the forest-courts than Peverel ever did in a good year. I suspect he’s found a way to turn acorns into coin."
+Roger bowed—a shallow, efficient nod. 
 
-The Sheriff offered a modest, practiced bow—the respectful stance of a man who knew his books were in order. "Only the King’s law, Sire," he murmured, his voice steady despite the high company. "The timber is quiet, but the trespass fines have been... fruitful."
+"The treasury is bruised by expense. The wars, the dowry and the gifts to the King of the Germans.”
 
-Roger didn't even look at the man, though he gave a curt, affirmative sniff. "The Sheriff’s tallies are indeed precise, Sire; his accounts are among the cleanest in the Midlands. But the parchment from Brittany is a matter of state. Conan offers a second tie—a redundant circle that adds nothing to our security. We already hold the western flank of Normandy; we do not need to buy Brittany twice."
+Roger’s words hung in the air like a blade.
 
-He paused, his eyes flicking to the King with a look of devastating common sense.
+Henry’s jaw tightened. He turned and caught sight of Godfrey’s face – the quiet boy who had spent his life watching, waiting, being counted. Henry saw his own father’s dismissal. He saw the ledger, the coin, the whispers, the waiting.
 
-“However, the land income itself is substantial—the Breton March, twenty‑nine castles along the Norman border. And the dowry is five thousand marks of silver. Easy silver for the future, Sire. A precise bargain for a marriageable asset who sits outside the direct line of succession. To refuse it is… inefficient. Your coffers are lean, but there is a coin left on the table.”
+Something inside him gave way.
 
-A few lords nodded, not in agreement but in habit — the reflex of men well practiced in weighing people, wheat and wool. 
-
-Robert de Beaumont, the King's most trusted advisor, let out a low, melodic laugh. He stepped forward, his fine silk robes whispering against the stone—a sharp contrast to Roger’s ink-stained wool.
-
-“Tell me, Roger, does the Sheriff of Nottingham charge a trespass fine for a Prince’s heart, or is that reserved only for the King’s deer?”
-
-His tone was forceful but well intended. Men laughed around the room.
-
-Henry’s jaw tightened, a flash of genuine irritation crossing his face before he smoothed it into a grim half-smile. “Robert, if I taxed your arrogance, I could pay for a royal wedding.”
-
-Beaumont bowed, still smiling. “Then we are both in luck, Sire, for my pride is in endless supply.”
-
-More laughter.
-
-Beaumont turned to the room, his voice more serious. “But I agree with Roger on one point: the March lands are valuable in coin and defence. The question is not the silver, Sire, but the leash. Conan wants your son to reside there, to hold those strongholds as his vassal. As you say, it is almost hostage taking, but tempting.”
-
-Murmurs echoed about the hall from overtaxed barons, and for the longest moment, Henry said nothing, looking at men who had grown fat on royal favour. *Did I build all this*, he thought. *A kingdom where blood is tallied like wool? And these serve it greedily—more than they serve me.*
-
----
-
-### Shadows
-
-The anger had long drained from Henry’s face, leaving a gray weariness. He looked from his Justiciar, who saw princes as numbers, to his Queen, who feared for her only son. 
-
-Then Henry saw it and stopped.
-
-Godfrey. He sat half‑hidden behind a pillar. While lords milled about, the boy sat perfectly still. Not cowering. Simply waiting. Watching the debate about his future as if it were a story about someone else. The patience. The focus. The refusal to beg. 
-
-*He has learned to wait*, Henry thought. *As I waited. As my brothers took everything while I sat in corners.* 
-
-The room felt suddenly small. He had two choices: treat his son as a surplus asset, or leave him with nothing, *unless*—
-
-Something tickled behind his eyes. Not anger, but shocking clarity. 
-
-*Unless there is a third way.*
-
-"So," Henry said softly, his voice dropping to a dangerous rasp. "Everyone arrays against me? Am I the only man in England who sees a son instead of a sack of wool?"
+“My son is not a sack of wool to be weighed and sold.” Henry’s voice thundered, raw with fury. “We shall have no more of this talk! And so, this very day—”
 
 A dangerous smile playing at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
 
-"You think my blood is currency, Roger? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid."
+"Roger, my bishop, you think my blood is currency? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid."
 
-Henry's voice began to rise, the "Scholar-King" giving way to the impulsive pride of the Conqueror's son. “If he be a coin, Roger, then we shall toss him to the Heavens!”
+Henry's voice rose, the "Scholar-King" giving way to the impulsive pride of the Conqueror's son. “If he be a coin, Roger, then we shall toss him to the Heavens!”
 
 He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, carved doors of the lodge.
 
@@ -903,7 +851,7 @@ Henry's posture relaxed instantly, the fire cooling into a stony, dismissive ind
 
 The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow (*coram rege*)—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
 
-Henry reached for his wine, oblivious, for the most part, to the cage he had just built—its door wide open to the night.
+Henry reached for his wine, oblivious to the cage he had just built—its door swung wide open to the night.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -1040,7 +988,7 @@ Matilda's stomach dropped.
 
 "I grant to Beatrice the daughter of Harold 'Red Wolf' of Stanwey—"
 
-The Queen rose smoothly. "—this fine goose alive and a larder to fill his hall, as the king in his mercy intends. Let it be recorded."
+The Queen rose quickly. "—this fine goose alive and a larder to fill his hall, as the king in his mercy intends. Let it be recorded."
 
 She turns to the clerk, dictating: "Item: the goose of the daughter of Harold Red-Wolf is spared by the king's grace. Item: a larder shall be sent to Stanwey to honor Harold Red-Wolf's service. Item: the king shall visit Stanwey within the fortnight to hear the tale of the Severn told anew."
 
@@ -1110,13 +1058,13 @@ The grin faded. "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mi
 
 "This girl?"
 
-He met her eyes. "She *saw* him. In the hall, before any of this. She looked at him—just for a moment—and didn't look away. I was watching."
+“She *saw* him.” He picked up his meat and pointed. "In the hall, before any of this. She looked at him—just for a moment—and didn't look away. I was watching."
 
 The Queen absorbed this.
 
-"You're sure?"
+"You saw this?"
 
-"I'm sure."
+"I'm certain."
 
 A long pause. The fire crackled.
 
@@ -1128,11 +1076,11 @@ Almost a smile. "It happens. Rarely."
 
 He laughed softly. "I'll mark the day."
 
-Her tone shifted, more practical. "Still. She will need fitting for court. Taming, perhaps. Teaching certainly: manners, dress, language, etiquette—how not to fall foul of others unnecessarily, how to think before she speaks."
+And she will need fitting for court. Taming, perhaps. Teaching certainly: manners, dress, language, etiquette—how not to fall foul of others unnecessarily, how to think before she speaks."
 
 She became more serious.
 
-"The barons will whisper. Brittany will not be pleased."
+"The barons will whisper. <SOMEONE> will not be pleased."
 
 Henry considered this. "A little diplomacy, then. But a tame wolf is still a wolf."
 
@@ -1166,11 +1114,9 @@ After a moment: "You will escort the young lady home. Two riders, no more. See h
 
 Godfrey found his voice. "Yes, Father."
 
-"And Godfrey." Henry paused. "She doesn't know. About the vow. About any of it. When you tell her—" He stopped, glanced at Matilda, then back at his son. "When you tell her, let it be her father who speaks first. That's the way."
+The Queen leaned closer, her voice barely a murmur. “Be wary of those would see this vow fail, but never fear them,” she said quietly. 
 
-Quietly: "I understand."
-
-The Queen added, "Go now. She has a head start, and the road grows dark."
+Godfrey nodded. “Let them watch, my lady, for we shall not be moved. But the road grows dark and she has a head start."
 
 Godfrey bowed to them both—a bow deeper than protocol required—and turned to go.
 
@@ -1227,86 +1173,6 @@ He reached for the meat. "You're good at this."
 "Making me think I decided things myself."
 
 She rose, moving away, but her smile lingered. "I learned from the best."
-
---- 
-
-### The other watchers
-
-Outside, under a pale sky, the pale stone road stretched eastward through the forest. Godfrey walked alone for now, his horse following at a walk, until the guards would catch up. Ahead, somewhere in the gathering dark, a girl carried a goose in a basket, unaware that her life had just changed forever.
-
-He walked faster.
-
-Back in the hall, a few nobles looked at the door and thought of Godfrey, their eyes narrow, already calculating what this unexpected match might cost or gain them. In courts, alliances could shift faster than the wind, and a cunning soul learned to watch which way it blew.
-
-Sir Guy was alone, his face flushed with wine and humiliation. He stomped through straw and manure out across the main courtyard, the Bailey. 
-
-The King’s words still burned: *“If the daughter of a Red‑Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work.”* 
-
-A serveant touched his sleeve. “My lord, there is a man who would speak with you. He said to find him via the outer shell stairs, on the eastern parapet.”
-
-Sir Guy’s eyes narrowed. “What man?”
-
-“He did not give his name, sir.”
-
-Curiosity warred with caution. Atop the eastern wall was cold, unused. There was nothing much there but the view of distant Gretton Manor, the Welland Valley and the Great Forest of Rockingham stretching out for miles.
-
-A man without a name could be a messenger or a trap. Sir Guy’s hand rested on his dagger. 
-
-“Show me.”
-
----
-
-### The Grey Man
-
-The parapet was draughty. A man stood by the edge, his back to the stairs. He wore a plain wool cloak, no badge, no sword—nothing to mark his allegiance.
-
-He turned as Sir Guy entered. Middle‑aged, grey‑haired, with the kind of face that could disappear in a crowd. His eyes were pale and flat.
-
-“Sir Guy de Montfort.” It was not a question.
-
-Guy turned. “You have the advantage of me.”
-
-The grey man gestured to a stool. “I am no one you need to name. Call me a traveller with an interest in… opportunities.”
-
-Sir Guy did not sit. “Opportunities?”
-
-“For instance, you want Stanwey. The King has given it to his son. A pity.” The grey man’s tone was light, almost casual. “A fine holding, five hides, iron in the hills. It would make a man independent of royal favour. Such a shame a maid stands in your way.”
-
-Sir Guy’s hand tightened on his dagger. “Who sent you? The King?”
-
-The grey man laughed softly. “The King who spoke in full view of the court would have no need to speak privily so soon.” He paused. “No, I am here because I hear things. And what I hear is that you are a knight with a grievance and an empty purse.”
-
-Sir Guy’s jaw tightened. “I have lands in Normandy.”
-
-“Do you, indeed? Your family’s quarrel with the King over Évreux—it is well known. The King’s justice took what was yours. Your father and uncles came to gain lands in England and the King's justice again took what is yours. You sought a bride for yourself with the same outcome. It is difficult for every young man to build a reputation with such interference by the King.” The grey man leaned against the huge stones. “I am not your enemy. Nay, I am merely—shall we say—curious.”
-
-“Curious about what?”
-
-“Whether you are a man who can be helped. Or a boy who cannot.”
-
-The silence stretched. Sir Guy weighed the man’s words. A trap? Possibly. But the King would not use such a messenger. The Queen? Unlikely. A rival? Perhaps. But the offer was vague, deniable.
-
-“What do you want?” Sir Guy asked.
-
-“A man might pursue a wife for her dowry, but I am well informed that you have been chasing Stanwey since before the King’s vow. So I wonder: is it the girl you want, or the father's land? The marriage, or the silver?” The grey man’s voice was light, but his eyes were sharp.
-
-Sir Guy’s face darkened. “I want what is mine. The land was my family’s by right of conquest. The King’s justice took it from us as reward to that weasel and I mean to have it back.”
-
-“Then the girl is a means, not an end.” The grey man smiled—a thin, dangerous smile. “I thought as much. To that end, the King is leaving for Normandy. The Queen will have other concerns. A land claim, properly presented quietly, might succeed. Especially if the girl were to… shall we say... withdraw?”
-
-“That shrew will not withdraw.”
-
-“Perhaps not. But the King’s vow was made *coram rege*. Some might argue that the girl had already left the hall, and the vow was not legitimately fulfilled.” He met Sir Guy’s eyes. “There are many ways to make a maid reconsider.”
-
-The grey man walked toward the stairs, then paused. “If you should ever need a friend—one who values discretion—you may leave word at the sign of the Blue Boar in Westminster. Ask for the pied merchant from Flanders.”
-
-He was gone before Sir Guy could answer.
-
-Sir Guy stood alone in the dim room, his hand still on his dagger. The candle flickered. He did not know the man’s name, his master, or his true purpose. But the seed was planted.
-
-*Is it the girl or the land?* He did not ask himself which he truly wanted. He did not need to.
-
-He left the tower without looking back.
 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
@@ -2804,77 +2670,7 @@ She checked inside the needle‑case, grateful to find that all the expensive st
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 27 - A Dark Room
-
-*That night, Westminster hummed with whispered conversations. The King’s pending departure had loosened tongues. In one chamber, loyal barons swore renewed oaths to the Queen. In another, clerks tallied the cost of the coming campaign. And in a small, dim room off the east courtyard, a different kind of gathering took place.*
-
-The chamber was small, lit by a single candle. Around the table sat four men: the grey‑haired agent in his plain cloak; a portly figure in a merchant’s fur‑trimmed coat, known only as the Pied Merchant; a lean, sharp‑featured man whose silence spoke of authority—Lord Everard de la Roche; and a fourth, younger, who had not yet spoken.
-
-De la Roche swirled his wine, his eyes distant. “I remember when the old King held court at Rouen. My father knelt before him. We had land then. A hall with a view of the Seine.” He sighed. “Henry took it. Gave it to a clerk with ink on his fingers.”
-
-The Pied Merchant shrugged. “Lands are lost. Lands are won. We are here for what comes next.”
-
-“The King’s vow,” Roche said, setting down his cup. “He swore this before bishops and barons. A sacred oath, binding under pain of excommunication. If he breaks it, the Church will turn against him. If the marriage becomes a scandal, his enemies will laugh. Either way, we win.”
-
-The grey man nodded. “The girl is a nobody. A Saxon thegn’s daughter. If she proves *unfit* – unchaste, unwilling, or simply a fool – the barons will whisper that the King sold his son for a goose. The vow will be mocked.”
-
-“And if the marriage goes forward?” asked the younger man.
-
-Roche smiled. “Then Godfrey remains landless, tied to a minor manor, far from any border. No Breton March, no strongholds. A scholar‑son married to a goose girl. He will never be a threat to Clito.”
-
-The Pied Merchant leaned forward. “Our task is to ensure the vow becomes a liability. Spread whispers that the girl is unsuitable. Pressure her father. Make the marriage a subject of ridicule. If Henry is forced to break his word, his reputation crumbles. If he stubbornly proceeds, the match will be a laughingstock.”
-
-“And Sir Guy?” the grey man asked.
-
-“A useful distraction,” Roche said. “His land claim keeps the court busy. If he succeeds, the girl loses Stanwey and the betrothal may falter. If he fails, we lose nothing. Either way, the vow is under scrutiny.”
-
-A knock at the door. The men fell silent.
-
-A servant’s voice: “Sir Guy de Montfort.”
-
-Roche’s eyes flicked to the grey man. “Your petitioner.”
-
-Sir Guy entered, his face flushed with wine and urgency. He sat opposite the grey man, his self‑importance barely contained.
-
-“The Queen is surely protecting the Saxon girl,” he said.
-
-The grey man nodded indulgently, with a significant look at the others. “We are aware.”
-
-“Then we must act together. The King will return in the spring. Once he does, any challenge will be crushed.”
-
-Roche exchanged a glance with the Pied Merchant. Sir Guy was a useful tool—eager, ambitious, and blind to the larger game.
-
-“What do you propose?” the grey man asked, playing along.
-
-“A legal hearing. Escheat. We claim the old thegn is unfit, that the girl cannot hold the land.”
-
-The Pied Merchant shrugged. “A local matter. Pursue it if you wish.”
-
-Sir Guy’s jaw tightened. “I need support. Silver. Witnesses.”
-
-“You shall have what you need,” Roche said, his voice smooth. “But do not mistake this for our main purpose. Stanwey is a stone in your shoe, not the crown we seek.”
-
-Sir Guy raised his cup, trying to regain the initiative. “To the King’s departure.”
-
-“To the King’s departure,” the others echoed, their voices flat.
-
-Roche rose. “I need my sleep. We sail at dawn.” He glanced at the grey man. “Walk with me.”
-
-The grey man stood. The Pied Merchant followed. The fourth man rose silently. The three of them moved toward the door.
-
-Sir Guy frowned. “What of the rest? The plan?”
-
-“You have your instructions.” Roche paused at the threshold, not looking back. “I will send word from Normandy. Do nothing until then.”
-
-The door closed behind them. Sir Guy sat alone, the candle flickering, the parchment still on the table. He felt important, not noticing that the others had not once asked for his opinion on anything beyond Stanwey.
-
-In the corridor, Roche’s voice faded: “The Clito business requires a messenger to Flanders. The French king waits. We set the stage for a scandal that will echo for years. One step at a time.”
-
-The words trailed off, lost in the stone.
-
----
-
-### The Great Unmooring
+## Chapter 27 - The Great Unmooring
 
 The King’s departure was not a single moment of waving silk, but a week‑long evacuation of the soul of the court. To Beatrice, it felt as though the very air was being sucked out of Westminster, leaving behind a vacuum of anxious women and distracted men.
 
@@ -3307,7 +3103,7 @@ Young Matilda smiled, a sharp, knowing look. “He will write to you, sister. I 
 
 ### Overheard
 
-Passing nearby at the garden’s edge, the grey-haired agent of *de la Roche* stepped closer to Sir Guy. He adjusted his heavy cloak, his eyes fixed on Godfrey’s retreating form.
+Passing nearby at the garden’s edge, Sir Guy stepped closer to his servant. He adjusted his heavy cloak, his eyes fixed on Godfrey’s retreating form.
 
 “A son who is absent,” the agent mused, his voice smooth as oil, “cannot protect a girl who is present. The goose-house door is left unlatched, so to speak.”
 
@@ -3962,8 +3758,6 @@ Sir Guy de Montfort, a disgraced nephew of Amaury III de Montfort, Count of Évr
 
 Godfrey never became a king. He never wanted to. He held Stanwey, served his father faithfully, and raised his children and grandchildren to watch the skies and wait and see the seasons.
 
-Of the other identified conspirators, the grey‑haired agent vanished like smoke. The Pied Merchant was arrested on charge of keeledge, stripped of his silver, and deported to Flanders. Lord Everard de la Roche sailed to Normandy with the King, but his heart remained with the plotters; he died in the rebellion of 1118, sword in hand, fighting for William Clito. 
-
 And Goosie lived to be very old indeed, long past the time when geese should die. On warm days, she could still be found in the herb garden, waddling slowly behind a woman who had once been a girl with a goose, a surprise to a king with a vow, on a road that led to the home she loved.
 
 ---
@@ -4297,7 +4091,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ## Epilogue – The Years After
 
-1. What happens to Sir Guy? To Everard de la Roche?
+1. What happens to Sir Guy?
 2. How does Queen Matilda describe Beatrice in her final months?
 3. What does Godfrey choose to do with his life?
 4. Creative: Write a short letter from the Duchess of Brittany to Beatrice after the White Ship disaster (you may need to research it).
@@ -5424,4 +5218,233 @@ This plan is **aggressive but achievable**. The cuts (conspiracy, Breton offer, 
 ---
 
 *Plan prepared for human collaborators. Insert at end of manuscript for reference.*
+
+# The Goose Bride – Post-Revision Story Summary
+
+*What the entire story looks like after executing the revision plan.*
+
+---
+
+## Overall Structure (After Changes)
+
+| Part | Chapters | Length | Focus |
+|------|----------|--------|-------|
+| Part One – The Seed | 1–6 | ~20% | Domestic life, mother’s death, Beatrice’s competence, Sir Guy introduced |
+| Part Two – The Vow | 7–13 | ~15% | King’s court, the vow, betrothal, road home, Harold’s blessing |
+| Part Three – Courtship | 14–19 | ~15% | Godfrey at Stanwey, King’s visit, the cup ritual |
+| Part Four – First Court Exposure | 20–30 | ~20% | Westminster, half-sisters (trimmed), Queen’s protection, goose in the solar |
+| Part Five – The Darkest Hours | 31–35 | ~10% | Harold’s collapse, hearing (reduced), capture (expanded) |
+| Part Six – The Rescue | 36–40 | ~10% | Godfrey’s ride, chapel confrontation, sensory climax |
+| Part Seven – Resolution & Wedding | 41–45 | ~10% | Queen’s judgment, Valentine’s feast, wedding, epilogue |
+
+**Total estimated post-revision length:** 52,000–55,000 words (down from ~60,000)
+
+---
+
+## What Has Been Cut Entirely
+
+| Element | Original Location | Reason for Cut |
+|---------|-------------------|----------------|
+| **The Breton offer subplot** | Chapter 8 | Added no value to Beatrice’s story; confused focus |
+| **The conspiracy (Grey Man, de la Roche, Pied Merchant)** | Chapter 27, scattered references | Raised expectations without payoff; Sir Guy alone is sufficient |
+| **The legal hearing** | Chapter 34 | Replaced with one sentence; royal decree sufficient |
+| **Half-sisters’ repetitive cruelty** | Chapters 23–30 (multiple scenes) | Reduced to 2 active scenes + 1 silent observation |
+| **The boy who parts geese (if not revealed as Godfrey)** | Chapter 1 | Dangling curiosity; resolved by revealing as young Godfrey |
+
+---
+
+## What Has Been Added or Expanded
+
+| Addition | Location | Purpose |
+|----------|----------|---------|
+| **Ledger entry** | Chapter 4 or 5 | Physical anchor for legal threat |
+| **Harold’s micro-action** | Chapter 15 | Converts grief into plot momentum |
+| **Beatrice’s physical realization in cart** | Chapter 14 | Shows dawning horror, not tells it |
+| **King’s witty “goose came first” line** | Chapter 13 | Restores original fairy-tale charm |
+| **Sensory expansion of capture scene** | Chapter 36 | Heightens tension (230 words) |
+| **Intercut Stanwey scenes (3-4 brief)** | Chapters 23–35 | Maintains domestic anchor during court stretch |
+| **Queen Matilda’s transition observation** | Chapter 19–22 (during feast) | Shows her shift from suspicion to support |
+| **Sir Guy’s grievance line** | Chapter 5 | Deepens antagonist motivation |
+
+---
+
+## Scene-by-Scene Walkthrough (Post-Revision)
+
+### Part One – The Seed (Chapters 1–6)
+
+**Chapter 1 – A Goose of My Own**
+- Beatrice chased by geese. A boy (later revealed as young Godfrey) spreads his cloak and calms them.
+- **Change:** The boy is not a dangling mystery – a line in Chapter 14 or 15 reveals it was Godfrey.
+- Beatrice asks for a goose of her own.
+
+**Chapter 2 – The Farm by the River**
+- Mother takes Beatrice to the river-bend farm. They acquire a speckled goose egg and a broody hen.
+
+**Chapter 3 – The Vigil**
+- The hen sits. Goosie hatches. Beatrice touches her. The goose is hers.
+
+**Chapter 4 – Mother Lessons**
+- Beatrice learns herb-lore, bread-making, healing. The mother teaches her about womanhood (menstruation) with gentle directness.
+- **Addition:** A single line about a ledger with a marginal note – “levy unpaid, 1114” – planted in a chest.
+
+**Chapter 5 – Mother’s Death & Aftermath**
+- Mother dies. Harold’s grief is shown through behavior (chair by hearth, cold bed). Beatrice runs the manor.
+- **Addition:** Sir Guy introduced with a line about his family’s grievance – his father died in the King’s service unrewarded.
+- **Addition:** Horse incident smoothed with a hinge sentence (comic to menacing).
+
+**Chapter 6 – The Measure of a Man**
+- Beatrice refuses suitors (“Not for Stanwey”). Sir Guy’s true nature revealed via overheard conversation at the farm.
+- Beatrice tells Harold. He supports her refusal.
+
+### Part Two – The Vow (Chapters 7–13)
+
+**Chapter 7 – The King’s Frustration** (Tightened)
+- Henry returns from a poor hunt. Queen Matilda tries to soothe him.
+
+**Chapter 8 – Cut/Compressed**
+- **Change:** Breton offer removed entirely. Replaced with 1-2 lines implying external pressure on the King’s sons.
+
+**Chapter 9 – The Ledger and the Lion** (Tightened)
+- Henry’s frustration boils over. He swears the vow: “The next pure maid to cross that threshold shall be his wife.”
+- **Change:** Lead-in exposition trimmed; the vow lands like a physical blow.
+
+**Chapter 10 – Sir Guy’s Spite**
+- Beatrice arrives at the lodge. Sir Guy trips her. The basket flies open.
+
+**Chapter 11 – The Goose Hunt**
+- Goosie explodes into the hall. Henry catches her, laughing.
+
+**Chapter 12 – The Red-Wolf Honoured**
+- Henry recognizes Harold’s name. He spares the goose and promises to visit Stanwey.
+
+**Chapter 13 – A Matter of Diplomacy**
+- Queen Matilda privately questions Henry. He reveals he saw Beatrice look at Godfrey.
+- **Addition:** Henry’s witty line – “The goose came first, but the girl was right behind. I am not such a fool as to marry my son to a bird.”
+- Royal decree announced. Godfrey sent to escort Beatrice home.
+
+**Chapter 14 – The Road Home** (Revised)
+- Beatrice rides with a carter’s family. She overhears the vow explained.
+- **Addition:** Physical realization – palm on basket, counting syllables.
+- Godfrey catches up. Walk to Stanwey. Her breakdown. His promise.
+
+**Chapter 15 – Tales to Tell**
+- Beatrice tells Harold everything.
+- **Addition:** Harold’s micro-action – opens ledger, calls reeve, or sets a watch.
+- Goosie accepts Godfrey. Harold gives his blessing to court her.
+
+### Part Three – Courtship (Chapters 16–19)
+
+**Chapter 16 – The Courtship**
+- Godfrey visits Stanwey, mends the goose pen, helps the reeve. Slow, practical courtship.
+
+**Chapter 17 – A Quiet Plan**
+- Godfrey mentions to the Queen that Beatrice worries for Harold. Queen offers a cook and reeve.
+
+**Chapter 18 – The King is Coming**
+- Preparations for Henry’s visit. Harold comes alive.
+
+**Chapter 19 – Respite and Some Advice**
+- Beatrice visits the priest. He advises her to watch Godfrey’s character.
+- **Addition:** Queen Matilda observes Beatrice with servants – a line of internal reaction: “The girl does not perform kindness. She simply is kind.”
+
+### Part Four – The King’s Visit & First Court Exposure (Chapters 20–30)
+
+**Chapter 20 – Final Preparations**
+- The hall is readied. Henry arrives.
+
+**Chapter 21 – The Fathers’ Bargain**
+- Henry and Harold talk privately. Henry reveals Godfrey’s quiet competence (the Welsh mission).
+
+**Chapter 22 – The Cup**
+- Beatrice asks Godfrey for a drink. She drinks – a binding betrothal in the old way.
+
+**Chapters 23–30 – Westminster** (Intercut with Stanwey scenes)
+- Beatrice arrives at court. Lady Margaret mentors her.
+- **Intercut addition:** Short letters from Harold or reports from the reeve appear every few chapters.
+- Half-sisters appear in **two active scenes** (garden encounter, feast mockery) and one silent observation.
+- The inked goose in the Queen’s solar – Godfrey quietly captures Goosie.
+- Queen Matilda’s window-seat confession (Chapter 32, renumbered) – reveals she was once “the Saxon girl.”
+- **Change:** No conspiracy scenes. No Grey Man. No de la Roche.
+- **Change:** Legal hearing (Chapter 34) replaced with one sentence: “Sir Guy’s claim was dismissed.”
+
+**Chapter 35 – Leave to Go (Renumbered)**
+- Beatrice receives word that Harold has collapsed. She returns to Stanwey.
+
+### Part Five – The Darkest Hours & Rescue (Chapters 36–40)
+
+**Chapter 36 – The Capture** (Expanded)
+- **Addition:** Sensory-rich capture scene (230 words) – torches, splintering wood, metal on wrist, Sir Guy’s voice.
+- Sir Guy takes Beatrice and Harold to St. Mary-by-the-Woods.
+
+**Chapter 37 – Godfrey’s Arrival**
+- Godfrey reaches Stanwey. Goosie leads him toward the chapel.
+
+**Chapter 38 – The Swordfight**
+- Godfrey fights Sir Guy. He is not a warrior, but his “adequate” practice (from Harold) is enough.
+- He disarms Sir Guy.
+
+**Chapter 39 – The Candlestick**
+- Beatrice cuts her ropes with a hairpin. She raises a candlestick to defend Harold.
+
+**Chapter 40 – The Forester’s Horn**
+- Foresters arrive. Sir Guy is captured. The Queen’s men take him away.
+
+### Part Six – Resolution & Wedding (Chapters 41–45)
+
+**Chapter 41 – The Queen’s Judgment**
+- Sir Guy is stripped of lands and banished.
+- **Change:** No lingering conspiracy resolution – he acted alone.
+
+**Chapter 42 – Feast of St. Valentine**
+- The Queen publicly declares her support for Beatrice.
+
+**Chapter 43 – Wedding Preparations**
+- Harold gives Beatrice advice. The Duchess of Brittany sends a letter.
+
+**Chapter 44 – The Night Before**
+- Godfrey and Beatrice talk in the herb garden. She admits she loves him.
+
+**Chapter 45 – The Wedding**
+- Spring wedding. Goosie leads the procession.
+- The proverb is spoken: “A goose may wend where a King must wait.”
+
+**Epilogue – The Years After**
+- Harold dies peacefully. Queen Matilda dies (1118). The White Ship disaster (1120) mentioned briefly.
+- **Change:** These events are mentioned, not dramatized – appropriate for epilogue.
+- Final image: Goosie in the herb garden, old and slow.
+
+---
+
+## Pacing and Balance (Post-Revision)
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Total word count | ~60,000 | ~52,000–55,000 |
+| Court scenes (Rockingham + Westminster) | ~35% of book | ~25% of book |
+| Domestic Stanwey scenes | ~40% | ~50% (intercutting adds presence) |
+| Conspiracy scenes | 2-3 | 0 |
+| Half-sister cruelty scenes | 5-6 | 2 active + 1 silent |
+| Legal hearing | Full chapter | 1 sentence |
+
+---
+
+## What the Reader Experiences (Post-Revision)
+
+**A faster, tighter, more emotionally grounded story.** The reader never loses sight of Stanwey – even during the Westminster stretch, brief letters or reports from Harold maintain the domestic anchor. The conspiracy is gone, so Sir Guy’s threat feels personal and credible, not part of a larger (and underdeveloped) political game. The legal hearing is reduced to a single line – the royal decree is enough. The climax is more sensory and immediate; the reader feels the cold chapel, the weight of the candlestick, the desperation of Godfrey’s “adequate” swordplay.
+
+**The tone remains warm, intimate, and quietly powerful.** The cuts remove noise, not heart. The original fairy-tale charm is restored with the King’s “goose came first” line. The proverb echoes throughout, gaining meaning with each repetition.
+
+**The book is now suitable for ages 12+** (young adult), not middle-grade. The emotional depth (mother’s death, Harold’s decline, Beatrice’s fear) and the absence of explicit content make it appropriate for mature younger readers, but the length and complexity are best suited to YA.
+
+---
+
+## Final Note
+
+This is not a new book – it is the same book, **leaner and more focused**. Every cut was made to serve the core relationship (Beatrice, Goosie, Harold, Godfrey) and to remove distractions that confused or slowed the reader. The additions (ledger, Harold’s action, sensory climax, King’s wit) are low-effort, high-return improvements.
+
+The story that remains is the one readers already love – just told more cleanly.
+
+---
+
+*End of post-revision story summary.*
 
