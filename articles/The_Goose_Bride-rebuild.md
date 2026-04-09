@@ -14,6 +14,8 @@
 > => AI review
 >
 > => (Related REVIEW NOTES at very end)
+>
+> - TODO - USA VS British spelling?
 
 ---
 
@@ -210,7 +212,9 @@ She learned which green stalks to gather from the riverbank: willow bark to chew
 
 Most importantly, she learned how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
 
-Beatrice learned. She watched and she listened and she grew.
+She became skilled at managing the estate accounts. These were mostly rolls of parchment bound with faded ribbons, kept in a chest at the foot of her mother’s bed. She meant to ask about one entry in an unsteady hand, but was distracted by her goose. It read: “Levy unpaid. See reeve at Michaelmas. Silver set aside.” 
+
+And so, Beatrice learnt. She watched and she listened and she grew.
 
 Then her mother grew tired. Then pale. Then thin.
 
@@ -2807,17 +2811,13 @@ Goosie dipped her beak in the ink. The taste was terrible. She shook her head, s
 
 ### The Half‑Sisters Emerge (The Birth of “Goose Girl”)
 
-By the time Avice and Eustacia arrived, a small crowd of servants had gathered in the corridor, whispering and pointing. The half‑sisters did not push to the front. They lingered at the edge, watching, their faces unreadable.
+A small crowd of servants gathered in the corridor, whispering. A few nobles lingered at the edge, watching, their faces unreadable.
 
 A serving woman turned to them. “My ladies, the goose—the goose girl’s goose—it is in the Queen’s solar.”
 
-Avice’s eyes lit up. “The *goose girl*,” she repeated, tasting the words. “Yes. That is what she is. A goose girl playing at being a lady.”
+More whispers. *The goose girl's goose!*
 
-Eustacia peered over the shoulders of the crowd. “She is making a terrible mess.”
-
-“Let her,” Avice said quietly. “Let everyone see. The prince’s betrothed, hiding a farmyard animal in her chamber. The court will remember this.”
-
-They did nothing to stop Goosie. They simply watched, arms crossed, as the goose turned the solar into a disaster. And from that moment, the name stuck. Servants whispered it. Nobles murmured it. “The goose girl.” It was not a title; it was a brand.
+No one did nothing to stop Goosie. They simply watched, arms crossed, as the goose turned the solar into a disaster. And from that moment, the name stuck. Servants whispered it. Nobles murmured it. “The goose girl.” It was not a title; it was a brand.
 
 ---
 
