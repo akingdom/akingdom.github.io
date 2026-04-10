@@ -1262,7 +1262,7 @@ The man snorted, tapping the lead bullock to straighten up. “Blood? Illegitima
 
 “Maybe so, mother, but you must admit it’s odd for a King not to care who his son marries.”
 
-Beatrice noticed the girl staring at the basket on her knee. To distract her, she leaned over and whispered as a joke, “Whatever do they mean? Is it some royal ritual?”
+Beatrice noticed the girl frowning at the basket on her knee. To distract her, she leaned over and whispered as a joke, “Whatever do they mean? Is it some royal ritual?”
 
 The girl leaned closer, her voice a conspiratorial hiss. “No, silly. The court wanted the King’s son to marry a princess, but the King said no.”
 
@@ -1302,15 +1302,15 @@ She clutched the thought like a rope. *If it was me, they would have said. The q
 
 ### Not me
 
-Beatrice's fingers were white on the wicker. *It is not me. It cannot be me. It is some other girl with a goose, some girl they did not tell, some girl who was not me.*
+Beatrice's shaking fingers had turned white from clutching the wicker of the basket to her chest, her eyes staring back up at the castle. 
 
-The mother’s voice broke through. “She got to take her bird home. Walked right out of the hall with it under her arm.”
+The mother’s voice broke through. “The girl got to take her bird home. Walked right out of the hall with it under her arm.”
 
-Beatrice heard herself laugh. It came out loud, too loud, like the caw of a rook startled from a branch. “Imagine such a thing. A girl keeping her bird.”
+Beatrice heard herself laugh. It came out loud, too loud, like the caw of a rook startled from a branch. “A girl keeping her bird! Imagine such a thing.” *Stop talking.* But her mouth wouldn't.
 
-Her hands were cold. Her legs were weak. The words *it is not me* ran through her mind like the refrain of a song she could not stop singing.
+The sounds of the wheels grew thin and distant. Her hands were cold. Her legs were weak. It felt as if a great space had opened up between her eyes and the world, until she was staring down at another Beatrice journeying in the cart.
 
-“Imagine that.” John turned on his seat to grin at her. “Oh, but you look quite pale, miss.” His gaze dropped to the basket. “What breed of bird did you bring all this way? It must have been heavy, you poor thing.”
+“Imagine that.” John turned on his seat to grin at her. “Oh, but you look quite pale, miss.” His gaze dropped to the basket. “It must have been painful to carry all this way. What breed of bird did you bring?”
 
 “Goose.” The word came out before she could catch it.
 
@@ -1324,9 +1324,9 @@ The girls giggled.
 
 “A chase? Mercy me.” Beatrice’s voice wavered, seeming to come from somewhere outside herself. *A commotion. The king caught Goosie. That was me. That was me.*
 
-She could feel the woman’s sharp gaze watching, measuring. Beatrice wriggled herself up against the backboard, behind John’s seat, and shut her eyes. *She does not know. It is not me. It cannot be me. Not me. Not at Stanwey.*
+She could feel the woman’s sharp gaze watching, measuring. Beatrice wriggled herself up against the backboard, behind John’s seat, and shut her eyes. *Not at Stanwey.*
 
-She pressed her forehead against the rough wood and tried to think of nothing, but the name *Stanwey* was like a prayer, and she repeated it until the cart rolled on and the voices faded into the clack of the ox‑pole and the grey dust of the road.
+She pressed her forehead against the rough wood, letting the vibration of the cart rattle through her teeth. She tried to think of nothing, but the rhythm of the wheels sounded like *Stan-wey. Stan-wey.* She watched until Rockingham Castle was swallowed up by the grey quarry-dust of the road, leaving only the steady clack of the ox‑pole and the voice of the wheels calling her home.
 
 ---
 
