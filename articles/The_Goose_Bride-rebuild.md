@@ -15,8 +15,6 @@
 >
 > => (Related REVIEW NOTES at very end)
 >
-> - TODO - Check for British spelling
->
 > - TODO - Renumber chapters
 
 ---
