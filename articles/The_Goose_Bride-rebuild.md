@@ -228,7 +228,7 @@ Beatrice would find him in the doorway of the sleeping chamber, watching, his gr
 
 “Go and tend the fire, husband. Beatrice will stay with me.”
 
-And he would go. Years later, Beatrice would realise that this was her mother's way of telling her father to rest and that he needed to care for himself more from now on.
+And he would go. Only years later would Beatrice understand: her mother was telling her father to rest, and that he needed to care for himself now.
 
 On such occasions, her mother would speak quietly of things to come. 
 
@@ -367,7 +367,7 @@ And Goosie followed her. Always.
 
 It was a still evening in the hall at *Stanwey*. The sun cast long, amber shadows across the rich fallow strips of the fertile river valley, cut deep with an iron tipped plough, and a clamour of rooks circled the wood’s edge, their harsh *kaah-kaah* fading as they settled into the high branches. The smoke from the village fires drifted upward, thin and grey, like a long-held breath finally released.
 
-Her day had been spent poring over the estate accounts, comparing them to earlier years. She had become skilled at managing accounts — her hardest challenge now was keeping Goosie away from the ribbons that bound the parchment rolls. 
+She had spent the day poring over estate accounts – she was skilled at it now – though her hardest challenge was keeping Goosie away from the ribbons that bound the parchment rolls.
 
 The spring planting was done, and the heat of Beatrice's July *Name Day* was still a moon’s turn away. Their two servants were cleaning up in the background. Beatrice sat down and watched her father trace a finger along the vellum of his *Psalter*, his lips moving with the Latin wording.
 
@@ -733,7 +733,7 @@ Henry's steely gaze shifted to the door where his men lingered. Inwardly, he kne
 
 The Queen looked at him directly, she who had ruled England as regent in his stead and knew well the weight of the crown, far more than any of the barons.
 
-“My lord's peace cannot be mistaken for a poor gift. Nay, husband, it is the fruit of seeds planted by my lord. Has not Anjou been a thorn in Normandy’s side, troubling your lands? That lion is now tamed. Anjou's heir is bound to our son, William.”
+“My lord's peace is no poor gift. It is the fruit of seeds you planted. Has not Anjou troubled your lands? That lion is tamed now. Anjou's heir is bound to William.”
 
 Henry grunted, his fingers drumming on the oak. “If it holds—a promise is only as strong as the sword behind it.”
 
@@ -3113,7 +3113,7 @@ Godfrey did not shout. He did not threaten. He simply stood at the edge of their
 
 He spoke in the formal manner of the Norman court.
 
-“A bird of the air may carry your voice to the King, and you will find yourself in a place where his peace cannot follow. The Queen once told me that *fruit follows the seed*; know then what shall befall you if you speak so of my betrothed again.”
+“The King’s protection is a gift,” Godfrey said, his voice dropping to a low, flat tone. “Speak ill of my betrothed like that again, and you will quickly find yourself beyond the King's peace. It is your choice, but remember, even a bird can carry your voice to him.”
 
 Eustacia’s smile faltered. The others looked at the floor.
 
@@ -3227,25 +3227,17 @@ However, his plan had been overheard by someone most unexpected.
 
 ---
 
-### The unexpected listener
+### The Unexpected Witness
 
-In the shadow of the stable, a Flemish maid held her hand to her mouth, her eyes wide open, her heart pounding, a half-repaired blanket on her lap.
-
-Sabina recognised that voice. To her, Sir Guy was the worst thing about the stables, even worse than the stench of the horse manure.
-
-She quickly made the sign of the cross.
-
-The goose girl and Sir Guy were both bad people, she was certain of that.
-
-The girl had ensured that she had been banished to the stables, no longer to serve the Queen's Solar with its sweet perfumes and occasional leftover treats. That English girl who had snapped at her in the hallway weeks ago – *“I cannot understand you. Just point.”*
-
-How could it possibly be fair that the cook blamed her for the fact that that girl had gotten lost? That peasant girl had refused her offer to take her personally to the *little house*. The English are crazy. The linen room had been exchanged for this stinking stable, where the stablehands cursed her and the hay made her sneeze all day long.
-
-*Let them both suffer,* thought Sabina. *Why should I help?*
-
-She felt uncomfortable about it. *I should help, but there is no one I can tell. I cannot tell the stable master, and I do not dare go to the goose girl or Lady Margaret, for fear that something worse might happen.*
-
-Finally, she said a silent prayer – for the goose girl, yes, but also for herself. She quietly disappeared into the shadows and said nothing.
+In the shadow of the stable, Sabina held her hand to her mouth. On her lap lay a half-mended blanket, the heavy wool smelling of the horse-stalls.
+ 
+She recognised Sir Guy’s voice. To her, he was a weight even heavier than the stench of the manure. She quickly made the sign of the cross, her fingers fumbling against her chest. 
+ 
+A few weeks ago, she had been in the Queen’s Solar, surrounded by sweet perfumes and sunlight. Then came the English girl who had snapped—*“I cannot understand you. Just point.”*—and then the kitchen-shouting, and then the banishment to this stinking straw. 
+ 
+*I should help,* she thought, watching them through the gloom. But the thought was cold and thin. If she spoke to the stable master, he would cuff her. If she went to the goose girl, Sir Guy might find her. 
+ 
+*Let it be,* Sabina whispered. She said a silent prayer—for the girl, but mostly for her own safety—and disappeared into the shadows.
 
 ---
 
@@ -3597,7 +3589,7 @@ Sir Guy paused at the door. His jaw tightened. He pointed at the cook – Beatri
 
 The cook nodded, trembling, and hurried to Harold’s side.
 
-Beatrice did not wait for permission. She slipped off the bed, grabbed her gown from the peg, and pulled it over her head. Her fingers found the knife hidden beneath the pillow – the Queen’s knife – and she slid it into her belt, hidden by the folds of wool. No one saw.
+Beatrice did not wait for permission. She slipped off the bed, grabbed her gown from the peg, and pulled it over her head. Her fingers found the knife beneath the pillow – the Queen’s knife – and she slid it into her belt, under the folds of wool. No one noticed.
 
 Two men hauled Harold from his bed. His gown hung loose on his thin frame, his grey legs bare below the knee. He did not struggle; his eyes found Beatrice’s and something like a command passed between them.
 
@@ -4112,7 +4104,7 @@ Even the half-sisters, forced to curtsey as Beatrice passed, managed something a
 
 Harold watched with wet eyes, standing tall despite the pain in his chest. He would not lean on anyone today.
 
-When the wedding procession left the church porch, a plump white goose waddled proudly ahead of them, its neck stretched high as if it wore a crown of its own.
+When the wedding procession left the church porch, a plump white goose waddled ahead of them, neck stretched high, carrying itself like a queen.
 
 Someone in the crowd chuckled.
 
