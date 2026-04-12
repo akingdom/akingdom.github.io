@@ -532,7 +532,7 @@ He shook his head. “I wanted to believe there was a way to secure this place w
 
 Beatrice knelt beside his chair. “Father, I am not afraid of him. And I am not afraid for Stanwey. I will hold it until the day I can hold it no longer. And when that day comes, it will not be Sir Guy who takes it, no, not even the King of England.”
 
-Harold opened his eyes. “You may keep that last part to yourself, daughter,” he said patiently. "It is not suited for the ears of lions, for they are at times very large ears.” He looked at her softly. “You are your mother’s daughter,” he said.
+Harold opened his eyes. “You may keep that last part to yourself, daughter,” he said patiently. "It is not suited for the ears of lions, for they have at times very large ears.” He looked at her softly. “You are your mother’s daughter,” he said.
 
 He looked at her—really looked—and for a moment, she saw the man who had pulled a lord from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
 
