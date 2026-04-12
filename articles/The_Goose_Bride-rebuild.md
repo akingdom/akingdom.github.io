@@ -1007,7 +1007,7 @@ Sir Guy passed Beatrice, moving aside, red-faced. She caught his eye and offered
 
 She faced away from the man who had humiliated her earlier; her gaze swept the crowd, looking for safe harbour, anything steady. Her eyes found the pillar—found him—the quiet one. Not part of the whispers. Not part of the cruelty—simply there.
 
-For a heartbeat—two—she let her curiosity turn to realisation: oh. You’re not like them.
+For a heartbeat—two—she let her curiosity turn to realisation: *oh. You’re not like them.*
 
 Something flickered in his face—barely there. A crack in his cautious mask.
 
@@ -1050,7 +1050,6 @@ Henry grinned. "That’s the point."
 
 “Is it?” She let the question hang. “My lord, what of the barons? A Saxon thegn’s daughter—no alliance, no dowry, no lands to speak of. They will say you have slighted your son.”
 
-
 The grin faded. "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—" He stopped, looking toward the door where Beatrice had vanished. "She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?"
 
 "Rarely."
@@ -1059,7 +1058,7 @@ The grin faded. "Low-born? Harold Red-Wolf is a thegn. His blood is as old as mi
 
 "This girl?"
 
-“She *saw* him.” He picked up his meat and pointed. "In the hall—before any of this. She looked at him—just for a moment—and didn't look away. I was watching."
+“She *saw* him.” He picked up his meat and pointed. "In the hall—before any of this. The girl did look at him—just for a moment—and didn't look away. I was watching them."
 
 The Queen absorbed this.
 
@@ -1081,9 +1080,9 @@ He laughed softly. "I'll mark the day."
 
 She became more serious.
 
-"The barons will whisper. <SOMEONE> will not be pleased."
+"The barons will whisper. The noble houses will be displeased."
 
-Henry considered this, "A little diplomacy, then. But a tame wolf is still a wolf."
+Henry considered this, "We can afford a little diplomacy, then. But a tame wolf is still a wolf."
 
 She met his eyes. "Depends on the wolf."
 
@@ -1135,9 +1134,9 @@ The hall fell quiet again. Henry reached for his wine.
 
 "He'll do."
 
-Matilda met his gaze steadily. "He already has."
+Matilda met his gaze steadily. "He already has done."
 
-Henry set down his cup. "Then let’s be done with it."
+Henry set down his cup. "Then let us be done with it too."
 
 He rose. The Queen rose with him. The hall, sensing movement, quieted.
 
@@ -1161,7 +1160,7 @@ He paused, letting the weight settle. Then he grinned.
 
 The hall laughed, uncertain, then genuine. It rippled through the court. The tension broke.
 
-Henry nodded to the clerk, who scribbled furiously. Then he sat, reaching for his wine.
+Henry nodded to the clerk, who scratched out words speedily with his pen. Then he sat, reaching for his wine.
 
 The Queen lowered herself beside him, her voice barely above a murmur.
 
