@@ -2140,10 +2140,6 @@ From the corner of the hall, near the screens passage, a harp began to play. The
 
 Henry paused, a piece of bread halfway to his mouth, and listened. When the song ended, he turned to Harold. "You have music here," he said. "The Queen would approve. She sent word ahead, I think – or perhaps she has spies even in the forest." He grinned. "The hall may be small, Rauthulfr, but you keep it well. The bread is better than my own baker’s, and the ale has a kick I did not expect. I shall have to send my cook to learn from your daughter."
 
-Harold’s mouth twitched. "The silver was easier to train."
-
-Henry roared with laughter. Godfrey, standing by the door, allowed himself a small smile.
-
 Beatrice could not help hearing fragments, even as she served.
 
 “…the Severn was higher than I had ever seen it. Your brother was clinging to a branch like a wet cat…”
