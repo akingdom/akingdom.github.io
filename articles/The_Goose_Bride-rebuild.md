@@ -623,7 +623,7 @@ At the edge of the clearing, she stopped. Goosie was there—waiting for her, al
 
 Beatrice knelt and buried her face in warm feathers. "There’s no other bird," she whispered. 
 
-The river took the weak. The Abbot took the strong. The war took the rest.
+*The river took the weak. The Abbot took the strong. The war took the rest.*
 
 Goosie honked softly. She didn't understand. She just was.
 
@@ -671,7 +671,7 @@ Harold studied her face. For a moment, something flickered in his eyes—the old
 
 "Your mother would have been proud of you."
 
-Beatrice’s throat tightened. She set down the basket—Goosie honked—and hugged him fierce and quick. He felt thinner and more frail than he should.
+Beatrice’s throat tightened. Goosie honked as she set down the basket and quickly hugged her father fiercely. He felt thinner and more frail than he should.
 
 "Perhaps I should go," he murmured into her hair.
 
@@ -683,7 +683,7 @@ Her father stood in the doorway—not leaning this time, standing on his own. St
 
 She waved.
 
-He raised his hand higher, standing tall, calling out.
+He raised his hand higher still, standing tall, calling out.
 
 "Remember whose hall you enter."
 
@@ -738,7 +738,7 @@ She watched his jaw relax. He liked the map she was drawing.
 
 It was then that Roger, the Bishop of Salisbury, stepped forward. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink—the second most powerful man in England and keeper of the realm’s cold reality.
 
-“My lord the king,” Roger said, his voice precise, “It is well met, for I would speak of a son, not in terms of silver and swords but, in I would speak of souls, of welfare.”
+“My lord the king,” Roger said, his voice precise, “It is well met, for I would speak of a son, not in terms of silver and swords but, I would speak of souls, of welfare.”
 
 Henry turned, his eyes wary.
 
@@ -784,17 +784,17 @@ He stepped back into the shadows. The hall slowly resumed its murmur. But the qu
 
 ## Chapter 8 — The Ledger and the Lion
 
-Roger’s question still burned in the King’s chest: What do you mean to do for him?
+Roger’s question still burned in the King’s chest: *What do you mean to do for him?*
 
 He thought of Godfrey—quiet, watchful Godfrey. The one who most reminded him of himself at that age. The one who waited. The one they called shadow.
 
-Lackland’s shadow.
+*Lackland’s shadow.*
 
 The word had cut deep. He knew what it was to have no place to stand. His father had given him silver and told him to wait. He had waited while his brothers took everything. And when the moment came, he had seized what was his.
 
 But Godfrey still waited. And Henry had done nothing.
 
-He glanced at the barons and knights about the hall. Not all were true friends. Soon he must cross again to Normandy—his father’s country and now his. Too many whisperers.
+He glanced at the barons and knights about the hall. Not all were true friends. Soon he must cross again to Normandy—his father’s country and now his. 
 
 *Too many whisperers.*
 
@@ -832,7 +832,7 @@ Something inside him gave way.
 
 “My son is not a sack of wool to be weighed and sold.” Henry’s voice thundered, raw with fury. “We shall have no more of this talk! And so, this very day—”
 
-A dangerous smile playing at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
+A new thought struck him and a dangerous smile played at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
 
 "Roger, my bishop, you think my blood is currency? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid."
 
@@ -842,13 +842,13 @@ He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, ca
 
 “The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
 
-Roger’s eyes widened in shock. Bishop Bloet exchanged a glance with the Archbishop of Canterbury. The Cistercian monk lowered his head and his lips began to move silently.
+Roger’s eyes widened in shock. Bishop Bloet exchanged a glance with the Archbishop of Canterbury. The monk of the new Cistercian order lowered his head and his lips began to move silently.
 
 As for the Queen, she stared at the King, a picture of astonishment. "You cannot possibly mean to cast his life so blindly."
 
 Henry’s posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. "If the Heavens wish him wed, they shall surely provide. Else-wise, let the hall stay empty, that I may drink in peace."
 
-The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow (*coram rege*)—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar before God.
+The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow (*coram rege*)—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar in front of God.
 
 Henry reached for his wine, oblivious to the cage he had just built—its door swung wide open to the night.
 
@@ -918,7 +918,7 @@ The King blinked.
 
 “Your goose?”
 
-Laughter and confused rippled through the hall, settling finally into unease. 
+Laughter and confused commentary rippled through the hall, settling finally into unease. 
 
 A serving woman muttered the old saying: “Sooth, a goose may wander where a king must stop.”
 
@@ -10345,6 +10345,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **chantry** (A chapel where priests say prayers for the dead)
 - **chaplain** (A priest who serves a private chapel)
 - **chapter** (A meeting of monks or clergy)
+- **Cistercian** (A very strict Roman Catholic branch of the Benedictine order of St Benedict)
 - **cloister** (An enclosed walkway in a monastery)
 - **compurgation** (Proving one is innocent by getting others to swear an oath)
 - **dean** (A senior cathedral official)
