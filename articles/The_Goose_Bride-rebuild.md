@@ -1473,7 +1473,7 @@ Something in her face made him pause. Then, slowly: “Yes. I found out afterwar
 
 He expected some response, but nothing. 
 
-“An offer came from Brittany, where my sister is to marry. They ask for me also, but the king said no, one is enough. Others said we need the money and it would stop people calling me names.”
+“They were all pushing him—my father’s barons, his bishops, even the Queen. Everyone had an opinion about what should be done with me.”
 
 He leant towards her. 
 
