@@ -1471,19 +1471,21 @@ It was not an accusation. Her voice was flat, as if she were discussing the pric
 
 Something in her face made him pause. “Yes,” he said. “I knew. Afterwards.”
 
-He looked at the road, then back at her. “They were all pushing him—barons, bishops, even the Queen. Everyone had an opinion about what should be done with me.”
+He looked down at the road before giving a long sigh.
+
+“You see, everyone was pushing him in turn—his barons, bishops, even the Queen. Everyone had an opinion about what should be done with me.”
 
 A short, frustrated breath. “And my father? He doesn't like being told what to do.”
 
 “He probably meant to shock them, to scatter and dismay them – to shut them up once and for all.”
 
-He stopped, as if hearing his own words. A beat. Then, quieter:
+He stopped, as if realising what he had said. Then, quieter:
 
-“I mean… to end the arguing. To make them stop. I don't think he expected anyone to actually walk in.”
+“I mean… to end the arguing. To make them stop. You see, I don't think he expected anyone to actually walk in.”
 
 “But I did.”
 
-“But you did.” He looked at her, and there was something in his face that she could not name. “And now we are both... caught, like two birds in a hunter’s cage. *Hello, who approaches?*”
+“Yes, you did.” He looked at her, and there was something in his face that she could not name. “And now we two are... caught, like birds in a cage. *Hello, who approaches?*”
 
 ---
 
