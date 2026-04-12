@@ -5118,19 +5118,7 @@ In general I have taken some liberties with modern English grammar to give a gre
 
 
 <!-- GLOSSARY HELPER -->
-
-<style>
-.glossary-container {max-width: 800px; margin: 2rem auto; font-family: Georgia, serif; line-height: 1.5; }
-.term-list {display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; margin-top: 1rem; list-style: none; padding-left: 0; }
-.term-item {display: inline-block; background: none; margin: 0; padding: 0; }
-.term {color: #6b2e2e; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 4px; cursor: pointer; font-weight: 500; transition: color 0.2s; }
-.term:hover {color: #a03e3e; }
-.definition-tooltip {position: fixed; bottom: 20px; left: 20px; right: 20px; background: #fff9e8; border-left: 6px solid #6b2e2e; padding: 0.75rem 1rem; box-shadow: 0 2px 12px rgba(0,0,0,0.2); border-radius: 8px; font-size: 1rem; z-index: 1000; transition: opacity 0.2s; opacity: 0; pointer-events: none; }
-.definition-tooltip.show {opacity: 1; pointer-events: auto; }
-@media (min-width: 640px) {
-.definition-tooltip {position: absolute; bottom: auto; left: auto; right: auto; max-width: 300px; top: calc(100% + 8px); left: 0; }
-}
-</style>
+<link href="The_Goose_Bride-glossary-engine.css" rel="stylesheet" type="text/css">
 <script src="The_Goose_Bride-glossary-engine.js"></script>
 
 
