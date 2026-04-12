@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const IGNORE_KEYWORD = "SKIP_LINK";
 
     const glossaryLookup = {};
+    const glossaryGroups = []; // Stores heading strings by index
     const foundInText = new Set();
 
     const normalizeKey = (str) =>
@@ -33,8 +34,8 @@ document.addEventListener('DOMContentLoaded', () => {
     range.setEndBefore(endNode);
     const fragment = range.extractContents();
 
-    // --- 3. Parse Glossary ---
-    const parseLine = (text) => {
+    // --- 3. Parse Glossary with Grouping ---
+    const parseLine = (text, groupIndex) => {
       let raw = text.trim();
 
       const skipLink = raw.includes(IGNORE_KEYWORD);
@@ -61,12 +62,23 @@ document.addEventListener('DOMContentLoaded', () => {
         glossaryLookup[key] = {
           original: term,
           def: definition,
-          skipLink
+          skipLink,
+          groupIndex // Reference to the heading by index
         };
       }
     };
 
-    fragment.querySelectorAll('li').forEach(li => parseLine(li.textContent));
+    // Sequential parsing to detect headers and their following list items
+    let currentGroupIndex = -1;
+    // We select headings and list items to maintain order
+    fragment.querySelectorAll('h1, h2, h3, h4, h5, h6, li').forEach(el => {
+      if (el.tagName.startsWith('H')) {
+        glossaryGroups.push(el.textContent.trim());
+        currentGroupIndex = glossaryGroups.length - 1;
+      } else if (el.tagName === 'LI') {
+        parseLine(el.textContent, currentGroupIndex);
+      }
+    });
 
     // --- 4. Scan & Link Terms ---
     const termKeys = Object.keys(glossaryLookup).sort((a, b) => b.length - a.length);
@@ -201,17 +213,35 @@ document.addEventListener('DOMContentLoaded', () => {
       console.group("Glossary Diagnostic Report");
       console.log("✅ Linked:", Array.from(foundInText).sort());
       console.log("❌ Unused:", termKeys.filter(t => !foundInText.has(t)).sort());
-      
-      // Generate the formatted list from found terms
-      const formattedOutput = Array.from(foundInText)
-        .sort()
-        .map(key => {
-          const item = glossaryLookup[key];
-          return `- **${item.original}** (${item.def})`;
-        })
-        .join('\n');
 
-      console.log("📝 Formatted Linked Items:\n" + (formattedOutput || "None"));
+      // Grouped Output Logic
+      let finalFormattedString = "";
+      
+      glossaryGroups.forEach((groupTitle, groupIndex) => {
+        const groupItems = Array.from(foundInText)
+          .filter(key => glossaryLookup[key].groupIndex === groupIndex)
+          .sort()
+          .map(key => {
+            const item = glossaryLookup[key];
+            return `- **${item.original}** (${item.def})`;
+          });
+
+        if (groupItems.length > 0) {
+          finalFormattedString += `### ${groupTitle}\n${groupItems.join('\n')}\n\n`;
+        }
+      });
+
+      // Handle items with no heading (index -1)
+      const ungroupedItems = Array.from(foundInText)
+        .filter(key => glossaryLookup[key].groupIndex === -1)
+        .sort()
+        .map(key => `- **${glossaryLookup[key].original}** (${glossaryLookup[key].def})`);
+      
+      if (ungroupedItems.length > 0) {
+        finalFormattedString = `### General / Ungrouped\n${ungroupedItems.join('\n')}\n\n` + finalFormattedString;
+      }
+
+      console.log("📝 Grouped Linked Items:\n" + (finalFormattedString || "None"));
       console.groupEnd();
     }
 
