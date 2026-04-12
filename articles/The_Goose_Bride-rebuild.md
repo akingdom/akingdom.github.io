@@ -13,7 +13,6 @@
 > 
 > => AI review
 >
-> - TODO - Revisit Questions: are these questions still relevant to the narrative, plot, story and to the new age range we agreed on
 
 ---
 
