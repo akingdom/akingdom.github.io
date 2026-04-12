@@ -1,5 +1,3 @@
-Text Corpus Processor
-Source Text (Plain text or HTML)
 
 # The Goose Bride
 
