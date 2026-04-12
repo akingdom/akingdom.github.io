@@ -1469,15 +1469,17 @@ It was not an accusation. Her voice was flat, as if she were discussing the pric
 
 *And you knew.*
 
-Something in her face made him pause. Then, slowly: “Yes. I found out afterwards. In truth, it was a rash vow, a shock to all present.”
+Something in her face made him pause. “Yes,” he said. “I knew. Afterwards.”
 
-He expected some response, but nothing. 
+He looked at the road, then back at her. “They were all pushing him—barons, bishops, even the Queen. Everyone had an opinion about what should be done with me.”
 
-“They were all pushing him—my father’s barons, his bishops, even the Queen. Everyone had an opinion about what should be done with me.”
+A short, frustrated breath. “And my father? He doesn't like being told what to do.”
 
-He leant towards her. 
+“He probably meant to shock them, to scatter and dismay them – to shut them up once and for all.”
 
-”That’s when he vowed that he would let God decide. I don't think he expected anyone to actually walk in.”
+He stopped, as if hearing his own words. A beat. Then, quieter:
+
+“I mean… to end the arguing. To make them stop. I don't think he expected anyone to actually walk in.”
 
 “But I did.”
 
