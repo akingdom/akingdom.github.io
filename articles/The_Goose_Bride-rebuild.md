@@ -1219,7 +1219,7 @@ The man pulled up. Beatrice scented the sour‑tallow from the creaking axels.
 
 Beatrice’s feet throbbed. “Oh, I’d be really grateful—many thanks.”
 
-She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a water-skin. Beatrice drank, thanked her, and settled on her knees the old wicker basket. Its lid was now firmly pegged down, and there was nothing to suggest its precious gift inside.
+She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a water-skin. Beatrice drank, thanked her, and rested her old wicker basket atop her legs. Its lid was now firmly pegged down, and there was nothing to suggest its precious gift inside.
 
 The wain lurched forward. The iron‑shod wheels bit into the white limestone ruts of the zigzag scarp with a jarring, metallic crunch. On the steep descent, the heavy frame kicked up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way back and forth down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
 
