@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function showDefinition(term, def, target) {
       tooltip.innerHTML = `<strong>${term}</strong><br>${def}`;
-      tooltip.classList.add(’show');
+      tooltip.classList.add('show');
 
       const rect = target.getBoundingClientRect();
       const scrollY = window.pageYOffset;
@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       const hide = () => {
-        tooltip.classList.remove(’show');
+        tooltip.classList.remove('show');
         document.removeEventListener('click', hide);
       };
 
