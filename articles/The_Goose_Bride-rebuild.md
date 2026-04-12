@@ -4857,155 +4857,6 @@ Matilda was a co‑ruler, a patron of the arts, and a “good queen” by design
 
 Sabina (Flemish maid), Ela (young maid), John the carter, John's wife, John's two daughters, Big Edwin (tenant farmer), Sheriff of Nottingham, Robert de Beaumont, Richard of Lincoln, William de Warenne, Eustace of Boulogne, Nigel d'Aubigny, Ranulf le Meschin, Geoffrey de Clinton, the clerk (royal), the steward, the royal marshal, the reeve (Stanwey), the staghound, the priest (St. Peter's, Stanwey), the farmer's wife (murrain), the tenant farmer (abbot's tithe), the old woman (proverb at wedding), the abbot (unnamed), the priest (St. Mary-by-the-Woods), the royal forester, the captain of the guard, the messenger (royal), the servant (various unnamed), the musician (harpist at Stanwey), the musician (vielle player at Westminster), the Queen's maids (singers), the cook (Beatrice's aunt), Eldred (reeve from the King), Lady Margaret's maid, the Flemish merchant (grey-haired), the wandering clerk, the young squires, the village children (flower throwers), the blacksmith, the miller's wife.
 
-
----
-
-## QUICK GLOSSARY (excerpt)
-
-*For the full glossary, see the separate section in the book or interactve words on the web.*
-
-## Glossary Finalisation – Based on Updated Story
-
-I have reviewed the final story text (the complete version you pasted) against the glossary you provided. Below is an analysis of which terms **actually appear** and which do not, followed by a **recommended shortened glossary**.
-
----
-
-### Terms That Appear in the Story (Keep)
-
-These are found in the narrative or dialogue:
-
-| Term | Location in Story |
-|------|-------------------|
-| **thegn** | Chapter 1, 5, 6, 10, 13, 14, etc. |
-| **reeve** | Chapter 5, 6, 15, 17, 19, 34, 36 |
-| **escheat** | Chapter 5, 9, 32 |
-| **garderobe** | Chapter 22 |
-| **huisje** | Chapter 22 (Flemish maid) |
-| **feverfew** | Chapter 30 (Avice’s headache) |
-| **terce** | Chapter 30 (Queen’s dialogue) |
-| **vielle** | Chapters 25, 30 (music scenes) |
-| **harp** | Chapters 19, 25, 26, 30 |
-| **psaltery** | Chapter 25 |
-| **recorder** | Chapters 25, 26 |
-| **shawm** | Chapter 25 (mentioned briefly) |
-| **tabor** | Chapter 25, 43 (wedding) |
-| **symphonia** | Chapter 43 (wedding) |
-| **drone** | Chapter 30 (colonnade music) |
-| **thrum** | Chapter 43 (wedding) |
-| **minstrels’ gallery** | Chapter 25 |
-| **screens passage** | Chapter 19, 25 |
-| **ensemble** | Chapter 25 |
-| **colonnade** | Chapter 30 (Queen’s garden) |
-| **brazier** | Chapters 22, 23, 30, etc. |
-| **distaff** | Chapter 26 |
-| **posset** | Chapter 5 |
-| **pottage** | Chapter 6 |
-| **frumenty** | Chapter 30 |
-| **hippocras** | Chapter 30 |
-| **kirtle** | Chapter 28 |
-| **cotte** | (appears as “cotte”? Not sure – but fine) |
-| **writ** | Chapters 5, 32, 41 |
-| **charter** | Chapter 8 |
-| **justiciar** | Chapter 41, Epilogue |
-| **chancellor** | Chapter 30, Epilogue |
-| **regent** | Chapter 26 |
-| **fitzroy** | Chapter 8, 30 (Godfrey FitzRoy) |
-| **coram rege** | Chapter 8 (Latin phrase) |
-| **purveyance** | Chapter 6 (implied) |
-| **escheator** | Not used – but fine |
-| **sheriff** | Chapter 10 |
-| **ward** | (castle ward – appears? Not sure) |
-| **keep** | (castle keep – appears?) |
-| **bailey** | Not used |
-| **motte** | Not used |
-| **portcullis** | Not used |
-| **donjon** | Not used |
-| **curtain wall** | Not used |
-| **arrowslit** | Not used |
-| **hauberk** | Chapter 22 |
-| **coif** | Not used |
-| **surcoat** | Not used |
-| **destrier** | Not used |
-| **palfrey** | Chapter 21 (Beatrice’s mare) |
-| **charger** | Not used |
-| **abbot** | Chapter 6 |
-| **bishop** | Chapters 7, 8, 25, 30, 32, 41 |
-| **archbishop** | Chapter 8 |
-| **cloister** | Not used |
-| **canon** | Chapter 8 |
-| **prior** | Not used |
-| **alms** | Chapter 30 |
-| **almoner** | Chapter 30 |
-| **tithe** | Chapter 6 |
-| **relic** | Not used |
-| **pilgrim** | Not used |
-| **excommunication** | Not used |
-| **interdict** | Not used |
-| **purgatory** | Not used |
-| **runes** | Chapter 24 |
-| **villein** | Not used (but “villeins” appears? Not sure) |
-| **serf** | Not used |
-| **demesne** | Not used |
-| **steward** | Chapter 21 |
-| **bailiff** | Not used |
-| **merchet** | Not used |
-| **heriot** | Not used |
-| **wergild** | Not used |
-| **tally** | Not used |
-| **pipe roll** | Not used |
-| **solar** | Chapters 26, 30, 40, etc. |
-| **larder** | Chapters 11, 21 |
-| **pantry** | Chapters 34, 36 |
-| **buttery** | Chapter 4 |
-| **mazer** | Chapter 5 |
-| **trencher** | Not used |
-| **ewer** | Not used |
-| **napery** | Not used |
-| **spicery** | Not used |
-| **kirtle** | Chapter 28 |
-| **linen** | Throughout |
-| **livery** | Not used |
-| **hide** (land) | Chapter 5 |
-| **acre** | Chapter 5 |
-| **furlong** | Not used |
-| **rood** | Not used |
-| **virgate** | Not used |
-| **carucate** | Not used |
-| **ell** | Not used |
-| **league** | Not used |
-| **forester** | Chapters 36, 39 |
-| **verderer** | Not used |
-| **agister** | Chapter 6 |
-| **chase** (hunting) | Not used |
-| **warren** | Not used |
-| **archaic verbs** (abide, albeit, anon, etc.) – many appear? “anon” appears? “forsooth” appears many times. “wend” appears in proverb and text. “hie” does not appear. “tarry” does not. “spake” appears once. “mayst” etc. – not needed. |
-
----
-
-### Terms That Do NOT Appear (Remove)
-
-These terms are from the original glossary but are **not present** in the final story:
-
-| Category | Terms to Remove |
-|----------|-----------------|
-| **Castle architecture** | barbican, portcullis, oubliette, battlement, crenellation, merlon, embrasure, machicolation, hoarding, curtain wall, postern, sally port, drawbridge, moat, palisade, arrowslit, arrow loop |
-| **Siege weapons** | mangonel, trebuchet, ballista, battering ram, siege tower, sapper |
-| **Armour parts (unused)** | coif, cuirass, gorget, pauldron, vambrace, poleyn, greave, sabaton, surcoat, tabard |
-| **Horse types (unused)** | destrier, rouncey, hackney, sumpter |
-| **Church terms (unused)** | prior, cloister, prebend, archdeacon, dean, parson, vicarage, rectory, chaplain, chantry, papal legate, friar, mendicant, summoner, relic, shrine, pilgrim, palmer, anathema, excommunication, interdict, indulgence, pardoner, compurgation, ordeal, purgatory, heretic, heresy, inquisition, infidel, sanctuary, rood, obit, glebe, advowson, frankalmoign |
-| **Legal terms (unused)** | amercement, attainder, forfeiture, outlawry, hue and cry, frankpledge, view of frankpledge, tithing, trespass, quitclaim, manumission, rebellion, deported, oyer, terminer, assize, letters patent, patent, exchequer, tallage, danegeld, carucage, socage, serjeanty, gavelkind, blood-wite, fist-wite, bride-wite, child-wite, hearth-wite |
-| **Village/farm (unused)** | gebur, churl, serf, bordar, cottar, franklins, wapentake, lathe, hundred (as administrative unit), merchet, heriot, cucking stool, pillory, stocks, gibbet, ploughman, sower, reaper, shepherd, swineherd, gooseherd, neatherd, oxherd, dairymaid, thatcher, mason, cooper, wainwright, wheelwright, tanner, currier, fuller, carter, merchant, quicksilver, sterling, penny, farthing, shilling, groat, noble, marks |
-| **Household (unused)** | ewer, manciple, napery, spicery, treacle, poppet, chaplet, veil, wimple, crespine, cotte (maybe appears), livery |
-| **Land/nature (unused)** | assart, verderer, chase, warren |
-| **Archaic verbs (many)** | abide, albeit, anon, art/canst/didst/dost/doth, hath/saith, begat/beget, beholden, beseech, beseem, bethink, betide, betimes, betoken, bewray, certes, chide, cleave/cloven, clothe, couch, deign, dwell, ere/erst, fain, fare, fie, forbear, forsake, hark/hearken, hence/hither, thence/thither, whence/whither, hie, mayst/wilt/wouldst, tarry, thee/thy/thine, thou, wast/wert, ye, witan/witt, witenagemot, þegnian |
-| **Map (unused)** | Anjou, Maine, Évreux (mentioned? Possibly not) |
-
----
-
-## Recommended Shortened Glossary (Essential Terms Only)
-
-Below is a **cleaned glossary** of approximately **50–60 terms** that actually appear in the story. This is suitable for readers aged 12–18.
-
 ---
 
 ### Glossary
@@ -5138,336 +4989,267 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 
 <span id="STARTGLOSSARY"></span>
 
-### **I. Power, Law & The Royal Court**
-- **cyning** (King; Old English *cyning*)
-- **cwen** (Queen; Old English *cwēn*)
-- **regent** (A person who rules while the King is away)
-- **fitzroy** (The surname for a King’s child born outside of marriage; *Fitz* means 'child of' and *Roy* means 'King')
-- **hlaford** (Lord; Old English *hlāford*)
-- **hlæfdige** (Lady; Old English *hlæfdige*)
-- **hlāforddōm** (Lordship)
-- **ealdorman** (Alderman, a high-ranking noble)
-- **noble** (An aristocrat or person of high rank)
-- **license** (The official permission or 'leave' granted by a King or Lord to do something important)
-- **justiciar** (The highest royal official for law)
-- **sheriff** (The *shire reeve*; the King’s law official in a county)
-- **exchequer** (The royal treasury)
-- **chancellor** (The official in charge of the King’s writing and seals)
-- **writ** (A written order or legal command)
-- **charter** (A formal written grant or treaty)
-- **letters patent** (Open letters from the crown for all to see)
-- **patent** (An open letter or grant)
-- **assize** (A court session or a specific legal act)
-- **oyer** (The legal right to hear a case)
-- **terminer** (The legal power to determine or finish a case)
+📝 Grouped Linked Items:
+### I. Power, Law & The Royal Court
 - **amercement** (A fine paid to a lord or King)
+- **assize** (A court session or a specific legal act)
 - **attainder** (The loss of all civil rights and land due to a crime)
+- **chancellor** (The official in charge of the King’s writing and seals)
+- **charter** (A formal written grant or treaty)
+- **deported** (Forcibly sent out of a country back to one’s land of birth)
 - **escheat** (When land goes back to the King because there is no heir)
-- **escheator** (The official who handles land that has "escheated")
+- **escheator** (The official who handles land that has “escheated”)
+- **exchequer** (The royal treasury)
+- **fitzroy** (The surname for a King’s child born outside of marriage; Fitz means ‘child of’ and Roy means ‘King’)
 - **forfeiture** (The loss of property as a punishment)
-- **outlawry** (Being declared "outside the law," where anyone can harm you)
-- **hue and cry** (The duty of all citizens to chase a criminal)
 - **frankpledge** (A system where a group is responsible for each member’s behavior)
-- **view of frankpledge** (A court that checked these groups)
+- **hue and cry** (The duty of all citizens to chase a criminal)
+- **justiciar** (The highest royal official for law)
+- **letters patent** (Open letters from the crown for all to see)
+- **license** (The official permission or ‘leave’ granted by a King or Lord to do something important)
+- **manumission** (The formal act of freeing a serf)
+- **noble** (An aristocrat or person of high rank)
+- **outlawry** (Being declared “outside the law,” where anyone can harm you)
+- **oyer** (The legal right to hear a case)
+- **patent** (An open letter or grant)
+- **quitclaim** (A formal release of a legal claim)
+- **rebellion** (An organized fight by lords against their King)
+- **regent** (A person who rules while the King is away)
+- **sheriff** (The shire reeve; the King’s law official in a county)
+- **terminer** (The legal power to determine or finish a case)
 - **tithing** (A group of ten households who looked out for each other)
 - **trespass** (A legal term for a wrong—not just walking on land)
-- **quitclaim** (A formal release of a legal claim)
-- **manumission** (The formal act of freeing a serf)
-- **rebellion** (An organized fight by lords against their King)
-- **deported** (Forcibly sent out of a country back to one’s land of birth)
+- **view of frankpledge** (A court that checked these groups)
+- **writ** (A written order or legal command)
 
----
-
-### **II. Castles, Combat & The Knight’s World**
-- **burh** (A fortified place or "borough")
-- **motte** (The high earthen mound a castle sits on)
-- **bailey** (The castle courtyard)
-- **donjon** (The main tower or "keep" of a castle)
-- **keep** (The strongest, central tower of a castle)
-- **barbican** (An outer fortification guarding a gate)
-- **portcullis** (A sliding heavy gate of iron and wood)
-- **oubliette** (A deep dungeon reached only through a trapdoor)
-- **ward** (A guarded area or a section of a castle)
-- **battlement** (A parapet at the top of a wall with gaps for shooting)
-- **crenellation** (The notched pattern at the top of a castle wall)
-- **merlon** (The solid part of a battlement)
-- **embrasure** (An opening in a wall for firing weapons)
-- **machicolation** (An overhanging gallery for dropping rocks on enemies)
-- **hoarding** (A wooden gallery built on a castle wall)
-- **curtain wall** (The outer wall connecting castle towers)
-- **postern** (A small, secret back gate)
-- **sally port** (A gate used for "sallying out" to attack siegers)
-- **drawbridge** (A bridge that can be raised to block an entrance)
-- **moat** (A deep ditch, often filled with water)
-- **palisade** (A strong wooden fence for defense)
-- **cniht** (Knight; originally meaning a youth or servant)
-- **rīdere** (A rider or knight)
-- **manfully** (To act with the courage, strength, and responsibility expected of a knight)
-- **knight service** (Holding land in exchange for fighting for a lord)
-- **scutage** (Money paid to a King instead of performing military service)
-- **huscarl** (A household bodyguard)
-- **warden** (A high-ranking guard or official)
-- **archer** (A bowman)
-- **arrowslit** (A narrow window in a castle wall)
+### II. Castles, Combat & The Knight’s World
 - **arrow loop** (Another name for an arrowslit)
-- **crossbow** (A bow with a mechanical draw)
-- **arbalest** (A very heavy, powerful crossbow)
-- **mangonel** (A type of catapult for throwing rocks)
-- **trebuchet** (A massive siege engine for hurling stones)
+- **arrowslit** (A narrow window in a castle wall)
+- **bailey** (The castle courtyard)
 - **ballista** (A giant crossbow engine for siege warfare)
+- **barbican** (An outer fortification guarding a gate)
 - **battering ram** (A heavy beam used to break down gates)
-- **siege tower** (A tall wooden tower on wheels for attacking walls)
-- **sapper** (A soldier who digs tunnels under enemy walls)
-- **gār** (Spear; Old English *gār*)
-- **lance** (A long spear used by knights on horseback)
-- **mace** (A heavy club, often with a metal head)
-- **glaive** (A long pole with a large blade on the end)
-- **halbard** (A pole weapon with an axe and a spike)
-- **flail** (A weapon with a spiked ball on a chain)
-- **sċyld** (Shield; Old English *sċyld*)
-- **helm** (Helmet)
-- **coif** (A chain mail hood or close-fitting cap)
-- **hauberk** (A long shirt of chain mail)
-- **cuirass** (A metal breastplate)
-- **gorget** (Armor that protects the throat)
-- **pauldron** (Armor for the shoulder)
-- **vambrace** (Armor for the arm)
-- **poleyn** (Armor for the knee)
-- **greave** (Armor for the lower leg)
-- **sabaton** (Armor for the foot)
-- **surcoat** (A garment worn over armor)
-- **tabard** (A short coat showing a knight’s coat of arms)
+- **battlement** (A parapet at the top of a wall with gaps for shooting)
 - **charger** (A powerful horse used in battle)
-- **destrier** (The finest type of warhorse)
-- **palfrey** (A smooth-riding horse for traveling)
-- **rouncey** (An all-purpose, everyday horse)
-- **hackney** (An ordinary, hired horse)
-- **sumpter** (A packhorse for carrying baggage)
-- **marshal** (Originally a horse-servant; later a high official)
+- **coif** (A chain mail hood or close-fitting cap)
 - **colonnade** (A long sequence of stone pillars supporting a roof, providing a sheltered walkway around the garden)
-- **vielle** (A five-stringed ancestor of the violin, played against the chest to produce a rich, reedy tone)
+- **crenellation** (The notched pattern at the top of a castle wall)
+- **cuirass** (A metal breastplate)
+- **curtain wall** (The outer wall connecting castle towers)
+- **destrier** (The finest type of warhorse)
+- **donjon** (The main tower or “keep” of a castle)
+- **drawbridge** (A bridge that can be raised to block an entrance)
 - **drone** (A sustained, low-pitched hum produced by a single string, providing a constant foundation for the melody)
+- **embrasure** (An opening in a wall for firing weapons)
+- **ensemble** (A group, especially a group of musicians)
+- **flail** (A weapon with a spiked ball on a chain)
+- **gorget** (Armor that protects the throat)
+- **gār** (Spear; Old English gār)
+- **greave** (Armor for the lower leg)
+- **hackney** (An ordinary, hired horse)
 - **harp** (A small, lap-held frame of wood and gut-string, used for the high, clear notes of the court)
-- **shawm** (A piercing, double-reed woodwind used for loud, outdoor signals or noisy indoor feasts)
-- **tabor** (A small, snare-less drum hit with a single stick to provide a sharp, repetitive rhythm)
-- **minstrels’ gallery** (A raised wooden balcony located above the main entrance of a Great Hall, used to loft music over the diners)
-- **screens passage** (The screened-off service area between the kitchen and the Great Hall, which prevented drafts and noise from reaching the nobility)
+- **hauberk** (A long shirt of chain mail)
+- **hoarding** (A wooden gallery built on a castle wall)
+- **keep** (The strongest, central tower of a castle)
+- **machicolation** (An overhanging gallery for dropping rocks on enemies)
+- **manfully** (To act with the courage, strength, and responsibility expected of a knight)
+- **mangonel** (A type of catapult for throwing rocks)
+- **marshal** (Originally a horse-servant; later a high official)
+- **merlon** (The solid part of a battlement)
+- **moat** (A deep ditch, often filled with water)
+- **motte** (The high earthen mound a castle sits on)
+- **oubliette** (A deep dungeon reached only through a trapdoor)
+- **palfrey** (A smooth-riding horse for traveling)
+- **palisade** (A strong wooden fence for defense)
+- **pauldron** (Armor for the shoulder)
+- **poleyn** (Armor for the knee)
+- **portcullis** (A sliding heavy gate of iron and wood)
+- **postern** (A small, secret back gate)
 - **psaltery** (A plucked string instrument with a flat sounding-board, known for its bright, bell-like clarity)
 - **recorder** (A simple wooden flute that provided a high, clear bird-like tone)
-- **ensemble** (A group, especially a group of musicians)
+- **rouncey** (An all-purpose, everyday horse)
+- **sabaton** (Armor for the foot)
+- **sally port** (A gate used for “sallying out” to attack siegers)
+- **sapper** (A soldier who digs tunnels under enemy walls)
+- **screens passage** (The screened-off service area between the kitchen and the Great Hall, which prevented drafts and noise from reaching the nobility)
+- **scutage** (Money paid to a King instead of performing military service)
+- **shawm** (A piercing, double-reed woodwind used for loud, outdoor signals or noisy indoor feasts)
+- **siege tower** (A tall wooden tower on wheels for attacking walls)
+- **sumpter** (A packhorse for carrying baggage)
+- **surcoat** (A garment worn over armor)
 - **symphonia** (A hurdy-gurdy instrument; a wooden box with crank-turned wheel that rubs against strings to produce a continuous, bagpipe-like drone and a sharp melody)
+- **tabard** (A short coat showing a knight’s coat of arms)
+- **tabor** (A small, snare-less drum hit with a single stick to provide a sharp, repetitive rhythm)
 - **thrum** (A continuous rhythmic humming sound)
+- **trebuchet** (A massive siege engine for hurling stones)
+- **vambrace** (Armor for the arm)
+- **vielle** (A five-stringed ancestor of the violin, played against the chest to produce a rich, reedy tone)
+- **ward** (A guarded area or a section of a castle)
 
----
-
-### **III. The Church, Faith & The Soul**
+### III. The Church, Faith & The Soul
 - **abbot** (The head of a monastery)
-- **prior** (A monastic official ranking below an abbot)
-- **cloister** (An enclosed walkway in a monastery)
-- **chapter** (A meeting of monks or clergy)
-- **canon** (A member of the clergy serving a cathedral)
-- **prebend** (A portion of cathedral land or money given to a canon)
-- **bishop** (A senior leader in the Church)
-- **archbishop** (A high-ranking bishop in charge of other bishops)
-- **archdeacon** (A senior priest who helps a bishop)
-- **dean** (A senior cathedral official)
-- **parson** (A priest in charge of a local parish)
-- **vicarage** (The home or position of a vicar)
-- **rectory** (The home or position of a rector)
-- **chaplain** (A priest who serves a private chapel)
-- **chantry** (A chapel where priests say prayers for the dead)
-- **papal legate** (The personal representative of the Pope)
-- **friar** (A religious man who travels and begs to help people)
-- **mendicant** (A religious person who lives by begging)
-- **summoner** (An officer who calls people to a Church court)
+- **advowson** (The right of a lord to choose a local priest)
 - **almoner** (The person who gives out alms to the poor)
 - **alms** (Money, food, or clothing given to those in need)
-- **tithe** (One-tenth of a person’s produce given to the Church)
-- **relic** (A holy object from a saint’s life or body)
-- **shrine** (A holy place where a relic is kept)
-- **pilgrim** (One who travels to a holy place)
-- **palmer** (A pilgrim who brought back a palm branch)
 - **anathema** (A formal curse or ban from the Church)
-- **excommunication** (Being officially cut off from the Church)
-- **interdict** (A ban on all Church services in a whole land)
-- **indulgence** (A way to reduce punishment for sins)
-- **pardoner** (One who sold "indulgences" to people)
+- **archbishop** (A high-ranking bishop in charge of other bishops)
+- **archdeacon** (A senior priest who helps a bishop)
+- **bishop** (A senior leader in the Church)
+- **canon** (A member of the clergy serving a cathedral)
+- **chantry** (A chapel where priests say prayers for the dead)
+- **chaplain** (A priest who serves a private chapel)
+- **chapter** (A meeting of monks or clergy)
+- **cloister** (An enclosed walkway in a monastery)
 - **compurgation** (Proving one is innocent by getting others to swear an oath)
-- **ordeal** (A dangerous trial—like fire or water—to let God decide guilt)
-- **purgatory** (A place where souls are purified before Heaven)
-- **miracles** (Divine or supernatural acts)
-- **heathen** (A person who does not believe in Christ)
-- **pagan** (Country dweller; also another term for a non-Christian)
-- **heretic** (One who holds beliefs the Church says are wrong)
+- **dean** (A senior cathedral official)
+- **excommunication** (Being officially cut off from the Church)
+- **frankalmoign** (Holding land in exchange for praying for the giver)
+- **friar** (A religious man who travels and begs to help people)
+- **glebe** (Land given to a priest for his own use)
 - **heresy** (An belief that goes against the Church)
+- **heretic** (One who holds beliefs the Church says are wrong)
+- **indulgence** (A way to reduce punishment for sins)
+- **infidel** (An “unbeliever”)
 - **inquisition** (An investigation into someone’s religious beliefs)
-- **infidel** (An "unbeliever")
-- **sanctuary** (A holy place where a person is safe from arrest)
+- **interdict** (A ban on all Church services in a whole land)
+- **mendicant** (A religious person who lives by begging)
+- **obit** (A special mass or prayer for someone who has died)
+- **ordeal** (A dangerous trial—like fire or water—to let God decide guilt)
+- **palmer** (A pilgrim who brought back a palm branch)
+- **papal legate** (The personal representative of the Pope)
+- **pardoner** (One who sold “indulgences” to people)
+- **parson** (A priest in charge of a local parish)
+- **pilgrim** (One who travels to a holy place)
+- **prebend** (A portion of cathedral land or money given to a canon)
+- **prior** (A monastic official ranking below an abbot)
+- **purgatory** (A place where souls are purified before Heaven)
+- **rectory** (The home or position of a rector)
+- **relic** (A holy object from a saint’s life or body)
 - **rood** (A cross; also a unit of land)
 - **runes** (Ancient letters carved into wood or stone)
-- **obit** (A special mass or prayer for someone who has died)
-- **glebe** (Land given to a priest for his own use)
-- **advowson** (The right of a lord to choose a local priest)
-- **frankalmoign** (Holding land in exchange for praying for the giver)
+- **sanctuary** (A holy place where a person is safe from arrest)
+- **shrine** (A holy place where a relic is kept)
+- **summoner** (An officer who calls people to a Church court)
 - **terce** (9:00 AM, the third hour of the day)
+- **tithe** (One-tenth of a person’s produce given to the Church)
+- **vicarage** (The home or position of a vicar)
 
----
-
-### **IV. Village, Farm & Trade**
-- **folc** (Folk or people)
-- **tūn** (A town or enclosed village)
-- **vill** (A village or hamlet)
-- **scir** (A "shire" or administrative county)
+### IV. Village, Farm & Trade
+- **bailiff** (The officer who managed the lord’s estate)
+- **blood-wite** (A fine for shedding someone’s blood)
+- **bordar** (A peasant with a very small cottage)
+- **bride-wite** (A fine for taking a bride)
+- **carter** (A person who drives a cart)
+- **carucage** (A tax based on how much land a plow could cover)
+- **child-wite** (A fine for getting a servant pregnant)
+- **churl** (A free peasant; later came to mean someone rude)
+- **cooper** (A person who makes barrels)
+- **cottar** (A peasant with a small cottage and no plow)
+- **cucking stool** (A “ducking stool” used for punishment)
+- **currier** (A person who dresses leather)
+- **dairymaid** (One who milks cows and makes butter)
+- **danegeld** (A tax originally paid to buy off Viking raiders)
+- **demesne** (The land kept specifically for the lord’s own use)
+- **farthing** (A quarter of a penny)
+- **fist-wite** (A fine for fighting with fists)
+- **franklins** (Freeholders; peasants who owned their own land)
+- **fuller** (A person who cleans and thickens cloth)
+- **gavelkind** (A way of dividing land equally among sons)
+- **gebur** (A peasant)
+- **gibbet** (A gallows for hanging criminals)
+- **gooseherd** (One who keeps geese)
+- **groat** (A coin worth four pennies)
+- **hearth-wite** (A fine for hiding a crime in one’s house)
+- **heriot** (A “death duty” paid to a lord when a tenant died)
 - **hundred** (A smaller division of a shire)
 - **lathe** (A division of the county of Kent)
-- **wapentake** (A division of land in Viking-influenced areas)
-- **hām** (Home or village)
-- **mæg** (Kinsman)
-- **sunu** (Son)
-- **dohtor** (Daughter)
-- **fæder** (Father)
-- **mōdor** (Mother)
-- **wīf** (Wife or woman)
-- **mæġden** (Maiden)
-- **cild** (Child)
-- **gebur** (A peasant)
-- **churl** (A free peasant; later came to mean someone rude)
-- **serf** (An "unfree" laborer bound to the land)
-- **villein** (A feudal tenant; an unfree peasant)
-- **franklins** (Freeholders; peasants who owned their own land)
-- **bordar** (A peasant with a very small cottage)
-- **cottar** (A peasant with a small cottage and no plow)
 - **manor** (The lord’s estate and the village around it)
-- **demesne** (The land kept specifically for the lord’s own use)
-- **reeve** (The manorial officer who oversaw the village)
-- **bailiff** (The officer who managed the lord’s estate)
-- **steward** (The high-ranking manager of a household or estate)
-- **court baron** (A court held for the free tenants of a manor)
-- **court leet** (A manorial court for minor crimes)
-- **halmote** (Another name for a manorial court)
+- **marks** (A unit of weight or money)
+- **mason** (A person who works with stone)
+- **merchant** (A person who buys and sells goods)
 - **merchet** (A fine paid to a lord when a serf’s daughter married)
-- **heriot** (A "death duty" paid to a lord when a tenant died)
-- **tallage** (A tax paid by tenants to their lord)
-- **danegeld** (A tax originally paid to buy off Viking raiders)
-- **carucage** (A tax based on how much land a plow could cover)
-- **knight service** (Service in exchange for land)
-- **socage** (Holding land in exchange for money or farm work)
-- **serjeanty** (Holding land in exchange for a personal service to the King)
-- **gavelkind** (A way of dividing land equally among sons)
-- **wergild** (A "man-price"; the fine paid for killing someone)
-- **blood-wite** (A fine for shedding someone’s blood)
-- **fist-wite** (A fine for fighting with fists)
-- **bride-wite** (A fine for taking a bride)
-- **child-wite** (A fine for getting a servant pregnant)
-- **hearth-wite** (A fine for hiding a crime in one’s house)
-- **cucking stool** (A "ducking stool" used for punishment)
-- **pillory** (A wooden frame for public punishment)
-- **stocks** (A wooden frame to hold a prisoner’s feet)
-- **gibbet** (A gallows for hanging criminals)
-- **ploughman** (One who plows the fields)
-- **sower** (One who sows seeds)
-- **reaper** (One who harvests crops)
-- **shepherd** (One who keeps sheep)
-- **swineherd** (One who keeps pigs)
-- **gooseherd** (One who keeps geese)
 - **neatherd** (One who keeps cows)
 - **oxherd** (One who keeps oxen)
-- **dairymaid** (One who milks cows and makes butter)
-- **thatcher** (One who makes roofs out of straw)
-- **mason** (A person who works with stone)
-- **cooper** (A person who makes barrels)
-- **wainwright** (A person who makes wagons)
-- **wheelwright** (A person who makes wheels)
-- **tanner** (A person who makes leather)
-- **currier** (A person who dresses leather)
-- **fuller** (A person who cleans and thickens cloth)
-- **carter** (A person who drives a cart)
-- **merchant** (A person who buys and sells goods)
-- **quicksilver** (Mercury; used in gold mining and making mirrors)
-- **sterling** (English silver currency)
 - **penny** (The basic silver coin)
-- **farthing** (A quarter of a penny)
-- **shilling** (A coin or value worth 12 pennies)
-- **groat** (A coin worth four pennies)
-- **noble** (A gold coin or a high-born person)
-- **marks** (A unit of weight or money)
-- **tally** (A stick used to record accounts with notches)
+- **pillory** (A wooden frame for public punishment)
 - **pipe roll** (The King’s long financial records rolled up)
-- **close roll** (A private, closed royal letter)
+- **ploughman** (One who plows the fields)
+- **quicksilver** (Mercury; used in gold mining and making mirrors)
+- **reaper** (One who harvests crops)
+- **reeve** (The manorial officer who oversaw the village)
+- **serf** (An “unfree” laborer bound to the land)
+- **serjeanty** (Holding land in exchange for a personal service to the King)
+- **shepherd** (One who keeps sheep)
+- **shilling** (A coin or value worth 12 pennies)
+- **socage** (Holding land in exchange for money or farm work)
+- **sower** (One who sows seeds)
+- **sterling** (English silver currency)
+- **steward** (The high-ranking manager of a household or estate)
+- **stocks** (A wooden frame to hold a prisoner’s feet)
+- **swineherd** (One who keeps pigs)
+- **tallage** (A tax paid by tenants to their lord)
+- **tally** (A stick used to record accounts with notches)
+- **tanner** (A person who makes leather)
+- **thatcher** (One who makes roofs out of straw)
+- **villein** (A feudal tenant; an unfree peasant)
+- **wainwright** (A person who makes wagons)
+- **wapentake** (A division of land in Viking-influenced areas)
+- **wergild** (A “man-price”; the fine paid for killing someone)
+- **wheelwright** (A person who makes wheels)
 
----
-
-### **V. The Medieval House & Daily Life**
-- **hall** (The "Great Hall"; the main room of a house or castle)
-- **solar** (A private, sunny upper room in a medieval house)
-- **garderobe** (A medieval toilet)
-- **huisje** (Flemish for 'house'; pronounced 'who-shair')
-- **larder** (A room for storing meat and food)
-- **pantry** (A room for storing bread; from the word for "bread")
+### V. The Medieval House & Daily Life
 - **buttery** (A room for storing ale and provisions)
-- **spicery** (A room for storing valuable spices)
-- **napery** (Table linens and cloths)
-- **ewer** (A servant who brings water for washing)
-- **manciple** (An officer in charge of food and supplies)
-- **trencher** (A flat piece of bread or wood used as a plate)
-- **mazer** (A wooden drinking bowl)
-- **posset** (A hot drink of curdled milk and ale)
-- **pottage** (A thick vegetable and grain stew)
-- **frumenty** (A wheat porridge)
-- **treacle** (A thick, dark syrup used in cooking)
-- **hippocras** (A 12th-century drink of wine mixed with honey and expensive spices)
-- **poppet** (A small handmade doll or figure)
 - **chaplet** (A garland or wreath worn on the head)
-- **veil** (A head covering for women)
-- **wimple** (A cloth that covers the head, neck, and chin)
-- **crespine** (A hairnet made of fine thread or gold wire)
-- **kirtle** (A basic gown or tunic worn by men and women)
 - **cotte** (A long-sleeved tunic)
-- **rēaf** (A robe or fine garment)
+- **crespine** (A hairnet made of fine thread or gold wire)
+- **ewer** (A servant who brings water for washing)
+- **feverfew** (A type of daisy used in treating headaches)
+- **frumenty** (A wheat porridge)
+- **garderobe** (A medieval toilet)
+- **hall** (The “Great Hall”; the main room of a house or castle)
+- **hippocras** (A 12th-century drink of wine mixed with honey and expensive spices)
+- **huisje** (Flemish for ‘house’; pronounced ‘who-shair’)
+- **kirtle** (A basic gown or tunic worn by men and women)
+- **larder** (A room for storing meat and food)
 - **linen** (Cloth made from flax)
 - **livery** (The special clothes worn by a lord’s servants)
-- **feverfew** (A type of daisy used in treating headaches)
+- **manciple** (An officer in charge of food and supplies)
+- **mazer** (A wooden drinking bowl)
+- **napery** (Table linens and cloths)
+- **pantry** (A room for storing bread; from the word for “bread”)
+- **poppet** (A small handmade doll or figure)
+- **posset** (A hot drink of curdled milk and ale)
+- **pottage** (A thick vegetable and grain stew)
+- **solar** (A private, sunny upper room in a medieval house)
+- **spicery** (A room for storing valuable spices)
+- **treacle** (A thick, dark syrup used in cooking)
+- **trencher** (A flat piece of bread or wood used as a plate)
+- **veil** (A head covering for women)
+- **wimple** (A cloth that covers the head, neck, and chin)
 
----
-
-### **VI. Land, Nature & The Shires**
+### VI. Land, Nature & The Shires
 - **ēa** (River)
-- **sǣ** (Sea)
-- **wella** (A well or spring)
-- **denu** (A valley)
-- **mōr** (A moor; wild, open highland)
-- **wudu** (Wood)
-- **lēah** (A wood or a clearing)
-- **feld** (A field)
-- **stōw** (A place)
-- **strǣt** (A street or Roman road)
-- **mere** (A boundary; also a lake or the sea)
-- **hide** (A unit of land—about 120 acres—enough to support a family)
 - **acre** (The amount of land an ox team could plow in a day)
-- **furlong** (The length of a "furrow" in a plowed field)
-- **rood** (A quarter of an acre)
-- **perch** (A measurement of length or land)
-- **virgate** (A land measurement; about 30 acres)
-- **bovate** (Also called an "oxgang"; as much land as one ox could plow)
-- **carucate** (As much land as a team of eight oxen could plow)
-- **ell** (A unit of length for measuring cloth)
-- **league** (A long distance; about 3 miles)
-- **assart** (Land that has been cleared of trees for farming)
-- **forester** (An officer in charge of the King’s woods)
-- **verderer** (A judge in the royal forests)
 - **agister** (An official who oversaw animals grazing in the forest)
+- **assart** (Land that has been cleared of trees for farming)
+- **carucate** (As much land as a team of eight oxen could plow)
 - **chase** (A private hunting forest)
+- **ell** (A unit of length for measuring cloth)
+- **forester** (An officer in charge of the King’s woods)
+- **furlong** (The length of a “furrow” in a plowed field)
+- **hide** (A unit of land—about 120 acres—enough to support a family)
+- **league** (A long distance; about 3 miles)
+- **mere** (A boundary; also a lake or the sea)
+- **perch** (A measurement of length or land)
+- **sǣ** (Sea)
+- **verderer** (A judge in the royal forests)
+- **virgate** (A land measurement; about 30 acres)
 - **warren** (A place kept for breeding rabbits or game)
 
----
-
-### **VII. Archaic Verbs, Adverbs & Ways of Thinking**
+### VII. Archaic Verbs, Adverbs & Ways of Thinking
 - **abide** (To wait for or tolerate)
 - **albeit** (Although)
 - **anon** (Soon)
-- **art / canst / didst / dost / doth** (Old forms of "are," "can," "did," and "do")
-- **hath / saith** (Old forms of "has" and "says")
-- **begat / beget** (To father a child)
 - **beholden** (Indebted to someone)
 - **beseech** (To ask very earnestly)
 - **beseem** (To be appropriate or fit)
@@ -5478,51 +5260,38 @@ Look carefully and you'll see the Old English letter þ (thorn) a few times. We 
 - **bewray** (To betray or reveal a secret)
 - **certes** (Certainly)
 - **chide** (To scold)
-- **cleave / cloven** (To split or divide)
 - **clothe** (To dress)
 - **couch** (To express something in a certain way)
 - **deign** (To condescend or agree to do something beneath you)
 - **dwell** (To live in a place)
-- **ere / erst** (Before / formerly)
+- **þegnian** (To serve)
 - **fain** (Gladly)
 - **fare** (To travel or to do)
 - **fie** (An exclamation of disgust or disapproval)
 - **forbear** (To refrain from doing something)
 - **forsake** (To abandon)
 - **forsooth** (Truly or indeed)
-- **hark / hearken** (To listen closely)
-- **hence / hither** (From here / to here)
-- **thence / thither** (From there / to there)
-- **whence / whither** (From where / to where)
 - **hie** (To go quickly)
-- **mayst / wilt / wouldst** (Old forms of "may," "will," and "would")
 - **spake** (Spoke)
 - **tarry** (To delay or linger)
-- **thee / thy / thine** (Old forms of "you" and "your")
 - **thou** (You—singular)
-- **wast / wert** (Old forms of "were")
 - **wend** (To go or travel)
-- **ye** (You—plural)
-- **witan / witt** (To know / intelligence; as in "witless")
 - **witenagemot** (The King’s council)
-- **þegnian** (To serve)
+- **ye** (You—plural)
 
----
-
-### **VIII. The Map of Beatrice’s World**
-- **Anjou** (A rival land in France; pronounced 'An-joo')
-- **Berkhamsted** (A fortress on the main route from Westminster to Rockingham; pronounced 'Bur-kem-sted')
+### VIII. The Map of Beatrice’s World
+- **Anjou** (A rival land in France; pronounced ‘An-joo’)
+- **Berkhamsted** (A fortress on the main route from Westminster to Rockingham; pronounced ‘Bur-kem-sted’)
 - **Brittany** (A rugged land in France; home of mercenaries)
 - **Devon** (The red-earth county in the far southwest of England)
-- **Évreux** (A powerful city in Normandy; pronounced 'Iv-roo')
-- **Exeter** (The fortress city of the west; pronounced 'Ex-eh-ter')
+- **Exeter** (The fortress city of the west; pronounced ‘Ex-eh-ter’)
 - **Flanders** (A land of weavers across the sea)
 - **London** (The great city on the Thames)
 - **Normandy** (The King’s land across the sea)
-- **Provence** (A sunny land in France, split between the Barcelona and the House of Toulouse; pronounced Pro-*vonss*, like Pro-*vahnce**)
-- **Thames** (The great river; pronounced 'Tems')
+- **Provence** (A sunny land in France, split between the Barcelona and the House of Toulouse; pronounced Pro-vonss, like Pro-*vahnce**)
+- **Thames** (The great river; pronounced ‘Tems’)
+- **Évreux** (A powerful city in Normandy; pronounced ‘Iv-roo’)
 - **Westminster** (The King’s home near London; home to the King’s Great Hall and the Abbey)
-
 
 <span id="endGLOSSARY"></span>
 
