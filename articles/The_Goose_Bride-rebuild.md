@@ -13,9 +13,7 @@
 > 
 > => AI review
 >
-> => (Related REVIEW NOTES at very end)
->
-> - TODO - Renumber chapters
+> - TODO - Revisit Questions: are these questions still relevant to the narrative, plot, story and to the new age range we agreed on
 
 ---
 
@@ -787,7 +785,7 @@ He stepped back into the shadows. The hall slowly resumed its murmur. But the qu
 
 
 
-## Chapter 9 — The Ledger and the Lion
+## Chapter 8 — The Ledger and the Lion
 
 Roger’s question still burned in his chest: What do you mean to do for him?
 
@@ -860,7 +858,7 @@ Henry reached for his wine, oblivious to the cage he had just built—its door s
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 10 - Sir Guy’s Spite
+## Chapter 9 - Sir Guy’s Spite
 
 Beatrice reached the hunting lodge by midday.
 
@@ -893,7 +891,7 @@ The basket flew open.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 11 - The Goose Hunt
+## Chapter 10 - The Goose Hunt
 
 Goosie exploded from the basket in a fury of wings.
 
@@ -954,7 +952,7 @@ The king laughed.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 12 - The Red‑Wolf Honoured
+## Chapter 11 - The Red‑Wolf Honoured
 
 The King leaned forward, studying her with amused wonder.
 
@@ -1021,7 +1019,7 @@ The moment passed. Standing in the large doorway to the hall, she turned and imp
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 13 — A Matter of Diplomacy
+## Chapter 12 — A Matter of Diplomacy
 
 Beatrice curtsied and went. The heavy doors closed behind her.
 
@@ -1189,7 +1187,7 @@ She rose, moving away, but her smile lingered. "I learned from the best."
 
 ---
 
-## Chapter 14 — The Road Home
+## Chapter 13 — The Road Home
 
 Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps. She gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket, and the evening air cool on her face.
 
@@ -1640,7 +1638,7 @@ She went inside, carrying the basket.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 15 – Tales to Tell
+## Chapter 14 – Tales to Tell
 
 The door closed behind her with a dull thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
 
@@ -1868,7 +1866,7 @@ She smiled, and went out to fetch the wood.
 
 ---
 
-## Chapter 16 – The Courtship
+## Chapter 15 – The Courtship
 
 In the weeks that followed, Godfrey became a familiar sight at Stanwey. He came when he could—a day here, an afternoon there—always on horseback, always alone. He did not announce himself; he simply appeared and waited until a servant noticed him.
 
@@ -1885,7 +1883,7 @@ Harold watched from his chair by the window, and when Beatrice came to stand bes
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 17 - A Quiet Plan
+## Chapter 16 - A Quiet Plan
 
 One afternoon, Godfrey found Beatrice in the herb garden, Goosie pecking contentedly nearby. He sat on the bench beside her and said nothing for a long while.
 
@@ -1930,7 +1928,7 @@ Goosie waddled back to the herb bed and settled comfortably there, quite satisfi
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 18 - The King is Coming
+## Chapter 17 - The King is Coming
 
 The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The Reeve set men to repairing the lane. 
 
@@ -1990,7 +1988,7 @@ Godfrey took it. The weight was unfamiliar, but not unwelcome.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 19 - Respite and Some Advice
+## Chapter 18 - Respite and Some Advice
 
 On the final day, the Hall was a furnace of frantic industry. The air was thick with the scent of rendering fat and the sharp, rhythmic *thwack* of cleavers on oak. Even the children were put to work, gathering spring flowers to decorate the hall.
 
@@ -2067,7 +2065,7 @@ The priest nodded. “Then the king’s vow is a chain, but it is not a prison. 
 
 ---
 
-## Chapter 20 – Final Preparations
+## Chapter 19 – Final Preparations
 
 The morning of the king’s arrival dawned clear and cold. Beatrice had been up since first light, directing the women with the rushes, checking the firewood, chasing Goosie out of the hall three times. Harold sat in his chair by the hearth, pretending to read his Psalter, but his eyes kept drifting to the window.
 
@@ -2148,7 +2146,7 @@ Henry roared with laughter. Godfrey, standing by the door, allowed himself a sma
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 21 - The Fathers’ Bargain
+## Chapter 20 - The Fathers’ Bargain
 
 Later, when the meal was done and the fire had been built up, Henry sent everyone away. He sat alone with Harold in the small circle of light.
 
@@ -2251,7 +2249,7 @@ Henry’s eyebrows rose. Harold’s face went pale.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 22 - The Cup
+## Chapter 21 - The Cup
 
 King Henry’s expression was not displeased. “You may.”
 
@@ -2424,7 +2422,7 @@ He didn’t argue. He simply slowed his horse to match hers and said nothing mor
 
 ---
 
-## Chapter 23 - The Road to Westminster
+## Chapter 22 - The Road to Westminster
 
 The royal party spent several days travelling the ancient Watling Street. This long, straight spine of cracked paving was a scarred memory of Rome, cutting through the deep greens of the Midland wilds.
 
@@ -2515,7 +2513,7 @@ The servants' garderobe, when she finally found it, was a small, dark space that
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 24 - Lady Margaret
+## Chapter 23 - Lady Margaret
 
 When she emerged, her hands trembling, a rather severe looking woman was waiting.
 
@@ -2582,7 +2580,7 @@ A hint of a smile. "Nothing." A pause. "Everything." Another pause. "That's how 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 25 -  A Letter Home
+## Chapter 24 -  A Letter Home
 
 That night, Beatrice sat before a yellowed scrap of parchment and a pot of ink that was mostly sediment. Her legs ached from the saddle and her inner thighs were raw. A smelly tallow candle flickered. 
 
@@ -2609,7 +2607,7 @@ Beatrice read it three times, then tucked it into her sleeve.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 26 - The Departure Feast
+## Chapter 25 - The Departure Feast
 
 The first formal dinner was also the King’s farewell. Henry would leave for Normandy within the week, and the court had gathered in the Great Hall to honour him.
 
@@ -2619,7 +2617,7 @@ Lady Margaret, from beside her, quietly: “The other one. The broader blade, gi
 
 Beatrice switched, face burning. Then she caught Godfrey’s eye. He was seated on the dais among his half‑brothers—Robert of Gloucester, broad and quiet as an idle siege tower; Richard of Lincoln, leaning in to hear some jest. Godfrey did not smile. Did not wave. Just… looked. And somehow, that was enough.
 
-At the high table, the King sat flanked by Queen Matilda and the young heir, William Adelin, who was trying to balance a spoon on his nose. Matilda gently removed it. Robert de Beaumont, the King’s most trusted advisor, leaned across to murmur something that made Henry’s jaw tighten. Roger of Salisbury, the bishop‑chancellor, watched the exchange with the stillness of a spider at the edge of its web.
+At the high table, the King sat flanked by Queen Matilda and the young heir, William Adelin, who was trying to balance a spoon on his nose. Matilda gently removed it. Robert de Beaumont, the King’s most trusted advisor, leaned across to murmur something that made Henry’s jaw tighten. Roger, Bishop of Salisbury, watched the exchange with the stillness of a spider at the edge of its web.
 
 Nearby, William de Warenne spoke in low tones to Eustace of Boulogne. Their eyes followed the servants, not the King.
 
@@ -2662,7 +2660,7 @@ Her hands were cold. *They are talking about me,* she thought. *And not only abo
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 27 - The Great Unmooring
+## Chapter 26 - The Great Unmooring
 
 The King’s departure was not a single moment of waving silk, but a week‑long evacuation of the soul of the court. To Beatrice, it felt as though the very air was being sucked out of Westminster, leaving behind a vacuum of anxious women and distracted men.
 
@@ -2695,7 +2693,7 @@ Beatrice did not have yarrow here, but the cooks used ginger for the Queen’s w
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 28 - The Wine Spill
+## Chapter 27 - The Wine Spill
 
 Three days after the King’s departure, the hall felt emptier, though just as many people crowded it: women to their own devices, now that the men were absent.
 
@@ -2734,7 +2732,7 @@ Queen Matilda, watching from the high table, noted the set of Beatrice’s jaw. 
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 29 - A Little Understanding
+## Chapter 28 - A Little Understanding
 
 Afterwards, in her chamber, Beatrice let Lady Margaret clean what could be cleaned of the wine stain on her only gown. 
 
@@ -2779,7 +2777,7 @@ But tonight, she let the fire burn down and thought of home. She fell into a dre
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 30 - The Ghost of Westminster
+## Chapter 20 - The Ghost of Westminster
 
 It began, as such things often do, with a lie. A lie and a goose.
 
@@ -2993,7 +2991,7 @@ A letter arrived from Stanwey.
 
 ---
 
-## Chapter 31 – Christmas Court
+## Chapter 30 – Christmas Court
 
 Soon enough, the court assembled at Westminster for the feast of the Nativity. It was not the Christmas of later centuries – no evergreen trees glittering with ornaments, no children’s games of blind-man’s-bluff, no lavish confections of sugar and spice. Here, the celebration was a thing of sober ritual and sharp politics, wrapped in the cold stone of the great hall.
 
@@ -3157,11 +3155,11 @@ Godfrey bowed and left her. Avice stayed in the drafty passage, the cup cooling 
 
 ---
 
-### The Queen’s Garden
+### The Queen’s Rose Garden
 
 One day when the pale sun was a little warmer over the high stone walls of the Queen’s garden, made warmer still for a number of braziers set up hours earlier, Queen Matilda sat upon a stone bench, a silver cup of hippocras in her hand. A few paces away, her ladies-in-waiting whispered and embroidered, their voices a soft hum that masked—but did not hide—the conversation at the centre.
 
-The Duchess nodded toward the peacocks strutting near the frozen fountain. "At least they have better plumage than half the barons."
+Matilda Fitzroy—Godfrey's sister—nodded toward William Adelin who was stalking the strutting peacocks near the frozen fountain. "At least they have better plumage than half the barons."
 
 Beatrice, relieved that someone was speaking plainly, laughed. "Aye, and better sense. A goose could outwit the Chancellor of England."
 
@@ -3173,15 +3171,15 @@ Beatrice felt the silence press against her. She had said something wrong. She d
 
 "The Chancellor," the Queen said quietly, "is my husband's most trusted advisor. He has served the crown for thirty years. He is also standing yonder."
 
-Beatrice turned. A man in plain robes was indeed there, pretending to examine a rose bush.
+Beatrice turned. An older man in plain robes was indeed there, warming himself by the coals of a brazier, pretending to examine a rose bush.
 
 "I meant no disrespect," Beatrice whispered.
 
-"No," the Queen agreed. "You meant to be clever. That is different." 
+"No," the Queen agreed, in everyone's hearing. "You meant to be clever. That is different." 
 
-She touched Beatrice's sleeve. "At home, you are the cleverest person in the room. Here, you are not. Sit. Listen. Learn the difference between wit and wound."
+She touched Beatrice's sleeve. "At home, you may be the cleverest person in the room. Here, you are not. Sit. Listen. Learn the difference between wit and wound."
 
-She turned to Godfrey's sister, Matilda Fitzroy. “How is your mother?”
+She turned to Godfrey's sister, Matilda Fitzroy. “And how is your mother?”
 
 “Our mother is well. She is staying as a guest at Berkhamsted for a month and asks for my brother.”
 
@@ -3189,13 +3187,33 @@ Godfrey glanced at Beatrice, who was seated quietly by some winter roses.
 
 The look did not escape the Queen's attention. 
 
-“Do not fear to visit your mother, Godfrey,” she said. “I shall keep Beatrice here under my own shadow. For the court should see the King’s future daughter-in-law first as a woman of mercy and charity.”
+“Do not fear to visit your mother, Godfrey. I shall—”
 
-Beatrice felt a chill that had nothing to do with the wind. “How long will the road hold you both?” she asked, her voice barely a whisper. *I will actually miss him. Both of them.*
+”Mother, may I go too?” William interrupted. He had abandoned the peacocks and now stood before her, his hands on the back of her chair, imitating his father the King. “I am in my eleventh year now, and I would so much love to go with our sister and brother. It is not far.”
+
+Matilda Fitzroy burst into laughter and ruffled her half-brother's hair. “He shall talk the wheels off the cart ere we reach the gate.”
+
+William swatted her hand away, grinning. “You are not so old that you cannot be teased, sister.”
+
+The Queen’s expression flickered – a mother’s warmth, quickly masked. She turned to the Chancellor. “My lord, can your health cope with such a boisterous intrusion? What say you?”
+
+The Chancellor stepped into their seated circle, his face unreadable. He bowed to the Queen, then to William. “My lady, I may be infirm of body, but I have survived worse than two princes and a duchess in my solar.” His eyes moved to Beatrice, and his mouth twitched – something like a smile. “And I have been called far worse things than a goose.”
+
+Beatrice's face burnt with shame.
+
+”Then it is settled,” said the Queen.
+
+The Chancellor raised a hand. ”I have served those who praised me to my face and plotted behind my back. A girl who speaks her mind is a gift. Do not lose it entirely.” He turned back to the Queen. “They are welcome, Your Grace. All of them.”
+
+The Queen nodded, satisfied. Then she looked at Beatrice – a long, measuring look.
+
+“I believe that the King’s future daughter-in-law should be seen first by the royal court as a woman of *mercy* and *charity*. Therefore, I shall keep Beatrice safely keep here under my shadow.”
+
+Beatrice breathed in sharply. She felt a chill that had nothing to do with the wind. “May I ask how long the stay?” she asked, her voice barely a whisper. *I will actually miss him. Both of them.*
 
 “A fortnight. Perhaps less,” Godfrey replied. He reached out as if to touch her hand, then pulled back, remembering court etiquette. *I will miss her odd and her looks of hopeful trust.*
 
-Young Matilda smiled, a sharp, knowing look. “He will write to you, sister. I shall see to the ink and parchment myself.”
+Young Matilda smiled, a sharp, knowing look. “Worry not, my dear Beatrice. He will write to you. I shall see to the ink and parchment myself.”
 
 ---
 
@@ -3464,7 +3482,7 @@ Certainly, when the poor began to speak of “the Lady of Stanwey” with affect
 
 ---
 
-## Chapter 33 - The Summons
+## Chapter 31 - The Summons
 
 A few days later, a servant found Beatrice in the weaving room. “My lady, a message from Sir Guy de Montfort. He requests your presence at a hearing regarding your father’s estate. He says it is a formality—the King’s justices need to verify that Stanwey is being properly managed in your father’s absence.”
 
@@ -3479,7 +3497,7 @@ She went to find Lady Margaret.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 34 - The Hearing
+## Chapter 32 - The Hearing
 
 The hearing was held in a small chamber off the Great Hall. Sir Guy sat at a table, flanked by the grey‑haired agent and a clerk with a parchment. Two of the King’s justices sat behind a trestle table, looking bored.
 
@@ -3514,7 +3532,7 @@ The chamber emptied. Beatrice hurried to the Queen.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 35 - Leave to Go
+## Chapter 33 - Leave to Go
 
 Matilda was in her solar. She listened to Beatrice’s request and nodded.
 
@@ -3541,7 +3559,7 @@ The Queen had ears in many places.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 36 – Danger to Beatrice
+## Chapter 34 – Danger to Beatrice
 
 Beatrice reached Stanwey by morning, after an uncomfortable two day’s travel. Harold was in his chair by the hearth, pale but alive. She knelt beside him, took his cold hands in hers, and wept with relief.
 
@@ -3616,7 +3634,7 @@ Then the cart lurched forward, and the night swallowed them.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 37 – The Road from Berkhamsted
+## Chapter 35 – The Road from Berkhamsted
 
 Godfrey had been at his mother's side for three days, at the manor of Berkhamsted, a day's ride from Westminster. The change of air was meant to do her good – and to do him good as well, away from the whispers of the court.
 
@@ -3649,7 +3667,7 @@ He rode, changing horses at Dunstable Priory, Newport Pagnell Manor, and Northam
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 38 – The Trail
+## Chapter 36 – The Trail
 
 Godfrey reached Stanwey as the first birds were calling the coming morning, long before the sun cleared the treetops. 
 
@@ -3714,7 +3732,7 @@ Suffice to say, there were no guards outside by the time Godfrey reached the cha
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 39 – The Clash
+## Chapter 37 – The Clash
 
 Godfrey kicked the door open and glanced about wildly in the small chapel.
 
@@ -3759,7 +3777,7 @@ Another horn sounded – closer now. The hired outlaws looked worried. "The roya
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 40 – The Candlestick
+## Chapter 38 – The Candlestick
 
 When the swords first clashed, Beatrice's fingers were working with frustrating slowness.
 
@@ -3816,7 +3834,7 @@ The final hired man looked at Sir Guy on the ground, then at Godfrey's sword, th
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 41 – The Royal Forester's Horn
+## Chapter 39 – The Royal Forester's Horn
 
 
 A villager peered into the church – a small woman with a torch. "Is someone – oh."
@@ -3878,7 +3896,7 @@ After goodbyes, the two travelled to Westminster Palance, accompanied by a numbe
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 42 – The Queen’s Solar (Late January 1115)
+## Chapter 40 – The Queen’s Solar (Late January 1115)
 
 Beatrice had not long sat down in her chamber to rest when there was a knock at the door. 
 
@@ -3947,7 +3965,7 @@ For their meddling, some were cast out from the sight of green England, some fou
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 42 - Feast of St. Valentine (14 February 1115)
+## Chapter 41 - Feast of St. Valentine (14 February 1115)
 
 The feast was crowded, noisy, suffocating. Beatrice moved through it as she always did now—quietly, carefully, watching.
 
@@ -4010,7 +4028,7 @@ He didn’t say more. He didn’t need to.
 
 ---
 
-## Chapter 43 — Wedding Preparations (March - April of 1115)
+## Chapter 42 — Wedding Preparations (March - April of 1115)
 
 At the beginning of wedding preparations, Harold took Beatrice aside, his large, calloused hand resting briefly on her silk sleeve. “Listen to me, lass. A wedding is a fine thing, but it is only a beginning. Don’t mistake the feast for the fortune.”
 
@@ -4092,7 +4110,7 @@ Beatrice smiled and clapped her hands in delight.
 ![Chapter](Goose_Bride-goosemark-cut_small.png) 
 
 
-## Chapter 45 — The Wedding (Spring of 1115)
+## Chapter 43 — The Wedding (Spring of 1115)
 
 Their wedding was held in the spring, when the oak trees of Rockingham forest were heavy with new green.
 
@@ -4120,19 +4138,77 @@ And so it did.
 
 ## Epilogue — The Years After
 
+*The years that followed brought both joy and sorrow, as all years do.*
+
+You are correct. The word "now" breaks the retrospective tone. Below is the **final corrected Beatrice passage** with "now" removed, plus the full epilogue for context.
+
+---
+
+## Final Beatrice Passage (without "now")
+
+*Beatrice grew old at Stanwey, but she did not grow gentle – not in the way that word is often meant. She learned, instead, to be wary. The girl who had once spoken every thought aloud learned to measure her words against the silence that followed them. She had learned from Queen Matilda the difference between wit and wound, and from her own mistakes the cost of speaking too soon.*
+
+*When Godfrey died – quietly, one winter, his hand in hers – she did not rage at heaven. She had seen too much for that. She buried him under the apple trees, where her mother lay, and planted a new gooseberry bush at the foot of the grave. The people of Stanwey came to her for judgments: whose fence was true, whose daughter should marry, whose quarrel was not worth the breath. She never sought the role, but she did not refuse it. She had learned from Harold how to see people, from Godfrey how to wait, and from Goosie how to hold her ground without apology.*
+
+*She outlived many she loved – her father, the Queen, William and Matilda in the cold water, and finally Godfrey himself. Each death carved something out of her, but she did not become hollow. She became, instead, the thing that remained after the carving. The villagers called her "the Lady" not for any title but because she had become what the word meant: steady, fair, and unforgetting. She kept her mother's herb garden, her father's sword above the hearth, and her own sharp tongue – though she used it less often in her later years, and only when it mattered.*
+
+*In her final years, a young woman came to her – a granddaughter, or perhaps a great-niece; the records do not say – and asked how she had endured so much loss. Beatrice is said to have replied: "I learned to hold my peace until I knew what my peace was worth. And then I held that too."*
+
+---
+
+## Full Epilogue (with all corrections)
+
+Below is the **complete epilogue** with:
+- Opening framing line
+- Harold's death and staghound
+- William and Matilda's visits (with "when he could escape his mother's watchful eye")
+- White Ship disaster (accurate: William turns back for Matilda)
+- Henry's grief
+- Queen Matilda's final words (with "Forsooth... though I did question it at the time")
+- Roger of Salisbury (bishop and justiciar, fall from power 1139)
+- Ranulf (Lord Chancellor, target of jest, tells story until death 1123)
+- Half-sisters (Avice's letter)
+- Sir Guy (dies on crusade)
+- The nurse (sells farm, moves into hall, swears goose remembered her)
+- Godfrey (never a king, holds Stanwey, raises family)
+- **Beatrice passage (as above)**
+- Goosie (lives very old, herb garden)
+
+---
+
+## Epilogue — The Years After
+
+*The years that followed brought both joy and sorrow, as all years do.*
+
 The King returned to England in July of 1115, and visited Stanwey in the thaw and green of spring, as promised. He sat by Harold's fire, heard the tale of the Severn told anew, and laughed until his sides ached.
 
 Harold Red-Wolf, the son of Magnús, died two years later, peacefully, with Beatrice and Godfrey at his side. The staghound followed him, somehow, within the week—as if it always had.
 
-Stanwey was often warmly visited by Duchess Matilda Fitzroy of Brittany. She and Beatrice became as true sisters, writing many letters, up until the White Ship disaster of 1120.
+Stanwey was often warmly visited by Duchess Matilda FitzRoy of Brittany. She and Beatrice became as true sisters, writing many letters. And William Adelin, when he could escape his mother's watchful eye, rode with his half-sister to Stanwey, teasing her and stealing honey from the kitchen. They were closer than most true siblings.
 
-Queen Matilda of England lived until 1118, long enough to see her grandson—Beatrice and Godfrey's first child—and to hold him once. She told Beatrice, in her final months: "You were the best of my mistakes."
+When the White Ship went down in 1120, near Barfleur in Normandy, William was pulled into a small boat and might have escaped. But he heard his sister Matilda crying out in the darkness. He turned back. They drowned together, still reaching for each other. The news reached Stanwey on a grey morning. Beatrice wept for days. King Henry, it was said, never fully recovered from the shock. He smiled less, trusted fewer, and carried a hollow in his chest until his own death fifteen years later.
+
+Queen Matilda of England lived until 1118, long enough to see her grandson—Beatrice and Godfrey's first child—and to hold him once. Looking at the child, she said: “Forsooth, God knew what He was doing after all – though I did question it at the time. And you, Beatrice, were the best of my mistakes.”
+
+Roger of Salisbury served the King faithfully for many more years as bishop and justiciar, until his own fall from power in 1139, under a new king.
+
+Ranulf, the Lord Chancellor, who had been the target of Beatrice's jest, never forgot it. He sometimes told the story to visitors to his solar, right up until his death in 1123.
 
 The half-sisters married well and moved away. Avice wrote once, years later, a letter that might have been an apology. Beatrice answered it warmly. They never met again.
 
-Sir Guy de Montfort, a disgraced nephew of Amaury III de Montfort, Count of Évreux, never regained his family’s favour. He died on crusade, forgotten by all but an obscure chronicler who noted his name in passing.
+Sir Guy de Montfort, who claimed to be a disgraced nephew of Amaury III de Montfort, Count of Évreux, never regained his family’s favour. He died on crusade, forgotten by all but an obscure chronicler who noted his name in passing.
 
-Godfrey never became a king. He never wanted to. He held Stanwey, served his father faithfully, and raised his children and grandchildren to watch the skies and wait and see the seasons.
+The nurse at the river-bend eventually sold her farm and moved into the hall. She swore the goose remembered her, and Beatrice never corrected her.
+
+Godfrey never became a king. He never wanted to. He held Stanwey, served his father faithfully, and raised his children and grandchildren to watch the skies and to wait and to see the seasons.
+
+Beatrice grew old with him at Stanwey, but she did not grow gentle – not in the way that word is often meant. She learned, instead, to be more aware. The girl who had once spoken every thought aloud learned to measure her words against the silence that followed them. She learned from Queen Matilda the difference between wit and wound, and from her own mistakes the cost of speaking too soon.
+
+When Godfrey died – quietly, one winter, his hand in hers – she did not rage at heaven. She had seen too much for that. She buried him under the apple trees, where her mother lay, and planted a new gooseberry bush at the foot of the grave. The people of Stanwey came to her for judgments: whose fence was true, whose daughter should marry, whose quarrel was not worth the breath. She never sought the role, but she did not refuse it. She had learned from Harold how to see people, from Godfrey how to wait, and from Goosie how to hold her ground without apology.
+
+She outlived many she loved – her father, the Queen, William and Matilda in the cold water, and finally Godfrey himself. Each death carved something out of her, but she did not become hollow. She became, instead, the thing that remained after the carving. The villagers called her "the Lady" not for any title but because she had become what the word meant: steady, fair, and unforgetting. She kept her mother's herb garden, her father's sword above the hearth, and her own sharp tongue – though she used it less often in her later years, and only when it mattered.
+
+In her final years, a young woman came to her – a granddaughter, or perhaps a great-niece; the records do not say – and asked how she had endured so much loss. Beatrice is said to have replied: "I learned to hold my peace until I knew what my peace was worth. And then I held that too."
 
 And Goosie lived to be very old indeed, long past the time when geese should die. On warm days, she could still be found in the herb garden, waddling slowly behind a woman who had once been a girl with a goose, a surprise to a king with a vow, on a road that led to the home she loved.
 
@@ -4401,7 +4477,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 9 – The Ledger and the Lion
+## Chapter 8 – The Ledger and the Lion
 
 1. Why is King Henry frustrated at the beginning of the chapter?
 2. What does Roger of Salisbury mean when he calls Godfrey “a coin left on the table”?
@@ -4411,7 +4487,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 14 – The Road Home (Cart Scene)
+## Chapter 13 – The Road Home (Cart Scene)
 
 1. Why does the carter’s wife think Beatrice looks pale?
 2. How does Beatrice feel when she hears the family talking about “the goose girl”?
@@ -4421,7 +4497,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 15 – Tales to Tell / The Blessing
+## Chapter 14 – Tales to Tell / The Blessing
 
 1. Why does Harold ask Godfrey “What will you remember, when you are old?”
 2. What does Godfrey’s answer tell Harold about his character?
@@ -4431,7 +4507,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 22 – The Cup
+## Chapter 21 – The Cup
 
 1. Why does Beatrice ask Godfrey to pass her a drink instead of answering the king directly?
 2. What does Henry mean when he says, “She takes the cup”?
@@ -4441,7 +4517,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 30 – The Ghost of Westminster
+## Chapter 29 – The Ghost of Westminster
 
 1. Why do the servants think the Queen’s quarter is haunted?
 2. What is the real “ghost”?
@@ -4451,7 +4527,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 32 – Edith of Scotland
+## Chapter 31 – Christmas Court / Edith of Scotland
 
 1. What secret does Queen Matilda reveal to Beatrice?
 2. Why did the Norman court call her “the Saxon girl”?
@@ -4461,7 +4537,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 40 – The Forester’s Horn
+## Chapter 38 – The Forester’s Horn
 
 1. How does Godfrey escape from the chapel storeroom?
 2. What does Beatrice use to cut her ropes? Why is that clever?
@@ -4471,7 +4547,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 45 – The Wedding
+## Chapter 43 – The Wedding
 
 1. What does the old woman say when the goose leads the bride?
 2. How do the half‑sisters behave at the wedding? What does that tell you?
