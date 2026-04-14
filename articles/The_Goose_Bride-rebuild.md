@@ -840,7 +840,7 @@ Henry’s voice rose, the "Scholar-King" giving way to the impulsive pride of th
 
 He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, carved doors of the lodge.
 
-“The next pure maid to cross that threshold—be she a Saxon virgin, a Norman heiress, or a milk-stained scullion—she shall be his wife! If God deems him royal, He shall send a match of fire. If not... let the winds take him. If he cannot thrive with a peasant at his side, he was never my son at all."
+“I command it: the first pure maid to cross that threshold, be she royal heiress or landless scullion, the same shall be his wife. I leave the selection to God’s judgment. If the boy cannot live with a peasant at his side, he is no son of mine and holds no claim to my blood. Let it be written as a vow.”
 
 Roger’s eyes widened in shock. Bishop Bloet exchanged a glance with the Archbishop of Canterbury. The monk of the new Cistercian order lowered his head and his lips began to move silently.
 
@@ -1763,7 +1763,7 @@ Godfrey walked toward the door and Goosie led the way inside.
 
 ---
 
-### The Blessing
+### A Riddle-Tale for a Bride
 
 The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
 
@@ -1785,17 +1785,7 @@ Harold’s mouth twitched. Not quite a smile, but something like it. “My daugh
 
 Godfrey glanced at Beatrice, then back at Harold. “I am not here to catch her.”
 
-“No?” Harold’s voice was quiet. “Then why are you here?”
-
-Godfrey was silent for a moment. When he spoke, his voice was steady, but Beatrice heard the effort it cost him.
-
-“I am here because your daughter deserves to know that she is not a command. She is not a vow spoken in haste. She is not a prize to be won or a manor to be acquired.” He paused. “She is the first person who has ever looked at me and seen a man, not a shadow.”
-
-The words hung in the air. Beatrice felt her throat tighten.
-
----
-
-Harold studied him. The firelight caught the lines in his face, the grey in his beard.
+“No?” Harold studied him. The firelight caught the lines in his face, the grey in his beard.
 
 “A farmer’s son, a merchant, and a knight each came seeking the same farm girl. The farmer’s son wanted a soft life – warm hearth, full belly, no more war. The merchant wanted a name – to sit at the high table, to be called ‘lord.’ The knight wanted power – land to rule, men to command.”
 
@@ -1803,15 +1793,15 @@ He leaned forward slightly.
 
 “Three men. Three wants. Comfort. Status. Control. She refused them all.”
 
-He held Godfrey’s gaze.
-
-“Do not assume the answer is the obvious one.”
-
 In the shadows near the door, Beatrice’s face burned, but she did not move. *Oh. Like your riddles for your friends, Father, except this has real consequences.*
 
 Harold’s voice was steady, almost gentle – a man who had tested many souls with voice and with blade.
 
 “So here is my question, boy. What is the fourth thing? The thing none of them thought to want? The thing that is not for yourself, but for her? If you cannot name it, you are no different from the rest.”
+
+He held Godfrey’s gaze.
+
+“Do not assume the answer is the obvious one.”
 
 Godfrey did not answer at once. The fire crackled.
 
@@ -1829,6 +1819,10 @@ For a heartbeat, he almost gave them the answer they might expect – that he wa
 
 The masks were right there, ready to be worn, and for a terrifying second, he did not know if he had the courage to speak without one.
 
+---
+
+### A Pledge
+
 *Which mask is true?* Neither. Both were lies. His father had sworn a vow to let God decide – could there be a third way, neither grasping nor grovelling? A risk.
 
 He let the silence stretch, then spoke.
@@ -1858,7 +1852,7 @@ Harold’s expression did not change, but something behind it shifted. He looked
 She felt both their eyes on her. Her father’s eyes were weary but clear. Godfrey’s eyes were steady, asking nothing.
 
 She thought of the cart, the gossip, the soldiers who had passed her by. She thought of the young man who had walked beside her, who had given her space to weep, who had promised nothing but what he could give.
-
+
 “I say,” she said, her voice steady despite her shaking hands, “that I will not be taken. But I will go. If he will have me.”
 
 Harold looked at her—really looked—and for a moment she saw the man who had pulled a lord from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
@@ -2178,23 +2172,11 @@ Henry and his retinue reined in before the gate, where old Harold was waiting ea
 
 Harold’s mouth twitched. “You have better eyes than I, sire. I am dim of sight and half the man I was.”
 
-“Then the man you were must have been twice the man I remember.” Henry laughed, and the tension broke. He looked at Beatrice, at Godfrey, at the goose waddling unconcernedly across the yard. “And this is the goose.”
+“Then you were twice the man I remember, and I remember a giant. Arise, old friend.” Henry laughed, and the tension broke. The King looked to Beatrice, to Godfrey, and lastly to the goose waddling unconcernedly across the yard. “And this is the goose.”
 
-Beatrice curtsied. “Goosie, thanks to your mercy, sire.”
+Beatrice curtsied. “Goosie, by the King's gift and thanks to your mercy, sire.”
 
 “Goosie.” He shook his head. “My clerks will have a fine time with that name.” He offered his arm. “Shall we go inside? I am told there is a fire laid on the hearth, and I have not been warm since October.”
-
----
-
-### Be it ever so humble
-
-## Revised Scene: "Be it ever so humble" – Thickened with Food, Music, and Henry’s Commentary
-
-Below is the **drop-in replacement** for the scene. I have added:
-
-- **Food descriptions** – a king’s generosity adapted to a thegn’s hall (roasted fowl, fresh bread, ale, early winter vegetables, honey cakes)
-- **Music** – Matilda’s influence, even in absence (harp, perhaps a singer)
-- **Henry’s comment** – acknowledging the quality despite the humble setting
 
 ---
 
@@ -2206,7 +2188,7 @@ The table before them was not the usual groaning board of Westminster, but it wa
 
 From the corner of the hall, near the screens passage, a harp began to play. The musician was a young woman from a nearby village, her voice low and clear, singing a lay of lost love and distant hills. Godfrey, standing by the door, recognised the tune – one his mother had taught him, though he did not say so. Beatrice caught his eye and smiled.
 
-Henry paused, a piece of bread halfway to his mouth, and listened. When the song ended, he turned to Harold. "You have music here," he said. "The Queen would approve. She sent word ahead, I think – or perhaps she has spies even in the forest." He grinned. "The hall may be small, Rauthulfr, but you keep it well. The bread is better than my own baker’s, and the ale has a kick I did not expect. I shall have to send my cook to learn from your daughter."
+Henry paused, a piece of bread halfway to his mouth, and listened. When the song ended, he turned to Harold. “You keep a good house, Rauthulfr. The Queen notes the music; I note the grain. This bread is of better yield than my own baker’s, and your ale has a sharper account than I expected. I may have to send my cook to learn from your daughter."
 
 Beatrice could not help hearing fragments, even as she served.
 
@@ -2251,13 +2233,15 @@ Henry was quiet for a long moment. The fire crackled. Outside, a horse stamped.
 
 “At court, many count him dull,” Henry said at last, “for he does rarely plots, schemes or flatters. But he waits, and watches, and learns. He can read a ledger, write a charter, argue a point of law. He was educated at the same monastery where I learned my letters. He is clever in the ways that matter—just not in the ways that make men popular at court.”
 
+“The court calls him dull,” Henry said at last, “because he does not waste breath on flattery. But the boy is literate; he can audit a ledger, scribe a charter, and argue the law as well as any clerk. We shared the same tutors at the monastery. He is precise in the ways that hold a kingdom together—though lacking in the ways that hold men popular at court.”
+
 Harold nodded slowly.
 
 “I have given him my name,” Henry continued, “but not yet lands. The marriage will provide that. Stanwey and beyond will be his holding—in your daughter’s name, as I have said. He will be a lord, and he will learn to be a good one, or he will answer to me.”
 
 “And if she will not have him?”
 
-Henry’s jaw tightened. “Then I will have made a rash vow and a fool of myself. It would not be the first time.” He paused. “But I do not think she will refuse him. I have seen the way she looks at him. Not with love—not yet—but with something. Curiosity. Respect. The beginning of trust.”
+Henry’s jaw tightened. “Then I am bound by a rash vow and must answer for my own lack of foresight. It would not be the first error on my record.” He paused. “But I do not think she will refuse him, for I have observed the manner of her eyes upon him. Not yet with love—but with something. Curiosity. Respect. The beginning of trust.”
 
 Harold said nothing. He was thinking of his own marriage, arranged by his father when he was barely more than a boy. He had been angry at first, resentful. But his wife had been patient, and kind, and over the years anger had softened into something deeper. He wanted the same for Beatrice.
 
@@ -2275,7 +2259,7 @@ Henry inclined his head.
 
 Henry considered this. His first instinct was to refuse—a king’s son should be at court, visible, useful. But he looked around the hall—the low ceiling, the smoke‑blackened beams, the old man in the chair—and saw something he had never given his son.
 
-“Agreed,” he said. “For part of the year. The rest they will spend at court, as my family. That is not negotiable.”
+“I grant the term,” he said. “They shall reside here for half the year. The remainder, they are mine at court. I reserve the right to grant further lands as I see fit. These terms are fixed; I will not hear a counter.”
 
 Harold’s mouth twitched. “A compromise. Your father would never have agreed to such a thing.”
 
@@ -6740,7 +6724,7 @@ Did he know? Did it matter if it was him? Why didn’t he say anything? He must 
 
 ---
 
-### Company
+### Unexpected Company
 
 Beatrice was so lost in thought that she did not hear the horse until it was nearly upon her.
 
@@ -7055,6 +7039,7 @@ Beatrice remembered the family during the cart ride, the mother’s care.
 
 She recalled her mother’s words about her father: “*A man’s character shows in small things. Watch how he treats those who can do nothing for him. For that is the man you must live with.*”
 
+TODO
 She thought of the parish priest, one Sunday at Lent, preaching on the sacrament: “*When she takes the wine from her betrothed’s hand, she shows her will to the world. For a woman forced is no wife; where the heart is in chains, love cannot dwell.*”
 
 She thought of the young man who had stood apart while she wept, giving her space, not reaching out. She thought of his voice when he said, *I will not take Stanwey from you. I will come to you.*
@@ -7373,7 +7358,7 @@ Beatrice didn’t open her eyes at first. “Only bread on the oven peel, Father
 
 Beatrice drew a deep breath. “Sooth. The king made a vow. Godfrey shall marry the next pure maid to walk through that door. I walked in—stumbled in—and now my life is no longer my own.”
 
-She sighed and turned to face him. “Is that what God wants? Is that a good marriage?”
+She sighed and turned to face him. “Is that a good marriage? Is that what God wants?”
 
 The priest was silent, his focus elsewhere even as he watched Goosie pick at a stray blade of grass. “What is it you truly fear?” he asked. “The man, or the loss of what you have?”
 
@@ -7452,51 +7437,51 @@ Beatrice did not know what to say to that. She watched the road, her hands cold 
 
 ### The King is here
 
-The King’s retinue appeared around the bend—a dozen mounted knights, a cart with provisions, a cluster of servants. At their head rode Henry himself, on a great grey horse, his cloak dark against the pale sky.
+The King’s retinue appeared around the bend—a dozen mounted knights, a cart with provisions, a cluster of servants. At their head rode Henry himself, on a great grey horse, his cloak dark against the pale sky. Beside him, on a white palfrey, sat Queen Matilda, her expression curious and warm.
 
-Beatrice had seen him in the hall, seated, laughing. Seeing him now, riding toward her home, was different. He was not a king on a throne; he was a man on a horse, broad-shouldered, watchful, taking in every detail of the lane, the cottages, the villagers who knelt, for it wasn’t every day that a king passed through the village.
+Beatrice had seen the King in his hall, seated, laughing. Seeing him now, riding toward her home, was different. He was not a king on a throne; he was a man on a horse, broad‑shouldered, watchful, taking in every detail of the lane, the cottages, the villagers who knelt. The Queen, too, looked about her with interest – at the flowers, the children, the smoke rising from the cottages.
 
-The children all threw their flowers, the women curtsied and the men bowed, heads uncovered. The king smiled and nodded, and Beatrice saw the village Reeve’s wife press a hand to her chest as if she had been blessed, talking earnestly to her neighbour.
+The children threw their flowers. The women curtsied and the men bowed, heads uncovered. The Reeve's daughter called out, “God save the King and Queen!” The blacksmith bellowed, “Long live Harold and Maude!” – a nickname that had followed the royal couple since their wedding. Henry grinned. Matilda inclined her head graciously.
 
-Henry and his retinue reined in before the gate, where old Harold was waiting eagerly for him. He dismounted, and for a moment the two old warriors looked at each other across the path. Then Henry stepped forward and took Harold’s hand.
+They reined in before the gate, where old Harold waited. Henry dismounted, then turned to help Matilda from her horse. For a moment the two old warriors – Henry and Harold – looked at each other across the path. Then Henry stepped forward and took Harold’s hand.
 
 “Rauthulfr,” he said. “You have not changed.”
 
 Harold’s mouth twitched. “You have better eyes than I, sire. I am dim of sight and half the man I was.”
 
-“Then the man you were must have been twice the man I remember.” Henry laughed, and the tension broke. He looked at Beatrice, at Godfrey, at the goose waddling unconcernedly across the yard. “And this is the goose.”
+“Then you must have been twice the man I remember.” Henry laughed, and the tension broke as he gave Harold a big chest-to-chest hug after the Saxon manner. He then gestured to Matilda. “My beloved wife wished to meet the man she has heard so much about.”
 
-Beatrice curtsied. “Goosie, thanks to your mercy, sire.”
+Harold gave a full bow on his right knee before the Queen, to honour her in the Norman fashion. “My lady is welcome to this piece of land.”
 
-“Goosie.” He shook his head. “My clerks will have a fine time with that name.” He offered his arm. “Shall we go inside? I am told there is a fire laid on the hearth, and I have not been warm since October.”
+The Queen nodded and smiled. “Arise, no need for such ceremony between friends. And this is the goose?”
 
----
+Goosie came waddling unconcernedly across the yard. Beatrice curtsied. “Goosie, thanks to your mercy, your Grace.”
 
-### Be it ever so humble
+“Goosie.” Matilda’s eyes crinkled. “I shall have to tell my ladies. They will not believe it.”
 
-## Revised Scene: “Be it ever so humble” – Thickened with Food, Music, and Henry’s Commentary
-
-Below is the **drop-in replacement** for the scene. I have added:
-
-- **Food descriptions** – a king’s generosity adapted to a thegn’s hall (roasted fowl, fresh bread, ale, early winter vegetables, honey cakes)
-- **Music** – Matilda’s influence, even in absence (harp, perhaps a singer)
-- **Henry’s comment** – acknowledging the quality despite the humble setting
+Henry offered his arm. “Shall we go inside? I am told there is a fire laid on the hearth, and I have not been warm since October.”
 
 ---
 
 ### Be it ever so humble
 
-The hall had never looked so small. Henry sat in Harold’s chair for a time—Harold had insisted—and the old thegn took the stool beside him, their heads close as they talked. Beatrice moved between them, pouring wine, serving bread, trying not to listen.
+The hall had never looked so small. Henry sat in Harold’s chair for a time – Harold had insisted – and the old thegn took the stool beside him. Queen Matilda sat on a cushioned bench, her eyes taking in every detail: the smoke‑blackened beams, the dried herbs hanging from the rafters, the rushes freshly laid.
 
 The table before them was not the usual groaning board of Westminster, but it was honest. Roasted birds—not Goosie—sat on a wooden platter, its skin crisped to gold, surrounded by leeks and parsnips from the hall’s own garden. Fresh loaves, still warm from the hearth, gave off a smell of rye and honey. A pitcher of small ale, brewed by Beatrice’s own hand, stood beside a flagon of the King’s own wine – a gift from the royal stores, which Harold had opened only after Henry insisted. For sweet, there were honey cakes spiced with ginger, and a bowl of early winter apples, wrinkled but sharp.
 
+Matilda leaned toward Beatrice. “You made the ale yourself?”
+
+Beatrice nodded, her cheeks warm. “Yes, Your Grace.”
+
+“It is good.” Matilda took another sip.
+
 From the corner of the hall, near the screens passage, a harp began to play. The musician was a young woman from a nearby village, her voice low and clear, singing a lay of lost love and distant hills. Godfrey, standing by the door, recognised the tune – one his mother had taught him, though he did not say so. Beatrice caught his eye and smiled.
 
-Henry paused, a piece of bread halfway to his mouth, and listened. When the song ended, he turned to Harold. “You have music here,” he said. “The Queen would approve. She sent word ahead, I think – or perhaps she has spies even in the forest.” He grinned. “The hall may be small, Rauthulfr, but you keep it well. The bread is better than my own baker’s, and the ale has a kick I did not expect. I shall have to send my cook to learn from your daughter.”
+Henry paused, a piece of bread halfway to his mouth, and listened. When the song ended, he turned to Harold. “You have music here,” he said. “The Queen approves.” He glanced at Matilda, who nodded. “She sent word ahead, I think – or perhaps she has spies even in the forest.” He grinned. “The hall may be small, Rauthulfr, but you keep it well. The bread is better than my own baker’s, and the ale has a kick I did not expect.”
 
-Harold’s mouth twitched. “The silver was easier to train.”
+Matilda accepted one of the honey cakes offered by Beatrice. “I shall have to send my cook to learn from your daughter. I must have the recipe.”
 
-Henry roared with laughter. Godfrey, standing by the door, allowed himself a small smile.
+Henry clapped his hand on the older man’s shoulder. “Now, I would hear a warrior’s tale, for I know it shall be told right. A river and a witless brother of mine.”
 
 Beatrice could not help hearing fragments, even as she served.
 
@@ -7516,14 +7501,16 @@ Harold’s eyes crinkled. “The silver was easier to train.”
 
 Henry roared again, and the harp struck up a new tune – a livelier one, for dancing.
 
+Matilda watched Beatrice move between the tables, noting that she poured wine for the men without spillage, the manner with she addressed the servants, and the occasional glance at Godfrey when she thought no one was looking. The Queen said nothing, but her expression was thoughtful.
+
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
 ## Chapter 20 - The Fathers’ Bargain
 
-Later, when the meal was done and the fire had been built up, Henry sent everyone away. He sat alone with Harold in the small circle of light.
+Later, when the meal was done and the fire had been built up, and Godfrey had taken Beatrice for a stroll, Henry sent most of the servants away. He sat with Harold near the hearth. Matilda remained, seated a little apart, her hands folded.
 
-They talked a little of *that boy Clito across the water*, and how the *young lions* would soon forget *the conquest of England*, some of them caring more for *who had the pointiest shoes* and other latest trends.
+They talked a little of *that boy Clito across the water*, and how the *young lions* would soon forget *the days of the conquest of England*, and *care more for who had the pointiest shoes,* and other fashionable trends.
 
 Henry leaned back, contentedly, his broad shoulders relaxing against the wall. “It is good to sit with old friends, but your eyes betray you, Rauthulfr. Speak your words.”
 
@@ -7531,7 +7518,7 @@ Harold leant forwards. “My words as a father are this: Your son. What kind of 
 
 Henry raised an eyebrow. “That is truly a father’s question.”
 
-“I am old.” Harold met his eyes. “I will not live forever. My daughter refused every man I have ever brought before her. She has a mind of her own, and I have not tried to break it.”
+“I am old.” Harold met his eyes. “I shall not live forever. My daughter refused every man I have ever brought before her. She has a mind of her own, and I have not tried to break it.”
 
 “You are saying she might even refuse my son?”
 
@@ -7549,11 +7536,15 @@ Harold nodded slowly.
 
 Henry’s jaw tightened. “Then I will have made a rash vow and a fool of myself. It would not be the first time.” He paused. “But I do not think she will refuse him. I have seen the way she looks at him. Not with love—not yet—but with something. Curiosity. Respect. The beginning of trust.”
 
-Harold said nothing. He was thinking of his own marriage, arranged by his father when he was barely more than a boy. He had been angry at first, resentful. But his wife had been patient, and kind, and over the years anger had softened into something deeper. He wanted the same for Beatrice.
+Henry’s jaw tightened. “Then I will have made a rash vow and a fool of myself. It would not be the first time.” He paused. “But I do not think she will refuse him. I have seen the way she looks at him. Not with love – not yet – but with something. Curiosity. Respect. The beginning of trust.”
 
-“You know,” he said, “that in our world, parents choose the match. The children learn to love—or at least to live—afterward. But I have seen matches that were nothing but duty, and I have seen matches that grew into something more. I want more for my daughter.”
+Matilda spoke then, her voice calm. “A woman’s heart is not a fortress to be stormed, my lord. It is a garden. It must be tended.” She looked at Harold. “As parents, it is our responsibility to prepare the soil, to make a good match for our children. Your daughter will choose in her own time, just as I did. And that is as it should be.”
 
-“So do I,” Henry said. “I did not choose my wife for love. But I have come to value her more than any crown. I would have the same for Godfrey.”
+Harold inclined his head. “It is truth, Your Grace.” 
+
+Henry waved a hand. “A woman should speak of women’s things. But the bargain is between us, Rauthulfr.” He leaned forward. “The children learn to love – or at least to live – afterward. But I have seen matches that were nothing but duty, and I have seen matches that grew into something more. I want more for my son.”
+
+“As do I for my daughter,” Harold said.
 
 They sat in silence, the fire between them. Then Harold spoke again.
 
@@ -7565,17 +7556,17 @@ Henry inclined his head.
 
 Henry considered this. His first instinct was to refuse—a king’s son should be at court, visible, useful. But he looked around the hall—the low ceiling, the smoke‑blackened beams, the old man in the chair—and saw something he had never given his son.
 
-“Agreed,” he said. “For part of the year. The rest they will spend at court, as my family. That is not negotiable.”
+“Agreed,” he said. “For part of the year. The rest they will spend at court, as my family. That is not negotiable. I may give them land as I see fit. That is also not negotiable.”
 
-Harold’s mouth twitched. “A compromise. Your father would never have agreed to such a thing.”
+Harold’s mouth twitched. “A compromise! Your father—William—would never have agreed to such a thing.”
 
 “My father conquered kingdoms. I am trying to keep them.” Henry rose. “We understand each other, then.”
 
 “We do.”
 
-Henry lowered his voice. “I must meet tomorrow with Robert Beaumont. We plan my return to Normandy.”
+Henry lowered his voice. “I must meet tomorrow with Robert Beaumont and my son Robert. We plan my return to Normandy.”
 
-Harold nodded slowly. “Greet that man for me. Trouble with King Louis?”
+Harold nodded slowly. “I recall Beaumont well. Remember my name to that lord as a greeting. Border trouble with King Louis?”
 
 “And others.” Henry did not elaborate. “That is a king’s burden, not a father’s, so tonight, we shall celebrate.” He opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
 
@@ -7583,19 +7574,21 @@ Harold nodded slowly. “Greet that man for me. Trouble with King Louis?”
 
 ### Negotiation of warriors
 
-A servant appeared in the doorway, glancing at the two lords. He gave a small bow. “My lord Godfrey said they will be in shortly, my lords.” He vanished before either could answer.
+A servant appeared in the doorway, glancing at the two lords. He gave a small bow. “My lord Godfrey said they will be in shortly, my lords.” He bowed vanished before either could answer.
 
 Harold shook his head, but his eyes were bright. He turned to Henry. “The lad has been a help at Stanwey, sire. Mended the goose pen without being asked. Helped the reeve with a cart. Asks about the crops, the tenants.” He smiled, a rare thing. “A man’s character shows in small things.”
 
 Henry nodded slowly. “Small things, yes. But not only small things.” He leaned back, his eyes distant for a moment, remembering.
 
-*He thought of Godfrey—the quiet one. The one who had not waited at Salisbury for his father’s command, but had ridden into the Welsh hills with a message for Maredudd ap Bleddyn when the talks stalled. Henry had heard how the boy had sat in the chieftain’s hall, surrounded by men who had reason to hate the English, and spoken calmly until they agreed to terms. He had not been told to do it; he had simply seen what was needed and acted.*
+*He thought of Godfrey – the quiet one who had ridden into the Welsh hills, sat in the chieftain’s hall, and spoken calmly until they agreed to terms. He had not been told to do it; he had simply seen what was needed and acted.*
 
 “So the lad ups and heads off to Wales, to Powys,” Henry said aloud. “The talks with Maredudd ap Bleddyn had stalled. The man had sworn to burn our castles. My knights were ready to march. I had sent messengers; they returned with nothing.” He met Harold’s eyes. “Then this one—this quiet one—rode out alone.”
 
 Harold’s eyebrows rose.
 
-“He went into the chieftain’s hall,” Henry continued, “sat among men who had reason to hate the English, and spoke to them until they agreed to terms.” He looked toward the window, as if seeing the Welsh hills. “He is not a warrior. But he is not a coward. He came back with a treaty.”
+“He went into the chieftain’s hall,” Henry continued, “sat among men who had reason to hate the English, and spoke to them until they agreed to terms.” 
+
+He looked toward the window, as if seeing the Welsh hills. “He is not a warrior. But he is not a coward. He came back with a treaty that let us finish the war there.”
 
 He turned back to Harold. “He can wait. But when the moment comes, he moves.”
 
@@ -7611,7 +7604,7 @@ Henry studied her for a long moment. “You have been listening, child?”
 
 Beatrice met his gaze. “Yes, my lord.”
 
-“Good.” He rose, moving toward the fire. “You have heard of his work and his silence. You have heard what he has done when watching was not enough.” His voice was quiet, but it carried. “Now I ask you: what would you have me do?”
+“It is good.” He rose, moving toward the fire. “Sooth, you have heard of his work and his silence.” His voice was quiet, but it carried. “And now I ask you: what would you have me do?”
 
 Beatrice’s heart was loud in her ears. She looked at the king, then at her father, then at Godfrey.
 
@@ -7622,14 +7615,69 @@ Henry’s eyebrows rose. Harold’s face went pale.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 21 - The Cup
+## Chapter 21 - The Cup (Revised -- rename)
 
-King Henry’s expression was not displeased. “You may.”
+The hall was still, save for the low crackling of the fire. Henry stood near the hearth, Harold beside him, Matilda on her bench, Godfrey by the door. Beatrice had stepped forward, her hands clasped before her, her face pale but steady.
 
-“I was not asked whether I would marry your son.” Her voice was steady, though her hands trembled. “I walked into your hall with a goose, and I walked out with a vow I did not make.”
+“My lord,” she said, her voice carrying through the quiet, “may I ask you something as a father, not as a king?”
+
+Henry’s eyebrows rose. He glanced at Harold, then back at her. “You may.”
+
+“I walked into your hall with a goose, and I walked out with a vow I did not make.” Her voice trembled, but she did not look away. “I was not asked whether I would marry your son.”
 
 Harold’s hand tightened on his chair. Godfrey did not move.
 
+Henry listened, his face unreadable. “And what would you have me do, child?”
+
+Beatrice hesitated. Her throat was dry. She looked at Godfrey – at his quiet, watching face – then back at the King.
+
+“I would know,” she said, “whether I have a choice in this or if it is somewhich which must simply be. That is my ask.”
+
+The silence stretched. Harold spoke first, his head bowed. “I have failed to teach my daughter properly of such matters. I must apologise—”
+
+The King raised a hand, cutting him off. “No apology is needed, Rauthulfr. The girl asked an honest question of a father, and I shall answer as such.”
+
+The fire cracked. A log settled. The room held its breath.
+
+King Henry looked back at Beatrice. “Child, you do have a choice.”
+
+He paused, as if weighing the words, then glanced at Matilda. A flicker, nothing more. She did not speak. 
+
+“My vow was an intent to arrange marriage, not a mandate to force it. Know that I am a King of Law, not a tyrant of oppression. The Church requires your ‘Yes’ else a marriage is no marriage at all. I will not seize what is not offered.”
+
+Henry glanced at Matilda. She gave a small nod, asking without words. He returned it.
+
+“Truth.” Queen Matilda rose and stood beside Henry. “I am queen to no tyrant,” she said quietly. “For the Church does teach that without free consent, there is no marriage.”
+
+She paused, and her voice softened. “But the King speaks truly of consequences as well. A refusal would not be without cost. That is the weight of the choice.”
+
+King Henry spread his hands. “So. There is your choice. A hard one, perhaps. But yours.”
+
+He gestured to Godfrey. “You are to take time. Get to know him. Let him prove himself – or fail. When you are ready – truly ready – you will seal your choice. Not before.”
+
+
+=> Decide if 'I will marry' is now vs the much later 'i do' (we currently have this earlier, when godfrey walks beatrice home)
+
+He looked at Harold. “You have given permission to court her. That is enough for now.”
+
+Harold nodded slowly.
+
+Henry turned back to Beatrice. “So. No cup today, child. Go. Think. Pray, if that helps. When you know your own heart, we will speak again.”
+
+Beatrice curtsied, her knees weak. “Thank you, my lord.”
+
+The King waved a hand. “Go. Both of you. I have business with Harold.”
+
+Godfrey stepped forward and offered Beatrice his arm. She took it, and they walked together toward the door. At the threshold, she paused and looked back.
+
+Henry had already turned to the fire, his broad back to the room. But she saw Harold’s eyes on her – tired, proud, and something like relief.
+
+Beatrice stepped out into the fading light.
+
+---
+
+**End of Chapter 21**
+ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
 Henry listened gravely, patiently. “And what would you have me do, young wolf? Do you wish to reject my son?”
 
 Beatrice shook her head. She looked at him intently, and there was no mocking in his voice. He was in many ways very like Godfrey.
@@ -7665,34 +7713,41 @@ Henry clapped Godfrey on the shoulder in his excitement. “You chose well.”
 Then he turned to Harold, his grin still wide. “Well, Harold, I don’t know what they need us for. It seems a decision is made.”
 
 Harold let out a long breath—not quite a laugh, but his eyes smiled. “So it seems.”
+ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
 
 ---
 
 ### Plans for Departure
 
-Henry turned to Beatrice. “I am told,” he said, “that you have been worrying about your father, child.”
+Queen Matilda turned to Harold. “I am told, Rauthulfr, that your daughter has been worrying about you.”
 
-Beatrice felt her cheeks warm. She glanced at Godfrey, who looked at the fire.
+Harold Red-Wolf looked straight ahead of him, sitting like a king on an uncomfortable throne. “For sooth?”
 
-“Yes, Godfrey mentioned it,” Henry continued. “He is a quiet boy, but he has a way of noticing things.” He looked at Harold. “I have a man in mind. A reeve from one of my own manors, good with accounts, steady. He can see to the hall while your daughter is away. And a cook, if you wish. I am told your wife’s sister might suit, else I have a dozen more.”
+“Yes, Godfrey mentioned it,” she continued. “He is a quiet boy, but he has a way of noticing things.” 
 
-Harold was silent for a moment. Then he said, quietly, “You are kind, sire.”
+She looked at her husband briefly. “I have a man in mind. A reeve from one of my own manors, good with accounts, steady. He can see to the hall while your daughter is away. And a cook, if you wish. I am told your wife’s sister might suit, else I have a dozen more.”
 
-“I am practical,” Henry said. “A king’s daughter-in-law should not be distracted by worry. It is bad for the complexion.”
+Harold was silent for a moment. Then he said, quietly, “You are most kind, your Grace.”
+
+“I am most practical,” Matilda said. “A king’s daughter-in-law should not be distracted by worry. It is bad for the complexion.”
+
+The King turned to Harold, ever the 
+
+
+
+
 
 He reached for his wine, then set it down again. “One more thing. Stanwey will be hers. Godfrey will hold it in her name, as her steward, not as its lord. That is my gift to you, for the Severn, and for the daughter you have raised.”
 
 Harold’s throat tightened. He nodded, not trusting his voice.
 
-Henry rose and walked to the window. “Now. I have a ship to catch in a fortnight. The queen has asked that Beatrice come to Westminster, to stay with her until Christmas. A little teaching in the ways of the court, that sort of thing. It will do her good—and it will give you time to settle the new household here.”
+Henry rose and walked to the window. “The forest is a respite I must leave behind. I have accounts to settle in Westminster before the crossing. There are matters in Normandy that require correction. A King’s work is endless.”
 
-He turned back to Harold. “The court has been too long in the forest. I have business in the city, and after that, I must cross to Normandy. There are bottoms that need spanking across the water.” He grinned. “A king’s work is never done.”
+Harold agreed, “as I have heard.”
 
-Harold’s mouth twitched. “So I have heard.”
+“Accordingly, I have made provision for your daughter to attend Westminster. She shall observe the court’s function at first hand and be entered into the record there. Godfrey is charged with her escort. You will have your new household here.”
 
-Henry looked at Beatrice. “You will come with us, child. Godfrey will escort you. The queen will take you under her care. You will learn the ways of the court, meet the people you will need to know.”
-
-Beatrice nodded. “Yes, my lord.”
+Beatrice’s face held many secrets, but she simply nodded. “Yes, my lord.”
 
 ---
 
@@ -9645,7 +9700,7 @@ about what the story made you feel.***
 
 > 🟢 **Did You Know?**
 >
-> The Sheriff of Nottingham who appears in this story was a real official. His family’s lands later became part of the Royal Forest under king Henry II – the very setting where legends of Robin Hood would grow. Some scholars believe the Sheriff’s harsh enforcement of forest law helped inspire the tales of the outlaw of Sherwood.
+> The Sheriff of Nottingham—who appears briefly in this story—was a real official. His family’s lands later became part of the Royal Forest under King Henry II – the very setting where legends of Robin Hood would grow. Some scholars believe the Sheriff’s harsh enforcement of forest law helped inspire the tales of the outlaw of Sherwood.
 
 ---
 
@@ -9659,23 +9714,27 @@ about what the story made you feel.***
 > 
 > 3. A humble person may travel freely, but a mighty person is hindered by many things. (later meaning)
 > 
-> A fictional idiom.
-> These seem to be the two meanings that best fit.
+> This is a fictional idiom, so it is difficult to find exact meanings, but these three seem to form the closest fit.
+>
 > Compare to the word ‘nice’ which originally meant ‘one of simple understanding, a fool’, then ‘precise’, then later came to mean ‘pleasant’.
 
 ***
 
 ## Author’s Note — Why I Wrote This Story
 
-**Simple Answer:** I like tales, both factual and fantasy. I grew up reading and have a love for stories from around the world, both from real history and from made up stories.
+I like tales, both factual and fantasy. I grew up reading and have a love for stories from around the world, both from real history and from made up stories.
 
-**Professional Answer (as a guiding principle):** As an author, when I got stuck on this story planning, writing or discussing, I generally cross-checked the balance of the following:
+This tale is an imperfect psychological training kit woven into the fabric of medieval entertainment. It honours the tradition of the morality tale by using the past as an honest mirror for our own lives. We have a natural fascination with seeing things happen to other people; this story harnesses that curiosity to explore our positive core needs for connection, purpose, and safety—needs that never truly change. By representing the Middle Ages as realistically as possible, the book reveals our shared capacity to underestimate our own foolishness, weakness and value. It provides the reader with sound psychological tools to navigate life today, looking back at the past not to judge it, but to discover the insight we need to walk a more balanced and healthy path in the present.
+
+**For Aspiring Writers (and the Curious):** As an author, when I got stuck on this story during planning, writing or revision, I generally cross‑checked the balance of the following three questions:
+
 1. Does this scene provide an “honest mirror”? (Is it real enough?)
 2. Does it touch a “positive core need”? (Is it human enough?)
 3. Does it offer a “psychological tool”? (Is it useful enough?)
 
-This tale is an imperfect psychological training kit woven into the fabric of medieval entertainment. It honours the tradition of the morality tale by using the past as an honest mirror for our own lives. We have a natural fascination with seeing things happen to other people; this story harnesses that curiosity to explore our positive core needs for connection, purpose, and safety—needs that never truly change. By representing the Middle Ages as realistically as possible, the book reveals our shared capacity to underestimate our own foolishness and weakness. It provides the reader with sound psychological tools to navigate life today, looking back at the past not to judge it, but to discover the insight we need to walk a more balanced and healthy path in the present.
+I offer these questions as a practical craft check for anyone who wants to use them in their own work.
 
+---
 
 # FACTS: THE WORLD OF THE ‘GOOSE BRIDE’ (12th‑CENTURY ENGLAND)
 
@@ -9752,13 +9811,117 @@ Harold is a fictional Saxon thegn who kept his lands after the Conquest because 
 | **Knight** | Norman elite (Sir Guy) |
 | **Villein** | Peasant tied to the land |
 
-### Handful of Historical Matildas
+---
+
+## A Handful of Historical Matildas
+
+Matilda (or Maude) was a popular name.
 
 - **Matilda FitzRoy of Brittany** – real illegitimate daughter of Henry I, same mother as Godfrey (fictional).
 - **Empress Matilda** – legitimate daughter, later claimant to the throne.
 - **Queen Matilda of Scotland (Edith)** – the real queen in the story.
 - **Matilda of Boulogne** – future wife of Stephen of Blois (not in story).
 
+---
+
+## Getting Married in 12th‑Century England
+
+In the early 1100s, the “rules” of marriage were a battlefield where ancient Saxon customs, Norman feudalism, and the emerging laws of the Christian Church collided. While a king could command a union and a father could negotiate a dowry, the Church was beginning to insist on a radical new idea: that a marriage was not a transaction of land, but a binding of souls that required the free consent of the individuals involved. For characters like Beatrice and Godfrey, navigating the path to the altar was a high‑stakes game of legal definitions and social survival.
+
+---
+
+### What Beatrice and Godfrey Would Understand
+
+| Concept | What They Know |
+| :--- | :--- |
+| **The King’s vow** | They are expected to marry. Refusal would anger the king, but is legally possible. Consent was still required. |
+| **Parental permission** | Harold’s approval is required (Beatrice is under his authority). Godfrey’s father (the King) has already commanded the match. |
+| **Consent** | Beatrice and Godfrey must say “yes” of their own free will. The Church taught that a forced marriage is no marriage. |
+| **Courtship** | A period to learn each other’s character before committing. Harold explicitly says “court her” – not “marry her now.” |
+| **The cup ritual** | A binding present‑tense consent. After that, they are husband and wife. |
+| **Wedding ceremony** | This is merely a solemnising of the agreement. After that, they are husband and wife. |
+
+---
+
+### 1. Betrothal (*sponsalia*) vs. Marriage
+
+Canon law (Gratian, c. 1140, but developing throughout the early 12th century) distinguished two kinds of promise:
+
+| Term | Latin | Meaning | Binding? |
+| :--- | :--- | :--- | :--- |
+| **Future promise** | *sponsalia per verba de futuro* | “I will marry you” (a pledge) | Breakable under certain conditions (e.g., parental disapproval, change of heart) |
+| **Present consent** | *sponsalia per verba de praesenti* | “I marry you” (spoken in the present tense) | Indissoluble; considered actual marriage, not just betrothal |
+
+**Consent** was the essential element. Without informed free consent, there was no valid marriage – a radical idea for the time.
+
+---
+
+#### Betrothal vs. Engagement
+
+While the words are often used interchangeably today, they represent two very different legal and social frameworks. An **engagement** is a modern social promise, whereas a **betrothal** was a binding legal and religious contract. In the context of **1115**, the distinction was a matter of life, death, and property.
+
+| Feature | Betrothal (Medieval/Historical) | Engagement (Modern) |
+| :--- | :--- | :--- |
+| **Legal Status** | A formal, binding contract. | A social intent; largely non‑binding. |
+| **Breaking It** | Required legal or religious grounds (and often a “fine”). | Can be ended by either party at any time. |
+| **Primary Goal** | Consolidation of property and lineage. | Personal partnership and romance. |
+| **Agency** | Usually arranged by parents or lords. | Usually decided by the couple. |
+
+---
+
+### 2. The Role of Parents and Lords
+
+Parental permission was expected, especially for minors and for those under feudal authority. However, the Church insisted that consent of the couple was paramount. If a parent forced a child to marry against their will, the marriage was invalid.
+
+---
+
+### 3. The King’s Vow (*coram rege*)
+
+Henry’s vow was a **public declaration of intent** – not a marriage, not a betrothal. It bound *him* to arrange a marriage, but it did not bind Beatrice or Godfrey to consent. However, refusing would be socially disastrous (defying the king, scandal, loss of royal favour). So they were under immense pressure, but not legally compelled to marry without their own consent.
+
+---
+
+### 4. The Cup Ritual (Chapter 21)
+
+This is a fictionalised version of a *sponsalia per verba de praesenti*. Henry calls it “the old way.” By taking wine from Godfrey’s hand, Beatrice publicly signals her present consent. That act would be understood by contemporaries as a binding marriage – not just a betrothal. That is why Henry says, “There is no vow more binding than that.”
+
+---
+
+### 5. The Courtship Period (Between Chapters 14 and 21)
+
+After Harold gives permission to court, Godfrey and Beatrice spend time together. This is the *future promise* stage: they are getting to know each other, but not yet married. The cup scene is when the *present consent* – the actual wedding – occurs.
+
+---
+
+### 6. A Note on the “New” Radicalism
+
+Readers should note that in 1115, Godfrey’s understanding of marriage reflects a daring new movement emerging from the **cathedral school of Paris** (sometimes called the “schools of Paris”). This “Parisian model” held that **consent alone makes the marriage** (*Consensus facit nuptias*).
+
+In this view, the moment a couple exchanged present‑tense vows, the marriage was “perfect,” holy, and unbreakable – independent of physical union or property transfer. A priest’s blessing was desirable for public witness, but not required for validity. This was a revolutionary defence of the **integrity of the human word**, elevating a person’s inward “Yes” above the outward demands of feudal lords or biological “duty.”
+
+For Godfrey, this was not abstract theory. He was using the “Parisian model” as a legal shield: once the cup ritual sealed their present consent, no one – not even a king – could easily undo it.
+
+---
+
+### Summary Table: Fact vs. Fiction in This Appendix
+
+| Element | Historical Fact | Plausible Fiction | Invented for Story |
+| :--- | :--- | :--- | :--- |
+| King’s *coram rege* vow | Oaths before the king were binding | The specific “next maid through the door” | The goose chase and Beatrice’s entrance |
+| Parental permission | Expected, but consent was paramount | Harold’s riddle‑test | The exact wording of the riddle |
+| *Verba de futuro* (future promise) | Real canon law category | The cup ritual as betrothal | The cup as a physical object |
+| *Verba de praesenti* (present consent) | Real canon law category | The cup ritual as marriage | The specific “old way” label |
+| Cup rituals across cultures | Well documented | The story’s use of a shared cup | The precise mechanics in 1115 England |
+| Parisian model (consent alone) | Real 12th‑century theological position | Godfrey’s knowledge of it | The cup ritual as its practical application |
+| Dower and morning gift | Standard legal practice | Implied in the story | Not detailed |
+| Marriage as service (Gospel) | Taught at cathedral schools | Godfrey’s “fourth thing” speech | The riddle’s framing |
+| Henry I’s absence in Normandy | Historical fact | The Queen as regent | The timing of specific events |
+
+---
+
+### Key Takeaway for the Reader
+
+Marriage in 1115 was a tension between **Freedom** (the Church’s insistence on a woman’s “Yes”) and **Feudalism** (the king’s need to control land). The story follows characters using the Church’s radical new laws to protect their private choice against those seeking to use old feudal customs for power. The cup ritual, while fictional in its specific form, draws on a universal human language of shared drink as a bond – a language that appears in cultures across the world and across history.
 
 ***
 
