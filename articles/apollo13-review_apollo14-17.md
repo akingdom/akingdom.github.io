@@ -211,16 +211,32 @@ These lessons form a bridge between NASA’s engineering culture and classroom l
 
 ---
 
-## Minor note on misconceptions
+## Misconceptions
 
-As a brief clarification: claims that a “third oxygen tank” was added to the Service Module after Apollo 13 are not supported by NASA configuration documentation for Apollo 14–17. Redundancy and resilience were achieved through design, isolation, sensing, and procedural changes rather than by adding another cryogenic tank. Program cancellations of Apollo 18–20 were primarily budgetary and strategic decisions rather than direct technical consequences of Apollo 13.
+To clarify: 
+
+- Claims that a “third oxygen tank” was added to the Service Module after Apollo 13 are not supported by NASA configuration documentation for Apollo 14–17. Redundancy and resilience were achieved through design, isolation, sensing, and procedural changes rather than by adding another cryogenic tank.
+
+- Program cancellations of Apollo 18–20 were primarily budgetary and strategic decisions rather than direct technical consequences of Apollo 13.
 
 ---
 
 ## Conclusion
 
+![Fred Haise with Lunar Drill](https://images-assets.nasa.gov/image/S70-29673/S70-29673~orig.jpg) 
+*Fred Haise with Lunar Drill during training and preparation for the planned mission. Photo credit NASA / S70-29673*
+
+---
+
+![Mission Control Celebration](https://images-assets.nasa.gov/image/S70-35145/S70-35145~orig.jpg)
+*Mission Control celebration and the relief at splashdown. Photo credit NASA / S70-35145.*
+
+---
+
 ![Apollo 13 crew portrait (Lovell, Swigert, Haise)](https://images-assets.nasa.gov/image/S69-62224/S69-62224~orig.jpg)
 *The prime crew of Apollo 13 (left to right): Jim Lovell (Commander), Jack Swigert (Command Module Pilot) and Fred Haise (Lunar Module Pilot). Photo credit: NASA / S69-62224*
+
+---
 
 Apollo 13 converted a near‑catastrophe into a programmatic turning point. The Review Board’s systemic findings led to targeted hardware redesigns, stricter ground procedures, improved telemetry and isolation, standardized emergency interoperability, and expanded training for stacked failures. Apollo 14 implemented the principal fixes; Apollo 15–17 sustained and refined them. For engineers and students, the enduring lesson is that resilience is built where design, testing, operations, and human factors meet—addressing any one of those layers in isolation is insufficient.
 
