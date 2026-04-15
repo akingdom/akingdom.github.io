@@ -1,4 +1,8 @@
-# Apollo 13 findings and post‑mission changes across Apollo 14–17
+# Apollo 13 findings and impact on Apollo 14–17
+
+Launched on April 11, 1970, Apollo 13 became a "successful failure" when an oxygen tank explosion aborted the lunar landing and crippled the spacecraft. By using the lunar module as a lifeboat and improvising critical repairs, the crew and mission control navigated a safe return to Earth on April 17.
+
+---
 
 ## Abstract
 
