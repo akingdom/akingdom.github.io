@@ -47,9 +47,10 @@ AUTHOR:      Andrew Kingdom
     // 2. Generate a DPR-aware QR
     new QRCode(container, {
       text: location.href,
-      width:  cssW * dpr,
+      width: cssW * dpr,
       height: cssH * dpr,
-      correctLevel: QRCode.CorrectLevel.H
+      correctLevel: QRCode.CorrectLevel.H,
+      render: "path"
     });
 
     // 3. Grab the visible element (img first, then canvas)
