@@ -4010,27 +4010,72 @@ After goodbyes, the two travelled to Westminster Palace, accompanied by a number
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
-## Chapter 40 – The Queen’s Solar (Late January 1115)
 
-Beatrice had not long sat down in her chamber to rest when there was a knock at the door.
+### Chapter 40 – The Weight of Shadows
 
-The sound startled her. Her hand went to the Queen’s knife.
+That night, Beatrice lay in her chamber, the *sparver* curtains pulled nearly shut, leaving only a sliver of the room visible. A single candle burned on a stone stand; its light bled through the gap, throwing a jagged yellow stripe across the hangings.
 
-Goosie lifted her head momentarily, asleep on the hearth.
+*Godfrey is kind. He is patient. He promised not to take Stanwey.*
 
-Lady Margaret entered, her face softer than usual. “The Queen asks for you. In her solar. Now.”
+The flickering flame played tricks on the coarse wool, forming strange patterns that reminded her of faces. Faces like the man who had grabbed her arm in the dark. Faces that twisted into Sir Guy’s sneer. She shut her eyes, and for a moment it helped – but her heart hammered as if the chapel door were about to explode inward again.
 
-Beatrice knew she was safe, yet her heart beat strongly.
+*They are not real. I am safe. Am I safe? What if—*
+
+She didn't want to see the shapes, but her brain wouldn't stop fixing the shadows into faces.
+
+*What if Godfrey hates me because I can't forget those men’s faces? What if I flinch when I see his face – not because he is like them, but because I cannot stop seeing them?*
+
+She remembered the whispers at court, the sharp voices behind her back. *He’ll tire of her. She’s a goose girl playing at being someone else. The King’s son deserves better.* She had tried to ignore them, but in the dark they circled back, louder than before.
+
+*What if they are right? What if I am wrong about him?*
+
+Finally, she leaned toward the gap and blew. The flame died in a sharp hiss of grey smoke, and the imagined faces were swallowed by thick darkness. Familiar noises sounded strange now: the creaking of the tree near her window rubbing against another, the wind moaning, distant footsteps echoing in the corridor.
+
+The footsteps grew closer. Stopped. A knock.
+
+Her hand went to the knife under her pillow.
+
+“It’s only me, dear.” Lady Margaret’s voice, softer than usual. “The Queen asks for you. In her solar.”
+
+Beatrice exhaled, her heart still pounding. “Now?”
+
+“Now. Wrap yourself in a robe. I’ll wait.”
 
 ---
 
-The Queen’s solar was warm, the fire built high. Matilda sat in a carved chair, a cup of wine untouched at her elbow. She did not rise when Beatrice entered.
+### Chapter 41 – The Queen’s Solar (Late January 1115)
 
-“Take a seat.”
+Beatrice had not slept. She pulled a thick robe over her nightclothes and followed Lady Margaret through the cold corridors. Goosie, roused by the movement, waddled behind them, her claws clicking on the stone.
 
-Beatrice sat. Soft music seemed to come through the walls from another room, long reedy notes hanging thin and solitary in the warmth.
+The Queen’s solar was warm, the fire built high. Queen Matilda sat in a carved chair, a cup of wine standing untouched at her elbow. She did not rise when Beatrice entered, but her eyes swept over the girl’s pale face, the shadows beneath her eyes.
 
-For a long moment, the Queen said nothing. Then: “You used the knife?”
+“Take a seat, child.”
+
+Beatrice sat. Soft music seemed to float through the walls from another room, long sad reedy notes, hanging thin and solitary in the warm flickering light.
+
+For a long moment, the Queen said nothing. Then: “You are pale, child. Have you slept at all?” She leaned forward slightly, the firelight catching the gold thread of her sleeves. 
+
+Beatrice hesitated. The polite lie was on her tongue, but the Queen’s eyes were too sharp. “The nights are... long, Your Grace. Every shadow in the rafters wears a face I know.”
+
+“I thought as much.” Matilda’s voice dropped to a grounded, practical hum. “The spirit does not always mend quickly.”
+
+She turned to a servant. “Chamomile and lavender steeped in hot water, a little honey, and a small measure of poppy syrup – enough to ease the bones, not to cloud the mind. Bring a warm brick for her feet too.”
+
+The servant bowed and left.
+
+Beatrice blinked. “Your Grace, I did not come for medicine.”
+
+“You came because I sent for you,” Matilda said. “And I sent for you because Margaret told me you were not sleeping. The draught is not a cure for memory, but it tells the body that the danger has passed.”
+
+The serving maid returned with a steaming cup. Beatrice winced and almost dropped the cup.
+
+The Queen's eyes narrowed at the red sore across Beatrice’s hand. “What happened to your palm?”
+
+Beatrice looked down. The cut had reopened, a thin line of red across her skin. She had forgotten it. “I cut it. In the chapel.”
+
+The Queen turned to the servant, “A clean linen cloth from the chest.” 
+
+While waiting, the Queen asked, “You used the knife?”
 
 “Yes, Your Grace. I did not need to do much.”
 
@@ -4040,25 +4085,47 @@ For a long moment, the Queen said nothing. Then: “You used the knife?”
 
 The Queen nodded slowly, her gaze resting on Beatrice’s hands. “That is why I gave it to you. Not to use, but to remind you that you could. The weight of the blade is a promise you make to yourself.”
 
-She leaned forward slightly, the firelight catching the gold thread of her sleeves. “Are you sleeping well enough?”
+She took Beatrice’s hand, wrapped the cloth around the cut, and tied it gently. “Keep it clean,” she said. “You will need your hands.”
 
-Beatrice hesitated. The polite lie was on her tongue, but the Queen’s eyes were too sharp for such trifles. “The nights are... long, Your Grace. Every shadow in the rafters wears a face I know.”
+”Thank you, your Grace.”
 
-“I thought as much,” Matilda said, her voice dropping to a grounded, practical hum. “The spirit does not mend as fast as a cut palm. Tonight, you shall have the lavender-steeped wine and a warm brick for your feet. It is not a cure for memory, but it tells the body that the danger has passed.”
+Beatrice sipped from the cup. The warmth spread through her chest. She drank more, and her shoulders loosened almost against her will.
 
-She reached into a chest beside her chair and drew out a folded cloak of finest wool—deep blue, almost black, trimmed with grey fur. She laid it across Beatrice’s knees; the weight of it was substantial, smelling of cedar and expensive dye. *The weight pressed against her thighs like a hand that would not let go—grounding, not trapping.*
+Queen Matilda watched her. “The shadows will not vanish tonight. But the draught will help.”
+
+Beatrice nodded, her eyelids growing heavy. She did not speak.
+
+The Queen let the silence stretch.
+
+Beatrice’s head nodded once, then jerked up. “I am sorry, Your Grace. I did not mean to—”
+
+“You are tired,” Matilda said. “That is why I called you here. Not to stand on ceremony.
+
+“Now—” She reached into a chest beside her chair and drew out a folded cloak of finest wool – deep blue, almost black, trimmed with grey fur. She laid it across Beatrice’s knees; the weight of it was substantial, smelling of cedar and expensive dye. *The weight pressed against her thighs like a hand that would not let go – grounding, not trapping.*
 
 “You cannot go back to being the girl I met at the screens passage,” Matilda said, her voice matter-of-fact. “The world saw you stand your ground against a knight of the realm. If you dress like a servant now, you simply make yourself a target for the next desperate man who thinks you are easy prey.”
 
 She tapped the fur trim. “Wear this. Not because you’ve won a prize, but because you need to look like someone who cannot be touched. Not for me. For yourself.”
 
-Beatrice’s throat tightened. “Thank you, Your Grace.”
+Beatrice tried to focus. Her eyelids were heavy. “Thank you, Your Grace.”
 
-“Matilda,” the Queen said quietly. “When we are alone, and only then, you may call me Matilda. You have earned that much. Understand that this is a privilege.”
+The Queen picked up her wine. “Now finish your draught. The court can wait.”
 
-She picked up her wine. “Now go, girl. You look as though you need rest. Tomorrow, the court will try to forget what happened. Do not let them. You are not a victim. You are the woman who faced a knight with a candlestick and won, from what I hear.”
+Beatrice drank the last of the chamomile. The warmth pooled in her stomach, and the firelight seemed softer, the music more distant.
 
-She smiled. A real smile.
+Matilda watched her. “The whispers you hear in the dark – they are only shadows. You decide which ones to keep. For you are the woman who faced a knight with a candlestick and won, from what I hear.”
+
+She saw the Queen smile. *A real smile.*
+
+---
+
+### Back in her chamber
+
+Beatrice closed the door behind her and leaned against it. The cloak was still over her arm. She lifted it to her face and breathed in the cedar and wool. Then she lay down on the bed, pulled the cloak over herself like a blanket, and hugged it to her chest.
+
+Goosie waddled over and settled beside her, warm and steady.
+
+Beatrice closed her eyes. The shadows were still there, but for a moment, they did not move.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -4069,6 +4136,8 @@ She smiled. A real smile.
 > PART NINE - THE QUEEN’S PROTECTION
 
 ---
+
+TODO > Renumber remaining chapters and make this a chapter.
 
 ## The Queen’s Judgment (10 February 1115)
 
@@ -4119,17 +4188,6 @@ Godfrey, beside her, said nothing. He didn't need to.
 
 ---
 
-### A Gift for the Queen
-
-The next morning, a small bundle of dried herbs appeared outside the Queen’s chamber door. A note in an uneducated hand:
-
-*For sleepless nights. Steep in hot water. Thank you.*
-
-*—B*
-
-The Queen’s ladies wondered at her expression. It was almost a smile.
-
----
 
 ### Harold at the Royal Court
 
@@ -7615,7 +7673,7 @@ Henry’s eyebrows rose. Harold’s face went pale.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 21 - The Cup (Revised -- rename)
+## Chapter 21 - Answers
 
 The hall was still, save for the low crackling of the fire. Henry stood near the hearth, Harold beside him, Matilda on her bench, Godfrey by the door. Beatrice had stepped forward, her hands clasped before her, her face pale but steady.
 
@@ -7653,101 +7711,47 @@ She paused, and her voice softened. “But the King speaks truly of consequences
 
 King Henry spread his hands. “So. There is your choice. A hard one, perhaps. But yours.”
 
-He gestured to Godfrey. “You are to take time. Get to know him. Let him prove himself – or fail. When you are ready – truly ready – you will seal your choice. Not before.”
-
-
-=> Decide if 'I will marry' is now vs the much later 'i do' (we currently have this earlier, when godfrey walks beatrice home)
-
-He looked at Harold. “You have given permission to court her. That is enough for now.”
-
-Harold nodded slowly.
-
-Henry turned back to Beatrice. “So. No cup today, child. Go. Think. Pray, if that helps. When you know your own heart, we will speak again.”
+He gestured to Beatrice. “You are to take time. Get to know my son. Let him prove himself as a man – or fail. Go. Think. Pray. When truly know your own heart, you may both declare and seal your choices. Not before. You have agreed and your father has permitted it. That is enough for now.”
 
 Beatrice curtsied, her knees weak. “Thank you, my lord.”
 
-The King waved a hand. “Go. Both of you. I have business with Harold.”
+The King waved a hand. “Go. Both of you. We have business with your father.”
 
-Godfrey stepped forward and offered Beatrice his arm. She took it, and they walked together toward the door. At the threshold, she paused and looked back.
+Godfrey smiled and opened the door for Beatrice. At the threshold, she paused and looked back.
 
-Henry had already turned to the fire, his broad back to the room. But she saw Harold’s eyes on her – tired, proud, and something like relief.
+Henry had already turned to the fire, his broad back to the room. 
 
-Beatrice stepped out into the fading light.
+But Beatrice saw her father’s eyes on her – tired, proud, and something like relief. 
 
----
-
-**End of Chapter 21**
-ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
-Henry listened gravely, patiently. “And what would you have me do, young wolf? Do you wish to reject my son?”
-
-Beatrice shook her head. She looked at him intently, and there was no mocking in his voice. He was in many ways very like Godfrey.
-
-“I wish to—” Her voice faltered. Her throat was dry. She turned, almost without thinking. “Godfrey, would you pass me a drink.”
-
-For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed and offered it, waiting deliberately. Their fingers did not touch, but their eyes met and lit up. *Will you?*
-
-She accepted the cup, nodding solemly, its cold silver weight a sudden, heavy reality against her warm toil-worn skin.
-
-Beatrice stood still against the firelight, a fixed point in a changing world. The people seemed to retreat into the shadows as she raised the cup high, towards the rafters and beyond, offering a silent libation to a Heaven that felt very far away.
-
-Yet, courage came and she brought the rim to her lips, gulping the wine down in a determined rush, a frantic breath burning the back of her throat. She lowered the vessel, the silver ringing softly as it met her hand, her gaze clean and clear as it met the King’s eyes.
-
-“This is my answer, sire,” she gasped, for it stung.
-
-The hall was silent. Henry stared at her for a long moment. Then his face broke into a grin—a real grin of enjoyment, swift and warm.
-
-“She takes the cup,” he said softly, almost to himself. Then, louder: “Do you mean what you have just done, child?”
-
-Beatrice felt her cheeks burn. “I have answered your question, my lord.”
-
-Godfrey retrieved the empty silver cup. “By my hand, Father.”
-
-Henry caught the sudden, incandescent grin splitting his son’s face. He shook his head with a wry, appreciative smile.
-
-“She has sealed a betrothal,” the King said, his voice resounding with a rough pride. “In the old way. A woman takes wine from her betrothed’s hand, and she shows her will to the world. There is no vow more binding than that.”
-
-Harold’s face, which had been pale with fear, slowly changed. He looked at Beatrice, then at Godfrey, and a tightness in his chest left him painlessly.
-
-Henry clapped Godfrey on the shoulder in his excitement. “You chose well.”
-
-Then he turned to Harold, his grin still wide. “Well, Harold, I don’t know what they need us for. It seems a decision is made.”
-
-Harold let out a long breath—not quite a laugh, but his eyes smiled. “So it seems.”
-ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
+She stepped out into the fading twilight.
 
 ---
 
 ### Plans for Departure
 
-Queen Matilda turned to Harold. “I am told, Rauthulfr, that your daughter has been worrying about you.”
+Queen Matilda turned to Harold. “It has reached my ear, Rauthulfr, that your welfare is of prime concern to your daughter.”
 
-Harold Red-Wolf looked straight ahead of him, sitting like a king on an uncomfortable throne. “For sooth?”
+Harold Red-Wolf gazed straight ahead, at nothing in particular, sitting like a king on an uncomfortable throne. “For sooth?”
 
-“Yes, Godfrey mentioned it,” she continued. “He is a quiet boy, but he has a way of noticing things.” 
+“Though Godfrey speaks little, he observes much, including its weight upon her. Accordingly, I have made two provisions.”
 
-She looked at her husband briefly. “I have a man in mind. A reeve from one of my own manors, good with accounts, steady. He can see to the hall while your daughter is away. And a cook, if you wish. I am told your wife’s sister might suit, else I have a dozen more.”
+Harold nodded, “Your Grace.”
+
+The Queen looked to her husband briefly in silent exchange. “I have a man in mind to strengthen your hand in this place. A reeve from one of my own manors, good with accounts, steady. Quite capable to assist you manage the hall. And a cook, if you wish. I am told your wife’s sister might suit, else I have a dozen more.”
+
+Harold nodded, “Many thanks, your Grace.”
+
+”Your daughter shall attend Westminster Palace for a time. She shall observe the court’s function at first hand and enter into life there. Godfrey is charged with her escort on the road.”
+
+Beatrice’s face held many secrets, but she simply nodded. “Yes, my lady.”
 
 Harold was silent for a moment. Then he said, quietly, “You are most kind, your Grace.”
 
 “I am most practical,” Matilda said. “A king’s daughter-in-law should not be distracted by worry. It is bad for the complexion.”
 
-The King turned to Harold, ever the 
-
-
-
-
-
-He reached for his wine, then set it down again. “One more thing. Stanwey will be hers. Godfrey will hold it in her name, as her steward, not as its lord. That is my gift to you, for the Severn, and for the daughter you have raised.”
-
-Harold’s throat tightened. He nodded, not trusting his voice.
-
-Henry rose and walked to the window. “The forest is a respite I must leave behind. I have accounts to settle in Westminster before the crossing. There are matters in Normandy that require correction. A King’s work is endless.”
+Henry rose and walked to the window. “The forest is a respite I must leave behind soon, a fortnight hence. I have accounts to settle in Westminster before the crossing. There are matters in Normandy that require correction. A King’s work is endless.”
 
 Harold agreed, “as I have heard.”
-
-“Accordingly, I have made provision for your daughter to attend Westminster. She shall observe the court’s function at first hand and be entered into the record there. Godfrey is charged with her escort. You will have your new household here.”
-
-Beatrice’s face held many secrets, but she simply nodded. “Yes, my lord.”
 
 ---
 
@@ -9511,6 +9515,58 @@ He didn’t say more. He didn’t need to.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
+
+
+
+
+TODO
+MOVED FROM CHAPTER 21
+
+ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
+
+## Chapter 21 - The Cup (Revised -- rename)
+
+Henry listened gravely, patiently. “And what would you have me do, young wolf? Do you wish to reject my son?”
+
+Beatrice shook her head. She looked at him intently, and there was no mocking in his voice. He was in many ways very like Godfrey.
+
+“I wish to—” Her voice faltered. Her throat was dry. She turned, almost without thinking. “Godfrey, would you pass me a drink.”
+
+For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed and offered it, waiting deliberately. Their fingers did not touch, but their eyes met and lit up. *Will you?*
+
+She accepted the cup, nodding solemly, its cold silver weight a sudden, heavy reality against her warm toil-worn skin.
+
+Beatrice stood still against the firelight, a fixed point in a changing world. The people seemed to retreat into the shadows as she raised the cup high, towards the rafters and beyond, offering a silent libation to a Heaven that felt very far away.
+
+Yet, courage came and she brought the rim to her lips, gulping the wine down in a determined rush, a frantic breath burning the back of her throat. She lowered the vessel, the silver ringing softly as it met her hand, her gaze clean and clear as it met the King’s eyes.
+
+“This is my answer, sire,” she gasped, for it stung.
+
+The hall was silent. Henry stared at her for a long moment. Then his face broke into a grin—a real grin of enjoyment, swift and warm.
+
+“She takes the cup,” he said softly, almost to himself. Then, louder: “Do you mean what you have just done, child?”
+
+Beatrice felt her cheeks burn. “I have answered your question, my lord.”
+
+Godfrey retrieved the empty silver cup. “By my hand, Father.”
+
+Henry caught the sudden, incandescent grin splitting his son’s face. He shook his head with a wry, appreciative smile.
+
+“She has sealed a betrothal,” the King said, his voice resounding with a rough pride. “In the old way. A woman takes wine from her betrothed’s hand, and she shows her will to the world. There is no vow more binding than that.”
+
+Harold’s face, which had been pale with fear, slowly changed. He looked at Beatrice, then at Godfrey, and a tightness in his chest left him painlessly.
+
+Henry clapped Godfrey on the shoulder in his excitement. “You chose well.”
+
+Then he turned to Harold, his grin still wide. “Well, Harold, I don’t know what they need us for. It seems a decision is made.”
+
+Harold let out a long breath—not quite a laugh, but his eyes smiled. “So it seems.”
+ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
+
+---
+
+
+
 ---
 
 > PART TEN - WEDDING
@@ -10552,6 +10608,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **scutage** (Money paid to a King instead of performing military service)
 - **shawm** (A piercing, double-reed woodwind used for loud, outdoor signals or noisy indoor feasts)
 - **siege tower** (A tall wooden tower on wheels for attacking walls)
+- **sparver** (A tent-like canopy that hung from a single hook in the ceiling and draped down around the bed.)
 - **sumpter** (A packhorse for carrying baggage)
 - **surcoat** (A garment worn over armor)
 - **symphonia** (A hurdy-gurdy instrument; a wooden box with crank-turned wheel that rubs against strings to produce a continuous, bagpipe-like drone and a sharp melody)
