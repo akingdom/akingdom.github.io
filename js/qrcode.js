@@ -1,5 +1,5 @@
 // qrcode.js
-// version 1.0.0
+// version 1.0.1
 //
 /**
  * @fileoverview
@@ -205,15 +205,38 @@ var QRCode;
 			svg.appendChild(makeSVG("rect", {"fill": _htOption.colorLight, "width": "100%", "height": "100%"}));
 			svg.appendChild(makeSVG("rect", {"fill": _htOption.colorDark, "width": "1", "height": "1", "id": "template"}));
 
-			for (var row = 0; row < nCount; row++) {
-				for (var col = 0; col < nCount; col++) {
-					if (oQRCode.isDark(row, col)) {
-						var child = makeSVG("use", {"x": String(row), "y": String(col)});
-						child.setAttributeNS("http://www.w3.org/1999/xlink", "href", "#template")
-						svg.appendChild(child);
-					}
-				}
-			}
+			if (_htOption.render === "path") {
+
+        // 1.0.1
+        var d = "";
+      
+        for (var row = 0; row < nCount; row++) {
+          for (var col = 0; col < nCount; col++) {
+            if (oQRCode.isDark(row, col)) {
+              d += "M" + col + " " + row + "h1v1h-1z ";
+            }
+          }
+        }
+      
+        svg.appendChild(makeSVG("path", {
+          "fill": _htOption.colorDark,
+          "d": d
+        }));
+      
+      } else {
+      
+        for (var row = 0; row < nCount; row++) {
+          for (var col = 0; col < nCount; col++) {
+            if (oQRCode.isDark(row, col)) {
+              var child = makeSVG("use", {"x": String(row), "y": String(col)});
+              child.setAttributeNS("http://www.w3.org/1999/xlink", "href", "#template");
+              svg.appendChild(child);
+            }
+          }
+        }
+      
+      }
+			
 		};
 		Drawing.prototype.clear = function () {
 			while (this._el.hasChildNodes())
@@ -559,17 +582,19 @@ var QRCode;
 		}
 		
 		if (typeof el == "string") {
-			el = document.getElementById(el);
-		}
-
-		if (this._htOption.useSVG) {
-			Drawing = svgDrawer;
-		}
-		
-		this._android = _getAndroid();
-		this._el = el;
-		this._oQRCode = null;
-		this._oDrawing = new Drawing(this._el, this._htOption);
+      el = document.getElementById(el);
+    }
+    
+		// 1.0.1
+    var DrawingClass = Drawing;
+    if (this._htOption.render === "svg" || this._htOption.useSVG) {
+      DrawingClass = svgDrawer;
+    }
+    
+    this._android = _getAndroid();
+    this._el = el;
+    this._oQRCode = null;
+    this._oDrawing = new DrawingClass(this._el, this._htOption);
 		
 		if (this._htOption.text) {
 			this.makeCode(this._htOption.text);	
@@ -585,6 +610,7 @@ var QRCode;
 		this._oQRCode = new QRCodeModel(_getTypeNumber(sText, this._htOption.correctLevel), this._htOption.correctLevel);
 		this._oQRCode.addData(sText);
 		this._oQRCode.make();
+		this._matrix = this._oQRCode; // 1.0.1 expose internal model
 		this._el.title = sText;
 		this._oDrawing.draw(this._oQRCode);			
 		this.makeImage();
