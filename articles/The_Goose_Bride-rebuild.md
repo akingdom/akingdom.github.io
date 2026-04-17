@@ -10,7 +10,7 @@ A boot in my path => He had not forgotten the insult.
 The Queen’s eyes on the door => Managing the unmanageable
 “The next girl through the doors” => Not me
 The Red-Wolf honoured => Not like them
-Goosie in the coal hamper => They knew about the goose
+Parting of ways => They knew about the goose
 The silence after the cart => The silence on Stanwey Lane
 
 ...
@@ -1499,11 +1499,6 @@ She rose, moving away, but her smile lingered. "I learned from the best."
 ---
 
 ## Chapter 13 — The dust of Rockingham on my shoes
-## Chapter 13 – The Road Home (Final)
-
-*[Note: Chapter title may be updated later to “The dust of Rockingham on my shoes” or similar. This is the complete drop‑in replacement for the chapter.]*
-
----
 
 Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps. She gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket, and the evening air cool on her face.
 
@@ -1523,7 +1518,7 @@ Then came the rhythmic clump‑clump of a bullock team, the cart behind them gro
 
 ---
 
-### The Way Home
+### The carter’s wife and the creaking axles
 
 It came up behind her, the squeaking wheels of a low‑slung bullock‑wain. The wooden frame groaned under the weight of two pairs of oxen. The carter set the pace with his long ox‑pole tapping a slow *clack* *clack* *clack* on the heavy carved yokes around their neck. Seated beside him on a makeshift bench—a thick‑sawn plank—was a woman and a child bundled in her lap. On the tailboard were perched two girls, their legs swinging in a rhythmic blur, bare feet caked with the grey dust of the Rockingham road.
 
@@ -1547,7 +1542,7 @@ The man hummed a country ditty under his breath. The girls whispered to each oth
 
 ---
 
-### News from the gate
+### “He said anyone could marry his son.”
 
 Partway down the winding hillside, the woman half‑turned to Beatrice. “What brought you so far?”
 
@@ -1569,7 +1564,7 @@ Beatrice felt a chill pass through her, as if the sun had slipped behind a cloud
 
 “Mother, you’re mixing it up!” The oldest girl raised her voice, kicking grey dust from the tailboard. “It was about the King’s son, not the bird. The bird was just the pledge. That’s why a Saxon girl has to wed the King’s own blood before the moon turns.”
 
-Beatrice blinked. The words came to her as if from a great depth, and she could not make sense of them.
+Beatrice blinked. The words came to her as if from a great distance, and she could not make sense of them.
 
 The man snorted, tapping the lead bullock to straighten up. “Blood? Illegitimate, more like. The King’s got more than a dozen by all accounts.”
 
@@ -1615,7 +1610,7 @@ She clutched the thought like a rope. *If it was me, they would have said. The q
 
 ---
 
-### Not me
+### Her laugh came out too loud
 
 Beatrice’s shaking fingers had turned white from clutching the wicker of the basket to her chest, her eyes staring back up at the castle. 
 
@@ -1645,7 +1640,7 @@ She pressed her forehead against the rough wood, letting the vibration of the ca
 
 ---
 
-### Why Me
+### The guards passed me by
 
 The cart rumbled slowly on, the bullocks flicking their ears and tails at the flies.
 
@@ -1671,7 +1666,7 @@ But Beatrice was no longer listening. Her hands were cold, her eyes shut, her he
 
 ---
 
-### Parting of ways
+### They knew, after all
 
 Voices woke Beatrice from a strange dream. John had pulled up at the fork. “This is where we turn, Miss.”
 
@@ -1685,7 +1680,7 @@ She set her face towards home and the ones that she loved.
 
 ---
 
-### Stanwey Lane
+### Silence on Stanwey Lane
 
 The lane was narrow, rutted, the trees close on either side. The silence after the cart’s noise was almost deafening. She could hear her own breathing, the rustle of Goosie in the basket, the crunch of her shoes on the stones.
 
@@ -1701,11 +1696,9 @@ Beatrice tried to remember the crowded hall, horrid Sir Guy, the young man by th
 
 *She was imagining it all. It was some other girl.*
 
-Did he know? Did it matter if it was him? Why didn’t he say anything? He must have known! And he let me walk out the door?*
-
 ---
 
-### Company
+### “I have charcoal on my nose”
 
 Beatrice was so lost in thought that she did not hear the horse until it was nearly upon her.
 
@@ -1787,13 +1780,13 @@ The ice broke.
 
 Godfrey’s step faltered. He almost tripped. He was quiet for a long breath. 
 
-“He swore it,” Godfrey nodded. “Before the court. The next woman through the doors.”
+“The King swore it,” Godfrey nodded. “Before the court. The next woman through the doors.”
 
 “And you knew.”
 
-The words landed. They did not hang. They hit.
+Her words landed. They did not hang. They hit. They atonished.
 
-Stunned, Godfrey stared at her. His mouth opened.
+Godfrey stared at her. His mouth opened.
 
 *I was there. I heard him. I knew.*
 
@@ -1838,8 +1831,8 @@ He paused and she looked at him. Not with pity. Not with love. But with somethin
 A long heavy silence hung in the air.
 
 ---
-TODO> REAPLACING TITLES
-### Soldiers
+
+### “He will have the fireplace warm”
 
 Two riders appeared from around the bend—the same two guards from before. They pulled up hard, horses blowing. The older one scanned the lane, saw Godfrey, saw Beatrice beside him, saw the basket. His face flickered: surprise, then relief, then a quick glance at his companion.
 
@@ -1877,7 +1870,7 @@ They rode back toward the castle.
 
 ---
 
-### Some heavy thoughts
+### Who will care for him?
 
 The shady lane was quiet.
 
@@ -1903,7 +1896,7 @@ For her father, for Stanwey, for the life she had built and the life that was be
 
 ---
 
-### Feeling Empty
+### Unable to speak
 
 She did not know how long she knelt there. The ground was cold through her skirt, the basket tipped on its side beside her, Goosie’s worried honks a distant sound.
 
@@ -1915,7 +1908,7 @@ He was not looking at her. He was looking at the ground, at the trees, at anythi
 
 ---
 
-### What manner of man is this
+### He gave me room to weep
 
 When she rose, unsteadily, he walked toward her, but stopped a few feet away, his caution less about her tears and more about whether she would turn him away.
 
@@ -1949,7 +1942,7 @@ She stared. He was not promising her a palace or a crown. He was promising her w
 
 ---
 
-### Being seen
+### “You looked at me anyway”
 
 “Earlier,” she asked, her voice raw. “Why did you say you were grateful? That I looked at you like a person.”
 
@@ -1988,14 +1981,7 @@ She went inside, carrying the basket.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-ƒƒƒƒƒƒƒƒ
-## Chapter 14 – Tales to Tell (Complete Drop-in Replacement)
-
-Replace your entire existing Chapter 14 with the text below. This version includes the **new long passage** (Harold’s riddle and Godfrey’s full answer) integrated seamlessly, with all surrounding content preserved.
-
----
-
-**Chapter 14 – Tales to Tell**
+**Chapter 14 – The door closed, the fire crackled**
 
 The door closed behind her with a dull thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
 
@@ -2013,7 +1999,7 @@ Harold looked at his daughter’s face—the tear tracks, the swollen eyes, the 
 
 ---
 
-### News for Father
+### “I want to be the one who chooses”
 
 Beatrice shook her head for her father’s benefit. “Nothing happened.” She pressed her lips together, unable to cry again. Her hands were still shaking. “I am well. The goose is well.”
 
@@ -2081,7 +2067,7 @@ She opened the door and stepped out into the fading light.
 
 ---
 
-### Goosie’s opinion matters
+### Hello again, little one
 
 Godfrey was still outside, waiting at the tree line.
 
@@ -2113,7 +2099,7 @@ Godfrey walked toward the door and Goosie led the way inside.
 
 ---
 
-### A Riddle-Tale for a Bride
+### The Riddle
 
 The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
 
@@ -2171,29 +2157,27 @@ The masks were right there, ready to be worn, and for a terrifying second, he di
 
 ---
 
-### A Pledge
-
-*Which mask is true?* Neither. Both were lies. His father had sworn a vow to let God decide – could there be a third way, neither grasping nor grovelling? A risk.
+### Harold looked dissatisfied
+
+*Which mask is true?* Neither. Both were lies. His father had sworn a vow to let God decide, so could there be a third way, neither grasping nor grovelling? A risk.
 
 He let the silence stretch, then spoke.
 
-“I would say that Stanwey is hers. I do not come to take it.”
+“I could say that Stanwey is hers and I do not come to take it.”
 
 Harold looked dissatisfied. “Is that all?”
 
 “No. I would be lying if I said I did not want it – not for myself alone, but for us. A place to build a life. A home. I have never had one.”
 
-He paused, letting his thoughts flow freely.
+His words poured out like water.
 
-“If she will have me, I would be accountable to hold Stanwey in her name, answer to the king for its service, see to the accounts and the fields. She would run the household, tend the sick, raise our children – as her mother did.” He took a deep breath. “I think this is the work of a husband and wife: each doing what must be done, not because of who we are, but because of what needs doing. In other words, I would not command her in her domain, nor she me in mine. But in great matters – the fate of the manor, the marriage of our children, the defence of our people – we would speak as one, and neither would overrule the other.”
+“I have read in my studies that the King of Heaven did not seize his throne. He asked a girl for her consent, and waited for her yes. He washed the feet of his friends. He said that whoever wants to be great must be the servant of all. I am not that King. But if I am serve him, and if I am to be a husband, I will be that kind of husband – or none at all.”
 
-He met Harold’s eyes.
-
-“I have read that the King of Heaven did not seize his throne. He asked a girl for her consent, and waited for her yes. He washed the feet of his friends. He said that whoever wants to be great must be the servant of all. I am not that King. But if I am his servant, and if I am to be a husband, I will be that kind of husband – or none at all.”
-
-His voice dropped. “I don't know if that's the answer, as I am not married, but it is what I know. If she will not have me, I go back to my father and tell him I offered what I could – my name, my work, my loyalty – and it was not enough. But I would not give or take what is not mine.”
+His voice dropped. “I don't know if that's the answer, as I am not married, but it is what I know. If she will not have me, I go back to my father and tell him I offered what I could – my name, my work, my loyalty – and it was not enough. But I will not give or take what is not mine.”
 
 ---
+
+### When she is ready
 
 Harold’s expression did not change, but something behind it shifted. He looked at Beatrice.
 
@@ -2202,12 +2186,12 @@ Harold’s expression did not change, but something behind it shifted. He looked
 She felt both their eyes on her. Her father’s eyes were weary but clear. Godfrey’s eyes were steady, asking nothing.
 
 She thought of the cart, the gossip, the soldiers who had passed her by. She thought of the young man who had walked beside her, who had given her space to weep, who had promised nothing but what he could give.
-
-“I say,” she said, her voice steady despite her shaking hands, “that I will not be taken. But I will go. If he will have me.”
 
-Harold looked at her—really looked—and for a moment she saw the man who had pulled a lord from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
+“I say,” she said, her voice steady despite her shaking hands, “that I am not some stray to be collected. But let him court me – if he will have me and God agree.”
 
-He turned back to Godfrey.
+For a moment Harold was the man who had pulled a lord from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
+
+He turned to Godfrey.
 
 “You have my permission to court her. Not to take her, but to court her, to learn her ways, her people, her land. And when she is ready—if she is ready—you may come back and ask again.”
 
@@ -2217,7 +2201,7 @@ Harold leaned back in his chair, the tension leaving his shoulders. “Then sit.
 
 ---
 
-### Harold asks after the King
+### “She looked at me”
 
 Beatrice crossed to the stool beside her father’s chair. Godfrey took the one opposite, his horse forgotten outside, his court clothes dusty from the road.
 
@@ -2261,12 +2245,6 @@ She smiled, and went out to fetch the wood.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
----
-
-**End of Chapter 14**
-ƒƒƒ
-
-![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
 ---
@@ -2276,7 +2254,7 @@ She smiled, and went out to fetch the wood.
 ---
 
 ## Chapter 15 – The Courtship
-
+ TODO> renaming headings
 In the weeks that followed, Godfrey became a familiar sight at Stanwey. He came when he could—a day here, an afternoon there—always on horseback, always alone. He did not announce himself; he simply appeared and waited until a servant noticed him.
 
 At first, Beatrice felt very strange and did not quite know what to do with him. He was not like the other men her father had brought before her. He did not boast of his lands or press gifts upon her. He asked to be shown the manor, and when she showed him, he listened. He asked about the crops, the tenants, the forest boundaries. He asked about her father’s health, and when she told him, he nodded and said nothing more. A king’s son?
