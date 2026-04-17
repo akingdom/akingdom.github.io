@@ -134,7 +134,7 @@ It was a witless saying from the Norman harrowing of England. Yet, the wise-wive
 
 ---
 
-## Chapter 1 — A Goose of My Own
+## Chapter 1 — The geese know a stranger’s fear
 
 Beatrice bounded across the meadow, crying, her legs driven forward by a flock of geese, gander leading the charge, hissing at the intruder, neck low, wings half-spread, leading the furious chase.
 
@@ -166,7 +166,7 @@ She turned back to thank the boy, but he had vanished.
 
 ---
 
-### A promise made
+### My mother’s hand on my head
 
 Her mother scooped her up, laughing. "Did you find the geese?"
 
@@ -181,7 +181,7 @@ Her mother smiled—a warm, tired smile. "We'll raise one together. I'll teach y
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 2 — The Farm by the River
+## Chapter 2 — A speckled egg warm in the straw
 
 Three days later, mother took Beatrice’s hand and walked her down the lane toward the river.
 
@@ -228,7 +228,7 @@ Beatrice walked home holding the basket, barely breathing, as if the smallest mo
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 3 — The Vigil
+## Chapter 3 — Fourteen nights of listening
 
 For two weeks, Beatrice watched.
 
@@ -277,7 +277,7 @@ She named her Goosie.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 4 — Mother Lessons
+## Chapter 4 — The weight of a fever you cannot break
 
 The years that followed were full of geese and growing. Her mother taught her everything—not in lessons, but in the doing of things.
 
@@ -295,7 +295,7 @@ Then her mother grew tired. Then pale. Then thin.
 
 ---
 
-### Apple Blossoms
+### Her fingers on the petals
 
 It was a slow fading, like the light at the end of a long day. Some mornings her mother seemed almost herself—sitting up, asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow.
 
@@ -319,7 +319,7 @@ Beatrice rarely knew how to respond. She would hold Goosie close, and the goose 
 
 ---
 
-### Falling petals
+### The shout that tore the village
 
 The end came on a morning exactly like that—warm, soft, the apple trees heavy with pink and white.
 
@@ -345,7 +345,7 @@ She lifted Goosie—who had followed, always—and held her so that the goose’
 
 ---
 
-### Everything is wrong
+### The geese knew her, but she was gone
 
 At the burial, Harold stood like a man made of stone. His hands were on Beatrice’s shoulders—heavy, warm, the only warm thing—but he didn’t speak. Didn’t move. Just watched as they lowered the plain wooden box into the rich earth.
 
@@ -363,7 +363,7 @@ The geese knew her now, who she was. That was something, at least. She wondered 
 
 ---
 
-### The weight of memory
+### The hall without her voice
 
 She wandered about aimlessly, eventually finding herself back home, stopping at the edge of the clearing.
 
@@ -383,7 +383,7 @@ She led him inside. Goosie followed.
 
 ---
 
-### Caring for father
+### A blanket and a cold hand
 
 That night, Beatrice built up the fire and sat with him until the logs burned down to ash. He did not speak. Neither did she. When the room grew too dark to see, she touched his arm and guided him toward the sleeping chamber.
 
@@ -405,7 +405,7 @@ She lay awake a long time, listening. The house was too quiet. No soft breathing
 
 ---
 
-### Rest and healing
+### The sword above the hearth
 
 In the morning, she found him still in the chair, his cloak pulled tight, the staghound curled at his feet.
 
@@ -425,7 +425,7 @@ Beatrice closed the door and left him to it. Late that night she heard him sobbi
 
 ---
 
-### Busy every day
+### Goosie follows, always
 
 In the morning, her father looked refreshed, but frail.
 
@@ -440,7 +440,7 @@ And Goosie followed her. Always.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 5 – The Measure of a Man
+## Chapter 5 – The Reeve’s daughter burns with fever
 
 It was a still evening in the hall at *Stanwey*. The sun cast long, amber shadows across the rich fallow strips of the fertile river valley, cut deep with an iron tipped plough, and a clamour of rooks circled the wood’s edge, their harsh *kaah-kaah* fading as they settled into the high branches. The smoke from the village fires drifted upward, thin and grey, like a long-held breath finally released.
 
@@ -474,7 +474,7 @@ The quiet was broken as the Reeve appeared at the manor door, apologetic, wringi
 
 ---
 
-### A life in the balance
+### Yarrow, elderflower, and a trembling prayer
 
 At the Reeve’s cottage, he was sent outdoors by his wife. "Illness respects no one, husband, and you'll only be in our way, head of the village or not," she said as Beatrice examined the youngest daughter. The girl had sickened with a fever that refused to break. Beatrice remembered her mother’s hands, the way they could find the pulse in a wrist, the way they knew which herbs to steep and which to burn. She knelt beside the girl’s pallet with a cup of brewed yarrow, elderflower and mint tea and said a prayer she had learned from the old nurse at the river-bend farm.
 
@@ -484,7 +484,7 @@ The girl lived. Afterward, the Reeve’s wife called her “the Lady of Stanwey�
 
 ---
 
-### Growing
+### My father’s eyes teaching me to see
 
 That was the year she began to understand—about her father becoming older—the things he refused to say about himself. He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak to her of various neighbours.
 
@@ -492,7 +492,7 @@ He would venture down to the village, his breath coming shorter with every step 
 
 ---
 
-### A man
+### “Not for Stanwey”
 
 “The thegn of Thornbury was speaking to me of his son,” he said to her one evening, stirring the coals. “I met the boy—Edmund (Harold said it as *‘Ædmond’*). He saw you at the autumn fair.”
 
@@ -530,7 +530,7 @@ But she saw the way he looked at the sword above the hearth—the blade he had c
 
 ---
 
-### Sir Guy – A proud man
+### The land snatcher
 
 The real trouble began when Sir Guy de Montfort (knight) came to Stanwey followed by a procession of servants trailing after him.
 
@@ -576,7 +576,7 @@ Beatrice turned to face him. “I shall marry when I must. But not to a man who 
 
 ---
 
-### Sir Guy’s secret
+### The horse bolts, the truth spills
 
 She confirmed the truth three days later.
 
@@ -600,7 +600,7 @@ She guided Beatrice back into the shadows of the cottage, toward the low roar of
 
 ---
 
-### Not for Stanwey
+### “No, not even the King of England”
 
 When Beatrice returned home, she told Harold everything.
 
@@ -623,7 +623,7 @@ She took his hand. “And your daughter, father, but as for that man, not for St
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 6 — Galloping Hooves
+## Chapter 6 — The King’s messenger does not dismount
 
 One autumn morning, the rhythm of the village was broken by the thunder of hooves.
 
@@ -637,7 +637,7 @@ Goosie honked.
 
 ---
 
-### My kingdom for a goose
+### Every coop is empty
 
 The messenger rode away, leaving Beatrice in the doorway, feeling unwell, Goosie nesting warmly in her arms. She looked at her father; Harold looked back, his eyes hollow. They both knew, as surely as the sun set over the Wrekin, that they had nothing suitable for the King except the unthinkable.
 
@@ -697,7 +697,7 @@ She sat there, head spinning. She might have prayed, or she might have simply dr
 
 ---
 
-### A Goose’s Trouble
+### The river took the weak
 
 Beatrice walked home in the fading light.
 
@@ -719,7 +719,7 @@ He didn't say *your mother’s goose*. He didn't need to.
 
 ---
 
-### A reckoning and a plan
+### Only God or the King
 
 Harold sighed from his chair by the fire. "It must be done, daughter."
 
@@ -780,7 +780,7 @@ Then the road took her, toward a king who had no idea she was coming.
 
 ---
 
-## Chapter 7 — The King’s Frustration
+## Chapter 7 — The oak doors crashed, and the music died
 
 The great oak doors of Rockingham’s hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation and music died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
 
@@ -864,7 +864,7 @@ He stepped back into the shadows. The hall slowly resumed its murmur. But the qu
 
 
 
-## Chapter 8 — The Ledger and the Lion
+## Chapter 8 — *Coram Rege* — Burning the Table
 
 Roger’s question still burned in the King’s chest: *What do you mean to do for him?*
 
@@ -937,7 +937,7 @@ Henry reached for his wine, oblivious to the cage he had just built—its door s
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 9 - Sir Guy’s Spite
+## Chapter 9 - He had not forgotten the insult
 
 Beatrice reached the hunting lodge by midday.
 
@@ -946,8 +946,6 @@ The place swarmed with soldiers and servants.
 The hall was still nursing the King’s mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary of its hot steam. 
 
 As Beatrice entered, carrying the handmade basket and dusty from the journey, Sir Guy recognised her as he lounged near the doorway. He was the young Norman knight, who had tried to court her.
-
-### **Sir Guy de Montfort.**
 
 Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at Laxton parish church, across the valley). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the "civilising" hand his family had brought to the inferior Midlands.
 
@@ -970,7 +968,7 @@ The basket flew open.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 10 - The Goose Hunt
+## Chapter 10 - Goosie on the King’s table
 
 Goosie exploded from the basket in a fury of wings.
 
@@ -1031,7 +1029,7 @@ The king laughed.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 11 - The Red‑Wolf Honoured
+## Chapter 11 - Not like them
 
 The King leaned forward, studying her with amused wonder.
 
@@ -1098,7 +1096,7 @@ The moment passed. Standing in the large doorway to the hall, she turned and imp
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 12 — A Matter of Diplomacy
+## Chapter 12 — Managing the unmanageable
 
 Beatrice curtsied and went. The heavy doors closed behind her.
 
@@ -1176,7 +1174,7 @@ A real smile now. "You always do."
 
 ---
 
-### Summoned and sent
+### My son, they said
 
 The King looked toward his sons, for there were several present about the hall. His gaze found Godfrey, half-hidden in the shadows near a pillar.
 
@@ -1210,7 +1208,7 @@ He went out into the dusk.
 
 ---
 
-### A royal decree
+### The goose came first
 
 The hall fell quiet again. Henry reached for his wine.
 
@@ -1265,7 +1263,12 @@ She rose, moving away, but her smile lingered. "I learned from the best."
 
 ---
 
-## Chapter 13 — The Road Home
+## Chapter 13 — The dust of Rockingham on my shoes
+## Chapter 13 – The Road Home (Final)
+
+*[Note: Chapter title may be updated later to “The dust of Rockingham on my shoes” or similar. This is the complete drop‑in replacement for the chapter.]*
+
+---
 
 Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps. She gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket, and the evening air cool on her face.
 
@@ -1281,17 +1284,17 @@ The road was quiet at first. She made good time, the basket bumping against her 
 
 She worked a pebble out of her shoe, retied the laces, and sat a little longer than she meant to, resting her aching feet, watching the sun slant through the oaks. The air was cool, the road empty, apart from an old woman carrying a big bundle of sticks on her back. Beatrice was beginning to feel safe.
 
-Then came the rhythmic clump-clump of a bullock team, the cart behind them groaning with every turn of a dry, wooden wheel.
+Then came the rhythmic clump‑clump of a bullock team, the cart behind them groaning with every turn of a dry, wooden wheel.
 
 ---
 
 ### The Way Home
 
-It came up behind her, the squeaking wheels of a low-slung bullock-wain. The wooden frame groaned under the weight of two pairs of oxen. The carter set the pace with his long ox-pole tapping a slow *clack* *clack* *clack* on the heavy carved yokes around their neck. Seated beside him on a makeshift bench—a thick-sawn plank—was a woman and a child bundled in her lap. On the tailboard were perched two girls, their legs swinging in a rhythmic blur, bare feet caked with the grey dust of the Rockingham road.
+It came up behind her, the squeaking wheels of a low‑slung bullock‑wain. The wooden frame groaned under the weight of two pairs of oxen. The carter set the pace with his long ox‑pole tapping a slow *clack* *clack* *clack* on the heavy carved yokes around their neck. Seated beside him on a makeshift bench—a thick‑sawn plank—was a woman and a child bundled in her lap. On the tailboard were perched two girls, their legs swinging in a rhythmic blur, bare feet caked with the grey dust of the Rockingham road.
 
 The family seemed to be on the way home after a morning delivering goods, glad to be leaving the castle.
 
-The man pulled up. Beatrice scented the sour‑tallow from the creaking axels.
+The man pulled up. Beatrice scented the sour‑tallow from the creaking axles.
 
 “Far to go?”
 
@@ -1301,7 +1304,7 @@ The man pulled up. Beatrice scented the sour‑tallow from the creaking axels.
 
 Beatrice’s feet throbbed. “Oh, I’d be really grateful—many thanks.”
 
-She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a water-skin. Beatrice drank, thanked her, and rested her old wicker basket atop her legs. Its lid was now firmly pegged down, and there was nothing to suggest its precious gift inside.
+She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a water‑skin. Beatrice drank, thanked her, and rested her old wicker basket atop her legs. Its lid was now firmly pegged down, and there was nothing to suggest its precious gift inside.
 
 The wain lurched forward. The iron‑shod wheels bit into the white limestone ruts of the zigzag scarp with a jarring, metallic crunch. On the steep descent, the heavy frame kicked up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way back and forth down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
 
@@ -1383,7 +1386,7 @@ Beatrice’s shaking fingers had turned white from clutching the wicker of the b
 
 The mother’s voice broke through. “The girl got to take her bird home. Walked right out of the hall with it under her arm.”
 
-Beatrice heard herself laugh. It came out loud, too loud, like the caw of a rook startled from a branch. “A girl keeping her bird! Imagine such a thing.” *Stop talking.* But her mouth wouldn't.
+Beatrice heard herself laugh. It came out loud, too loud, like the caw of a rook startled from a branch. “A girl keeping her bird! Imagine such a thing.” *Stop talking.* But her mouth wouldn’t.
 
 The sounds of the wheels grew thin and distant. Her hands were cold. Her legs were weak. It felt as if a great space had opened up between her eyes and the world, until she was staring down at another Beatrice journeying in the cart.
 
@@ -1403,7 +1406,7 @@ The girls giggled.
 
 She could feel the woman’s sharp gaze watching, measuring. Beatrice wriggled herself up against the backboard, behind John’s seat, and shut her eyes. *Not me. Not at Stanwey.*
 
-She pressed her forehead against the rough wood, letting the vibration of the cart rattle through her teeth. She tried to think of nothing, but the rhythm of the wheels sounded like *Stan-wey. Stan-wey.* She watched until Rockingham Castle was swallowed up by the grey quarry-dust of the road, leaving only the steady clack of the ox‑pole and the voice of the wheels calling her home.
+She pressed her forehead against the rough wood, letting the vibration of the cart rattle through her teeth. She tried to think of nothing, but the rhythm of the wheels sounded like *Stan‑wey. Stan‑wey.* She watched until Rockingham Castle was swallowed up by the grey quarry‑dust of the road, leaving only the steady clack of the ox‑pole and the voice of the wheels calling her home.
 
 ---
 
@@ -1429,7 +1432,7 @@ They rode on.
 
 The cart lurched forward. The woman let out a breath. “John, just think, if our daughters were a little older…”
 
-But Beatrice was no longer listening. Her hands were cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. But why didn't anyone tell me earlier? No. Surely not.*
+But Beatrice was no longer listening. Her hands were cold, her eyes shut, her head pounding. *Surely they were looking for me. For me. But why didn’t anyone tell me earlier? No. Surely not.*
 
 ---
 
@@ -1463,7 +1466,7 @@ Beatrice tried to remember the crowded hall, horrid Sir Guy, the young man by th
 
 *She was imagining it all. It was some other girl.*
 
-Did he know? Did it matter if it was him? Why didn't he say anything? He must have known! And he let me walk out the door?*
+Did he know? Did it matter if it was him? Why didn’t he say anything? He must have known! And he let me walk out the door?*
 
 ---
 
@@ -1541,36 +1544,66 @@ A storm of a thousand questions froze at her lips, and she was momentarily at a 
 
 The ice broke. 
 
-“Is it true?” The words came out louder than she intended. “The king’s vow? About a maid walking through his doors?”
-
-Godfrey’s step faltered. He almost tripped. He was quiet for a long breath, then nodded. “He swore it before the whole court. The next woman through the doors.”
-
-“And you knew.” 
-
-It was not an accusation. Her voice was flat, as if she were discussing the price of wool or the coming rain. She stood perfectly still, her knuckles white as she gripped the handle of her basket. 
-
-*And you knew.*
-
-Something in her face made him pause. “Yes,” he said. “I knew. Afterwards.”
-
-He looked down at the road before giving a long sigh.
-
-“You see, everyone was pushing him in turn—his barons, bishops, even the Queen. Everyone had an opinion about what should be done with me.”
-
-A short, frustrated breath. “And my father? He doesn't like being told what to do.”
-
-“He probably meant to shock them, to scatter and dismay them – to shut them up once and for all.”
-
-He stopped, as if realising what he had said. Then, quieter:
-
-“I mean… to end the arguing. To make them stop. You see, I don't think he expected anyone to actually walk in.”
-
-“But I did.”
-
-“Yes, you did.” He looked at her, and there was something in his face that she could not name. “And now we two are... caught, like birds in a cage. *Hello, who approaches?*”
-
 ---
 
+### “And you knew”
+
+“Is it true?” Her voice was too loud. “The king’s vow? About the maid who walked through the doors?”
+
+Godfrey’s step faltered. He almost tripped. He was quiet for a long breath. 
+
+“He swore it,” Godfrey nodded. “Before the court. The next woman through the doors.”
+
+“And you knew.”
+
+The words landed. They did not hang. They hit.
+
+Stunned, Godfrey stared at her. His mouth opened.
+
+*I was there. I heard him. I knew.*
+
+“Yes.” His voice was dry. “I knew. I was in the hall.”
+
+“You let me walk in and out without a word.” Her voice cracked. “The whole hall watched me play the fool. I curtsied. I thanked the Queen for scraps. And you all held your tongues. My father bled for this crown. And you all counted me like wool.”
+
+*I did not speak. That is true. I could have. I did not.*
+
+He felt sick.
+
+“I followed you,” he said, his voice rougher. “I am here now. I am telling you now.”
+
+They stopped and looked at one another. His face was pale. Her face was red, on the verge of tears. He just looked… trapped.
+
+A flicker of something else followed – a smaller, sharper worry. *Does he hate me now? For throwing it in his face? He is a king's son.*
+
+She looked away. Her jaw ached. She gripped the willow handle of her basket until a splinter bled her thumb. She welcomed the pain. It was the only thing that made sense.
+
+*And you – you fool.* The thought came unbidden, aimed at herself. *You thought you could walk into a king’s hall and save a goose. You thought your father’s name was a shield. You were nothing. A piece on the board. And you did not even see the board.*
+
+The shame of it burned hotter than the anger.
+
+“I am sorry.” She swallowed. “I did not mean to lash out. I am angry at the silence, not at you.” She stopped. Her breath came short. “I am angry at myself. For being so blind. For thinking I was clever when I was just… a girl with a goose.”
+
+She looked at him again – a quick, anxious glance. 
+
+He did not move. His breathing quickened; a frown creased his brow. The lane was darkening. An owl called nearby – short and sharp.
+
+“The Queen knew,” Godfrey said. He spoke firmly, facing aside, to his horse’s ears. “She could have stopped you. She did not. She sent you away with gifts instead.” He shook his head. “I think she was shocked at the King’s vow. She did not mean to harm you. She meant to buy time to keep everyone calm.”
+
+He looked down the road with a sudden sigh. “You must remember that my father was under immense pressure from everyone – barons, bishops, even the Queen — and he does not like being pushed. Everyone had a plan for my marriage. So he made that vow.”
+
+He let out a breath that misted in the air. “I am not sure why he did so. Maybe as a way to distract or confuse them; I truly do not know. I do not think he expected anyone to actually walk in.”
+
+He paused and she looked at him. Not with pity. Not with love. But with something quieter – a dawning recognition that he was no more free than she was.
+
+“But I did walk in.”
+
+“But you did.” 
+
+A long heavy silence hung in the air.
+
+---
+TODO> REAPLACING TITLES
 ### Soldiers
 
 Two riders appeared from around the bend—the same two guards from before. They pulled up hard, horses blowing. The older one scanned the lane, saw Godfrey, saw Beatrice beside him, saw the basket. His face flickered: surprise, then relief, then a quick glance at his companion.
@@ -1631,7 +1664,7 @@ Her lips pressed firmly shut. She willed herself to be still. But when she saw G
 
 She turned away. Her chest shuddered and a cry welled up from deep inside her being, undignified, big ugly tears that had no business stinging her cheeks, dropping hotly onto her tunic as the world caved in as the tempest hit her.
 
-For her father, for Stanwey, for the life she had built and the life that was being taken from her without her consent; every sob a hammer-blow against her ribs, dropping her to her knees, falling into deep misery.
+For her father, for Stanwey, for the life she had built and the life that was being taken from her without her consent; every sob a hammer‑blow against her ribs, dropping her to her knees, falling into deep misery.
 
 ---
 
@@ -1663,7 +1696,7 @@ It did not come.
 
 “No.” His voice was quiet.
 
-She saw him waiting—the same expression she had seen in the hall—but it wasn't uncertainty. It was like he was letting the stormburst of her grief drench him, taking it in without flinching, without judging, without trying to stop it. He did not speak at once.
+She saw him waiting—the same expression she had seen in the hall—but it wasn’t uncertainty. It was like he was letting the stormburst of her grief drench him, taking it in without flinching, without judging, without trying to stop it. He did not speak at once.
 
 Instead, he looked at her—not at her tears, not at the hot mess she had become, but *at her*. As if he was trying to see past the raw edges to what lay underneath, her real self.
 
@@ -9981,7 +10014,7 @@ And so it did.
 
 ---
 
-## Epilogue — The Years After
+## Epilogue — The land remembers us, and we remember the land
 
 *The years that followed brought both joy and sorrow, as all years do.*
 
