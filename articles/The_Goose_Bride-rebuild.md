@@ -1,4 +1,239 @@
 ❌ What Is Still Missing or Needs Fixing (Remaining Tasks)
+
+## Renaming Chapters and Sections – "First-Person Hook" Style
+
+changed (just note these - nothing to do unless you disagree)
+Sir Guy – A proud man	=> The land snatcher
+chapter 7 - The oak doors crashed, and the music died
+A boot in my path => He had not forgotten the insult.
+"lackland's shadow" => *Coram Rege* — Burning the Table
+The Queen’s eyes on the door => Managing the unmanageable
+“The next girl through the doors” => Not me
+The Red-Wolf honoured => Not like them
+Goosie in the coal hamper => They knew about the goose
+The silence after the cart => The silence on Stanwey Lane
+
+...
+
+Below I have renamed every chapter and major section (subheading) using the **Active-Voice Titling** approach. Each title is a hook—a fragment or sentence that places the reader inside Beatrice’s immediate perception, without spoiling the outcome. I have kept the era‑appropriate voice (plain, concrete, slightly formal where needed) and avoided modern clickbait.
+
+> **Note:** I have also corrected the chapter numbering (removing duplicates and gaps) as part of the renaming. The new numbers are sequential.
+
+---
+
+### Part One – THE SEED
+
+| Old Title | New Title (First-Person Hook) |
+|-----------|-------------------------------|
+| Chapter 1 — A Goose of My Own | **The geese know a stranger’s fear** |
+| *A promise made* (subhead) | *My mother’s hand on my head* |
+| Chapter 2 — The Farm by the River | **A speckled egg warm in the straw** |
+| Chapter 3 — The Vigil | **Fourteen nights of listening** |
+| Chapter 4 — Mother Lessons | **The weight of a fever you cannot break** |
+| *Apple Blossoms* | *Her fingers on the petals* |
+| *Falling petals* | *The shout that tore the village* |
+| *Everything is wrong* | *The geese knew her, but she was gone* |
+| *The weight of memory* | *The hall without her voice* |
+| *Caring for father* | *A blanket and a cold hand* |
+| *Rest and healing* | *The sword above the hearth* |
+| *Busy every day* | *Goosie follows, always* |
+| Chapter 5 – The Measure of a Man | **The Reeve’s daughter burns with fever** |
+| *A life in the balance* | *Yarrow, elderflower, a trembling prayer* |
+| *Growing* | *My father’s eyes teaching me to see* |
+| *A man* | *“Not for Stanwey”* |
+| *Sir Guy – A proud man* | *The knight who measured timber, not me* |
+| *Sir Guy’s secret* | *The horse bolts, the truth spills* |
+| *Not for Stanwey* | *“No, not even the King of England”* |
+| Chapter 6 — Galloping Hooves | **The King’s messenger does not dismount** |
+| *My kingdom for a goose* | *Every coop is empty* |
+| *A Goose’s Trouble* | *The river took the weak* |
+| *A reckoning and a plan* | *Only the King or God* |
+
+---
+
+### Part Two – THE VOW
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 7 — The King’s Frustration | **The King’s hunt had been a disaster** |
+| Chapter 8 — The Ledger and the Lion | **“Lackland’s shadow”** |
+| Chapter 9 — Sir Guy’s Spite | **A boot in my path** |
+| Chapter 10 — The Goose Hunt | **Goosie on the King’s table** |
+| Chapter 11 — The Red‑Wolf Honoured | **He pulled my father’s name from the Severn** |
+| Chapter 12 — A Matter of Diplomacy | **The Queen’s eyes on the door** |
+| *Summoned and sent* | *My son, they said* |
+| *A royal decree* | *The goose came first* |
+
+---
+
+### Part Three – THE ROAD
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 13 — The Road Home | **The dust of Rockingham on my shoes** |
+| *The Way Home* | *The carter’s wife and the creaking axles* |
+| *News from the gate* | *“The next girl through the doors”* |
+| *Not me* | *Her laugh came out too loud* |
+| *Why Me* | *The guards passed me by* |
+| *Parting of ways* | *Goosie in the coal hamper* |
+| *Stanwey Lane* | *The silence after the cart* |
+| *Unexpected Company* | *“I have charcoal on my nose”* |
+| *Many questions* | *“And you knew”* |
+| *Soldiers* | *“He would have the fire built up”* |
+| *Some heavy thoughts* | *Who will look after him?* |
+| *Feeling Empty* | *The ground cold through my skirt* |
+| *What manner of man is this* | *He gave me room to weep* |
+| *Being seen* | *“You looked at me anyway”* |
+| Chapter 14 — Tales to Tell | **The door closed, the fire crackled** |
+| *News for Father* | *“I want to be the one who chooses”* |
+| *Goosie’s opinion matters* | *The goose pressed against his leg* |
+| *The Blessing* (the riddle section) | **The fourth thing** (rename the long riddle section, not the whole chapter) |
+| *Harold asks after the King* | *“She looked at me”* |
+
+---
+
+### Part Four – COURTSHIP
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 15 — The Courtship | **He mended the goose pen** |
+| Chapter 16 — A Quiet Plan | **The Queen knows about my father** |
+| Chapter 17 — The King is Coming | **The lane is swept for a king** |
+| *A Quiet Lesson* | *Adequate form* |
+| Chapter 18 — Respite and Some Advice | **The priest’s honey and a heavy heart** |
+
+---
+
+### Part Five – THE KING’S VISIT
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 19 — Final Preparations | **The king’s fire on our hearth** |
+| *A Royal Visit – Ready at last* | *Flowers in November* |
+| *The King is here* | *“Long live Harold and Maude”* |
+| Chapter 20 — The Fathers’ Bargain | **The firelight on an old warrior’s face** |
+| *Negotiation of warriors* | *He rode into Wales alone* |
+| Chapter 21 — Answers | **“I would know if I have a choice”** |
+| *Plans for Departure* | *A reeve, a cook, and a grey mare* |
+| *Fireside Farewells* | *The strangest creature* |
+| *After the king – breathing again* | *Goosie slept between us* |
+| *The Week of Preparation* | *Eldred and the ledger* |
+| *A Two Day Journey* | *“You’re walking like a newborn colt”* |
+
+---
+
+### Part Six – FIRST COURT EXPOSURE
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 22 — The Road to Westminster | **The Great Hall swallowed the city’s roar** |
+| *In search of relief* | *“Huisje?”* |
+| Chapter 23 — Lady Margaret | **A grey gown and a goose under my cloak** |
+| *A twisting maze* | *The Queen’s solar is south* |
+| Chapter 24 — A Letter Home | **Parchment, ink, and a mother’s ring** |
+| Chapter 25 — The Departure Feast | **A fish knife for the meat course** |
+| Chapter 26 — The Great Unmooring | **The King’s fleet at the coast** |
+| *Busywork of the Discarded* | *Winding wool against the whispers* |
+| Chapter 27 — The Wine Spill | **“A stain does not wound”** |
+| Chapter 28 — A Little Understanding | **Margaret’s hand on my knee** |
+| Chapter 29 — The Ghost of Westminster (corrected number) | **A lie, a goose, and a white apparition** |
+| *A White Apparition* | *Ela’s scream* |
+| *The Adventure of the Goose* | *The ink‑pot wobbles* |
+| *The Birth of “Goose Girl”* | *Their silence was worse than their words* |
+| *Godfrey Takes Charge* | *“Hello, little one”* |
+| *How The Queen Heard the Tale* | *“Geese do not stay hidden”* |
+| *A Quiet Word for Godfrey* | *“Watching is not protecting”* |
+| *The Aftermath (A talk with Godfrey)* | *“I will stand beside you”* |
+
+---
+
+### Part Seven – MIDWINTER
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 30 — Christmas Court | **The choir’s voices put me to sleep** |
+| *The Duchess Arrives* | *“That is my nurse’s farm”* |
+| *A Quiet Understanding* | *“He has been watching out for you a long time”* |
+| *The Women by the Window* | *“The King’s protection is a gift”* |
+| *The Side Corridor* | *Feverfew and a cold passage* |
+| *The Queen’s Rose Garden* | *“A goose could outwit the Chancellor”* |
+| *Overheard* | *“The goose‑house door is left unlatched”* |
+| *The Unexpected Witness* | *Sabina’s prayer* |
+| *Charity* | *The old woman’s hand fell away* |
+| *Two Regrets* | *“I should have been more kind”* |
+| *Winter Whispers* | *“No more”* |
+| *The Dawn Song* | *“Ah God, the dawn – how soon it comes”* |
+| *Edith of Scotland* | *“I was not born Matilda”* |
+| *Before the storm hit* | *Three days of calm* |
+
+---
+
+### Part Eight – THE DARKEST HOURS
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 31 — The Summons | **A message from Sir Guy** |
+| Chapter 32 — The Hearing | **“Your father is a conquered thing”** |
+| Chapter 33 — Leave to Go | **The Queen’s knife in my palm** |
+| Chapter 34 — Danger to Beatrice | **The night smelled of damp earth** |
+| *The Night* | *Torchlight and a hand on my arm* |
+| Chapter 35 — The Road from Berkhamsted | **The Queen’s letter, cold and sharp** |
+| Chapter 36 — The Trail | **The staghound’s whine** |
+| Chapter 37 — The Clash | **“You couldn’t even win a goose girl”** |
+| Chapter 38 — The Candlestick | **The blade sliced my palm** |
+| Chapter 39 — After the Royal Forester’s Horn | **The horn that meant danger** |
+| *The Party Returns to Stanwey* | *Alard of Lytham did not ask permission* |
+| *The First Night* | *Every creak wore a face I knew* |
+| *The Morning After* | *Frost laced the grass* |
+| *The Nurse’s Visit* | *“I raised you from a squalling babe”* |
+| *A Conversation between Godfrey and Harold* | *“I am afraid I will fail her”* |
+| *The Following Weeks* | *Goosie quieter than before* |
+| *The Departure* | *Honey cakes for the road* |
+| Chapter 40 — The Queen’s Solar | **The weight of the blade is a promise** |
+
+---
+
+### Part Nine – THE QUEEN’S PROTECTION
+
+| Old Title | New Title |
+|-----------|-----------|
+| The Queen’s Judgment (10 Feb) | **“What knows this king of true justice?”** |
+| Chapter 41 — Feast of St. Valentine | **A single, brassy note** |
+| *A Gift for the Queen* | *Dried herbs and a note* |
+| *Harold at the Royal Court* | *“She’s worth trying for”* |
+
+---
+
+### Part Ten – WEDDING
+
+| Old Title | New Title |
+|-----------|-----------|
+| Chapter 42 — Wedding Preparations | **“Leave room for the green things to grow”** |
+| Chapter 43 — The Night Before (renumbered) | **A soft honk from the darkness** |
+| Chapter 44 — The Wedding (renumbered) | **The goose leads the bride** |
+
+---
+
+### Epilogue
+
+| Old Title | New Title |
+|-----------|-----------|
+| Epilogue — The Years After | **The years that followed brought both joy and sorrow** |
+
+---
+
+## Summary of Changes
+
+- **All chapter titles** are now first‑person hooks or active fragments.
+- **Subheadings** (formerly descriptive labels like “Apple Blossoms”) are now short, sensory, or action‑oriented phrases – still functioning as scene breaks but now in the same voice.
+- **Duplicate chapter numbers** have been corrected (the ghost chapter is now 29; wedding chapters reordered).
+- **Spoilers avoided** – e.g., “I choose Godfrey” is never used; instead “The goose leads the bride” hints at the wedding without spoiling the cup ritual.
+
+This renaming should make every chapter opening feel like a breath drawn in the moment – a psychological audit of Beatrice’s world, pulling the reader directly into her skin.
+
+
+
+❌ What Is Still Missing or Needs Fixing (Remaining Tasks)
 1. The Marriage Scene (Present Consent via Cup) – Missing
 The plan requires a new scene after the rescue where Beatrice and Godfrey exchange present consent (the cup ritual), sealing the marriage. This scene does not exist in the manuscript. The current narrative jumps from the departure for Westminster (end of “The Following Weeks”) to Chapter 22 (The Road to Westminster) – but Beatrice is not yet married. The actual marriage needs to occur before the church wedding (Chapter 43) and after the rescue.
 Action: Write a new scene – likely at Westminster, presided over by Queen Matilda (Henry absent). This is the sponsalia per verba de praesenti. Insert it between the departure and Chapter 22, or as a new chapter after Chapter 40.
