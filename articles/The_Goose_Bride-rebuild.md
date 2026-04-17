@@ -10211,6 +10211,40 @@ Matilda (or Maude) was a popular name.
 
 ---
 
+## Understanding Beatrice’s Anger in “And You Knew”
+
+*Beatrice’s anger is not a modern “you hurt my feelings” moment. It is a thegn’s daughter claiming the honour due to her house, confronting a system that treated her as currency, and discovering that even a prince can be powerless. The scene is not about blame – it is about two young people realising, for the first time, that they are on the same side of the cage.*
+
+---
+
+### What She Says
+
+Beatrice accuses Godfrey of knowing about the King’s vow and letting her walk out of the hall without warning. She feels betrayed by his silence.
+
+### What She Is Actually Feeling
+
+Beneath the words, her anger has three layers:
+
+**1. Public Humiliation** – She curtsied, thanked the Queen, and smiled, while everyone in that hall knew she was the unknowing subject of the King’s impulsive vow. She was made to look like a fool.
+
+**2. Betrayal of Her Father’s Honour** – Harold Red‑Wolf pulled a prince from the Severn. He bled for the Crown. His daughter should not have been treated like a piece of wool to be counted. In the feudal world, a thegn’s family had a right to be warned, to be treated with dignity. The silence stole that dignity.
+
+**3. Shame at Her Own Naivety** – She thought she was clever, walking into the King’s hall to save her goose. She thought her father’s name would protect her. She did not even see the board, let alone the game. Her anger turns inward: *You fool.*
+
+### What She Fears
+
+Even as she speaks, she is afraid. Godfrey is a king’s son. She has accused him to his face. He could tell his father. He could tell the Queen. Her outburst could have consequences she cannot imagine.
+
+### Why Godfrey’s Silence Matters
+
+In the 12th century, silence in the face of a wrong was not neutral. It was complicity. Godfrey did not build the cage, but he watched her walk into it and said nothing. That is what wounds her – not his power, but his passivity.
+
+### What She Realises
+
+When she looks at him and sees his pale, trapped face, she recognises something: *He is in the same cage. He did not build it either.* That is not love. It is the beginning of trust – the quiet recognition that they are both prisoners, not enemies.
+
+---
+
 ## Getting Married in 12th‑Century England
 
 In the early 1100s, the “rules” of marriage were a battlefield where ancient Saxon customs, Norman feudalism, and the emerging laws of the Christian Church collided. While a king could command a union and a father could negotiate a dowry, the Church was beginning to insist on a radical new idea: that a marriage was not a transaction of land, but a binding of souls that required the free consent of the individuals involved. For characters like Beatrice and Godfrey, navigating the path to the altar was a high‑stakes game of legal definitions and social survival.
