@@ -2475,7 +2475,7 @@ She laughed despite herself. The knot in her chest loosened a little.
 ### Flowers in August
 
 Beatrice had asked for a show of life, something to soften the dust of August. The children had gathered armfuls of goldenrod and purple knapweed, and the sharp, clean scent of dried lavender filled the lane. Along the stone walls, they had tucked branches of rowan, the berries already turning a fierce, bloody red—a warning of the autumn to come.
->RENAMING HEADINGS
+
 Godfrey arrived first, riding ahead of the main party. He dismounted and came to stand beside Beatrice at the gate.
 
 “He is in a good mood,” Godfrey said quietly. “The hunt went well this morning.”
@@ -2488,13 +2488,13 @@ Beatrice did not know what to say to that. She watched the road, her hands cold 
 
 ---
 
-### The King is here
+### “Long live Henry and Maude”
 
 The King’s retinue appeared around the bend—a dozen mounted knights, a cart with provisions, a cluster of servants. At their head rode Henry himself, on a great grey horse, his cloak dark against the pale sky. Beside him, on a white palfrey, sat Queen Matilda, her expression curious and warm.
 
 Beatrice had seen the King in his hall, seated, laughing. Seeing him now, riding toward her home, was different. He was not a king on a throne; he was a man on a horse, broad‑shouldered, watchful, taking in every detail of the lane, the cottages, the villagers who knelt. The Queen, too, looked about her with interest – at the flowers, the children, the smoke rising from the cottages.
 
-The children threw their flowers. The women curtsied and the men bowed, heads uncovered. The Reeve’s daughter called out, “God save the King and Queen!” The blacksmith bellowed, “Long live Harold and Maude!” – a nickname that had followed the royal couple since their wedding. Henry grinned. Matilda inclined her head graciously.
+The children threw their flowers. The women curtsied and the men bowed, heads uncovered. The Reeve’s daughter called out, “God save the King and Queen!” The blacksmith bellowed, “Long live Henry and Maude!”. Henry grinned. Matilda inclined her head graciously.
 
 They reined in before the gate, where old Harold waited. Henry dismounted, then turned to help Matilda from her horse. For a moment the two old warriors – Henry and Harold – looked at each other across the path. Then Henry stepped forward and took Harold’s hand.
 
@@ -2516,7 +2516,7 @@ Henry offered his arm to the Queen. “Shall we go inside? I am told there is a 
 
 ---
 
-### Be it ever so humble
+### When old warriors meet
 
 The hall had never looked so small. Henry sat in Harold’s chair for a time – Harold had insisted – and the old thegn took the stool beside him. Queen Matilda sat on a cushioned bench, her eyes taking in every detail: the smoke‑blackened beams, the dried herbs hanging from the rafters, the rushes freshly laid.
 
@@ -2559,7 +2559,7 @@ Matilda watched Beatrice move between the tables, noting that she poured wine fo
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 20 - The Fathers’ Bargain
+## Chapter 20 - A bargain struck, a compromise made
 
 Later, when the meal was done and the fire had been built up, and Godfrey had taken Beatrice for a stroll, Henry sent most of the servants away. He sat with Harold near the hearth. Matilda remained, seated a little apart, her hands folded.
 
@@ -2595,8 +2595,6 @@ Harold nodded slowly.
 
 Henry’s jaw tightened. “Then I will have made a rash vow and a fool of myself. It would not be the first time.” He paused. “But I do not think she will refuse him. I have seen the way she looks at him. Not with love—not yet—but with something. Curiosity. Respect. The beginning of trust.”
 
-Henry’s jaw tightened. “Then I will have made a rash vow and a fool of myself. It would not be the first time.” He paused. “But I do not think she will refuse him. I have seen the way she looks at him. Not with love – not yet – but with something. Curiosity. Respect. The beginning of trust.”
-
 Matilda spoke then, her voice calm. “A woman’s heart is not a fortress to be stormed, my lord. It is a garden. It must be tended.” She looked at Harold. “As parents, it is our responsibility to prepare the soil, to make a good match for our children. Your daughter will choose in her own time, just as I did. And that is as it should be.”
 
 Harold inclined his head. “It is truth, Your Grace.” 
@@ -2613,9 +2611,11 @@ Henry inclined his head.
 
 “The marriage—if it happens—they will live at Stanwey. Not at court. Not in Normandy. Here. She has built this place. She knows the people, the land, the rhythms of the seasons. I will not have her taken from everything she knows.”
 
-Henry considered this. His first instinct was to refuse—a king’s son should be at court, visible, useful. But he looked around the hall—the low ceiling, the smoke‑blackened beams, the old man in the chair—and saw something he had never given his son.
+The King's first instinct was to refuse—a king’s son should be at court, visible, useful. But he looked around the hall—the low ceiling, the smoke‑blackened beams, the old man in the chair—and saw something he had never given his son.
 
-“Agreed,” he said. “For part of the year. The rest they will spend at court, as my family. That is not negotiable. I may give them land as I see fit. That is also not negotiable.”
+Henry nodded slowly and held out his hand to Harold and the two men shook hands, holding it as they spoke, as a sign to all present that this was a legally secured bargain.
+
+“Agreed,” said the King. “For part of the year. The rest they will spend at court, as my family. That is not negotiable. I may give them land as I see fit. That is also not negotiable.”
 
 Harold’s mouth twitched. “A compromise! Your father—William—would never have agreed to such a thing.”
 
@@ -2623,15 +2623,15 @@ Harold’s mouth twitched. “A compromise! Your father—William—would never 
 
 “We do.”
 
-Henry lowered his voice. “I must meet tomorrow with Robert Beaumont and my son Robert. We plan my return to Normandy.”
+Henry released Harold's grip and lowered his voice. “I must meet tomorrow with Robert Beaumont and my son Robert. We plan my return to Normandy.”
 
-Harold nodded slowly. “I recall Beaumont well. Remember my name to that lord as a greeting. Border trouble with King Louis?”
+Harold nodded slowly. “I recall Beaumont well. He crossed the sea with your father. Remember my name to that lord as a greeting. Is it border trouble with King Louis?”
 
-“And others.” Henry did not elaborate. “That is a king’s burden, not a father’s, so tonight, we shall celebrate.” He opened the door. “Fetch the children,” he called to a servant. “We have news for them.”
+“And other troubles.” Henry did not elaborate. “That is a king’s burden, not a father’s.” He opened the door. “Fetch the children,” he called to a servant. “We have news for them. In faith, tonight we shall take courage and celebrate, for I do not know when I shall return.”
 
 ---
 
-### Negotiation of warriors
+### He rode into Wales alone
 
 A servant appeared in the doorway, glancing at the two lords. He gave a small bow. “My lord Godfrey said they will be in shortly, my lords.” He bowed vanished before either could answer.
 
@@ -2674,7 +2674,7 @@ Henry’s eyebrows rose. Harold’s face went pale.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 21 - The Cup
+## Chapter 21 - “I would know if I have a choice”
 
 The hall was still, save for the low crackling of the fire. Henry stood near the hearth, Harold beside him, Matilda on her bench, Godfrey by the door. Beatrice had stepped forward, her hands clasped before her, her face pale but steady.
 
@@ -2698,11 +2698,11 @@ The King raised a hand, cutting him off. “No apology is needed, Rauthulfr. The
 
 The fire cracked. A log settled. The room held its breath.
 
-King Henry looked back at Beatrice. “Child, you do have a choice.”
+King Henry looked back at Beatrice. “Child, you have a choice.”
 
-He paused, as if weighing the words, then glanced at Matilda. A flicker, nothing more. She did not speak. 
+He paused, as if weighing the words, then glanced at Matilda. A flicker, nothing more. She did not speak. He glanced at the uncertain look on Beatrice’s face.
 
-“My vow was an intent to arrange marriage, not a mandate to force it. Know that I am a King of Law, not a tyrant of oppression. The Church requires your ‘Yes’ else a marriage is no marriage at all. I will not seize what is not offered.”
+“Know this: my vow was an intent to arrange marriage, not a mandate to force it. Know that I am a King of Law, not a tyrant of oppression. The Church requires your ‘Yes’ else a marriage is no marriage at all. I will not seize what is not offered.”
 
 Henry glanced at Matilda. She gave a small nod, asking without words. He returned it.
 
@@ -2728,7 +2728,7 @@ She stepped out into the fading twilight.
 
 ---
 
-### Plans for Departure
+### A reeve, a cook, and a grey mare
 
 Queen Matilda turned to Harold. “It has reached my ear, Rauthulfr, that your welfare is of prime concern to your daughter.”
 
@@ -2756,7 +2756,7 @@ Harold agreed, “as I have heard.”
 
 ---
 
-### Fireside Farewells
+### The strangest creature
 
 The fire burned low. Henry and Harold spoke of old wars, old friends, old enemies. Beatrice listened, learning the shape of her father’s youth—the battles, the losses, the narrow escapes. She had heard some of it before, but never like this, never from a king who had been there.
 
@@ -2778,11 +2778,11 @@ He rode away with his knights, the villagers cheering, the children waving. The 
 
 ---
 
-### After the king - breathing again
+### She would have liked Godfrey
 
 Later that night, long after the king had gone, Beatrice sat with her father by the fire. Godfrey had promised to return in the morning. The reeve and the cook would come tomorrow. The king’s words still echoed in her ears.
 
-“You are not afraid,” Harold said. It was not a question.
+“You are not afraid,” Henry had said.
 
 “I am afraid,” she said. “But I am also… ready.”
 
@@ -2796,9 +2796,11 @@ They sat in silence as the fire burned down, and Goosie slept between them.
 
 ---
 
-### The Week of Preparation
+### Eldred and the ledger
+RENAMING HEADINGS
+The week that followed was a blur of packing, goodbyes, and the quiet settling of Eldred and the new cook. Beatrice’s aunt arrived—a thin, capable woman who took one look at the hall and began re‑ordering the kitchen.
 
-The week that followed was a blur of packing, goodbyes, and the quiet settling of the new reeve and cook. Beatrice’s aunt arrived—a thin, capable woman who took one look at the hall and began re‑ordering the kitchen. The reeve, a grey‑haired man named Eldred, sat with Harold each evening, learning the names of the tenants, the boundaries of the fields, the quirks of the river.
+Eldred, the new estate reeve, spent his mornings with the village headman at the crossroads, comparing harvest tallies against the Lord’s ledger. While the village reeve knew which man was lazy and which cow was sick, Eldred knew how to ensure that every bushel of the manor's harvest was marked true as a cleared account in the King's Great Pipe Rolls record. Each evening, he sat with Harold, learning the names of the tenants, the boundaries of the fields, and the quirks of the river that could drown a year's profit in a single flood.
 
 Godfrey came every day, helping where he could, saying little. Harold watched him with a kind of quiet approval.
 
@@ -3888,7 +3890,7 @@ Then: “I was not born Matilda.”
 
 Beatrice looked at her.
 
-“I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the Norman court called me ‘the Saxon girl.’ They whispered that I’d bring barbarian ways. That I’d never understand how to be queen.”
+“I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the ostentatious Norman court called us ‘Godric and Godiva’, a peasant-lover and a country girl. They whispered that ‘the barbarian Saxon girl’ would never understand how to be queen in a ‘civilized’ Norman court.”
 
 She met Beatrice’s eyes.
 
