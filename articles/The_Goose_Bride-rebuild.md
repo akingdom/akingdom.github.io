@@ -2,14 +2,7 @@
 
 ---
 
-> Edition 3
->
-> Draft / Revision 2
->
-> ***STATUS - IN REVIEW***
->
-> => Human Input
->
+> ***STATUS - COMPLETE ***
 
 ---
 
@@ -6305,10 +6298,9 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 
 # Story Editions
 
-1. Original ‘fairytale’
-2. ’school Reader’ expanded version.
-3. Novella edition (this)
-
+1. Original ‘fairytale’ - Edition 1
+2. ’School Reader’ expanded version. - Edition 2
+3. Novella edition (this) - Edition 3 - Revision 2
 ---
 
 ## ✅ LICENSE
@@ -6324,6 +6316,3 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 > **Clarification:** This work *is* available under paid licensing arrangements.
 
 *** 
-
-
-
