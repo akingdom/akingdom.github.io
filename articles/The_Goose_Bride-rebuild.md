@@ -363,7 +363,7 @@ She saw it then: the bed where her mother had died. The blankets were still rump
 
 “I’ll change the linens tomorrow,” Beatrice said.
 
-He nodded slowly. He did not move.
+He shook his head slowly. He did not move.
 
 She waited.
 
