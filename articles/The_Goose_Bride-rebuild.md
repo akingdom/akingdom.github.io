@@ -1,54 +1,3 @@
-
-❌ What Is Still Missing or Needs Fixing (Remaining Tasks)
-1. The Marriage Scene (Present Consent via Cup) – Missing
-The plan requires a new scene after the rescue where Beatrice and Godfrey exchange present consent (the cup ritual), sealing the marriage. This scene does not exist in the manuscript. The current narrative jumps from the departure for Westminster (end of “The Following Weeks”) to Chapter 22 (The Road to Westminster) – but Beatrice is not yet married. The actual marriage needs to occur before the church wedding (Chapter 43) and after the rescue.
-Action: Write a new scene – likely at Westminster, presided over by Queen Matilda (Henry absent). This is the sponsalia per verba de praesenti. Insert it between the departure and Chapter 22, or as a new chapter after Chapter 40.
-
-3. Old Cup Scene – Still Present (as a remnant)
-At the end of the manuscript, after “Harold at the Royal Court” and before “Wedding Preparations”, there is a block marked MOVED FROM CHAPTER 21 containing the original cup scene (with ƒƒƒƒ markers). This should be deleted entirely – it is no longer part of the story.
-
-4. TODO Markers and Notes
-In Chapter 14 (Tales to Tell), there is a TODO marker before the line about the parish priest. That note should be removed or resolved.
-
-5. Missing Character Foible: Lady Margaret’s Hidden Grief
-You requested a line where Lady Margaret reveals a lost child or sacrifice. It is not in the current manuscript.
-Action: Add a brief moment – e.g., after the rescue, when Beatrice finds Margaret touching a worn ring or saying “I lost a daughter once.” (Insert in Chapter 40 or after.)
-
-6. Goosie’s Subdued State – Needs a Clear “After the Kick” Moment
-You have Goosie quieter in several places, but the specific moment of her being kicked by Sir Guy and its aftermath could be sharper. The “First Night” section says she lay down with a sigh and did not honk – that works. But consider a line where Beatrice reflects on the change. Not critical but could be added.
-
-7. Appendix Update to Reflect New Cup Placement
-The appendix currently states: “The Cup Ritual (Chapter 21)”. This is now incorrect – the cup ritual is not in Chapter 21 (that is the clarification scene). The appendix should be updated to reflect that the cup ritual occurs after the rescue (new chapter number). Also, the appendix’s “Courtship Period” description still refers to “between Chapters 14 and 21” – that needs adjustment if the cup moves later.
-
-8. Teacher & Parent Guide – Chapter References
-The guide references Chapter 21 (The Cup) as the binding ritual. This will need to be updated to the new chapter number once the marriage scene is placed.
-
-9. Consistency of “Betrothed” vs “Married” Language
-In the current manuscript, after the rescue, characters refer to Godfrey as “the King’s son” and Beatrice as “the lady” – but no one calls them husband and wife. That is correct until the marriage scene. However, check any accidental “wife” references before the new cup scene – I did not see any.
-
-10. Final Polish: Remove Editorial Markers
-Remove the ƒƒƒƒ block (old cup scene).
-
-Remove the TODO and rename notes.
-
-Ensure consistent use of curly quotes (you have a mix).
-
-Prioritised Remaining Tasks (Must-Do Before Final)
-Priority	Task	Estimated Effort
-1	Write the new marriage scene (cup ritual) after the rescue – place it before the departure for Westminster or at Westminster.	Medium (300‑500 words)
-2	Delete the old cup scene block (the ƒƒƒƒ section).	Low
-3	Fix chapter numbering (sequential, no duplicates).	Medium (15‑20 min)
-4	Update appendix to reflect new cup location and remove reference to Chapter 21 as the cup.	Low
-5	Remove TODO markers and rename notes.	Low
-6	Add Lady Margaret’s hidden grief (one paragraph).	Low
-7	Update Teacher & Parent Guide chapter references (once numbering is final).	Low
-Optional: Add a sharper Goosie moment; ensure consistent quotes.
-
-Final Verdict
-The manuscript is 80‑85% of the way to a clean, consistent draft. The major structural change (moving the cup to after the rescue) is almost complete – only the actual marriage scene is missing. Once you write that scene, delete the old cup remnant, fix the chapter numbers, and add Lady Margaret’s line, the story will follow the intended progression perfectly.
-
-
-
 # The Goose Bride
 
 ---
@@ -177,7 +126,7 @@ Beatrice did not move her gaze from the corner. Her jaw set, a small, hard line 
 
 “I want the one from the reeds,” Beatrice said.
 
-Mother looked at the larger, bone-colored egg, then back at her daughter's determined face. She didn't argue. Instead, she knelt in the straw, checking the warmth of the stray egg with the back of her hand.
+Mother looked at the larger, bone-coloured egg, then back at her daughter's determined face. She didn't argue. Instead, she knelt in the straw, checking the warmth of the stray egg with the back of her hand.
 
 “We’ll need a hen, then,” Mother said softly. “A broody one who won't mind the size of it.”
 
@@ -903,7 +852,6 @@ He stepped back into the shadows. The hall slowly resumed its murmur. But the qu
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-
 ## Chapter 8 — *Coram Rege* — Burning the Table
 
 Roger’s question still burned in the King’s chest: *What do you mean to do for him?*
@@ -1589,7 +1537,7 @@ Godfrey’s step faltered. He almost tripped. He was quiet for a long breath.
 
 “And you knew.”
 
-Her words landed. They did not hang. They hit. They atonished.
+Her words landed. They did not hang. They hit. They astonished.
 
 Godfrey stared at her. His mouth opened.
 
@@ -1787,7 +1735,7 @@ She went inside, carrying the basket.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-### The door closed, the fire crackled**
+### The door closed, the fire crackled
 
 The door closed behind her with a dull thud. The hall was dim after the fading daylight, the air thick with woodsmoke and the scent of old herbs. For a moment she stood just inside, her back against the oak, letting her eyes adjust.
 
@@ -1853,7 +1801,6 @@ Beatrice remembered the family during the cart ride, the mother’s care.
 
 She recalled her mother’s words about her father: “*A man’s character shows in small things. Watch how he treats those who can do nothing for him. For that is the man you must live with.*”
 
-TODO> DO WE STILL NEED THIS HERE - probably
 She thought of the parish priest, one Sunday at Lent, preaching on the sacrament: “*When she takes the wine from her betrothed’s hand, she shows her will to the world. For a woman forced is no wife; where the heart is in chains, love cannot dwell.*”
 
 She thought of the young man who had stood apart while she wept, giving her space, not reaching out. She thought of his voice when he said, *I will not take Stanwey from you. I will come to you.*
@@ -2237,8 +2184,6 @@ He knew why the land was worth fighting for.
 
 When they returned to the hall, the cook had already set out bread, cheese, and a pot of warm ale. Harold lowered himself into his chair and gestured for the others to sit. The Reeve and the two villagers took the bench without ceremony – they had earned their place. Godfrey hesitated, then sat beside them.
 
-“A single tallow dip, its flame guttering in the draft.”
-
 They ate in silence, the way men do after hard labour. Harold broke bread with his fingers, dipped it in the ale, and chewed slowly. He noted how Godfrey ate by the light from the dancing flame of tallow candle – not with the careful manners of the court, but with the honest hunger of a man who had walked until his boots caked with mud.
 
 When the platters were cleared, the Reeve touched his forehead and left with Alfsige and Leofwine, their work done, their knowledge passed on.
@@ -2335,7 +2280,7 @@ The laneway was unusually quiet since most villagers were already helping gladly
 
 Goosie had followed her, as always. The bird was tired from the day’s activity so waddled over and settled in a comfortable place under the wooden bench seat by Beatrice’s favourite tree—the one by St. Peter’s.
 
-The church sat on a slight rise a bowshot from the hall, its stone tower visible through the bare trees.
+The church sat on a slight rise a bowshot from the hall, with its stone tower visible through the bare trees.
 
 “Little lady!” A distant cheerful voice was followed by a warbling whistled tune. The priest was rounding the corner of his small wattle-and-daub cottage, which sat in the lee of the church’s chancel. He was an old man, older than her father, his face carved by wind and prayer.
 
@@ -2640,7 +2585,7 @@ Henry listened, his face unreadable. “And what would you have me do, child?”
 
 Beatrice hesitated. Her throat was dry. She looked at Godfrey – at his quiet, watching face – then back at the King.
 
-“I would know,” she said, “whether I have a choice in this or if it is somewhich which must simply be. That is my ask.”
+“I would know,” she said, “whether I have a choice in this or if it is something which must simply be. That is my ask.”
 
 The silence stretched. Harold spoke first, his head bowed. “I have failed to teach my daughter properly of such matters. I must give apology—”
 
@@ -3073,7 +3018,7 @@ To keep the rising panic of the “Breton dowry” whispers at bay, Beatrice mad
 
 The repetitive, rhythmic motion of her hands allowed her to disappear. The other girls tittered about the knights who were riding away, but Beatrice focused on the tactile reality of the fibre. It was the only thing she could control. While the King’s fleet readied at the coast—a forest of masts she would never see—she anchored herself to the smell of sheep and the steady, grounding work of a daughter of the shires.
 
-It was a task usually left to women of all ranks, but Beatrice claimed it with a feverish intensity. She sat in a drafty corner of the weaving room, her fingers stained by the natural oils of the raw, unwashed fleece. She spent hours teasing the matted clumps of wool until they were airy and straight, then winding the distaff to ensure the wool was packed just tightly enough to be spun later. She sorted the fleece by grade, separating the fine belly‑wool for the Queen’s garments from the coarse outer‑coat intended for the garrison’s tunics.
+It was a task usually left to women of all ranks, but Beatrice claimed it with a feverish intensity. She sat in a draughty corner of the weaving room, her fingers stained by the natural oils of the raw, unwashed fleece. She spent hours teasing the matted clumps of wool until they were airy and straight, then winding the distaff to ensure the wool was packed just tightly enough to be spun later. She sorted the fleece by grade, separating the fine belly‑wool for the Queen’s garments from the coarse outer‑coat intended for the garrison’s tunics.
 
 On certain days a dull ache would settle low in her belly, and her head would throb with a rhythm that matched the clack of the looms. Her courses came, as they always did, leaving her tired and short‑tempered. She said nothing. She simply pulled the wool tighter and worked on.
 
@@ -3172,9 +3117,9 @@ Lady Margaret called it “peasant nonsense.” She had her suspicions about the
 
 The goose was Goosie. And the white, foul‑smelling slime was exactly what you would expect from a goose confined to a bedchamber.
 
-Beatrice knew she was breaking every rule by keeping Goosie in her room. But the castle menagerie—a few exotic animals kept in the lower yard near the stables—was cold and drafty, and the iron‑barred cage felt like a prison. So each night she smuggled the goose inside, and each morning she rose early to scrub the stones with sand and vinegar before the tire‑women arrived.
+Beatrice knew she was breaking every rule by keeping Goosie in her room. But the castle menagerie—a few exotic animals kept in the lower yard near the stables—was cold and draughty, and the iron‑barred cage felt like a prison. So each night she smuggled the goose inside, and each morning she rose early to scrub the stones with sand and vinegar before the tire‑women arrived.
 
-It was a grueling secret. And like all secrets in a palace, it was bound to escape sooner or later.
+It was a gruelling secret. And like all secrets in a palace, it was bound to escape sooner or later.
 
 ---
 
@@ -3358,7 +3303,9 @@ He left. Beatrice sat in the dark, Goosie warm against her side, and for the fir
 
 She felt hope, and perhaps a little more also.
 
---
+---
+
+### Dearest daughter
 
 A very short letter arrived from Stanwey.
 
@@ -3428,7 +3375,7 @@ Simply: “She’s real.”
 
 ### “That is my nurse’s farm”
 
-And so Matilda Fitzroy arranged for a leisurely stroll with Beatrice through the Queen’s gardens. The Duchess walked beside Beatrice, asking sharp questions about Stanwey hall, the village, the running of things. Beatrice answered her directly, without pretense.
+And so Matilda Fitzroy arranged for a leisurely stroll with Beatrice through the Queen’s gardens. The Duchess walked beside Beatrice, asking sharp questions about Stanwey hall, the village, the running of things. Beatrice answered her directly, without pretence.
 
 The Duchess paused. “I remember the area. Sometimes when my father hunted here, I stayed with our old nurse a few miles away, by the river bend.”
 
@@ -3540,7 +3487,7 @@ Avice took a breath, her hands shaking slightly. She thought of Matilda’s pois
 
 “I make no promise,” Avice said, her voice thin but steady. “Though I will speak to her.”
 
-Godfrey bowed and left her. Avice stayed in the drafty passage, the cup cooling in her hands. For the first time, the thought of returning to their rooms felt like walking into a cage.
+Godfrey bowed and left her. Avice stayed in the draughty passage, the cup cooling in her hands. For the first time, the thought of returning to their rooms felt like walking into a cage.
 
 ---
 
@@ -3762,7 +3709,7 @@ Indeed the Queen did tire, though not as they anticipated.
 
 One cold morning, a short message was delivered to each of three women, Eustacia included. “The Queen requires your presence in her solar at the sounding of Terce.”
 
-The Queen did not raise her voice, but she was sharp: “I hear of your amusement at the expense of Beatrice of Stanwey. You shall stop. Not merely because I command it – though I do – else you shall understand and know exactly what happens to those who make an enemy of this family. As surely as fruit follows seed, so exile follows betrayal, for sooth is how I shall see this matter hencefrom. Now, hear me: No more.”
+The Queen did not raise her voice, but she was sharp: “I hear of your amusement at the expense of Beatrice of Stanwey. You shall stop. Not merely because I command it – though I do – else you shall understand and know exactly what happens to those who make an enemy of this family. As surely as fruit follows seed, so exile follows betrayal, for sooth is how I shall see this matter henceforth. Now, hear me: No more.”
 
 With this warning, she dismissed the three.
 
@@ -3840,7 +3787,7 @@ Then: “I was not born Matilda.”
 
 Beatrice looked at her.
 
-“I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the ostentatious Norman court called us ‘Godric and Godiva’, a peasant-lover and a country girl. They whispered that ‘the barbarian Saxon girl’ would never understand how to be queen in a ‘civilized’ Norman court.”
+“I was born Edith. In Scotland. To a Saxon mother. When I came to England to marry Henry, the ostentatious Norman court called us ‘Godric and Godiva’, a peasant-lover and a country girl. They whispered that ‘the barbarian Saxon girl’ would never understand how to be queen in a ‘civilised’ Norman court.”
 
 She met Beatrice’s eyes.
 
@@ -3934,7 +3881,7 @@ She went to find Lady Margaret.
 
 ## Chapter 32 - “Your father is a conquered thing”
 
-The hearing was held in a small chamber off the Great Hall. Sir Guy sat at a table, flanked by the grey‑haired agent and a clerk with a parchment. Two of the King’s justices sat behind a trestle table, looking bored.
+The hearing was held in a small chamber off from the Great Hall. Sir Guy sat at a table, flanked by the grey‑haired agent and a clerk with a parchment. Two of the King’s justices sat behind a trestle table, looking bored.
 
 Beatrice entered, Lady Margaret at her side. Sir Guy’s eyes widened. He had not expected her to bring anyone. He certainly had not expected to see her at all.
 
@@ -3956,7 +3903,7 @@ But before Roger could answer, the chamber door opened. A messenger, breathless 
 
 Beatrice’s face went pale. She turned to Roger. “My lord, I ask for a stay. My father—”
 
-Roger held up a hand. With a stay of judgement, such cases could drag on for months. But Roger was well known for his quick efficency, doubly so with royal encouragement. 
+Roger held up a hand. With a stay of judgement, such cases could drag on for months. But Roger was well known for his quick efficiency, doubly so with royal encouragement. 
 
 “There can be no stay—for the matter is clear to me. The King’s vow supersedes all other claims. The betrothal is valid. The land is held in trust for the King’s son.” He looked at Sir Guy. “This case is dismissed.”
 
@@ -3997,12 +3944,45 @@ Meanwhile, in the solar, a man stepped out from the shadows. “My lady.”
 
 “For now.”
 
-The Queen had ears in many places.
+The Queen had ears in many places, though not everywhere.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 34 – The night smelled of damp earth
+## Chapter 34 – The Queen’s letter, cold and sharp
+
+Godfrey had been at his mother’s side for some days, at the manor of Berkhamsted, a day’s ride from Westminster. The change of air was meant to do her good – and to do him good as well, away from the whispers of the court.
+
+But he could not stop thinking about Beatrice.
+
+He was standing by the window, watching the servants stack firewood, when a messenger rode into the courtyard – mud-spattered, breathless, wearing the Queen’s livery.
+
+“My lord.” The man bowed and handed him a folded parchment. “From the Queen.”
+
+Godfrey broke the seal. Matilda’s handwriting was sharp, urgent:
+
+*”Harold of Stanwey has collapsed. Beatrice rides now with two guards. I suggest you join her there without delay, unless you may wish to do otherwise.”*
+
+Godfrey’s blood went cold.
+
+His mother appeared in the doorway. “What is it?”
+
+“Beatrice. Her father. I must go.”
+
+“Then go.” She pressed a small purse into his hand. “For the road. And Godfrey –”
+
+He paused.
+
+“Tell her I look forward to meeting her properly.”
+
+“I shall, mother.”
+
+He rode, changing horses at Dunstable Priory, Newport Pagnell Manor, and Northampton Castle—where he had a few hours much-needed sleep, ate a quick meal, and rode again, following the road toward Rockingham and Stanwey.
+
+![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
+
+
+## Chapter 35 – The night smelled of damp earth
 
 Beatrice reached Stanwey by morning, after an uncomfortable two days’ travel. Harold was in his chair by the hearth, pale but alive. She knelt beside him, took his cold hands in hers, and wept with relief.
 
@@ -4022,25 +4002,25 @@ But there was.
 
 ### Torchlight and a hand on my arm
 
-The night smelled of damp earth and the last smoke from the banked hearth. Beatrice lay awake, listening to Harold’s uneven breathing from the next room—a little improved on her first night back. Goosie had finally settled, a warm weight against her side. Her hand rested on the small knife the Queen had given her, hidden beneath her pillow.
+The night smelled of damp earth and the last smoke from the banked hearth. Beatrice lay awake, listening to Harold’s uneven breathing from the next room—a little improved. Goosie had finally settled, a warm weight against her side. Her hand rested on the small knife the Queen had given her, hidden beneath her pillow.
 
 Then she heard it: a scuff of boots on the outer step. Too many boots.
 
 Before she could rise, the door exploded inward. Torchlight flooded the hall, harsh and orange, throwing wild shadows against the rafters. Men poured through – not knights in gleaming mail, but rough men in stained tunics, faces half‑hidden by scarves, carrying cudgels and short swords. Drifters. Outlaws. The kind of men who asked no questions, only coin.
 
-*He had spent his last silver on them.*
+The two royal guards on the threshold went down fighting – a shout, a crash, then silence. A torch clattered to the floor; the rushes began to smoulder.
 
-Sir Guy stepped through the doorway, his sword drawn, his smile thin and cold. “Where is the old man?”
+Finally, a knight stepped through the doorway, his sword drawn, his smile thin and cold: Sir Guy de Montfort. “Where is the old man?”
 
-The two royal guards on the threshold went down fighting – a shout, a crash, then silence. A torch clattered to the floor; the rushes began to smolder.
+Beatrice sat up, clutching the thin linen of her chemise. 
 
-Beatrice sat up, clutching the thin linen of her chemise. Goosie burst from the dark, hissing, wings spread, pecking at the nearest man’s shins. He cursed and stumbled. Another man laughed. Sir Guy kicked the goose aside – not hard, but enough to send her skittering into the darkness.
+Goosie burst from the dark, hissing, wings spread, pecking at the nearest man’s shins. He cursed and stumbled. Another man laughed. Sir Guy kicked the goose aside – not hard as the bird flapped away, but it was enough to send her skittering into the darkness.
 
 “Fool bird.”
 
 A hand seized Beatrice’s arm. Rough fingers, iron rings biting through her bare skin.
 
-“At least let me dress,” Beatrice said, her voice steady despite her shaking hands. “And my father. He is old. He will not survive the night in the cold.”
+“You might at least let me dress,” Beatrice said, her voice steady despite her shaking hands. “And my father. He is old. He will not survive the night in the cold.”
 
 Sir Guy laughed – a short, ugly sound. “You’ll travel as you are. The cold won’t kill you.”
 
@@ -4077,46 +4057,13 @@ Then the cart lurched forward, and the night swallowed them.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 35 – The Queen’s letter, cold and sharp
-
-Godfrey had been at his mother’s side for three days, at the manor of Berkhamsted, a day’s ride from Westminster. The change of air was meant to do her good – and to do him good as well, away from the whispers of the court.
-
-But he could not stop thinking about Beatrice.
-
-He was standing by the window, watching the servants stack firewood, when a messenger rode into the courtyard – mud-spattered, breathless, wearing the Queen’s livery.
-
-“My lord.” The man bowed and handed him a folded parchment. “From the Queen.”
-
-Godfrey broke the seal. Matilda’s handwriting was sharp, urgent:
-
-*”Harold of Stanwey has collapsed. Beatrice rides there now with two guards. Join her without delay.”*
-
-Godfrey’s blood went cold.
-
-His mother appeared in the doorway. “What is it?”
-
-“Beatrice. Her father. I must go.”
-
-“Then go.” She pressed a small purse into his hand. “For the road. And Godfrey –”
-
-He paused.
-
-“Tell her I look forward to meeting her properly.”
-
-”I shall, mother.”
-
-He rode, changing horses at Dunstable Priory, Newport Pagnell Manor, and Northampton Castle—where he had a few hours much-needed sleep, ate a quick meal, and rode again, following the road toward Rockingham and Stanwey.
-
-![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
-
-
 ## Chapter 36 – The staghound’s whine
 
 Godfrey reached Stanwey as the first birds were calling the coming morning, long before the sun cleared the treetops. 
 
-He had ridden through the night, changing horses once at a royal waystation, pushing the animals harder than he should have.
+He had ridden through the night, changing horses once at a royal way-station, pushing the animals harder than he should have.
 
-The village was stirring – smoke from a few cookfires, a dog barking, a woman drawing water from the well. As he passed through, a villager waved at him, then called out.
+The village was stirring – smoke from a few cook-fires, a dog barking, a woman drawing water from the well. As he passed through, a villager waved at him, then called out.
 
 “My lord! My lord, stop!”
 
@@ -4228,7 +4175,7 @@ She was close enough to see the fight, far enough to be out of the way.
 
 The knife was in her belt – she could feel the handle pressing against her spine – but her fingers could not reach it. Not yet.
 
-She twisted her wrists, straining against the rope. The fibers bit into her skin. She ignored the harsh pain, groaning inwardly.
+She twisted her wrists, straining against the rope. The fibres bit into her skin. She ignored the harsh pain, groaning inwardly.
 
 *I am more frightened than I have ever been, but I will not let anyone see it.*
 
@@ -4542,6 +4489,13 @@ She let out a long breath and looked ahead, toward the road that would take them
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
+
+---
+
+> PART NINE - THE QUEEN’S PROTECTION
+
+---
+
 ## Chapter 40 – The weight of the blade is a promise
 
 *(Late January 1115)*
@@ -4631,158 +4585,216 @@ Beatrice closed her eyes. The shadows were still there, but for a moment, they d
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
+## Chapter 41 – “What knows this king of true justice?”
 
----
-
-> PART NINE - THE QUEEN’S PROTECTION
-
----
-
-## Chapter 41 — “What knows this king of true justice?”
-
-*(10 February 1115)*
+*(4 February 1115)*
 
 After some time, Sir Guy was brought before the Queen, who was seated in the Great Hall. A small crowd had gathered – nobles, clerks, a few knights. Lord Roger, Royal Judiciar and Bishop of Salisbury, stood at the Queen’s side.
 
-Lord Roger’s voice was cold. “Guy de Montfort of Évreux, you have been found guilty of attempted kidnapping, of defrauding the King’s justice, and of plotting against the King’s vow. These are treasonous acts. Do you have anything to say for yourself?”
+Beatrice stood near the back, Godfrey’s hand on her elbow. She had not wanted to come. She had come because the Queen asked it.
 
-Guy stood in chains, his face pale, and cried out, “What knows this king of true justice?” Beyond that, he refused to say a word more.
+The hall was cold. Morning light slanted through the high windows. Dust motes drifted in the stillness.
 
-The Queen rose, displeased. “You are hereby stripped of all lands and titles. Your estates are forfeit to the crown. You will leave England within three days. If you return, you will be hanged for treason.”
+The doors opened. Sir Guy entered in chains.
+
+Beatrice’s stomach turned. Her hand went to her belt – where the Queen’s knife used to be. Godfrey’s fingers tightened on her elbow. She did not pull away.
+
+Sir Guy’s clothes were torn. His wrists were raw. He did not look at her. He did not look at anyone.
+
+The guards stopped him before the Queen’s chair. The chains dragged on the stone – a sound like slow thunder.
+
+Lord Roger spoke. “Guy de Montfort of Évreux, you have been found guilty of attempted kidnapping, of defrauding the King’s justice, and of plotting against the King’s vow. These are treasonous acts. Do you have anything to say for yourself?”
+
+Guy lifted his head. His voice cracked. “What knows this king of true justice?”
+
+The Queen leaned forward. “Justice does not steal a girl from her bed. Justice does not bind the hands of the weak.” 
+
+Her voice was cold. “These are not Justice but revenge. Your father’s grievance is unfortunate and may have been real. Instead, you chose to bury the matter under your own crimes. Let me be clear: Your grievance does not justify your crimes.”
+
+Guy looked at her but said nothing.
+
+The Queen continued. “If your kinsman—Amaury de Montfort—has complaints, the courts are open, there are arbitrators.”
+
+She turned. “Beatrice, daughter of Harold Red-Wolf, is this the man who stole you and your father?”
+
+Beatrice’s throat tightened. She looked at Sir Guy – at his torn clothes, his raw wrists, his face empty of everything but a tired defiance.
+
+“Yes,” she said. “That is him.”
+
+The Queen nodded. She rose.
+
+“Guy de Montfort, for the severity of your crimes, you are hereby stripped of all lands and titles. Your estates are forfeit to the crown. You will leave England within three days. If you return, you will be hanged for treason. Let the record so show.”
 
 She turned to the guards. “Send him.”
 
-Sir Guy bowed his head. He did not look at Beatrice. He did not look at Godfrey. He walked out of the hall, and few ever spoke of him again.
+Sir Guy bowed his head. He walked out of the hall, the chains dragging on the stone. At the threshold, he stopped. Just for a moment. His shoulders rose, then fell. Then he was gone.
 
-About that time, certain other people found that King Henry indeed had a long hand, and an even longer memory. For that hand reached out across the narrow sea, to find a man in a house, a merchant in a warehouse and a lord in a castle. 
+The crowd exhaled. A clerk shuffled his parchments. Someone near the door coughed.
 
-For their meddling, some were cast out from the sight of green England, some found the world reduced to the four walls of the King’s iron-barred rooms, and some paid a higher price still.
-
-![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
-
-
-## Chapter 42 - A single, brassy note
-
-*(Feast of St. Valentine, 14 February 1115)*
-
-The feast was crowded, noisy, suffocating. Beatrice moved through it as she always did now—quietly, carefully, watching. 
-
-High in the gallery, the heavy blare of a long trumpet stilled the room, a single, brassy note that sat like an axe-blade over the assembly.
-
-The Queen rose sharply.
-
-“A moment.”
-
-The hall stilled.
-
-“It has come to my attention that certain persons have seen fit to question the judgment of my lord, the king in the matter of our son’s betrothal.”
-
-A murmur. Avice, Eustacia and various others went pale.
-
-Looking directly at them: “Let me be clear. The King’s vow is sacred. His choice is final. Our son shall marry. And the lady Beatrice—“ She paused, letting the weight settle. She spoke slowly and deliberately “—has my full support. Any who trouble her trouble myself and the King.”
-
-She let all sound die completely into silence before turning and sitting.
-
-The hall erupted into murmurs and whispers. It was a long time before anyone dared speak ill of the young couple.
-
-Beatrice stood frozen in time, tears shining in her eyes.
-
-Godfrey, beside her, said nothing. He didn’t need to.
-
----
-
-
-### “She’s worth trying for”
-
-*(1 March 1115)*
-
-Harold, now that he had recovered enough to travel, visited court for the first time.
-
-He stood in the great hall, leaning on his daughter’s arm, and faced the court that had whispered about her. The staghound, brought along despite all sense, sat at his feet. And Goosie was there, preening her feathers.
-
-To Godfrey, loud enough to carry: “You’ve done well, boy.”
-
-“I’ve tried.”
-
-Looking at Beatrice: “She’s worth trying for.”
-
-He didn’t say more. He didn’t need to.
+Beatrice felt Godfrey’s hand relax on her elbow. She let out a breath she had not known she was holding.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
 
+---
 
-
-
-TODO> RECYCLE THIS AS BASIS OF BETROTHAL SCENE BUT MAKE IT CLEAR THE CUP IS NOT A FORMAL TRADITIONAL CEREMONY BUT SOMETHING NEW (IF OLD BASIS) LIKE 'WASSAIL' 'DRINC HAIL'
-
-MOVED FROM CHAPTER 21
-
-ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
-
-## Chapter 43 - The Cup (Revised -- rename + TODO> RECYCLE THIS AS BASIS OF BETROTHAL SCENE BUT MAKE IT CLEAR THE CUP IS NOT A FORMAL TRADITIONAL CEREMONY BUT SOMETHING NEW (IF OLD BASIS) LIKE 'WASS HAIL'/'DRINC HAIL')
-“Leave room for the green things to grow”
-
-
-Henry listened gravely, patiently. “And what would you have me do, young wolf? Do you wish to reject my son?”
-
-Beatrice shook her head. She looked at him intently, and there was no mocking in his voice. He was in many ways very like Godfrey.
-
-“I wish to—” Her voice faltered. Her throat was dry. She turned, almost without thinking. “Godfrey, would you pass me a drink.”
-
-For a heartbeat, no one moved. Then Godfrey walked to the sideboard, took up a silver cup, and poured wine from the pitcher. He crossed and offered it, waiting deliberately. Their fingers did not touch, but their eyes met and lit up. *Will you?*
-
-She accepted the cup, nodding solemly, its cold silver weight a sudden, heavy reality against her warm toil-worn skin.
-
-Beatrice stood still against the firelight, a fixed point in a changing world. The people seemed to retreat into the shadows as she raised the cup high, towards the rafters and beyond, offering a silent libation to a Heaven that felt very far away.
-
-Yet, courage came and she brought the rim to her lips, gulping the wine down in a determined rush, a frantic breath burning the back of her throat. She lowered the vessel, the silver ringing softly as it met her hand, her gaze clean and clear as it met the King’s eyes.
-
-“This is my answer, sire,” she gasped, for it stung.
-
-The hall was silent. Henry stared at her for a long moment. Then his face broke into a grin—a real grin of enjoyment, swift and warm.
-
-“She takes the cup,” he said softly, almost to himself. Then, louder: “Do you mean what you have just done, child?”
-
-Beatrice felt her cheeks burn. “I have answered your question, my lord.”
-
-Godfrey retrieved the empty silver cup. “By my hand, Father.”
-
-Henry caught the sudden, incandescent grin splitting his son’s face. He shook his head with a wry, appreciative smile.
-
-“She has sealed a betrothal,” the King said, his voice resounding with a rough pride. “In the old way. A woman takes wine from her betrothed’s hand, and she shows her will to the world. There is no vow more binding than that.”
-
-Harold’s face, which had been pale with fear, slowly changed. He looked at Beatrice, then at Godfrey, and a tightness in his chest left him painlessly.
-
-Henry clapped Godfrey on the shoulder in his excitement. “You chose well.”
-
-Then he turned to Harold, his grin still wide. “Well, Harold, I don’t know what they need us for. It seems a decision is made.”
-
-Harold let out a long breath—not quite a laugh, but his eyes smiled. “So it seems.”
-ƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
+> PART TEN – WEDDING
 
 ---
 
+## Chapter 42 – “Leave room for the green things to grow”
 
-
----
-
-> PART TEN - WEDDING
+Let me provide a detailed side-by-side comparison of the two Harold visit chapters, highlighting exactly what appears in each.
 
 ---
 
-## Chapter 44 — “Leave room for the green things to grow”
+## Chapter 42 vs. Chapter 46 — Detailed Comparison
 
-*(Wedding Preparations March - April of 1115)*
+| Element | Chapter 42 ("Leave room for the green things to grow") | Chapter 46 ("Harold's day at court") |
+|---------|----------------------------------------------------------|--------------------------------------|
+| **Date header** | None | *1 March 1115* |
+| **Opening** | "The days after the rescue were a strange, quiet time... Godfrey came to her chamber one morning. 'Your father has arrived. He asked for you.'" | "Harold, now that he had recovered enough to travel, visited court for the first time. He stood in the great hall..." |
+| **Beatrice's search** | Yes — "She searched the corridors, the chapel, the garden. Nothing... Then she heard it—a low rumble of laughter from the guards' mess." | No — she is with him from the start: "leaning on his daughter's arm." |
+| **"Can't find him" moment** | Yes — explicit search and panic. | No. |
+| **Harold's audience** | **Guards** in the guards' mess. | **Knights** in the great hall. |
+| **Stories told** | Implied (the Severn tale). | Explicit: Bridgnorth and Severn — "The one who held the line at Bridgnorth with the Ten Knights! The one who pulled the King's brother from the Severn mudflats!" |
+| **Harold's response** | "I pulled a fool from a river. The fool happened to be a prince." (Not spoken aloud in this chapter; this line appears in Chapter 46) | "I pulled a fool from a river. The fool happened to be a prince." (Spoken aloud to knights) |
+| **Beatrice's reaction** | "She leaned against the doorframe and waited. She had to wait a long time." | "Beatrice stepped back and watched in awe." |
+| **Harold's comment on the hall** | "I was here when they laid the first stones... William Rufus built it... They're all just halls, in the end." | "I was here when they laid the first stones... William Rufus built it... They're all just halls, in the end." (Nearly identical wording) |
+| **Walk through the hall** | Yes — with Beatrice. | Yes — with Beatrice. |
+| **Stops at window overlooking Thames** | Yes. | Yes. |
+| **Harold's blessing to Beatrice** | Full "green things" speech: *"A wedding is a fine thing... Build your walls strong with Godfrey, aye—but leave room for the green things to grow between the cracks."* | Brief: *"I came to give you my blessing... You have become a woman who knows her own mind. Your mother would have wept to see it—and not from sorrow."* |
+| **Harold's words to Godfrey** | None. Godfrey is not present. | **"You've done well, boy."** — spoken aloud across the hall. |
+| **Godfrey's response** | N/A. | *"I've tried."* |
+| **Harold's closing line** | "Now. I am told the Queen has been asking after me. I suppose I should pay my respects." | "Now. I am told the Queen has been asking after me. I suppose I should pay my respects." (Identical) |
+| **Embrace** | "He pulled her into a rough embrace." | "He pulled her into a rough embrace." |
+| **Staghound** | Not mentioned. | Present: "The staghound, brought along despite all sense, sat at his feet." |
+| **Goosie** | Not mentioned. | Present: "And Goosie was there, preening her feathers." |
 
-At the beginning of wedding preparations, Harold took Beatrice aside, his large, calloused hand resting briefly on her silk sleeve. “Listen to me, lass. A wedding is a fine thing, but it is only a beginning. Don’t mistake the feast for the fortune.”
+---
 
-He gestured to the heavy masonry of the Great Hall. “Think of it like this: a marriage needs a stone foundation so the wind won’t shake it, but it also needs a living seed planted in the center of it. If you have only the stone, the heart grows cold and hard. If you have only the seed, the first winter frost will kill the sprout.”
+## What Is Unique to Each Chapter
 
-He looked her in the eye. “Build your walls strong with Godfrey, aye—but leave room for the green things to grow between the cracks. That is how a house becomes a home.”
+### Unique to Chapter 42:
+- The **search for Harold** (the "can't find him" moment, specified as required in the handover).
+- Harold telling stories to **guards** in the mess.
+- The **full marriage advice** ("leave room for the green things to grow").
 
-After that, Harold was content to watch the proceedings, a proud father. The weeks before the wedding were a whirlwind of fittings, feast planning, and last-minute diplomacy.
+### Unique to Chapter 46:
+- **Date: 1 March 1115.**
+- Harold interacting with **knights** (not guards) and being publicly recognised for his deeds.
+- The **Bridgnorth** reference.
+- The line **"You've done well, boy"** spoken to Godfrey.
+- The **staghound** and **Goosie** present.
+- A slightly different, shorter blessing focused on Beatrice's growth rather than marriage advice.
+
+---
+
+## Analysis
+
+The two chapters are clearly **two drafts of the same narrative beat**: Harold's visit to court to see Beatrice before the wedding. They contain overlapping material (the hall description, the walk, the blessing, the Queen mention) but differ in audience (guards vs. knights), the presence of the search, and whether Godfrey receives Harold's approval directly.
+
+The handover from the previous conversation specified that the final version should contain:
+- The search ("can't find him").
+- The knights' recognition (to show Harold's public honour).
+- The marriage advice.
+- The moment with Godfrey.
+
+None of the current chapters contains **all** of these. Chapter 42 has the search and the advice but lacks the knights and Godfrey. Chapter 46 has the knights and Godfrey but lacks the search and the full marriage advice.
+
+---
+
+## Addressing Your Preferences
+
+You said:
+> *"chapter 42 is where these should be, especially the knights. not sure about you've done well, boy."*
+
+That makes sense. Chapter 42 is the **primary emotional visit**, containing the search and the core advice. The knights from Chapter 46 can be **moved into Chapter 42** to give Harold the public recognition he deserves while keeping the intimate father-daughter moment intact.
+
+Regarding **"You've done well, boy"** — this is a powerful line. It shows Harold publicly affirming Godfrey in front of the court, which is a significant moment for a man who has spent his life being dismissed. If you want to keep it, it belongs in Chapter 42, after the knights recognise Harold and after the walk with Beatrice, perhaps as Harold is about to leave for the Queen's solar. Godfrey could be present in the great hall at that moment.
+
+---
+
+## Suggested Merged Version (Chapter 42, Final)
+
+Here is a proposed merged chapter that combines the best of both, with your preference for knights and the search preserved:
+
+---
+
+## Chapter 42 — "Leave room for the green things to grow"
+
+The days after the rescue were a strange, quiet time. The court spoke of little else—the kidnapping, the chase, the candlestick—but Beatrice found herself moving through the whispers like a ghost. Her hand had healed. Her dreams were still full of shadows, but the shadows had faces she could name now, and that made them less terrible.
+
+Godfrey came to her chamber one morning. "Your father has arrived. He asked for you."
+
+Beatrice's heart leapt. She hurried to the great hall, but Harold was not there.
+
+She searched the corridors, the chapel, the garden. Nothing. A thread of panic tightened in her chest. *What if he had fallen? What if the journey had been too much?*
+
+Then she heard it—a low rumble of laughter from the great hall itself. She had passed through it earlier and seen only clusters of knights and clerks. But now a crowd had gathered near the high table.
+
+She pushed through.
+
+Harold stood in the great hall, leaning on his stick, the staghound at his feet. He was surrounded by half a dozen knights, their faces alight with recognition.
+
+"Rauthulfr? The Red‑Wolf? The one who held the line at Bridgnorth with the Ten Knights! The one who pulled the King's brother from the Severn mudflats!"
+
+Harold grunted. "I pulled a fool from a river. The fool happened to be a prince."
+
+They laughed. They asked for the story. Harold gave it—not the polished version, but the real one, with mud and cold water and a man who could not swim in chain mail. By the time he finished, a dozen listeners had gathered.
+
+Beatrice stepped back and watched in awe. Her father, who had seemed so frail at Stanwey, stood straighter than he had in months. His voice carried. His eyes sparkled.
+
+She waited. She had to wait a *long* time. Not that she minded, not really.
+
+When the last tale wound down and the knights dispersed, Harold caught her eye and winked. "Well, daughter. You have a fine hall here. Cold, though. Your mother would have had the fireplaces better placed."
+
+"You frightened me," she said. "I could not find you."
+
+"I was telling stories. It is what old men do." He patted her hand. "Now. Walk with me."
+
+They walked through the great hall, past the high table where the King's chair sat empty, past the screens passage where she had first met Lady Margaret. Harold looked up at the rafters, at the pale Caen stone, at the windows where the winter light fell in slabs.
+
+"I was here when they laid the first stones," he said quietly. "William Rufus built it. I thought it would crush the world. Now it's just a hall." He shook his head. "They're all just halls, in the end."
+
+He stopped by a window that overlooked the river. The Thames was grey, sluggish, the sky the colour of old linen.
+
+"I came to give you my blessing," he said. "Not because the King commands it, or the Queen expects it. Because I have watched you. You have become a woman who knows her own mind. Your mother would have wept to see it—and not from sorrow."
+
+Beatrice's throat tightened.
+
+"But I have one thing to say to you, child. Listen." He turned to face her. "A wedding is a fine thing—the vows, the cup, the church door, the feast. But it is only a beginning. Do not mistake the moment for the marriage."
+
+He gestured to the hall behind them. "A marriage needs a stone foundation—trust, patience, the willingness to bend without breaking. If you have only the stone, the heart grows cold and hard. If you have only the feeling, the first winter frost will kill the sprout."
+
+He looked her in the eye. "Build your walls strong with Godfrey, aye—but leave room for the green things to grow between the cracks. That is how a house becomes a home. The wedding is a single day. The marriage is the rest of your life."
+
+Beatrice nodded, not trusting her voice.
+
+He pulled her into a rough embrace. "Now. I am told the Queen has been asking after me. I suppose I should pay my respects."
+
+She laughed, and the knot in her chest loosened.
+
+As they turned back toward the hall, Harold caught sight of Godfrey standing near the screens passage, watching quietly as he always did. The old thegn stopped.
+
+"You've done well, boy."
+
+Godfrey blinked, startled. "I've tried."
+
+Harold looked at Beatrice, then back at Godfrey. "She's worth trying for."
+
+He didn't say more. He didn't need to. 
+
+Harold walked on toward the Queen's solar, the staghound padding at his heels, and Goosie—who had been preening by the hearth—waddled after him as if she, too, had an appointment with the Queen.
+
+Beatrice watched him go, her heart full. Godfrey came to stand beside her.
+
+"He approves," she said quietly.
+
+"He said I've done well." Godfrey's voice was strange—half wonder, half disbelief.
+
+"You have." She took his hand. 
 
 ---
 
@@ -4790,18 +4802,16 @@ After that, Harold was content to watch the proceedings, a proud father. The wee
 
 The Duchess of Brittany sent a letter to Beatrice:
 
-> To my sister Beatrice love and greetings from myself and our brother William Adelin I am truly glad our brother Godfrey has found you and that you are safe When the seasons turn and you are able come and visit me in Brittany for my own wedding The days will be long and lonely until I see your face again Fare thee well
+> *To my sister Beatrice love and greetings from myself and our brother William Adelin I am truly glad our brother Godfrey has found you and that you are safe When the seasons turn and you are able come and visit me in Brittany for my own wedding The days will be long and lonely until I see your face again Fare thee well*
 
-***
-
-Beatrice read it three times. Then she tucked it into the small chest that held her mother’s keepsakes.
+Beatrice read it three times. Then she tucked it into the small wooden chest that held her mother’s keepsakes.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 45 - The Night Before
+## Chapter 43 – The night before
 
-Godfrey found her in the herb garden, alone.
+Godfrey found her in the Queen’s garden, cold and alone.
 
 “You should be sleeping.”
 
@@ -4815,7 +4825,7 @@ He sat beside her.
 
 “When was that?”
 
-Looking at him: “When you stood unashamed with an weeping maid in the middle of the laneway, not caring who saw you but giving me room. When you asked my father. When you waited outside. When you walked me home and didn’t say a word.” She paused. “You let me choose. Before I knew there was a choice.”
+Looking at him: “When you stood unashamed with a weeping maid in the middle of the laneway, not caring who saw you but giving me room. When you asked my father. When you waited outside. When you walked me home and didn’t say a word.” She paused. “You let me choose. Before I knew there was a choice.”
 
 Quietly: “I wanted you to choose me. Not the vow.”
 
@@ -4835,11 +4845,11 @@ Surprised: “You?”
 
 “Why!?”
 
-“Because I’m not my father. Because I was born out of wedlock—not to the Queen. And because...”
+“Because I’m not my father. Because I was born out of wedlock – not to the Queen. And because...”
 
-“I like you because you’re you,” Beatrice interrupted. “Not for your father or your mother or your great aunt Giselberthe.” She slapped him on the shoulder like her father had so often done to her. “You are not who everyone says, anyway. You’re the man I love and for what it is *worth*, I think that you are actually a *lot* like your father, no matter what anyone says.” Beatrice told him this quite firmly. “Even if you *don’t* yet know that you are.” 
+“I like you because you’re you,” Beatrice interrupted. “Not for your father or your mother or your great‑aunt Giselberthe.” She slapped him on the shoulder like her father had so often done to her. “You are not who everyone says, anyway. You’re the man I love – and for what it’s worth, I think you are actually a *lot* like your father, no matter what anyone says.” She told him this quite firmly. “Even if you *don’t* yet know that you are.”
 
-Godfrey actually laughed and took her hand. “With a bright spark like you as my lantern....” His voice trailed off and he paused, with an odd look lit up his face. “Wait... the man you love?”
+Godfrey actually laughed and took her hand. “With a bright spark like you as my lantern...” His voice trailed off and he paused, with an odd look lighting his face. “Wait... the man you love?”
 
 Beatrice’s hands flew straight up and covered her mouth. Her face coloured slightly. A moment passed before she slowly nodded, with a muffled, “Yes.”
 
@@ -4849,7 +4859,7 @@ Then, from the darkness: a soft honk, and they both burst into real laughter.
 
 Goosie waddled between them, settled in Beatrice’s lap, and tucked her head under her wing.
 
-Godfrey laughed again—a laugh filled with warmth and youthfulness.
+Godfrey laughed again – a laugh filled with warmth and youthfulness.
 
 “She knows who she is... and so do I.”
 
@@ -4857,32 +4867,194 @@ Beatrice smiled and clapped her hands in delight.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
+---
 
-## Chapter 46 — The goose leads the bride
+## Chapter 44 – “She takes the cup”
 
-*(Spring of 1115)*
+*Late January 1115 – the Queen’s solar*
 
-Their wedding was held in the spring, when the oak trees of Rockingham forest were heavy with new green.
+The Queen’s solar was warm, the fire built high. A small gathering: Matilda in the carved chair, Harold on a stool beside her, Lady Margaret by the door. The Duchess Matilda FitzRoy stood near the window, watching. Godfrey faced Beatrice. The firelight caught the silver cup on the table between them.
 
-Nobles came reluctantly at first, expecting scandal. They found a bright-eyed bride who moved through the court with the quiet confidence of someone who had earned her place.
+The King was in Normandy, but the Queen spoke with his voice.
 
-The Queen, seated near the front, watched with an expression no one could quite read—until, just for a moment, she smiled.
+“This is not the old handfasting,” Matilda said, “nor the Norman church rite. It is a new thing – a shared cup, a joining of hands, and words spoken from the heart. It binds as surely as any vow before God, because you bind yourselves.”
 
-Even the half-sisters, forced to curtsey as Beatrice passed, managed something almost like respect.
+Beatrice looked at Godfrey. His face was still, but his eyes were bright.
 
-Harold watched with wet eyes, standing tall despite the pain in his chest. He would not lean on anyone today.
+She stepped forward and took the cup before he could offer it.
 
-When the wedding procession left the church porch, a plump white goose waddled ahead of them, neck stretched high, carrying itself like a queen.
+“Godfrey,” she said, her voice steady despite her trembling hands, “I take this cup. I drink to you. I will be your partner, not your possession. I will hold Stanwey with you, tend its people, and share your burdens. This is my vow. I do this.”
 
-Bright, reedy piping of a symphonia joined the rhythmic thrum of a tabor, driving the heartbeat of the crowd.
+She raised the cup to her lips and drank. The wine was warm, spiced with ginger and honey. It burned a little, but she did not cough.
 
-Someone in the crowd chuckled.
+She lowered the cup and offered it to him.
 
-“Look there—the goose leads the bride.”
+Godfrey took it. His hand brushed hers. He did not look away.
+
+“Beatrice,” he said, “I take this cup. I drink to you. I will hold Stanwey in your name, defend it with my body, and share all that I have with you. I will be your husband, not your master. This is my vow. I do this.”
+
+He drank. The fire crackled. No one spoke.
+
+He set down the cup. Then, slowly, he reached out his right hand – palm up, fingers open. The old gesture. The hand of a man offering not a command, but a promise.
+
+Beatrice placed her hand in his. Their fingers closed together.
+
+Matilda rose. “By the sharing of the cup and the clasping of hands, you are husband and wife. Let no man put asunder.”
+
+Harold’s face was wet, but he did not wipe his eyes. He nodded once.
+
+Beatrice looked at Godfrey. He was smiling – not the careful smile of the court, but a real one, crooked and young.
+
+“Hello, husband,” she whispered.
+
+“Hello, wife.”
+
+In the solar, for a moment, there seemed to be only the firelight and the two of them, hands still clasped.
+
+![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
+
+
+## Chapter 45 – A single, brassy note
+
+*Feast of St. Valentine, 14 February 1115*
+
+The feast was crowded, noisy, suffocating. Beatrice moved through it as she always did now – quietly, carefully, watching.
+
+High in the gallery, the heavy blare of a long trumpet stilled the room, a single, brassy note that sat like an axe‑blade over the assembly.
+
+The Queen rose sharply.
+
+“A moment.”
+
+The hall stilled.
+
+“It has come to my attention that certain persons have seen fit to question the judgment of my lord, the king, in the matter of our son’s betrothal.”
+
+A murmur. Avice, Eustacia and various others went pale.
+
+Looking directly at them: “Let me be clear. The King’s vow is sacred. His choice is final. Our son *is* married. And the lady Beatrice has my full support. Any who trouble her trouble myself and the King.”
+
+She let all sound die completely into silence before turning and sitting.
+
+The hall erupted into murmurs and whispers. It was a long time before anyone dared speak ill of the young couple.
+
+Beatrice stood frozen in time, tears shining in her eyes.
+
+Godfrey, beside her, said nothing. He didn’t need to.
+
+![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
+
+
+## Chapter 47 – The church door
+
+*Sunday, 25 April, Spring 1115 – solemnisation*
+
+The morning of the blessing dawned clear and cold. Beatrice stood in her chamber, the grey wool gown replaced by a dress of deep blue – the Queen’s gift, the cloak that had weighed so heavily on her knees now light as a promise.
+
+Lady Margaret pinned a small brooch at her collar. Her fingers lingered. “My daughter wore this once. I would be greatly honoured if you would wear it. She would have wanted you to have it.”
+
+Beatrice touched the brooch. “I never knew—”
+
+“No,” Margaret said softly. “You would not have. Come. They are waiting.”
+
+The procession formed at the hall door. Harold took Beatrice’s arm. His hand was warm, steady. He did not lean on his stick.
+
+Godfrey waited at the church porch, his hands clasped behind his back. He wore a new tunic – deep green, the colour of the forest after rain.
+
+The villagers lined the lane. The children threw dried lavender. The Reeve stood with his wife, her eyes bright. Alard of Lytham stood at the back.
+
+And ahead of them all, neck stretched high, waddled Goosie – carrying herself like a queen.
+
+At the church door, the priest waited. He was old, his vestments faded, his voice thin but clear.
+
+“Do you come freely?” he asked.
+
+“I come freely,” Beatrice said.
+
+“Do you come freely?” he asked Godfrey.
+
+“I come freely.”
+
+The priest turned to the crowd. “If any man knows cause why these two may not be joined, let him speak now, or forever hold his peace.”
+
+For one terrible heartbeat, Beatrice imagined a voice – a shout, a scandal, a hand raised. Her fingers found her mother’s ring. She turned it once, then stilled her hand.
+
+The silence stretched. A crow called from the oak. A child coughed.
+
+Beneath their feet, the bones of the dead lay in rows, older than the church, older than the village. They had no objection. They had given their yes long ago.
+
+Harold’s hand found the staghound’s head. The dog looked up once, then settled its chin on its paws. No objection from them either.
+
+From the edge of the crowd, the old villager who had shown Godfrey the twisted hawthorn caught his eye and nodded once. The land remembered. So did he.
+
+In the crowd, Avice dropped her gaze to the ground. She did not speak. Eustacia’s lips tightened, but she too held her tongue. The silence held.
+
+Alard of Lytham stood at the back, his hand resting on his sword. He did not expect trouble. But he was ready for it.
+
+Beyond the churchyard wall, the fields lay fallow, the river ran, the sky held its breath. The land had no objection.
+
+A woman near the back – old, her face creased as a dried apple – shifted her weight. “Father,” she said, loud enough to carry, “they’ve waited long enough. Get on with it. We’ve bread to bake.”
+
+A ripple of laughter and loud agreement.
+
+The priest’s mouth twitched.
+
+“Then let the Church bless what God has already joined.”
+
+He raised his hand. The Latin words were old, worn smooth by centuries of use. Beatrice did not understand them all. But she felt their weight.
+
+When the blessing ended, the priest stepped aside. The doors of the church opened.
+
+“Now,” he said, “enter and give thanks.”
+
+Beatrice looked at Godfrey. He offered his hand. She took it.
+
+They walked inside together.
+
+![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
+
+
+## Chapter 48 – The wedding feast
+
+The hall was crowded, noisy, warm. The same hall where the King had once sat in Harold’s chair now groaned under the weight of roasted fowl, fresh bread, and spiced wine. The musicians from the village played – a harp, a vielle, a tabor.
+
+Harold sat at the high table, the staghound at his feet. He did not speak much, but his eyes followed Beatrice wherever she moved.
+
+Queen Matilda sat beside him. “You have raised a remarkable daughter, Rauthulfr.”
+
+Harold’s mouth twitched. “She raised herself. I just stayed out of her way.”
+
+Matilda laughed. It was a real laugh, warm and unguarded.
+
+Godfrey stood to make a toast. He had prepared nothing. He cleared his throat.
+
+“I was a shadow,” he said. “I waited. I watched. I was counted and dismissed. Then a girl walked into my father’s hall with a goose in a basket, and she looked at me like I was a man.”
+
+He raised his cup. “To Beatrice. To Stanwey. To making it count – every day, not just this one.”
+
+The hall echoed: “To making it count.”
+
+Beatrice felt her face burn. She looked at Godfrey. He was smiling – that crooked, young smile.
+
+Goosie, who had been quiet for weeks, lifted her head and let out a single, clear honk.
+
+The hall erupted in laughter.
+
+Beatrice picked up the goose and held her close.
+
+“Hello, Goosie,” she whispered. “You came back.”
+
+The goose tucked her head under Beatrice’s chin.
+
+---
+
+The feast wound down. The musicians packed their instruments. Beatrice and Godfrey walked out into the spring evening, Goosie waddling ahead of them.
+
+Someone in the crowd chuckled. “Look there – the goose leads the bride.”
 
 An old woman nearby nodded knowingly.
 
-“Aye. Did I never tell you? In Mercia they say a goose may wend where a King must wait.”
+“Aye. In Mercia they say a goose may wend where a King must wait.”
 
 And so it did.
 
@@ -4918,7 +5090,7 @@ Beatrice grew old with him at Stanwey, but she did not grow gentle – not in th
 
 When Godfrey died – quietly, one winter, his hand in hers – she did not rage at heaven. She had seen too much for that. She buried him under the apple trees, where her mother lay, and planted a new gooseberry bush at the foot of the grave. The people of Stanwey came to her for judgments: whose fence was true, whose daughter should marry, whose quarrel was not worth the breath. She never sought the role, but she did not refuse it. She had learned from Harold how to see people, from Godfrey how to wait, and from Goosie how to hold her ground without apology.
 
-She outlived many she loved – her father, the Queen, William and Matilda in the cold water, and finally Godfrey himself. Each death carved something out of her, but she did not become hollow. She became, instead, the thing that remained after the carving. The villagers called her “the Lady” not for any title but because she had become what the word meant: steady, fair, and unforgetting. She kept her mother’s herb garden, her father’s sword above the hearth, and her own sharp tongue – though she used it less often in her later years, and only when it mattered.
+She outlived many she loved – her father, the Queen, William and Matilda in the cold water, and finally Godfrey himself. Each death carved something out of her, but she did not become hollow. She became, instead, the thing that remained after the carving. The villagers called her “the Lady” not for any title but because she had become what the word meant: steady and fair. She kept her mother’s herb garden, her father’s sword above the hearth, and her own sharp tongue – though she used it less often in her later years, and only when it mattered.
 
 In her final years, a young woman came to her – a granddaughter, or perhaps a great-niece; the records do not say – and asked how she had endured so much loss. Beatrice is said to have replied: “I learned to hold my peace until I knew what my peace was worth. And then I held that too.”
 
@@ -5117,7 +5289,8 @@ In the 12th century, silence in the face of a wrong was not neutral. It was comp
 
 When she looks at him and sees his pale, trapped face, she recognises something: *He is in the same cage. He did not build it either.* That is not love. It is the beginning of trust – the quiet recognition that they are both prisoners, not enemies.
 
----
+
+***
 
 ## Getting Married in 12th‑Century England
 
@@ -5176,19 +5349,13 @@ Henry’s vow was a **public declaration of intent** – not a marriage, not a b
 
 ---
 
-### 4. The Cup Ritual (Chapter 21)
+### 4. The Courtship Period
 
-This is a fictionalised version of a *sponsalia per verba de praesenti*. Henry calls it “the old way.” By taking wine from Godfrey’s hand, Beatrice publicly signals her present consent. That act would be understood by contemporaries as a binding marriage – not just a betrothal. That is why Henry says, “There is no vow more binding than that.”
-
----
-
-### 5. The Courtship Period (Between Chapters 14 and 21)
-
-After Harold gives permission to court, Godfrey and Beatrice spend time together. This is the *future promise* stage: they are getting to know each other, but not yet married. The cup scene is when the *present consent* – the actual wedding – occurs.
+After Harold gives permission to court, Godfrey and Beatrice begin to spend time together, mainly talking, doing work, relaxing. This is the *future promise* stage: they are getting to know each other, but not yet married. The later agreement – the cup ritual – is when the *present consent* – the actual wedding – occurs, not to be confused with the church solemnisation ceremony.
 
 ---
 
-### 6. A Note on the “New” Radicalism
+### 5. A Note on the “New” Radicalism
 
 Readers should note that in 1115, Godfrey’s understanding of marriage reflects a daring new movement emerging from the **cathedral school of Paris** (sometimes called the “schools of Paris”). This “Parisian model” held that **consent alone makes the marriage** (*Consensus facit nuptias*).
 
@@ -5204,8 +5371,8 @@ For Godfrey, this was not abstract theory. He was using the “Parisian model”
 | :--- | :--- | :--- | :--- |
 | King’s *coram rege* vow | Oaths before the king were binding | The specific “next maid through the door” | The goose chase and Beatrice’s entrance |
 | Parental permission | Expected, but consent was paramount | Harold’s riddle‑test | The exact wording of the riddle |
-| *Verba de futuro* (future promise) | Real canon law category | The cup ritual as betrothal | The cup as a physical object |
-| *Verba de praesenti* (present consent) | Real canon law category | The cup ritual as marriage | The specific “old way” label |
+| *Verba de futuro* (future promise) | Real canon law category | The courtship period as future promise | The specific terms of Harold’s permission |
+| *Verba de praesenti* (present consent) | Real canon law category | The cup ritual as marriage | The specific ritual (Queen’s “new thing”) |
 | Cup rituals across cultures | Well documented | The story’s use of a shared cup | The precise mechanics in 1115 England |
 | Parisian model (consent alone) | Real 12th‑century theological position | Godfrey’s knowledge of it | The cup ritual as its practical application |
 | Dower and morning gift | Standard legal practice | Implied in the story | Not detailed |
@@ -5305,7 +5472,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 *These focus on the most pedagogically rich chapters.* 
 *The optional **Knight’s Challenge** is a deeper question.*
-TODO> Recheck all questions against their chapters in case of chapter drift.
+
 ---
 
 ## Chapter 1 – The geese know a stranger’s fear (Chase Scene)
@@ -5398,23 +5565,36 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-## Chapter 43 – The Cup
+## Chapter 44 – “She takes the cup”
 
-1. Why does Beatrice ask Godfrey to pass her a drink instead of answering the king directly?
-2. What does Henry mean when he says, “She takes the cup”?
-3. How does Harold’s expression change during this scene? Why?
-4. Creative: Draw the moment Beatrice raises the cup toward the rafters.
-5. **Knight’s Challenge:** In the 12th century, a woman taking wine from her betrothed’s hand was a binding act. Why do you think the author chose this ritual instead of a church wedding?
+1. Why does Beatrice take the cup before Godfrey can offer it? What does this action show about her character?
+2. What does Queen Matilda mean when she says, “This is not the old handfasting, nor the Norman church rite. It is a new thing”?
+3. How does Harold react during the ceremony? What does his silence and his wet eyes tell you about his feelings?
+4. Why do Beatrice and Godfrey clasp hands after drinking? What does this gesture represent?
+5. Creative: Draw the moment Beatrice and Godfrey clasp hands, with the firelight and the silver cup in the background.
+6. **Knight’s Challenge:** In the 12th century, a marriage could be created by present consent alone, without a priest. Why do you think the author chose to have Queen Matilda preside over this private ceremony instead of a church wedding? What does this say about the couple’s choice and agency?
 
 ---
 
-## Chapter 46 – The Goose Leads the Bride
+## Chapter 46 – “The church door” (Solemnisation)
 
-1. What does the old woman say when the goose leads the bride?
-2. How do the half‑sisters behave at the wedding? What does that tell you?
-3. Why does Harold stand tall despite his pain?
-4. Creative: Write a one‑sentence moral for the story.
-5. **Knight’s Challenge:** The story ends with the proverb “A goose may wend where a King must wait.” How does Beatrice prove this saying true?
+1. Why does the priest ask, “Do you come freely?” and why is this question important?
+2. What is the purpose of the long silence after the priest asks for objections? What does the silence represent?
+3. How do the different people in the crowd react during the objection call? (Consider Harold, the old villager, Avice, Alard of Lytham, and the old woman who says “Get on with it.”)
+4. Why does the goose lead the procession to the church? What does Goosie symbolise in this moment?
+5. Creative: Draw the scene where the goose leads the bride, with the villagers lining the lane.
+6. **Knight’s Challenge:** The church blessing is a solemnisation, not the marriage itself. Why do you think the author separates the binding consent (the cup ritual) from the public church ceremony? How does this reflect the historical tension between private choice and public recognition?
+
+---
+
+## Chapter 47 – “The wedding feast”
+
+1. What does Godfrey mean when he toasts “To making it count – every day, not just this one”?
+2. How does Harold behave at the feast? What does his quiet presence and his words to Queen Matilda reveal about him?
+3. Why does Goosie honk during the feast? What has changed since she was kicked by Sir Guy?
+4. What is the significance of the old woman repeating the proverb at the end of the feast?
+5. Creative: Write a short toast that Harold might have given if he had chosen to speak.
+6. **Knight’s Challenge:** The proverb “A goose may wend where a King must wait” appears at the beginning and end of the story. How has its meaning changed for Beatrice by the end?
 
 ---
 
@@ -5492,7 +5672,7 @@ Use these to prompt reflection, conversation, or written responses:
 | 14 Feb 1115 | Queen’s public declaration at St. Valentine’s feast |
 | 1 Mar 1115 | Harold visits court |
 | March–April 1115 | Wedding preparations |
-| Spring 1115 | Wedding |
+| 25 April, 1115 | Wedding |
 | After 1115 | Harold’s death (c. 1117); Queen Matilda dies (1118); White Ship (1120) |
 
 ---
@@ -5509,7 +5689,7 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | :--- | :--- | :--- |
 | **Matins** | 2:00 AM – 3:00 AM | The “Night Office.” Sung in total darkness or by candlelight. For the court, this was the deep middle of sleep. |
 | **Lauds** | 5:00 AM – 6:00 AM | The “Morning Office,” sung at the first break of dawn. This marked the waking of the palace; servants began stoking the braziers. |
-| **Prime** | 6:00 AM – 7:00 AM | The “First Hour.” The sun is up. This was the start of the working day for foresters, clerks, and laborers. |
+| **Prime** | 6:00 AM – 7:00 AM | The “First Hour.” The sun is up. This was the start of the working day for foresters, clerks, and labourers. |
 | **Terce** | 9:00 AM | The “Third Hour.” Usually the time for High Mass. In a royal household, this was often when the first light meal (if any) or serious business began. |
 | **Sext** | 12:00 PM | The “Sixth Hour” or Midday. The sun is at its zenith. This was the traditional time for the main meal of the day (dinner). |
 
@@ -5537,15 +5717,15 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 
 ### The Welsh Campaign of 1114
 
-Henry I launched a three‑pronged invasion to force the Welsh princes into submission. Owain ap Cadwgan submitted, was taken to Normandy, and later knighted.
+Henry I launched a three‑pronged invasion to force the Welsh princes into submission. Owain ap Cadwgan submitted, was taken to Normandy, and later knighted. The campaign concluded in early August 1114, shortly before the events of the story begin.
 
 ### The White Ship Disaster (1120)
 
-The White Ship sank near Barfleur, killing nearly 300 people, including William Adelin. Only one man survived. The disaster was caused by drunkenness, a reckless race, and rejection of a priest’s blessing.
+The White Ship sank near Barfleur on the night of 25 November 1120, drowning nearly 300 people, including Henry's only legitimate son and heir, William Adelin, and his half‑sister, Matilda FitzRoy of Brittany. Only one man, a butcher from Rouen, survived by clinging to wreckage. The disaster was caused by youthful recklessness: the crew and passengers were drunk, the ship struck a submerged rock while racing the King's vessel, and the priests who came to bless the voyage were jeered and driven away. King Henry, it was said, never smiled again.
 
 ### Matilda (Edith) of Scotland
 
-Matilda was a co‑ruler, a patron of the arts, and a “good queen” by design. She was born Edith, a Saxon princess, and used her piety to gain the loyalty of the English people.
+Queen Matilda was born Edith, daughter of Malcolm III of Scotland and the Saxon princess Margaret. Her marriage to Henry I in 1100 symbolically united the Norman and Saxon royal lines. She was a co‑ruler in practice, serving as regent when Henry was in Normandy, and a patron of music, architecture, and learning. She used her piety and Saxon heritage to build loyalty among the English people while navigating the suspicions of the Norman barons.
 
 ---
 
@@ -5553,81 +5733,128 @@ Matilda was a co‑ruler, a patron of the arts, and a “good queen” by design
 
 | Character | Inner Struggle | Growth Arc |
 |-----------|----------------|------------|
-| **Beatrice** | Fear of losing control | Moves from resistance to active choice |
-| **Godfrey** | Learned passivity (“shadow”) | From watcher to actor |
-| **Harold** | Fear of leaving Beatrice alone | Learns to let go |
-| **Henry** | Fear of repeating his father’s mistakes | Recognises Godfrey’s worth |
-| **Queen Matilda** | Fear for William’s succession | From suspicion to support |
-| **Sir Guy** | Entitlement masked as grievance | Defeated, does not grow |
+| **Beatrice** | Fear of losing control over her life and home | Moves from resistance and fear to active, informed choice |
+| **Godfrey** | Learned passivity; being seen only as a "shadow" or "coin" | From watcher to actor; learns to stand beside rather than apart |
+| **Harold** | Fear of leaving Beatrice alone and unprotected | Learns to trust and let go |
+| **King Henry** | Fear of repeating his father's coldness; guilt over neglecting Godfrey | Recognises Godfrey's worth and acts to secure his future |
+| **Queen Matilda** | Fear that Godfrey threatens her son William's succession | Moves from suspicion to genuine support and mentorship |
+| **Sir Guy** | Entitlement and grievance masked as righteous indignation | Defeated; does not grow or change |
+| **Lady Margaret** | Unspoken grief over a lost daughter | Finds quiet purpose in guiding Beatrice |
+| **Avice** | Torn between loyalty to her cruel sister and her own conscience | Begins to see the cost of complicity |
+| **Eustacia** | Jealousy and resentment of those with more security | Does not grow; fades from the story |
 
 ---
 
 ## THE GOOSE BRIDE — CHARACTERS
 
-### The King and his Family
+### The King and His Family
 
 | Character | Identity |
 | :--- | :--- |
 | **King Henry I** | Volatile, witty, dangerous, ultimately just. Father of Godfrey and William. |
-| **Queen Matilda of Scotland** | Born Edith. Saxon heritage. Politically astute, protective of William. |
-| **William Adelin** | Legitimate son and heir, age 12. |
-| **Robert Curthose** | Henry’s imprisoned brother; saved by Harold. |
-| **Godfrey FitzRoy** | Illegitimate son, age 19. A watcher, called “shadow” and “coin”. |
-| **Duchess Matilda FitzRoy** | Henry’s daughter, Godfrey’s full sister. Becomes Beatrice’s friend. |
-| **Avice** | Godfrey’s jealous half‑sister (fictional), age 21. |
-| **Eustacia** | Godfrey’s younger half‑sister (fictional), age 19. |
+| **Queen Matilda of Scotland** | Born Edith. Saxon heritage. Politically astute, protective of William, becomes Beatrice's unlikely ally. |
+| **William Adelin** | Legitimate son and heir, age 12. Playful, curious, loyal to his half‑siblings. Drowns in the White Ship disaster of 1120. |
+| **Robert Curthose** | Henry's older brother, imprisoned since 1106. Harold saved him from drowning in the Severn years earlier. |
+| **Godfrey FitzRoy** | Illegitimate son of Henry, age 19. A watcher, called "shadow" and "coin" by the court. Educated at Salisbury, quiet but determined. |
+| **Duchess Matilda FitzRoy** | Henry's illegitimate daughter, Godfrey's full sister, age 18. Betrothed to Conan of Brittany. Sharp‑eyed, fiercely loyal to her brother, becomes Beatrice's close friend. Drowns with William in 1120. |
+| **Robert of Gloucester** | Henry's eldest illegitimate son, Godfrey's half‑brother. A capable military leader, loyal to his father. |
+| **Richard of Lincoln** | Another illegitimate son of Henry; appears briefly at court. |
+| **Avice** | Godfrey's jealous half‑sister (fictional), age 21. Complicit in cruelty but capable of shame. |
+| **Eustacia** | Godfrey's younger half‑sister (fictional), age 19. The more openly cruel of the two. |
+| **Edith of Devon** | Godfrey and Matilda's mother, a noblewoman and former mistress of Henry. Lives quietly at Berkhamsted. |
 
 ### Nobles over the Sea (Mentioned Only)
 
 | Character | Identity |
 | :--- | :--- |
-| **Conan, Duke of Brittany** | Father of Agnes. |
-| **Agnes of Brittany** | Offered as Godfrey’s bride. |
-| **Alain** | Conan’s father, retiring to a monastery. |
-| **Giselberthe of Flanders** | Henry I’s maternal aunt. |
+| **Conan III, Duke of Brittany** | Betrothed to Matilda FitzRoy. |
+| **Agnes of Brittany** | Briefly considered as a potential bride for Godfrey. |
+| **Alain Fergent** | Conan's father, former Duke of Brittany, who retired to a monastery. |
+| **Giselberthe of Flanders** | Henry I's maternal aunt. |
 
 ### The Saxons of Stanwey
 
 | Character | Identity |
 | :--- | :--- |
-| **Harold Red‑Wolf** | Beatrice’s father. Old, frail, but sharp‑eyed. |
-| **Beatrice’s Mother** | (Name unknown) Died when Beatrice was 11. |
-| **Beatrice** | Protagonist, age 16. Runs the manor. |
-| **Goosie** | Beatrice’s goose. |
+| **Harold "Red‑Wolf"** (*Rauthulfr Magnússon*) | Beatrice's father. An ageing Saxon thegn who survived the Conquest by submitting early and saving the King's brother from drowning. Old, frail, but sharp‑eyed and wise. |
+| **Beatrice's Mother** | (Name unknown) Died when Beatrice was 11. Taught Beatrice herb‑lore, brewing, and the running of a household. |
+| **Beatrice** | Protagonist, age 16. Practical, outspoken, deeply attached to her home and her goose. |
+| **Goosie** | Beatrice's goose, hatched from a speckled egg from the river‑bend farm. A character in her own right. |
+| **The Cook (Beatrice's Aunt)** | Beatrice's mother's widowed sister. Comes to Stanwey to help run the hall. |
+| **Eldred** | The capable new estate reeve sent by the Queen to support Harold. Steady, good with accounts. |
+| **The Reeve** | Stanwey's original village headman. Loyal, hardworking, father of a large family. |
+| **The Priest (St. Peter's)** | The elderly village priest at Stanwey. Kind, perceptive, keeps bees. |
+| **Staghound** | Harold's loyal grey hunting dog. Follows him everywhere; dies shortly after Harold. |
 
-### Knights and Nobles
-
-| Character | Identity |
-| :--- | :--- |
-| **Lady Margaret** | Beatrice’s daily mentor at court, age 29. |
-| **Sir Guy de Montfort** | Young Norman knight, age 24. Wants Stanwey. |
-| **Roger of Salisbury** | Henry’s Justiciar, bishop, age 49. |
-| **Court Whisperers** | Unnamed nobles and servants. |
-
-### Minor Characters – Royal Court
+### The River‑Bend Farm
 
 | Character | Identity |
 | :--- | :--- |
-| **The Clerk** | Royal clerk. |
-| **The Steward** | Household steward. |
-| **The Royal Marshal** | Marked a gander with the king’s seal. |
+| **The Nurse** | Godfrey and Matilda's former wet‑nurse. Now runs the goose farm by the river bend. Gruff, practical, fond of both Godfrey and Beatrice. Sells Beatrice the speckled egg that becomes Goosie. |
 
-### Minor Characters – Stanwey Farms and Beyond
+### Knights, Nobles, and Clerics at Court
 
 | Character | Identity |
 | :--- | :--- |
-| **The Nurse** | Former wet nurse, owns the farm by the river bend. |
-| **The Reeve** | Stanwey’s village headman. |
-| **Staghound** | Harold’s loyal dog. |
-| **The Priest** | Village priest at St. Peter’s. |
-| **Farmer’s Wife** | Loses her flock to murrain. |
-| **Tenant Farmer** | Loses birds to the Abbot’s tithe collector. |
-| **The Old Woman** | Speaks the proverb at the wedding. |
-| **The Abbot** | Unnamed tithe collector. |
+| **Lady Margaret** | Beatrice's daily mentor at court, age 29. A widow who lost a daughter. Patient, exacting, quietly kind. Serves the Queen directly. |
+| **Sir Guy de Montfort** | Young Norman knight, age 24. Claims kinship to the powerful de Montfort family of Évreux. Obsessed with acquiring Stanwey. |
+| **Roger of Salisbury** | Henry's Justiciar and Bishop of Salisbury, age 49. The second most powerful man in England. Ink‑stained, precise, efficient. |
+| **Ranulf the Chancellor** | The Lord Chancellor, target of Beatrice's inadvertent insult ("a goose could outwit the Chancellor"). Takes it with surprising grace. |
+| **Robert de Beaumont** | The King's trusted advisor; accompanies Henry to Normandy. |
+| **The Clerk** | Royal clerk who records the King's vow and the Queen's grants. |
+| **The Steward** | Household steward at Rockingham and Westminster. |
+| **The Royal Marshal** | Official who marked the old gander with the King's seal. |
 
-### Extra Characters
+### Minor Characters – Royal Court (Named)
 
-Sabina (Flemish maid), Ela (young maid), John the carter, John’s wife, John’s two daughters, Big Edwin (tenant farmer), Sheriff of Nottingham, Robert de Beaumont, Richard of Lincoln, William de Warenne, Eustace of Boulogne, Nigel d’Aubigny, Ranulf le Meschin, Geoffrey de Clinton, the clerk (royal), the steward, the royal marshal, the reeve (Stanwey), the staghound, the priest (St. Peter’s, Stanwey), the farmer’s wife (murrain), the tenant farmer (abbot’s tithe), the old woman (proverb at wedding), the abbot (unnamed), the priest (St. Mary-by-the-Woods), the royal forester, the captain of the guard, the messenger (royal), the servant (various unnamed), the musician (harpist at Stanwey), the musician (vielle player at Westminster), the Queen’s maids (singers), the cook (Beatrice’s aunt), Eldred (reeve from the King), Lady Margaret’s maid, the Flemish merchant (grey-haired), the wandering clerk, the young squires, the village children (flower throwers), the blacksmith, the miller’s wife.
+| Character | Identity |
+| :--- | :--- |
+| **Alard of Lytham** | Grizzled sergeant of the Queen's guard. Accompanies Beatrice and Godfrey, watches over them, stands guard at the wedding. |
+| **Sabina** | Flemish linen‑maid. Beatrice was curt with her on her first day; later, Sabina overhears Sir Guy's plot but stays silent out of fear. |
+| **Ela** | Young maid who discovers Goosie in Beatrice's chamber and screams "ghost," triggering the solar disaster. |
+| **The Queen's Maids** | Trained singers who perform for the Queen, including the *dawn‑song* from Provence. |
+| **The Flemish Merchant** | Grey‑haired, nondescript; moves among the benches at the feast, listening. |
+| **The Wandering Clerk** | A threadbare scholar at the edge of the feast, watching the high table. |
+| **The Young Squires** | Laugh at Beatrice when she is drenched in slops. |
+
+### Minor Characters – Stanwey Farms and Villages (Named)
+
+| Character | Identity |
+| :--- | :--- |
+| **John the Carter** | Drives the bullock‑wain that gives Beatrice a lift from Rockingham. |
+| **John's Wife** | Rides beside him; sharp‑eyed, enjoys gossip. |
+| **John's Two Daughters** | Ride on the tailboard; their chatter reveals the King's vow to Beatrice. |
+| **Big Edwin** | A tenant farmer near Stanwey whose birds were taken by the Abbot's tithe collector. |
+| **The Farmer's Wife** | Lost her flock to murrain after the river flooded. |
+| **The Tenant Farmer** | Lost his birds to the Abbot. |
+| **Alfsige** | Elderly villager; walks the bounds with Godfrey and identifies the rune‑marked boundary stone. |
+| **Leofwine** | Elderly villager; explains the history of the Roman road and iron pits during the bounds‑walking. |
+| **The Blacksmith** | Works at the crossroads; his wife has a new baby girl. |
+| **The Miller's Wife** | Mentioned in passing. |
+| **The Village Children** | Gather flowers to decorate the lane for the King's visit. |
+
+### Minor Characters – The Rescue and Wedding
+
+| Character | Identity |
+| :--- | :--- |
+| **The Priest (St. Mary‑by‑the‑Woods)** | The corrupt priest who allows Sir Guy to use his chapel; flees and is later caught. |
+| **The Royal Forester** | Blows the horn that warns of the attack and helps scatter Sir Guy's hired men. |
+| **The Captain of the Guard** | Arrives at the chapel to arrest Sir Guy. |
+| **The Old Villager (Hawthorn)** | Catches Godfrey's eye at the church door and nods—a silent witness of the land. |
+| **The Old Woman (Church)** | Calls out "Get on with it. We've bread to bake" during the objection silence at the wedding. |
+| **The Old Woman (Proverb)** | Repeats the proverb at the end of the wedding feast. |
+| **The Messenger (Royal)** | Various unnamed messengers who carry letters and news. |
+
+### Historical Figures Mentioned
+
+| Character | Identity |
+| :--- | :--- |
+| **Empress Matilda** | Henry's legitimate daughter, later claimant to the English throne. (Not a character in the story, but noted in historical context.) |
+| **Matilda of Boulogne** | Wife of Stephen of Blois, future King. (Not a character in the story.) |
+| **William Peverel the Younger** | Ambitious Sheriff of Nottingham and beyond; watches Stanwey's iron‑rich lands with interest. |
+| **Maredudd ap Bleddyn** | Welsh chieftain of Powys; Godfrey negotiated a treaty with him. |
+| **Owain ap Cadwgan** | Welsh prince who submitted to Henry I in 1114. |
+| **William Clito** | Henry's nephew, son of the imprisoned Robert Curthose; a rival claimant to Normandy, sheltered by the French King. |
 
 ---
 
@@ -5722,7 +5949,7 @@ Sabina (Flemish maid), Ela (young maid), John the carter, John’s wife, John’
 
 ## Grammar
 
-In general I have taken some liberties with modern English grammar to give a greater sense of the 1100s era, its immediacy of speech and a more concrete—less abstract—mindset. Otherwise, all grammatical errors are mine.
+In general the author has taken some liberties with modern English grammar to give a greater sense of the 1100s era, its immediacy of speech and a more concrete—less abstract—mindset. Otherwise, all grammatical errors are the author’s.
 
 ---
 
