@@ -429,9 +429,13 @@ He turned the parchment pages toward the front, where the calendar of saints was
 
 Seeing his distant smile, Beatrice leaned in and smiled. “Tell me, Father...” For she knew it would bring him pleasure to tell his tales—to pull the old world out from the shadows of the rafters for a time. “How many winters for the *Red Wolf*, son of *Magnús*?”
 
-Harold paused, his eyes drifting from the script to the window, and for a moment the manor house seemed to grow cold with the memory of salt spray. “For *Harold Rauth-ulfr Magnús-son*, Two and sixty years,” he said, his voice dropping into the low, rolling thrum of a saga-man. “I was but a lad of sixteen when the Sea-Steeds of the Great Harald Hardrada first bit the sands at Riccall. I saw the Raven-Banner snap in the wind before the Storm of Swords broke us at the Bridge. The North-way bled out on that grass, and I thought my own thread was spun.”
+Harold paused, his eyes drifting from the script to the window, and for a moment the manor house seemed to grow cold with the memory of salt spray, his voice dropping into the low, rolling thrum of a saga-man. 
 
-He fingered a stiff page of the heavy book, his gaze hard but distant. “But the Normans were made of stiffer cloth. I bent my knee to their King William while the blood was still wet on my mail. I traded the axe for a Norman’s horse and rode with a few of his sons and nobles through the mud of the West. Now, that was when—“
+> **Two** and **six**ty **win**ters. I was six**teen** **win**ters when **Ha**rald's **sea**-steeds bit the **sands** at **Ric**call.
+> 
+> **I** saw the **Ra**ven **snap** in the **wind** ere the **swords** broke our **shield**-wall at the **Bridge**. **Nor**way **bled** on that **grass**; I **thought** my own **thread** was **spun**.
+> 
+> But the **Nor**mans were **made** of **stiff**er **cloth**. I **bent** my **knee** to their **Wil**liam while the **blood** was still **wet** on my **mail**. I **trad**ed the **axe** for a **Nor**man's **horse** and **rode** with his **sons** through the **mud** of the **West**. **Now**, **that** was **when**—
 
 He was cut short by a heavy, hesitant rapping at the oak door. The latch clicked, and the cool evening air spilled in.
 
