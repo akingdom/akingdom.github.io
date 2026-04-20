@@ -16,8 +16,6 @@
     </div>
 </div>
 
-## Opening
-
          "A goose may wend where a King must wait."
 
     It was a witless saying from the Norman harrowing of England.
