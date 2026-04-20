@@ -5677,10 +5677,10 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 | Influence | Application in *The Goose Bride* |
 |-----------|----------------------------------|
-| **Duty versus love tension** | The protagonists are separated by political and familial obligations. Godfrey's summons to Normandy (duty) and his desire to stay with Beatrice (love) mirror the central conflict of CLOY. |
-| **The "active choice" moment** | Like Se‑ri choosing to save Captain Ri, Beatrice takes the cup before Godfrey can offer it—an active demonstration of agency and consent. |
-| **Found family** | The soldiers and villagers who support the leads are echoed in the community at Stanwey—the reeve, the nurse, Alard of Lytham, the old villagers who walk the bounds. |
-| **Silent love** | CLOY's power often lies in what characters do not say. Godfrey's quiet gestures (waiting, watching, small acts of care) follow this principle. |
+| **The “third option”** | Faced with an impossible question, Captain Ri chooses a path that denies nothing and reveals his heart without a direct confession. Godfrey’s “fourth thing” – rejecting easy masks (grasping or grovelling) – follows the same principle. |
+| **Active choice** | Se‑ri leaves the hospital to save Captain Ri; Beatrice takes the cup before Godfrey can offer it. Both demonstrate love through decisive action, not passive acceptance. |
+| **Dark night before the climax** | The night before the cup ritual, Beatrice and Godfrey admit their fears (“What if I’m not enough?”). This vulnerable conversation – mirroring CLOY’s quiet moments before separation – makes the subsequent vows earned. |
+| **The cost of love** | In CLOY, reunion is immediately followed by a new obstacle; love is tested by what it costs. Godfrey’s summons to Normandy after the cup ritual forces a new separation, proving that their commitment is not a fairy‑tale ending but a continuing choice. |
 
 ### Wassail / "Drinc Hail" (Medieval Drinking Ritual)
 
