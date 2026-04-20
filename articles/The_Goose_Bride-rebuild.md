@@ -398,7 +398,7 @@ In the morning, her father looked refreshed, but frail.
 
 Above the hearth, the sword that had carved through shield walls hung: a broad, straight-edged Saxon blade. It was pattern-welded, the steel showing a faint ripple. The lobed pommel was iron, and the grip was worn smooth by his father’s hand. But now it seemed like someone else’s memory, another lifetime.
 
-The familiar bounce in his step was no more. The man who had led hundreds now sat by the fire with his staghound, watching his daughter run the manor without being asked.
+The familiar bounce in his step was no more. The man who had led hundreds now sat by the fire with his staghound, watching his daughter run the manor without har being asked.
 
 Beatrice had bright eyes, a quick wit, and a habit of speaking her thoughts aloud before deciding whether she ought to. But she learned to watch for the signs—the way he’d pause at the door, the way his hand would go to his chest after climbing the slope from the village. She didn’t say anything. What was there to say?
 
