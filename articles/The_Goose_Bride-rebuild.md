@@ -1,7 +1,5 @@
 # The Goose Bride
 
-## Opening
-
 <div style="text-align: center; margin: 20px 0;">
     <div style="display: inline-block; 
                 max-width: 85%; 
@@ -18,6 +16,7 @@
     </div>
 </div>
 
+## Opening
 
          "A goose may wend where a King must wait."
 
