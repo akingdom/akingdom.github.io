@@ -24,7 +24,7 @@
          Yet, the wise‑wives of Mercia spoke of a maiden
                    who proved the word most true.
 
-         A gos may gon thar the king mot biden.
+         A gos may gon thar the kyng mot biden.
     This was a folk speche of the shires sithen the Normans comen.
          Ac a wise wif of Mercie tolde of a maiden
                    that proved the word soth.
