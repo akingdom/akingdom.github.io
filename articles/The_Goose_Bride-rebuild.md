@@ -5580,6 +5580,8 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ***Caveat:** The following notes are provided for readers interested in the historical and cultural background that shaped this story. Inclusion here does not constitute an endorsement of any particular work or viewpoint; these are simply the materials the author found useful in crafting this fictional world. Any errors of fact or interpretation remain the author's own.*
 
+***Note:** This story is unrelated to **The Goose Girl** fairytale, about a princess, her identity and her magical talking horse.*
+
 ---
 
 ## I. Academic & Historical Sources
@@ -5646,14 +5648,13 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ## II. Cultural & Artistic Influences
 
-### Crash Landing on You (K‑drama, 2019–2020)
+### Ever After (1998) & Jill Bearup
 
 | Influence | Application in *The Goose Bride* |
 |-----------|----------------------------------|
-| **Duty versus love tension** | The protagonists are separated by political and familial obligations. Godfrey's summons to Normandy (duty) and his desire to stay with Beatrice (love) mirror the central conflict of CLOY. |
-| **The "active choice" moment** | Like Se‑ri choosing to save Captain Ri, Beatrice takes the cup before Godfrey can offer it—an active demonstration of agency and consent. |
-| **Found family** | The soldiers and villagers who support the leads are echoed in the community at Stanwey—the reeve, the nurse, Alard of Lytham, the old villagers who walk the bounds. |
-| **Silent love** | CLOY's power often lies in what characters do not say. Godfrey's quiet gestures (waiting, watching, small acts of care) follow this principle. |
+| **Sincerity over irony** | Jill Bearup's video essay on *Ever After*—a film made with "so much love and care and sincerity"—was the direct reason for this novel’s existence. As such, the story strives for the same earnestness: characters who mean what they say, a romance built on mutual understanding, and a willingness to sit with both joy and grief. |
+| **Active choice and female agency** | As in *Ever After*, the heroine's agency is central. Beatrice walks into the King's hall on her own terms, asks directly about her choice, and takes the cup before it can be offered. Her "yes" must be freely given. |
+| **"A movie that likes its characters"** | Bearup's observation that *Ever After* likes all its main characters shaped the portrayal of Queen Matilda, Harold, the King and the antagonists. The story seeks to understand each person from the inside, without condescension. |
 
 ### Time Team (BBC Television Series, 1994–2014; YouTube/Patreon Series 2022—)
 
@@ -5664,13 +5665,22 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 | **Material culture** | The knife, the basket, the sword, the cloak—small objects that carry meaning—reflect the show's focus on physical evidence of past lives. |
 | **"The land remembers"** | Archaeologist Francis Pryor's emphasis on deep time and landscape memory permeates the story's treatment of Stanwey and its boundaries. |
 
-### Ever After (1998) & Jill Bearup
+### Cinema Therapy (YouTube Series, 2020–Present)
 
 | Influence | Application in *The Goose Bride* |
 |-----------|----------------------------------|
-| **Sincerity over irony** | Jill Bearup's video essay on *Ever After*—a film made with "so much love and care and sincerity"—was the direct reason for this novel’s existence. As such, the story strives for the same earnestness: characters who mean what they say, a romance built on mutual understanding, and a willingness to sit with both joy and grief. |
-| **Active choice and female agency** | As in *Ever After*, the heroine's agency is central. Beatrice walks into the King's hall on her own terms, asks directly about her choice, and takes the cup before it can be offered. Her "yes" must be freely given. |
-| **"A movie that likes its characters"** | Bearup's observation that *Ever After* likes all its main characters shaped the portrayal of Queen Matilda, Harold, the King and the antagonists. The story seeks to understand each person from the inside, without condescension. |
+| **Psychology through storytelling** | Hosted by licensed therapist Jonathan Decker and filmmaker Alan Seawright, Cinema Therapy uses movies to explore mental health and relationships. That same belief—that stories illuminate real life—underpins the novel's psychologically grounded characters. |
+| **Healthy vs. unhealthy relationships** | The show's analysis of fictional couples informs Beatrice and Godfrey's courtship: built not on grand passion but on mutual respect, active listening, and earned trust. |
+| **Grief as a central theme** | The series' focus on how loss shapes behaviour is reflected in the novel's multiple griefs: Harold's widowhood, Beatrice's fear of losing her father, Lady Margaret's silent mourning, and Sir Guy's twisted grievance. |
+
+### Crash Landing on You (K‑drama, 2019–2020)
+
+| Influence | Application in *The Goose Bride* |
+|-----------|----------------------------------|
+| **Duty versus love tension** | The protagonists are separated by political and familial obligations. Godfrey's summons to Normandy (duty) and his desire to stay with Beatrice (love) mirror the central conflict of CLOY. |
+| **The "active choice" moment** | Like Se‑ri choosing to save Captain Ri, Beatrice takes the cup before Godfrey can offer it—an active demonstration of agency and consent. |
+| **Found family** | The soldiers and villagers who support the leads are echoed in the community at Stanwey—the reeve, the nurse, Alard of Lytham, the old villagers who walk the bounds. |
+| **Silent love** | CLOY's power often lies in what characters do not say. Godfrey's quiet gestures (waiting, watching, small acts of care) follow this principle. |
 
 ### Wassail / "Drinc Hail" (Medieval Drinking Ritual)
 
