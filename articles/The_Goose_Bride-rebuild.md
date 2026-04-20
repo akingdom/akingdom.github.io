@@ -4702,7 +4702,7 @@ The days after the rescue were a strange, quiet time. The court spoke of little 
 
 Godfrey came to her chamber one morning. "Your father has arrived. He asked for you."
 
-Beatrice's heart leapt. She hurried to the great hall, but Harold was not there.
+Beatrice’s heart leapt. She hurried to the great hall, but Harold was not there.
 
 She searched the corridors, the chapel, the garden. Nothing. A thread of panic tightened in her chest. *What if he had fallen? What if the journey had been too much?*
 
@@ -4736,7 +4736,7 @@ He stopped by a window that overlooked the river. The Thames was grey, sluggish,
 
 "I came to give you my blessing," he said. "Not because the King commands it, or the Queen expects it. Because I have watched you. You have become a woman who knows her own mind. Your mother would have wept to see it—and not from sorrow."
 
-Beatrice's throat tightened.
+Beatrice’s throat tightened.
 
 "But I have one thing to say to you, child. Listen." He turned to face her. "A wedding is a fine thing—the vows, the cup, the church door, the feast. But it is only a beginning. Do not mistake the moment for the marriage."
 
@@ -5386,6 +5386,26 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
+## A Note on the Godfrey-Beatrice Relationship: Historical Realism and Modern Resonance
+
+The story presents a relationship that is **historically plausible** while also **emotionally resonant** to modern readers. It does not impose 21st‑century dating norms onto the 12th century; instead, it finds the authentic spaces where agency, choice, and emotional connection could exist within medieval structures.
+
+### What the Story Does Not Do
+
+- **It does not pretend Beatrice has modern freedoms.** She is constrained by her gender, her class, and her era. Her agency is real but limited—she chooses *within* the cage, not by escaping it. This is historically honest and narratively powerful.
+
+- **It does not romanticise toxic dynamics.** Sir Guy's obsession is presented as predatory. The half‑sisters' cruelty is not excused. The King's temper is shown as dangerous. The story distinguishes between healthy love and unhealthy possession.
+
+- **It does not rush.** The relationship develops over months, through small moments, not grand declarations. Trust is earned, not assumed. This is both historically plausible and psychologically sound.
+
+### Conclusion
+
+*The Goose Bride* is a reasoned, realistic representation of what a young couple might go through in the 12th century—and what any couple, in any era, must go through to build a lasting partnership.
+
+The story's achievement is that it does not cheat. It does not give Beatrice 21st‑century freedoms while pretending she lives in 1115. Instead, it finds the authentic spaces where love, choice, and mutual respect could grow within the world she actually inhabited. That makes the relationship feel *earned*, and that is why it resonates.
+
+---
+
 ## A Closer Look: Beatrice’s Anger in “And You Knew”
 
 *Beatrice’s anger is not a modern “you hurt my feelings” moment. It is a thegn’s daughter claiming the honour due to her house, confronting a system that treated her as currency, and discovering that even a prince can be powerless. The scene is not about blame – it is about two young people realising, for the first time, that they are on the same side of the cage.*
@@ -5666,7 +5686,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 |-----------|----------------------------------|
 | **Psychology through storytelling** | Hosted by licensed therapist Jonathan Decker and filmmaker Alan Seawright, Cinema Therapy uses movies to explore mental health and relationships. That same belief—that stories illuminate real life—underpins the novel's psychologically grounded characters. |
 | **Healthy vs. unhealthy relationships** | The show's analysis of fictional couples informs Beatrice and Godfrey's courtship: built not on grand passion but on mutual respect, active listening, and earned trust. |
-| **Grief as a central theme** | The series' focus on how loss shapes behaviour is reflected in the novel's multiple griefs: Harold's widowhood, Beatrice's fear of losing her father, Lady Margaret's silent mourning, and Sir Guy's twisted grievance. |
+| **Grief as a central theme** | The series' focus on how loss shapes behaviour is reflected in the novel's multiple griefs: Harold's widowhood, Beatrice’s fear of losing her father, Lady Margaret's silent mourning, and Sir Guy's twisted grievance. |
 
 ### Crash Landing on You (K‑drama, 2019–2020)
 
@@ -5912,11 +5932,11 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | Character | Identity |
 | :--- | :--- |
 | **King Henry I** | Volatile, witty, dangerous, ultimately just. Father of Godfrey and William. |
-| **Queen Matilda of Scotland** | Born Edith. Saxon heritage. Politically astute, protective of William, becomes Beatrice's unlikely ally. |
+| **Queen Matilda of Scotland** | Born Edith. Saxon heritage. Politically astute, protective of William, becomes Beatrice’s unlikely ally. |
 | **William Adelin** | Legitimate son and heir, age 12. Playful, curious, loyal to his half‑siblings. Drowns in the White Ship disaster of 1120. |
 | **Robert Curthose** | Henry's older brother, imprisoned since 1106. Harold saved him from drowning in the Severn years earlier. |
 | **Godfrey FitzRoy** | Illegitimate son of Henry, age 19. A watcher, called "shadow" and "coin" by the court. Educated at Salisbury, quiet but determined. |
-| **Duchess Matilda FitzRoy** | Henry's illegitimate daughter, Godfrey's full sister, age 18. Betrothed to Conan of Brittany. Sharp‑eyed, fiercely loyal to her brother, becomes Beatrice's close friend. Drowns with William in 1120. |
+| **Duchess Matilda FitzRoy** | Henry's illegitimate daughter, Godfrey's full sister, age 18. Betrothed to Conan of Brittany. Sharp‑eyed, fiercely loyal to her brother, becomes Beatrice’s close friend. Drowns with William in 1120. |
 | **Robert of Gloucester** | Henry's eldest illegitimate son, Godfrey's half‑brother. A capable military leader, loyal to his father. |
 | **Richard of Lincoln** | Another illegitimate son of Henry; appears briefly at court. |
 | **Avice** | Godfrey's jealous half‑sister (fictional), age 21. Complicit in cruelty but capable of shame. |
@@ -5936,11 +5956,11 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 
 | Character | Identity |
 | :--- | :--- |
-| **Harold "Red‑Wolf"** (*Rauthulfr Magnússon*) | Beatrice's father. An ageing Saxon thegn who survived the Conquest by submitting early and saving the King's brother from drowning. Old, frail, but sharp‑eyed and wise. |
-| **Beatrice's Mother** | (Name unknown) Died when Beatrice was 11. Taught Beatrice herb‑lore, brewing, and the running of a household. |
+| **Harold "Red‑Wolf"** (*Rauthulfr Magnússon*) | Beatrice’s father. An ageing Saxon thegn who survived the Conquest by submitting early and saving the King's brother from drowning. Old, frail, but sharp‑eyed and wise. |
+| **Beatrice’s Mother** | (Name unknown) Died when Beatrice was 11. Taught Beatrice herb‑lore, brewing, and the running of a household. |
 | **Beatrice** | Protagonist, age 16. Practical, outspoken, deeply attached to her home and her goose. |
-| **Goosie** | Beatrice's goose, hatched from a speckled egg from the river‑bend farm. A character in her own right. |
-| **The Cook (Beatrice's Aunt)** | Beatrice's mother's widowed sister. Comes to Stanwey to help run the hall. |
+| **Goosie** | Beatrice’s goose, hatched from a speckled egg from the river‑bend farm. A character in her own right. |
+| **The Cook (Beatrice’s Aunt)** | Beatrice’s mother's widowed sister. Comes to Stanwey to help run the hall. |
 | **Eldred** | The capable new estate reeve sent by the Queen to support Harold. Steady, good with accounts. |
 | **The Reeve** | Stanwey's original village headman. Loyal, hardworking, father of a large family. |
 | **The Priest (St. Peter's)** | The elderly village priest at Stanwey. Kind, perceptive, keeps bees. |
@@ -5956,10 +5976,10 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 
 | Character | Identity |
 | :--- | :--- |
-| **Lady Margaret** | Beatrice's daily mentor at court, age 29. A widow who lost a daughter. Patient, exacting, quietly kind. Serves the Queen directly. |
+| **Lady Margaret** | Beatrice’s daily mentor at court, age 29. A widow who lost a daughter. Patient, exacting, quietly kind. Serves the Queen directly. |
 | **Sir Guy de Montfort** | Young Norman knight, age 24. Claims kinship to the powerful de Montfort family of Évreux. Obsessed with acquiring Stanwey. |
 | **Roger of Salisbury** | Henry's Justiciar and Bishop of Salisbury, age 49. The second most powerful man in England. Ink‑stained, precise, efficient. |
-| **Ranulf the Chancellor** | The Lord Chancellor, target of Beatrice's inadvertent insult ("a goose could outwit the Chancellor"). Takes it with surprising grace. |
+| **Ranulf the Chancellor** | The Lord Chancellor, target of Beatrice’s inadvertent insult ("a goose could outwit the Chancellor"). Takes it with surprising grace. |
 | **Robert de Beaumont** | The King's trusted advisor; accompanies Henry to Normandy. |
 | **The Clerk** | Royal clerk who records the King's vow and the Queen's grants. |
 | **The Steward** | Household steward at Rockingham and Westminster. |
@@ -5971,7 +5991,7 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | :--- | :--- |
 | **Alard of Lytham** | Grizzled sergeant of the Queen's guard. Accompanies Beatrice and Godfrey, watches over them, stands guard at the wedding. |
 | **Sabina** | Flemish linen‑maid. Beatrice was curt with her on her first day; later, Sabina overhears Sir Guy's plot but stays silent out of fear. |
-| **Ela** | Young maid who discovers Goosie in Beatrice's chamber and screams "ghost," triggering the solar disaster. |
+| **Ela** | Young maid who discovers Goosie in Beatrice’s chamber and screams "ghost," triggering the solar disaster. |
 | **The Queen's Maids** | Trained singers who perform for the Queen, including the *dawn‑song* from Provence. |
 | **The Flemish Merchant** | Grey‑haired, nondescript; moves among the benches at the feast, listening. |
 | **The Wandering Clerk** | A threadbare scholar at the edge of the feast, watching the high table. |
