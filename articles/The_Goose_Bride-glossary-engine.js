@@ -18,11 +18,23 @@ document.addEventListener('DOMContentLoaded', () => {
     const normalizeKey = (str) =>
       str
         .toLowerCase()
-        .replace(/[–—]/g, '-')        // normalize dashes FIRST
-        .replace(/[^\w\s-]/g, '')     // strip punctuation
+        .normalize('NFKD')                // split accents (important, ē == e == è )
+        .replace(/[–—]/g, '-')            // normalize dashes
+        .replace(/[^\p{L}\p{N}\s-]/gu, '') // KEEP all Unicode letters
         .replace(/\s+/g, ' ')
         .trim();
 
+    function buildGlossaryPattern(keys) {
+      if (!keys || keys.length === 0) return null;
+      const escaped = keys.map(t =>
+        t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')
+      );
+      return new RegExp(
+        `(?<![\\p{L}\\p{N}])(${escaped.join('|')})(?![\\p{L}\\p{N}])`,
+        'giu'
+      );
+    }
+    
     // --- 1. Locate Markers ---
     const startNode = document.querySelector(`[id$="${START_SUFFIX}" i]`);
     const endNode = document.querySelector(`[id$="${END_SUFFIX}" i]`);
@@ -86,12 +98,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (linkableKeys.length > 0) {
 
-      const pattern = new RegExp(
-        `(?<!\\w)(${linkableKeys
-          .map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'))
-          .join('|')})(?!\\w)`,
-        'gi'
-      );
+      const pattern = buildGlossaryPattern(linkableKeys);
+      if (!pattern) return;
 
       const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
         acceptNode: (node) => {
