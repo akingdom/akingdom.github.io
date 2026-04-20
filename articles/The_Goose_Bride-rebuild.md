@@ -6357,12 +6357,12 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 >
 > *In the halls of Kings, fate is a feathered thing.*
 >
-> England, 1114. Behind the heavy stone walls of Rockingham, King Henry I is losing his patience. Trapped between duty and defiance, the King issues a reckless, wine‑soaked decree: the very next maiden to walk through the hall doors shall marry Godfrey FitzRoy—be she noble or milkmaid.
+> England, 1114. Behind the heavy stone walls of Rockingham, King Henry I is losing his patience. Trapped between duty and defiance, the King issues a reckless, wine‑soaked decree: the very next maiden to walk through the hall doors shall marry his son—be she noble or milkmaid.
 >
 > The court expects a lady of rank. They expect a political solution.
 >
-> Instead, the doors swing wide for Beatrice, the sharp‑witted daughter of a vanquished Saxon warrior known as the Red‑Wolf. She hasn't come for a crown or a husband; she has come to save her prize goose from the King's table.
+> Instead, the doors swing wide for Beatrice, the sharp‑witted daughter of a vanquished Saxon warrior. She hasn't come for a crown or a husband; she has come to save her prize goose from the King's table.
 >
-> But a Norman court is no place for a Saxon girl with a goose. And a king's vow is only the beginning.
+> But a Norman court is no place for a Saxon girl with a goose. And the king's vow is only the beginning.
 
 ***
