@@ -5116,28 +5116,6 @@ about what the story made you feel.***
 
 
 
----
-
-> 🟢 **Did You Know?**
->
-> The Sheriff of Nottingham—who appears briefly in this story—was a real official. His family’s lands later became part of the Royal Forest under King Henry II – the very setting where legends of Robin Hood would grow. Some scholars believe the Sheriff’s harsh enforcement of forest law helped inspire the tales of the outlaw of Sherwood.
-
----
-
-> 🟢 **What does the idiom mean?**
->
-> *“A goose may wend where a King must wait.”*
->
-> 1. A goose roams freely, but a king must face heavy responsibility. (earliest meaning)
->
-> 2. A fool may rush in where a wise person would not. (middle meaning)
-> 
-> 3. A humble person may travel freely, but a mighty person is hindered by many things. (later meaning)
-> 
-> This is a fictional idiom, so it is difficult to find exact meanings, but these three seem to form the closest fit.
->
-> Compare to the word ‘nice’ which originally meant ‘one of simple understanding, a fool’, then ‘precise’, then later came to mean ‘pleasant’.
-
 ***
 
 ## Author’s Note — Why I Wrote This Story
@@ -6310,3 +6288,41 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 > **Clarification:** This work *is* available under paid licensing arrangements.
 
 *** 
+
+---
+
+> 🟢 **Did You Know?**
+>
+> The Sheriff of Nottingham—who appears briefly in this story—was a real official. His family’s lands later became part of the Royal Forest under King Henry II – the very setting where legends of Robin Hood would grow. Some scholars believe the Sheriff’s harsh enforcement of forest law helped inspire the tales of the outlaw of Sherwood.
+
+---
+
+> 🟢 **What does the idiom mean?**
+>
+> *“A goose may wend where a King must wait.”*
+>
+> 1. A goose roams freely, but a king must face heavy responsibility. (earliest meaning)
+>
+> 2. A fool may rush in where a wise person would not. (middle meaning)
+> 
+> 3. A humble person may travel freely, but a mighty person is hindered by many things. (later meaning)
+> 
+> This is a fictional idiom, so it is difficult to find exact meanings, but these three seem to form the closest fit.
+>
+> Compare to the word ‘nice’ which originally meant ‘one of simple understanding, a fool’, then ‘precise’, then later came to mean ‘pleasant’.
+
+---
+
+> 🟢 **Blurb**
+>
+> *In the halls of Kings, fate is a feathered thing.*
+>
+> England, 1114. Behind the heavy stone walls of Rockingham, King Henry I is losing his patience. Trapped between duty and defiance, the King issues a reckless, wine‑soaked decree: the very next maiden to walk through the hall doors shall marry Godfrey FitzRoy—be she noble or milkmaid.
+>
+> The court expects a lady of rank. They expect a political solution.
+>
+> Instead, the doors swing wide for Beatrice, the sharp‑witted daughter of a vanquished Saxon warrior known as the Red‑Wolf. She hasn't come for a crown or a husband; she has come to save her prize goose from the King's table.
+>
+> But a Norman court is no place for a Saxon girl with a goose. And a king's vow is only the beginning.
+
+***
