@@ -18,16 +18,20 @@
     </div>
 </div>
 
------------------------------------------------------------------------
 
+         "A goose may wend where a King must wait."
 
-> A gos may gon þar þe king mot biden. This was a folk speche of þe shires sithen þe Normans comen. Ac a wise wif of Mercie tolde of a maiden þat prouede þe word soth.
+    It was a witless saying from the Norman harrowing of England.
+         Yet, the wise‑wives of Mercia spoke of a maiden
+                   who proved the word most true.
 
------------------------------------------------------------------------
+         A gos may gon thar the king mot biden.
+    This was a folk speche of the shires sithen the Normans comen.
+         Ac a wise wif of Mercie tolde of a maiden
+                   that proved the word soth.
 
-**“A goose may wend where a King must wait.”**
+                      — Old Mercian Proverb
 
-It was a witless saying from the Norman harrowing of England. Yet, the wise-wives of Mercia spoke of a maiden who proved the word most true.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
