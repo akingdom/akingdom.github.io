@@ -5122,7 +5122,9 @@ about what the story made you feel.***
 
 I like tales, both factual and fantasy. I grew up reading and have a love for stories from around the world, both from real history and from made up stories.
 
-This tale is an imperfect psychological training kit woven into the fabric of medieval entertainment. It honours the tradition of the morality tale by using the past as an honest mirror for our own lives. We have a natural fascination with seeing things happen to other people; this story harnesses that curiosity to explore our positive core needs for connection, purpose, and safety—needs that never truly change. By representing the Middle Ages as realistically as possible, the book reveals our shared capacity to underestimate our own foolishness, weakness and value. It provides the reader with sound psychological tools to navigate life today, looking back at the past not to judge it, but to discover the insight we need to walk a more balanced and healthy path in the present.
+We have a natural fascination with seeing things happen to other people; this story harnesses that curiosity to explore our positive core needs for connection, purpose, and safety—needs that never truly change. By representing the Middle Ages as realistically as possible, the book reveals our shared capacity to underestimate our own foolishness, weakness and value. It provides the reader with sound psychological tools to navigate life today, looking back at the past not to judge it, but to discover the insight we need to walk a more balanced and healthy path in the present.
+
+This tale is an imperfect psychological training kit woven into the fabric of medieval entertainment. It honours the tradition of the morality tale by using the past as an honest mirror for our own lives. 
 
 **For Aspiring Writers (and the Curious):** As an author, when I got stuck on this story during planning, writing or revision, I generally cross‑checked the balance of the following three questions:
 
