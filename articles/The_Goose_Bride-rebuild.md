@@ -5134,7 +5134,25 @@ I offer these questions as a practical craft check for anyone who wants to use t
 
 ---
 
-# FACTS: THE WORLD OF THE ‘GOOSE BRIDE’ (12th‑CENTURY ENGLAND)
+# APPENDICES / INDEX
+
+- **FACTS: The World of the 'Goose Bride'** — A quick primer on 12th‑century life, law, and customs.
+
+- **Getting Married in 12th‑Century England** — The legal and religious landscape of marriage in 1115.
+
+- **Teacher & Parent Guide** — Themes, vocabulary, discussion questions, and creative activities for classroom or family use.
+
+- **Student Questions for Selected Chapters** — Chapter‑by‑chapter prompts with optional "Knight's Challenge" deeper questions.
+
+- **Sources and Influences** — Historical, academic, and cultural works that shaped the story.
+
+- **Author Notes** — Timeline, character tables, inner struggles, estate details, and glossary.
+
+- **Extras** - Glossary, Editions, License, Robin Hood, Idiom, Blurb. May vary for different publication types.
+
+---
+
+# APPENDICES / FACTS: THE WORLD OF THE ‘GOOSE BRIDE’ (12th‑CENTURY ENGLAND)
 
 This guide provides the historical “bones” for the story.
 
@@ -5170,12 +5188,6 @@ Stanwey lies within **Rockingham Forest**, a Royal Forest subject to special “
 
 ---
 
-## 🐺 Who Was Harold “Red‑Wolf”? (And Why “Rauthulfr”?)
-
-Harold is a fictional Saxon thegn who kept his lands after the Conquest because he submitted early, swore loyalty, and performed a heroic deed (saving the king’s brother). The name **Rauthulfr** (Old Norse) reflects the Danelaw heritage of the Midlands. The Normans were also of Viking descent, so Henry uses the old name as a sign of familiarity.
-
----
-
 ## 🦢 The Journey: Social Cues & Logistics
 
 - **Avoiding Tolls:** Walking avoided forest tolls.
@@ -5189,14 +5201,6 @@ Harold is a fictional Saxon thegn who kept his lands after the Conquest because 
 
 - **Queen Matilda** was born Edith of Scotland, a Saxon princess. Her marriage to Henry united Norman and Saxon bloodlines.
 - **The Lamprey Legend:** Henry I supposedly died from eating too many lampreys (a medieval delicacy).
-
----
-
-## 👵 What About the Mothers?
-
-- **Godfrey and Matilda’s mother** is said to be a real woman named Edith, from Devon – Henry I had many mistresses. She likely was a noblewoman who gave her son a place at court but not a home.
-- **Beatrice’s mother** is unnamed. She taught Beatrice herb lore, brewing, and running a manor. She arranged for the goose egg that became Goosie.
-- **Queen Matilda** (Edith), from Scotland, is a real historical figure who initially saw Godfrey as a threat to her son William but later became Beatrice’s ally.
 
 ---
 
@@ -5221,41 +5225,6 @@ Matilda (or Maude) was a popular name.
 - **Matilda of Boulogne** – future wife of Stephen of Blois (not in story).
 
 ---
-
-## Understanding Beatrice’s Anger in “And You Knew”
-
-*Beatrice’s anger is not a modern “you hurt my feelings” moment. It is a thegn’s daughter claiming the honour due to her house, confronting a system that treated her as currency, and discovering that even a prince can be powerless. The scene is not about blame – it is about two young people realising, for the first time, that they are on the same side of the cage.*
-
----
-
-### What She Says
-
-Beatrice accuses Godfrey of knowing about the King’s vow and letting her walk out of the hall without warning. She feels betrayed by his silence.
-
-### What She Is Actually Feeling
-
-Beneath the words, her anger has three layers:
-
-**1. Public Humiliation** – She curtsied, thanked the Queen, and smiled, while everyone in that hall knew she was the unknowing subject of the King’s impulsive vow. She was made to look like a fool.
-
-**2. Betrayal of Her Father’s Honour** – Harold Red‑Wolf pulled a prince from the Severn. He bled for the Crown. His daughter should not have been treated like a piece of wool to be counted. In the feudal world, a thegn’s family had a right to be warned, to be treated with dignity. The silence stole that dignity.
-
-**3. Shame at Her Own Naivety** – She thought she was clever, walking into the King’s hall to save her goose. She thought her father’s name would protect her. She did not even see the board, let alone the game. Her anger turns inward: *You fool.*
-
-### What She Fears
-
-Even as she speaks, she is afraid. Godfrey is a king’s son. She has accused him to his face. He could tell his father. He could tell the Queen. Her outburst could have consequences she cannot imagine.
-
-### Why Godfrey’s Silence Matters
-
-In the 12th century, silence in the face of a wrong was not neutral. It was complicity. Godfrey did not build the cage, but he watched her walk into it and said nothing. That is what wounds her – not his power, but his passivity.
-
-### What She Realises
-
-When she looks at him and sees his pale, trapped face, she recognises something: *He is in the same cage. He did not build it either.* That is not love. It is the beginning of trust – the quiet recognition that they are both prisoners, not enemies.
-
-
-***
 
 ## Getting Married in 12th‑Century England
 
@@ -5353,7 +5322,7 @@ Marriage in 1115 was a tension between **Freedom** (the Church’s insistence on
 ***
 
 
-# APPENDIX – TEACHER & PARENT GUIDE
+# APPENDICES / TEACHER & PARENT GUIDE
 
 *The Goose Bride* is a medieval historical romance.
 
@@ -5422,6 +5391,40 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
+## A Closer Look: Beatrice’s Anger in “And You Knew”
+
+*Beatrice’s anger is not a modern “you hurt my feelings” moment. It is a thegn’s daughter claiming the honour due to her house, confronting a system that treated her as currency, and discovering that even a prince can be powerless. The scene is not about blame – it is about two young people realising, for the first time, that they are on the same side of the cage.*
+
+---
+
+### What She Says
+
+Beatrice accuses Godfrey of knowing about the King’s vow and letting her walk out of the hall without warning. She feels betrayed by his silence.
+
+### What She Is Actually Feeling
+
+Beneath the words, her anger has three layers:
+
+**1. Public Humiliation** – She curtsied, thanked the Queen, and smiled, while everyone in that hall knew she was the unknowing subject of the King’s impulsive vow. She was made to look like a fool.
+
+**2. Betrayal of Her Father’s Honour** – Harold Red‑Wolf pulled a prince from the Severn. He bled for the Crown. His daughter should not have been treated like a piece of wool to be counted. In the feudal world, a thegn’s family had a right to be warned, to be treated with dignity. The silence stole that dignity.
+
+**3. Shame at Her Own Naivety** – She thought she was clever, walking into the King’s hall to save her goose. She thought her father’s name would protect her. She did not even see the board, let alone the game. Her anger turns inward: *You fool.*
+
+### What She Fears
+
+Even as she speaks, she is afraid. Godfrey is a king’s son. She has accused him to his face. He could tell his father. He could tell the Queen. Her outburst could have consequences she cannot imagine.
+
+### Why Godfrey’s Silence Matters
+
+In the 12th century, silence in the face of a wrong was not neutral. It was complicity. Godfrey did not build the cage, but he watched her walk into it and said nothing. That is what wounds her – not his power, but his passivity.
+
+### What She Realises
+
+When she looks at him and sees his pale, trapped face, she recognises something: *He is in the same cage. He did not build it either.* That is not love. It is the beginning of trust – the quiet recognition that they are both prisoners, not enemies.
+
+---
+
 ## CREATIVE EXTENSION IDEAS
 
 - **Write a letter** from Beatrice to her father describing her first day at court.
@@ -5433,7 +5436,7 @@ Use these to prompt reflection, conversation, or written responses:
 
 ---
 
-# STUDENT QUESTIONS FOR SELECTED CHAPTERS
+# APPENDICES / STUDENT QUESTIONS FOR SELECTED CHAPTERS
 
 *These focus on the most pedagogically rich chapters.* 
 *The optional **Knight’s Challenge** is a deeper question.*
@@ -5568,12 +5571,147 @@ Use these to prompt reflection, conversation, or written responses:
 1. What happens to Sir Guy?
 2. How does Queen Matilda describe Beatrice in her final months?
 3. What does Godfrey choose to do with his life?
-4. Creative: Write a short reflection from Beatrice after learning of the White Ship disaster, remembering William and Matilda and the visits they made to Stanwey. (You may need to research the historical event, William Adelin and Matilda ‘Maude’ Fitzroy.
+4. Creative: Write a short reflection from Beatrice after learning of the White Ship disaster, remembering William and Matilda and the visits they made to Stanwey. (You may need to research the historical event, William Adelin and Matilda ‘Maude’ Fitzroy.)
 5. **Knight’s Challenge:** The epilogue mentions the White Ship disaster. Why do you think the author included that real historical event?
 
 ---
 
-# APPENDICES – AUTHOR NOTES
+# APPENDICES / SOURCES AND INFLUENCES
+
+***Caveat:** The following notes are provided for readers interested in the historical and cultural background that shaped this story. Inclusion here does not constitute an endorsement of any particular work or viewpoint; these are simply the materials the author found useful in crafting this fictional world. Any errors of fact or interpretation remain the author's own.*
+
+---
+
+## I. Academic & Historical Sources
+
+### 12th‑Century Marriage & Canon Law
+
+| Source | Contribution |
+|--------|--------------|
+| **Gratian's *Decretum*** (c. 1140) | The canon law text distinguishing *sponsalia per verba de futuro* (future promise) from *sponsalia per verba de praesenti* (present consent). This distinction underpins the story's treatment of betrothal and marriage. |
+| **Peter Lombard** (c. 1096–1160) | The Parisian theologian who argued that present‑tense consent alone constitutes an indissoluble marriage, independent of consummation. This "Parisian model" became Godfrey's legal and theological framework. |
+| **Anders Winroth** (modern scholar) | Medievalist whose work on the Church's revolutionary emphasis on consent informed the story's legal backdrop. |
+
+### Henry I & Queen Matilda of Scotland
+
+| Historical Figure | Contribution |
+|------------------|--------------|
+| **Henry I** (1068–1135) | Known as the "Lion of Justice" for his legal and financial reforms. His establishment of the Exchequer and itinerant justices, and his reputation as a ruler who valued law over tyranny, shaped the character of the King in the story. |
+| **Queen Matilda (Edith) of Scotland** (c. 1080–1118) | A historical queen who acted as regent during Henry's absences in Normandy. Her Saxon heritage, piety, and patronage of music and letters informed the character of Queen Matilda in the story. Her own marriage to Henry was challenged because she had been raised in a convent—a detail echoed in the story's "nun controversy" and the objection call at the church door. |
+
+### Saxon Thegns & the Norman Conquest
+
+| Source | Contribution |
+|--------|--------------|
+| **Anglo‑Saxon thegnage** | Thegns were aristocrats who owned substantial land and ranked below ealdormen. By 1086, only a handful of Saxon thegns still held land directly from the Crown. This dramatic displacement underpins Sir Guy's grievance and Harold Red‑Wolf's precarious survival. |
+| **Submission after the Conquest** | Some Saxons kept their lands by submitting early to William the Conqueror and performing valuable service. Harold Red‑Wolf is a fictional representative of this rare class—a man who bent the knee and endured. |
+
+### Royal Forests, Purveyance & Law
+
+| Concept | Historical Basis |
+|---------|------------------|
+| **Rockingham Forest** | A royal hunting ground established after the Norman Conquest. A "forest" in this period was an area of special legal jurisdiction, not merely woodland. Stanwey's location within Rockingham Forest drives much of the story's tension. |
+| **Purveyance** | The king's right to requisition provisions and transport for the royal household—a recurring grievance that contributed to the baronial discontent leading to Magna Carta. This is the mechanism by which Beatrice is forced to deliver Goosie to the King. |
+| **Sheriff of Nottingham** | The office was established by the Normans; the Sheriff oversaw law enforcement and revenue collection in the shire and royal forests. A brief appearance by the Sheriff in the story reflects this historical reality. |
+
+### Beating the Bounds (Perambulation)
+
+| Source | Contribution |
+|--------|--------------|
+| **Rogationtide processions** | An ancient custom in which parish or manor boundaries were walked and "beaten" with wands, preserving communal memory of land limits. The practice dates at least to Anglo‑Saxon times. This became the basis for Godfrey's "beating the bounds" scene—a test of his humility and connection to the land. |
+
+### The White Ship Disaster (1120)
+
+| Source | Contribution |
+|--------|--------------|
+| **White Ship sinking** | The ship sank near Barfleur on 25 November 1120, drowning nearly 300 people, including William Adelin (Henry I's only legitimate son) and his half‑sister Matilda FitzRoy. William, rescued in a skiff, ordered the crew to return for his sister; both drowned. This historical event anchors the epilogue and informs Henry's grief. |
+
+### The Welsh Campaign of 1114
+
+| Source | Contribution |
+|--------|--------------|
+| **Henry I's Welsh expedition** | In the summer of 1114, the King drove Owain ap Cadwgan into Gwynedd and forced him to submit. Owain was taken to Normandy and knighted in 1115. This campaign is referenced in the story as context for the King's absence and Godfrey's rumoured mission to Wales. |
+
+### Cathedral Schools & Education
+
+| Source | Contribution |
+|--------|--------------|
+| **Salisbury Cathedral School** | A notable centre of learning in the 12th century; the historian John of Salisbury was its most renowned product. Godfrey's education there grounds his scholarly character and his knowledge of canon law and the Gospels. |
+
+### The Bible (Vulgate) and Gospel Traditions
+
+| Source | Contribution |
+|--------|--------------|
+| **The Four Gospels** (Latin Vulgate) | The Queen's gift to Beatrice—a quarto Gospel book inscribed *Verbum Dei manet in aeternum*—reflects the central role of scripture in medieval life. Godfrey's education at Salisbury included study of the Gospels, and his understanding of marriage as mutual service draws on passages such as Mark 10:43–45 ("whoever wants to be great must be your servant"). The story's treatment of consent also echoes the Annunciation (Luke 1:38), in which Mary's "yes" is freely given—a touchstone for the Parisian model of marriage. |
+
+## II. Cultural & Artistic Influences
+
+### Crash Landing on You (K‑drama, 2019–2020)
+
+| Influence | Application in *The Goose Bride* |
+|-----------|----------------------------------|
+| **Duty versus love tension** | The protagonists are separated by political and familial obligations. Godfrey's summons to Normandy (duty) and his desire to stay with Beatrice (love) mirror the central conflict of CLOY. |
+| **The "active choice" moment** | Like Se‑ri choosing to save Captain Ri, Beatrice takes the cup before Godfrey can offer it—an active demonstration of agency and consent. |
+| **Found family** | The soldiers and villagers who support the leads are echoed in the community at Stanwey—the reeve, the nurse, Alard of Lytham, the old villagers who walk the bounds. |
+| **Silent love** | CLOY's power often lies in what characters do not say. Godfrey's quiet gestures (waiting, watching, small acts of care) follow this principle. |
+
+### Time Team (BBC Television Series, 1994–2014; YouTube/Patreon Series 2022—)
+
+| Influence | Application in *The Goose Bride* |
+|-----------|----------------------------------|
+| **Landscape archaeology** | The hall's position relative to church, river, and fields; the Roman road; the lost boundary stone—all reflect Time Team's attention to spatial relationships and how the past is written into the land. |
+| **"Beating the bounds"** | The perambulation scene was directly inspired by Time Team's exploration of how communities preserved boundary memory across centuries. |
+| **Material culture** | The knife, the basket, the sword, the cloak—small objects that carry meaning—reflect the show's focus on physical evidence of past lives. |
+| **"The land remembers"** | Archaeologist Francis Pryor's emphasis on deep time and landscape memory permeates the story's treatment of Stanwey and its boundaries. |
+
+### Ever After (1998) & Jill Bearup
+
+| Influence | Application in *The Goose Bride* |
+|-----------|----------------------------------|
+| **Sincerity over irony** | Jill Bearup's video essay on *Ever After*—a film made with "so much love and care and sincerity"—was the direct reason for this novel’s existence. As such, the story strives for the same earnestness: characters who mean what they say, a romance built on mutual understanding, and a willingness to sit with both joy and grief. |
+| **Active choice and female agency** | As in *Ever After*, the heroine's agency is central. Beatrice walks into the King's hall on her own terms, asks directly about her choice, and takes the cup before it can be offered. Her "yes" must be freely given. |
+| **"A movie that likes its characters"** | Bearup's observation that *Ever After* likes all its main characters shaped the portrayal of Queen Matilda, Harold, the King and the antagonists. The story seeks to understand each person from the inside, without condescension. |
+
+### Wassail / "Drinc Hail" (Medieval Drinking Ritual)
+
+| Source | Contribution |
+|--------|--------------|
+| **Wassailing tradition** | Medieval Britons toasted with "Wes heil!" (be whole) and responded "Drinc heil!" (drink health). The phrase appears in a 12th‑century document. This ritual informed the story's cup ceremony, though the story's ritual is explicitly presented as "a new thing"—a fictional creation drawing on historical drinking customs. |
+
+### The Legend of Gelert (c. 1205)
+
+| Source | Contribution |
+|--------|--------------|
+| **Welsh folk tale** | The story of Llywelyn the Great's faithful hound, missing and later found dead, demonstrates that medieval audiences understood the anguish of a lost animal companion. This influenced the "Goosie is missing" scene in the early chapters. |
+
+---
+
+## III. Quick Reference: Where Influences Appear in the Story
+
+| Influence | Story Element |
+|-----------|---------------|
+| Gratian / Peter Lombard | The distinction between betrothal (future promise) and marriage (present consent) |
+| Parisian model (*Consensus facit nuptias*) | Godfrey's understanding of consent as the sole foundation of marriage |
+| Henry I ("Lion of Justice") | The King's legal reforms, the Exchequer, the Charter of Liberties |
+| Queen Matilda (Edith) | Regent during Henry's absence; Saxon heritage; patron of music; the "nun controversy" |
+| Norman Conquest land displacement | Sir Guy's grievance; Harold's precarious survival as a Saxon thegn |
+| Rockingham Forest | Stanwey's location; the King's hunt; forest law and purveyance |
+| Beating the bounds | Godfrey's perambulation with Harold and the old villagers |
+| White Ship disaster | Epilogue – William Adelin and Matilda FitzRoy drown |
+| Welsh campaign 1114 | Henry's absence in Normandy; Godfrey's rumoured mission |
+| Salisbury Cathedral School | Godfrey's education and scholarly nature |
+| *Crash Landing on You* | Separation by duty; active choice; silent love; found family |
+| *Time Team* | Landscape authenticity; material culture; "the land remembers" |
+| Wassail / "Drinc Hail" | The cup ritual (presented in the story as "a new thing") |
+| Gelert legend | Goosie missing – childhood bond with a lost animal |
+
+---
+
+*This appendix is not exhaustive but represents some major sources and influences that shaped* The Goose Bride. *Readers seeking further information are encouraged to explore the historical works and creative media referenced above.*
+
+---
+
+# APPENDICES / AUTHOR NOTES
 
 *These are from the author’s story notes, mainly to help coordinate the core story details. Some readers may find them interesting.*
 
@@ -5675,22 +5813,6 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 - **Features:** Stanwey Hall (timber‑framed great hall), St. Peter’s Church, watermill, iron‑smelting pits
 - **Lord:** Harold ‘Rauthulfr’ Magnússon, a rare survivor thegn
 - **Population:** ~120 souls (24 households)
-
----
-
-## HISTORICAL BACKGROUND
-
-### The Welsh Campaign of 1114
-
-Henry I launched a three‑pronged invasion to force the Welsh princes into submission. Owain ap Cadwgan submitted, was taken to Normandy, and later knighted. The campaign concluded in early August 1114, shortly before the events of the story begin.
-
-### The White Ship Disaster (1120)
-
-The White Ship sank near Barfleur on the night of 25 November 1120, drowning nearly 300 people, including Henry's only legitimate son and heir, William Adelin, and his half‑sister, Matilda FitzRoy of Brittany. Only one man, a butcher from Rouen, survived by clinging to wreckage. The disaster was caused by youthful recklessness: the crew and passengers were drunk, the ship struck a submerged rock while racing the King's vessel, and the priests who came to bless the voyage were jeered and driven away. King Henry, it was said, never smiled again.
-
-### Matilda (Edith) of Scotland
-
-Queen Matilda was born Edith, daughter of Malcolm III of Scotland and the Saxon princess Margaret. Her marriage to Henry I in 1100 symbolically united the Norman and Saxon royal lines. She was a co‑ruler in practice, serving as regent when Henry was in Normandy, and a patron of music, architecture, and learning. She used her piety and Saxon heritage to build loyalty among the English people while navigating the suspicions of the Norman barons.
 
 ---
 
@@ -5823,102 +5945,10 @@ Queen Matilda was born Edith, daughter of Malcolm III of Scotland and the Saxon 
 
 ---
 
-### Glossary
-
-**Power, Law & Royal Court**
-- **thegn** – A Saxon nobleman who holds land directly from the king.
-- **reeve** – The village headman who manages the lord’s estate.
-- **escheat** – The return of land to the crown when the owner dies without an heir.
-- **writ** – A written legal order.
-- **charter** – A formal written grant or treaty.
-- **justiciar** – The highest royal judge.
-- **chancellor** – The official in charge of the king’s writing and seals.
-- **regent** – One who rules in the king’s absence.
-- **fitzroy** – A surname for a king’s child born outside marriage (*Fitz* = child of, *Roy* = king).
-- **sheriff** – The *shire reeve*; the king’s law officer in a county.
-- **coram rege** – Latin for “before the king” – a sacred vow sworn in court.
-
-**Castle & Combat**
-- **hauberk** – A long shirt of chain mail.
-- **palfrey** – A smooth-riding horse for travelling.
-- **garderobe** – A medieval toilet.
-- **brazier** – A metal basket for burning coals to warm a room.
-- **distaff** – A tool used in spinning wool.
-
-**Music & Court Life**
-- **vielle** – A five-stringed ancestor of the violin, played against the chest.
-- **harp** – A small lap-held string instrument.
-- **psaltery** – A plucked string instrument with a bright, bell-like tone.
-- **recorder** – A simple wooden flute with a bird-like tone.
-- **shawm** – A loud, double-reed woodwind used for outdoor signals.
-- **tabor** – A small drum struck with a single stick.
-- **symphonia** – A hurdy-gurdy; a crank-turned wheel against strings.
-- **drone** – A sustained low-pitched hum providing a foundation for melody.
-- **thrum** – A continuous rhythmic humming sound.
-- **minstrels’ gallery** – A raised wooden balcony above the hall entrance for musicians.
-- **screens passage** – A screened service area between kitchen and hall.
-- **ensemble** – A group of musicians.
-- **colonnade** – A sheltered walkway supported by stone pillars.
-
-**Daily Life & Food**
-- **posset** – A hot drink of curdled milk and ale, often spiced.
-- **pottage** – A thick vegetable and grain stew.
-- **frumenty** – A wheat porridge sweetened with dried fruit.
-- **hippocras** – Wine mixed with honey and spices.
-- **kirtle** – A basic gown or tunic.
-- **linen** – Cloth made from flax.
-- **solar** – A private upper room in a medieval house.
-- **larder** – A room for storing meat.
-- **pantry** – A room for storing bread.
-- **buttery** – A room for storing ale.
-- **mazer** – A wooden drinking bowl.
-
-**Church & Time**
-- **abbot** – The head of a monastery.
-- **bishop** – A senior leader in the Church.
-- **archbishop** – A high-ranking bishop.
-- **terce** – 9:00 AM, the third hour of the day.
-- **alms** – Money or food given to the poor.
-- **almoner** – The person who distributes alms.
-- **tithe** – One-tenth of a person’s produce given to the Church.
-- **runes** – Ancient letters carved into wood or stone.
-
-**Land & Farming**
-- **hide** – A unit of land (about 120 acres).
-- **acre** – The amount of land an ox team could plow in a day.
-- **forester** – An officer in charge of the king’s woods.
-- **agister** – An official who oversaw animals grazing in the forest.
-- **purveyance** – The king’s right to seize food and goods.
-
-**Archaic Words Used in the Story**
-- **forsooth** – Truly, indeed, for it is so.
-- **wend** – To go or travel.
-- **spake** – Spoke.
-- **sooth** – Truth, it is so.
-
-**Place Names**
-- **Westminster** – The king’s palace near London.
-- **Thames** – The great river (pronounced “Tems”).
-- **Devon** – A county in southwest England.
-- **Normandy** – The king’s land across the sea.
-- **Brittany** – A rugged land in France.
-- **Flanders** – A land of weavers across the sea.
-- **Provence** – A sunny region in southern France.
-- **Berkhamsted** – A fortress on the route from Westminster to Rockingham.
-
-**Foreign Words**
-- **huisje** – Flemish for “house” (pronounced “who-shair”).
-- **feverfew** – A daisy-like herb used for headaches.
-
----
-
 ## Grammar
 
 In general the author has taken some liberties with modern English grammar to give a greater sense of the 1100s era, its immediacy of speech and a more concrete—less abstract—mindset. Otherwise, all grammatical errors are the author’s.
 
----
-
-**END OF APPENDICES**
 ---
 
 
@@ -6268,7 +6298,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 
 ---
 
-# Story Editions
+# STORY EDITIONS
 
 1. Original ‘fairytale’ - Edition 1
 2. ’School Reader’ expanded version. - Edition 2
