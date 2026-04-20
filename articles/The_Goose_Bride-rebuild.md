@@ -1,11 +1,5 @@
 # The Goose Bride
 
----
-
-> ***STATUS - COMPLETE ***
-
----
-
 ## Opening
 
 <div style="text-align: center; margin: 20px 0;">
