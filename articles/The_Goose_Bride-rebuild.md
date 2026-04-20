@@ -317,9 +317,9 @@ She lifted Goosie—who had followed, always—and held her so that the goose’
 
 ### The geese knew her, but she was gone
 
-At the burial, Harold stood like a man made of stone. His hands were on Beatrice’s shoulders—heavy, warm, the only warm thing—but he didn’t speak. Didn’t move. Just watched as they lowered the plain wooden box into the rich earth.
+At the burial, Harold stood like a man made of stone. His hands were on Beatrice’s shoulders—heavy, warm, the only warm thing—but he didn’t speak. Didn’t move. Just watched as they slid the plain wooden box into the hollow of the stone. There was no scent of wet earth here, only the bite of lime-dust and the hollow scrape of wood on rock that echoed off the vaulted ceiling. When the lid vanished into the shadows of the niche, the silence that followed felt heavier than the ground itself.
 
-The apple trees were still blooming, white petals drifting on the wind. Beatrice hated them for their indifference. She would gladly have stripped every twig bare, if stripping the trees could bring her mother back. She ran from them like a bird flying away. Goosie flapped alongside her, wings half-spread and honking in a frantic, confused rhythm. She bolted through the orchard, past the village and the open fields, her breath coming in ragged stabs.
+Beatrice ran out the door like a bird flying away. Goosie flapped alongside her, wings half-spread and honking in a frantic, confused rhythm. She bolted through the village, through the orchard, and the open fields, her breath coming in ragged stabs.
 
 She ran until her lungs burned and her legs turned to lead. Doubled over, she clutched her knees and waited for the horizon to stop heaving.
 
@@ -327,7 +327,9 @@ When she finally straightened, the world was still, and she was staring over the
 
 The farm woman was there, by the poultry shed. She looked up, saw Beatrice’s face, and said nothing. Just nodded once and went back to her work.
 
-Beatrice stood there for a long time, Goosie pressed against her leg, watching geese ignore her completely.
+The apple trees over there were still blooming, white petals drifting on the wind down to the river. Beatrice hated them for their indifference. She would gladly have stripped every twig bare, if stripping the trees could bring her mother back. 
+
+Beatrice stood there for a long time, watching geese ignore her completely, Goosie pressed against her leg.
 
 The geese knew her now, who she was. That was something, at least. She wondered how geese felt about their mothers.
 
@@ -3328,9 +3330,19 @@ The next morning, the great hall was hung with holly and ivy. A Yule log, cut fr
 
 The nobles exchanged gifts – not the sentimental trinkets of a later age, but practical things: warm gloves, pins for mantles, lengths of fine wool. 
 
-The Queen gave Beatrice a leather-bound psalter, its cover stamped with a simple cross. “To remind you,” Matilda said quietly, “that the word of God is steadier than the word of any court.”
+Beatrice paused beside a young noblewoman who sat pale and miserable, pressing a hand to her temple. The woman’s servant hovered uselessly with a cup of wine.
 
-Beatrice curtsied, her heart full.
+The Queen watched the exchange from a distance. She could not hear the words. She saw only Beatrice lean in, speak quietly, and then gesture toward the screens passage. The servant nodded and hurried off. The noblewoman’s face relaxed—just slightly.
+
+Matilda’s fingers tapped once on the arm of her chair. She turned her head, and Lady Margaret stepped forward from her place near the wall.
+
+“Find out what passed between them,” the Queen said, her voice low. “I would know what she said.”
+
+Lady Margaret inclined her head and melted into the crowd. A few minutes later, she returned and bent close to the Queen’s ear.
+
+“The lady was unwell from the noise and the rich food. The girl from Stanwey advised a cold cloth to the neck and a quiet corner near the screens passage. She said she had used the remedy herself.”
+
+The Queen's eyes found Beatrice again, now returned to her place, her hands folded, her face calm. Matilda said nothing. But something in her expression shifted — a quiet reassessment.
 
 The feast itself was a formal display of power as much as piety. The high table groaned with roasted wild boar, venison in rich gravy, swan dressed in its feathers (a spectacle more than a meal), and a great goose – Beatrice looked away when that dish passed! 
 
@@ -3338,13 +3350,26 @@ Spiced wine flowed, and the servants carried platters of frumenty, a wheat porri
 
 Between courses, courtiers danced to sedate music – vielles and recorders playing traditional formal measures that required more precision than a joyous heart. Beatrice watched from her place near the Queen, learning the faces of the powerful: the Bishop of Lincoln with his cold eyes, the Earl of Warwick with his missing finger, the Flemish merchants who had sailed up the Thames to pay respects. She noted who spoke to whom, who stood alone, who laughed too loudly at the jokes, and so forth.
 
-The twelve days of Christmas stretched ahead – a time of enforced peace, when no law courts sat and no man could be arrested. But Beatrice soon learned that peace was a mask. The tiresome whispers did not stop. They only changed their tone.
+The feast wound on. By the time Beatrice returned to her chamber, her feet ached and her head was full of names and faces she was already forgetting. Goosie was asleep in her basket, a warm white mound of feathers.
 
-*She is still a goose girl.*
-*The Queen’s gowns cannot hide her accent.*
-*Where is the King’s son? Already tired of her?*
+On the bed, placed neatly atop the folded blanket, lay a small book.
 
-Beatrice held her tongue. She remembered her mother’s advice: *A woman’s greatest weapon is not her tongue but her silence.* She stroked Goosie’s feathers in the darkness of her chamber and waited.
+Beatrice picked it up. It was no larger than her two palms together—a quarto volume, the pages of fine vellum, the binding of dark leather tooled with a single cross. She opened it carefully. The script was precise, the ink a deep brown-black. The four Gospels, in Latin. At the front, a small scrap of parchment had been tucked between the cover and the first leaf. On it, in a hand she did not recognise, were these words:
+
+*Verbum Dei manet in aeternum. Disce quis fuerit, et disces quae sis futura.*
+*The word of God endures forever. Learn who He was, and you will learn who you are meant to be.*
+
+No signature. No seal. But Beatrice knew.
+
+She sat on the edge of the bed, the book open in her lap, and traced the letters with a fingertip. She could not read Latin well—only the familiar phrases from Mass—but the weight of the thing, the care of it, the quiet way it had appeared without ceremony, told her everything. 
+
+*The Queen sees me*, Beatrice thought. *The Queen sees me—not as a curiosity, not as a goose girl playing at court, but as someone worth teaching. I will ask Godfrey to teach me.*
+
+And yet, beneath the warmth, a different voice seemed to whisper: *Still a goose girl. Still the girl who stumbled into a king's hall with charcoal on her nose. Still the girl they whisper about.*
+
+She closed the book and pressed it to her chest. Both things were true. She was both. And perhaps, she thought, that was the point.
+
+Goosie stirred, lifted her head, and honked softly—as if in agreement.
 
 ---
 
@@ -3904,11 +3929,17 @@ Sir Guy’s fists clenched. “You cannot simply—”
 
 “I can. And I have.” Roger rose. The justices followed. “The lady Beatrice is free to go to her father. This matter is closed and I caution all present not to pursue this further.”
 
-Sir Guy gathered his parchment and marched out, his face white. He did not look at Beatrice. But as he passed her, he stopped.
+Sir Guy gathered his parchment with stiff, angry movements. For a heartbeat—just one—his hand stilled on the edge of the table. His eyes flicked to Beatrice, then to Harold's name on the claim.
 
-“Your father is a conquered thing,” Guy hissed, his voice low and trembling, but intended for all to hear. “He did not win this land; he bought his life with his submission. He turned his back on his own Saxon dead so he might feast at a Norman table, playing at being a lord while his own kin rotted in the ditches of Hastings.”
+Something wavered behind his gaze. A shadow of the boy who had once believed his father's stories about honour and inheritance, who had grown up in the shadow of the Conquest believing the land owed him something.
 
-He leaned closer, the stink of sweat clinging to him. “My father died for this soil to give me an inheritance. Yet a man who kissed the King's hand is rewarded in his stead. Do not mistake it, girl, I am no villain. I am a son seeking to reclaim what is mine by right of blood and strength of arms.”
+*My father would have...*
+
+But the thought curdled. His jaw tightened. The old wound of grievance, nursed too long in the dark, hardened into something uglier. When he spoke, his voice was iron again.
+
+"Your father is a conquered thing," he hissed, his voice low and trembling, but intended for all to hear. "He did not win this land; he bought his life with his submission. He turned his back on his own Saxon dead so he might feast at a Norman table, playing at being a lord while his own kin rotted in the ditches of Hastings."
+
+He leaned closer, the stink of sweat clinging to him. "My father died for this soil to give me an inheritance. Yet a man who kissed the King's hand is rewarded in his stead. Do not mistake it, girl, I am no villain. I am a son seeking to reclaim what is mine by right of blood and strength of arms."
 
 He walked out before anyone could answer, the heavy thud of his boots sounding like a gavel on the hall floor.
 
@@ -3985,9 +4016,43 @@ She tended him through the afternoon – broth, warm cloths, prayers. The two gu
 
 The reeve and the cook – Beatrice’s aunt – went about their business. The new servants the King had promised – a steady man named Eldred and a thin, capable woman – helped where they could.
 
-The evening came. Goosie was restless. The bird hissed at shadows, flapped her wings, and refused to settle.
+The evening came. As she banked the coals of the hearth, preserving the embers for the morning's fire, Goosie suddenly lifted her head from where she had settled. Her neck stretched toward the shuttered window, and a low, guttural sound rose from her throat—not a honk, but a warning hiss Beatrice had heard only once before, when a horse had startled her at Stanwey — Sir Guy's.
 
-“Hush,” Beatrice said, stroking her feathers. “You are back home. There is nothing to be alarmed about, Goosie goose.”
+"What is it?" Beatrice whispered.
+
+The goose's feathers bristled. Her dark eye fixed on the window as if she could see through the wood.
+
+Beatrice strained to listen. The night was still—too still. No wind. No owl. Just the heavy silence of a winter darkness that pressed against the walls like a held breath.
+
+Then, a sound. Distant. A sharp crack, like a branch breaking under a boot.
+
+Her heart thumped once, hard. She crossed to the door and lifted the latch, stepping out into the cold. The yard was a pool of shadows. The guards' torch near the gate had burned low, casting more darkness than light.
+
+One of the Queen's men—the younger one, whose name she could never remember—stood by the barn, wrapped in his cloak. He straightened when he saw her.
+
+"My lady?"
+
+"Did you hear something? A branch breaking, perhaps?"
+
+The guard blinked sleepily. "A branch? Nay, my lady. Likely a fox. They come down from the forest this time of year, looking for hens."
+
+Beatrice nodded, embarrassed. "Of course. A fox."
+
+She turned back toward the hall. As she did, a shape flickered at the edge of her vision—just beyond the well, where the shadows pooled deepest. She froze. A figure? A man?
+
+A large moth, pale as a ghost, fluttered up from the darkness and brushed her cheek. She gasped, swatted it away, and laughed at herself—a short, shaky sound.
+
+A moth. I am jumping at moths now.
+
+She went inside and barred the door. Goosie had not moved. The goose watched her with that same dark, knowing eye.
+
+"It was nothing," Beatrice told her. "A fox. A moth. My own foolish fears."
+
+Goosie said nothing. She only settled her head back under her wing, slowly, as if she were still listening.
+
+Beatrice lay down and pulled the blanket to her chin. Sleep came slowly, and when it did, it was thin and full of edges.
+
+She told herself there was nothing to fear.
 
 But there was.
 
@@ -4620,7 +4685,7 @@ The Queen nodded. She rose.
 
 She turned to the guards. “Send him.”
 
-Sir Guy bowed his head. He walked out of the hall, the chains dragging on the stone. At the threshold, he stopped. Just for a moment. His shoulders rose, then fell. Then he was gone.
+Sir Guy bowed his head, a shocked expression on his face. He walked, chains dragging. He paused at the threshold, where the light from the high windows fell in a cold white slab, he stopped and his shoulders rose, then fell—a breath that might have been a plan, a realisation, or a prayer. Then he was gone.
 
 The crowd exhaled. A clerk shuffled his parchments. Someone near the door coughed.
 
@@ -4994,7 +5059,7 @@ Ranulf, the Lord Chancellor, who had been the target of Beatrice’s jest, never
 
 The half-sisters married well and moved away. Avice wrote once, years later, a letter that might have been an apology. Beatrice answered it warmly. They never met again.
 
-Sir Guy de Montfort, who claimed to be a disgraced nephew of Amaury III de Montfort, Count of Évreux, never regained his family’s favour. He died on crusade, forgotten by all but an obscure chronicler who noted his name in passing.
+Sir Guy de Montfort, who claimed kinship to the great house of Évreux, never regained his family's favour. Some said he took the cross and sailed for the Holy Land, seeking redemption in the blood of infidels. Others whispered he walked the pilgrim roads to Rome, a nameless penitent among thousands, his sins too heavy for any shrine to lift. No certain word of him ever reached England again.
 
 The nurse at the river-bend eventually sold her farm and moved into the hall. She swore the goose remembered her, and Beatrice never corrected her.
 
@@ -5002,13 +5067,21 @@ Godfrey never became a king. He never wanted to. He held Stanwey, served his fat
 
 Beatrice grew old with him at Stanwey, but she did not grow gentle – not in the way that word is often meant. She learned, instead, to be more aware. The girl who had once spoken every thought aloud learned to measure her words against the silence that followed them. She learned from Queen Matilda the difference between wit and wound, and from her own mistakes the cost of speaking too soon.
 
-When Godfrey died – quietly, one winter, his hand in hers – she did not rage at heaven. She had seen too much for that. She buried him under the apple trees, where her mother lay, and planted a new gooseberry bush at the foot of the grave. The people of Stanwey came to her for judgments: whose fence was true, whose daughter should marry, whose quarrel was not worth the breath. She never sought the role, but she did not refuse it. She had learned from Harold how to see people, from Godfrey how to wait, and from Goosie how to hold her ground without apology.
+When Godfrey died – quietly, one winter, his hand in hers – she did not rage at heaven. She had seen too much for that. She buried him near where her mother and father lay, and planted a new gooseberry bush by the apple trees. The people of Stanwey came to her for judgments: whose fence was true, whose daughter should marry, whose quarrel was not worth the breath. She never sought the role, but she did not refuse it. She had learned from Harold how to see people, from Godfrey how to wait, and from Goosie how to hold her ground without apology.
 
 She outlived many she loved – her father, the Queen, William and Matilda in the cold water, and finally Godfrey himself. Each death carved something out of her, but she did not become hollow. She became, instead, the thing that remained after the carving. The villagers called her “the Lady” not for any title but because she had become what the word meant: steady and fair. She kept her mother’s herb garden, her father’s sword above the hearth, and her own sharp tongue – though she used it less often in her later years, and only when it mattered.
 
 In her final years, a young woman came to her – a granddaughter, or perhaps a great-niece; the records do not say – and asked how she had endured so much loss. Beatrice is said to have replied: “I learned to hold my peace until I knew what my peace was worth. And then I held that too.”
 
-And Goosie lived to be very old indeed, long past the time when geese should die. On warm days, she could still be found in the herb garden, waddling slowly behind a woman who had once been a girl with a goose, a surprise to a king with a vow, on a road that led to the home she loved.
+Her mind drifted to a morning when her eldest daughter—still small, still round-cheeked—had tugged at her sleeve in the great hall at Stanwey. "Mama," the child had whispered, "why does everyone look at you like that?"
+
+"Like what, my heart?"
+
+"Like you know something they don't."
+
+Beatrice had laughed and lifted the girl onto her hip. "Perhaps I do. And one day, you will too."
+
+Goosie lived to be very old indeed, long past the time when geese should die. On warm days, she could still be found in the herb garden, waddling slowly behind a woman who had once been a girl with a goose, a surprise to a king with a vow, on a road that led to the home she loved.
 
 ---
 
