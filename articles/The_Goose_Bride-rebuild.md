@@ -6021,12 +6021,6 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 
 ---
 
-## Grammar
-
-In general the author has taken some liberties with modern English grammar to give a greater sense of the 1100s era, its immediacy of speech and a more concrete—less abstract—mindset. Otherwise, all grammatical errors are the author’s.
-
----
-
 
 
 
@@ -6371,6 +6365,12 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **Westminster** (The King’s home near London; home to the King’s Great Hall and the Abbey)
 
 <span id="endGLOSSARY"></span>
+
+---
+
+## Grammar
+
+In general the author has taken some liberties with modern English grammar to give a greater sense of the 1100s era, its immediacy of speech and a more concrete—less abstract—mindset. An *atmospheric seasoning* of archaic and Middle English vocabulary is used across the manuscript. Otherwise, all grammatical errors are the author’s.
 
 ---
 
