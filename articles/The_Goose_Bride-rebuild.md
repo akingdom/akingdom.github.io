@@ -6132,7 +6132,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **harp** (A small, lap-held frame of wood and gut-string, used for the high, clear notes of the court)
 - **hauberk** (A long shirt of chain mail)
 - **hoarding** (A wooden gallery built on a castle wall)
-- **keep** (The strongest, central tower of a castle)
+- **keep** (The strongest, central tower of a castle; also retain)
 - **machicolation** (An overhanging gallery for dropping rocks on enemies)
 - **manfully** (To act with the courage, strength, and responsibility expected of a knight)
 - **mangonel** (A type of catapult for throwing rocks)
