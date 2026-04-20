@@ -374,13 +374,13 @@ She lay awake a long time, listening. The house was too quiet. No soft breathing
 
 ### The empty pillow
 
-In the morning, she found him still in the chair, his cloak pulled tight. His staghound lay like a grey ghost across his feet, its heavy muzzle pinning his toes to the floor. The dog didn't lift its head to greet her; it only watched her with wide, yellow eyes, its tail giving a few, heavy thuds against the rushes—a quiet pulse in a room that felt as though it had stopped breathing.
+In the morning, she found him still in the chair, his cloak pulled tight. His staghound lay like a grey ghost across her father’s feet, its heavy muzzle pinning his toes to the floor. The dog didn't lift its head to greet her; it only watched her with wide, yellow eyes, its tail giving a few, heavy thuds against the rushes—a quiet pulse in a room that felt as though it had stopped breathing.
 
 Her father did not sleep in the bed for a month. Each night, he settled into the chair by the hearth, and each morning she found him there, stiff and silent. She did not press him. Instead, she went about the work of the house: she kneaded the bread, she swept the rushes, she tended the fire, she fed the geese. She did not worry him to ask permission. She simply did what needed doing.
 
 The sweet scent of her mother faded from the linens over the month, ghosting away until the bed was just stale straw and cold fabric. While her father was in the yard, Beatrice changed the bedding. She washed the blankets in the river and beat them dry on the stones, cleansing the grief from the wool, then folded her mother’s things into the chest at the foot of the bed. She did not tell him. She simply did it.
 
-When he came inside and saw the fresh linen, the folded chest, the bed made clean, he stopped in the doorway.
+When he came inside and saw the fresh linen, the neatened chest, the bed made clean, he stopped in the doorway.
 
 “Thank you,” he said. The first words he had spoken to her that day.
 
