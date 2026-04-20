@@ -431,11 +431,11 @@ Seeing his distant smile, Beatrice leaned in and smiled. “Tell me, Father...�
 
 Harold paused, his eyes drifting from the script to the window, and for a moment the manor house seemed to grow cold with the memory of salt spray, his voice dropping into the low, rolling thrum of a saga-man. 
 
-> **Two** and **six**ty **win**ters. I was six**teen** **win**ters when **Ha**rald's **sea**-steeds bit the **sands** at **Ric**call.
+> **T**wo and **s**ix**t**y **w**in**t**ers," he said, his voice dropping into the low, rolling thrum of a saga-man. "I was six**t**een **w**in**t**ers when **H**a**r**ald's **s**ea-**s**teeds **b**it the **s**ands at **R**iccall.
+>
+> **I** saw the **R**a**v**en **sn**ap in the **w**ind ere the **sw**ords **br**oke our **sh**ield-**w**all at the **B**ridge. **N**orway **bl**ed on that **gr**ass; I **th**ought my **o**wn **th**read was **sp**un.
 > 
-> **I** saw the **Ra**ven **snap** in the **wind** ere the **swords** broke our **shield**-wall at the **Bridge**. **Nor**way **bled** on that **grass**; I **thought** my own **thread** was **spun**.
-> 
-> But the **Nor**mans were **made** of **stiff**er **cloth**. I **bent** my **knee** to their **Wil**liam while the **blood** was still **wet** on my **mail**. I **trad**ed the **axe** for a **Nor**man's **horse** and **rode** with his **sons** through the **mud** of the **West**. **Now**, **that** was **when**—
+> He fingered a stiff page of the heavy book, his gaze hard but distant. "But the **N**or**m**ans were **m**ade of **st**iffer **cl**oth. I **b**ent my **kn**ee to their **W**il**l**iam while the **bl**ood was still **w**et on my **m**ail. I **tr**aded the **a**xe for a **N**or**m**an's **h**orse and **r**ode with his **s**ons through the **m**ud of the **W**est. **N**ow, **th**at was **wh**en—"
 
 He was cut short by a heavy, hesitant rapping at the oak door. The latch clicked, and the cool evening air spilled in.
 
