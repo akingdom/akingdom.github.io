@@ -6260,6 +6260,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **murrain** (A deadly disease)
 - **neatherd** (One who keeps cows)
 - **oxherd** (One who keeps oxen)
+- **pedlar** (A travelling seller of goods)
 - **penny** (The basic silver coin)
 - **pillory** (A wooden frame for public punishment)
 - **pipe roll** (The King’s long financial records rolled up)
