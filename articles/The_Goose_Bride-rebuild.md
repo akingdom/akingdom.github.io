@@ -6211,6 +6211,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **prebend** (A portion of cathedral land or money given to a canon)
 - **prior** (A monastic official ranking below an abbot)
 - **purgatory** (A place where souls are purified before Heaven)
+- **psalter** (A book of sacred songs, poems, or hymns)
 - **rectory** (The home or position of a rector)
 - **relic** (A holy object from a saint’s life or body)
 - **rood** (A cross; also a unit of land)
