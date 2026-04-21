@@ -79,8 +79,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       }
 
-      const pluralMatch = raw.match(/(?:plural|pl\.)\s*:\s*([^;,)]+)/i);
-      const altMatch = raw.match(/alt\s*:\s*([^;,)]+)/i);
+      const pluralMatch = raw.match(/(?:plural:|pl\.:?)\s*\s*([^;,)]+)/i);
+      const altMatch = raw.match(/(?:alternate:|alt\.:?)\s*\s*([^;,)]+)/i);
 
       const variants = [
         term,
