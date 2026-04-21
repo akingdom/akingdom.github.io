@@ -431,7 +431,7 @@ Seeing his distant smile, Beatrice leaned in and smiled. â€œTell me, Father...â€
 
 Harold paused, his eyes drifting from the script to the window, and for a moment the manor house seemed to grow cold with the memory of salt spray, his voice dropping into the low, rolling thrum of a saga-man. 
 
-> **T**wo and **s**ix**t**y **w**in**t**ers. I was six**t**een **w**in**t**ers when **H**a**r**ald's **s**ea-**s**teeds **b**it the **s**ands at **R**iccall.
+> **T**wo and **s**ix**t**y **w**in**t**ers. I was six**t**een **w**in**t**ers when **H**ard**r**ada's **s**ea-**s**teeds **b**it the **s**ands at **R**iccall.
 >
 > **I** saw the **R**a**v**en **sn**ap in the **w**ind ere the **sw**ords **br**oke our **sh**ield-**w**all at the **B**ridge. **N**orway **bl**ed on that **gr**ass; I **th**ought my **o**wn **th**read was **sp**un.
 > 
