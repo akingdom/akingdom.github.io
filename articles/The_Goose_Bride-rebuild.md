@@ -6343,6 +6343,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **abide** (To wait for or tolerate)
 - **albeit** (Although)
 - **anon** (Soon)
+- **annus horribilis** (Latin: a horrible year)
 - **beholden** (Indebted to someone)
 - **beseech** (To ask very earnestly)
 - **beseem** (To be appropriate or fit)
