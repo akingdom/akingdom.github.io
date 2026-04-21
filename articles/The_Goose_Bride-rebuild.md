@@ -6257,6 +6257,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **mason** (A person who works with stone)
 - **merchant** (A person who buys and sells goods)
 - **merchet** (A fine paid to a lord when a serf’s daughter married)
+- **murrain** (A deadly disease)
 - **neatherd** (One who keeps cows)
 - **oxherd** (One who keeps oxen)
 - **penny** (The basic silver coin)
