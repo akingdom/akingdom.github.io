@@ -6,8 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const START_SUFFIX = "STARTGLOSSARY";
     const END_SUFFIX = "ENDGLOSSARY";
 
-    const STRIP_ORIGINAL_TAGS = false;         // TRUE = remove glossary entirely
-    const STRIP_UNUSED_FROM_GLOSSARY = true;   // only applies if above is FALSE
+    const STRIP_ORIGINAL_TAGS = false;
+    const STRIP_UNUSED_FROM_GLOSSARY = true;
     const DUMP_DIAGNOSTICS = true;
     const IGNORE_KEYWORD = "SKIP_LINK";
 
@@ -15,16 +15,36 @@ document.addEventListener('DOMContentLoaded', () => {
     const glossaryGroups = [];
     const foundInText = new Set();
 
-    // --- Unicode-safe normalization ---
+    // --- NORMALIZE ---
     const normalizeKey = (str) =>
       str
         .toLowerCase()
-        .normalize('NFKD') // (è == ē == e)    
-        .replace(/[\u0300-\u036f]/g, '') // strip diacritics only
         .replace(/[–—]/g, '-')
         .replace(/[^\p{L}\p{N}\s-]/gu, '')
         .replace(/\s+/g, ' ')
         .trim();
+
+    // --- TOKENIZER ---
+    function tokenize(text) {
+      return text.match(/[\p{L}\p{N}]+|[^\p{L}\p{N}]+/gu) || [];
+    }
+
+    // --- BUILD TERM INDEX (for multi-word support) ---
+    const termIndex = {}; // first-word → [ { words:[], key } ]
+
+    function registerVariant(variant, data) {
+      const words = normalizeKey(variant).split(' ');
+      if (!words.length) return;
+
+      const first = words[0];
+      if (!termIndex[first]) termIndex[first] = [];
+
+      termIndex[first].push({
+        words,
+        key: normalizeKey(variant),
+        data
+      });
+    }
 
     // --- 1. Locate markers ---
     const startNode = document.querySelector(`[id$="${START_SUFFIX}" i]`);
@@ -59,214 +79,179 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       }
 
-      const key = normalizeKey(term);
+      const pluralMatch = raw.match(/(?:plural|pl\.)\s*:\s*([^;,)]+)/i);
+      const altMatch = raw.match(/alt\s*:\s*([^;,)]+)/i);
 
-      if (!glossaryLookup[key]) {
-        glossaryLookup[key] = {
-          original: term,
-          def: definition,
-          skipLink,
-          groupIndex
-        };
-      }
+      const variants = [
+        term,
+        ...(pluralMatch ? pluralMatch[1].split(',') : []),
+        ...(altMatch ? altMatch[1].split(',') : [])
+      ].map(v => v.trim()).filter(Boolean);
+
+      variants.forEach((variant, i) => {
+        const key = normalizeKey(variant);
+
+        if (!glossaryLookup[key]) {
+          glossaryLookup[key] = {
+            original: term,
+            def: definition,
+            skipLink,
+            groupIndex
+          };
+
+          registerVariant(variant, glossaryLookup[key]);
+        }
+      });
     };
 
     let currentGroupIndex = -1;
 
-    fragment.querySelectorAll('h1, h2, h3, h4, h5, h6, li').forEach(el => {
+    fragment.querySelectorAll('h1,h2,h3,h4,h5,h6,li').forEach(el => {
       if (el.tagName.startsWith('H')) {
         glossaryGroups.push(el.textContent.trim());
         currentGroupIndex = glossaryGroups.length - 1;
-      } else if (el.tagName === 'LI') {
+      } else {
         parseLine(el.textContent, currentGroupIndex);
       }
     });
 
-    // --- 4. TOKEN MATCHER (NO REGEX MATCHING) ---
-
-    const maxPhraseLength = Math.max(
-      ...Object.keys(glossaryLookup).map(k => k.split(' ').length),
-      1
-    );
-
-    function tokenize(text) {
-      return text.split(/(\s+|[^\p{L}\p{N}-]+)/u);
-    }
-
+    // --- MATCH TERMS (token-based, multi-word) ---
     function matchTerms(tokens) {
-      const result = [];
+      const results = [];
 
       for (let i = 0; i < tokens.length; i++) {
+        const token = tokens[i];
 
-        let matched = false;
+        if (!/[\p{L}\p{N}]/u.test(token)) continue;
 
-        for (let len = maxPhraseLength; len > 0; len--) {
+        const word = normalizeKey(token);
+        const candidates = termIndex[word];
+        if (!candidates) continue;
 
-          const slice = tokens.slice(i, i + len).join('');
-          const key = normalizeKey(slice);
-          const data = glossaryLookup[key];
+        for (const candidate of candidates) {
+          const { words, key, data } = candidate;
 
-          if (data && !data.skipLink && !foundInText.has(key)) {
+          let match = true;
 
-            result.push({
-              type: 'term',
-              text: slice,
+          for (let j = 0; j < words.length; j++) {
+            const t = tokens[i + j];
+            if (!t || normalizeKey(t) !== words[j]) {
+              match = false;
+              break;
+            }
+          }
+
+          if (match) {
+            results.push({
+              index: i,
+              length: words.length,
+              key,
               data
             });
-
-            foundInText.add(key);
-            i += len - 1;
-            matched = true;
-            break;
           }
-        }
-
-        if (!matched) {
-          result.push({
-            type: 'text',
-            text: tokens[i]
-          });
         }
       }
 
-      return result;
+      return results;
     }
 
-    // --- 5. WALK TEXT NODES ---
-
-    const walker = document.createTreeWalker(
-      document.body,
-      NodeFilter.SHOW_TEXT,
-      {
-        acceptNode: (node) => {
-          const p = node.parentElement;
-          if (!p || p.closest('.term, h1, h2, h3, h4, h5, h6, a, button, script, style, code')) {
-            return NodeFilter.FILTER_REJECT;
-          }
-          return NodeFilter.FILTER_ACCEPT;
+    // --- 4. Scan DOM ---
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+      acceptNode: (node) => {
+        const p = node.parentElement;
+        if (!p || p.closest('.term, h1,h2,h3,h4,h5,h6,a,button,script,style,code')) {
+          return NodeFilter.FILTER_REJECT;
         }
+        return NodeFilter.FILTER_ACCEPT;
       }
-    );
+    });
 
     const nodes = [];
     let curr;
     while ((curr = walker.nextNode())) nodes.push(curr);
 
     nodes.forEach(node => {
-      const text = node.nodeValue;
-
-      if (!text || !text.trim()) return;
-
-      const tokens = tokenize(text);
+      const tokens = tokenize(node.nodeValue);
       const matches = matchTerms(tokens);
 
+      if (!matches.length) return;
+
       const frag = document.createDocumentFragment();
+      let i = 0;
 
-      matches.forEach(part => {
-        if (part.type === 'term') {
-          const span = document.createElement('span');
-          span.className = 'term';
-          span.textContent = part.text;
+      while (i < tokens.length) {
+        const match = matches.find(m => m.index === i);
 
-          span.onclick = (e) => {
-            e.stopPropagation();
-            showDefinition(part.data.original, part.data.def, span);
-          };
+        if (match) {
+          const text = tokens.slice(i, i + match.length).join('');
+          const data = match.data;
 
-          frag.appendChild(span);
+          if (data.skipLink) {
+            frag.appendChild(document.createTextNode(text));
+          } else {
+            const span = document.createElement('span');
+            span.className = 'term';
+            span.textContent = text;
+
+            span.onclick = (e) => {
+              e.stopPropagation();
+              showDefinition(data.original, data.def, span);
+            };
+
+            frag.appendChild(span);
+            foundInText.add(match.key);
+          }
+
+          i += match.length;
         } else {
-          frag.appendChild(document.createTextNode(part.text));
+          frag.appendChild(document.createTextNode(tokens[i]));
+          i++;
         }
-      });
+      }
 
       node.parentNode.replaceChild(frag, node);
     });
 
-    // --- 6. DOM RE-ENTRY ---
-
+    // --- 5. DOM RE-ENTRY ---
     if (STRIP_ORIGINAL_TAGS) {
-      if (startNode?.parentNode) startNode.remove();
-      if (endNode?.parentNode) endNode.remove();
+      startNode.remove();
+      endNode.remove();
     } else {
-
-      const resultWrapper = document.createElement('div');
-      resultWrapper.className = 'glossary-source-area';
+      const wrapper = document.createElement('div');
+      wrapper.className = 'glossary-source-area';
 
       if (STRIP_UNUSED_FROM_GLOSSARY) {
         fragment.querySelectorAll('li').forEach(li => {
-          const liText = normalizeKey(li.textContent);
+          const text = normalizeKey(li.textContent);
 
-          const isUsed = Array.from(foundInText).some(term => liText.includes(term));
+          const isUsed = Array.from(foundInText).some(t => text.includes(t));
           const isSkipped = Object.keys(glossaryLookup).some(k =>
-            glossaryLookup[k].skipLink && liText.includes(k)
+            glossaryLookup[k].skipLink && text.includes(k)
           );
 
           if (!isUsed && !isSkipped) li.remove();
         });
-
-        fragment.querySelectorAll('ul, ol').forEach(list => {
-          if (list.children.length === 0) list.remove();
-        });
       }
 
-      resultWrapper.appendChild(fragment);
+      wrapper.appendChild(fragment);
 
-      const parentP = startNode.closest('p');
-
-      if (parentP && parentP.parentNode) {
-        parentP.parentNode.insertBefore(resultWrapper, parentP.nextSibling);
-      } else if (startNode.parentNode) {
-        startNode.parentNode.insertBefore(resultWrapper, startNode.nextSibling);
+      if (startNode.parentNode) {
+        startNode.parentNode.insertBefore(wrapper, startNode.nextSibling);
       }
 
-      if (startNode?.parentNode) startNode.remove();
-      if (endNode?.parentNode) endNode.remove();
+      startNode.remove();
+      endNode.remove();
     }
 
-    // --- 7. DIAGNOSTICS ---
-
+    // --- 6. Diagnostics ---
     if (DUMP_DIAGNOSTICS) {
       console.group("Glossary Diagnostic Report");
-
-      const termKeys = Object.keys(glossaryLookup);
-
-      console.log("✅ Linked:", Array.from(foundInText).sort());
-      console.log("❌ Unused:", termKeys.filter(t => !foundInText.has(t)).sort());
-
-      let output = "";
-
-      glossaryGroups.forEach((groupTitle, groupIndex) => {
-        const items = Array.from(foundInText)
-          .filter(key => glossaryLookup[key].groupIndex === groupIndex)
-          .sort()
-          .map(key => {
-            const item = glossaryLookup[key];
-            return `- **${item.original}** (${item.def})`;
-          });
-
-        if (items.length) {
-          output += `### ${groupTitle}\n${items.join('\n')}\n\n`;
-        }
-      });
-
-      const ungrouped = Array.from(foundInText)
-        .filter(key => glossaryLookup[key].groupIndex === -1)
-        .sort()
-        .map(key => {
-          const item = glossaryLookup[key];
-          return `- **${item.original}** (${item.def})`;
-        });
-
-      if (ungrouped.length) {
-        output = `### General / Ungrouped\n${ungrouped.join('\n')}\n\n` + output;
-      }
-
-      console.log("📝 Grouped Linked Items:\n" + (output || "None"));
+      console.log("✅ Linked:", Array.from(foundInText));
+      console.log("❌ Unused:", Object.keys(glossaryLookup).filter(k => !foundInText.has(k)));
       console.groupEnd();
     }
 
-    // --- 8. TOOLTIP ---
-
+    // --- Tooltip ---
     let tooltip = document.querySelector('.definition-tooltip') || document.createElement('div');
 
     if (!tooltip.parentElement) {
@@ -281,11 +266,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const rect = target.getBoundingClientRect();
       const scrollY = window.pageYOffset;
 
-      if (window.innerWidth >= 640) {
-        tooltip.style.position = 'absolute';
-        tooltip.style.top = `${rect.bottom + scrollY + 8}px`;
-        tooltip.style.left = `${rect.left}px`;
-      }
+      tooltip.style.position = 'absolute';
+      tooltip.style.top = `${rect.bottom + scrollY + 8}px`;
+      tooltip.style.left = `${rect.left}px`;
 
       const hide = () => {
         tooltip.classList.remove('show');
