@@ -2082,19 +2082,19 @@ The smith looked up from his anvil. “Walking the bounds, Lord.”
 
 The smith nodded, pumping the bellows until the coals hissed. He jerked his chin toward the village green, where a few men stood. “I reckon you'll have teachers enough on the commons,” he said.
 
-By the time they reached the green, the Reeve was already waiting, his woollen cap in his hands. Behind him stood two old villagers – grey‑bearded men who had walked these boundaries since they were boys. One was called Alfsige, the other Leofwine. Neither spoke unless spoken to, but their eyes missed nothing.
+By the time they reached the green, the Reeve was already waiting, his woollen cap in his hands. Behind him stood two old villagers – grey‑bearded men who had walked these boundaries since they were boys. One was called Alfsige, the other Leofwine. Neither spoke much, but their eyes missed nothing.
 
 To the west, on a slight rise about a bowshot from the hall, sat St. Peter’s. Its stone tower, sturdy and square, watched over the crossroads through the bare branches of the trees. “Norman work,” the Reeve said, nodding toward it. “Built by the first lord after the Conquest. But the crypt underneath is older – Saxon. That’s where the lady lies buried.”
 
 Godfrey glanced at the tower, then at Harold. The old thegn’s face did not change.
 
-“The boundary begins at the ford,” Harold said, pointing toward the river. “From the ford to the old oak, then east to the Roman road, then south to the stone.”
+Leofwine pointed toward the river. "From the ford along the riverbank to the twisted hawthorn on the common; along the common to the Roman way; from the way to the rune‑stone on the east; from the stone on to the old ditch to the millpond, then follow the leat back to the ford.  
 
 They set off.
 
 ---
 
-The walk began well enough. The lane, the river, the oak. Harold pointed, named, moved on. Godfrey followed, trying to commit each marker to memory.
+The walk began well enough. The village lane, the river, twisted hawthorn. Harold pointed, named, moved on. Godfrey followed, trying to commit each marker to memory.
 
 But at the fourth boundary – a lichen‑covered stone half‑buried in brambles – Godfrey walked past it.
 
@@ -2106,7 +2106,7 @@ Godfrey turned. “That stone?”
 
 He spat into his palm, using a calloused thumb to scrub the crust of grey lichen from the grain. Under the moisture, the grey rock deepened to a bruised purple, revealing the shallow, sharp-angled incisions of a hidden script.
 
-He ran his stick carefully over the rune‑inscribed markings. “That marks the old way, before the Romans, before the Saxons. Someone wanted to be remembered.”
+He ran his stick carefully over the rune‑inscribed markings. “That marks the old way, from the first Saxons who came up the river, but the stone itself is older; long before the Romans came, someone wanted to be remembered.”
 
 Godfrey knelt and pushed aside the brambles. “It is barely visible.” He looked up at Harold. “How does anyone find it?”
 
@@ -2128,7 +2128,7 @@ Harold stared at him. The wind moved the bare branches. Then, slowly, he nodded.
 
 ---
 
-They set off again, Godfrey asking questions, tracing the lines with his fingers, repeating the names under his breath. “Oak, ash, stone, brook.”
+They set off again, Godfrey asking questions, tracing the lines with his fingers, repeating the names under his breath. “Twisted hawthorn, road, stone.”
 
 The Reeve pointed to a low earthen mound near the iron pits. “Old before the Romans,” he said. “We call it the old barrow. The old folk who built it used it as a boundary marker. So do we.”
 
@@ -4963,7 +4963,7 @@ Beneath their feet, the bones of the dead lay in rows, older than the church, ol
 
 Harold’s hand found the staghound’s head. The dog looked up once, then settled its chin on its paws. No objection from them either.
 
-From the edge of the crowd, the old villager who had shown Godfrey the twisted hawthorn caught his eye and nodded once. The land remembered. So did he.
+From the edge of the crowd, Leofwine, the old villager who had shown Godfrey the twisted hawthorn caught his eye and nodded once. The land remembered. So did he.
 
 In the crowd, Avice dropped her gaze to the ground. She did not speak. Eustacia’s lips tightened, but she too held her tongue. The silence held.
 
@@ -6024,7 +6024,6 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | **The Priest (St. Mary‑by‑the‑Woods)** | The corrupt priest who allows Sir Guy to use his chapel; flees and is later caught. |
 | **The Royal Forester** | Blows the horn that warns of the attack and helps scatter Sir Guy's hired men. |
 | **The Captain of the Guard** | Arrives at the chapel to arrest Sir Guy. |
-| **The Old Villager (Hawthorn)** | Catches Godfrey's eye at the church door and nods—a silent witness of the land. |
 | **The Old Woman (Church)** | Calls out "Get on with it. We've bread to bake" during the objection silence at the wedding. |
 | **The Old Woman (Proverb)** | Repeats the proverb at the end of the wedding feast. |
 | **The Messenger (Royal)** | Various unnamed messengers who carry letters and news. |
