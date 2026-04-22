@@ -6230,12 +6230,14 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 
 ### IV. Village, Farm & Trade
 
+- **agister** (pl. agisters; A royal official who managed forest grazing and collected livestock fees. )
 - **bailiff** (pl. bailiffs; Estate manager)
 - **blood-wite** (pl. blood-wites; Fine for bloodshed)
 - **bordar** (pl. bordars; Smallholding peasant)
 - **bride-wite** (pl. bride-wites; Fine for marriage arrangement breach)
 - **carter** (pl. carters; Cart driver)
 - **carucage** (Land-based tax)
+- **charcoal** (Partially burnt wood that acts as a super-fuel)
 - **child-wite** (pl. child-wites; Fine for illegitimate child issue)
 - **churl** (pl. churls; Free peasant)
 - **cooper** (pl. coopers; Barrel maker)
@@ -6307,6 +6309,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **frumenty** (Wheat porridge dish)
 - **garderobe** (pl. garderobes; Medieval toilet)
 - **hall** (pl. halls; Great communal room)
+- **hearth** (pl. hearths; The floor of a fireplace and the area in front of it, often a social gathering place)
 - **hippocras** (Spiced wine drink)
 - **huisje** (pl. huisjes; Small house; Flemish term)
 - **kirtle** (pl. kirtles; Basic gown or tunic)
@@ -6354,7 +6357,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **abide** (alt. abides; To wait or endure)
 - **albeit** (Although)
 - **anon** (Soon)
-- **annus horribilis** (pl. anni horribiles; Bad year)
+- **annus horribilis** (pl. anni horribiles; Latin: Bad year)
 - **beholden** (Indebted)
 - **beseech** (alt. beseeches; To ask earnestly)
 - **beseem** (alt. beseems; To be appropriate)
@@ -6383,6 +6386,21 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **wend** (alt. wends; To go)
 - **witenagemot** (pl. witenagemots; Anglo-Saxon council)
 - **ye** (Plural “you”)
+
+### VIII. The Map of Beatrice’s World
+- **Anjou** (A rival land in France; pronounced ‘An-joo’)
+- **Berkhamsted** (A fortress on the main route from Westminster to Rockingham; pronounced ‘Bur-kem-sted’)
+- **Brittany** (A rugged land in France; home of mercenaries)
+- **Devon** (The red-earth county in the far southwest of England)
+- **Exeter** (The fortress city of the west; pronounced ‘Ex-eh-ter’)
+- **Flanders** (A land of weavers across the sea)
+- **Gisors** (A town in Normandy)
+- **London** (The great city on the Thames)
+- **Normandy** (The King’s land across the sea)
+- **Provence** (A sunny land in France, split between the Barcelona and the House of Toulouse; pronounced Pro-vonss, like Pro-*vahnce**)
+- **Thames** (The great river; pronounced ‘Tems’)
+- **Évreux** (A powerful city in Normandy; pronounced ‘Iv-roo’)
+- **Westminster** (The King’s home near London; home to the King’s Great Hall and the Abbey)
 
 <span id="endGLOSSARY"></span>
 
