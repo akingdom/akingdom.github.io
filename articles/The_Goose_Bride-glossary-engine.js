@@ -14,7 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const glossaryLookup = {};
     const glossaryGroups = [];
     const foundInText = new Set();
-
+    const styledKeys = new Set();
+    
     // --- NORMALISATION ---
     const normalizeKey = (str) =>
       str
@@ -186,12 +187,21 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
           const data = glossaryLookup[match.key];
           const span = document.createElement('span');
+          
+          // Base class for all occurrences
           span.className = 'term';
+          
+          // --- NEW LOGIC: Only style the first time we see this key ---
+          if (!styledKeys.has(match.key)) {
+            span.classList.add('first-occurrence');
+            styledKeys.add(match.key);
+          }
+
           span.textContent = match.match;
 
           span.onclick = (e) => {
             e.stopPropagation();
-            showDefinition(data, span); // Pass the whole data object
+            showDefinition(data, span);
           };
 
           frag.appendChild(span);
