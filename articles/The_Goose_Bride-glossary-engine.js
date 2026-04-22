@@ -168,15 +168,23 @@ document.addEventListener('DOMContentLoaded', () => {
           i++;
         } else {
           let data = glossaryLookup[match.key];
-          if (data.mainKey) data = glossaryLookup[data.mainKey];
-
+          
+          // --- LINKED STYLING LOGIC ---
+          // Determine the "Source of Truth" key for this word
+          const masterKey = data.mainKey || match.key;
+          
           const span = document.createElement('span');
           span.className = 'term';
           
-          if (!styledKeys.has(match.key)) {
+          // If the master term (or any of its variations) hasn't been styled yet...
+          if (!styledKeys.has(masterKey)) {
             span.classList.add('first-occurrence');
-            styledKeys.add(match.key);
+            // Mark the masterKey so NO other variations get styled
+            styledKeys.add(masterKey);
           }
+
+          // If it was an alias, resolve the data to the main definition
+          if (data.mainKey) data = glossaryLookup[data.mainKey];
 
           span.textContent = match.match;
           span.onclick = (e) => {
