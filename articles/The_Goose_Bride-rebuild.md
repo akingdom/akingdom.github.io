@@ -6090,6 +6090,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **frankpledge** (alt. frank pledge; A system where a group is responsible for each member’s behavior)
 - **hue and cry** (pl. hues and cries; The duty of all citizens to chase a criminal)
 - **justiciar** (pl. justiciars; The highest royal official for law)
+- **lackland** (A nickname of a person who owns no land or property)
 - **letters patent** (pl. letters patents; Open letters from the crown for all to see)
 - **license** (pl. licenses; The official permission or ‘leave’ granted by a King or Lord to do something important)
 - **manumission** (pl. manumissions; The formal act of freeing a serf)
@@ -6445,15 +6446,15 @@ In general the author has taken some liberties with modern English grammar to gi
 >
 > *“A goose may wend where a King must wait.”*
 >
-> 1. A goose roams freely, but a king must face heavy responsibility. (earliest meaning)
+> 1. A simple creature moves lightly, but a King is slowed by the organisation attending his rank. (earliest meaning)
 >
-> 2. A fool may rush in where a wise person would not. (middle meaning)
+> 2. A fool acts on a whim, but a leader is delayed by the consequences and timing of his choices. (middle meaning)
 > 
-> 3. A humble person may travel freely, but a mighty person is hindered by many things. (later meaning)
+> 3. Freedom is the privilege of the insignificant; power is a prison of duty and expectation. (later meaning)
 > 
-> This is a fictional idiom, so it is difficult to find exact meanings, but these three seem to form the closest fit.
+> This is a fictional idiom; these three meanings seem to be the best fit.
 >
-> Compare to the word ‘nice’ which originally meant ‘one of simple understanding, a fool’, then ‘precise’, then later came to mean ‘pleasant’.
+> Compare this to the word ‘nice’, which in the 1200s meant ‘foolish or silly’; by the 1300s, it shifted to ‘shy or fussy’; in the 1500s, it evolved into ‘precise or fine’; and finally, by the 1700s, it came to mean ‘agreeable or pleasant’.
 
 ---
 
