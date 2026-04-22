@@ -6081,6 +6081,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **attainder** (pl. attainders; The loss of all civil rights and land due to a crime)
 - **chancellor** (pl. chancellors; The official in charge of the King’s writing and seals)
 - **charter** (pl. charters; A formal written grant or treaty)
+- **coram rege** (A court of high justice that travelled with the King's person, literally “in the presence of the King”)
 - **deported** (alt. deport; Forcibly sent out of a country back to one’s land of birth)
 - **escheat** (pl. escheats; When land goes back to the King because there is no heir)
 - **escheator** (pl. escheators; The official who handles land that has “escheated”)
