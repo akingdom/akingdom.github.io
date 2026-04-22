@@ -6090,6 +6090,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **frankpledge** (alt. frank pledge; A system where a group is responsible for each member’s behavior)
 - **hue and cry** (pl. hues and cries; The duty of all citizens to chase a criminal)
 - **justiciar** (pl. justiciars; The highest royal official for law)
+- **lackland** (A nickname of a person who owns no land or property)
 - **letters patent** (pl. letters patents; Open letters from the crown for all to see)
 - **license** (pl. licenses; The official permission or ‘leave’ granted by a King or Lord to do something important)
 - **manumission** (pl. manumissions; The formal act of freeing a serf)
@@ -6230,12 +6231,14 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 
 ### IV. Village, Farm & Trade
 
+- **agister** (pl. agisters; A royal official who managed forest grazing and collected livestock fees. )
 - **bailiff** (pl. bailiffs; Estate manager)
 - **blood-wite** (pl. blood-wites; Fine for bloodshed)
 - **bordar** (pl. bordars; Smallholding peasant)
 - **bride-wite** (pl. bride-wites; Fine for marriage arrangement breach)
 - **carter** (pl. carters; Cart driver)
 - **carucage** (Land-based tax)
+- **charcoal** (Partially burnt wood that acts as a super-fuel)
 - **child-wite** (pl. child-wites; Fine for illegitimate child issue)
 - **churl** (pl. churls; Free peasant)
 - **cooper** (pl. coopers; Barrel maker)
@@ -6307,6 +6310,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **frumenty** (Wheat porridge dish)
 - **garderobe** (pl. garderobes; Medieval toilet)
 - **hall** (pl. halls; Great communal room)
+- **hearth** (pl. hearths; The floor of a fireplace and the area in front of it, often a social gathering place)
 - **hippocras** (Spiced wine drink)
 - **huisje** (pl. huisjes; Small house; Flemish term)
 - **kirtle** (pl. kirtles; Basic gown or tunic)
@@ -6354,7 +6358,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **abide** (alt. abides; To wait or endure)
 - **albeit** (Although)
 - **anon** (Soon)
-- **annus horribilis** (pl. anni horribiles; Bad year)
+- **annus horribilis** (pl. anni horribiles; Latin: Bad year)
 - **beholden** (Indebted)
 - **beseech** (alt. beseeches; To ask earnestly)
 - **beseem** (alt. beseems; To be appropriate)
@@ -6383,6 +6387,21 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **wend** (alt. wends; To go)
 - **witenagemot** (pl. witenagemots; Anglo-Saxon council)
 - **ye** (Plural “you”)
+
+### VIII. The Map of Beatrice’s World
+- **Anjou** (A rival land in France; pronounced ‘An-joo’)
+- **Berkhamsted** (A fortress on the main route from Westminster to Rockingham; pronounced ‘Bur-kem-sted’)
+- **Brittany** (A rugged land in France; home of mercenaries)
+- **Devon** (The red-earth county in the far southwest of England)
+- **Exeter** (The fortress city of the west; pronounced ‘Ex-eh-ter’)
+- **Flanders** (A land of weavers across the sea)
+- **Gisors** (A town in Normandy)
+- **London** (The great city on the Thames)
+- **Normandy** (The King’s land across the sea)
+- **Provence** (A sunny land in France, split between the Barcelona and the House of Toulouse; pronounced Pro-vonss, like Pro-*vahnce**)
+- **Thames** (The great river; pronounced ‘Tems’)
+- **Évreux** (A powerful city in Normandy; pronounced ‘Iv-roo’)
+- **Westminster** (The King’s home near London; home to the King’s Great Hall and the Abbey)
 
 <span id="endGLOSSARY"></span>
 
@@ -6427,15 +6446,15 @@ In general the author has taken some liberties with modern English grammar to gi
 >
 > *“A goose may wend where a King must wait.”*
 >
-> 1. A goose roams freely, but a king must face heavy responsibility. (earliest meaning)
+> 1. A simple creature moves lightly, but a King is slowed by the organisation attending his rank. (earliest meaning)
 >
-> 2. A fool may rush in where a wise person would not. (middle meaning)
+> 2. A fool acts on a whim, but a leader is delayed by the consequences and timing of his choices. (middle meaning)
 > 
-> 3. A humble person may travel freely, but a mighty person is hindered by many things. (later meaning)
+> 3. Freedom is the privilege of the insignificant; power is a prison of duty and expectation. (later meaning)
 > 
-> This is a fictional idiom, so it is difficult to find exact meanings, but these three seem to form the closest fit.
+> This is a fictional idiom; these three meanings seem to be the best fit.
 >
-> Compare to the word ‘nice’ which originally meant ‘one of simple understanding, a fool’, then ‘precise’, then later came to mean ‘pleasant’.
+> Compare this to the word ‘nice’, which in the 1200s meant ‘foolish or silly’; by the 1300s, it shifted to ‘shy or fussy’; in the 1500s, it evolved into ‘precise or fine’; and finally, by the 1700s, it came to mean ‘agreeable or pleasant’.
 
 ---
 
