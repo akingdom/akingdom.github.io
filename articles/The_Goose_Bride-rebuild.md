@@ -912,7 +912,7 @@ As for the Queen, she stared at the King, a picture of astonishment. “You cann
 
 Henry’s posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. “If the Heavens wish him wed, they shall surely provide. Else-wise, let the hall stay empty, that I may drink in peace.”
 
-The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a sacred vow (*coram rege*)—before the court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar in front of God.
+The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a *vow* made *coram rege*—before the high court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar in the eyes of the law and God.
 
 Henry reached for his wine, oblivious to the cage he had just built—its door swung wide open to the night.
 
@@ -6229,6 +6229,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **terce** (Third hour of prayer)
 - **tithe** (pl. tithes; One-tenth church tax)
 - **vicarage** (pl. vicarages; Vicar’s residence or office)
+- **vow** (pl. vows; a solemn, binding promise—often sworn on a sacred object or deity name—that carries legal, moral, or religious consequences if broken)
 
 ### IV. Village, Farm & Trade
 
