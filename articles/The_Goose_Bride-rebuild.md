@@ -825,7 +825,7 @@ Then, slowly, he said, “Godfrey is… young.”
 
 Roger’s eyebrows rose. “At his age you seized the treasury at Winchester.”
 
-Henry’s jaw tightened. “He studies” He said it as if convincing himself. “There is time enough.”
+Henry’s jaw tightened. “He studies.” He said it as if convincing himself. “There is time enough.”
 
 “Time for what?” Roger’s voice was flat. “It is whispered in the corridors, at the supper tables, and now even to my own ears: Lackland’s shadow.”
 
@@ -6393,6 +6393,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **Berkhamsted** (A fortress on the main route from Westminster to Rockingham; pronounced ‘Bur-kem-sted’)
 - **Brittany** (A rugged land in France; home of mercenaries)
 - **Devon** (The red-earth county in the far southwest of England)
+- **Évreux** (A powerful city in Normandy; pronounced ‘Iv-roo’)
 - **Exeter** (The fortress city of the west; pronounced ‘Ex-eh-ter’)
 - **Flanders** (A land of weavers across the sea)
 - **Gisors** (A town in Normandy)
@@ -6400,9 +6401,8 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **Normandy** (The King’s land across the sea)
 - **Provence** (A sunny land in France, split between the Barcelona and the House of Toulouse; pronounced Pro-vonss, like Pro-*vahnce**)
 - **Thames** (The great river; pronounced ‘Tems’)
-- **Évreux** (A powerful city in Normandy; pronounced ‘Iv-roo’)
-- **Westminster** (The King’s home near London; home to the King’s Great Hall and the Abbey)
-
+- **Westminster** (The Rising Capital of England. The symbolic and spiritual centre of the monarchy. While Winchester held the money, Westminster Palace held the throne, the Abbey serving as the exclusive site for coronations and royal marriages. By the late 1100s, it eclipsed Winchester as the functional capital to be nearer the commercial power of London.)
+- **Winchester** (The Old Capital of England. The administrative and financial hub of early Norman England. The castle served as the kingdom’s “safe,” housing the physical Royal Treasury and the earliest records of the Exchequer. It provided Henry I with historical legitimacy by linking his reign to the ancient Saxon capital.)
 <span id="endGLOSSARY"></span>
 
 ---
