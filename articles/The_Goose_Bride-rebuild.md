@@ -696,7 +696,7 @@ Beatrice lay still, one hand resting on the white curve of the goose's back. In 
 
 She rose. Goosie rose with her.
 
-Harold was awake, moving slowly by the hearth, tending to his own needs. He glanced at her—not the sharp look of a father catching a daughter in trouble, but the careful look of a man who had been waiting.
+Harold was awake, moving slowly back to the hearth, having tended to his own needs. He glanced at her—not the sharp look of a father catching a daughter in trouble, but the careful look of a man who had been waiting.
 
 Beatrice built up the fire. She knelt beside his chair. And she told him everything.
 
