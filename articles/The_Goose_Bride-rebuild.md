@@ -614,21 +614,17 @@ Goosie honked.
 
 ### Every coop is empty
 
-The messenger rode away, leaving Beatrice in the doorway, feeling unwell, Goosie nesting warmly in her arms. She looked at her father; Harold looked back, his eyes hollow. 
+The messenger rode away, leaving Beatrice in the doorway, feeling unwell, Goosie nesting warmly in her arms. She looked at her father; Harold looked back, his eyes hollow.
 
-“My tired arms are of little use to a younger King,” he said, his voice low and gritty. “If I cannot fight for him, I must pay him. But they took the last of our stored grain last Michaelmas. If they come again, the village may well starve.”
+"My tired arms are of little use to a younger King," he said, his voice low and gritty. "A man who cannot ride to war must pay the shield‑tax instead. That I can manage, just. But this—" He shook his head. "They took the last of our stored grain at Michaelmas. The King's own purveyors. For the army in Wales. If they come again, the village may well starve."
 
 They both knew that they had nothing suitable for the King except the unthinkable.
 
-“We have coin enough for the present, father. We shall simply buy a bird for the King. Surely there must be at least one,” Beatrice said, her voice almost sounding confident. “One of the farm geese—“
+"We have coin enough for the present, father. We shall simply buy a bird for the King. Surely there must be at least one," Beatrice said, her voice almost sounding confident. "One of the farm geese—"
 
-Harold shook his head. “Try by all means, Beatrice. Remember I told you back in spring of the Great Levy for the King’s army, down in Wales. Every manor from here to the Severn has been stripped to feed the vanguard. This is a cost of war.”
+Harold shook his head. "Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn't seize for the King's table, the Earl's men bought up to provision the baggage trains. Roger of Salisbury's clerks have been through the ledgers; they know exactly how many wings are in every yard."
 
-“They can’t take what isn’t there,” she whispered.
-
-“They took it anyway. What the purveyors didn’t seize for the King’s table, the Earl’s men bought up to provision the baggage trains. Roger of Salisbury’s clerks have been through the ledgers; they know exactly how many wings are in every yard.“
-
-Her father looked at her wryly. “It is a strange world, Beatrice, where a man in a stone tower knows our poultry better than a fox.”
+Her father looked at her wryly. "It is a strange world, Beatrice, where a man in a stone tower knows our poultry better than a fox."
 
 ---
 
@@ -674,47 +670,53 @@ The nurse’s hand, calloused from years of plucking and grain-sorting, rested h
 
 She looked Beatrice squarely in the eye, her expression hard as flint. “Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here.”
 
-Beatrice stumbled away, the nurse’s words ringing like a death knell. She walked without seeing, her feet finding the path by memory alone. By the time she reached the quiet copse of alders near the stream, her legs gave out.
+Beatrice stumbled away, the nurse’s words tolling like a death knell in the dark. Brambles caught her legs; hedgerows slid past unseen. Her own breath was loud in her ears. She could not imagine how she reached home, her feet must have worked by memory alone.
 
-She sat there, head spinning. She might have prayed, or she might have simply drifted off from exhaustion and the sheer weight of grief, nodding into a shallow, grey sleep.
+The yard. The door. The cold nose of the staghound as she pushed inside.
 
----
+Her father sat in his chair, his head fallen forward, his breath slow and heavy. She approached him, her chest heaving, but she could not bear to wake him. Not like this. Instead she laid a blanket over him.
 
-### The river took the weak
+It was dark and the fire had burned low and pale. She saw Goosie, a pale mound resting in her favourite corner, beak tucked under her wing.
 
-Beatrice walked home in the fading light.
+The silence settled around her like cold water. She had never felt so alone.
 
-At the edge of the clearing, she stopped. Goosie was there—waiting for her, always waiting. The goose waddled forward and pressed her head against Beatrice’s knee.
+She knelt beside her bed to pray and the next moment woke from a bad dream: Goosie had gone missing—gone from the house, gone from the yard, gone from the world—and so she sat up gasping, her hand reaching wildly in the darkness for feathers that were not there.
 
-Beatrice knelt and buried her face in warm feathers. “There’s no other bird,” she whispered. 
+It was silent apart from the distant cry of a fox. Then she remembered. The nurse. The empty coops. The King.
 
-*The river took the weak. The Abbot took the strong. The war took the rest.*
-
-Goosie honked softly. She didn’t understand. She just was.
-
-Beatrice carried her inside. Harold looked up from his chair. He saw her empty hands.
-
-“The purveyors took the King’s share,” Beatrice said, her voice flat. “The floods took the neighbours’ flocks. The Abbot took the tithes. There is nothing left but skin and bone. Nothing but...”
-
-“Nothing but Goosie,” Harold finished.
-
-He didn’t say *your mother’s goose*. He didn’t need to.
+She prayed, as she sat empty-handed in the dark. As she laid her head down, she named the worst thing. She had said it to herself: *Goosie must go.* And having said it, the world did not end. Somewhere between one breath and the next, she slipped into a sleep without dreams.
 
 ---
 
 ### Only God or the King
 
-Harold sighed from his chair by the fire. “It must be done, daughter.”
+Beatrice woke to a soft weight pressing against her hip. Daylight. Pale and new through the shutters. Goosie had crossed the rushes and settled beside her, warm and solid and entirely herself.
 
-“But Goosie—“
+Beatrice lay still, one hand resting on the white curve of the goose's back. In place of her fears was something quieter and worse: certainty.
 
-“A crown is a heavy thing,” he said gently. “Kings must take much, for much is laid upon them.”
+She rose. Goosie rose with her.
 
-Beatrice folded her arms. “I should like to tell this king what I think of that. He has a thousand birds in a hundred forests...”
+Harold was awake, moving slowly by the hearth, tending to his own needs. He glanced at her—not the sharp look of a father catching a daughter in trouble, but the careful look of a man who had been waiting.
+
+Beatrice built up the fire. She knelt beside his chair. And she told him everything.
+
+*The river took the weak. The Abbot took the strong. The war took the rest.*
+
+"There's no other bird but—" she whispered.
+
+"Nothing but Goosie," Harold finished.
+
+He didn't say *your mother's goose*. He didn't need to.
+
+A hot, ungracious thought rose in Beatrice. "What business has the King hunting here, anyway? He has a thousand forests. A hundred kitchens. Must he come and take what little we have?"
+
+"A crown is a heavy thing," he said gently. "Kings must take much, for much is laid upon them."
+
+Beatrice folded her arms. "I should like to tell this king what I think of that."
 
 Harold almost smiled. It was a pale shadow of his old laugh, but it was something.
 
-“You may keep that thought to yourself.”
+"You may keep that thought to yourself."
 
 He tried to rise. His hands shook. Beatrice saw him brace against the chair, saw the moment of pain cross his face before he hid it.
 
@@ -724,23 +726,29 @@ She was at his side in three steps.
 
 “Then I shall send the Reeve. He has a sturdy cart and the manner of a village headman.”
 
-Beatrice shook her head. “The agisters will strip the very shoes from a horse for a ‘grazing tax,’ and the foresters bleed a man for merely looking at a deer. Besides, the Reeve has a large, hungry family. Goosie would end up in his pot before they even saw the forest.”
+Beatrice shook her head. “The agisters will strip the very shoes from a horse for a ‘grazing tax,’ and the foresters bleed a man for merely looking at a deer. And besides, the Reeve has a large, hungry family. Goosie would end up in his pot before they even saw the forest.” A thought found its way out of her mouth, unintended: *Not for Stanwey, father* 
 
 She looked at the charcoal basket by the hearth—the same basket her father had made for Goosie over ten years ago, now darkened by wear, but the leather strap was still supple. The nurse’s words echoed: *Only the King or God*.
 
 She looked at her father’s tired face, at the way his hand still rested on his chest. And just like that, she knew what she must do.
 
-“Father, I’ll take her. I’ll walk the old Roman road and blend with the charcoal-bearers. Goosie can hide in a basket on my hip.” She paused. “Besides, I’m on the King’s business if anyone asks.”
+“Father, I’ll take her.”
 
-Harold studied her face. For a moment, something flickered in his eyes—the old sharpness, the man who had ridden with kings.
+He shook his head. “It's hardly safe for you, daughter.”
 
-“Your mother would have been proud of you.”
+“I can walk the old Roman road and blend with the charcoal-bearers. Goosie can hide in a basket on my hip.” She paused. “Besides, I’m on the King’s business if anyone asks.”
 
-Beatrice’s throat tightened. She set down the basket — Goosie honked in protest — and quickly hugged her father fiercely. He felt thinner and more frail than he should.
+Harold studied her face. 
+
+“Your mother would be proud of you.”
+
+And for a moment, something flickered in his eyes—the old sharpness, the man who had ridden with kings.
+
+Beatrice’s throat tightened. She set down the basket — with a protest from Goosie — and quickly hugged her father fiercely. He felt thinner and more frail than he should.
 
 “Perhaps I should go,” he murmured into her hair.
 
-“Nay, Father,” She said, pulling back, blinking hard. “I’ll be home by dark.”
+“Nay, Father,” She said, pulling back, blinking hard. “Nay, I’ll be home by dark.”
 
 She settled Goosie in the basket and set out.
 
