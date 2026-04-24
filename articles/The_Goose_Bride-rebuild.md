@@ -1886,7 +1886,7 @@ Godfrey turned to Beatrice with a slight frown, as though checking his answer ag
 
 He was silent a moment to think. “But to walk with her.”
 
-“Sooth?” The firelight caught the lines in Harold’s face, the grey in his beard. He noted the man’s ink-stained nails. “A question then—to a man of learning—turn your ear to this tale of mine.” 
+“Sooth?” The firelight caught the lines in Harold’s face, the grey in his beard. He noted the man’s ink-stained nails. “An enigma for a scholar then.” 
 
 “A farmer’s son, a merchant, and a knight each came seeking the same farm girl. The farmer’s son wanted a soft life – warm hearth, full belly, no more war. The merchant wanted a name – to sit at the high table, to be called ‘lord.’ The knight wanted power – land to rule, men to command.”
 
@@ -1894,7 +1894,7 @@ Harold studied him, leaning forward slightly.
 
 “Three men. Three wants. Comfort. Status. Control. She refused them all.”
 
-There was a long drawn out pause, almost painful. In the shadows, Beatrice’s face burned, but she did not move. *You use me in a riddle, Father, like those for your friends. Except this has real consequences.*
+There was a long drawn out pause, almost painful. In the shadows, Beatrice’s face burned, but she did not move. *Is it me you use in your riddle, Father, like those for your friends—except this has real consequences.*
 
 Harold’s voice continued, almost gentle – a man who had tested many souls with voice and with blade.
 
@@ -1908,7 +1908,7 @@ Godfrey did not answer at once. The fire crackled.
 
 *Do not assume the answer is the obvious one.*
 
-He felt the air in the hall grow thick, and his throat went dry. For a heartbeat, he felt the panicked urge to reach for the easy, hollow phrases that had served him at court – to bow low and claim he wanted nothing but to serve, or to stand tall and claim the land as a king’s son.
+He felt the air in the hall grow thick, and his throat went dry. For a heartbeat, he felt the panicked urge to reach for the easy, hollow phrases that had served him at court – to bow low and claim he wanted nothing but to serve, or to stand tall like his half-brothers and claim the land as a king’s son.
 
 He remembered sitting in the cold classroom at Salisbury, his breath misting as he copied out the Gospels. The canon had set them the passage from Mark – *whoever wants to be great must be your servant* – and told them to argue it out. He had stayed up late with the other students, turning the words over. What did it mean for a lord? For a king? For a husband?
 
@@ -1936,9 +1936,15 @@ Harold looked dissatisfied. “Is that all?”
 
 Suddenly, his words gushed out like water.
 
-“I have read in my studies that the King of Heaven did not seize his throne. He asked a girl for her consent, and waited for her yes. He washed the feet of his friends. He said that whoever wants to be great must be the servant of all. I am not that King. But if I am to serve him, and if I am to be a husband—”
+“I have read in my studies that the King of Heaven did not seize his throne. He came into the world through a maiden who was asked, and who gave her yes freely. He washed the feet of his friends. He said that whoever wants to be great must be the servant of all. But if I am to follow him, and if I am to be a true husband—”
 
-His voice dropped. “I will be that kind of husband – or none at all. I don’t know if that’s the answer, as I am not married, but that is what I know. If she will not have me, I go back to my father and tell him I offered what I could – my name, my work, my loyalty – and it was not enough. But I will not give or take what is not mine.”
+
+His voice dropped. “I would be that kind of husband – or none at all. I don’t know if that’s the answer, or if it makes for a good marriage, but that is what I believe—”
+
+He looked down at his knees. “If she will not have me, I go back to my father and tell him I offered what I could – my name, my work, my loyalty – and it was not enough. But I will not offer what is not mine. Nor take it. But if she will—” 
+
+He stopped. The word hung in the air, unguarded. “If she will, then I will spend my life trying to be worthy of it.”
+
 
 ---
 
@@ -2222,6 +2228,116 @@ Beatrice caught her father’s eye as he passed. He did not smile, but something
 
 ---
 
+### A pot of golden honey
+
+Godfrey had ridden out from Rockingham Castle at first light, meaning to reach Stanwey by mid‑morning. But by the time he passed the forest gate his horse was favouring one hoof, which made a clicking sound. He turned aside at the crossroads, where the smith looked up from his anvil and eyed the animal with professional resignation.
+
+“Aye, a shifting shoe. Not bad yet, but it’ll throw before too long. Leave him with me an hour.”
+
+Godfrey handed over the reins.
+
+The smith wiped his hands on his apron—a gesture that did little more than rearrange the grime—and tilted his head. “You were walking the bounds with Lord Harold the other day.”
+
+“I was.”
+
+The smith nodded, as if that explained something. He did not ask why a stranger in nobleman’s clothes was walking boundaries with the old thegn. He only jerked his chin toward the rise. “Church is that way, if you need somewhere to wait.” He considered a moment. “Tell you what. Priest owes me some honey. Fetch me a pot of it and we’ll call it square. Tell him it’s for the smith. He’ll know it.”
+
+Godfrey nodded and set off up the path, a nobleman’s son sent on an errand like any village boy, and finding the simplicity of it unexpectedly restful.
+
+The path climbed a little. The dwellings straggled along the lane in no particular order, each with its own yard and midden, clustered where the ground was firmest. Chickens scattered as he passed. A woman drawing water from the well looked up and said nothing.
+
+Then the last cottage fell behind, and the stone tower of St. Peter’s rose through the tree branches. Up close, the church was simple: a nave of pale stone, a porch worn smooth by footsteps, and above the door, a crudely carved saint with a missing nose. Older than the tower, that carving. Older than the Normans, perhaps.
+
+A low hum came from the straw skeps near the churchyard wall, where the priest was working among the hives. Beside him stood a woman in a stained apron—the nurse from the river‑bend farm. She was holding a small pot, full by the look of it, and when she looked up and saw Godfrey standing there, waiting silently, her eyes sharpened with something that was not quite surprise. She nodded to him.
+
+“And here’s a young man who’s here for a chat, if I’m any judge.” She tapped a finger against the side of her nose. “You needn’t wait for permission to breathe, you know.”
+
+The priest turned. “You needn’t tease the lad so, Margery. He’s only just arrived.”
+
+The woman shook her head. “Common sense, I call it. And I’ve not the time to stand about dispensing more of it. I’ll only be in the way here and I’ve honey cakes to bake.” She tucked her pot firmly under her arm. “Good day to you both.”
+
+She walked off down the lane towards the river crossing. The two men watched her go.
+
+“A sharp tongue, but a good heart,” the priest said. “She paid in eggs this morning. Twice what the honey is worth, but she insists.” He dusted his hands and studied Godfrey with the same mild attention he might give a parishioner settling into a pew—unhurried, accustomed to silence, waiting to see what would emerge. “You have been walking the bounds. Harold seems pleased, from what I hear. That is not a small thing.”
+
+Godfrey nodded. He did not know what to say. The priest seemed content to wait.
+
+“I am delayed by my horse’s shoe,” Godfrey said at last. “Lord Harold wishes to test my swordwork.” He shook his head. “I do not know why I am so restless. It is only a lesson, though my skill is admittedly mediocre.”
+
+“Harold tests everyone,” the priest said. “It is his nature. He tested his wife, once, God rest her. She passed. He tests me still, and I have buried half his household. You are in good company.” He settled onto the low stone wall. “But I do not think it is the sword lesson that troubles you.”
+
+Godfrey sat beside him, because it seemed expected, and because his feet were tired. The hum of the hives was steady, restful.
+
+“I do not know what I am doing,” Godfrey said at last. It came out quieter than he meant.
+
+“Few do. The ones who think they do are the dangerous ones.”
+
+Godfrey shook his head. “That is not—I mean that I have spent my whole life watching. Keeping still. Wanting nothing that could be taken.”
+
+The priest was silent.
+
+“I try not to want anything too much,” Godfrey continued, the words coming slowly, as if he were lifting stones from a deep place. “Because wanting means you can lose. And the more you love, the more you stand to lose.”
+
+“And you have lost?”
+
+Godfrey looked away. “My mother was sent from court when I was young. I have not seen her in years. My father—” He stopped. “My father is the King. I am his son, but only in name. I have been invisible for so long that visibility itself is a shock.” He let out a breath. “Love, in my experience, is conditional. Contingent. Revocable.”
+
+“And yet,” the priest said gently, “you are here. You followed a girl with a goose. You are walking the bounds and learning the sword. Something has changed.”
+
+“Beatrice.” Her name was barely audible. “She does not let me be still.”
+
+“Is that a bad thing?”
+
+Godfrey stared at the ground. “I do not know. I have read about this—the poets call it a wound, a fire. I thought it was metaphor.” His voice cracked. “It is not.”
+
+“So poetry has become life. That is uncomfortable for a scholar.”
+
+“It is not uncomfortable.” Godfrey met the priest’s eyes for the first time. “It is terrifying.”
+
+The priest waited.
+
+“She looked at me,” Godfrey said, the words spilling out now, unguarded. “In the hall, everyone was watching my father. She looked at me. And she saw—I do not know what she saw. But once she knows me, truly knows me, I cannot retreat back into the safety of being a stranger. Knowing is irreversible. And if she knows me, and still chooses me—” He stopped, his throat tight.
+
+“Then you are loved,” the priest finished.
+
+“Yes. And I do not know how to bear that.” Godfrey’s hands were trembling. “Because love cannot coexist with the determination to want nothing. I have built my whole life on wanting nothing. And she—she makes me want. She makes me want to be seen. To be worthy. To be—” He could not finish.
+
+“To be loved?” The priest’s voice was very gentle now. “And to love in return?”
+
+Godfrey nodded. “If I love her, and she loves me, then I have something I cannot bear to lose. And I have spent my whole life making sure I had nothing to lose.”
+
+The bees droned. Somewhere beyond the wall, a goose honked—Goosie, perhaps, calling across the fields, a creature equally precious and equally vulnerable.
+
+“I buried her mother,” the priest said quietly. “Did you know that?”
+
+Godfrey shook his head.
+
+“Beatrice was eleven. She stood by the grave and did not cry. Afterwards, she ran. Her father sat in his chair for a month and did not speak.” The priest looked toward the church, where the crypt lay beneath the stone. “She has learned that the people we love can be taken. That is a hard lesson for a child. It taught her, as you have taught yourself, to guard her heart. And yet, when her father asked what she wanted, she said: *Let him court me.*”
+
+Godfrey felt something shift in his chest. Beatrice had lost her mother. She had watched her father retreat into silence. She had carried Stanwey on her back, alone, while grieving. And still she had risked wanting. She had chosen to lower the drawbridge.
+
+“She is braver than I am,” he said.
+
+“She is braver than she was,” the priest corrected. “That is different. Courage is not born. It is built, one hard thing at a time. Every time you choose to want something that can be taken—every time you choose to love—you are building courage. You have already begun. You came after her. You stayed. You are letting yourself be moved. That is not nothing.”
+
+“If I fail her—”
+
+“Then you fail her.” The priest’s voice was matter‑of‑fact. “And you rise, and you try again. That is what love asks. Not perfection. Persistence. I have heard a great many confessions, and I have made a great many mistakes. The men who succeed are not the ones who never fail. They are the ones who refuse to let failure be the end.”
+
+The bees droned. Godfrey let out a breath he had not known he was holding.
+
+The priest studied him for a long moment. “You told me you have been a shadow. That you watch and wait and try not to want. But a shadow leaves no mark. It cannot be read.” He paused, letting the words settle. “You are a shadow no longer. From this day, your life is like an open letter. Beatrice will see you. People will see you. They will read what is written there.” His voice dropped, warm and grave. “Let it say something true, and good. Walk as a letter from Christ. That is all any of us can do.”
+
+He rose, his knees cracking. “Now. Harold will be waiting, and a man who turns up late to a sword lesson invites a harder one. Go.”
+
+He stooped to a small shelf built into the hive stand and retrieved a clay pot, stoppered with waxed cloth. “For the smith. Tell him the bees send their regards.”
+
+Godfrey took the pot. At the gate, he paused. “Thank you, Father. I mean it.”
+
+The priest raised his hand. “God be with you.”
+
+---
+
 ### The weight of a real sword
 
 Beatrice pressed her back against the oak door, her face burning. *It is amazing how quickly you can turn around when you want to disappear.*
@@ -2262,23 +2378,37 @@ Godfrey took it. The weight was unfamiliar, but not unwelcome.
 
 ---
 
-### “He has something to live for”
+### “You are needed here too”
 
-Later that evening, after Harold had gone inside and the fire had been built up, Beatrice stood by the door, watching her father move through the hall. His step was less tentative than it had been in months. His voice, when he spoke to the servants, was stronger.
+Later that evening, after Harold had gone inside and the fire had been built up, Beatrice stood by the door, watching her father move through the hall. He crossed to the hearth without his stick. He spoke to the cook about the morning’s baking, and his voice carried across the room—not loud, but firm, the way it used to sound when she was a child.
 
 She caught herself smiling.
 
-“He is better,” she said to Godfrey.
+Godfrey was seated by the fire, rubbing oil into the leather grip of the practice sword Harold had given him. He looked up as she approached.
 
-“He has something to live for,” Godfrey replied. “We all do.”
+“He is better,” she said.
 
-She did not ask what he meant. She thought she knew.
+Godfrey followed her gaze. Harold was gesturing now, describing something to the cook with both hands, and the cook was laughing. “He is needed,” Godfrey said. “A man who is needed does not quickly fade.”
+
+She sat on the stool opposite him. The fire popped, casting a brief flare of light across his face. He did not look away from her, and she found she did not mind it.
+
+“You are needed here too, I think,” she said.
+
+He was quiet for a moment. Then he set the sword aside. “I have never been needed anywhere before.”
+
+She did not know what to say to that. It made her feel both happy and sad in the same moment. She only knew that the hall felt warmer than it had in a long time, with her father laughing in the next room, and that the young man sitting across from her had something steady in his eyes that she was sure had not been there when he first walked into the yard.
+
+She picked up the cloth he had been using and wiped a smear of oil from his wrist. It was a small thing. A practical thing. But his hand turned under hers, just for a moment, and his fingers closed around her own.
+
+“Thank you,” he said. He meant more than the cloth.
+
+She nodded, and they sat together in the firelight until Harold called for supper.
 
 ---
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 18 - The priest’s honey and a heavy heart
+## Chapter 18 - The priest and a heavy heart
 
 On the final day, the Hall was a furnace of frantic industry. The air was thick with the scent of rendering fat and the sharp, rhythmic *thwack* of cleavers on oak. Even the children were put to work, gathering spring flowers to decorate the hall.
 
@@ -2292,11 +2422,9 @@ The laneway was unusually quiet since most villagers were already helping gladly
 
 Goosie had followed her, as always. The bird was tired from the day’s activity so waddled over and settled in a comfortable place under the wooden bench seat by Beatrice’s favourite tree—the one by St. Peter’s.
 
-The church sat on a slight rise a bowshot from the hall, with its stone tower visible through the bare trees.
-
 “Little lady!” A distant cheerful voice was followed by a warbling whistled tune. The priest was rounding the corner of his small wattle-and-daub cottage, which sat in the lee of the church’s chancel. He was an old man, older than her father, his face carved by wind and prayer.
 
-Behind him, near the low stone wall of the churchyard, his straw skeps—the conical bee-hives—hummed with more activity than even Stanwey hall. The late August sun had turned the air golden, and the bees darted amongst the fading clover and the last of the wild thyme, desperate to fill their combs before the first frost.
+Behind him, near the low stone wall of the churchyard, his straw skeps hummed with more activity than even Stanwey hall. The late August sun had turned the air golden, and the bees darted amongst the fading clover and the last of the wild thyme, desperate to fill their combs before the first frost.
 
 *Little lady.* The priest had always called her that since childhood and had no intentions to change now she was growing up. Beatrice sank gratefully onto the wooden bench seat that had stood beneath the tree’s deep evergreen canopy for longer than she could remember.
 
@@ -2328,9 +2456,11 @@ The priest nodded slowly. “That is a true fear, and a heavy one.” He was qui
 
 Beatrice frowned. “You have seen him?”
 
-“I have eyes, child. And ears. And for these I thank our God often.” 
+“I have eyes, child. And ears. And for these I thank our God often.” The priest paused, and when he spoke again, his voice was thoughtful. “He came by the other day, you know. We sat a while.”
 
-The priest smiled. “The King of England’s son mended the goose pen. He helped the blacksmith fix his bellows. He sat with your father by the gate in the evening while waiting for you. He even made sure your father’s favourite cakes didn’t burn. Those are not the acts of a man who means to steal your home.”
+Beatrice looked up. “Godfrey came here?”
+
+“He did.” The priest offered nothing more than a smile. “The King of England’s son mended the goose pen. He helped the blacksmith fix his bellows. He sat with your father by the gate in the evening while waiting for you. He even made sure your father’s favourite cakes didn’t burn. Those are not the acts of a man who means to steal your home.”
 
 “He is trying to be kind,” she admitted.
 
