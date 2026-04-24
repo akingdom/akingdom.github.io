@@ -670,7 +670,7 @@ The nurse’s hand, calloused from years of plucking and grain-sorting, rested h
 
 She looked Beatrice squarely in the eye, her expression hard as flint. “Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here.”
 
-Beatrice stumbled away, the nurse’s words tolling like a death knell in the dark. Brambles caught her legs; hedgerows slid past unseen. Her own breath was loud in her ears. She could not imagine how she reached home, her feet must have worked by memory alone.
+Beatrice stumbled away, seeing nothing, the nurse’s words tolling like a death. Brambles caught her legs; hedgerows slid past unperceived. Her own breath was loud in her ears. She could not imagine how she reached home, her feet must have worked by memory alone.
 
 The yard. The door. The cold nose of the staghound as she pushed inside.
 
@@ -805,11 +805,11 @@ The Queen looked at him directly, she who had ruled England as regent in his ste
 
 Henry grunted, his fingers drumming on the oak. “If it holds—a promise is only as strong as the sword behind it.”
 
-“And a sword is only as strong as the hand that holds it,” she countered smoothly. “The French King yielded at Gisors because he saw your reach was long. What are stags compared with your sons, and foxes to your daughters?”
+The Queen countered smoothly, turning her head. "And a sword is only as strong as the hand that holds it. The French King yielded at Gisors because he saw your reach was long. What are stags compared with your sons, and foxes to your daughters?"
 
 She watched his jaw relax. He liked the map she was drawing.
 
-It was then that Roger, the Bishop of Salisbury, stepped forward. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink—the second most powerful man in England and keeper of the realm’s cold reality.
+Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink—the second most powerful man in England and keeper of the realm's cold reality.
 
 “My lord the king,” Roger said, his voice precise, “It is well met, for I would speak of a son, not in terms of silver and swords, but rather I would speak of souls and of welfare.”
 
