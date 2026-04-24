@@ -1230,11 +1230,11 @@ Henry spoke again, his voice far lighter and diverted.
 
 The hall laughed, uncertain, then genuine. It rippled through the court. The tension broke.
 
-Henry nodded to the clerk, who scratched out words speedily with his pen. Then he sat, reaching for his wine.
+Henry reached for his wine.
 
-The Queen lowered herself beside him, her voice barely above a murmur.
+The Queen leant towards him, her voice barely above a murmur.
 
-“Eat your venison, my lord. It’s a long night.”
+“Enjoy your venison, my lord.”
 
 He reached for the meat. “You’re good at this.”
 
