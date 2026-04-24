@@ -933,7 +933,7 @@ Beatrice reached the hunting lodge by midday.
 
 The place swarmed with soldiers and servants. 
 
-The hall was still nursing the King’s mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary of its hot steam. 
+The hall was still nursing the King’s mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary. 
 
 As Beatrice entered, carrying the handmade basket and dusty from the journey, Sir Guy recognised her as he lounged near the doorway. He was the young Norman knight, who had tried to court her.
 
@@ -1065,7 +1065,7 @@ She turns to the clerk, dictating: “Item: the goose of the daughter of Harold 
 
 Henry was pleased. “Yes, yes. Write it.”
 
-The Queen turned warmly to Beatrice. “Go home, young lady, and take your goose. The king’s word is given.”
+The Queen turned warmly to Beatrice. “Go home, young lady, and take your goose. The King’s word is given.”
 
 As Beatrice turned gratefully to leave, her knees feeling a little weak, the King’s eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
 
@@ -1212,7 +1212,7 @@ Henry looked at his clerk, who already had quill poised over fresh parchment. Th
 
 *Together.*
 
-His voice carried to the furthest rafters. “Hearken now, all my barons and faithful men of England.”
+The King’s voice carried to the furthest rafters. “Hearken now, all my barons and faithful men of England.”
 
 The chatter died instantly.
 
@@ -1220,9 +1220,11 @@ The chatter died instantly.
 
 He looked directly at the cluster of knights where Sir Guy stood, his gaze like a physical weight.
 
-“Let this be clear to one and all. My son, Godfrey, shall marry the daughter of Harold Red-Wolf.”
+“Let this be clear to one and all. None shall hinder the marriage of my son, Godfrey, to the daughter of Harold Red‑Wolf. This is our royal will.”
 
-He paused, letting the weight settle. Then he grinned.
+His words echoed through the assembled court, settling heavily. The clerk, who had been writing steadily throughout, lifted the parchment, blew softly on the ink, and held it out. The Chancellor of England pressed the royal Lion seal into a pool of warm wax at the foot of the page. The image of the King, lion of England, hardened into place.
+
+Henry spoke again, his voice far lighter and diverted.
 
 “The goose came first, but the girl was right behind. I am not such a fool as to marry my son to a goose.” The Queen’s lips twitched.
 
