@@ -1856,47 +1856,49 @@ Godfrey walked toward the door and Goosie led the way inside.
 
 ### What is the fourth thing?
 
-The door was opened by a servant, who bowed nervously and stepped aside. The hall beyond was dim, the fire burned low. Goosie waddled in first and stopped, fixing the stranger with a beady stare, before settling on the farthest side of the warm hearth.
-
-Harold sat in his chair, staghound at his feet. His hands rested on the arms of the chair as he looked from the young man to his daughter.
+The door was opened by a servant, who bowed and stepped aside with visible relief. The hall beyond was dim and the fire burned low. Goosie waddled in first, pausing at the hearth, to fix the stranger with a beady stare, before settling herself.
 
 Beatrice stepped inside and clasped her hands together. “Father, this is Godfrey, the son of King Henry. He has ridden from Rockingham to see me home safely.”
 
-Harold looked up from his chair. The firelight caught the deep lines of his face. He studied the young man in the doorway, his eyes moving from the dust on his boots to the quiet way he held himself.
+“You are welcome in this hall,” said Harold’s voice from his seat. Formal words, but a measured voice, of a man who knew that distance between welcome and trust.
 
-“You are welcome in this hall,” Harold said. The words were formal, but his voice was measured, the voice of a man reserving judgment. “Come to the hearth.”
+“Come and sit with me, lad.”
 
-Godfrey stepped forward. He stopped at the edge of the firelight. He did not advance further. He did not speak at once.
+His hands rested on the arms of the chair in a manner that was not quite challenge, but not quite welcome—something older and more patient than either.
 
-Beatrice moved to her father's side, not sitting, just standing where she could see them both.
+Godfrey stepped forward. He stopped at the bench seat indicated by Harold at the edge of the firelight. 
 
-Godfrey glanced at Beatrice, then back at Harold. “I came to bring your daughter home.”
+Beatrice moved to her father's side, standing a little behind his chair.
 
-Harold looked at Godfrey for a long moment. Then, slowly, he inclined his head. “You came after her.”
+Godfrey glanced at her, then back at Harold. “I came to bring your daughter home.” He said it simply, as though it were the most natural errand in the world, which of course it was not.
+
+Harold looked at Godfrey for a long moment. Then, slowly, he inclined his head. “You came after her, then.”
 
 “I did.”
 
-“On foot.”
+Harold noted the dust on his boots. “On foot?”
 
 “She was walking. It seemed… right.”
 
-Harold's mouth twitched. Not quite a smile, but something like it. “My daughter is not easily caught. She runs her own race.”
+A small silence followed. Harold’s mouth twitched—not a smile, but the shadow of one, the kind a man permits himself when he has not yet decided whether to be amused or suspicious. “My daughter is not easily caught. She runs her own race.”
 
-Godfrey looked at Beatrice, a small frown flickering across his brow, then turned back to Harold. “I am not here to catch her.”
+Godfrey turned to Beatrice with a slight frown, as though checking his answer against her face, then looked back at Harold. “I am not here to catch her—”
 
-“No?” Harold studied him. The firelight caught the lines in his face, the grey in his beard. He indicated the bench seat. “Come and sit, lad.”
+He was silent a moment to think. “But to walk with her.”
+
+“Sooth?” The firelight caught the lines in Harold’s face, the grey in his beard. He noted the man’s ink-stained nails. “A question then—to a man of learning—turn your ear to this tale of mine.” 
 
 “A farmer’s son, a merchant, and a knight each came seeking the same farm girl. The farmer’s son wanted a soft life – warm hearth, full belly, no more war. The merchant wanted a name – to sit at the high table, to be called ‘lord.’ The knight wanted power – land to rule, men to command.”
 
-He leaned forward slightly.
+Harold studied him, leaning forward slightly.
 
 “Three men. Three wants. Comfort. Status. Control. She refused them all.”
 
-In the shadows near the door, Beatrice’s face burned, but she did not move. *Oh. Like your riddles for your friends, Father, except this has real consequences.*
+There was a long drawn out pause, almost painful. In the shadows, Beatrice’s face burned, but she did not move. *You use me in a riddle, Father, like those for your friends. Except this has real consequences.*
 
-Harold’s voice was steady, almost gentle – a man who had tested many souls with voice and with blade.
+Harold’s voice continued, almost gentle – a man who had tested many souls with voice and with blade.
 
-“So here is my question, boy. What is the fourth thing? The thing none of them thought to want? The thing that is not for yourself, but for her? If you cannot name it, you are no different from the rest.”
+“So here is my question, boy. What is the fourth thing? The thing none of them thought to want? The thing that is not for yourself, but for her? For if you cannot name it, you are no different from these men.”
 
 He held Godfrey’s gaze.
 
@@ -1914,7 +1916,7 @@ He still had questions. But he had learned one thing: a man who rules by fear ru
 
 He looked at Harold, but the man’s face offered no hints.
 
-For a heartbeat, he almost gave them the answer they might expect – that he wanted nothing, that he would be content with a corner of the hearth. Or the other easy answer: that he wanted everything, that he would take what he could and call it fate. Both were lies. Both were traps.
+For a heartbeat, he almost spoke the answer that many might expect – that he wanted nothing, that he would be content with a corner of the hearth. Or the other easy answer: that he wanted everything, that he would take what he could and call it fate. Both were lies. Both were traps.
 
 The masks were right there, ready to be worn, and for a terrifying second, he did not know if he had the courage to speak without one.
 
@@ -1922,7 +1924,7 @@ The masks were right there, ready to be worn, and for a terrifying second, he di
 
 ### Harold looked dissatisfied
 
-*Which mask is true?* Neither. Both were lies. His father had sworn a vow to let God decide, so could there be a third way, neither grasping nor grovelling? A risk.
+*Which mask is true?* Neither. His father had sworn a vow to let God decide, so could there be a third way, neither grasping nor grovelling? A risk, but what?
 
 He let the silence stretch, then spoke.
 
@@ -1932,11 +1934,11 @@ Harold looked dissatisfied. “Is that all?”
 
 “No. I would be lying if I said I did not want it – not for myself alone, but for us. A place to build a life. A home. I have never had one.”
 
-His words poured out like water.
+Suddenly, his words gushed out like water.
 
-“I have read in my studies that the King of Heaven did not seize his throne. He asked a girl for her consent, and waited for her yes. He washed the feet of his friends. He said that whoever wants to be great must be the servant of all. I am not that King. But if I am serve him, and if I am to be a husband, I will be that kind of husband – or none at all.”
+“I have read in my studies that the King of Heaven did not seize his throne. He asked a girl for her consent, and waited for her yes. He washed the feet of his friends. He said that whoever wants to be great must be the servant of all. I am not that King. But if I am to serve him, and if I am to be a husband—”
 
-His voice dropped. “I don’t know if that’s the answer, as I am not married, but it is what I know. If she will not have me, I go back to my father and tell him I offered what I could – my name, my work, my loyalty – and it was not enough. But I will not give or take what is not mine.”
+His voice dropped. “I will be that kind of husband – or none at all. I don’t know if that’s the answer, as I am not married, but that is what I know. If she will not have me, I go back to my father and tell him I offered what I could – my name, my work, my loyalty – and it was not enough. But I will not give or take what is not mine.”
 
 ---
 
