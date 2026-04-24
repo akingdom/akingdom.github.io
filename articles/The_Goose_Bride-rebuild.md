@@ -1856,13 +1856,21 @@ Godfrey walked toward the door and Goosie led the way inside.
 
 ### What is the fourth thing?
 
-The hall was dim, the fire low. Harold sat in his chair, staghound at his feet. He had not risen. His hands rested on the arms of the chair, and his eyes were fixed on the young man who now stood before him.
+The door was opened by a servant, who bowed nervously and stepped aside. The hall beyond was dim, the fire burned low. Goosie waddled in first and stopped, fixing the stranger with a beady stare, before settling on the farthest side of the warm hearth.
 
-“Well,” he said. “Who is this you’ve brought in, Goosie?”
+Harold sat in his chair, staghound at his feet. His hands rested on the arms of the chair as he looked from the young man to his daughter.
 
-Godfrey stopped at the edge of the hearth. He did not advance further. He did not speak at once.
+Beatrice stepped inside and clasped her hands together. “Father, this is Godfrey, the son of King Henry. He has ridden from Rockingham to see me home safely.”
 
-Beatrice moved to her father’s side, not sitting, just standing where she could see them both.
+Harold looked up from his chair. The firelight caught the deep lines of his face. He studied the young man in the doorway, his eyes moving from the dust on his boots to the quiet way he held himself.
+
+“You are welcome in this hall,” Harold said. The words were formal, but his voice was measured, the voice of a man reserving judgment. “Come to the hearth.”
+
+Godfrey stepped forward. He stopped at the edge of the firelight. He did not advance further. He did not speak at once.
+
+Beatrice moved to her father's side, not sitting, just standing where she could see them both.
+
+Godfrey glanced at Beatrice, then back at Harold. “I came to bring your daughter home.”
 
 Harold looked at Godfrey for a long moment. Then, slowly, he inclined his head. “You came after her.”
 
@@ -1872,11 +1880,11 @@ Harold looked at Godfrey for a long moment. Then, slowly, he inclined his head. 
 
 “She was walking. It seemed… right.”
 
-Harold’s mouth twitched. Not quite a smile, but something like it. “My daughter is not easily caught. She runs her own race.”
+Harold's mouth twitched. Not quite a smile, but something like it. “My daughter is not easily caught. She runs her own race.”
 
-Godfrey glanced at Beatrice, then back at Harold. “I am not here to catch her.”
+Godfrey looked at Beatrice, a small frown flickering across his brow, then turned back to Harold. “I am not here to catch her.”
 
-“No?” Harold studied him. The firelight caught the lines in his face, the grey in his beard.
+“No?” Harold studied him. The firelight caught the lines in his face, the grey in his beard. He indicated the bench seat. “Come and sit, lad.”
 
 “A farmer’s son, a merchant, and a knight each came seeking the same farm girl. The farmer’s son wanted a soft life – warm hearth, full belly, no more war. The merchant wanted a name – to sit at the high table, to be called ‘lord.’ The knight wanted power – land to rule, men to command.”
 
