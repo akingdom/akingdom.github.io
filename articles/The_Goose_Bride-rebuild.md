@@ -1856,7 +1856,7 @@ Godfrey walked toward the door and Goosie led the way inside.
 
 ### What is the fourth thing?
 
-The door was opened by a servant, who bowed and stepped aside with visible relief. The hall beyond was dim and the fire burned low. Goosie waddled in first, pausing at the hearth, to fix the stranger with a beady stare, before settling herself.
+The door was opened by a servant, who bowed and stepped aside with visible relief. The hall beyond was dim and the fire burned low. Goosie waddled in first, pausing at the hearth to fix the stranger with a beady stare, before settling herself.
 
 Beatrice stepped inside and clasped her hands together. “Father, this is Godfrey, the son of King Henry. He has ridden from Rockingham to see me home safely.”
 
@@ -1944,7 +1944,7 @@ His voice dropped. “I will be that kind of husband – or none at all. I don�
 
 ### When she is ready
 
-Harold’s expression did not change, but something behind it shifted. He looked at Beatrice.
+Harold’s expression did not change, but something behind it shifted. He looked up at Beatrice.
 
 “And you, daughter? What do you say?”
 
@@ -1958,7 +1958,7 @@ For a moment Harold was the man who had pulled a lord from the river, who had ri
 
 He turned to Godfrey.
 
-“You have my permission to court her. Not to take her, but to court her, to learn her ways, her people, her land. And when she is ready—if she is ready—you may come back and ask again.”
+“You have my permission to court her. Not to take her, but to court her, to learn her ways, her people, her land. And when she is ready—*if* she is ready—you may come back and ask again.”
 
 Godfrey bowed his head. “I will.”
 
