@@ -1222,7 +1222,7 @@ He looked directly at the cluster of knights where Sir Guy stood, his gaze like 
 
 “Let this be clear to one and all. None shall hinder the marriage of my son, Godfrey, to the daughter of Harold Red‑Wolf. This is our royal will.”
 
-His words echoed through the assembled court, settling heavily. The clerk, who had been writing steadily throughout, lifted the parchment, blew softly on the ink, and held it out. The Chancellor of England pressed the royal Lion seal into a pool of warm wax at the foot of the page. The image of the King, lion of England, hardened into place.
+It took some moments for the King’s word to settle on the assembled court, no one certain how to respond. The scratchings of the clerk’s quill ceased and he lifted the finished parchment, blew softly on the ink, and held it out once dry. The Chancellor of England pressed the King’s seal into a pool of warm wax at the foot of the page. The image of the King, lion of England, hardened into place.
 
 Henry spoke again, his voice far lighter and diverted.
 
@@ -6449,6 +6449,12 @@ In general the author has taken some liberties with modern English grammar to gi
 > 🟢 **Did You Know?**
 >
 > The Sheriff of Nottingham—who appears briefly in this story—was a real official. His family’s lands later became part of the Royal Forest under King Henry II – the very setting where legends of Robin Hood would grow. Some scholars believe the Sheriff’s harsh enforcement of forest law helped inspire the tales of the outlaw of Sherwood.
+
+---
+
+> 🟢 **Lions or Leopards?**
+>
+> Did you know? Technically, the three animals on the English crest are heraldic "leopards" because they are walking and facing the viewer; in the Middle Ages, the word "lion" was only used if the beast was standing on its hind legs. At the time leopards were believed to be hybrid lions.
 
 ---
 
