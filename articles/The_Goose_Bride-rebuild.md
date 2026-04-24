@@ -694,7 +694,7 @@ Beatrice woke to a soft weight pressing against her hip. Daylight. Pale and new 
 
 Beatrice lay still, one hand resting on the white curve of the goose's back. In place of her fears was something quieter and worse: certainty.
 
-She rose. Goosie rose with her.
+She rose up. Goosie rose with her.
 
 Harold was awake, moving slowly back to the hearth, having tended to his own needs. He glanced at her—not the sharp look of a father catching a daughter in trouble, but the careful look of a man who had been waiting.
 
@@ -1242,7 +1242,7 @@ He reached for the meat. “You’re good at this.”
 
 “Making me think I decided things myself.”
 
-She rose, moving away, but her smile lingered. “I learned from the best.”
+The Queen rose, moving away, but her smile lingered. “I learned from the best.”
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
