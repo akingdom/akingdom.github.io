@@ -918,11 +918,11 @@ Roger’s eyes widened in shock. Bishop Bloet exchanged a glance with the Archbi
 
 As for the Queen, she stared at the King, a picture of astonishment. “You cannot possibly mean to cast his life so blindly.”
 
-Henry’s posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. “If the Heavens wish him wed, they shall surely provide. Else-wise, let the hall stay empty, that I may drink in peace.”
+Henry’s posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. “If the Heavens wish him wed, they shall surely provide. Else-wise, let the hall keep its silence, that I may drink in peace.”
 
 The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a *vow* made *coram rege*—before the high court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar in the eyes of the law and God.
 
-Henry reached for his wine, oblivious to the cage he had just built—its door swung wide open to the night.
+Henry reached for his wine, oblivious to the cage he had just built — its door swung wide open.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -974,7 +974,7 @@ The bird leapt onto the king’s table.
 
 Henry blinked at the goose, and every face showed what it feared most, not knowing whether the king’s mood would turn to mercy or to wrath. 
 
-In that breath, the king roared with laughter: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
+In that breath, the king laughed heartily: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
 
 “Well! At last a lively hunt!”
 
@@ -1049,7 +1049,7 @@ The King roared with excited laughter, in sudden recognition.
 
 The King beamed, shaking his head in surprise. “Well, aren’t you a fine she-wolf! Now, do not delay but go, tell your father that I shall visit him next week to hear him tell it anew...”
 
-The Queen was most relieved to see the King now quite relaxed and pleased. She calculated that she had a week—maybe two. The king had promised a visit. That gave her time. Time to speak with him privately, time to consider the options, time to—
+The Queen was most relieved to see the King now quite relaxed and pleased. She calculated that she had a week—maybe two. The king had promised a visit. That gave her time. Time to discuss the matter with him privately, time to consider the options, time to—
 
 Henry set down his cup, rising. “Hearken now, all my barons and faithful men of England!”
 
@@ -1075,11 +1075,9 @@ It seemed that the King missed very little in his court.
 
 Sir Guy passed Beatrice, moving aside, red-faced. She caught his eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
 
-She faced away from the man who had humiliated her earlier; her gaze swept the crowd, looking for safe harbour, anything steady. Her eyes found the pillar—found him—the quiet one. Not part of the whispers. Not part of the cruelty—simply there.
+She turned her back on the man who had humiliated her earlier; her gaze swept the crowd, looking for safe harbour, anything steady. Her eyes found him—the quiet one—by the pillar. Not part of the whispers. Not part of the cruelty—simply there. Something flickered in his face—barely there. A crack in his cautious mask.
 
-For a heartbeat—two—she let her curiosity turn to realisation: *oh. You’re not like them.*
-
-Something flickered in his face—barely there. A crack in his cautious mask.
+For a heartbeat—two—she forgot to breathe. *Not a smirk. Not a threat.* Then, quieter: *He's trying too.*
 
 The moment passed. Standing in the large doorway to the hall, she turned and impulsively gave a curtsy without seeing anyone; a mere blur of people as fresh air washed over her.
 
