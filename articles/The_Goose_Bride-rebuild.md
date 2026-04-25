@@ -2217,13 +2217,11 @@ Harold snorted but said nothing. Godfrey looked up. The old man’s eyes were cl
 
 A long pause. Then Harold grunted. “See that you don’t.”
 
-He rose, slowly, and walked toward the hearth. Beatrice caught her father’s eye as he passed. He did not smile, but something in his face had loosened.
-
 ---
 
 ### A pot of golden honey
 
-That Thursday, Godfrey had ridden out from Rockingham Castle at first light, meaning to reach Stanwey by mid‑morning. But by the time he passed the forest gate his horse was favouring one hoof, which made a clicking sound. He turned aside at the crossroads, where the smith looked up from his anvil and eyed the animal with professional resignation.
+That Thursday, Godfrey had ridden out from Rockingham Castle at first light, meaning to reach Stanwey by mid‑morning. But by the time he passed the forest gate his horse was favouring one hoof, each step making a metalic click. He turned aside at the crossroads, where the smith looked up from his anvil and eyed the animal with professional resignation.
 
 “Aye, a shifting shoe. Not bad yet, but it’ll throw before too long. Leave him with me an hour.”
 
@@ -2233,7 +2231,7 @@ The smith wiped his hands on his apron—a gesture that did little more than rea
 
 “I was.”
 
-The smith nodded, as if that explained something. He did not ask why a stranger in nobleman’s clothes was walking boundaries with the old thegn. He only jerked his chin toward the rise. “Church is that way, if you need somewhere to wait.” He considered a moment. “Tell you what. Priest owes me some honey. Fetch me a pot of it and we’ll call it square. Tell him it’s for the smith. He’ll know it.”
+The smith nodded, as if that explained something. He did not ask why a stranger in nobleman’s clothes was walking boundaries with the old thegn. He considered a moment. “Tell you what. Priest owes me some honey. Fetch me a pot of it and we’ll call it square. Tell him it’s for the smith. He’ll know it.” 
 
 Godfrey nodded and set off up the path, a nobleman’s son sent on an errand like any village boy, and finding the simplicity of it unexpectedly restful.
 
@@ -2241,13 +2239,13 @@ The path climbed a little. The dwellings straggled along the lane in no particul
 
 Then the last cottage fell behind, and the stone tower of St. Peter’s rose through the tree branches. Up close, the church was simple: a nave of pale stone, a porch worn smooth by footsteps, and above the door, a crudely carved saint with a missing nose. Older than the tower, that carving. Older than the Normans, perhaps.
 
-A low hum came from the straw skeps near the churchyard wall, where the priest was working among the hives. Beside him stood a woman in a stained apron—the nurse from the river‑bend farm. She was holding a small pot, full by the look of it, and when she looked up and saw Godfrey standing there, waiting silently, her eyes sharpened with something that was not quite surprise. She nodded to him.
+A pervasive hum came from the straw skeps near the churchyard wall, where the priest was working among the hives. Beside him stood a woman in a stained apron—the nurse from the river‑bend farm. She was holding a small pot, full by the look of it, and when she looked up and saw Godfrey standing there, waiting silently, her eyes sharpened with something that was not quite surprise. She nodded to him.
 
 “And here’s a young man who’s here for a chat, if I’m any judge.” She tapped a finger against the side of her nose. “You needn’t wait for permission to breathe, you know.”
 
 The priest turned. “You needn’t tease the lad so, Margery. He’s only just arrived.”
 
-The woman shook her head. “Common sense, I call it. And I’ve not the time to stand about dispensing more of it. I’ll only be in the way here and I’ve honey cakes to bake.” She tucked her pot firmly under her arm. “Good day to you both.”
+The woman shook her head. “Common sense, I call it. And I’ve not the time to stand about dispensing more of it. I’ve honey cakes to bake.” She tucked her pot firmly under her arm. “Good day to you both.”
 
 She walked off down the lane towards the river crossing. The two men watched her go.
 
@@ -2255,13 +2253,13 @@ She walked off down the lane towards the river crossing. The two men watched her
 
 Godfrey nodded. He did not know what to say. The priest seemed content to wait.
 
-“I am delayed by my horse’s shoe,” Godfrey said at last. “Lord Harold wishes to test my swordwork.” He shook his head. “I do not know why I am so restless. It is only a lesson, though my skill is admittedly mediocre.”
+“I am delayed by my horse’s shoe,” Godfrey said at last. “Lord Harold wishes to test my swordwork.” Godfrey shook his head. “I do not know why I am so restless. It is only a lesson, though my skill is admittedly mediocre.”
 
-“Harold tests everyone,” the priest said. “It is his nature. He tested his wife, once, God rest her. She passed. He tests me still, and I have buried half his household. You are in good company.” He settled onto the low stone wall. “But I do not think it is the sword lesson that troubles you.”
+“It is his nature,” the priest said as he settled onto the low stone wall. “But I do not think a sword lesson is truly what ails you.”
 
 Godfrey sat beside him, because it seemed expected, and because his feet were tired. The hum of the hives was steady, restful.
 
-“I do not know what I am doing,” Godfrey said at last. It came out quieter than he meant.
+“I do not know what I am doing,” he said at last. It came out quieter than he meant.
 
 “Few do. The ones who think they do are the dangerous ones.”
 
@@ -2269,23 +2267,23 @@ Godfrey shook his head. “That is not—I mean that I have spent my whole life 
 
 The priest was silent.
 
-“I try not to want anything too much,” Godfrey continued, the words coming slowly, as if he were lifting stones from a deep place. “Because wanting means you can lose. And the more you love, the more you stand to lose.”
+“I try not to want anything too much,” Godfrey continued, the words coming slowly, as though he were lifting stones from a deep place. “Because wanting means you can lose. And the more you love, the more you stand to lose.”
 
 “And you have lost?”
 
-Godfrey looked away. “My mother was sent from court when I was young. I have not seen her in years. My father—” He stopped. “My father is the King. I am his son, but only in name. I have been invisible for so long that visibility itself is a shock.” He let out a breath. “Love, in my experience, is conditional. Contingent. Revocable.”
+Godfrey looked away. “My mother has not been to court since I was young. It has been some years since I last saw her. My father—” He stopped. “father is the King. But as a king’s son, I have never truly existed. I have been ignored for so long that this sudden attention is a shock." He let out a breath. "The existence of love, in my experience, is conditional. Contingent. Revocable. Cut off on a whim."
 
-“And yet,” the priest said gently, “you are here. You followed a girl with a goose. You are walking the bounds and learning the sword. Something has changed.”
+“And yet,” the priest countered gently, “you are walking the bounds and learning the sword. You followed a goose and a girl. Something has changed.”
 
 “Beatrice.” Her name was barely audible. “She does not let me be still.”
 
 “Is that a bad thing?”
 
-Godfrey stared at the ground. “I do not know. I have read about this—the poets call it a wound, a fire. I thought it was metaphor.” His voice cracked. “It is not.”
+Godfrey stared at the ground. “I do not know. I have read the poets—Virgil’s ‘hidden fire,’ Ovid’s ‘uncurable wound.’ I thought they were just playing with words.” His voice cracked. “But the fire is real. It is not a metaphor.”
 
 “So poetry has become life. That is uncomfortable for a scholar.”
 
-“It is not uncomfortable.” Godfrey met the priest’s eyes for the first time. “It is terrifying.”
+“Uncomfortable?” Godfrey met the priest’s eyes for the first time. “It is terrifying.”
 
 The priest waited.
 
