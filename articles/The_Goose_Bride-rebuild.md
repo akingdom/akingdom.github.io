@@ -1,5 +1,6 @@
 # The Goose Bride
 
+<script src="../js/tts_float_tools.js"></script>
 <div style="text-align: center; margin: 20px 0;">
     <div style="display: inline-block; 
                 max-width: 85%; 
