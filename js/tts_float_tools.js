@@ -1,4 +1,4 @@
-# filename: js/tts_float_tools.js
+// filename: /js/tts_float_tools.js
 
 (function() {
     // 1. CSS Injection
