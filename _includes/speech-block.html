@@ -32,18 +32,55 @@ document.addEventListener("DOMContentLoaded", () => {
       voiceSelector: "#voice-select",
 
       textProvider: function () {
-        const root = document.querySelector('.markdown-body') || document.body;
-        const clone = root.cloneNode(true);
-
-        const selectors = 'header, nav, .audio-controls, script, style, #qrcode, h1, #skip-to-content';
-        clone.querySelectorAll(selectors).forEach(el => el.remove());
-
-        return clone.innerText.trim();
+        const root = document.querySelector('.main-content, .markdown-body') || document.body;
+        const startNode = (window.TTS_StartElement && root.contains(window.TTS_StartElement)) 
+                          ? window.TTS_StartElement 
+                          : root;
+      
+        const selectors = 'header, nav, .audio-controls, .tts-float-wrapper, script, style, #qrcode, h1, #skip-to-content';
+        const textParts = [];
+      
+        // TreeWalker is highly efficient for large documents
+        const walker = document.createTreeWalker(
+          root, 
+          NodeFilter.SHOW_ELEMENT | NodeFilter.SHOW_TEXT, 
+          {
+            acceptNode: (node) => {
+              // 1. Skip if it matches our "junk" selectors
+              if (node.nodeType === Node.ELEMENT_NODE && node.matches(selectors)) {
+                return NodeFilter.FILTER_REJECT;
+              }
+              // 2. If we are using a startElement, skip nodes physically before it
+              if (startNode !== root && node !== startNode && 
+                  !(startNode.compareDocumentPosition(node) & Node.DOCUMENT_POSITION_FOLLOWING)) {
+                return NodeFilter.FILTER_SKIP;
+              }
+              return NodeFilter.FILTER_ACCEPT;
+            }
+          }
+        );
+      
+        let currentNode = walker.nextNode();
+        while (currentNode) {
+          // Only collect actual text nodes to avoid duplicate text from parent innerText
+          if (currentNode.nodeType === Node.TEXT_NODE) {
+            textParts.push(currentNode.textContent);
+          }
+          currentNode = walker.nextNode();
+        }
+      
+        // Reset the global start trigger
+        window.TTS_StartElement = null;
+      
+        // Join and clean up whitespace for the TTS engine
+        return textParts.join('').replace(/\s\s+/g, ' ').trim();
       }
+      
     });
   }
 });
 </script>
+// Inside your Jekyll Template script
 
 <div class="audio-controls" id="audio-container">
   <select id="voice-select"></select>
