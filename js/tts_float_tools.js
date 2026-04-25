@@ -162,6 +162,7 @@
                 }
             }
         }
+    };
 
     // Auto-run when the DOM is ready
     if (document.readyState === 'loading') {
