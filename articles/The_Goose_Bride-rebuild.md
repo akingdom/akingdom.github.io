@@ -2191,7 +2191,7 @@ The river bend came into view – a sharp curve where the Welland slowed and dee
 
 Alfsige nodded toward the ford. “The only dry crossing for miles. In my grandsire’s time, the Danes tried to force it. They were pinned in the silt before they could find dry footing.” He glanced at Harold, a glint in his eye. “Though I suppose some Danes turned out all right.”
 
-Harold snorted but said nothing.
+Harold snorted but said nothing. It was no offence to a man who had known these people all his life and had no need to fill a silence that was already full of history.
 
 They passed the millpond, the leat, the smithy again. By the end, Godfrey’s boots were caked with mud, his tunic torn at the elbow, and a bramble scratch bled across the back of his hand. But he knew the boundary now – not just the stones and oaks, but the history under them. The old barrow, the Roman pits, the Norman church, the Saxon crypt. The iron that kept the King’s huntsmen mounted. The river that fed the meadows. The road that carried their dues to the castle.
 
@@ -2211,27 +2211,19 @@ Beatrice brought water and clean linen. She knelt beside Godfrey and took his ha
 
 “He will not say it,” she whispered, “but he is impressed.”
 
-Godfrey looked at Harold. The old man’s eyes were closed, but his mouth had softened.
+Harold snorted but said nothing. Godfrey looked up. The old man’s eyes were closed, but his mouth had softened.
 
-“He will say it,” Godfrey replied, “when he is ready.”
-
-Harold snorted without opening his eyes. “The stone is still there. You walked past it.”
-
-“I will not walk past it again.”
+“I walked past the stone without knowing it,” Godfrey replied, “I will not do so again.”
 
 A long pause. Then Harold grunted. “See that you don’t.”
 
-He rose, slowly, and walked toward the hearth. “Rest,” he said to Godfrey. “An hour. Then find me in the yard.”
-
-Godfrey nodded. He did not ask why.
-
-Beatrice caught her father’s eye as he passed. He did not smile, but something in his face had loosened.
+He rose, slowly, and walked toward the hearth. Beatrice caught her father’s eye as he passed. He did not smile, but something in his face had loosened.
 
 ---
 
 ### A pot of golden honey
 
-Godfrey had ridden out from Rockingham Castle at first light, meaning to reach Stanwey by mid‑morning. But by the time he passed the forest gate his horse was favouring one hoof, which made a clicking sound. He turned aside at the crossroads, where the smith looked up from his anvil and eyed the animal with professional resignation.
+That Thursday, Godfrey had ridden out from Rockingham Castle at first light, meaning to reach Stanwey by mid‑morning. But by the time he passed the forest gate his horse was favouring one hoof, which made a clicking sound. He turned aside at the crossroads, where the smith looked up from his anvil and eyed the animal with professional resignation.
 
 “Aye, a shifting shoe. Not bad yet, but it’ll throw before too long. Leave him with me an hour.”
 
