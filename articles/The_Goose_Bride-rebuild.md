@@ -2704,10 +2704,6 @@ Beatrice met his gaze. “Yes, my lord.”
 
 Beatrice’s heart was loud in her ears. She looked at the king, then at her father, then at Godfrey.
 
-“My lord, may I ask you something as a father, not as a king?”
-
-Henry’s eyebrows rose. Harold’s face went pale. 
-
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
