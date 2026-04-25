@@ -118,36 +118,60 @@
             });
         },
 
-        playFromTop: function() {
-            // Find the first paragraph or header currently visible in the viewport
-            const elements = document.querySelectorAll('p, h2, h3, blockquote, li');
-            let foundElement = null;
-
-            for (let el of elements) {
-                const rect = el.getBoundingClientRect();
-                if (rect.top >= 0 && rect.top <= window.innerHeight) {
-                    foundElement = el;
-                    break;
-                }
-            }
-
-            if (foundElement) {
-                // Collect all text starting from this element
-                let collect = false;
-                const contentNodes = document.querySelectorAll('p, h2, h3, blockquote, li');
-                const textBuffer = [];
-
-                contentNodes.forEach(node => {
-                    if (node === foundElement) collect = true;
-                    if (collect) textBuffer.push(node.innerText);
-                });
-
-                const textToSpeak = textBuffer.join(' ');
-                window.speechSynthesis.cancel();
-                TTS.speak(textToSpeak);
+    playFromTop: function() {
+        // 1. Identify the 'active' content area to avoid catching navigation/headers
+        const contentArea = document.querySelector('.main-content') || document.querySelector('.markdown-body');
+        if (!contentArea) return;
+    
+        // 2. Define an offset (pixels from top) to account for your Top Bar and Header
+        // 150px is usually safe to get past the title/logo area
+        const scrollOffset = 150; 
+    
+        // 3. Find all readable elements specifically within the content area
+        const elements = contentArea.querySelectorAll('p, h2, h3, blockquote, li');
+        let foundElement = null;
+    
+        for (let el of elements) {
+            const rect = el.getBoundingClientRect();
+            
+            // Check if the element's top is below our header offset 
+            // but still within the top half of the screen
+            if (rect.top >= scrollOffset && rect.top <= window.innerHeight) {
+                foundElement = el;
+                break;
             }
         }
-    };
+    
+        // Fallback: If we scrolled past everything or are at the very top
+        if (!foundElement && elements.length > 0) {
+            foundElement = elements[0];
+        }
+    
+        if (foundElement) {
+            console.log("TTS: Starting read from:", foundElement.innerText.substring(0, 30) + "...");
+            
+            // 4. Collect all text from the found element to the end of the article
+            let collect = false;
+            const textBuffer = [];
+    
+            // We re-query to ensure we keep the order of the DOM
+            contentArea.querySelectorAll('p, h2, h3, blockquote, li').forEach(node => {
+                if (node === foundElement) collect = true;
+                if (collect) {
+                    // Add a small pause (period) between elements for natural speech
+                    textBuffer.push(node.innerText.trim());
+                }
+            });
+    
+            const textToSpeak = textBuffer.join('. ');
+    
+            // 5. Execute via the core TTS engine
+            window.speechSynthesis.cancel();
+            if (window.TTS && typeof window.TTS.speak === "function") {
+                window.TTS.speak(textToSpeak);
+            }
+        }
+    }
 
     // Auto-run when the DOM is ready
     if (document.readyState === 'loading') {
