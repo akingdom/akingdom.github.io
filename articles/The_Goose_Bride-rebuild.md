@@ -1,5 +1,6 @@
 # The Goose Bride
 
+<script src="../js/tts_float_tools.js"></script>
 <div style="text-align: center; margin: 20px 0;">
     <div style="display: inline-block; 
                 max-width: 85%; 
@@ -2703,10 +2704,6 @@ Beatrice met his gaze. “Yes, my lord.”
 “It is good.” He rose, moving toward the fire. “Sooth, you have heard of his work and his silence.” His voice was quiet, but it carried. “And now I ask you: what would you have me do?”
 
 Beatrice’s heart was loud in her ears. She looked at the king, then at her father, then at Godfrey.
-
-“My lord, may I ask you something as a father, not as a king?”
-
-Henry’s eyebrows rose. Harold’s face went pale. 
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
