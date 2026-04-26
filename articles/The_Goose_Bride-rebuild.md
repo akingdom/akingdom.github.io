@@ -2243,27 +2243,35 @@ A pervasive hum came from the straw skeps near the churchyard wall, where the pr
 
 “And here’s a young man who’s here for a chat, if I’m any judge.” She tapped a finger against the side of her nose. “You needn’t wait for permission to breathe, you know.”
 
-The priest turned. “You needn’t tease the lad so, Margery. He’s only just arrived.”
+The priest turned. “You needn’t tease the lad so, Margery.”
 
 The woman shook her head. “Common sense, I call it. And I’ve not the time to stand about dispensing more of it. I’ve honey cakes to bake.” She tucked her pot firmly under her arm. “Good day to you both.”
 
 She walked off down the lane towards the river crossing. The two men watched her go.
 
-“A sharp tongue, but a good heart,” the priest said. “She paid in eggs this morning. Twice what the honey is worth, but she insists.” He dusted his hands and studied Godfrey with the same mild attention he might give a parishioner settling into a pew—unhurried, accustomed to silence, waiting to see what would emerge. “You have been walking the bounds. Harold seems pleased, from what I hear. That is not a small thing.”
+“A sharp tongue, but a good heart,” the priest said. 
 
-Godfrey nodded. He did not know what to say. The priest seemed content to wait.
+Godfrey agreed quietly.
 
-“I am delayed by my horse’s shoe,” Godfrey said at last. “Lord Harold wishes to test my swordwork.” Godfrey shook his head. “I do not know why I am so restless. It is only a lesson, though my skill is admittedly mediocre.”
+The priest studied him, reflecting unhurriedly on the young man.
 
-“It is his nature,” the priest said as he settled onto the low stone wall. “But I do not think a sword lesson is truly what ails you.”
+“My horse had a loose shoe,” Godfrey explained at last, unsure what else to say. “I am on my way to see Lord Harold.”
 
-Godfrey sat beside him, because it seemed expected, and because his feet were tired. The hum of the hives was steady, restful.
+The priest settled onto the low stone wall, content, it seemed, to let the silence do its work.
 
-“I do not know what I am doing,” he said at last. It came out quieter than he meant.
+Godfrey scratched his neck. ”I do not know why I feel so restless. Perhaps it is because he said he would test my swordwork today.” Godfrey shook his head. “My skill is lacking.”
 
-“Few do. The ones who think they do are the dangerous ones.”
+The priest scratched his face near his eye. “Harold seemed pleased enough, from what I hear, with the boundary walk. Perhaps there is another thing that troubles you.”
 
-Godfrey shook his head. “That is not—I mean that I have spent my whole life watching. Keeping still. Wanting nothing that could be taken.”
+Godfrey sat beside him, because it seemed expected, and because his legs were tired. The hum of the hives was steady, restful.
+
+His thoughts drifted, loose and unhurried as the bees themselves. They had been with him all morning—up at the castle, on the ride down, at the smithy, on the path up to the church. The bounds. The sword. Harold's grudging silence. Beatrice's hands, wrapping the cloth around his wrist. More. Nothing connected. Nothing settled. 
+
+“I do not know what I am doing.”
+
+The words came out quieter than Godfrey had meant.
+
+“I mean that I have spent my whole life watching. Keeping still. Wanting nothing that could be taken.”
 
 The priest was silent.
 
