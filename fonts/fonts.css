@@ -332,7 +332,7 @@ body {
         src: url('./SymbolaRegular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-      }
+}
 
 /* Quivira */
 @font-face {
@@ -340,4 +340,18 @@ body {
         src: url('./Quivira.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
-      }
+}
+
+/* Baskerville latin-ext */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./v24-kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4iAANPjuM.woff2)
+
+/* Baskerville latin */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./v24-kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4iDgNP.woff2)
