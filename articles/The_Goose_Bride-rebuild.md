@@ -16,7 +16,7 @@
     </div>
 </div>
 
-<blockquote style="padding: 25px; background-color: #fdfaf2; border-left: 5px solid rgb(0, 51, 153); border-radius: 2px; margin: 20px auto; max-width: 550px; text-align: justify; line-height: 1.6; font-family: serif; color: #222;">
+<blockquote style="padding: 25px; background-color: #fdfaf2; border-left: 5px solid rgb(0, 51, 153); border-radius: 2px; margin: 20px auto; max-width: 550px; text-align: left; line-height: 1.6; font-family: serif; color: #222;">
   
   <!-- Modern English Proverb -->
   <div style="color: #9a0000; font-variant: small-caps; font-weight: 600; letter-spacing: 1px; margin-bottom: 8px; border-bottom: 1px solid rgba(154, 0, 0, 0.2); padding-bottom: 4px;">
@@ -6575,7 +6575,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **spake** (Spoke (archaic))
 - **tarry** (alt. tarries; To delay)
 - **thou** (pl. ye; Singular “you”)
-- **wend** (alt. wends; To go)
+- **wend** (alt. wends; To go, wind, wander)
 - **witenagemot** (pl. witenagemots; Anglo-Saxon council)
 - **ye** (Plural “you”)
 
