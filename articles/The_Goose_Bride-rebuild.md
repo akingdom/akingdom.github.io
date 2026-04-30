@@ -28,7 +28,7 @@
          Ac a wise wif of Mercie tolde of a maiden
                    that proved the word soth.
 
-                      — Old Mercian Proverb
+                    ⬩ Old Mercian Proverb ⬩
 
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
@@ -40,9 +40,9 @@
 
 ---
 
-## Chapter 1 — The geese know a stranger’s fear
+## Chapter 1 ⬩ The geese know a stranger’s fear
 
-Beatrice bounded across the meadow, crying, her legs driven forward by a flock of geese, gander leading the charge, hissing at the intruder, neck low, wings half-spread, leading the furious chase.
+Beatrice bounded across the meadow, crying, her legs driven forward by a flock of geese, the gander hissing at the intruder, neck low, wings half-spread, leading the furious chase.
 
 Her mother and father were nowhere in sight.
 
@@ -50,11 +50,11 @@ Then a hand caught her arm.
 
 “Don’t move.”
 
-A boy stood beside her—older by a few years, well-dressed, calm in a way that seemed impossible. He stared down the geese, spread his arms wide, his cloak opening like great wings.
+A boy stood beside her, older by a few years, well-dressed, calm in a way that seemed impossible. He stared down the geese, spread his arms wide, his cloak opening like great wings.
 
-The geese slowed. Hissed uncertainly. Then, one by one, they turned and waddled back toward the pond.
+The geese slowed. Hissed uncertainly. Then, one by one, they turned and waddled back towards the pond.
 
-The girl stared after them, mouth open, panting hard.
+The girl stared after them, mouth open, panting hard, hands on hips.
 
 “How... how did you do that?”
 
@@ -62,13 +62,13 @@ The girl stared after them, mouth open, panting hard.
 
 She dried her eyes. “Don’t be silly! How can someone own *all* the geese?”
 
-The boy just watched her with a strange expression.
+The boy just stared at her with an odd expression.
 
 A woman’s voice called from the edge of the meadow. “Beatrice?! Come here!”
 
 “Oh. Coming, mother!”
 
-She turned back to thank the boy, but he had vanished.
+She turned back to thank the boy, but he was already gone.
 
 ---
 
@@ -76,60 +76,66 @@ She turned back to thank the boy, but he had vanished.
 
 Her mother scooped her up, laughing. “Did you find the geese?”
 
-“The geese found *me*, Mummy. Why were they chasing me?”
+“The geese found *me*, Mother. Why were they chasing me?”
 
-“They don’t know you, dear.”
+“It's likely because they don’t know you, dear.”
 
-Beatrice sniffled. “Then can I have one of my own, Mummy? So it knows me?”
+Beatrice sniffled. “Then can I have one of my own, Mother? So it knows me?”
 
-Her mother smiled—a warm, tired smile. “We’ll raise one together. I’ll teach you.”
+Her mother gave a warm, tired smile. “We’ll raise one together. I’ll teach you.”
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 2 — A speckled egg warm in the straw
+## Chapter 2 ⬩ A speckled egg warm in the straw
 
-Three days later, mother took Beatrice’s hand and walked her down the lane toward the river.
+Three days later, Mother took Beatrice’s hand and walked her down the lane towards the river.
 
 “Where are we going?”
 
 “To get your goose.”
 
-The farm sat by the river bend, just where the meadow gave way to reeds. Geese wandered everywhere—white and grey, hissing and honking, but today ignored them entirely. Beatrice stayed close to mother’s skirt.
+River-Bend Farm sat where the meadow gave way to reeds and geese wandered everywhere, hissing and honking. Although the geese mostly took no notice of them, Beatrice stayed close by her mother’s skirt.
 
 A woman came out of the farmhouse. Not young, but not old either. She wiped her hands on her apron and looked at them both with calm, measuring eyes.
 
 “How many eggs?”
 
-“One to hatch, one of the speckled ones, if you have it,” mother said. “The ones that run true.”
+“One goose to hatch, one of the speckled ones, if you have it,” Mother said. “The ones that run true.”
 
 “Ah.” The woman nodded. “This way.”
 
-She led them to the poultry shed. Inside, beneath a sitting goose, among a nest of eggs, one was larger—speckled, warm, alive.
+She led them to the poultry shed where several geese sat. Inside the doorway, beneath a sitting goose, among a nest of eggs, one was larger, speckled, warm, alive.
 
-“That one,” the woman said. “Due to hatch within the fortnight. But she’s not the sitting kind, that goose. Won’t see it through.”
+“This one,” the woman said. “Due to hatch within the fortnight.”
 
-Mother leaned in, her eyes scanning the quiet, grey birds in the main nest. “Look here, Beatrice. These eggs are from the marsh-mother. They’ll hatch into birds that stay near the hall and fatten well on the stubble. Wouldn't you rather have a bird that knows its place? One that won't try to fly the fence every time the wind changes?”
+Beatrice's interest was in a smaller goose. 
 
-Beatrice did not move her gaze from the corner. Her jaw set, a small, hard line appearing between her brows—the same look Harold wore when he was counting the days until a storm.
+The farm woman nodded. “Ah. A wild egg. I saw a fox take the wild mother from its nest down by the river. The goose in the corner isn’t the sitting kind. She won’t see it through.”
 
-“I want the one from the reeds,” Beatrice said.
+Mother leaned in, her eyes scanning the quiet, grey birds in the main nesting area by the door. “Look here, Beatrice. These eggs are from the marsh-mother. They’ll hatch into well-behaved birds that stay near the hall and not try to fly the fence every time the wind changes.”
+
+A small, hard line appeared between Beatrice’s brows. It was the same look her father wore when he was counting the days until a storm.
+
+“I want the one from the reeds,” she said, crossing her arms.
 
 Mother looked at the larger, bone-coloured egg, then back at her daughter's determined face. She didn't argue. Instead, she knelt in the straw, checking the warmth of the stray egg with the back of her hand.
 
-“We’ll need a hen, then,” Mother said softly. “A broody one who won't mind the size of it.”
+“We’ll need a hen,” Mother said softly. “A broody one who won't mind the size of it. If it doesn’t hatch, we'll come back and choose another.”
 
-The woman considered, looking toward the rafters. “I’ve got an old speckled hen. Been sitting on stones for a week and cross enough to peck the eyes out of a fox.”
+“I want this one, Mother! Please.”
 
-She fetched the hen—a small, fierce-looking thing with feathers the colour of autumn leaves—and placed her in a straw-lined basket. Then, carefully, she added the chosen egg.
+The woman considered, looking towards the rafters. “Well, I do have an old speckled hen. Been sitting on stones for a week and cross enough to peck the eyes out of any fox. I guess that the egg’s due in two or three weeks time, so patience is required.”
+
+She fetched the hen and placed her in a straw-lined basket. It was a small, fierce-looking thing with feathers the colour of autumn leaves. Then, carefully, she added the chosen egg.
 
 The hen ruffled, settled, and tucked the egg beneath her without complaint.
 
-“There,” the woman said. “She’ll do the work. You just keep her fed and calm.”
+“There now,” the woman said. “She’ll do the work. You just keep her fed and calm.”
 
-Mother reached into her pouch. Handed the woman something—a coin, a small cloth bundle, Beatrice couldn’t see what.
+Mother reached into her pouch and handed the woman something Beatrice couldn’t see.
 
-The woman took it. Looked down, surprised.
+The woman took it, then looked down, surprised.
 
 “Oh, thank you, my lady.”
 
@@ -142,15 +148,17 @@ Beatrice walked home holding the basket, barely breathing, as if the smallest mo
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 3 — Fourteen nights of listening
+## Chapter 3 ⬩ Fourteen nights of listening
 
 For two weeks, Beatrice watched.
 
-The hen sat in her basket by the hearth, feathers fluffed, eyes half-closed. She ate when offered, drank when a dish was placed before her, but never left the egg.
+The hen sat in her basket by the hearth, feathers fluffed, eyes half-closed. 
 
-“She knows,” mother said. “She’ll feel it when it’s time.”
+“She needs to know you are part of her flock,” explained Mother. “Bring her food and spend time with her, but be sure not to unsettle her.”
 
-Beatrice brought her scraps. Talked to her. Named her, though the name changed daily.
+So the hen ate when Beatrice offered food, drank when a dish was placed before her, listened patiently to Beatrice’s chatter, but never once left the egg.
+
+“She knows,” Mother said. “She’ll feel it when it’s time.”
 
 And every night, before bed, she knelt by the basket and pressed her ear close.
 
@@ -160,29 +168,31 @@ And every night, before bed, she knelt by the basket and pressed her ear close.
 
 Then, on the fourteenth night, as the sun set and the stars came out, the hen stirred.
 
-Beatrice called for her mother.
+Beatrice called for Mother.
 
-They sat together in the firelight, watching. The hen shifted, clucked softly, shifted again. And then—a crack. So small Beatrice thought she’d imagined it.
+They sat together in the firelight, watching. Then they heard it, a thin peeping sound.
 
-Another crack. A wet, wobbly head emerged.
+“Has it hatched, Mother?”
 
-Beatrice held her breath.
+“Not yet, dear. Be very careful not to scare the hen and the chick should hatch tomorrow or the next day.”
 
-The hen, patient and ancient, did nothing. Just watched as the creature struggled, rested, struggled again. She had done her part. The rest was up to the hatchling.
+Mother patted Beatrice’s head and left her to watch. 
 
-And when the shell finally fell away, and a damp, bewildered gosling blinked at the world, Beatrice reached out one finger and touched its head.
+It was a whole two days later when the hen shifted, clucked softly, shifted again. 
 
-The gosling made a sound. Small. Questioning.
+For Beatrice it seemed as though a whole year had passed. She held her breath as a small fluffy, bewildered head emerged from the front of the hen and blinked at the world. The gosling made a sound, small and questioning.
 
 Beatrice looked at her mother.
 
 “Can I hold her?”
 
-“Wait until she’s dry. She needs to know the hen first.”
+“She needs to know the hen first. In time you can help the hen teach it.”
 
-They waited. The hen, satisfied her job was done, stood and walked away without looking back. The gosling cheeped once, turned to the hen, then turned back—toward Beatrice.
+Soon came the day when Mother nodded, and Beatrice reached out a trembling hand. The hen did not hiss or ruffle her feathers, giving a quiet sign of permission. 
 
-“Now,” mother said softly. “Now she’s yours.”
+Encouraged by the contact, the gosling stretched its neck towards Beatrice’s soft murmurs, drawn by the sound of her voice. It waddled out from the safety of the nest, imprinting on the face that had waited for it so long.
+
+“Now,” Mother said softly. “Now she’s yours.”
 
 Beatrice lifted the gosling. It fit in one palm, warm and weightless.
 
@@ -192,15 +202,15 @@ She named her Goosie.
 
 ### No answering honk
 
-The gosling grew rapidly. Days became weeks and the yellow down gave way to white feathers, the soft cheep to a firm honk. Goosie followed Beatrice mostly everywhere – to the well, to the barn, to the edge of the forest where the wild things lived. She was no longer a chick. She was a goose, and she was family.
+The gosling grew rapidly. Days became weeks and the yellow down gave way to white feathers, the soft cheep to a firm honk. She was no longer a chick, but a goose; she was family. 
 
-One morning, the yard gate stood open. Not wide – just a crack, but enough. Beatrice stared at it, her heart climbing into her throat.
+Whether it was to the stone well, the barn, or to the wild forest, Goosie followed her, always. And yet, one morning, the yard gate stood open; it was not wide, just a crack, but enough for a goose to slip through. Beatrice stared at it, her heart climbing into her throat.
 
 “Goosie?” No answering honk.
 
-She ran to the pond. Empty. The reeds. Empty. The lane. Empty.
+She ran to the pond, but it was empty and so were the reeds and the lane.
 
-Her mother found her by the woodpile, tears already cutting tracks through the dust on her cheeks.
+Mother found her by the woodpile, tears already cutting tracks through the dust on her cheeks.
 
 “Hush now.” Mother knelt and took Beatrice’s hands. “Where would she go?”
 
@@ -212,11 +222,11 @@ Beatrice sniffled. “The river. The thicket by the bend. She hides there when t
 
 “Then that is where we look.”
 
-Harold appeared in the doorway, his face tight. “What is this?”
+Father appeared in the doorway, his face tight. “What is this?”
 
 “Goosie is gone,” Mother said. “Beatrice thinks she may be at the river bend.”
 
-Harold grunted. He fetched a sack and a leather strap from the barn – “In case she is tangled” – and followed them down the lane. He did not speak, but his eyes swept the ground, the brush, the sky. A warrior’s search.
+Harold grunted. He fetched a sack and a leather strap from the barn. “In case she is tangled,” and followed them down the lane. He did not speak, but his eyes swept the ground, the brush, the sky. A warrior’s search.
 
 Then Beatrice heard a faint, rhythmic honking in the distance. 
 
@@ -237,7 +247,7 @@ Her mother smiled. “No. I think you will not.”
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 4 — The weight of a fever you cannot break
+## Chapter 4 ⬩ The weight of a fever you cannot break
 
 The years that followed were full of geese and growing. Her father and mother taught her everything—not in lessons, but in the doing of things.
 
@@ -257,7 +267,7 @@ Most importantly, she learned how to look at a fever and know whether it would b
 
 And so, Beatrice learnt. She watched and she listened and she grew.
 
-Then her mother grew tired. Then pale. Then thin.
+Then Mother grew tired. Then pale. Then thin.
 
 ---
 
@@ -353,7 +363,7 @@ She led him inside. Goosie followed.
 
 ### A blanket and a cold hand
 
-That night, Beatrice built up the fire and sat with him until the logs burned down to ash. He did not speak. Neither did she. When the room grew too dark to see, she touched his arm and guided him toward the sleeping chamber.
+That night, Beatrice built up the fire and sat with him until the logs burned down to ash. He did not speak. Neither did she. When the room grew too dark to see, she touched his arm and guided him towards the sleeping chamber.
 
 He stopped at the threshold.
 
@@ -410,7 +420,7 @@ And Goosie followed her. Always.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 5 – The Reeve’s daughter burns with fever
+## Chapter 5 ⬩ The Reeve’s daughter burns with fever
 
 It was a still evening in the hall at *Stanwey*. The sun cast long, amber shadows across the rich fallow strips of the fertile river valley, cut deep with an iron tipped plough, and a clamour of rooks circled the wood’s edge, their harsh *kaah-kaah* fading as they settled into the high branches. The smoke from the village fires drifted upward, thin and grey, like a long-held breath finally released.
 
@@ -424,9 +434,9 @@ He paused, the precious book resting on his knees. “Sweet daughter?”
 
 “How many winters have I lived through? Truly?”
 
-“Let me see,” he mused, his gaze drifting toward the fire as he worked the years in his head. “You had seen but two winters when *King Henry* claimed the throne. Now, it is his twelfth year, I believe. Let me check...”
+“Let me see,” he mused, his gaze drifting towards the fire as he worked the years in his head. “You had seen but two winters when *King Henry* claimed the throne. Now, it is his twelfth year, I believe. Let me check...”
 
-He turned the parchment pages toward the front, where the calendar of saints was marked with tiny, cramped notes. His finger settled on a faded ink-mark in the margin. “Fourteen,” he murmured. “Fourteen years since the great frost’s Iron-Bite killed the cattle. A very bad year. *Annus horribilis*. And yet, in the middle of it all, God gave your mother and I a most unexpected little gift.”
+He turned the parchment pages towards the front, where the calendar of saints was marked with tiny, cramped notes. His finger settled on a faded ink-mark in the margin. “Fourteen,” he murmured. “Fourteen years since the great frost’s Iron-Bite killed the cattle. A very bad year. *Annus horribilis*. And yet, in the middle of it all, God gave your mother and I a most unexpected little gift.”
 
 Seeing his distant smile, Beatrice leaned in and smiled. “Tell me, Father...” For she knew it would bring him pleasure to tell his tales—to pull the old world out from the shadows of the rafters for a time. “How many winters for the *Red Wolf*, son of *Magnús*?”
 
@@ -570,7 +580,7 @@ Far behind him, the nurse doubled over in a fit of laughter, slapping her leg at
 
 Then she noticed Beatrice’s trembling hands. She patted her hand and simply said, “There, there. Come in for a hot posset.” 
 
-She guided Beatrice back into the shadows of the cottage, toward the low roar of the hearth. The room smelt of ancient peat-smoke and the sharp tang of drying mugwort, but as the woman stirred the pot, the heavy, golden scent of honey rose to meet them. Soon, a steaming wooden mazer was pressed into Beatrice’s palms. It was a spiced posset, thick with honey and the bitter, earthy scent of valerian root, its warmth seeping through the maple wood to still the shaking in her fingers.
+She guided Beatrice back into the shadows of the cottage, towards the low roar of the hearth. The room smelt of ancient peat-smoke and the sharp tang of drying mugwort, but as the woman stirred the pot, the heavy, golden scent of honey rose to meet them. Soon, a steaming wooden mazer was pressed into Beatrice’s palms. It was a spiced posset, thick with honey and the bitter, earthy scent of valerian root, its warmth seeping through the maple wood to still the shaking in her fingers.
 
 ---
 
@@ -599,13 +609,13 @@ She took his hand. “And your daughter, father, but as for that man, not for St
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 6 — The King’s messenger does not dismount
+## Chapter 6 ⬩ The King’s messenger does not dismount
 
 One autumn morning, the rhythm of the village was broken by the thunder of hooves.
 
 Beatrice looked up from the herb bed outside the kitchen, wondering who had arrived. A royal messenger rode up the path leading towards Stanwey Hall, cloak flying, horse lathered. He didn’t slow at the gate. Didn’t dismount. Just reined in before the hall and unrolled a stiff parchment.
 
-“The King hunts in Rockingham Forest,” he announced, projecting toward the timbers as if the building itself were worthy of his breath. “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
+“The King hunts in Rockingham Forest,” he announced, projecting towards the timbers as if the building itself were worthy of his breath. “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.”
 
 Inside, Beatrice scooped up her goose.
 
@@ -655,7 +665,7 @@ The nurse sighed, wiping her hands on her apron. “When you’ve served a king,
 
 “I can’t bear to send Goosie. Surely there is another,” Beatrice pleaded.
 
-The nurse looked toward the poultry shed. “Only the old gander. He’s the last of the 1112 stock—“
+The nurse looked towards the poultry shed. “Only the old gander. He’s the last of the 1112 stock—“
 
 Beatrice interrupted eagerly. “Then I’ll buy him. I have the silver Mother left—“
 
@@ -761,7 +771,7 @@ He raised his hand higher still, standing tall, calling out.
 
 “Remember whose hall you enter.”
 
-Then the road took her, toward a king who had no idea she was coming.
+Then the road took her, towards a king who had no idea she was coming.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -772,9 +782,9 @@ Then the road took her, toward a king who had no idea she was coming.
 
 ---
 
-## Chapter 7 — The oak doors crashed, and the music died
+## Chapter 7 ⬩ The oak doors crashed, and the music died
 
-The great oak doors of Rockingham’s hunting lodge crashed inward. Every head in the hall snapped toward the sound. Conversation and music died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
+The great oak doors of Rockingham’s hunting lodge crashed inward. Every head in the hall snapped towards the sound. Conversation and music died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
 
 Henry, King of the English, Duke of the Normans, stood in the threshold.
 
@@ -855,7 +865,7 @@ He stepped back into the shadows. The hall slowly resumed its murmur. But the qu
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 8 — *Coram Rege* — Burning the Table
+## Chapter 8 ⬩ *Coram Rege* — Burning the Table
 
 Roger’s question still burned in the King’s chest: *What do you mean to do for him?*
 
@@ -928,13 +938,13 @@ Henry reached for his wine, oblivious to the cage he had just built — its door
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 9 - He had not forgotten the insult
+## Chapter 9 ⬩ He had not forgotten the insult
 
 Beatrice reached the hunting lodge by midday.
 
 The place swarmed with soldiers and servants. 
 
-The hall was still nursing the King’s mood. Nobles muttered into their wine, casting dark looks toward the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary. 
+The hall was still nursing the King’s mood. Nobles muttered into their wine, casting dark looks towards the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary. 
 
 As Beatrice entered, carrying the handmade basket and dusty from the journey, Sir Guy recognised her as he lounged near the doorway. He was the young Norman knight, who had tried to court her.
 
@@ -959,7 +969,7 @@ The basket flew open.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 10 - Goosie on the King’s table
+## Chapter 10 ⬩ Goosie on the King’s table
 
 Goosie exploded from the basket in a fury of wings.
 
@@ -1020,7 +1030,7 @@ The king laughed.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 11 - Not like them
+## Chapter 11 ⬩ Not like them
 
 The King leaned forward, studying her with amused wonder.
 
@@ -1085,13 +1095,13 @@ The moment passed. Standing in the large doorway to the hall, she turned and imp
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 12 — Managing the unmanageable
+## Chapter 12 ⬩ Managing the unmanageable
 
 Beatrice curtsied and went. The heavy doors closed behind her.
 
 The hall exhaled. Servants moved. Knights reached for wine. Music resumed near the damp hearth, a shawm’s shrill cry and the hollow rattle of a tabor offered a thin, lonely music.
 
-The Queen rose smoothly and gestured to the steward—a small, almost imperceptible wave. The steward nodded and, with quiet efficiency, redirected the nearest courtiers toward the sideboards. *Eat. Drink. Give us room.*
+The Queen rose smoothly and gestured to the steward—a small, almost imperceptible wave. The steward nodded and, with quiet efficiency, redirected the nearest courtiers towards the sideboards. *Eat. Drink. Give us room.*
 
 Within moments, the immediate press of bodies melted away from the high table, leaving Henry and Matilda in a bubble of semi-privacy. The hall still hummed with life, but no one was close enough to hear.
 
@@ -1119,7 +1129,7 @@ Henry grinned. “That’s the point.”
 
 “Is it?” She let the question hang. “My lord, what of the barons? A Saxon thegn’s daughter—no alliance, no dowry, no lands to speak of. They will say you have slighted your son.”
 
-The grin faded. “Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—“ He stopped, looking toward the door where Beatrice had vanished. “She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?”
+The grin faded. “Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—“ He stopped, looking towards the door where Beatrice had vanished. “She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?”
 
 “Rarely.”
 
@@ -1165,7 +1175,7 @@ A real smile now. “You always do.”
 
 ### My son, they said
 
-The King looked toward his sons, for there were several present about the hall. His gaze found Godfrey, half-hidden in the shadows near a pillar.
+The King looked towards his sons, for there were several present about the hall. His gaze found Godfrey, half-hidden in the shadows near a pillar.
 
 Henry beckoned. “Godfrey. Come.”
 
@@ -1254,7 +1264,7 @@ The Queen rose, moving away, but her smile lingered. “I learned from the best.
 
 ---
 
-## Chapter 13 — The dust of Rockingham on my shoes
+## Chapter 13 ⬩ The dust of Rockingham on my shoes
 
 Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps. She gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket, and the evening air cool on her face.
 
@@ -1512,7 +1522,7 @@ She tucked her hand down, cheeks burning. She had rubbed the soot on earlier tha
 
 She nodded, looking away, taking a few stiff steps. He fell in beside her, leading his horse. The animal’s hooves made soft sounds on the packed earth.
 
-He looked back toward the place where the cart had disappeared. “You rode with the carter?”
+He looked back towards the place where the cart had disappeared. “You rode with the carter?”
 
 “My feet were sore. They gave me a lift.” 
 
@@ -1622,12 +1632,12 @@ Godfrey considered. “Ride back. Tell the king I have found her. Tell him I am 
 
 The guards mounted. The older one touched his forehead to Beatrice. “Take courage, my lady. I believe that all will be well. I say this with grown daughters of my own.”
 
-They rode back toward the castle.
+They rode back towards the castle.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 14 - Who will care for him?
+## Chapter 14 ⬩ Who will care for him?
 
 The shady lane was quiet.
 
@@ -1667,7 +1677,7 @@ He was not looking at her. He was looking at the ground, at the trees, at anythi
 
 ### He gave me room to weep
 
-When she rose, unsteadily, he walked toward her, but stopped a few feet away, his caution less about her tears and more about whether she would turn him away.
+When she rose, unsteadily, he walked towards her, but stopped a few feet away, his caution less about her tears and more about whether she would turn him away.
 
 She wiped her face with the back of her hand, but the gesture was useless. Her eyes were swollen, her nose running, her whole face a ruin.
 
@@ -1691,7 +1701,7 @@ His words came out naïvely, but true. “I think you love your father.”
 
 She wrapped her arms around herself, suddenly cold. They were simple and kind words, but her expression showed strange and lonely terrors, stirred up from deep inside her soul. 
 
-He looked toward the lane, then back at her. “I cannot promise you that I know how to be a husband. I do not. I have watched my father’s court, but I have never had a home.” His voice was steady, but she could hear something beneath it—something that sounded like fear. “But I can promise you this: If you will have me, I will come to you. I will learn your ways. I will be there when you need me, and I will stand aside when you do not. I will not take you from your father. I will not take Stanwey. Because I see how you love him.”
+He looked towards the lane, then back at her. “I cannot promise you that I know how to be a husband. I do not. I have watched my father’s court, but I have never had a home.” His voice was steady, but she could hear something beneath it—something that sounded like fear. “But I can promise you this: If you will have me, I will come to you. I will learn your ways. I will be there when you need me, and I will stand aside when you do not. I will not take you from your father. I will not take Stanwey. Because I see how you love him.”
 
 *A king’s son, no less, calling it love. Falling apart in front of him was not weakness after all.*
 
@@ -1731,7 +1741,7 @@ She did not speak again until they reached the edge of the clearing.
 
 He nodded. “I shall wait here. Take as long as you need.”
 
-She walked toward the hall. At the door, she turned. He was still there, at the tree line, waiting.
+She walked towards the hall. At the door, she turned. He was still there, at the tree line, waiting.
 
 She went inside, carrying the basket.
 
@@ -1776,7 +1786,7 @@ He was quiet for a long moment. The fire crackled. Goosie, sensing the weight in
 
 “Well, he’s waiting outside. The King sent him to see me home safely.”
 
-Harold looked toward the door, amazed, then back at her. His eyes were red and tired, but something in them had sharpened.
+Harold looked towards the door, amazed, then back at her. His eyes were red and tired, but something in them had sharpened.
 
 “So, you spoke with him.”
 
@@ -1844,13 +1854,13 @@ Godfrey looked down at her, and something in his face shifted—not quite a smil
 
 “Hello again, little one,” he said quietly.
 
-Goosie waddled back toward the hall, pausing at the threshold to look back at him, as if to say *Well? Are you coming?*
+Goosie waddled back towards the hall, pausing at the threshold to look back at him, as if to say *Well? Are you coming?*
 
 Beatrice let out the breath she had been holding. She turned to Godfrey, her eyes sparkling nervously.
 
 “Father will see you now,” she said, simply.
 
-Godfrey walked toward the door and Goosie led the way inside.
+Godfrey walked towards the door and Goosie led the way inside.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -2025,7 +2035,7 @@ She smiled, and went out to fetch the wood.
 
 ---
 
-## Chapter 15 – He mended the goose pen
+## Chapter 15 ⬩ He mended the goose pen
 
 In the weeks that followed, Godfrey became a familiar sight at Stanwey. He came when he could—a day here, an afternoon there—always on horseback, always alone. He did not announce himself; he simply appeared and waited until a servant noticed him.
 
@@ -2042,7 +2052,7 @@ Harold watched from his chair by the window, and when Beatrice came to stand bes
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 16 - The Queen knows about my father
+## Chapter 16 ⬩ The Queen knows about my father
 
 One afternoon, Godfrey found Beatrice in the herb garden, Goosie pecking contentedly nearby. He sat on the bench beside her and said nothing for a long while.
 
@@ -2085,7 +2095,7 @@ Goosie waddled back to the herb bed and settled comfortably there, quite satisfi
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 17 - The lane is swept for a king
+## Chapter 17 ⬩ The lane is swept for a king
 
 The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The Reeve set men to repairing the lane. It wasn't every day that a king visited them.
 
@@ -2105,15 +2115,15 @@ The smith looked up from his anvil. “Walking the bounds, Lord.”
 
 “Aye.” Harold did not slow. “The boy needs to learn.”
 
-The smith nodded, pumping the bellows until the coals hissed. He jerked his chin toward the village green, where a few men stood. “I reckon you'll have teachers enough on the commons,” he said.
+The smith nodded, pumping the bellows until the coals hissed. He jerked his chin towards the village green, where a few men stood. “I reckon you'll have teachers enough on the commons,” he said.
 
 By the time they reached the green, the Reeve was already waiting, his woollen cap in his hands. Behind him stood two old villagers – grey‑bearded men who had walked these boundaries since they were boys. One was called Alfsige, the other Leofwine. Neither spoke much, but their eyes missed nothing.
 
-To the west, on a slight rise about a bowshot from the hall, sat St. Peter’s. Its stone tower, sturdy and square, watched over the crossroads through the bare branches of the trees. “Norman work,” the Reeve said, nodding toward it. “Built by the first lord after the Conquest. But the crypt underneath is older – Saxon. That’s where the lady lies buried.”
+To the west, on a slight rise about a bowshot from the hall, sat St. Peter’s. Its stone tower, sturdy and square, watched over the crossroads through the bare branches of the trees. “Norman work,” the Reeve said, nodding towards it. “Built by the first lord after the Conquest. But the crypt underneath is older – Saxon. That’s where the lady lies buried.”
 
 Godfrey glanced at the tower, then at Harold. The old thegn’s face did not change.
 
-Leofwine pointed toward the river. "From the ford along the riverbank to the twisted hawthorn on the common; along the common to the Roman way; from the way to the rune‑stone on the east; from the stone on to the old ditch to the millpond, then follow the leat back to the ford.  
+Leofwine pointed towards the river. “From the ford along the river‑side track to the twisted hawthorn on the north‑west common; from the hawthorn east along the Roman road to the rune‑stone on the north‑eastern hillside; from the stone south along the field strips to the millpond; then follow the leat back to the ford.” 
 
 They set off.
 
@@ -2153,23 +2163,23 @@ Harold stared at him. The wind moved the bare branches. Then, slowly, he nodded.
 
 ---
 
-They set off again, Godfrey asking questions, tracing the lines with his fingers, repeating the names under his breath. “Twisted hawthorn, road, stone.”
+They set off again, Godfrey asking questions, tracing the lines with his fingers, repeating the names under his breath. “Ford to hawthorn, hawthorn to road, road to stone, stone to millpond, leat to ford.”
 
 The Reeve pointed to a low earthen mound near the iron pits. “Old before the Romans,” he said. “We call it the old barrow. The old folk who built it used it as a boundary marker. So do we.”
 
-“The Romans came after,” Leofwine added, nodding toward the straight, pale line of the road. “They built that to carry iron from the pits to the river. It has outlasted their names and their gods.”
+“The Romans came after,” Leofwine added, nodding towards the straight, pale line of the road. “They built that to carry iron from the pits to the river. It has outlasted their names and their gods.”
 
 Godfrey looked at the road, then at the mud under his boots. “Stanwey,” he said. “The Stone Way. That’s why this place is called that?”
 
 Harold glanced at him. “A road that does not wash away is a powerful thing to hold. It is the spine of this manor.”
 
-They passed the iron pits near the border with Laxton. The ground here was raw and blackened, scarred by generations of digging. Men in rough tunics laboured at the edges of shallow, water‑filled hollows, lifting baskets of red‑stained ore. Beyond them, charcoal bearers moved among the makeshift clamp kilns – low mounds of earth and turf, their vents smoking thin grey plumes into the cold air.
+They passed the iron pits near the border with Draytone, up the hillside to the north‑east. The ground here was raw and blackened, scarred by generations of digging. Men in rough tunics laboured at the edges of shallow, water‑filled hollows, lifting baskets of red‑stained ore. Beyond them, charcoal bearers moved among the makeshift clamp kilns – low mounds of earth and turf, their vents smoking thin grey plumes into the cold air.
 
 “Roman work,” Alfsige said. “We still work them when the King demands it.”
 
 Godfrey watched a bearer empty a basket of ore onto a drying platform. The man straightened, wiped his brow, and returned to the pit without a word.
 
-“From up there,” the Reeve said, nodding toward the north‑east, “the King’s huntsmen can see the smoke. Rockingham Castle sits on the high ground – they watch for our signal fires. If we are working, they know the King’s iron is flowing.”
+“From up there,” the Reeve said, nodding towards the north‑east, “the King’s huntsmen can see the smoke. Rockingham Castle sits on the high ground – they watch for our signal fires. If we are working, they know the King’s iron is flowing.”
 
 Leofwine’s jaw tightened. “And Peverel watches too. He would like to see these pits under his own sheriff’s seal, but the King holds them direct now. It's the only good I can say of that Norman castle.”
 
@@ -2189,7 +2199,7 @@ The river bend came into view – a sharp curve where the Welland slowed and dee
 
 “Below the bend,” the Reeve said. “Small, but it turns. Enough for the village and a surplus for the King’s table.”
 
-Alfsige nodded toward the ford. “The only dry crossing for miles. In my grandsire’s time, the Danes tried to force it. They were pinned in the silt before they could find dry footing.” He glanced at Harold, a glint in his eye. “Though I suppose some Danes turned out all right.”
+Alfsige nodded towards the ford. “The only dry crossing for miles. In my grandsire’s time, the Danes tried to force it. They were pinned in the silt before they could find dry footing.” He glanced at Harold, a glint in his eye. “Though I suppose some Danes turned out all right.”
 
 Harold snorted but said nothing. It was no offence to a man who had known these people all his life and had no need to fill a silence that was already full of history.
 
@@ -2311,7 +2321,7 @@ The bees droned. Somewhere beyond the wall, a goose honked—Goosie, perhaps, ca
 
 Godfrey shook his head.
 
-“Beatrice was eleven. She stood by the grave and did not cry. Afterwards, she ran. Her father sat in his chair for a month and did not speak.” The priest looked toward the church, where the crypt lay beneath the stone. “She has learned that the people we love can be taken. That is a hard lesson for a child. It taught her, as you have taught yourself, to guard her heart. And yet, when her father asked what she wanted, she said: *Let him court me.*”
+“Beatrice was eleven. She stood by the grave and did not cry. Afterwards, she ran. Her father sat in his chair for a month and did not speak.” The priest looked towards the church, where the crypt lay beneath the stone. “She has learned that the people we love can be taken. That is a hard lesson for a child. It taught her, as you have taught yourself, to guard her heart. And yet, when her father asked what she wanted, she said: *Let him court me.*”
 
 Godfrey felt something shift in his chest. Beatrice had lost her mother. She had watched her father retreat into silence. She had carried Stanwey on her back, alone, while grieving. And still she had risked wanting. She had chosen to lower the drawbridge.
 
@@ -2351,7 +2361,7 @@ Harold snorted. “Adequate—that’s the word for a horse that won’t throw y
 
 Beatrice risked a glance and opened the door.
 
-Godfrey moved through the forms — guard, thrust, parry — his footwork neat as a scribe’s lettering, his ears a violent shade of red. He risked a glance toward the door.
+Godfrey moved through the forms — guard, thrust, parry — his footwork neat as a scribe’s lettering, his ears a violent shade of red. He risked a glance towards the door.
 
 He saw Beatrice. *She looks—*
 
@@ -2407,7 +2417,7 @@ She nodded, and they sat together in the firelight until Harold called for suppe
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 18 - The priest and a heavy heart
+## Chapter 18 ⬩ The priest and a heavy heart
 
 On the final day, the Hall was a furnace of frantic industry. The air was thick with the scent of rendering fat and the sharp, rhythmic *thwack* of cleavers on oak. Even the children were put to work, gathering spring flowers to decorate the hall.
 
@@ -2415,7 +2425,7 @@ Beatrice’s hands were stained a dull, bruised green from the sage and hyssop s
 
 The relentless scrape of sand on stone as the scullions scrubbed the floors, the shout of the cook, the clatter of iron pots—it was all too much. She needed air. She needed a walk.
 
-She slipped out the side door, past the woodpile, and took the path toward the village. The blacksmith had asked her for a salve for his burnt arm; Beatrice had promised to bring it. A small errand, a reason for some silence without feeling guilty or lazy.
+She slipped out the side door, past the woodpile, and took the path towards the village. The blacksmith had asked her for a salve for his burnt arm; Beatrice had promised to bring it. A small errand, a reason for some silence without feeling guilty or lazy.
 
 The laneway was unusually quiet since most villagers were already helping gladly up at the hall. The autumn sun was pale, the shadows long. She delivered the salve, exchanged a few pleasant words, and turned back towards the hall.
 
@@ -2486,7 +2496,7 @@ The priest nodded. “Then the king’s vow is a chain, but it is not a prison. 
 
 ---
 
-## Chapter 19 – The king’s fire on our hearth
+## Chapter 19 ⬩ The king’s fire on our hearth
 
 The morning of the king’s arrival dawned clear and cold. Beatrice had been up since first light, directing the women with the rushes, checking the firewood, chasing Goosie out of the hall three times. Harold sat in his chair by the hearth, pretending to read his Psalter, but his eyes kept drifting to the window.
 
@@ -2524,7 +2534,7 @@ Beatrice did not know what to say to that. She watched the road, her hands cold 
 
 The King’s retinue appeared around the bend—a dozen mounted knights, a cart with provisions, a cluster of servants. At their head rode Henry himself, on a great grey horse, his cloak dark against the pale sky. Beside him, on a white palfrey, sat Queen Matilda, her expression curious and warm.
 
-Beatrice had seen the King in his hall, seated, laughing. Seeing him now, riding toward her home, was different. He was not a king on a throne; he was a man on a horse, broad‑shouldered, watchful, taking in every detail of the lane, the cottages, the villagers who knelt. The Queen, too, looked about her with interest – at the flowers, the children, the smoke rising from the cottages.
+Beatrice had seen the King in his hall, seated, laughing. Seeing him now, riding towards her home, was different. He was not a king on a throne; he was a man on a horse, broad‑shouldered, watchful, taking in every detail of the lane, the cottages, the villagers who knelt. The Queen, too, looked about her with interest – at the flowers, the children, the smoke rising from the cottages.
 
 The children threw their flowers. The women curtsied and the men bowed, heads uncovered. The Reeve’s daughter called out, “God save the King and Queen!” The blacksmith bellowed, “Long live Henry and Maude!”. Henry grinned. Matilda inclined her head graciously.
 
@@ -2558,7 +2568,7 @@ The hall had never looked so small. Henry sat in Harold’s chair for a time –
 
 The table before them was not the usual groaning board of Westminster, but it was honest. Roasted birds—not Goosie—sat on a wooden platter, its skin crisped to gold, surrounded by leeks and parsnips from the hall’s own garden. Fresh loaves, still warm from the hearth, gave off a smell of rye and honey. A pitcher of small ale, brewed by Beatrice’s own hand, stood beside a flagon of the King’s own wine – a gift from the royal stores, which Harold had opened only after Henry insisted. For sweet, there were honey cakes spiced with ginger, and a bowl of early winter apples, wrinkled but sharp.
 
-Matilda leaned toward Beatrice. “You made the ale yourself?”
+Matilda leaned towards Beatrice. “You made the ale yourself?”
 
 Beatrice nodded, her cheeks warm. “Yes, Your Grace.”
 
@@ -2595,7 +2605,7 @@ Matilda watched Beatrice move between the tables, noting that she poured wine fo
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 20 - A bargain struck, a compromise made
+## Chapter 20 ⬩ A bargain struck, a compromise made
 
 Later, when the meal was done and the fire had been built up, and Godfrey had taken Beatrice for a stroll, Henry sent most of the servants away. He sat with Harold near the hearth. Matilda remained, seated a little apart, her hands folded.
 
@@ -2683,7 +2693,7 @@ Harold’s eyebrows rose.
 
 “He went into the chieftain’s hall,” Henry continued, “sat among men who had reason to hate the English, and spoke to them until they agreed to terms.” 
 
-He looked toward the window, as if seeing the Welsh hills. “He is not a warrior. But he is not a coward. He came back with a treaty that let us finish the war there.”
+He looked towards the window, as if seeing the Welsh hills. “He is not a warrior. But he is not a coward. He came back with a treaty that let us finish the war there.”
 
 He turned back to Harold. “He can wait. But when the moment comes, he moves.”
 
@@ -2699,14 +2709,14 @@ Henry studied her for a long moment. “You have been listening, child?”
 
 Beatrice met his gaze. “Yes, my lord.”
 
-“It is good.” He rose, moving toward the fire. “Sooth, you have heard of his work and his silence.” His voice was quiet, but it carried. “And now I ask you: what would you have me do?”
+“It is good.” He rose, moving towards the fire. “Sooth, you have heard of his work and his silence.” His voice was quiet, but it carried. “And now I ask you: what would you have me do?”
 
 Beatrice’s heart was loud in her ears. She looked at the king, then at her father, then at Godfrey.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 21 - “I would know if I have a choice”
+## Chapter 21 ⬩ “I would know if I have a choice”
 
 The hall was still, save for the low crackling of the fire. Henry stood near the hearth, Harold beside him, Matilda on her bench, Godfrey by the door. Beatrice had stepped forward, her hands clasped before her, her face pale but steady.
 
@@ -2854,7 +2864,7 @@ She touched the basket at her side. Goosie shifted inside, a small warm weight.
 
 Beside her, Godfrey rode in silence. He did not speak. He did not need to. He was simply there, the way he had been since the beginning.
 
-She let out a long breath and looked ahead, toward the road that would take them to Westminster, to the court, to whatever came next.
+She let out a long breath and looked ahead, towards the road that would take them to Westminster, to the court, to whatever came next.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -2889,7 +2899,7 @@ He didn’t argue. He simply slowed his horse to match hers and said nothing mor
 
 ---
 
-## Chapter 22 - The Great Hall swallowed the city’s roar
+## Chapter 22 ⬩ The Great Hall swallowed the city’s roar
 
 The royal party spent several days travelling the ancient Watling Street. This long, straight spine of cracked paving was a scarred memory of Rome, cutting through the deep greens of the Midland wilds.
 
@@ -2921,9 +2931,9 @@ He guided her through the press of bodies, past clusters of nobles who barely gl
 
 Then, abruptly, she stopped.
 
-“I need—” Her face went scarlet. She leaned toward him, voice barely a whisper. “The latrine.”
+“I need—” Her face went scarlet. She leaned towards him, voice barely a whisper. “The latrine.”
 
-Godfrey blinked. “Oh.” He glanced around, then nodded toward a small arched doorway tucked behind a heavy wool hanging. “The long-drop is through there. It’s built into the river wall. I’ll wait.”
+Godfrey blinked. “Oh.” He glanced around, then nodded towards a small arched doorway tucked behind a heavy wool hanging. “The long-drop is through there. It’s built into the river wall. I’ll wait.”
 
 Beatrice didn’t wait; she fled, ignoring the stiffness of her protesting legs, desperate for the cold, salt-tinged air that whistled up from the river through the stone chute.
 
@@ -2980,7 +2990,7 @@ The servants’ garderobe, when she finally found it, was a small, dark space th
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 23 - A grey gown and a goose under my cloak
+## Chapter 23 ⬩ A grey gown and a goose under my cloak
 
 When she emerged, her hands trembling, a rather severe looking woman was waiting.
 
@@ -3047,7 +3057,7 @@ A hint of a smile. “Nothing.” A pause. “Everything.” Another pause. “T
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 24 -  Parchment, ink, and a mother’s ring
+## Chapter 24 ⬩ Parchment, ink, and a mother’s ring
 
 That night, Beatrice sat before a yellowed scrap of parchment and a pot of ink that was mostly sediment. Her legs ached from the saddle and her inner thighs were raw. A smelly tallow candle flickered. 
 
@@ -3074,7 +3084,7 @@ Beatrice read it three times, then tucked it into her sleeve.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 25 - A fish knife for the meat course
+## Chapter 25 ⬩ A fish knife for the meat course
 
 The first formal dinner was also the King’s farewell. Henry would leave for Normandy within the week, and the court had gathered in the Great Hall to honour him.
 
@@ -3129,13 +3139,13 @@ Her hands were cold. *They are talking about me,* she thought. *And not only abo
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 26 - The King’s fleet at the coast
+## Chapter 26 ⬩ The King’s fleet at the coast
 
 The King’s departure was not a single moment of waving silk, but a week‑long evacuation of the soul of the court. To Beatrice, it felt as though the very air was being sucked out of Westminster, leaving behind a vacuum of anxious women and distracted men.
 
 For days, the courtyards were a chaos of iron‑shod hooves and the rhythmic *thud‑clack* of heavy supply wains being loaded with silver plate, tapestries, and armour. Henry moved with a sudden, sharp gravity, surrounded by a phalanx of mail‑clad knights whose presence made the stone corridors feel narrow and dangerous.
 
-The King was like a sun around which everything orbited; as he moved toward the coast, the court’s mood changed.
+The King was like a sun around which everything orbited; as he moved towards the coast, the court’s mood changed.
 
 Beatrice watched from the high gallery, but she felt miles away. The social distance was a physical weight. She had not thought she would miss the noise, but she did. Silence, she learned, was not peace. It was waiting.
 
@@ -3166,7 +3176,7 @@ Beatrice did not have yarrow here, but the cooks used ginger for the Queen’s w
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 27 - “A stain does not wound”
+## Chapter 27 ⬩ “A stain does not wound”
 
 Three days after the King’s departure, the hall felt emptier, though just as many people crowded it: women to their own devices, now that the men were absent.
 
@@ -3205,7 +3215,7 @@ Queen Matilda, watching tiredly from the high table, noted the set of Beatrice�
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 28 - Margaret’s hand on my knee
+## Chapter 28 ⬩ Margaret’s hand on my knee
 
 Afterwards, in her chamber, Beatrice let Lady Margaret clean what could be cleaned of the wine stain on her only gown. 
 
@@ -3244,7 +3254,7 @@ But tonight, she let the fire burn down and thought of home. She fell into a dre
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 29 - A lie, a goose and a ghost
+## Chapter 29 ⬩ A lie, a goose and a ghost
 
 It began, as such things often do, with a lie. A lie and a goose.
 
@@ -3272,7 +3282,7 @@ The room was dim. A brazier glowed faintly in the corner. Ela took two steps ins
 
 Then she saw it.
 
-A pale, shapeless thing rose from the shadows. It had a long neck. It hissed. And then it *moved*—floating toward her, silent and terrible.
+A pale, shapeless thing rose from the shadows. It had a long neck. It hissed. And then it *moved*—floating towards her, silent and terrible.
 
 Ela screamed. She stumbled backward, fled into the corridor, and left the door wide open.
 
@@ -3320,7 +3330,7 @@ Goosie looked up. Her beak was black. Her feet left tiny ink‑prints on the sto
 
 “Hello,” Godfrey said quietly.
 
-He did not shout. He did not grab. He crouched down and held out his hand. Goosie waddled toward him, familiar and unafraid. He picked her up, ink and all, and tucked her under his arm.
+He did not shout. He did not grab. He crouched down and held out his hand. Goosie waddled towards him, familiar and unafraid. He picked her up, ink and all, and tucked her under his arm.
 
 “My lord,” a servant stammered, “the tapestry—the accounts—”
 
@@ -3400,7 +3410,7 @@ He met her eyes. “I have spent my life standing aside.”
 
 She returned to her desk. “That is all.”
 
-Godfrey bowed and left. In the corridor, he stood still for a long moment. Perhaps he should take her to Devon, to meet his mother. That would show everyone that Beatrice was truly his betrothed. He tucked the thought away, a quiet promise to himself, and walked toward his own chamber.
+Godfrey bowed and left. In the corridor, he stood still for a long moment. Perhaps he should take her to Devon, to meet his mother. That would show everyone that Beatrice was truly his betrothed. He tucked the thought away, a quiet promise to himself, and walked towards his own chamber.
 
 ---
 
@@ -3460,7 +3470,7 @@ A very short letter arrived from Stanwey.
 
 ---
 
-## Chapter 30 – The choir’s voices put me to sleep
+## Chapter 30 ⬩ The choir’s voices put me to sleep
 
 (Christmas 1114)
 
@@ -3474,7 +3484,7 @@ The nobles exchanged gifts – not the sentimental trinkets of a later age, but 
 
 Beatrice paused beside a young noblewoman who sat pale and miserable, pressing a hand to her temple. The woman’s servant hovered uselessly with a cup of wine.
 
-The Queen watched the exchange from a distance. She could not hear the words. She saw only Beatrice lean in, speak quietly, and then gesture toward the screens passage. The servant nodded and hurried off. The noblewoman’s face relaxed—just slightly.
+The Queen watched the exchange from a distance. She could not hear the words. She saw only Beatrice lean in, speak quietly, and then gesture towards the screens passage. The servant nodded and hurried off. The noblewoman’s face relaxed—just slightly.
 
 Matilda’s fingers tapped once on the arm of her chair. She turned her head, and Lady Margaret stepped forward from her place near the wall.
 
@@ -3601,7 +3611,7 @@ They laughed. Another woman added: “Does she think she is still in the fields?
 
 Godfrey stopped. His hands curled at his sides. *Protect her.*
 
-He walked toward them. His steps were unhurried, but the women noticed. The laughter died.
+He walked towards them. His steps were unhurried, but the women noticed. The laughter died.
 
 Godfrey did not shout. He did not threaten. He simply stood at the edge of their circle, his gaze steady on Eustacia, then moving to each of the others in turn. He gave a single, slow shake of his head.
 
@@ -3655,7 +3665,7 @@ Godfrey bowed and left her. Avice stayed in the draughty passage, the cup coolin
 
 One day when the pale sun was a little warmer over the high stone walls of the Queen’s garden, made warmer still for a number of braziers set up hours earlier, Queen Matilda sat upon a stone bench, a silver cup of hippocras in her hand. A few paces away, her ladies-in-waiting whispered and embroidered, their voices a soft hum that masked—but did not hide—the conversation at the centre. From the shadows of the colonnade, a vielle hummed a low drone beneath the silvery, wandering notes of a harp.
 
-Matilda Fitzroy—Godfrey’s sister—nodded toward William Adelin who was stalking the strutting peacocks near the frozen fountain. “At least they have better plumage than half the barons.”
+Matilda Fitzroy—Godfrey’s sister—nodded towards William Adelin who was stalking the strutting peacocks near the frozen fountain. “At least they have better plumage than half the barons.”
 
 Beatrice, relieved that someone was speaking plainly, laughed. “Aye, and better sense. A goose could outwit the Chancellor of England.”
 
@@ -3731,7 +3741,7 @@ Sir Guy’s hands stopped. “She stays?”
 
 Sir Guy laughed. “A son who is absent,” he mused, his voice smooth as oil, “cannot protect a girl who is present. The goose-house door is left unlatched.”
 
-He handed the brush to his servant and moved toward the door, his voice dropping low.
+He handed the brush to his servant and moved towards the door, his voice dropping low.
 
 “We will not leave England empty-handed. I will have the land of that goose girl, oath of the king or not. I will also have her, whether she agrees or not.”
 
@@ -3907,7 +3917,7 @@ All the Queen’s personal maids were trained singers. This song was a slow, ach
 
 When the song ended, the Queen sat motionless. Her hands were folded in her lap, her face unreadable for a time. 
 
-At last she sighed and rose, adjusting her sleeves. “The hour grows late,” she said to the room – but her voice was flat, ”I feel like a stroll. Have a light meal ready upon my return,” and she moved toward the door.
+At last she sighed and rose, adjusting her sleeves. “The hour grows late,” she said to the room – but her voice was flat, ”I feel like a stroll. Have a light meal ready upon my return,” and she moved towards the door.
 
 ---
 
@@ -4024,7 +4034,7 @@ Certainly, when the poor began to speak of “the Lady of Stanwey” with affect
 
 ---
 
-## Chapter 31 - A message from Sir Guy
+## Chapter 31 ⬩ A message from Sir Guy
 
 A few days later, a servant found Beatrice in the weaving room. “My lady, a message from Sir Guy de Montfort. He requests your presence at a hearing regarding your father’s estate. He says it is a formality—the King’s justices need to verify that Stanwey is being properly managed in your father’s absence.”
 
@@ -4039,7 +4049,7 @@ She went to find Lady Margaret.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 32 - “Your father is a conquered thing”
+## Chapter 32 ⬩ “Your father is a conquered thing”
 
 The hearing was held in a small chamber off from the Great Hall. Sir Guy sat at a table, flanked by the grey‑haired agent and a clerk with a parchment. Two of the King’s justices sat behind a trestle table, looking bored.
 
@@ -4088,7 +4098,7 @@ He walked out before anyone could answer, the heavy thud of his boots sounding l
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 33 - The Queen’s knife in my palm
+## Chapter 33 ⬩ The Queen’s knife in my palm
 
 Lady Margaret quickly took Beatrice from the hearing chamber to the Queen’s solar. The Queen had already mean informed of Harold’s illness.
 
@@ -4115,7 +4125,7 @@ The Queen had ears in many places, though not everywhere.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 34 – The Queen’s letter, cold and sharp
+## Chapter 34 ⬩ The Queen’s letter, cold and sharp
 
 Godfrey had been at his mother’s side for some days, at the manor of Berkhamsted, a day’s ride from Westminster. The change of air was meant to do her good – and to do him good as well, away from the whispers of the court.
 
@@ -4143,12 +4153,12 @@ He paused.
 
 “I shall, mother.”
 
-He rode, changing horses at Dunstable Priory, Newport Pagnell Manor, and Northampton Castle—where he had a few hours much-needed sleep, ate a quick meal, and rode again, following the road toward Rockingham and Stanwey.
+He rode, changing horses at Dunstable Priory, Newport Pagnell Manor, and Northampton Castle—where he had a few hours much-needed sleep, ate a quick meal, and rode again, following the road towards Rockingham and Stanwey.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 35 – The night smelled of damp earth
+## Chapter 35 ⬩ The night smelled of damp earth
 
 Beatrice reached Stanwey by morning, after an uncomfortable two days’ travel. Harold was in his chair by the hearth, pale but alive. She knelt beside him, took his cold hands in hers, and wept with relief.
 
@@ -4158,7 +4168,7 @@ She tended him through the afternoon – broth, warm cloths, prayers. The two gu
 
 The reeve and the cook – Beatrice’s aunt – went about their business. The new servants the King had promised – a steady man named Eldred and a thin, capable woman – helped where they could.
 
-The evening came. As she banked the coals of the hearth, preserving the embers for the morning's fire, Goosie suddenly lifted her head from where she had settled. Her neck stretched toward the shuttered window, and a low, guttural sound rose from her throat—not a honk, but a warning hiss Beatrice had heard only once before, when a horse had startled her at Stanwey — Sir Guy's.
+The evening came. As she banked the coals of the hearth, preserving the embers for the morning's fire, Goosie suddenly lifted her head from where she had settled. Her neck stretched towards the shuttered window, and a low, guttural sound rose from her throat—not a honk, but a warning hiss Beatrice had heard only once before, when a horse had startled her at Stanwey — Sir Guy's.
 
 "What is it?" Beatrice whispered.
 
@@ -4180,7 +4190,7 @@ The guard blinked sleepily. "A branch? Nay, my lady. Likely a fox. They come dow
 
 Beatrice nodded, embarrassed. "Of course. A fox."
 
-She turned back toward the hall. As she did, a shape flickered at the edge of her vision—just beyond the well, where the shadows pooled deepest. She froze. A figure? A man?
+She turned back towards the hall. As she did, a shape flickered at the edge of her vision—just beyond the well, where the shadows pooled deepest. She froze. A figure? A man?
 
 A large moth, pale as a ghost, fluttered up from the darkness and brushed her cheek. She gasped, swatted it away, and laughed at herself—a short, shaky sound.
 
@@ -4257,7 +4267,7 @@ Then the cart lurched forward, and the night swallowed them.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 36 – The staghound’s whine
+## Chapter 36 ⬩ The staghound’s whine
 
 Godfrey reached Stanwey as the first birds were calling the coming morning, long before the sun cleared the treetops. 
 
@@ -4269,11 +4279,11 @@ The village was stirring – smoke from a few cook-fires, a dog barking, a woman
 
 Godfrey reined in. The man was breathless, his face pale.
 
-“They came in the night, but a few hours back,” the man said. “Armed men. Sir Guy – the knight who’s been lurking – he took the old lord and the lady. Bound the guards, bound the reeve, bound us all.” He gestured toward the cottages. “We worked ourselves free an hour ago. Eldred’s already sent a lad on a mule to find the royal forester, to warn the castle. But we don’t know where they were taken.”
+“They came in the night, but a few hours back,” the man said. “Armed men. Sir Guy – the knight who’s been lurking – he took the old lord and the lady. Bound the guards, bound the reeve, bound us all.” He gestured towards the cottages. “We worked ourselves free an hour ago. Eldred’s already sent a lad on a mule to find the royal forester, to warn the castle. But we don’t know where they were taken.”
 
 Godfrey’s heart hammered. “Which way?”
 
-The man pointed toward the forest. “East I heard, beyond that I could not say.”
+The man pointed towards the forest. “East I heard, beyond that I could not say.”
 
 Godfrey nodded and rode on.
 
@@ -4293,7 +4303,7 @@ The staghound. Its legs were still bound with rope, a cloth tied around its muzz
 
 Godfrey knelt and cut the ropes. The dog lunged to its feet, shook itself, then ran to the cold hearth and back to the door – whining, pacing, desperate.
 
-And beside the dog, feathers ruffled, beak pointed toward the forest – Goosie. She had not been tied. No one had thought her worth the trouble.
+And beside the dog, feathers ruffled, beak pointed towards the forest – Goosie. She had not been tied. No one had thought her worth the trouble.
 
 Godfrey looked from the dog to the goose. The dog had scent. The goose had direction. Together, they had a trail.
 
@@ -4311,7 +4321,7 @@ Godfrey’s hand tightened on his sword hilt. His fingers trembled. He was not a
 
 Adequate would have to be enough. He was going to die.
 
-He tied his horse to a tree. The staghound lay down in the bracken, ears up, watching. Goosie waddled toward the chapel door and stopped, a small white sentinel. Two horses stood nearby hitched to a covered cart.
+He tied his horse to a tree. The staghound lay down in the bracken, ears up, watching. Goosie waddled towards the chapel door and stopped, a small white sentinel. Two horses stood nearby hitched to a covered cart.
 
 A horn sounded in the distance – faint, wavering. Not the alarm. Just a forester’s signal.
 
@@ -4322,7 +4332,7 @@ Suffice to say, there were no guards outside by the time Godfrey reached the cha
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 37 – “You couldn’t even win a goose girl”
+## Chapter 37 ⬩ “You couldn’t even win a goose girl”
 
 Godfrey kicked the door open and glanced about wildly in the small chapel. Once a place of prayer for travellers, it was now in bad need of repair.
 
@@ -4334,7 +4344,7 @@ On the alter, beside a flickering candle, lay a parchment – half-rolled, a sea
 
 Sir Guy turned around abruptly. “So, the king’s son is arriving. The shadow. The scholar.”
 
-Three hired men stood against the wall – rough, scarred, their hands on their sword hilts. One muttered to another: “My troth. If that’s the king’s son, we’ll hang.” The other nodded. “I’d rather have breath than silver.” They did not draw, instead inching toward the doorway.
+Three hired men stood against the wall – rough, scarred, their hands on their sword hilts. One muttered to another: “My troth. If that’s the king’s son, we’ll hang.” The other nodded. “I’d rather have breath than silver.” They did not draw, instead inching towards the doorway.
 
 Godfrey stepped inside. “Let them go, de Montfort. This is between us.”
 
@@ -4348,7 +4358,7 @@ He parried, retreated, parried again. Sir Guy pressed forward, grinning.
 
 “Is this all you have? Shadow. My father won lands with a sword. You couldn’t even win a goose girl.”
 
-Godfrey did not answer. He let Sir Guy drive him back, toward the pillar. Then, at the last moment, he sidestepped. Sir Guy’s sword bit into the wood – not deep, but enough to slow his recovery. He yanked once, twice.
+Godfrey did not answer. He let Sir Guy drive him back, towards the pillar. Then, at the last moment, he sidestepped. Sir Guy’s sword bit into the wood – not deep, but enough to slow his recovery. He yanked once, twice.
 
 In that moment of surprise, Godfrey moved.
 
@@ -4367,7 +4377,7 @@ Another horn sounded – closer now. The hired outlaws looked worried. “The ro
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 38 – The blade sliced my palm
+## Chapter 38 ⬩ The blade sliced my palm
 
 When the swords first clashed, Beatrice’s fingers were working with frustrating slowness.
 
@@ -4424,7 +4434,7 @@ The final hired man looked at Sir Guy on the ground, then at Godfrey’s sword, 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 39 – The horn that meant danger
+## Chapter 39 ⬩ The horn that meant danger
 
 The Royal Forester’s horn had done its work.
 
@@ -4482,7 +4492,7 @@ Two of the Queen’s guards rode ahead, torches flickering. A third, a grizzled 
 
 Godfrey nodded. “Do it.”
 
-Alard did not ask permission. He was already gesturing to a younger guard. The man wheeled his horse and rode back toward the castle. Alard caught Godfrey’s look and shrugged. “The King’s son does not travel without a watch. I came because it is my duty to uphold what is right.”
+Alard did not ask permission. He was already gesturing to a younger guard. The man wheeled his horse and rode back towards the castle. Alard caught Godfrey’s look and shrugged. “The King’s son does not travel without a watch. I came because it is my duty to uphold what is right.”
 
 Godfrey said nothing, but his hand rested briefly on the man’s arm.
 
@@ -4542,7 +4552,7 @@ She rose and dressed. The hall was quiet. Goosie was still by the hearth, her he
 
 The cook – Beatrice’s aunt – was already stirring a pot of porridge.
 
-“He is awake,” the woman said, nodding toward the yard.
+“He is awake,” the woman said, nodding towards the yard.
 
 Beatrice stepped outside and blinked. The morning was icy bright, with frost silvering the grass. Godfrey stood by the well, splashing water on his face with his good hand. He winced.
 
@@ -4684,7 +4694,7 @@ She touched the basket at her side. Goosie shifted inside, a small warm weight �
 
 Beside her, Godfrey rode in silence. He did not speak. He did not need to. He was simply there, the way he had been since the beginning.
 
-She let out a long breath and looked ahead, toward the road that would take them to Westminster, to the court, to whatever came next.
+She let out a long breath and looked ahead, towards the road that would take them to Westminster, to the court, to whatever came next.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -4696,7 +4706,7 @@ She let out a long breath and looked ahead, toward the road that would take them
 
 ---
 
-## Chapter 40 – The weight of the blade is a promise
+## Chapter 40 ⬩ The weight of the blade is a promise
 
 *(Late January 1115)*
 
@@ -4785,7 +4795,7 @@ Beatrice closed her eyes. The shadows were still there, but for a moment, they d
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 41 – “What knows this king of true justice?”
+## Chapter 41 ⬩ “What knows this king of true justice?”
 
 *(4 February 1115)*
 
@@ -4843,7 +4853,7 @@ Beatrice felt Godfrey’s hand relax on her elbow. She let out a breath she had 
 
 ---
 
-## Chapter 42 — "Leave room for the green things to grow"
+## Chapter 42 ⬩ "Leave room for the green things to grow"
 
 The days after the rescue were a strange, quiet time. The court spoke of little else—the kidnapping, the chase, the candlestick—but Beatrice found herself moving through the whispers like a ghost. Her hand had healed. Her dreams were still full of shadows, but the shadows had faces she could name now, and that made them less terrible.
 
@@ -4897,7 +4907,7 @@ He pulled her into a rough embrace. "Now. I am told the Queen has been asking af
 
 She laughed, and the knot in her chest loosened.
 
-As they turned back toward the hall, Harold caught sight of Godfrey standing near the screens passage, watching quietly as he always did. The old thegn stopped.
+As they turned back towards the hall, Harold caught sight of Godfrey standing near the screens passage, watching quietly as he always did. The old thegn stopped.
 
 "You've done well, boy."
 
@@ -4907,7 +4917,7 @@ Harold looked at Beatrice, then back at Godfrey. "She's worth trying for."
 
 He didn't say more. He didn't need to. 
 
-Harold walked on toward the Queen's solar, the staghound padding at his heels, and Goosie—who had been preening by the hearth—waddled after him as if she, too, had an appointment with the Queen.
+Harold walked on towards the Queen's solar, the staghound padding at his heels, and Goosie—who had been preening by the hearth—waddled after him as if she, too, had an appointment with the Queen.
 
 Beatrice watched him go, her heart full. Godfrey came to stand beside her.
 
@@ -4930,7 +4940,7 @@ Beatrice read it three times. Then she tucked it into the small wooden chest tha
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 43 – The night before
+## Chapter 43 ⬩ The night before
 
 Godfrey found her in the Queen’s garden, cold and alone.
 
@@ -4990,7 +5000,7 @@ Beatrice smiled and clapped her hands in delight.
 
 ---
 
-## Chapter 44 – “She takes the cup”
+## Chapter 44 ⬩ “She takes the cup”
 
 *Late January 1115 – the Queen’s solar*
 
@@ -5035,7 +5045,7 @@ In the solar, for a moment, there seemed to be only the firelight and the two of
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 45 – A single, brassy note
+## Chapter 45 ⬩ A single, brassy note
 
 *Feast of St. Valentine, 14 February 1115*
 
@@ -5066,7 +5076,7 @@ Godfrey, beside her, said nothing. He didn’t need to.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 47 – The church door
+## Chapter 47 ⬩ The church door
 
 *Sunday, 25 April, Spring 1115 – solemnisation*
 
@@ -5135,7 +5145,7 @@ They walked inside together.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 48 – The wedding feast
+## Chapter 48 ⬩ The wedding feast
 
 The hall was crowded, noisy, warm. The same hall where the King had once sat in Harold’s chair now groaned under the weight of roasted fowl, fresh bread, and spiced wine. The musicians from the village played – a harp, a vielle, a tabor.
 
@@ -5605,7 +5615,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 1 – The geese know a stranger’s fear (Chase Scene)
+## Chapter 1 ⬩ The geese know a stranger’s fear (Chase Scene)
 
 1. Why does the boy spread his arms like wings? What does that tell you about him?
 2. How does Beatrice feel when the geese chase her? What words show her fear?
@@ -5615,7 +5625,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 4 – The weight of a fever you cannot break (Mother Scene)
+## Chapter 4 ⬩ The weight of a fever you cannot break (Mother Scene)
 
 1. What does Beatrice learn from her mother besides herbs and bread‑making?
 2. Why does her mother speak quietly about “the mark of womanhood”? How does Beatrice react?
@@ -5625,7 +5635,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 5 – The Reeve’s daughter burns with fever (Suitors Scenes)
+## Chapter 5 ⬩ The Reeve’s daughter burns with fever (Suitors Scenes)
 
 1. Why does Beatrice refuse every suitor her father suggests?
 2. What does she mean by “Not for Stanwey”?
@@ -5635,7 +5645,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 8 – *Coram Rege* — Burning the Table (Vow Scene)
+## Chapter 8 ⬩ *Coram Rege* — Burning the Table (Vow Scene)
 
 1. Why is King Henry frustrated at the beginning of the chapter?
 2. What does Roger of Salisbury mean when he calls Godfrey “a coin left on the table”?
@@ -5645,7 +5655,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 13 – The dust of Rockingham on my shoes (Cart Scene)
+## Chapter 13 ⬩ The dust of Rockingham on my shoes (Cart Scene)
 
 1. Why does the carter’s wife think Beatrice looks pale?
 2. How does Beatrice feel when she hears the family talking about “the goose girl”?
@@ -5655,7 +5665,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 14 – Who will care for him? / The fourth thing (Riddle Scene)
+## Chapter 14 ⬩ Who will care for him? / The fourth thing (Riddle Scene)
 
 1. Why does Harold ask Godfrey “What will you remember, when you are old?”
 2. What does Godfrey’s answer tell Harold about his character?
@@ -5665,7 +5675,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 29 – A lie, a goose and a ghost
+## Chapter 29 ⬩ A lie, a goose and a ghost
 
 1. Why do the servants think the Queen’s quarter is haunted?
 2. What is the real “ghost”?
@@ -5675,7 +5685,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 30 – Christmas Court / Edith of Scotland (Queen Sharing Scene)
+## Chapter 30 ⬩ Christmas Court / Edith of Scotland (Queen Sharing Scene)
 
 1. What secret does Queen Matilda reveal to Beatrice?
 2. Why did the Norman court call her “the Saxon girl”?
@@ -5685,7 +5695,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 39 – The horn that meant danger
+## Chapter 39 ⬩ The horn that meant danger
 
 1. How does Godfrey escape from the chapel storeroom?
 2. What does Beatrice use to cut her ropes? Why is that clever?
@@ -5695,7 +5705,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 44 – “She takes the cup”
+## Chapter 44 ⬩ “She takes the cup”
 
 1. Why does Beatrice take the cup before Godfrey can offer it? What does this action show about her character?
 2. What does Queen Matilda mean when she says, “This is not the old handfasting, nor the Norman church rite. It is a new thing”?
@@ -5706,7 +5716,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 46 – “The church door” (Solemnisation)
+## Chapter 46 ⬩ “The church door” (Solemnisation)
 
 1. Why does the priest ask, “Do you come freely?” and why is this question important?
 2. What is the purpose of the long silence after the priest asks for objections? What does the silence represent?
@@ -5717,7 +5727,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 ---
 
-## Chapter 47 – “The wedding feast”
+## Chapter 47 ⬩ “The wedding feast”
 
 1. What does Godfrey mean when he toasts “To making it count – every day, not just this one”?
 2. How does Harold behave at the feast? What does his quiet presence and his words to Queen Matilda reveal about him?
