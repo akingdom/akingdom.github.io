@@ -20,7 +20,7 @@
 <blockquote style="border-left: 4px solid #8b0000; padding-left: 20px; margin: 20px auto; max-width: 500px; text-align: justify; line-height: 1.6; font-family: serif;">
   
   <span style="float: left; font-size: 3.5em; line-height: 0.8; padding-top: 4px; padding-right: 8px; color: #8b0000; font-weight: 500; ">A</span>
-  GOOSE MAY WEND WHERE A KING MUST WAIT. ¶ It was a witless saying from the Norman harrowing of England. Yet, the wise‑wives of Mercia spoke of a maiden who proved the word most true.
+  GOOSE MAY WEND WHERE A KING MUST WAIT. <span style="color: rgb(0, 51, 153);">¶</span> It was a witless saying from the Norman harrowing of England. Yet, the wise‑wives of Mercia spoke of a maiden who proved the word most true.
   
   <br>
   
