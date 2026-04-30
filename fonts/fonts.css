@@ -357,3 +357,19 @@ body {
   font-weight: 400;
   src: url(./v24-kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4iDgNP.woff2) format('woff2');
 }
+
+/* Caslon latin-ext */
+@font-face {
+  font-family: 'Libre Caslon Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./v5-DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-JbHg.woff2) format('woff2');
+}
+
+/* Caslon latin */
+@font-face {
+  font-family: 'Libre Caslon Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./v5-DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-I.woff2) format('woff2');
+}
