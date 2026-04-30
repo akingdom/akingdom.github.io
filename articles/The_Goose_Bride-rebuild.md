@@ -1,6 +1,15 @@
+<script src="../js/tts_float_tools.js"></script>
+<style>
+    .main-content {
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.25rem;       /* Rounded for cleaner math */
+    line-height: 1.6;         /* Unitless value is best practice (scales with size) */
+    letter-spacing: 0.01em;   /* Scalable spacing */
+    max-width: 65ch;          /* Critical for serifs: limits line length for better tracking */
+}
+</style>
 # The Goose Bride
 
-<script src="../js/tts_float_tools.js"></script>
 <div style="text-align: center; margin: 20px 0;">
     <div style="display: inline-block; 
                 max-width: 85%; 
