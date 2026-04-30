@@ -19,37 +19,18 @@
 
 <blockquote style="border-left: 4px solid #8b0000; padding-left: 20px; margin: 20px auto; max-width: 500px; text-align: justify; line-height: 1.6; font-family: serif;">
   
-  <span style="float: left; font-size: 3.5em; line-height: 0.8; padding-top: 4px; padding-right: 8px; color: #8b0000;">**A**</span>
+  <span style="float: left; font-size: 3.5em; line-height: 0.8; padding-top: 4px; padding-right: 8px; color: #8b0000; font-weight: 500; ">A</span>
   GOOSE MAY WEND WHERE A KING MUST WAIT. ¶ It was a witless saying from the Norman harrowing of England. Yet, the wise‑wives of Mercia spoke of a maiden who proved the word most true.
   
   <br><br>
   
-  <span style="color: #8b0000;">**A**</span> <i>gos may gon thar the kyng mot biden. This was a folk speche of the shires sithen the Normans comen. Ac a wise wif of Mercie tolde of a maiden that proved the word soth.</i>
+  <span style="color: #8b0000; font-weight: 500;">A</span> <i>gos may gon thar the kyng mot biden. This was a folk speche of the shires sithen the Normans comen. Ac a wise wif of Mercie tolde of a maiden that proved the word soth.</i>
   
   <div style="text-align: right; margin-top: 15px; font-variant: small-caps; font-size: 0.9em; color: #555;">
     — Old Mercian Proverb
   </div>
 
 </blockquote>
-
-
-         
-         
-         "A goose may wend where a King must wait."
-
-    It was a witless saying from the Norman harrowing of England.
-         Yet, the wise‑wives of Mercia spoke of a maiden
-                   who proved the word most true.
-
-         A gos may gon thar the kyng mot biden.
-    This was a folk speche of the shires sithen the Normans comen.
-         Ac a wise wif of Mercie tolde of a maiden
-                   that proved the word soth.
-
-                             ⬩
-
-                    Old Mercian Proverb
-
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
