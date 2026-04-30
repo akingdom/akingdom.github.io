@@ -22,7 +22,7 @@
   <span style="float: left; font-size: 3.5em; line-height: 0.8; padding-top: 4px; padding-right: 8px; color: #8b0000; font-weight: 500; ">A</span>
   GOOSE MAY WEND WHERE A KING MUST WAIT. <span style="color: rgb(0, 51, 153);">¶</span> It was a witless saying from the Norman harrowing of England. Yet, the wise‑wives of Mercia spoke of a maiden who proved the word most true.
   
-  <br>
+  <br> <br>
   
   <span style="color: #8b0000; font-weight: 500;">A</span> <i>gos may gon thar the kyng mot biden. <span style="color: rgb(0, 51, 153);">¶</span> This was a folk speche of the shires sithen the Normans comen. Ac a wise wif of Mercie tolde of a maiden that proved the word soth.</i>
   
