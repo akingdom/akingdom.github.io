@@ -24,7 +24,7 @@
   
   <br>
   
-  <span style="color: #8b0000; font-weight: 500;">A</span> <i>gos may gon thar the kyng mot biden. This was a folk speche of the shires sithen the Normans comen. Ac a wise wif of Mercie tolde of a maiden that proved the word soth.</i>
+  <span style="color: #8b0000; font-weight: 500;">A</span> <i>gos may gon thar the kyng mot biden. <span style="color: rgb(0, 51, 153);">¶</span> This was a folk speche of the shires sithen the Normans comen. Ac a wise wif of Mercie tolde of a maiden that proved the word soth.</i>
   
   <div style="text-align: right; margin-top: 15px; font-variant: small-caps; font-size: 0.9em; color: #555;">
     — Old Mercian Proverb
