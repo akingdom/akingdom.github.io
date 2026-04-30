@@ -7,26 +7,61 @@
                 border: 4px double #4a3728; 
                 padding: 5px; 
                 box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
-                /* The Mask creates the fade effect */
-                -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
-                mask-image: linear-gradient(to bottom, black 80%, transparent 100%);">
+                -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 95%);
+                mask-image: linear-gradient(to bottom, black 60%, transparent 95%);">
         
         <img src="https://akingdom.github.io/articles/goose_bride_image_9bee9768-ed.png" 
-             alt="The She-Wolf’s Daughter at the Court of King Henry I" 
+             alt="The She-Wolf’s Daughter at the Court of King Henry the first" 
              style="width: 100%; height: auto; display: block;">
     </div>
 </div>
 
-<blockquote style="border-left: 4px solid #8b0000; padding-left: 20px; margin: 20px auto; max-width: 500px; text-align: justify; line-height: 1.6; font-family: serif;">
+<blockquote style="padding: 25px; background-color: #fdfaf2; border-left: 5px solid rgb(0, 51, 153); border-radius: 2px; margin: 20px auto; max-width: 550px; text-align: justify; line-height: 1.6; font-family: serif; color: #222;">
   
-  <span style="float: left; font-size: 3.5em; line-height: 0.8; padding-top: 4px; padding-right: 8px; color: #8b0000; font-weight: 500; ">A</span>
-  GOOSE MAY WEND WHERE A KING MUST WAIT. <span style="color: rgb(0, 51, 153);">¶</span> It was a witless saying from the Norman harrowing of England. Yet, the wise‑wives of Mercia spoke of a maiden who proved the word most true.
+  <!-- Modern English Proverb -->
+  <div style="color: #9a0000; font-variant: small-caps; font-weight: 600; letter-spacing: 1px; margin-bottom: 8px; border-bottom: 1px solid rgba(154, 0, 0, 0.2); padding-bottom: 4px;">
+    A goose may wend where a king must wait
+  </div>
+
+  <span style="float: left; 
+               width: 50px; 
+               height: 50px; 
+               line-height: 50px; 
+               text-align: center; 
+               font-size: 2.2em; 
+               font-weight: bold; 
+               color: #d4af37; 
+               background-color: rgb(18, 58, 119); 
+               border: 2px solid #d4af37; 
+               outline: 2px solid rgb(0, 51, 153); 
+               margin-right: 12px; 
+               margin-top: 4px;">I</span>
+  t was a witless saying from the Norman harrowing of England · Yet, the wise‑wives of Mercia spoke of a maiden who proved the word most true
   
-  <br> <br>
+  <br style="clear: both;"><br>
   
-  <span style="color: #8b0000; font-weight: 500;">A</span> <i>gos may gon thar the kyng mot biden. <span style="color: rgb(0, 51, 153);">¶</span> This was a folk speche of the shires sithen the Normans comen. Ac a wise wif of Mercie tolde of a maiden that proved the word soth.</i>
+  <!-- Middle English Proverb -->
+  <div style="color: #4d4d4d; font-variant: small-caps; font-weight: 600; letter-spacing: 1px; margin-bottom: 8px; border-bottom: 1px solid rgba(77, 77, 77, 0.2); padding-bottom: 4px;">
+    A gos may gon thar the kyng mot biden
+  </div>
+
+  <span style="float: left; 
+               width: 50px; 
+               height: 50px; 
+               line-height: 50px; 
+               text-align: center; 
+               font-size: 2.2em; 
+               font-weight: bold; 
+               color: #a3a3a3; 
+               background-color: #333333; 
+               border: 2px solid #a3a3a3; 
+               outline: 2px solid #333333; 
+               margin-right: 12px; 
+               margin-top: 4px;">T</span>
   
-  <div style="text-align: right; margin-top: 15px; font-variant: small-caps; font-size: 0.9em; color: #555;">
+  <span style="color: #555;">his was a folk speche of the shires sithen the Normans comen · Ac a wise wif of Mercie tolde of a maiden that proved the word soth</span>
+  
+  <div style="text-align: right; margin-top: 20px; font-variant: small-caps; font-size: 0.85em; color: #999; letter-spacing: 1px;">
     — Old Mercian Proverb
   </div>
 
