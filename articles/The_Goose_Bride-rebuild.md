@@ -294,25 +294,21 @@ Her mother smiled. “No. I think you will not.”
 
 ## Chapter 4 ⬩ The weight of a fever you cannot break
 
-The years that followed were full of geese and growing. Father and Mother taught Beatrice about the practical aspects of running a hall.
+The years that followed were full of geese and growing. Father and Mother taught Beatrice the practical work of running a hall.
 
-When the village reeve brought the harvest accounts, her father, Harold, made her sit beside him and learn explain each number. 
+When the village reeve brought the harvest accounts, her father, Harold, made her sit beside him and learn to explain each number. 
 
 He walked their land boundary with her, when a neighbour’s new fence strayed too far onto their land, showing her where a stone and an old oak marked the line. “Love alone will not defend it when the wolves come. A thegn’s daughter must know the lay of the land.” 
 
 Each morning, she helped move the goats, driving the iron pickets with a heavy mallet to tether them where the thickets were densest. The goats stripped the saplings and gnawed the brambles to the dirt; for without a ditch or palisade, it was only these circles of bare earth that kept the forest a bowshot away and the hall safe. A thick oak door and heavy-barred shutters were the final line against the dark.
 
-The hall’s outside oven smelt of wood smoke and fresh bread twice a week. At first, Beatrice learnt from her mother, how to tell when bread was ready by the hollow thump of the crust. In later months, she helped a servant. She was so excited when her mother let her shape the loaves for the first time. The dough felt soft and stretchy as her mother guided her small hands, still warm from the hearth, pressing just enough to make the surface smooth.
+The hall’s outside oven smelt of wood smoke and fresh bread twice a week. At first, Beatrice learnt from her mother how to tell when bread was ready by the hollow thump of the crust. In later months, she helped a servant. She was so excited when her mother let her shape the loaves for the first time. The dough felt soft and stretchy as her mother guided her small hands, still warm from the hearth, pressing just enough to make the surface smooth.
 
-Her mother taught her how to soothe a crying child with a cool hand and a soft word. How much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter.
+Her mother, Aldwina, taught her which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer's broken limb, and a tea of lemon balm could lift a heavy heart. She learned the hard way that foxglove was a fickle friend that could either steady a racing pulse or stop it cold. She never forgot the day she reached for that wrong jar and felt her mother's hand close over hers, firm, silent and sure.
 
-She learnt which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, and comfrey (the “knit-bone”) to bind a farmer’s broken limb. She learnt that a tea of lemon balm could lift a heavy heart, but foxglove was a fickle friend that could either steady a racing pulse or stop it cold.
+Beatrice learnt how to soothe a crying child with a cool hand and a soft word. How much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter. Most importantly, she learnt how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
 
-Most importantly, she learnt how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
-
-And so, Beatrice learnt. She watched and she listened and she grew.
-
-Then Mother grew tired. Then pale. Then thin.
+Then Mother grew tired, then pale, and then thin.
 
 ---
 
@@ -6159,7 +6155,7 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | Character | Identity |
 | :--- | :--- |
 | **Harold "Red‑Wolf"** (*Rauthulfr Magnússon*) | Beatrice’s father. An ageing Saxon thegn who survived the Conquest by submitting early and saving the King's brother from drowning. Old, frail, but sharp‑eyed and wise. |
-| **Beatrice’s Mother** | (Name unknown) Died when Beatrice was 11. Taught Beatrice herb‑lore, brewing, and the running of a household. |
+| **Aldwina** | (Aldwina or Ældwynn) means *ancient delight*) Beatrice’s Mother. Died when Beatrice was 11. Taught Beatrice herb‑lore, brewing, and the running of a household. |
 | **Beatrice** | Protagonist, age 16. Practical, outspoken, deeply attached to her home and her goose. |
 | **Goosie** | Beatrice’s goose, hatched from a speckled egg from the river‑bend farm. A character in her own right. |
 | **The Cook (Beatrice’s Aunt)** | Beatrice’s mother's widowed sister. Comes to Stanwey to help run the hall. |
