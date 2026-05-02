@@ -302,9 +302,9 @@ He walked their land boundary with her, when a neighbour’s new fence strayed t
 
 Each morning, she helped move the goats, driving the iron pickets with a heavy mallet to tether them where the thickets were densest. The goats stripped the saplings and gnawed the brambles to the dirt; for without a ditch or palisade, it was only these circles of bare earth that kept the forest a bowshot away and the hall safe. A thick oak door and heavy-barred shutters were the final line against the dark.
 
-The hall’s outside oven smelt of wood smoke and fresh bread twice a week. At first, Beatrice learnt from her mother how to tell when bread was ready by the hollow thump of the crust. In later months, she helped a servant. She was so excited when her mother let her shape the loaves for the first time. The dough felt soft and stretchy as her mother guided her small hands, still warm from the hearth, pressing just enough to make the surface smooth.
+The hall’s outside oven smelt of wood smoke and fresh bread twice a week. At first, Beatrice learnt from her mother how to tell when bread was ready by the hollow thump of the crust. In later months, she helped a servant. She was so excited when Mother let her shape the loaves for the first time. The dough felt soft and stretchy as her mother guided her small hands, still warm from the hearth, pressing just enough to make the surface smooth.
 
-Her mother, Aldwina, taught her which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer's broken limb, and a tea of lemon balm could lift a heavy heart. She learned the hard way that foxglove was a fickle friend that could either steady a racing pulse or stop it cold. She never forgot the day she reached for that wrong jar and felt her mother's hand close over hers, firm, silent and sure.
+Her mother, Aldwina, taught her which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer's broken limb, and lemon balm could lift a heavy heart. She learnt the hard way that foxglove was a fickle friend that could either steady a racing pulse or stop it cold. She never forgot the day she reached for that wrong jar and felt her mother's hand close over hers, firm, silent, and sure.
 
 Beatrice learnt how to soothe a crying child with a cool hand and a soft word. How much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter. Most importantly, she learnt how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
 
@@ -312,25 +312,25 @@ Then Mother grew tired, then pale, and then thin.
 
 ---
 
-### Her fingers on the petals
+### Thin fingers on the petals
 
-It was a slow fading, like the light at the end of a long day. Some mornings her mother seemed almost herself—sitting up, asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow.
+It was a slow fading, like the light at the end of a long day. Some mornings her mother seemed almost herself, able to lie outside in the golden sunshine, sitting up and asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow in her sleeping chamber.
 
-Harold was there. Always.
+Beatrice would feed her broth with milk, thyme, wild oregano, and garlic from the garden on the rise. She would make sweet tea from licorice root dug from the soft, silty earth by the Welland. 
 
-Beatrice would find him in the doorway of the sleeping chamber, watching, his great warrior’s hands hanging useless at his sides. He tried to help—lifting her, bringing water, smoothing the blankets—but his wife smiled at him with such gentle patience that he seemed to shrink.
+Her father was often in the doorway of the chamber, watching, his great warrior’s hands hanging useless at his sides. He tried to help with carrying her outdoors, bringing her water, or smoothing the blankets, but his wife smiled at him with such gentle patience that he seemed to shrink.
 
-“Go and tend the fire, husband. Beatrice will stay with me.”
+“Tend the fire, Harold. Beatrice will stay with me.”
 
-And he would go. Only years later would Beatrice understand: her mother was telling her father to rest, and that he needed to care for himself now.
+And he would go, the soft rhythm of snoring soon drifting from his chair by the hearth. Only years later would Beatrice understand: her mother was telling Father to rest, and that he needed to care for himself now.
 
-On such occasions, her mother would speak quietly of things to come. 
+On such occasions, Mother would speak quietly of things to come. 
 
 “In a few years, Beatrice, your body will change. Do not be afraid or ashamed when it comes. One day you will bleed, and it will be natural, no wound, no sickness. It is the mark of womanhood. Wash yourself, rest if you can, and know that every woman before you has felt the same.”
 
 Beatrice brought apple blossoms once, when the trees first bloomed. She laid them on the pillow, and her mother’s thin fingers touched the petals.
 
-“They smell like spring,” her mother whispered. “Like the year you were born.”
+“They smell like spring,” Aldwina whispered one evening. “Like the year you were born.”
 
 Beatrice rarely knew how to respond. She would hold Goosie close, and the goose would press its warm head against her neck.
 
