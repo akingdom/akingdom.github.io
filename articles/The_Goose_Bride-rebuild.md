@@ -425,30 +425,38 @@ Beatrice did not argue. She brought him a blanket and tucked it around his shoul
 After, she lay awake for a long time in her bed, listening, turning, unable to settle. The house was too quiet. No soft breathing from the sleeping chamber. No footsteps crossing the hall. Just the settling of the timbers and the distant cry of an owl.
 
 ---
-
+
 ### The empty pillow
 
-In the morning, she found him still in the chair, his cloak pulled tight. His staghound lay like a grey ghost across her father’s feet, its heavy muzzle pinning his toes to the floor. The dog didn't lift its head to greet her; it only watched her with wide, yellow eyes, its tail giving a few, heavy thuds against the rushes—a quiet pulse in a room that felt as though it had stopped breathing.
+In the morning, Beatrice awoke and found her father fast asleep in his chair, his staghound lying like a grey ghost across his feet. The dog gave a few heavy thuds of its tail, watching her with wide, yellow eyes.
 
-Her father did not sleep in the bed for a month. Each night, he settled into the chair by the hearth, and each morning she found him there, stiff and silent. She did not press him. Instead, she went about the work of the house: she kneaded the bread, she swept the rushes, she tended the fire, she fed the geese. She did not worry him to ask permission. She simply did what needed doing.
+And so began the regular pattern of their life. Each night her father settled into the chair by the hearth. During the day she went about the work of the house: she kneaded the bread, swept the rushes, tended the fire, and fed the geese. She neither questioned him nor asked permission. She simply did the next thing, as she had always done.
 
-The sweet scent of her mother faded from the linens over the month, ghosting away until the bed was just stale straw and cold fabric. While her father was in the yard, Beatrice changed the bedding. She washed the blankets in the river and beat them dry on the stones, cleansing the grief from the wool, then folded her mother’s things into the chest at the foot of the bed. She did not tell him. She simply did it.
+The sweet scent of her mother faded from the linens over the month that followed, until the bed was only stale straw and cold fabric.
 
-When he came inside and saw the fresh linen, the neatened chest, the bed made clean, he stopped in the doorway.
+And so came the day when it seemed right to change the bedding. While her father was out in the village, she washed the blankets in the river and beat them dry on the stones, then folded her mother's things into the chest at the foot of the bed. She did not tell him. She simply did it.
 
-“Thank you,” he said. The first words he had spoken to her that day.
+When he returned and saw the change, he stopped with a sharp intake of air. For a moment his face was unreadable. Then he noted the fresh linen, the neatened chest, the bed made clean, and the cut flowers in his wife's favourite vase. He did not speak at once. The silence stretched, and Beatrice felt the weight of it press against her chest.
+
+He crossed the room slowly, sat on the edge of the bed, and put his hand on the pillow where Aldwina’s head had rested. He sat there for a long time. 
+
+Beatrice opened her mouth to speak, then closed it. Instead, she busied herself with her usual tasks, leaving him be. 
+
+Much later, she heard him sobbing quietly from his chair by the hearth.
+
+That evening, when at last she sat down to rest, she heard his approach and felt his hand come to rest on her shoulder. She looked up, uncertain what to expect. His face was tired but open.
+
+“Thank you,” he said. The first words he had spoken to her in several days.
 
 She nodded. “The fire is lit. The bed will be warm.”
 
-He crossed the room slowly, sat on the edge of the bed, and put his hand on the pillow where her mother’s head had rested. He sat there for a long time.
-
-Late that night Beatrice heard him sobbing quietly.
+That night, as she lay in her own bed, she heard the creak of the bed in the sleeping chamber. The thought came to her, clear and quiet: *Father crossed the threshold all by himself*.
 
 ---
 
 ### Goosie follows, always
-
-In the morning, her father looked refreshed, but frail.
+
+In the morning, Beatrice’s father looked refreshed, but frail.<<< I'd like to reframe this as a milestone, a shift in focus, preempting the teaching and husband hunting, more a 'king on his throne' type of mood leading into the following (though harold is not a king of course).
 
 Above the hearth, the sword that had carved through shield walls hung: a broad, straight-edged Saxon blade. It was pattern-welded, the steel showing a faint ripple. The lobed pommel was iron, and the grip was worn smooth by his father’s hand. But now it seemed like someone else’s memory, another lifetime.
 
