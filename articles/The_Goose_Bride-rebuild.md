@@ -119,7 +119,7 @@ She turned back to thank the boy, but he was already gone.
 
 ### My mother’s hand on my head
 
-Her mother scooped her up, laughing. “Did you find the geese?”
+Beatrice’s mother scooped her up, laughing. “Did you find the geese?”
 
 “The geese found *me*, Mother. Why were they chasing me?”
 
