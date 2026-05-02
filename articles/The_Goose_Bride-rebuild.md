@@ -320,7 +320,7 @@ Beatrice would feed her broth with milk, thyme, wild oregano, and garlic from th
 
 Her father was often in the doorway of the chamber, watching, his great warrior’s hands hanging useless at his sides. He tried to help with carrying her outdoors, bringing her water, or smoothing the blankets, but his wife smiled at him with such gentle patience that he seemed to shrink.
 
-“Tend the fire, Harold. Beatrice will stay with me.”
+“Tend the fire for me, Harold. Beatrice will stay here.”
 
 And he would go, the soft rhythm of snoring soon drifting from his chair by the hearth. Only years later would Beatrice understand: her mother was telling Father to rest, and that he needed to care for himself now.
 
@@ -332,7 +332,7 @@ Beatrice brought apple blossoms once, when the trees first bloomed. She laid the
 
 “They smell like spring,” Aldwina whispered one evening. “Like the year you were born.”
 
-Beatrice rarely knew how to respond. She would hold Goosie close, and the goose would press its warm head against her neck.
+Beatrice seldom knew how to respond. She would hold Goosie close, and the goose would press its warm head against her neck.
 
 ---
 
@@ -348,15 +348,15 @@ He was in the doorway of the sleeping chamber, not crossing the threshold, just 
 
 Beatrice looked in.
 
-Her mother lay still. Too still. Her eyes were closed, her hands folded.
+Mother lay there with her eyes closed, her hands folded in the stillness.
 
-Beatrice didn’t cry. She went in and knelt beside the bed and put her cheek against her mother’s hand. It was oddly cool to touch. Not cold yet. Just cool.
+Beatrice went in and knelt beside the bed and felt her mother’s wrist, but there was no telltale throb of life. She did not cry, but put her cheek against the hand. It was oddly cool to the touch—not cold yet, just cool.
 
-Behind her, Harold made a sound she had never heard before and would never hear again. A sound that didn’t belong to the man who had crossed blades with rebels and dragged drowning lords from rivers.
+There was a sound behind her, a sound she had never heard before and would never hear again; it was a sound that didn’t belong to the man who had crossed blades with rebels and dragged drowning lords from rivers.
 
 She couldn’t turn around. She wouldn’t. Yet she did.
 
-She lifted Goosie—who had followed, always—and held her so that the goose’s head rested against her father’s shaking shoulder.
+She lifted Goosie, who had followed her, always, and held her so that the goose’s head rested against her father’s shaking shoulder.
 
 “There,” she whispered. “She knows you.”
 
@@ -364,66 +364,68 @@ She lifted Goosie—who had followed, always—and held her so that the goose’
 
 ### The geese knew her, but she was gone
 
-At the burial, Harold stood like a man made of stone. His hands were on Beatrice’s shoulders—heavy, warm, the only warm thing—but he didn’t speak. Didn’t move. Just watched as they slid the plain wooden box into the hollow of the stone. There was no scent of wet earth here, only the bite of lime-dust and the hollow scrape of wood on rock that echoed off the vaulted ceiling. When the lid vanished into the shadows of the niche, the silence that followed felt heavier than the ground itself.
+At the burial, Harold stood still. His hands were on Beatrice's shoulders, heavy and warm. He didn't speak, but watched as they slid the plain wooden box into the hollow in the stone.
 
-Beatrice ran out the door like a bird flying away. Goosie flapped alongside her, wings half-spread and honking in a frantic, confused rhythm. She bolted through the village, through the orchard, and the open fields, her breath coming in ragged stabs.
+There was no scent of wet earth, only the musty smell of stone-dust and the hollow scrape of wood on rock that echoed off the vaulted ceiling. Here was silence pressed down by the lid vanishing into the shadows of the niche.
 
-She ran until her lungs burned and her legs turned to lead. Doubled over, she clutched her knees and waited for the horizon to stop heaving.
+It was all too much for Beatrice, who burst away from everyone like a startled bird. Goosie flapped alongside her, wings half-spread and honking in a frantic, confused rhythm. She bolted through the village cottages, through the meadow, her breath coming in ragged stabs.
+
+Beatrice ran until her lungs burned and her legs turned to lead. Doubling over, she clutched her knees and waited for the horizon to stop heaving.
 
 When she finally straightened, the world was still, and she was staring over the river at the farm by the bend.
 
-The farm woman was there, by the poultry shed. She looked up, saw Beatrice’s face, and said nothing. Just nodded once and went back to her work.
+The farm woman was there, by the poultry shed. She looked up, saw Beatrice’s face, and said nothing. She just nodded once and went back to her work.
 
-The apple trees over there were still blooming, white petals drifting on the wind down to the river. Beatrice hated them for their indifference. She would gladly have stripped every twig bare, if stripping the trees could bring her mother back. 
+The apple trees in the orchard over there were still blooming, white petals drifting shamelessly on the wind. They seemed to be all dressed up for a celebration that she wasn't a part of, and Beatrice hated them for their indifference. She would gladly have stripped every twig bare of its fine frills, if stripping trees could have brought her mother back. But the wind merely danced across the river, and all she could hear was the wordless song of the river among the rushes.
 
-Beatrice stood there for a long time, watching geese ignore her completely, Goosie pressed against her leg.
+Beatrice stood there for a long time, watching the geese on the far bank as they ignored her completely. She wondered how geese felt about their mothers.
 
-The geese knew her now, who she was. That was something, at least. She wondered how geese felt about their mothers.
+Goosie pressed against her leg.
 
 ---
 
 ### The hall without her voice
 
-She wandered about aimlessly, eventually finding herself back home, stopping at the edge of the clearing. 
+Beatrice lost track of time, wandering aimlessly, and eventually found herself staring at the place she called home, from across the clearing. 
 
-The hall looked smaller than she remembered. Or perhaps it was that something had gone out of it—her mother’s presence, the warmth of her voice—and without that, the timber and thatch were only timber and thatch, a shell with the life drained out.
+She half-expected to hear her mother’s familiar warm voice calling her name. She sighed. The hall seemed smaller than before. Her father stood waiting in the doorway, rubbing his chest with a clenched fist, as if holding something in place that might otherwise escape.
 
-In the doorway, her father’s figure no longer seemed the tall man she was so used to; just… leaning, like bones stacked up. One hand was braced against the frame, the other pressed flat against his chest, as if holding something in place that might otherwise escape, staring at the sky.
-
-He saw her, and let out a long, deep sigh, momentarily averting his gaze from her to hide the overwhelming pain of loss, before attempting a borrowed smile.
+He saw her and let out a long, shuddering sigh. He looked away for a moment before attempting a borrowed smile.
 
 Beatrice crossed the clearing and took his hand. It was cold.
 
 “I’m here, Father.”
 
-He nodded. His eyes were dull, as though he had retreated from the outside world and withdrawn inside himself.
-
-She led him inside. Goosie followed.
-
 ---
 
 ### A blanket and a cold hand
 
-That night, Beatrice built up the fire and sat with him until the logs burned down to ash. He did not speak. Neither did she. When the room grew too dark to see, she touched his arm and guided him towards the sleeping chamber.
+That night, Beatrice built up the fire and kept her father company. She spoke little, and he less.
 
-He stopped at the threshold.
+Once the logs had burnt down, a servant came to rake the embers and then withdrew.
 
-She saw it then: the bed where her mother had died. The blankets were still rumpled from the morning she had been found. No one had touched them.
+Beatrice touched her father's arm.
+
+“Father. You should try to rest.” He nodded, and she followed him towards the sleeping chamber.
+
+Harold stopped abruptly at the threshold.
+
+Beatrice saw it then: the bed where Mother had laid. The blankets were still rumpled from the morning she had been found. 
 
 “I’ll change the linens tomorrow,” Beatrice said.
 
-He shook his head slowly. He did not move.
+He looked at her gravely before slowly shaking his head and whispering, “I can’t.”
 
-She waited.
+She waited, uncertain what she should do.
 
-Finally, he turned and walked to the chair by the cold hearth in the main hall. He sat down, pulled his cloak around him, and closed his eyes.
+Finally, he turned and walked back to the chair by the cold hearth in the main hall, and there he closed his eyes.
 
-Beatrice did not argue. She brought him a blanket, tucked it around his shoulders, and went to her own bed.
+Beatrice did not argue. She brought him a blanket and tucked it around his shoulders.
 
-She lay awake a long time, listening. The house was too quiet. No soft breathing from the sleeping chamber. No footsteps crossing the hall. Just the settling of the timbers and the distant cry of an owl.
+After, she lay awake for a long time in her bed, listening, turning, unable to settle. The house was too quiet. No soft breathing from the sleeping chamber. No footsteps crossing the hall. Just the settling of the timbers and the distant cry of an owl.
 
 ---
-
+
 ### The empty pillow
 
 In the morning, she found him still in the chair, his cloak pulled tight. His staghound lay like a grey ghost across her father’s feet, its heavy muzzle pinning his toes to the floor. The dog didn't lift its head to greet her; it only watched her with wide, yellow eyes, its tail giving a few, heavy thuds against the rushes—a quiet pulse in a room that felt as though it had stopped breathing.
