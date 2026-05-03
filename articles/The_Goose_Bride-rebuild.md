@@ -455,18 +455,40 @@ That night, as she lay in her own bed, she heard the creak of the bed in the sle
 ---
 
 ### Goosie follows, always
-
-In the morning, Beatrice’s father looked refreshed, but frail.<<< I'd like to reframe this as a milestone, a shift in focus, preempting the teaching and husband hunting, more a 'king on his throne' type of mood leading into the following (though harold is not a king of course).
 
-Above the hearth, the sword that had carved through shield walls hung: a broad, straight-edged Saxon blade. It was pattern-welded, the steel showing a faint ripple. The lobed pommel was iron, and the grip was worn smooth by his father’s hand. But now it seemed like someone else’s memory, another lifetime.
+In the morning, the hall was still and cold. Beatrice rose to rebuild the fire and found her father already sitting in his chair, looking up.
 
-The familiar bounce in his step was no more. The man who had led hundreds now sat by the fire with his staghound, watching his daughter run the manor without har being asked.
+Above the hearth hung a sword, broad and straight-edged. It was pattern-welded and showed a faint ripple. The lobed iron pommel and grip were worn smooth by his own father’s hand. This true Saxon blade had carved through shield walls, yet now it seemed a memory, like another man's life long ago.
 
-Beatrice had bright eyes, a quick wit, and a habit of speaking her thoughts aloud before deciding whether she ought to. But she learnt to watch for the signs—the way he’d pause at the door, the way his hand would go to his chest after climbing the slope from the village. She didn’t say anything. What was there to say?
+“Daughter, fetch my sword down for me,” he said. After a thought, he added, “carefully.”
 
-As red and golden leaves fell from the trees, she saw to the villagers’ *boon-days*, ensuring that the harvest labour they owed Lord Harold was met. She oversaw the *brewing-house* and the *buttery*, and she tended the sick with herbs and medicine, the way her mother had taught her.
+She took up a stool and set it beside the hearth, stepped up, and lifted the sword from its pegs. It was heavier than it looked, the scabbard cool against her fingers and smelling faintly of old iron and leather. She climbed down and offered it to him. He took it, drew the blade an inch from the scabbard without looking, his hands reliving the weight of it.
 
-And Goosie followed her. Always.
+“This blade needs tending,” he said. “Come, daughter. Walk with me.”
+
+The morning was sharp and clear, the ground hard with frost. Goosie waddled ahead of them down the lane, pausing now and then to peck at something invisible in the grass. Harold walked slowly, the sword cradled in the crook of his arm, but his pace was steady, and he did not stop to rest.
+
+They reached the smithy as the smith was pumping his bellows, the coals hissing to life. He held up a hand without turning. 
+
+“Shan't be a moment, Lord.” He plunged a piece of iron into the fire and watched it glow, then set it aside and wiped his hands on his apron. 
+
+Harold laid the sword on the anvil and spoke quietly with the man about a clean and a fresh wrap for the grip.
+
+Beatrice stood a little apart, watching her father's hands move as he described the work. They were still the hands of a warrior, even if they no longer held a blade in battle. She had seen him leave for war when she was small; she did not need to see him fight again.
+
+On the walk back, Harold fell silent. He watched his daughter as she walked beside him—the girl who had run the manor without being asked, whose bright eyes missed little, whose quick wit sometimes outpaced her judgment, who still spoke her thoughts aloud before deciding whether she ought to. She had been doing a woman's work on a child's shoulders, and he had not told her it mattered. He had been too hollowed out to see it.
+
+"The hall looks well," he said at last. "Your mother would have been proud."
+
+Beatrice looked down at the track. "I tried to do what she would have done."
+
+Harold thought of the months since Aldwina's death—the red and golden leaves falling, the *boon-days* Beatrice had seen to, the harvest labour she had overseen, the *brewing-house* and the *buttery*, the sick she had tended the way her mother had taught her. All of it done without complaint, without being asked.
+
+“You have done well, Beatrice”
+
+They walked on and Harold almost smiled. 
+
+And Goosie followed. Always.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
