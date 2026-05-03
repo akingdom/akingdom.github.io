@@ -87,7 +87,7 @@
 
 ## Chapter 1 ⬩ The geese know a stranger’s fear
 
-Beatrice bounded across the meadow, crying, her legs driven forward by a flock of geese, the gander hissing at the intruder, neck low, wings half-spread, leading the furious chase.
+Beatrice bounded across the meadow, crying, her legs driven forward by a flock of geese, the gander hissing at the intruder, its neck low, wings half-spread, leading the furious chase.
 
 Her mother and father were nowhere in sight.
 
@@ -95,11 +95,11 @@ Then a hand caught her arm.
 
 “Don’t move.”
 
-A boy stood beside her, older by a few years, well-dressed, calm in a way that seemed impossible. He stared down the geese, spread his arms wide, his cloak opening like great wings.
+A boy stood beside her, well-dressed and calm in a way that seemed impossible. He stared down the geese, spreading his arms wide, his cloak opening like great wings.
 
-The geese slowed. Hissed uncertainly. Then, one by one, they turned and waddled back towards the pond.
+The geese slowed and hissed uncertainly. Then, one by one, they turned and waddled back towards the pond.
 
-The girl stared after them, mouth open, panting hard, hands on hips.
+The girl stared after them, mouth open, panting hard. Her heart was still hammering in her chest. She wiped her eyes with the back of her sleeve. It took a few moments to catch her breath.
 
 “How... how did you do that?”
 
@@ -111,9 +111,9 @@ The boy just stared at her with an odd expression.
 
 A woman’s voice called from the edge of the meadow. “Beatrice?! Come here!”
 
-“Oh. Coming, Mother!”
+Beatrice turned towards the voice. "Oh. Coming, Mother!"
 
-She turned back to thank the boy, but he was already gone.
+She looked back to thank the boy, but the meadow where he had stood was empty. She scanned the grass, the reeds, the edge of the pond. Nothing. He was *gone*.
 
 ---
 
@@ -156,7 +156,7 @@ She led them to the poultry shed where several geese sat. Inside the doorway, be
 
 Beatrice's interest was in a smaller goose. 
 
-The farm woman nodded. “Ah. A wild egg. I saw a fox take the wild mother from its nest down by the river. The goose in the corner isn’t the sitting kind. She won’t see it through.”
+The farm woman nodded. “Ah. A wild egg. I saw a fox take the mother from its nest down by the river. The goose in the corner isn’t the sitting kind. She won’t see it through.”
 
 Mother leant in, her eyes scanning the quiet, grey birds in the main nesting area by the door. “Look here, Beatrice. These eggs are from the marsh-mother. They’ll hatch into well-behaved birds that stay near the hall and not try to fly the fence every time the wind changes.”
 
