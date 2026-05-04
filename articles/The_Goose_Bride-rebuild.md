@@ -87,54 +87,70 @@
 
 ## Chapter 1 ⬩ The geese know a stranger’s fear
 
-Beatrice bounded across the meadow, crying, her legs driven forward by a flock of geese, the gander hissing at the intruder, its neck low, wings half-spread, leading the furious chase.
-
-Her mother and father were nowhere in sight.
-
-Then a hand caught her arm.
+A hand caught her arm.
 
 ‘Don’t move.’
 
-A boy stood beside her, well-dressed and calm in a way that seemed impossible. He stared down the geese, spreading his arms wide, his cloak opening like great wings.
+Beatrice could no longer run anyway. The grip hurt. She tried to pull free and could not. The face above her was a boy’s face, pale, and he was looking past her.
 
-The geese slowed and hissed uncertainly. Then, one by one, they turned and waddled back towards the pond.
+She followed his gaze and saw white feathers and hissing orange beaks. The gander so close now that she could see the black of his tongue.
 
-The girl stared after them, mouth open, panting hard. Her heart was still hammering in her chest. She wiped her eyes with the back of her sleeve. It took a few moments to catch her breath.
+*I got too close.*
 
-‘How... how did you do that?’
+The boy was already past her, larger than life with his dark cloak spread wide to block the geese. She had not seen him move. One moment he was holding her; the next he was a wall between her and the birds.
 
-‘My father owns all the geese. My nurse keeps them.’
+The gander stopped, orange feet skidding in the mud. The hiss died in his throat as the birds behind him collided, squawked, and fell silent.
 
-She dried her eyes. ‘Don’t be silly! How can someone own *all* the geese?’
+Beatrice stared. Her mouth opened and no sound came, except her panting breath.
 
-The boy just stared at her with an odd expression.
+One by one they turned and waddled back towards the pond.
 
-"Beatrice?! Come here!" A woman called from the edge of the meadow, shielding her eyes from the sun with one hand.
+She stood in the quiet. Her heart was beating in her teeth. Her legs were still shaking.
 
-Beatrice turned towards the voice. "Oh. Coming, Mother!"
+‘How did you do that?’
 
-She looked back to thank the boy, but the meadow where he had stood was empty. She scanned the grass, the reeds, the edge of the pond. Nothing. He was *gone*.
+She wiped her nose on the back of her sleeve and stared at the boy, who was brushing a feather from his tunic as if he had stepped over a puddle.
 
----
+‘My father owns all the geese,’ he said matter‑of‑factly. ‘My nurse keeps them.’
 
-### My mother’s hand on my head
+Beatrice frowned.
 
-Beatrice’s mother scooped her up, laughing. ‘Did you find the geese?’
+‘Don’t be silly; no one owns all the geese. They belong to the river.’
+
+The boy watched her with pale eyes, not in anger, not with amusement, but something she had no word for.
+
+‘Beatrice! Come here!’
+
+She turned towards the voice. Her mother was a small figure at the meadow’s edge, her hand shielding her eyes against the sun.
+
+‘Coming, Mother!’
+
+She looked back, but the boy was gone.
+
+She scanned the horizon, the reeds, the silver water, the dark line of the trees. Nothing to say that she hadn’t imagined him, except that the geese were still retreating and her arm still ached.
+
+She walked towards her mother. Her legs were unsteady.
+
+Her mother scooped her up, laughing. ‘Did you find the geese?’
 
 ‘The geese found *me*, Mother. Why were they chasing me?’
 
-‘It's likely because they don’t know you, dear.’
+‘You aren’t part of their flock, dear. They don’t know you yet, that’s all.’
 
-Beatrice sniffled. ‘Then can I have one of my own, Mother? So it knows me?’
+Beatrice sniffled. The boy’s words were still there, lodged somewhere beneath her ribs. *My father owns all the geese.* As if a person could own a wild thing.
 
-Her mother gave a warm, tired smile. ‘We’ll raise one together. I’ll teach you.’
+‘Could they?’ she murmured. ‘Mother, I should like to have a goose that knows me.’
+
+Her mother looked down at her, and her tired face softened into a loving look Beatrice would remember for the rest of her life.
+
+‘We’ll raise one together,’ she said. ‘I’ll teach you.’
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
 ## Chapter 2 ⬩ A speckled egg warm in the straw
 
-Three days later, Mother took Beatrice’s hand and walked her down the lane towards the river.
+Mother was as good as her word. Three days later, she took Beatrice’s hand and they walked down the lane towards the river.
 
 ‘Where are we going?’
 
@@ -154,7 +170,7 @@ She led them to the poultry shed where several geese sat. Inside the doorway, be
 
 ‘This one,’ the woman said. ‘Due to hatch within the fortnight.’
 
-Beatrice's interest was in a smaller goose. 
+Beatrice’s interest was in a smaller goose. 
 
 The farm woman nodded. ‘Ah. A wild egg. I saw a fox take the mother from its nest down by the river. The goose in the corner isn’t the sitting kind. She won’t see it through.’
 
@@ -164,9 +180,9 @@ A small, hard line appeared between Beatrice’s brows. It was the same look her
 
 ‘I want the one from the reeds,’ she said, crossing her arms.
 
-Mother looked at the larger, bone-coloured egg, then back at her daughter's determined face. She didn't argue. Instead, she knelt in the straw, checking the warmth of the stray egg with the back of her hand.
+Mother looked at the larger, bone-coloured egg, then back at her daughter’s determined face. She didn’t argue. Instead, she knelt in the straw, checking the warmth of the stray egg with the back of her hand.
 
-‘We’ll need a hen,’ Mother said softly. ‘A broody one who won't mind the size of it. If it doesn’t hatch, we'll come back and choose another.’
+‘We’ll need a hen,’ Mother said softly. ‘A broody one who won’t mind the size of it. If it doesn’t hatch, we’ll come back and choose another.’
 
 ‘I want this one, Mother! Please.’
 
@@ -304,7 +320,7 @@ Each morning, she helped move the goats, driving the iron pickets with a heavy m
 
 The hall’s outside oven smelt of wood smoke and fresh bread twice a week. At first, Beatrice learnt from her mother how to tell when bread was ready by the hollow thump of the crust. In later months, she helped a servant. She was so excited when Mother let her shape the loaves for the first time. The dough felt soft and stretchy as her mother guided her small hands, still warm from the hearth, pressing just enough to make the surface smooth.
 
-Her mother, Aldwina, taught her which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer's broken limb, and lemon balm could lift a heavy heart. She learnt the hard way that foxglove was a fickle friend that could either steady a racing pulse or stop it cold. She never forgot the day she reached for that wrong jar and felt her mother's hand close over hers, firm, silent, and sure.
+Her mother, Aldwina, taught her which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer’s broken limb, and lemon balm could lift a heavy heart. She learnt the hard way that foxglove was a fickle friend that could either steady a racing pulse or stop it cold. She never forgot the day she reached for that wrong jar and felt her mother’s hand close over hers, firm, silent, and sure.
 
 Beatrice learnt how to soothe a crying child with a cool hand and a soft word. How much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter. Most importantly, she learnt how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
 
