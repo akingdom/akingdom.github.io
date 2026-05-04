@@ -93,7 +93,7 @@ A hand caught her arm.
 
 Beatrice could no longer run anyway. The grip hurt. She tried to pull free and could not. The face above her was a boy’s face, pale, and he was looking past her.
 
-She followed his gaze and saw white feathers and hissing orange beaks. The gander so close now that she could see the black of his tongue.
+She followed his gaze and saw only white feathers and hissing orange beaks. The gander so close now that she could see the black of his tongue.
 
 *I got too close.*
 
