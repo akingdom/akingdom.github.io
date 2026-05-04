@@ -6583,7 +6583,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **assart** (pl. assarts; Cleared forest land)
 - **barrow** (pl. barrows; Burial mound)
 - **carucate** (pl. carucates; Ox-plough land unit)
-- **chase** (pl. chases; Private hunting forest)
+- **chase** (pl. chases; Private hunting forest, also hunt, pursue)
 - **commons** (Shared land)
 - **ell** (pl. ells; Unit of length)
 - **forester** (pl. foresters; Forest official)
