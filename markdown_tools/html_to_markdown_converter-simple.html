@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML to Markdown Converter</title>
+    <style>
+        /* Full viewport, no page scroll */
+        html, body {
+            height: 100%;
+            margin: 0;
+            overflow: hidden;            /* prevents body scrolling */
+        }
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            box-sizing: border-box;      /* padding included in height calculation */
+            display: flex;
+            flex-direction: column;
+        }
+        textarea {
+            width: 100%;
+            height: 200px;               /* fixed height for input area */
+            margin-bottom: 10px;
+            flex-shrink: 0;              /* never shrink the textarea */
+            box-sizing: border-box;      /* keeps width inside padding */
+        }
+        button {
+            margin-bottom: 10px;
+            flex-shrink: 0;
+        }
+        pre {
+            display: block;
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            padding: 10px;
+            overflow-wrap: break-word;
+            white-space: pre-wrap;
+            /* Take up remaining space and scroll internally */
+            flex: 1 1 auto;
+            overflow-y: auto;            /* vertical scrollbar when needed */
+            min-height: 0;               /* allow flex to shrink below content height */
+            max-width: 100%;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML to Markdown Converter</h1>
+    <textarea id="htmlInput" placeholder="Paste your HTML code here..."></textarea>
+    <button onclick="convertToMarkdown()">Convert</button>
+    <pre id="markdownOutput"></pre>
+
+    <script src="html_to_markdown_converter-simple.js"></script>
+</body>
+</html>
