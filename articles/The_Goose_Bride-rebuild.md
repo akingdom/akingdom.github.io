@@ -150,12 +150,6 @@ Her mother looked down at her, and her tired face softened into a loving look Be
 
 ## Chapter 2 ⬩ A speckled egg warm in the straw
 
-You're right, and I apologise. Here is the corrected opening with curly single quotes throughout.
-
----
-
-## Chapter 2 ⬩ A speckled egg warm in the straw
-
 Three days later, a hand shook Beatrice awake.
 
 ‘Get up, Beatrice.’
