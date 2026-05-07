@@ -93,9 +93,11 @@ A hand caught her arm.
 
 Beatrice could no longer run anyway. The grip hurt. She tried to pull free and could not. The face above her was a boy’s face, pale, and he was looking past her.
 
+‘Keep still.’
+
 She followed his gaze and saw only white feathers and hissing orange beaks. The gander so close now that she could see the black of his tongue.
 
-*I got too close.*
+*I got too close to the geese.*
 
 The boy was already past her, larger than life with his dark cloak spread wide to block the geese. She had not seen him move. One moment he was holding her; the next he was a wall between her and the birds.
 
@@ -154,19 +156,19 @@ Three days later, a hand shook Beatrice awake.
 
 ‘Get up, Beatrice.’
 
-She blinked a few times. Mother was standing by the bed, a shawl around her shoulders, her breath clouding in the chilly dawn, the faint smell of the wood oven clinging to her. 
+She blinked a few times. Mother was standing by the bed, a shawl around her shoulders, her breath clouding in the chilly dawn, and the faint smell of the wood oven clinging to her. 
 
 ‘What is it?’ Beatrice asked, still half‑asleep.
 
 ‘We are going to get your goose today. Come now, before the morning is gone.’ Mother turned and left her. She was as good as her word. 
 
-The straw‑filled mattress rustled as Beatrice sat up, shivering, and put her bare feet on the cold flagstones. Across the hall, beyond the rippling alcove-curtain that screened her sleeping corner from the rest of the household, she could hear the servants stirring. From beyond the inner door came the low murmur of her father's voice and the creak of leather as he pulled on his boots.
+The straw‑filled mattress rustled as Beatrice sat up, shivering, and put her bare feet on the cold flagstones. Across the hall, beyond the rippling alcove-curtain that screened her sleeping corner from the rest of the household, she could hear the servants stirring. From beyond the inner door came the low murmur of her father’s voice and the creak of leather as he pulled on his boots.
 
 Beatrice dressed quickly, her cold fingers fumbling with the ties of her tunic in the dim light. The rush‑light had long since burned out, and only the soft glow of embers from the hearth gave shape to the room. Beatrice rushed over to warm her hands. A goat bleated somewhere outside, and the rooster crowed in the yard.
 
 Soon after, she and Mother stepped outside into the thin morning light. The lane was empty and the sky was white. Beatrice walked beside her mother, her small hand tucked into a larger one, her legs still stiff with sleep. She did not know where they were going, but her mother’s hand was warm and her step was certain, and that was enough.
 
-The farm sat by the river bend, just where the meadow gave way to reeds. Geese wandered everywhere—white and grey, hissing and honking—but today they ignored the two figures walking down the lane. Beatrice stayed close to her mother’s skirt.
+The farm sat by the river bend, just where the meadow gave way to reeds. Geese wandered everywhere. White ones, grey ones, piebald and speckled, hissing and honking, but importantly they ignored the two figures walking down the lane. Beatrice stayed close to her mother’s skirt.
 
 A woman came out of the farmhouse, wiping her hands on her apron. She looked at them both with calm, measuring eyes.
 
@@ -221,15 +223,15 @@ Beatrice walked home holding the basket, barely breathing, as if the smallest mo
 
 ## Chapter 3 ⬩ Fourteen nights of listening
 
-For two weeks, Beatrice watched.
+The hen sat in her basket near the warm hearth, feathers fluffed, eyes half‑closed. She was a small, fierce‑looking thing with plumage the colour of autumn leaves, and she regarded the world with the suspicion of a creature who had been sitting on stones for a week and was not about to be impressed by anything softer.
 
-The hen sat in her basket by the hearth, feathers fluffed, eyes half-closed. 
+For two weeks, Beatrice watched and waited.
 
-‘She needs to know you are part of her flock,’ explained Mother. ‘Bring her food and spend time with her, but be sure not to unsettle her.’
+Each morning she brought a handful of grain and a shallow dish of water. The hen ate with quick, precise movements, never lingering, never leaving the egg longer than necessary. Beatrice talked to her while she worked—about the geese in the meadow, about the bread her mother was baking, about the boy with the cloak who had vanished before she could thank him. The hen listened with the same expression she gave everything: sceptical, patient, entirely unimpressed.
 
-So the hen ate when Beatrice offered food, drank when a dish was placed before her, listened patiently to Beatrice’s chatter, but never once left the egg.
+‘She needs to know you’re part of her flock,’ Mother said. ‘Bring her food. Spend time with her. But don’t unsettle her.’
 
-‘She knows,’ Mother said. ‘She’ll feel it when it’s time.’
+So Beatrice sat beside the basket while the fire crackled and the hen dozed, and she learned the particular stillness of a creature whose whole purpose was waiting.
 
 And every night, before bed, she knelt by the basket and pressed her ear close.
 
@@ -239,29 +241,33 @@ And every night, before bed, she knelt by the basket and pressed her ear close.
 
 Then, on the fourteenth night, as the sun set and the stars came out, the hen stirred.
 
+She shifted. She clucked, low and soft, a sound Beatrice had never heard her make before. She ruffled her feathers and settled again with a strange new tension in her body, as if she were listening to something only she could hear.
+
 Beatrice called for Mother.
 
-They sat together in the firelight, watching. Then they heard it, a thin peeping sound.
+They sat together in the firelight, watching. The hen shifted once more, and then—so faint Beatrice thought she had imagined it—a thin, peeping sound.
 
 ‘Has it hatched, Mother?’
 
-‘Not yet, dear. Be very careful not to scare the hen and the chick should hatch tomorrow or the next day.’
+‘Not yet. But it’s close. Sit very still.’
 
-Mother patted Beatrice’s head and left her to watch. 
+Time slowed. The fire settled with a soft hiss. The hen rose slightly, adjusted the egg beneath her with her beak, and settled again. The peeping grew stronger, more insistent, a tiny voice demanding entry into the world.
 
-It was a whole two days later when the hen shifted, clucked softly, shifted again. 
+Then, quite suddenly, the hen stood.
 
-For Beatrice it seemed as though a whole year had passed. She held her breath as a small fluffy, bewildered head emerged from the front of the hen and blinked at the world. The gosling made a sound, small and questioning.
+She stepped aside, not far, just enough to make room. Beneath her, the egg rocked. A crack appeared, fine as a thread. Another. A wet, wobbly head emerged, too large for the body that followed it, blinking at a world that was all firelight and shadow and the warm bulk of the hen who had kept it safe.
 
-Beatrice looked at her mother.
+Beatrice held her breath.
 
-‘Can I hold her?’
+The hen watched the gosling struggle. She did not help. She had done her part. Now the hatchling had to do its own work—breaking free, finding its feet, shaking the last of the shell from its damp down. The hen stood guard, patient as she had always been, waiting for the small creature to find its way.
 
-‘She needs to know the hen first. In time you can help the hen teach it.’
+And when the shell finally fell away, and the gosling blinked at the world with eyes that had never seen light, the hen stepped forward and gathered it under her feathers. The peeping stopped. She had not abandoned her charge. She was only beginning.
 
-Soon came the day when Mother nodded, and Beatrice reached out a trembling hand. The hen did not hiss or ruffle her feathers, giving a quiet sign of permission. 
+‘She’ll keep it warm now,’ Mother said. ‘And teach it to eat and drink. You can help her, if you’re gentle.’
 
-Encouraged by the contact, the gosling stretched its neck towards Beatrice’s soft murmurs, drawn by the sound of her voice. It waddled out from the safety of the nest, imprinting on the face that had waited for it so long.
+So Beatrice helped. She brought fresh water and watched the hen dip her beak to show the gosling how. She scattered grain and watched the gosling peck at it with clumsy, hopeful jabs. She sat beside the basket while the hen brooded her strange, pale child, and she talked to them both until the sound of her voice was as familiar as the crackle of the hearth.
+
+And one day, when the gosling was dry and steady on its feet, it waddled out from under the hen and made its way across the rushes towards the girl who had been waiting for it. The hen did not stop it. She merely watched—sceptical, patient, entirely unimpressed—as the gosling pressed its small body against Beatrice’s hand.
 
 ‘Now,’ Mother said softly. ‘Now she’s yours.’
 
@@ -273,13 +279,15 @@ She named her Goosie.
 
 ### No answering honk
 
-The gosling grew rapidly. Days became weeks and the yellow down gave way to white feathers, the soft cheep to a firm honk. She was no longer a chick, but a goose; she was family. 
+The gosling grew rapidly and the yellow down gave way to white feathers, the soft cheep to a firm honk. She was no longer a chick, but a goose, and she was family, as Beatrice explained to her mother. Goosie followed Beatrice everywhere she went, whether it was to the stone well, the barn, or to the wild forest. 
 
-Whether it was to the stone well, the barn, or to the wild forest, Goosie followed her, always. And yet, one morning, the yard gate stood open; it was not wide, just a crack, but enough for a goose to slip through. Beatrice stared at it, her heart climbing into her throat.
+And then there came the fateful morning when Goosie did not appear. The yard gate stood open, just a crack, but enough for a goose to slip through. Beatrice stared at it, her heart climbing into her throat.
 
 ‘Goosie?’ No answering honk.
 
-She ran to the pond, but it was empty and so were the reeds and the lane.
+She ran to the pond.
+
+‘Goosie,’ she shouted, but it was empty and so were the reeds and the lane.
 
 Mother found her by the woodpile, tears already cutting tracks through the dust on her cheeks.
 
@@ -291,7 +299,7 @@ Mother found her by the woodpile, tears already cutting tracks through the dust 
 
 Beatrice sniffled. ‘The river. The thicket by the bend. She hides there when the dogs bark.’
 
-‘Then that is where we look.’
+‘Then that is where we shall look. Let us fetch your father.’
 
 Father appeared in the doorway, his face tight. ‘What is this?’
 
@@ -301,7 +309,7 @@ Father grunted. He fetched a sack and a leather strap from the barn. ‘In case 
 
 Then Beatrice heard a faint, rhythmic honking in the distance. 
 
-As they got closer it sounded more like a gate hinge that had not seen grease in a year.
+As they got closer the honking sounded more like *a gate hinge that had not seen grease in a year*.
 
 They found Goosie, caught in brambles by the river, her white feathers dusted with dead leaves. She was frightened but unharmed, with just a shallow scratch on her leg. Father cut the vines with his knife while Mother held the goose still with its head in the sack to avoid her pecking them or hurting herself.
 
@@ -322,27 +330,283 @@ Her mother smiled. ‘No. I think you will not.’
 
 The years that followed were full of geese and growing. Father and Mother taught Beatrice the practical work of running a hall.
 
-When the village reeve brought the harvest accounts, her father, Harold, made her sit beside him and learn to explain each number. 
+---
 
-He walked their land boundary with her, when a neighbour’s new fence strayed too far onto their land, showing her where a stone and an old oak marked the line. ‘Love alone will not defend it when the wolves come. A thegn’s daughter must know the lay of the land.’ 
+### The lay of the land
 
-Each morning, she helped move the goats, driving the iron pickets with a heavy mallet to tether them where the thickets were densest. The goats stripped the saplings and gnawed the brambles to the dirt; for without a ditch or palisade, it was only these circles of bare earth that kept the forest a bowshot away and the hall safe. A thick oak door and heavy-barred shutters were the final line against the dark.
+‘Why do you walk the same line every year, Father?’
 
-The hall’s outside oven smelt of wood smoke and fresh bread twice a week. At first, Beatrice learnt from her mother how to tell when bread was ready by the hollow thump of the crust. In later months, she helped a servant. She was so excited when Mother let her shape the loaves for the first time. The dough felt soft and stretchy as her mother guided her small hands, still warm from the hearth, pressing just enough to make the surface smooth.
+Harold did not break his stride. Beatrice was seven years old, trotting to keep up, two steps to every one of his. The grass was wet with morning and her shoes were already soaked.
 
-Her mother, Aldwina, taught her which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer’s broken limb, and lemon balm could lift a heavy heart. She learnt the hard way that foxglove was a fickle friend that could either steady a racing pulse or stop it cold. She never forgot the day she reached for that wrong jar and felt her mother’s hand close over hers, firm, silent, and sure.
+‘Because the land does not keep itself. A neighbour may move a stone if he thinks no one is watching. A fox can dig under a fence if the earth is soft. The boundary is only as strong as the memory of it.’
 
-Beatrice learnt how to soothe a crying child with a cool hand and a soft word. How much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter. Most importantly, she learnt how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
+Beatrice trotted to keep up, two steps to every one of her father’s long steady gait. The grass was wet with morning and her shoes were already soaked. She did not mind. She was watching her father’s back, the broad shoulders, the steady gait, and trying to match her steps to his.
 
-Then Mother grew tired, then pale, and then thin.
+‘How do you remember where it goes?’
+
+‘Your grandfather walked it with me, and his father with him. Now I walk it with you.’ He stopped beside a grey stone half‑buried in the earth, its surface mottled with yellow lichen. ‘This is the first marker. Put your hand on it.’
+
+She did. The stone was cold and rough, and under the lichen she could feel the faint shapes of something carved. Letters, perhaps, or symbols she could not read. The inscription ran in two winding lines along the edges of the slab, the runes worn shallow by weather and time.
+
+> *Tola reisti stein þenna eptir Ulf, föður sinn.*
+> *Hann fór yfir haf með Sveini konungi.*
+> *Hann tók gjald af Æðelræði fyrir land þetta.*
+> *Guð hjalpi hans sálu.*
+
+Beatrice traced the shapes with a finger, though she could not read them. ‘What does it say?’
+
+Harold knelt beside the stone. ‘It says that Tola raised this stone in memory of his father, Ulf. That Ulf crossed the sea with King Sweyn. That he took silver from Æthelred and bought this land. That God help his soul.’ He touched the weathered carving. ‘Æthelred was a king, a long time ago. The payment was Ulf’s right to settle. It means this land was earned, not stolen.’
+
+‘It is the old tongue,’ he continued. ‘Before the Normans, before the Saxons, there were men who spoke like this. One of them was your grandfather’s grandfather. He crossed the sea, and he stayed, and this stone has marked our boundary ever since.’
+
+She nodded, though she did not fully understand. She understood only that her father was telling her something important, something she would need to carry. She pressed her palm flat against the stone and tried to memorise the cold of it, the rough grain of the lichen, the way the carved shapes felt under her fingers.
+
+She would walk the boundary every year after that. She would learn the twist of the hawthorn, the straight line of the Roman road, the dip of the old ditch, the place where the river bent and the reeds grew thick. She would learn that the land had a language, and that her father had been teaching it to her since before she could speak.
+
+Each morning, she helped move the goats, driving the iron pickets with a heavy mallet to tether them where the thickets were densest. The goats stripped the saplings and gnawed the brambles to the dirt; for without a ditch or palisade, it was only these circles of bare earth that kept the forest a bowshot away and the hall safe. A thick oak door and heavy‑barred shutters were the final line against the dark.
+
+And when the village reeve brought the harvest accounts, her father made her sit beside him and learn to explain each number, until the tallies were as familiar as the boundaries, and the boundaries as familiar as her own breath.
+
+---
+
+### The hollow thump
+
+Beatrice fumbled with the ties of her apron, her fingers still clumsy with sleep. The strings were too short or her hands were too cold. She could not tell which.
+
+‘Here.’ Her mother turned her by the shoulders and knotted the ties at the small of her back. ‘Up you get.’
+
+Beatrice scrambled onto the stool. It wobbled. She grabbed the edge of the kitchen workbench, steadied herself, and forgot to breathe.
+
+Her mother’s hands were in the dough. Not stirring, not mixing—kneading. The heel of her palm pressed down, folded the dough over, pressed again. The bench groaned under the rhythm of it. A puff of flour jumped from the wood at each push and hung in the air before drifting down. The muscles in her mother’s forearms moved like something alive beneath the skin. The dough made a soft, wet sound as it turned, a sound Beatrice could feel in the back of her own throat.
+
+‘Why do you push it so hard?’
+
+‘To knock the air out.’ Her mother did not look up. ‘If I don’t, the loaf will be full of holes.’
+
+Beatrice thought about holes in bread. She had picked them out with her fingers and eaten the soft middle first, a hundred times. She had never once thought about where they came from.
+
+Her mother gathered the dough into a smooth ball and set it in a wooden bowl, covering it with a linen cloth. She tucked the edges around it, the same way she tucked Beatrice into bed at night.
+
+‘Now it must rest.’
+
+‘Why?’
+
+‘The yeast has work to do. You cannot rush it.’
+
+Beatrice watched the cloth. Nothing happened. She watched it some more. Still nothing. She was about to say so when her mother tapped the bowl with a finger.
+
+‘Patience. It will rise when it is ready.’
+
+And it did. Slowly, almost imperceptibly, the cloth began to lift. The dough was breathing under there, filling the bowl, pressing against the linen like a small, round belly. Beatrice stared. She had seen loaves rise before, but she had never watched it happen, never understood that the dough was doing something while she waited, working invisibly in the warmth from the hearth.
+
+Her mother pulled back the cloth. The dough had doubled. She pressed a finger into its surface, and the dent stayed, a small dimple in the smooth pale skin.
+
+‘Now it is ready.’
+
+She shaped the loaves with quick, practised tucks, her fingers leaving small impressions that vanished as the dough sprang back. She set them in a row on the bench. A smear of flour sat across her forehead where she had wiped her face with the back of her wrist, and there was dough drying under her fingernails, and she did not seem to notice any of it.
+
+She thrust her bare hand into the oven’s mouth and held it there.
+
+Beatrice leaned forward. One heartbeat. Two. Her mother pulled her hand back, flexed her fingers, and nodded.
+
+‘How do you do that without burning yourself?’
+
+‘Practice.’ She crouched and slid the loaves onto the stone with a long wooden paddle. ‘And calluses.’
+
+The oven breathed heat into the room. Beatrice’s cheeks prickled. The smell came first, before the colour—the warm, yeasty smell of baking bread, and then the darker smell of the crust beginning to brown. Beatrice knew that smell. It meant bread. It meant supper. It meant her mother would be humming soon, and her father would come in from the yard and say something about the smell reaching the gate, and Goosie would honk at the door for a crust.
+
+When the first loaf came out, her mother lifted it and knocked on its underside with a knuckle. The sound was hollow. A small warm *thock*. She knocked again, listening.
+
+‘How do you know when it’s ready?’
+
+‘The bread tells me.’
+
+‘Bread can’t talk.’
+
+‘Not with words.’ Her mother set the loaf on the bench and tapped its golden flank. ‘Listen.’
+
+Beatrice listened. The thump was hollow, a small echo inside the loaf. She did not know how she knew what it meant, but she knew it, the same way she knew the sound of her father’s boots on the flagstones or the honk of Goosie across the yard.
+
+‘It sounds like a door,’ she said.
+
+Her mother blinked. ‘A door?’
+
+‘A tiny door. Inside the bread.’
+
+Aldwina laughed—a real laugh—and Beatrice felt it open something warm in her chest.
+
+‘You listen with different ears than I do,’ her mother said. ‘That’s not a bad thing.’
+
+---
+
+### Shaping the loaves
+
+One morning, when Beatrice was tall enough to reach the workbench without a stool, her mother stepped aside.
+
+‘Your turn.’
+
+Beatrice stared at the lump of dough. It was soft and floury, and it smelled of yeast and something warm, something alive. She pressed her fingers into it as she had seen her mother do. The dough gave way under her hands, springing back when she released it. She pressed again, harder, and a small pocket of air escaped with a sigh.
+
+‘It breathes!’ She looked up, her fingers still buried in the dough. ‘Did you see? Can I make it do it again?’
+
+‘It does. It is alive, after a fashion. You must be gentle with it, or it will not rise.’
+
+Beatrice shaped the loaf with the whole of her concentration, her tongue pressed against her top lip, her hands moving more slowly than her mother’s but with the same careful intention. When she finished, the loaf was lopsided, one end higher than the other, and there was a thumbprint deep in the centre where she had pressed too hard.
+
+She looked up, ready to apologise.
+
+Her mother was smiling. ‘It will taste better for being yours.’
+
+And it did. When the loaf came out of the oven, golden and steaming, and her mother thumped the crust and nodded, Beatrice felt a pride so fierce and private that she carried it with her all day, a warm knot beneath her ribs. She had made something. She had made something, and it was good.
+
+---
+
+
+### A fickle friend
+
+[REPLACED: The original summary opening “Not all her lessons were gentle...“ is replaced with immediate sensory action.]
+
+A fist pounded the oak door. Not a knock. A pounding. The sound of someone who had run. The sound of someone who could not catch their breath.
+
+Beatrice was on her feet before the servant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘My lady, please—he was working in the high field and his heart began to pound and it will not stop—‘
+
+Aldwina was already there. She guided the young man to the stool by the hearth, the one reserved for the sick and the frightened and the women in labour. He sat heavily, head bowed, his hand pressed flat against his chest. His breath came in short, shallow gasps. His skin was the colour of old ash, grey‑blue at the lips. He looked scarcely older than a boy. He looked terrified.
+
+Beatrice turned to the shelf beside the hearth where the jars stood in their neat row: willow bark, comfrey, lemon balm, foxglove. Her fingers closed on the foxglove jar. She knew this. A small pinch. To steady the pulse.
+
+Her mother’s hand closed over hers. Firm. Silent. Sure.
+
+‘Not for this man. His heart is fast, but his hands are cold.‘ Aldwina took the jar and replaced it on the shelf, out of reach. ‘Foxglove would stop it, not slow it.‘
+
+Beatrice looked at the jar. Then at the man, slumped on the stool, still gasping. She had been so certain.
+
+‘Then what?‘
+
+‘Hawthorn. The flowers and the leaves. And a blanket. He is cold as well as frightened.‘
+
+Beatrice fetched them. She watched her mother crush the leaves with the flat of a knife, quick and sure, and scoop them into a cup. She watched her pour hot water from the kettle, her hands steady, her voice calm.
+
+[ADDED: The young man’s question about death, and Aldwina’s response.]
+
+‘Am I dying?‘ The young man’s voice cracked. ‘My lady, am I—‘
+
+‘You are not dying.‘ Aldwina did not look up from her work. ‘Your heart is frightened and your body is tired and you have been working too long in the heat. But you are not dying. I have seen dying, and it does not look like you.‘
+
+‘Will I see her?‘ His fists were clenched on his thighs. ‘If I die. Will I see my mother?‘
+
+Aldwina put the cup into his hands. ‘If the Lord took you, she would know you. You would know her. There would be no more pain. That is the promise.‘ She closed his fingers around the cup. ‘Drink.‘
+
+He drank. Beatrice watched the colour seep back into his cheeks. She watched the grey recede like a tide. Her mother had known the difference before she had even touched him. But the tremor in Beatrice’s own hands took an hour to fade.
+
+[UNCHANGED: The foxglove jar moved, and the summary of Beatrice’s learning.]
+
+Her mother said nothing about it afterwards. She did not need to. The foxglove jar was moved to a higher shelf, out of reach of certainty, and Beatrice never reached for it again without pausing, without feeling the ghost of her mother’s hand on her wrist.
+
+She learned, in the years that followed, which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer’s broken limb, and lemon balm to lift a heavy heart.
+
+She learned how to soothe a crying child with a cool hand and a soft word. She learned how much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter. And most importantly, she learned how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
+
+---
+
+[NEW SECTION: The conversation between Aldwina and Beatrice after the man leaves.]
+
+After the man and his wife had gone, and the door was barred, and the hawthorn infusion had been set to cool, Beatrice sat on the stool by the hearth. The foxglove jar was on the high shelf now. She could see it there, above her reach.
+
+Her mother was wiping down the workbench. She did not speak, and Beatrice knew she was being given time to find her own words.
+
+‘You told him he would see his mother again,‘ Beatrice said.
+
+Aldwina did not turn. ‘I did.‘
+
+‘How do you know?‘
+
+Aldwina set down the cloth. She looked at Beatrice for a long moment, and Beatrice had the sense that her mother was deciding something. Then she crossed to the stool and sat beside her.
+
+‘I do not know,‘ she said. ‘Not the way I know that bread will rise or that hawthorn will steady a racing heart. Those things I have seen with my own eyes. I have not seen the resurrection.‘
+
+Beatrice waited.
+
+‘But I have seen death,‘ her mother continued. ‘I have seen my own mother die, and my father, and a child who never drew breath. I have sat with the dying and I have washed the dead and I have asked God the same question you are asking. And what I have found is this.‘ She took Beatrice’s hand. ‘The fear of death is worse than death itself. I have seen men and women die peacefully, even joyfully, because they trusted that they were going somewhere they would be known. And I have seen others die in terror, fighting to the last breath, because they believed there was nothing waiting for them but darkness.‘
+
+‘Which will you choose?‘
+
+Aldwina almost smiled. ‘I choose to trust. Father Edwin spoke once of a passage from the Apostle Paul. He said that at the end, death itself will be swallowed up in victory. That we will be changed, in the twinkling of an eye. That we will put on immortality like a garment. I do not understand what that means. But I believe that the God who made the rain and the sun and the harvest, the God who made you and your father and every living thing, did not make us to be thrown away.‘
+
+She squeezed Beatrice’s hand and released it.
+
+A silence. Then, quieter: ‘I almost gave him the foxglove.‘
+
+‘You did.‘
+
+‘I could have killed him.‘
+
+‘You did not.‘ Her mother’s voice was steady. ‘You stopped. You learned. That is how it works.‘
+
+---
+
+[NEW SECTION: That night — the goat memory and the bridge.]
+
+That night, Beatrice lay awake and remembered the goat.
+
+It had been two winters ago, or perhaps three. She had found it in the morning, stiff and cold in the stall, its eyes open and unseeing. She had touched its ear. The ear was cold, and the goat did not flick it away. She had understood, then, that the goat was not asleep. Sleep was warm and breathing. The goat was something else.
+
+Her father had carried it to the midden. Her mother had not cried. ‘It was a good goat,‘ she had said. ‘It gave good milk. We will remember it.‘ And that was all. The milk continued. The herd continued. The goat did not return.
+
+Beatrice turned on her mattress and tried to imagine the hall without her father. The chair by the hearth empty. The sword above it with no hand to lift it down. His voice, gone. She could not do it. The hall without her father was not a place she could make real in her mind.
+
+She tried to imagine her mother dying, and the thought was worse. She pushed it away. Her mother was strong and sure and practical, and death was a long way off, something that happened to other people—to young men who worked too long in the heat, to old goats who had given good milk. It would not happen here. Not for years and years. Not until Beatrice was old enough to bear it.
+
+She closed her eyes. Goosie stirred in her basket, a soft rustle of feathers. The thought was too large. She set it aside.
+
+---
+
+[UNCHANGED: The illness bridge.]
+
+And that is how things largely stayed until Beatrice’s eleventh year. Even then it was small things that she noticed about Mother: a hesitation lifting the bread from the oven, a hand pressed to the small of her back, rarely humming while she worked. And Mother often seemed tired. Then she grew pale. Then thin.
+
+---
+
+### A quiet, ordinary morning
+
+[UNCHANGED until the final paragraph.]
+
+One morning in early summer, when the meadow was thick with clover and the air smelled of cut hay and something sweeter she could not name, Beatrice lay on her back in the long grass with Goosie beside her. She had been running. She could still feel the pound of her heart in her ears, the good ache in her legs, as she had flopped down and Goosie had thumped down beside her with an indignant honk. The goose tucked her beak under her wing and subsided into a heap of warm white feathers, and Beatrice lay back and let the sky swallow her.
+
+The clouds were moving fast, tearing and re‑forming high above. She found one that looked like a goose, long‑necked and white, and watched it drift eastward. The wind caught it and pulled it apart. It was a smear now. It was nothing. She felt a small, strange pang. She wanted it to stay, and then the feeling passed, because there was another cloud behind it, and another, and the sky was full of clouds that had not yet unravelled.
+
+From the direction of the hall, her mother’s voice: ‘Beatrice!‘
+
+She lifted her head. Goosie stirred.
+
+‘Coming, Mother!‘ She fully intended to go in. There was bread to shape and herbs to sort and her mother would need her. But the sun was warm on her closed eyelids, and the clover bent under the weight of her body, and she could feel the earth beneath her, solid and still. For a moment she had the strange sensation that she was both lying in the grass and floating above it, weightless, as if she had been loosened from the hall and belonged nowhere but here, to the sky and the grass and the warm white feathers beside her.
+
+The voice came again, fainter now, or perhaps she was only imagining it.
+
+Not yet. Not for one more cloud. No need for hurry.
+
+[ADDED: Beatrice finally goes inside.]
+
+Beatrice went inside.
+
+The hall was quiet. The bread was only half-shaped on the bench, the cloth that should have covered it slipped to one side. A pale, floury edge was drying in the air. Her mother was sitting on the stool by the hearth, the one where the sick and the frightened sat, one hand resting on the workbench as if she had begun to rise and thought better of it.
+
+She looked up when Beatrice came in. She did not seem angry. She did not seem anything but tired.
+
+‘We’ll do without fresh bread today,‘ she said. ‘Perhaps you might help me tomorrow.‘
+
+Beatrice nodded. She did not trust herself to speak. She pulled the cloth back over the dough, and she helped her mother to bed, and she did not say anything about the cloud, or the sky, or the way the morning had seemed to stretch on forever without consequence. She only knew that her mother had asked for help, and that she had not been there to give it, and that something small and quiet had shifted in the house that could not be shifted back.
+
+Beatrice was happy to help tomorrow. But tomorrow, when it came, her mother was still in bed.
 
 ---
 
 ### Thin fingers on the petals
 
+[UNCHANGED.]
+
 It was a slow fading, like the light at the end of a long day. Some mornings her mother seemed almost herself, able to lie outside in the golden sunshine, sitting up and asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow in her sleeping chamber.
 
-Beatrice would feed her broth with milk, thyme, wild oregano, and garlic from the garden on the rise. She would make sweet tea from licorice root dug from the soft, silty earth by the Welland. 
+Beatrice would feed her broth with milk, thyme, wild oregano, and garlic from the garden on the rise. She would make sweet tea from licorice root dug from the soft, silty earth by the Welland.
 
 Her father was often in the doorway of the chamber, watching, his great warrior’s hands hanging useless at his sides. He tried to help with carrying her outdoors, bringing her water, or smoothing the blankets, but his wife smiled at him with such gentle patience that he seemed to shrink.
 
@@ -390,7 +654,7 @@ She lifted Goosie, who had followed her, always, and held her so that the goose�
 
 ### The geese knew her, but she was gone
 
-At the burial, Harold stood still. His hands were on Beatrice's shoulders, heavy and warm. He didn't speak, but watched as they slid the plain wooden box into the hollow in the stone.
+At the burial, Harold stood still. His hands were on Beatrice’s shoulders, heavy and warm. He didn’t speak, but watched as they slid the plain wooden box into the hollow in the stone.
 
 There was no scent of wet earth, only the musty smell of stone-dust and the hollow scrape of wood on rock that echoed off the vaulted ceiling. Here was silence pressed down by the lid vanishing into the shadows of the niche.
 
@@ -402,7 +666,7 @@ When she finally straightened, the world was still, and she was staring over the
 
 The farm woman was there, by the poultry shed. She looked up, saw Beatrice’s face, and said nothing. She just nodded once and went back to her work.
 
-The apple trees in the orchard over there were still blooming, white petals drifting shamelessly on the wind. They seemed to be all dressed up for a celebration that she wasn't a part of, and Beatrice hated them for their indifference. She would gladly have stripped every twig bare of its fine frills, if stripping trees could have brought her mother back. But the wind merely danced across the river, and all she could hear was the wordless song of the river among the rushes.
+The apple trees in the orchard over there were still blooming, white petals drifting shamelessly on the wind. They seemed to be all dressed up for a celebration that she wasn’t a part of, and Beatrice hated them for their indifference. She would gladly have stripped every twig bare of its fine frills, if stripping trees could have brought her mother back. But the wind merely danced across the river, and all she could hear was the wordless song of the river among the rushes.
 
 Beatrice stood there for a long time, watching the geese on the far bank as they ignored her completely. She wondered how geese felt about their mothers.
 
@@ -430,7 +694,7 @@ That night, Beatrice built up the fire and kept her father company. She spoke li
 
 Once the logs had burnt down, a servant came to rake the embers and then withdrew.
 
-Beatrice touched her father's arm.
+Beatrice touched her father’s arm.
 
 ‘Father. You should try to rest.’ He nodded, and she followed him towards the sleeping chamber.
 
@@ -460,9 +724,9 @@ And so began the regular pattern of their life. Each night her father settled in
 
 The sweet scent of her mother faded from the linens over the month that followed, until the bed was only stale straw and cold fabric.
 
-And so came the day when it seemed right to change the bedding. While her father was out in the village, she washed the blankets in the river and beat them dry on the stones, then folded her mother's things into the chest at the foot of the bed. She did not tell him. She simply did it.
+And so came the day when it seemed right to change the bedding. While her father was out in the village, she washed the blankets in the river and beat them dry on the stones, then folded her mother’s things into the chest at the foot of the bed. She did not tell him. She simply did it.
 
-When he returned and saw the change, he stopped with a sharp intake of air. For a moment his face was unreadable. Then he noted the fresh linen, the neatened chest, the bed made clean, and the cut flowers in his wife's favourite vase. He did not speak at once. The silence stretched, and Beatrice felt the weight of it press against her chest.
+When he returned and saw the change, he stopped with a sharp intake of air. For a moment his face was unreadable. Then he noted the fresh linen, the neatened chest, the bed made clean, and the cut flowers in his wife’s favourite vase. He did not speak at once. The silence stretched, and Beatrice felt the weight of it press against her chest.
 
 He crossed the room slowly, sat on the edge of the bed, and put his hand on the pillow where Aldwina’s head had rested. He sat there for a long time. 
 
@@ -484,7 +748,7 @@ That night, as she lay in her own bed, she heard the creak of the bed in the sle
 
 In the morning, the hall was still and cold. Beatrice rose to rebuild the fire and found her father already sitting in his chair, looking up.
 
-Above the hearth hung a sword, broad and straight-edged. It was pattern-welded and showed a faint ripple. The lobed iron pommel and grip were worn smooth by his own father’s hand. This true Saxon blade had carved through shield walls, yet now it seemed a memory, like another man's life long ago.
+Above the hearth hung a sword, broad and straight-edged. It was pattern-welded and showed a faint ripple. The lobed iron pommel and grip were worn smooth by his own father’s hand. This true Saxon blade had carved through shield walls, yet now it seemed a memory, like another man’s life long ago.
 
 ‘Daughter, fetch my sword down for me,’ he said. After a thought, he added, ‘carefully.’
 
@@ -496,19 +760,19 @@ The morning was sharp and clear, the ground hard with frost. Goosie waddled ahea
 
 They reached the smithy as the smith was pumping his bellows, the coals hissing to life. He held up a hand without turning. 
 
-‘Shan't be a moment, Lord.’ He plunged a piece of iron into the fire and watched it glow, then set it aside and wiped his hands on his apron. 
+‘Shan’t be a moment, Lord.’ He plunged a piece of iron into the fire and watched it glow, then set it aside and wiped his hands on his apron. 
 
 Harold laid the sword on the anvil and spoke quietly with the man about a clean and a fresh wrap for the grip.
 
-Beatrice stood a little apart, watching her father's hands move as he described the work. They were still the hands of a warrior, even if they no longer held a blade in battle. She had seen him leave for war when she was small; she did not need to see him fight again.
+Beatrice stood a little apart, watching her father’s hands move as he described the work. They were still the hands of a warrior, even if they no longer held a blade in battle. She had seen him leave for war when she was small; she did not need to see him fight again.
 
-On the walk back, Harold fell silent. He watched his daughter as she walked beside him—the girl who had run the manor without being asked, whose bright eyes missed little, whose quick wit sometimes outpaced her judgment, who still spoke her thoughts aloud before deciding whether she ought to. She had been doing a woman's work on a child's shoulders, and he had not told her it mattered. He had been too hollowed out to see it.
+On the walk back, Harold fell silent. He watched his daughter as she walked beside him—the girl who had run the manor without being asked, whose bright eyes missed little, whose quick wit sometimes outpaced her judgment, who still spoke her thoughts aloud before deciding whether she ought to. She had been doing a woman’s work on a child’s shoulders, and he had not told her it mattered. He had been too hollowed out to see it.
 
 "The hall looks well," he said at last. "Your mother would have been proud."
 
 Beatrice looked down at the track. "I tried to do what she would have done."
 
-Harold thought of the months since Aldwina's death—the red and golden leaves falling, the *boon-days* Beatrice had seen to, the harvest labour she had overseen, the *brewing-house* and the *buttery*, the sick she had tended the way her mother had taught her. All of it done without complaint, without being asked.
+Harold thought of the months since Aldwina’s death—the red and golden leaves falling, the *boon-days* Beatrice had seen to, the harvest labour she had overseen, the *brewing-house* and the *buttery*, the sick she had tended the way her mother had taught her. All of it done without complaint, without being asked.
 
 ‘You have done well, Beatrice’
 
@@ -726,13 +990,13 @@ Goosie honked.
 
 The messenger rode away, leaving Beatrice in the doorway, feeling unwell, Goosie nesting warmly in her arms. She looked at her father; Harold looked back, his eyes hollow.
 
-"My tired arms are of little use to a younger King," he said, his voice low and gritty. "A man who cannot ride to war must pay the shield‑tax instead. That I can manage, just. But this—" He shook his head. "They took the last of our stored grain at Michaelmas. The King's own purveyors. For the army in Wales. If they come again, the village may well starve."
+"My tired arms are of little use to a younger King," he said, his voice low and gritty. "A man who cannot ride to war must pay the shield‑tax instead. That I can manage, just. But this—" He shook his head. "They took the last of our stored grain at Michaelmas. The King’s own purveyors. For the army in Wales. If they come again, the village may well starve."
 
 They both knew that they had nothing suitable for the King except the unthinkable.
 
 "We have coin enough for the present, father. We shall simply buy a bird for the King. Surely there must be at least one," Beatrice said, her voice almost sounding confident. "One of the farm geese—"
 
-Harold shook his head. "Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn't seize for the King's table, the Earl's men bought up to provision the baggage trains. Roger of Salisbury's clerks have been through the ledgers; they know exactly how many wings are in every yard."
+Harold shook his head. "Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn’t seize for the King’s table, the Earl’s men bought up to provision the baggage trains. Roger of Salisbury’s clerks have been through the ledgers; they know exactly how many wings are in every yard."
 
 Her father looked at her wryly. "It is a strange world, Beatrice, where a man in a stone tower knows our poultry better than a fox."
 
@@ -802,7 +1066,7 @@ She prayed, as she sat empty-handed in the dark. As she laid her head down, she 
 
 Beatrice woke to a soft weight pressing against her hip. Daylight. Pale and new through the shutters. Goosie had crossed the rushes and settled beside her, warm and solid and entirely herself.
 
-Beatrice lay still, one hand resting on the white curve of the goose's back. In place of her fears was something quieter and worse: certainty.
+Beatrice lay still, one hand resting on the white curve of the goose’s back. In place of her fears was something quieter and worse: certainty.
 
 She rose up. Goosie rose with her.
 
@@ -812,11 +1076,11 @@ Beatrice built up the fire. She knelt beside his chair. And she told him everyth
 
 *The river took the weak. The Abbot took the strong. The war took the rest.*
 
-"There's no other bird but—" she whispered.
+"There’s no other bird but—" she whispered.
 
 "Nothing but Goosie," Harold finished.
 
-He didn't say *your mother's goose*. He didn't need to.
+He didn’t say *your mother’s goose*. He didn’t need to.
 
 A hot, ungracious thought rose in Beatrice. "What business has the King hunting here, anyway? He has a thousand forests. A hundred kitchens. Must he come and take what little we have?"
 
@@ -844,7 +1108,7 @@ She looked at her father’s tired face, at the way his hand still rested on his
 
 “Father, I’ll take her.”
 
-He shook his head. “It's hardly safe for you, daughter.”
+He shook his head. “It’s hardly safe for you, daughter.”
 
 “I can walk the old Roman road and blend with the charcoal-bearers. Goosie can hide in a basket on my hip.” She paused. “Besides, I’m on the King’s business if anyone asks.”
 
@@ -919,7 +1183,7 @@ The Queen countered smoothly, turning her head. "And a sword is only as strong a
 
 She watched his jaw relax. He liked the map she was drawing.
 
-Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink—the second most powerful man in England and keeper of the realm's cold reality.
+Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink—the second most powerful man in England and keeper of the realm’s cold reality.
 
 “My lord the king,” Roger said, his voice precise, “It is well met, for I would speak of a son, not in terms of silver and swords, but rather I would speak of souls and of welfare.”
 
@@ -1187,7 +1451,7 @@ Sir Guy passed Beatrice, moving aside, red-faced. She caught his eye and offered
 
 She turned her back on the man who had humiliated her earlier; her gaze swept the crowd, looking for safe harbour, anything steady. Her eyes found him—the quiet one—by the pillar. Not part of the whispers. Not part of the cruelty—simply there. Something flickered in his face—barely there. A crack in his cautious mask.
 
-For a heartbeat—two—she forgot to breathe. *Not a smirk. Not a threat.* Then, quieter: *He's trying too.*
+For a heartbeat—two—she forgot to breathe. *Not a smirk. Not a threat.* Then, quieter: *He’s trying too.*
 
 The moment passed. Standing in the large doorway to the hall, she turned and impulsively gave a curtsy without seeing anyone; a mere blur of people as fresh air washed over her.
 
@@ -1978,7 +2242,7 @@ His hands rested on the arms of the chair in a manner that was not quite challen
 
 Godfrey stepped forward. He stopped at the bench seat indicated by Harold at the edge of the firelight. 
 
-Beatrice moved to her father's side, standing a little behind his chair.
+Beatrice moved to her father’s side, standing a little behind his chair.
 
 Godfrey glanced at her, then back at Harold. “I came to bring your daughter home.” He said it simply, as though it were the most natural errand in the world, which of course it was not.
 
@@ -2196,7 +2460,7 @@ Goosie waddled back to the herb bed and settled comfortably there, quite satisfi
 
 ## Chapter 17 ⬩ The lane is swept for a king
 
-The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The Reeve set men to repairing the lane. It wasn't every day that a king visited them.
+The news that the king was coming spread through Stanwey like a spark in dry grass. Beatrice had expected fear; instead she found a kind of fierce pride. The village women scrubbed their doorsteps. The Reeve set men to repairing the lane. It wasn’t every day that a king visited them.
 
 Harold too seemed to come alive. “You want to hold Stanwey?” he said to Godfrey one overcast morning. “Know where the land begins and ends. A man with no boundaries has nothing to defend.”
 
@@ -2214,7 +2478,7 @@ The smith looked up from his anvil. “Walking the bounds, Lord.”
 
 “Aye.” Harold did not slow. “The boy needs to learn.”
 
-The smith nodded, pumping the bellows until the coals hissed. He jerked his chin towards the village green, where a few men stood. “I reckon you'll have teachers enough on the commons,” he said.
+The smith nodded, pumping the bellows until the coals hissed. He jerked his chin towards the village green, where a few men stood. “I reckon you’ll have teachers enough on the commons,” he said.
 
 By the time they reached the green, the Reeve was already waiting, his woollen cap in his hands. Behind him stood two old villagers – grey‑bearded men who had walked these boundaries since they were boys. One was called Alfsige, the other Leofwine. Neither spoke much, but their eyes missed nothing.
 
@@ -2280,7 +2544,7 @@ Godfrey watched a bearer empty a basket of ore onto a drying platform. The man s
 
 “From up there,” the Reeve said, nodding towards the north‑east, “the King’s huntsmen can see the smoke. Rockingham Castle sits on the high ground – they watch for our signal fires. If we are working, they know the King’s iron is flowing.”
 
-Leofwine’s jaw tightened. “And Peverel watches too. He would like to see these pits under his own sheriff’s seal, but the King holds them direct now. It's the only good I can say of that Norman castle.”
+Leofwine’s jaw tightened. “And Peverel watches too. He would like to see these pits under his own sheriff’s seal, but the King holds them direct now. It’s the only good I can say of that Norman castle.”
 
 The man spat on the ground. “William Peverel *the Younger* is to be appointed soon as the new Sheriff of Nottingham and beyond. He is ambitious that boy, and not only for what his father held before him.” 
 
@@ -2374,7 +2638,7 @@ The priest scratched his face near his eye. “Harold seemed pleased enough, fro
 
 Godfrey sat beside him, because it seemed expected, and because his legs were tired. The hum of the hives was steady, restful.
 
-His thoughts drifted, loose and unhurried as the bees themselves. They had been with him all morning—up at the castle, on the ride down, at the smithy, on the path up to the church. The bounds. The sword. Harold's grudging silence. Beatrice's hands, wrapping the cloth around his wrist. More. Nothing connected. Nothing settled. 
+His thoughts drifted, loose and unhurried as the bees themselves. They had been with him all morning—up at the castle, on the ride down, at the smithy, on the path up to the church. The bounds. The sword. Harold’s grudging silence. Beatrice’s hands, wrapping the cloth around his wrist. More. Nothing connected. Nothing settled. 
 
 “I do not know what I am doing.”
 
@@ -2756,7 +3020,7 @@ Henry inclined his head.
 
 “The marriage—if it happens—they will live at Stanwey. Not at court. Not in Normandy. Here. She has built this place. She knows the people, the land, the rhythms of the seasons. I will not have her taken from everything she knows.”
 
-The King's first instinct was to refuse—a king’s son should be at court, visible, useful. But he looked around the hall—the low ceiling, the smoke‑blackened beams, the old man in the chair—and saw something he had never given his son.
+The King’s first instinct was to refuse—a king’s son should be at court, visible, useful. But he looked around the hall—the low ceiling, the smoke‑blackened beams, the old man in the chair—and saw something he had never given his son.
 
 Henry nodded slowly and held out his hand to Harold and the two men shook hands, holding it as they spoke, as a sign to all present that this was a legally secured bargain.
 
@@ -2768,7 +3032,7 @@ Harold’s mouth twitched. “A compromise! Your father—William—would never 
 
 “We do.”
 
-Henry released Harold's grip and lowered his voice. “I must meet tomorrow with Robert Beaumont and my son Robert. We plan my return to Normandy.”
+Henry released Harold’s grip and lowered his voice. “I must meet tomorrow with Robert Beaumont and my son Robert. We plan my return to Normandy.”
 
 Harold nodded slowly. “I recall Beaumont well. He crossed the sea with your father. Remember my name to that lord as a greeting. Is it border trouble with King Louis?”
 
@@ -2941,7 +3205,7 @@ They sat in silence as the fire burned down, and Goosie slept between them.
 
 The week that followed was a blur of packing, goodbyes, and the quiet settling of Eldred and the new cook. Beatrice’s aunt arrived—a thin, capable woman who took one look at the hall and began re‑ordering the kitchen.
 
-Eldred, the new estate reeve, spent his mornings with the village headman at the crossroads, comparing harvest tallies against the Lord’s ledger. While the village reeve knew which man was lazy and which cow was sick, Eldred knew how to ensure that every bushel of the manor's harvest was marked true as a cleared account in the King's Great Pipe Rolls record. Each evening, he sat with Harold, learning the names of the tenants, the boundaries of the fields, and the quirks of the river that could drown a year's profit in a single flood.
+Eldred, the new estate reeve, spent his mornings with the village headman at the crossroads, comparing harvest tallies against the Lord’s ledger. While the village reeve knew which man was lazy and which cow was sick, Eldred knew how to ensure that every bushel of the manor’s harvest was marked true as a cleared account in the King’s Great Pipe Rolls record. Each evening, he sat with Harold, learning the names of the tenants, the boundaries of the fields, and the quirks of the river that could drown a year’s profit in a single flood.
 
 Godfrey came every day, helping where he could, saying little. Harold watched him with a kind of quiet approval.
 
@@ -3338,11 +3602,11 @@ They sat in companionable silence, and for a moment Beatrice forgot the whispers
 
 “Those sisters seem determined to dislike me, no matter what I do.”
 
-”Aye, Godfrey’s half‑sisters,” Lady Margaret observed Beatrice quietly. “The King’s overflow. Born to a woman with no land, title or influence. Their only possible currency is a good marriage for the sake of the King's name. The King’s nephew—William Clito—is the same coin. He has the name, but no crown.”
+”Aye, Godfrey’s half‑sisters,” Lady Margaret observed Beatrice quietly. “The King’s overflow. Born to a woman with no land, title or influence. Their only possible currency is a good marriage for the sake of the King’s name. The King’s nephew—William Clito—is the same coin. He has the name, but no crown.”
 
 Beatrice stared at the low coals in the fireplace. “But why do they hate me so much.”
 
-“Oh, it's not you specifically.” Margaret stood up and cracked her back. “They’ve grown to hate anyone who has what they don’t. Power. A name. A future. A chance. The court may seem like much gossip to you, but it concerns itself with power, and who will use it with the King away. I hear it constantly, far more than I care to, but people wish to use me because I am one of those who serve the Queen directly.”
+“Oh, it’s not you specifically.” Margaret stood up and cracked her back. “They’ve grown to hate anyone who has what they don’t. Power. A name. A future. A chance. The court may seem like much gossip to you, but it concerns itself with power, and who will use it with the King away. I hear it constantly, far more than I care to, but people wish to use me because I am one of those who serve the Queen directly.”
 
 Beatrice wasn’t sure their hatred had nothing to do with her, but she was too tired to argue. She covered a large yawn. “You’ll have to tell me more about this William Clito some time, but not tonight, please.” She wished Lady Margaret goodnight and went to bed.
 
@@ -3593,7 +3857,7 @@ Lady Margaret inclined her head and melted into the crowd. A few minutes later, 
 
 “The lady was unwell from the noise and the rich food. The girl from Stanwey advised a cold cloth to the neck and a quiet corner near the screens passage. She said she had used the remedy herself.”
 
-The Queen's eyes found Beatrice again, now returned to her place, her hands folded, her face calm. Matilda said nothing. But something in her expression shifted — a quiet reassessment.
+The Queen’s eyes found Beatrice again, now returned to her place, her hands folded, her face calm. Matilda said nothing. But something in her expression shifted — a quiet reassessment.
 
 The feast itself was a formal display of power as much as piety. The high table groaned with roasted wild boar, venison in rich gravy, swan dressed in its feathers (a spectacle more than a meal), and a great goose – Beatrice looked away when that dish passed! 
 
@@ -3616,7 +3880,7 @@ She sat on the edge of the bed, the book open in her lap, and traced the letters
 
 *The Queen sees me*, Beatrice thought. *The Queen sees me—not as a curiosity, not as a goose girl playing at court, but as someone worth teaching. I will ask Godfrey to teach me.*
 
-And yet, beneath the warmth, a different voice seemed to whisper: *Still a goose girl. Still the girl who stumbled into a king's hall with charcoal on her nose. Still the girl they whisper about.*
+And yet, beneath the warmth, a different voice seemed to whisper: *Still a goose girl. Still the girl who stumbled into a king’s hall with charcoal on her nose. Still the girl they whisper about.*
 
 She closed the book and pressed it to her chest. Both things were true. She was both. And perhaps, she thought, that was the point.
 
@@ -4180,9 +4444,9 @@ Sir Guy’s fists clenched. “You cannot simply—”
 
 “I can. And I have.” Roger rose. The justices followed. “The lady Beatrice is free to go to her father. This matter is closed and I caution all present not to pursue this further.”
 
-Sir Guy gathered his parchment with stiff, angry movements. For a heartbeat—just one—his hand stilled on the edge of the table. His eyes flicked to Beatrice, then to Harold's name on the claim.
+Sir Guy gathered his parchment with stiff, angry movements. For a heartbeat—just one—his hand stilled on the edge of the table. His eyes flicked to Beatrice, then to Harold’s name on the claim.
 
-Something wavered behind his gaze. A shadow of the boy who had once believed his father's stories about honour and inheritance, who had grown up in the shadow of the Conquest believing the land owed him something.
+Something wavered behind his gaze. A shadow of the boy who had once believed his father’s stories about honour and inheritance, who had grown up in the shadow of the Conquest believing the land owed him something.
 
 *My father would have...*
 
@@ -4190,7 +4454,7 @@ But the thought curdled. His jaw tightened. The old wound of grievance, nursed t
 
 "Your father is a conquered thing," he hissed, his voice low and trembling, but intended for all to hear. "He did not win this land; he bought his life with his submission. He turned his back on his own Saxon dead so he might feast at a Norman table, playing at being a lord while his own kin rotted in the ditches of Hastings."
 
-He leant closer, the stink of sweat clinging to him. "My father died for this soil to give me an inheritance. Yet a man who kissed the King's hand is rewarded in his stead. Do not mistake it, girl, I am no villain. I am a son seeking to reclaim what is mine by right of blood and strength of arms."
+He leant closer, the stink of sweat clinging to him. "My father died for this soil to give me an inheritance. Yet a man who kissed the King’s hand is rewarded in his stead. Do not mistake it, girl, I am no villain. I am a son seeking to reclaim what is mine by right of blood and strength of arms."
 
 He walked out before anyone could answer, the heavy thud of his boots sounding like a gavel on the hall floor.
 
@@ -4267,19 +4531,19 @@ She tended him through the afternoon – broth, warm cloths, prayers. The two gu
 
 The reeve and the cook – Beatrice’s aunt – went about their business. The new servants the King had promised – a steady man named Eldred and a thin, capable woman – helped where they could.
 
-The evening came. As she banked the coals of the hearth, preserving the embers for the morning's fire, Goosie suddenly lifted her head from where she had settled. Her neck stretched towards the shuttered window, and a low, guttural sound rose from her throat—not a honk, but a warning hiss Beatrice had heard only once before, when a horse had startled her at Stanwey — Sir Guy's.
+The evening came. As she banked the coals of the hearth, preserving the embers for the morning’s fire, Goosie suddenly lifted her head from where she had settled. Her neck stretched towards the shuttered window, and a low, guttural sound rose from her throat—not a honk, but a warning hiss Beatrice had heard only once before, when a horse had startled her at Stanwey — Sir Guy’s.
 
 "What is it?" Beatrice whispered.
 
-The goose's feathers bristled. Her dark eye fixed on the window as if she could see through the wood.
+The goose’s feathers bristled. Her dark eye fixed on the window as if she could see through the wood.
 
 Beatrice strained to listen. The night was still—too still. No wind. No owl. Just the heavy silence of a winter darkness that pressed against the walls like a held breath.
 
 Then, a sound. Distant. A sharp crack, like a branch breaking under a boot.
 
-Her heart thumped once, hard. She crossed to the door and lifted the latch, stepping out into the cold. The yard was a pool of shadows. The guards' torch near the gate had burned low, casting more darkness than light.
+Her heart thumped once, hard. She crossed to the door and lifted the latch, stepping out into the cold. The yard was a pool of shadows. The guards’ torch near the gate had burned low, casting more darkness than light.
 
-One of the Queen's men—the younger one, whose name she could never remember—stood by the barn, wrapped in his cloak. He straightened when he saw her.
+One of the Queen’s men—the younger one, whose name she could never remember—stood by the barn, wrapped in his cloak. He straightened when he saw her.
 
 "My lady?"
 
@@ -4968,7 +5232,7 @@ She pushed through.
 
 Harold stood in the great hall, leaning on his stick, the staghound at his feet. He was surrounded by half a dozen knights, their faces alight with recognition.
 
-"Rauthulfr? The Red‑Wolf? The one who held the line at Bridgnorth with the Ten Knights! The one who pulled the King's brother from the Severn mudflats!"
+"Rauthulfr? The Red‑Wolf? The one who held the line at Bridgnorth with the Ten Knights! The one who pulled the King’s brother from the Severn mudflats!"
 
 Harold grunted. "I pulled a fool from a river. The fool happened to be a prince."
 
@@ -4984,9 +5248,9 @@ When the last tale wound down and the knights dispersed, Harold caught her eye a
 
 "I was telling stories. It is what old men do." He patted her hand. "Now. Walk with me."
 
-They walked through the great hall, past the high table where the King's chair sat empty, past the screens passage where she had first met Lady Margaret. Harold looked up at the rafters, at the pale Caen stone, at the windows where the winter light fell in slabs.
+They walked through the great hall, past the high table where the King’s chair sat empty, past the screens passage where she had first met Lady Margaret. Harold looked up at the rafters, at the pale Caen stone, at the windows where the winter light fell in slabs.
 
-"I was here when they laid the first stones," he said quietly. "William Rufus built it. I thought it would crush the world. Now it's just a hall." He shook his head. "They're all just halls, in the end."
+"I was here when they laid the first stones," he said quietly. "William Rufus built it. I thought it would crush the world. Now it’s just a hall." He shook his head. "They’re all just halls, in the end."
 
 He stopped by a window that overlooked the river. The Thames was grey, sluggish, the sky the colour of old linen.
 
@@ -5008,21 +5272,21 @@ She laughed, and the knot in her chest loosened.
 
 As they turned back towards the hall, Harold caught sight of Godfrey standing near the screens passage, watching quietly as he always did. The old thegn stopped.
 
-"You've done well, boy."
+"You’ve done well, boy."
 
-Godfrey blinked, startled. "I've tried."
+Godfrey blinked, startled. "I’ve tried."
 
-Harold looked at Beatrice, then back at Godfrey. "She's worth trying for."
+Harold looked at Beatrice, then back at Godfrey. "She’s worth trying for."
 
-He didn't say more. He didn't need to. 
+He didn’t say more. He didn’t need to. 
 
-Harold walked on towards the Queen's solar, the staghound padding at his heels, and Goosie—who had been preening by the hearth—waddled after him as if she, too, had an appointment with the Queen.
+Harold walked on towards the Queen’s solar, the staghound padding at his heels, and Goosie—who had been preening by the hearth—waddled after him as if she, too, had an appointment with the Queen.
 
 Beatrice watched him go, her heart full. Godfrey came to stand beside her.
 
 "He approves," she said quietly.
 
-"He said I've done well." Godfrey's voice was strange—half wonder, half disbelief.
+"He said I’ve done well." Godfrey’s voice was strange—half wonder, half disbelief.
 
 "You have." She took his hand. 
 
@@ -5310,7 +5574,7 @@ Ranulf, the Lord Chancellor, who had been the target of Beatrice’s jest, never
 
 The half-sisters married well and moved away. Avice wrote once, years later, a letter that might have been an apology. Beatrice answered it warmly. They never met again.
 
-Sir Guy de Montfort, who claimed kinship to the great house of Évreux, never regained his family's favour. Some said he took the cross and sailed for the Holy Land, seeking redemption in the blood of infidels. Others whispered he walked the pilgrim roads to Rome, a nameless penitent among thousands, his sins too heavy for any shrine to lift. No certain word of him ever reached England again.
+Sir Guy de Montfort, who claimed kinship to the great house of Évreux, never regained his family’s favour. Some said he took the cross and sailed for the Holy Land, seeking redemption in the blood of infidels. Others whispered he walked the pilgrim roads to Rome, a nameless penitent among thousands, his sins too heavy for any shrine to lift. No certain word of him ever reached England again.
 
 The nurse at the river-bend eventually sold her farm and moved into the hall. She swore the goose remembered her, and Beatrice never corrected her.
 
@@ -5328,7 +5592,7 @@ Her mind drifted to a morning when her eldest daughter—still small, still roun
 
 "Like what, my heart?"
 
-"Like you know something they don't."
+"Like you know something they don’t."
 
 Beatrice had laughed and lifted the girl onto her hip. "Perhaps I do. And one day, you will too."
 
@@ -5387,13 +5651,13 @@ I offer these questions as a practical craft check for anyone who wants to use t
 
 # APPENDICES / INDEX
 
-- **FACTS: The World of the 'Goose Bride'** — A quick primer on 12th‑century life, law, and customs.
+- **FACTS: The World of the ‘Goose Bride’** — A quick primer on 12th‑century life, law, and customs.
 
 - **Getting Married in 12th‑Century England** — The legal and religious landscape of marriage in 1115.
 
 - **Teacher & Parent Guide** — Themes, vocabulary, discussion questions, and creative activities for classroom or family use.
 
-- **Student Questions for Selected Chapters** — Chapter‑by‑chapter prompts with optional "Knight's Challenge" deeper questions.
+- **Student Questions for Selected Chapters** — Chapter‑by‑chapter prompts with optional "Knight’s Challenge" deeper questions.
 
 - **Sources and Influences** — Historical, academic, and cultural works that shaped the story.
 
@@ -5650,7 +5914,7 @@ The story presents a relationship that is **historically plausible** while also 
 
 - **It does not pretend Beatrice has modern freedoms.** She is constrained by her gender, her class, and her era. Her agency is real but limited—she chooses *within* the cage, not by escaping it. This is historically honest and narratively powerful.
 
-- **It does not romanticise toxic dynamics.** Sir Guy's obsession is presented as predatory. The half‑sisters' cruelty is not excused. The King's temper is shown as dangerous. The story distinguishes between healthy love and unhealthy possession.
+- **It does not romanticise toxic dynamics.** Sir Guy’s obsession is presented as predatory. The half‑sisters’ cruelty is not excused. The King’s temper is shown as dangerous. The story distinguishes between healthy love and unhealthy possession.
 
 - **It does not rush.** The relationship develops over months, through small moments, not grand declarations. Trust is earned, not assumed. This is both historically plausible and psychologically sound.
 
@@ -5658,7 +5922,7 @@ The story presents a relationship that is **historically plausible** while also 
 
 *The Goose Bride* is a reasoned, realistic representation of what a young couple might go through in the 12th century—and what any couple, in any era, must go through to build a lasting partnership.
 
-The story's achievement is that it does not cheat. It does not give Beatrice 21st‑century freedoms while pretending she lives in 1115. Instead, it finds the authentic spaces where love, choice, and mutual respect could grow within the world she actually inhabited. That makes the relationship feel *earned*, and that is why it resonates.
+The story’s achievement is that it does not cheat. It does not give Beatrice 21st‑century freedoms while pretending she lives in 1115. Instead, it finds the authentic spaces where love, choice, and mutual respect could grow within the world she actually inhabited. That makes the relationship feel *earned*, and that is why it resonates.
 
 ---
 
@@ -5849,7 +6113,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 # APPENDICES / SOURCES AND INFLUENCES
 
-***Caveat:** The following notes are provided for readers interested in the historical and cultural background that shaped this story. Inclusion here does not constitute an endorsement of any particular work or viewpoint; these are simply the materials the author found useful in crafting this fictional world. Any errors of fact or interpretation remain the author's own.*
+***Caveat:** The following notes are provided for readers interested in the historical and cultural background that shaped this story. Inclusion here does not constitute an endorsement of any particular work or viewpoint; these are simply the materials the author found useful in crafting this fictional world. Any errors of fact or interpretation remain the author’s own.*
 
 ***Note:** This story is based on a 2024 fairytale by the author, unrelated to **The Goose Girl** fairytale, about a princess, her identity and her magical talking horse.*
 
@@ -5861,61 +6125,61 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 | Source | Contribution |
 |--------|--------------|
-| **Gratian's *Decretum*** (c. 1140) | The canon law text distinguishing *sponsalia per verba de futuro* (future promise) from *sponsalia per verba de praesenti* (present consent). This distinction underpins the story's treatment of betrothal and marriage. |
-| **Peter Lombard** (c. 1096–1160) | The Parisian theologian who argued that present‑tense consent alone constitutes an indissoluble marriage, independent of consummation. This "Parisian model" became Godfrey's legal and theological framework. |
-| **Anders Winroth** (modern scholar) | Medievalist whose work on the Church's revolutionary emphasis on consent informed the story's legal backdrop. |
+| **Gratian’s *Decretum*** (c. 1140) | The canon law text distinguishing *sponsalia per verba de futuro* (future promise) from *sponsalia per verba de praesenti* (present consent). This distinction underpins the story’s treatment of betrothal and marriage. |
+| **Peter Lombard** (c. 1096–1160) | The Parisian theologian who argued that present‑tense consent alone constitutes an indissoluble marriage, independent of consummation. This "Parisian model" became Godfrey’s legal and theological framework. |
+| **Anders Winroth** (modern scholar) | Medievalist whose work on the Church’s revolutionary emphasis on consent informed the story’s legal backdrop. |
 
 ### Henry I & Queen Matilda of Scotland
 
 | Historical Figure | Contribution |
 |------------------|--------------|
 | **Henry I** (1068–1135) | Known as the "Lion of Justice" for his legal and financial reforms. His establishment of the Exchequer and itinerant justices, and his reputation as a ruler who valued law over tyranny, shaped the character of the King in the story. |
-| **Queen Matilda (Edith) of Scotland** (c. 1080–1118) | A historical queen who acted as regent during Henry's absences in Normandy. Her Saxon heritage, piety, and patronage of music and letters informed the character of Queen Matilda in the story. Her own marriage to Henry was challenged because she had been raised in a convent—a detail echoed in the story's "nun controversy" and the objection call at the church door. |
+| **Queen Matilda (Edith) of Scotland** (c. 1080–1118) | A historical queen who acted as regent during Henry’s absences in Normandy. Her Saxon heritage, piety, and patronage of music and letters informed the character of Queen Matilda in the story. Her own marriage to Henry was challenged because she had been raised in a convent—a detail echoed in the story’s "nun controversy" and the objection call at the church door. |
 
 ### Saxon Thegns & the Norman Conquest
 
 | Source | Contribution |
 |--------|--------------|
-| **Anglo‑Saxon thegnage** | Thegns were aristocrats who owned substantial land and ranked below ealdormen. By 1086, only a handful of Saxon thegns still held land directly from the Crown. This dramatic displacement underpins Sir Guy's grievance and Harold Red‑Wolf's precarious survival. |
+| **Anglo‑Saxon thegnage** | Thegns were aristocrats who owned substantial land and ranked below ealdormen. By 1086, only a handful of Saxon thegns still held land directly from the Crown. This dramatic displacement underpins Sir Guy’s grievance and Harold Red‑Wolf’s precarious survival. |
 | **Submission after the Conquest** | Some Saxons kept their lands by submitting early to William the Conqueror and performing valuable service. Harold Red‑Wolf is a fictional representative of this rare class—a man who bent the knee and endured. |
 
 ### Royal Forests, Purveyance & Law
 
 | Concept | Historical Basis |
 |---------|------------------|
-| **Rockingham Forest** | A royal hunting ground established after the Norman Conquest. A "forest" in this period was an area of special legal jurisdiction, not merely woodland. Stanwey's location within Rockingham Forest drives much of the story's tension. |
-| **Purveyance** | The king's right to requisition provisions and transport for the royal household—a recurring grievance that contributed to the baronial discontent leading to Magna Carta. This is the mechanism by which Beatrice is forced to deliver Goosie to the King. |
+| **Rockingham Forest** | A royal hunting ground established after the Norman Conquest. A "forest" in this period was an area of special legal jurisdiction, not merely woodland. Stanwey’s location within Rockingham Forest drives much of the story’s tension. |
+| **Purveyance** | The king’s right to requisition provisions and transport for the royal household—a recurring grievance that contributed to the baronial discontent leading to Magna Carta. This is the mechanism by which Beatrice is forced to deliver Goosie to the King. |
 | **Sheriff of Nottingham** | The office was established by the Normans; the Sheriff oversaw law enforcement and revenue collection in the shire and royal forests. A brief appearance by the Sheriff in the story reflects this historical reality. |
 
 ### Beating the Bounds (Perambulation)
 
 | Source | Contribution |
 |--------|--------------|
-| **Rogationtide processions** | An ancient custom in which parish or manor boundaries were walked and "beaten" with wands, preserving communal memory of land limits. The practice dates at least to Anglo‑Saxon times. This became the basis for Godfrey's "beating the bounds" scene—a test of his humility and connection to the land. |
+| **Rogationtide processions** | An ancient custom in which parish or manor boundaries were walked and "beaten" with wands, preserving communal memory of land limits. The practice dates at least to Anglo‑Saxon times. This became the basis for Godfrey’s "beating the bounds" scene—a test of his humility and connection to the land. |
 
 ### The White Ship Disaster (1120)
 
 | Source | Contribution |
 |--------|--------------|
-| **White Ship sinking** | The ship sank near Barfleur on 25 November 1120, drowning nearly 300 people, including William Adelin (Henry I's only legitimate son) and his half‑sister Matilda FitzRoy. William, rescued in a skiff, ordered the crew to return for his sister; both drowned. This historical event anchors the epilogue and informs Henry's grief. |
+| **White Ship sinking** | The ship sank near Barfleur on 25 November 1120, drowning nearly 300 people, including William Adelin (Henry I’s only legitimate son) and his half‑sister Matilda FitzRoy. William, rescued in a skiff, ordered the crew to return for his sister; both drowned. This historical event anchors the epilogue and informs Henry’s grief. |
 
 ### The Welsh Campaign of 1114
 
 | Source | Contribution |
 |--------|--------------|
-| **Henry I's Welsh expedition** | In the summer of 1114, the King drove Owain ap Cadwgan into Gwynedd and forced him to submit. Owain was taken to Normandy and knighted in 1115. This campaign is referenced in the story as context for the King's absence and Godfrey's rumoured mission to Wales. |
+| **Henry I’s Welsh expedition** | In the summer of 1114, the King drove Owain ap Cadwgan into Gwynedd and forced him to submit. Owain was taken to Normandy and knighted in 1115. This campaign is referenced in the story as context for the King’s absence and Godfrey’s rumoured mission to Wales. |
 
 ### Cathedral Schools & Education
 
 | Source | Contribution |
 |--------|--------------|
-| **Salisbury Cathedral School** | A notable centre of learning in the 12th century; the historian John of Salisbury was its most renowned product. Godfrey's education there grounds his scholarly character and his knowledge of canon law and the Gospels. |
+| **Salisbury Cathedral School** | A notable centre of learning in the 12th century; the historian John of Salisbury was its most renowned product. Godfrey’s education there grounds his scholarly character and his knowledge of canon law and the Gospels. |
 
 ### The Bible (Vulgate) and Gospel Traditions
 
 | Source | Contribution |
 |--------|--------------|
-| **The Four Gospels** (Latin Vulgate) | The Queen's gift to Beatrice—a quarto Gospel book inscribed *Verbum Dei manet in aeternum*—reflects the central role of scripture in medieval life. Godfrey's education at Salisbury included study of the Gospels, and his understanding of marriage as mutual service draws on passages such as Mark 10:43–45 ("whoever wants to be great must be your servant"). The story's treatment of consent also echoes the Annunciation (Luke 1:38), in which Mary's "yes" is freely given—a touchstone for the Parisian model of marriage. |
+| **The Four Gospels** (Latin Vulgate) | The Queen’s gift to Beatrice—a quarto Gospel book inscribed *Verbum Dei manet in aeternum*—reflects the central role of scripture in medieval life. Godfrey’s education at Salisbury included study of the Gospels, and his understanding of marriage as mutual service draws on passages such as Mark 10:43–45 ("whoever wants to be great must be your servant"). The story’s treatment of consent also echoes the Annunciation (Luke 1:38), in which Mary’s "yes" is freely given—a touchstone for the Parisian model of marriage. |
 
 ## II. Cultural & Artistic Influences
 
@@ -5923,26 +6187,26 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 | Influence | Application in *The Goose Bride* |
 |-----------|----------------------------------|
-| **Sincerity over irony** | Jill Bearup's video essay on *Ever After*—a film made with "so much love and care and sincerity"—was the direct reason for this novel’s existence. As such, the story strives for the same earnestness: characters who mean what they say, a romance built on mutual understanding, and a willingness to sit with both joy and grief. |
-| **Active choice and female agency** | As in *Ever After*, the heroine's agency is central. Beatrice walks into the King's hall on her own terms, asks directly about her choice, and takes the cup before it can be offered. Her "yes" must be freely given. |
-| **"A movie that likes its characters"** | Bearup's observation that *Ever After* likes all its main characters shaped the portrayal of Queen Matilda, Harold, the King and the antagonists. The story seeks to understand each person from the inside, without condescension. |
+| **Sincerity over irony** | Jill Bearup’s video essay on *Ever After*—a film made with "so much love and care and sincerity"—was the direct reason for this novel’s existence. As such, the story strives for the same earnestness: characters who mean what they say, a romance built on mutual understanding, and a willingness to sit with both joy and grief. |
+| **Active choice and female agency** | As in *Ever After*, the heroine’s agency is central. Beatrice walks into the King’s hall on her own terms, asks directly about her choice, and takes the cup before it can be offered. Her "yes" must be freely given. |
+| **"A movie that likes its characters"** | Bearup’s observation that *Ever After* likes all its main characters shaped the portrayal of Queen Matilda, Harold, the King and the antagonists. The story seeks to understand each person from the inside, without condescension. |
 
 ### Time Team (BBC Television Series, 1994–2014; YouTube/Patreon Series 2022—)
 
 | Influence | Application in *The Goose Bride* |
 |-----------|----------------------------------|
-| **Landscape archaeology** | The hall's position relative to church, river, and fields; the Roman road; the lost boundary stone—all reflect Time Team's attention to spatial relationships and how the past is written into the land. |
-| **"Beating the bounds"** | The perambulation scene was directly inspired by Time Team's exploration of how communities preserved boundary memory across centuries. |
-| **Material culture** | The knife, the basket, the sword, the cloak—small objects that carry meaning—reflect the show's focus on physical evidence of past lives. |
-| **"The land remembers"** | Archaeologist Francis Pryor's emphasis on deep time and landscape memory permeates the story's treatment of Stanwey and its boundaries. |
+| **Landscape archaeology** | The hall’s position relative to church, river, and fields; the Roman road; the lost boundary stone—all reflect Time Team’s attention to spatial relationships and how the past is written into the land. |
+| **"Beating the bounds"** | The perambulation scene was directly inspired by Time Team’s exploration of how communities preserved boundary memory across centuries. |
+| **Material culture** | The knife, the basket, the sword, the cloak—small objects that carry meaning—reflect the show’s focus on physical evidence of past lives. |
+| **"The land remembers"** | Archaeologist Francis Pryor’s emphasis on deep time and landscape memory permeates the story’s treatment of Stanwey and its boundaries. |
 
 ### Cinema Therapy (YouTube Series, 2020–Present)
 
 | Influence | Application in *The Goose Bride* |
 |-----------|----------------------------------|
-| **Psychology through storytelling** | Hosted by licensed therapist Jonathan Decker and filmmaker Alan Seawright, Cinema Therapy uses movies to explore mental health and relationships. That same belief—that stories illuminate real life—underpins the novel's psychologically grounded characters. |
-| **Healthy vs. unhealthy relationships** | The show's analysis of fictional couples informs Beatrice and Godfrey's courtship: built not on grand passion but on mutual respect, active listening, and earned trust. |
-| **Grief as a central theme** | The series' focus on how loss shapes behaviour is reflected in the novel's multiple griefs: Harold's widowhood, Beatrice’s fear of losing her father, Lady Margaret's silent mourning, and Sir Guy's twisted grievance. |
+| **Psychology through storytelling** | Hosted by licensed therapist Jonathan Decker and filmmaker Alan Seawright, Cinema Therapy uses movies to explore mental health and relationships. That same belief—that stories illuminate real life—underpins the novel’s psychologically grounded characters. |
+| **Healthy vs. unhealthy relationships** | The show’s analysis of fictional couples informs Beatrice and Godfrey’s courtship: built not on grand passion but on mutual respect, active listening, and earned trust. |
+| **Grief as a central theme** | The series’ focus on how loss shapes behaviour is reflected in the novel’s multiple griefs: Harold’s widowhood, Beatrice’s fear of losing her father, Lady Margaret’s silent mourning, and Sir Guy’s twisted grievance. |
 
 ### Crash Landing on You (K‑drama, 2019–2020)
 
@@ -5957,28 +6221,28 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 
 | Source | Contribution |
 |--------|--------------|
-| **Wassailing tradition** | Medieval Britons toasted with "Wes heil!" (be whole) and responded "Drinc heil!" (drink health). The phrase appears in a 12th‑century document. This ritual informed the story's cup ceremony, though the story's ritual is explicitly presented as "a new thing"—a fictional creation drawing on historical drinking customs. |
+| **Wassailing tradition** | Medieval Britons toasted with "Wes heil!" (be whole) and responded "Drinc heil!" (drink health). The phrase appears in a 12th‑century document. This ritual informed the story’s cup ceremony, though the story’s ritual is explicitly presented as "a new thing"—a fictional creation drawing on historical drinking customs. |
 
 ### The Legend of Gelert (c. 1205)
 
 | Source | Contribution |
 |--------|--------------|
-| **Welsh folk tale** | The story of Llywelyn the Great's faithful hound, missing and later found dead, demonstrates that medieval audiences understood the anguish of a lost animal companion. This influenced the "Goosie is missing" scene in the early chapters. |
+| **Welsh folk tale** | The story of Llywelyn the Great’s faithful hound, missing and later found dead, demonstrates that medieval audiences understood the anguish of a lost animal companion. This influenced the "Goosie is missing" scene in the early chapters. |
 
 ## III. Where Influences Appear in the Story
 
 | Influence | Story Element |
 |-----------|---------------|
 | Gratian / Peter Lombard | The distinction between betrothal (future promise) and marriage (present consent) |
-| Parisian model (*Consensus facit nuptias*) | Godfrey's understanding of consent as the sole foundation of marriage |
-| Henry I ("Lion of Justice") | The King's legal reforms, the Exchequer, the Charter of Liberties |
-| Queen Matilda (Edith) | Regent during Henry's absence; Saxon heritage; patron of music; the "nun controversy" |
-| Norman Conquest land displacement | Sir Guy's grievance; Harold's precarious survival as a Saxon thegn |
-| Rockingham Forest | Stanwey's location; the King's hunt; forest law and purveyance |
-| Beating the bounds | Godfrey's perambulation with Harold and the old villagers |
+| Parisian model (*Consensus facit nuptias*) | Godfrey’s understanding of consent as the sole foundation of marriage |
+| Henry I ("Lion of Justice") | The King’s legal reforms, the Exchequer, the Charter of Liberties |
+| Queen Matilda (Edith) | Regent during Henry’s absence; Saxon heritage; patron of music; the "nun controversy" |
+| Norman Conquest land displacement | Sir Guy’s grievance; Harold’s precarious survival as a Saxon thegn |
+| Rockingham Forest | Stanwey’s location; the King’s hunt; forest law and purveyance |
+| Beating the bounds | Godfrey’s perambulation with Harold and the old villagers |
 | White Ship disaster | Epilogue – William Adelin and Matilda FitzRoy drown |
-| Welsh campaign 1114 | Henry's absence in Normandy; Godfrey's rumoured mission |
-| Salisbury Cathedral School | Godfrey's education and scholarly nature |
+| Welsh campaign 1114 | Henry’s absence in Normandy; Godfrey’s rumoured mission |
+| Salisbury Cathedral School | Godfrey’s education and scholarly nature |
 | *Crash Landing on You* | Separation by duty; active choice; silent love; found family |
 | *Time Team* | Landscape authenticity; material culture; "the land remembers" |
 | Wassail / "Drinc Hail" | The cup ritual (presented in the story as "a new thing") |
@@ -6073,37 +6337,51 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 | Character | Status | Birth Year | Age at Hall (Aug 1114) | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | Harold Red‑Wolf | Fic | c. 1050 | ~64 | Warrior at Conquest (16) |
-| Beatrice’s mother | Fic | c. 1077 | — | Dies 1109 |
-| Nurse | Fic | c. 1075 | ~39 | Godfrey’s former nurse |
-| Henry I | Real | 1068 | 46 | |
-| Queen Matilda | Real | c. 1080 | 34 | Dies 1118 |
 | Roger of Salisbury | Real | c. 1065 | 49 | |
-| Sir Guy de Montfort | Fic | c. 1090 | 24 | |
-| Godfrey FitzRoy | Fic | c. 1095 | 19 | Illegitimate son of Henry |
-| William Adelin | Real | 1102 | 12 | Heir; dies 1120 |
-| Beatrice | Fic | c. 1098 | 16 | |
-| Duchess Matilda FitzRoy | Real | c. 1096? | 18 | Henry’s daughter |
-| Avice (half‑sister) | Fic | c. 1093? | 21 | Fictional |
-| Eustacia (half‑sister) | Fic | c. 1095? | 19 | Fictional |
+| Henry I | Real | 1068 | 46 | |
+| Nurse | Fic | c. 1075 | ~39 | Godfrey’s former nurse |
+| Beatrice’s mother | Fic | c. 1077 | — | Dies 1109 |
+| Queen Matilda | Real | c. 1080 | 34 | Dies 1118 |
 | Lady Margaret | Fic | c. 1085? | 29 | Beatrice’s mentor |
+| Sir Guy de Montfort | Fic | c. 1090 | 24 | |
+| Avice (half‑sister) | Fic | c. 1093? | 21 | Fictional |
+| Godfrey FitzRoy | Fic | c. 1095 | 19 | Illegitimate son of Henry |
+| Duchess Matilda FitzRoy | Real | c. 1096? | 18 | Henry’s daughter |
+| Eustacia (half‑sister) | Fic | c. 1095? | 19 | Fictional |
+| Beatrice | Fic | c. 1098 | 16 | |
+| William Adelin | Real | 1102 | 12 | Heir; dies 1120 |
 | Goosie | Fic | 1103 | 11 | Hatched spring 1103 |
 
-### Fixed Historical Timeline Anchors
+### Fixed Historical Timeline Anchors: 994 – 1135
 
-| Date | Event |
-| :--- | :--- |
-| 1066 | Norman Conquest |
-| 1068 | Henry I born |
-| c. 1080 | Matilda of Scotland born |
-| 1100 | Henry becomes king; marries Matilda |
-| 1102 | William Adelin born |
-| March 1113 | Treaty of Gisors; Matilda FitzRoy betrothed to Conan |
-| June–July 1114 | Henry’s Welsh campaign |
-| Early Aug 1114 | Campaign concludes |
-| **Mid‑Aug 1114** | **Royal court at Rockingham Castle – The Goose Vow** |
-| Late Aug 1114 | Court moves to Westminster; Henry crosses to Normandy |
-| 1118 | Queen Matilda dies |
-| 1120 | White Ship disaster |
+| Date | Event | Monarch |
+|---|---|---|
+| 994 | Norwegian and Dane attacks on London (Olaf Tryggvason and Sweyn). | Æthelred II |
+| 1012 | Last major Danegeld (protection money) raised by Æthelred. | Æthelred II |
+| Feb 1014 | Sweyn Forkbeard dies; Æthelred is recalled from exile. | Æthelred II |
+| Apr 1016 | Death of Æthelred; Edmund Ironside succeeds him. | Edmund II |
+| Nov 1016 | Edmund dies; Canute (Cnut) becomes undisputed King. | Canute |
+| Nov 1035 | Canute dies; Harold *Harefoot* claims the English throne. | Harold I |
+| June 1040 | Harthacnut arrives in England with a fleet to seize the crown. | Harthacnut |
+| June 1042 | Harthacnut dies; Edward *the Confessor* is acclaimed. | Edward |
+| Jan 1066 | Death of Edward; Harold Godwinson crowned (6 Jan). | Harold II |
+| Oct 1066 | Battle of Hastings; Harold II killed (14 Oct). | Harold II |
+| Dec 1066 | William *the Conqueror* crowned in England on Christmas Day. | William I |
+| Sept 1068 | Henry I born at Selby, Yorkshire. | William I |
+| c. 1080 | Matilda of Scotland (Edith) born. | William I |
+| Aug 1100 | Henry I crowned (6 Aug) after William II’s hunting death. | Henry I |
+| Nov 1100 | Henry marries Matilda (Edith) of Scotland (11 Nov). | Henry I |
+| Feb 1102 | William Adelin (Henry’s heir) born. | Henry I |
+| Jan 1114 | Empress Matilda marries Emperor Henry V in Worms (7 Jan). | Henry I |
+| Mar 1113 | Treaty of Gisors; Matilda FitzRoy betrothed to Conan. | Henry I |
+| June 1114 | Henry launches a massive campaign into Wales. | Henry I |
+| Early Aug 1114 | Welsh campaign concludes with the submission of local princes. | Henry I |
+| Mid-Aug 1114 | **Royal Court at Rockingham Castle - The Goose Vow.** | Henry I |
+| Late Aug 1114 | Court moves to Westminster; Henry crosses to Normandy. | Henry I |
+| May 1118 | Queen Matilda dies at Westminster (1 May). | Henry I |
+| Nov 1120 | White Ship Disaster (25 Nov); Heir William Adelin drowns. | Henry I |
+| Dec 1135 | Henry I dies (1 Dec); Stephen seizes the throne (22 Dec). | Stephen |
+
 
 ### Master Timeline (1103‑1115)
 
@@ -6172,8 +6450,8 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | **Beatrice** | Fear of losing control over her life and home | Moves from resistance and fear to active, informed choice |
 | **Godfrey** | learnt passivity; being seen only as a "shadow" or "coin" | From watcher to actor; learns to stand beside rather than apart |
 | **Harold** | Fear of leaving Beatrice alone and unprotected | Learns to trust and let go |
-| **King Henry** | Fear of repeating his father's coldness; guilt over neglecting Godfrey | Recognises Godfrey's worth and acts to secure his future |
-| **Queen Matilda** | Fear that Godfrey threatens her son William's succession | Moves from suspicion to genuine support and mentorship |
+| **King Henry** | Fear of repeating his father’s coldness; guilt over neglecting Godfrey | Recognises Godfrey’s worth and acts to secure his future |
+| **Queen Matilda** | Fear that Godfrey threatens her son William’s succession | Moves from suspicion to genuine support and mentorship |
 | **Sir Guy** | Entitlement and grievance masked as righteous indignation | Defeated; does not grow or change |
 | **Lady Margaret** | Unspoken grief over a lost daughter | Finds quiet purpose in guiding Beatrice |
 | **Avice** | Torn between loyalty to her cruel sister and her own conscience | Begins to see the cost of complicity |
@@ -6190,14 +6468,14 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | **King Henry I** | Volatile, witty, dangerous, ultimately just. Father of Godfrey and William. |
 | **Queen Matilda of Scotland** | Born Edith. Saxon heritage. Politically astute, protective of William, becomes Beatrice’s unlikely ally. |
 | **William Adelin** | Legitimate son and heir, age 12. Playful, curious, loyal to his half‑siblings. Drowns in the White Ship disaster of 1120. |
-| **Robert Curthose** | Henry's older brother, imprisoned since 1106. Harold saved him from drowning in the Severn years earlier. |
+| **Robert Curthose** | Henry’s older brother, imprisoned since 1106. Harold saved him from drowning in the Severn years earlier. |
 | **Godfrey FitzRoy** | Illegitimate son of Henry, age 19. A watcher, called "shadow" and "coin" by the court. Educated at Salisbury, quiet but determined. |
-| **Duchess Matilda FitzRoy** | Henry's illegitimate daughter, Godfrey's full sister, age 18. Betrothed to Conan of Brittany. Sharp‑eyed, fiercely loyal to her brother, becomes Beatrice’s close friend. Drowns with William in 1120. |
-| **Robert of Gloucester** | Henry's eldest illegitimate son, Godfrey's half‑brother. A capable military leader, loyal to his father. |
+| **Duchess Matilda FitzRoy** | Henry’s illegitimate daughter, Godfrey’s full sister, age 18. Betrothed to Conan of Brittany. Sharp‑eyed, fiercely loyal to her brother, becomes Beatrice’s close friend. Drowns with William in 1120. |
+| **Robert of Gloucester** | Henry’s eldest illegitimate son, Godfrey’s half‑brother. A capable military leader, loyal to his father. |
 | **Richard of Lincoln** | Another illegitimate son of Henry; appears briefly at court. |
-| **Avice** | Godfrey's jealous half‑sister (fictional), age 21. Complicit in cruelty but capable of shame. |
-| **Eustacia** | Godfrey's younger half‑sister (fictional), age 19. The more openly cruel of the two. |
-| **Edith of Devon** | Godfrey and Matilda's mother, a noblewoman and former mistress of Henry. Lives quietly at Berkhamsted. |
+| **Avice** | Godfrey’s jealous half‑sister (fictional), age 21. Complicit in cruelty but capable of shame. |
+| **Eustacia** | Godfrey’s younger half‑sister (fictional), age 19. The more openly cruel of the two. |
+| **Edith of Devon** | Godfrey and Matilda’s mother, a noblewoman and former mistress of Henry. Lives quietly at Berkhamsted. |
 
 ### Nobles over the Sea (Mentioned Only)
 
@@ -6205,28 +6483,28 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | :--- | :--- |
 | **Conan III, Duke of Brittany** | Betrothed to Matilda FitzRoy. |
 | **Agnes of Brittany** | Briefly considered as a potential bride for Godfrey. |
-| **Alain Fergent** | Conan's father, former Duke of Brittany, who retired to a monastery. |
-| **Giselberthe of Flanders** | Henry I's maternal aunt. |
+| **Alain Fergent** | Conan’s father, former Duke of Brittany, who retired to a monastery. |
+| **Giselberthe of Flanders** | Henry I’s maternal aunt. |
 
 ### The Saxons of Stanwey
 
 | Character | Identity |
 | :--- | :--- |
-| **Harold "Red‑Wolf"** (*Rauthulfr Magnússon*) | Beatrice’s father. An ageing Saxon thegn who survived the Conquest by submitting early and saving the King's brother from drowning. Old, frail, but sharp‑eyed and wise. |
+| **Harold "Red‑Wolf"** (*Rauthulfr Magnússon*) | Beatrice’s father. An ageing Saxon thegn who survived the Conquest by submitting early and saving the King’s brother from drowning. Old, frail, but sharp‑eyed and wise. |
 | **Aldwina** | (Aldwina or Ældwynn) means *ancient delight*) Beatrice’s Mother. Died when Beatrice was 11. Taught Beatrice herb‑lore, brewing, and the running of a household. |
 | **Beatrice** | Protagonist, age 16. Practical, outspoken, deeply attached to her home and her goose. |
 | **Goosie** | Beatrice’s goose, hatched from a speckled egg from the river‑bend farm. A character in her own right. |
-| **The Cook (Beatrice’s Aunt)** | Beatrice’s mother's widowed sister. Comes to Stanwey to help run the hall. |
+| **The Cook (Beatrice’s Aunt)** | Beatrice’s mother’s widowed sister. Comes to Stanwey to help run the hall. |
 | **Eldred** | The capable new estate reeve sent by the Queen to support Harold. Steady, good with accounts. |
-| **The Reeve** | Stanwey's original village headman. Loyal, hardworking, father of a large family. |
-| **The Priest (St. Peter's)** | The elderly village priest at Stanwey. Kind, perceptive, keeps bees. |
-| **Staghound** | Harold's loyal grey hunting dog. Follows him everywhere; dies shortly after Harold. |
+| **The Reeve** | Stanwey’s original village headman. Loyal, hardworking, father of a large family. |
+| **The Priest (St. Peter’s)** | The elderly village priest at Stanwey. Kind, perceptive, keeps bees. |
+| **Staghound** | Harold’s loyal grey hunting dog. Follows him everywhere; dies shortly after Harold. |
 
 ### The River‑Bend Farm
 
 | Character | Identity |
 | :--- | :--- |
-| **The Nurse** | Godfrey and Matilda's former wet‑nurse. Now runs the goose farm by the river bend. Gruff, practical, fond of both Godfrey and Beatrice. Sells Beatrice the speckled egg that becomes Goosie. |
+| **The Nurse** | Godfrey and Matilda’s former wet‑nurse. Now runs the goose farm by the river bend. Gruff, practical, fond of both Godfrey and Beatrice. Sells Beatrice the speckled egg that becomes Goosie. |
 
 ### Knights, Nobles, and Clerics at Court
 
@@ -6234,21 +6512,21 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | :--- | :--- |
 | **Lady Margaret** | Beatrice’s daily mentor at court, age 29. A widow who lost a daughter. Patient, exacting, quietly kind. Serves the Queen directly. |
 | **Sir Guy de Montfort** | Young Norman knight, age 24. Claims kinship to the powerful de Montfort family of Évreux. Obsessed with acquiring Stanwey. |
-| **Roger of Salisbury** | Henry's Justiciar and Bishop of Salisbury, age 49. The second most powerful man in England. Ink‑stained, precise, efficient. |
+| **Roger of Salisbury** | Henry’s Justiciar and Bishop of Salisbury, age 49. The second most powerful man in England. Ink‑stained, precise, efficient. |
 | **Ranulf the Chancellor** | The Lord Chancellor, target of Beatrice’s inadvertent insult ("a goose could outwit the Chancellor"). Takes it with surprising grace. |
-| **Robert de Beaumont** | The King's trusted advisor; accompanies Henry to Normandy. |
-| **The Clerk** | Royal clerk who records the King's vow and the Queen's grants. |
+| **Robert de Beaumont** | The King’s trusted advisor; accompanies Henry to Normandy. |
+| **The Clerk** | Royal clerk who records the King’s vow and the Queen’s grants. |
 | **The Steward** | Household steward at Rockingham and Westminster. |
-| **The Royal Marshal** | Official who marked the old gander with the King's seal. |
+| **The Royal Marshal** | Official who marked the old gander with the King’s seal. |
 
 ### Minor Characters – Royal Court (Named)
 
 | Character | Identity |
 | :--- | :--- |
-| **Alard of Lytham** | Grizzled sergeant of the Queen's guard. Accompanies Beatrice and Godfrey, watches over them, stands guard at the wedding. |
-| **Sabina** | Flemish linen‑maid. Beatrice was curt with her on her first day; later, Sabina overhears Sir Guy's plot but stays silent out of fear. |
+| **Alard of Lytham** | Grizzled sergeant of the Queen’s guard. Accompanies Beatrice and Godfrey, watches over them, stands guard at the wedding. |
+| **Sabina** | Flemish linen‑maid. Beatrice was curt with her on her first day; later, Sabina overhears Sir Guy’s plot but stays silent out of fear. |
 | **Ela** | Young maid who discovers Goosie in Beatrice’s chamber and screams "ghost," triggering the solar disaster. |
-| **The Queen's Maids** | Trained singers who perform for the Queen, including the *dawn‑song* from Provence. |
+| **The Queen’s Maids** | Trained singers who perform for the Queen, including the *dawn‑song* from Provence. |
 | **The Flemish Merchant** | Grey‑haired, nondescript; moves among the benches at the feast, listening. |
 | **The Wandering Clerk** | A threadbare scholar at the edge of the feast, watching the high table. |
 | **The Young Squires** | Laugh at Beatrice when she is drenched in slops. |
@@ -6258,25 +6536,25 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 | Character | Identity |
 | :--- | :--- |
 | **John the Carter** | Drives the bullock‑wain that gives Beatrice a lift from Rockingham. |
-| **John's Wife** | Rides beside him; sharp‑eyed, enjoys gossip. |
-| **John's Two Daughters** | Ride on the tailboard; their chatter reveals the King's vow to Beatrice. |
-| **Big Edwin** | A tenant farmer near Stanwey whose birds were taken by the Abbot's tithe collector. |
-| **The Farmer's Wife** | Lost her flock to murrain after the river flooded. |
+| **John’s Wife** | Rides beside him; sharp‑eyed, enjoys gossip. |
+| **John’s Two Daughters** | Ride on the tailboard; their chatter reveals the King’s vow to Beatrice. |
+| **Big Edwin** | A tenant farmer near Stanwey whose birds were taken by the Abbot’s tithe collector. |
+| **The Farmer’s Wife** | Lost her flock to murrain after the river flooded. |
 | **The Tenant Farmer** | Lost his birds to the Abbot. |
 | **Alfsige** | Elderly villager; walks the bounds with Godfrey and identifies the rune‑marked boundary stone. |
 | **Leofwine** | Elderly villager; explains the history of the Roman road and iron pits during the bounds‑walking. |
 | **The Blacksmith** | Works at the crossroads; his wife has a new baby girl. |
-| **The Miller's Wife** | Mentioned in passing. |
-| **The Village Children** | Gather flowers to decorate the lane for the King's visit. |
+| **The Miller’s Wife** | Mentioned in passing. |
+| **The Village Children** | Gather flowers to decorate the lane for the King’s visit. |
 
 ### Minor Characters – The Rescue and Wedding
 
 | Character | Identity |
 | :--- | :--- |
 | **The Priest (St. Mary‑by‑the‑Woods)** | The corrupt priest who allows Sir Guy to use his chapel; flees and is later caught. |
-| **The Royal Forester** | Blows the horn that warns of the attack and helps scatter Sir Guy's hired men. |
+| **The Royal Forester** | Blows the horn that warns of the attack and helps scatter Sir Guy’s hired men. |
 | **The Captain of the Guard** | Arrives at the chapel to arrest Sir Guy. |
-| **The Old Woman (Church)** | Calls out "Get on with it. We've bread to bake" during the objection silence at the wedding. |
+| **The Old Woman (Church)** | Calls out "Get on with it. We’ve bread to bake" during the objection silence at the wedding. |
 | **The Old Woman (Proverb)** | Repeats the proverb at the end of the wedding feast. |
 | **The Messenger (Royal)** | Various unnamed messengers who carry letters and news. |
 
@@ -6284,12 +6562,12 @@ The morning was divided into **Ecclesiastical Hours**. Because these were based 
 
 | Character | Identity |
 | :--- | :--- |
-| **Empress Matilda** | Henry's legitimate daughter, later claimant to the English throne. (Not a character in the story, but noted in historical context.) |
+| **Empress Matilda** | Henry’s legitimate daughter, later claimant to the English throne. (Not a character in the story, but noted in historical context.) |
 | **Matilda of Boulogne** | Wife of Stephen of Blois, future King. (Not a character in the story.) |
-| **William Peverel the Younger** | Ambitious Sheriff of Nottingham and beyond; watches Stanwey's iron‑rich lands with interest. |
+| **William Peverel the Younger** | Ambitious Sheriff of Nottingham and beyond; watches Stanwey’s iron‑rich lands with interest. |
 | **Maredudd ap Bleddyn** | Welsh chieftain of Powys; Godfrey negotiated a treaty with him. |
 | **Owain ap Cadwgan** | Welsh prince who submitted to Henry I in 1114. |
-| **William Clito** | Henry's nephew, son of the imprisoned Robert Curthose; a rival claimant to Normandy, sheltered by the French King. |
+| **William Clito** | Henry’s nephew, son of the imprisoned Robert Curthose; a rival claimant to Normandy, sheltered by the French King. |
 
 ---
 
@@ -6333,7 +6611,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **attainder** (pl. attainders; The loss of all civil rights and land due to a crime)
 - **chancellor** (pl. chancellors; The official in charge of the King’s writing and seals)
 - **charter** (pl. charters; A formal written grant or treaty)
-- **coram rege** (A court of high justice that travelled with the King's person, literally “in the presence of the King”)
+- **coram rege** (A court of high justice that travelled with the King’s person, literally “in the presence of the King”)
 - **deported** (alt. deport; Forcibly sent out of a country back to one’s land of birth)
 - **escheat** (pl. escheats; When land goes back to the King because there is no heir)
 - **escheator** (pl. escheators; The official who handles land that has “escheated”)
@@ -6726,8 +7004,8 @@ In general the author has taken some liberties with modern English grammar to gi
 >
 > The court expects a lady of rank. They expect a political solution.
 >
-> Instead, the doors swing wide for Beatrice, the sharp‑witted daughter of a vanquished Saxon warrior. She hasn't come for a crown or a husband; she has come to save her prize goose from the King's table.
+> Instead, the doors swing wide for Beatrice, the sharp‑witted daughter of a vanquished Saxon warrior. She hasn’t come for a crown or a husband; she has come to save her prize goose from the King’s table.
 >
-> But a Norman court is no place for a Saxon girl with a goose. And the king's vow is only the beginning.
+> But a Norman court is no place for a Saxon girl with a goose. And the king’s vow is only the beginning.
 
 ***
