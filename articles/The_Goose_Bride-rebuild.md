@@ -461,58 +461,78 @@ And it did. When the loaf came out of the oven, golden and steaming, and her mot
 
 ---
 
-
-### A fickle friend
+### To send for the priest
 
-[REPLACED: The original summary opening “Not all her lessons were gentle...“ is replaced with immediate sensory action.]
-
-A fist pounded the oak door. Not a knock. A pounding. The sound of someone who had run. The sound of someone who could not catch their breath.
-
-Beatrice was on her feet before the servant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘My lady, please—he was working in the high field and his heart began to pound and it will not stop—‘
-
-Aldwina was already there. She guided the young man to the stool by the hearth, the one reserved for the sick and the frightened and the women in labour. He sat heavily, head bowed, his hand pressed flat against his chest. His breath came in short, shallow gasps. His skin was the colour of old ash, grey‑blue at the lips. He looked scarcely older than a boy. He looked terrified.
-
-Beatrice turned to the shelf beside the hearth where the jars stood in their neat row: willow bark, comfrey, lemon balm, foxglove. Her fingers closed on the foxglove jar. She knew this. A small pinch. To steady the pulse.
-
-Her mother’s hand closed over hers. Firm. Silent. Sure.
-
-‘Not for this man. His heart is fast, but his hands are cold.‘ Aldwina took the jar and replaced it on the shelf, out of reach. ‘Foxglove would stop it, not slow it.‘
-
-Beatrice looked at the jar. Then at the man, slumped on the stool, still gasping. She had been so certain.
-
-‘Then what?‘
-
-‘Hawthorn. The flowers and the leaves. And a blanket. He is cold as well as frightened.‘
-
-Beatrice fetched them. She watched her mother crush the leaves with the flat of a knife, quick and sure, and scoop them into a cup. She watched her pour hot water from the kettle, her hands steady, her voice calm.
-
-[ADDED: The young man’s question about death, and Aldwina’s response.]
-
-‘Am I dying?‘ The young man’s voice cracked. ‘My lady, am I—‘
-
-‘You are not dying.‘ Aldwina did not look up from her work. ‘Your heart is frightened and your body is tired and you have been working too long in the heat. But you are not dying. I have seen dying, and it does not look like you.‘
-
-‘Will I see her?‘ His fists were clenched on his thighs. ‘If I die. Will I see my mother?‘
-
-Aldwina put the cup into his hands. ‘If the Lord took you, she would know you. You would know her. There would be no more pain. That is the promise.‘ She closed his fingers around the cup. ‘Drink.‘
-
-He drank. Beatrice watched the colour seep back into his cheeks. She watched the grey recede like a tide. Her mother had known the difference before she had even touched him. But the tremor in Beatrice’s own hands took an hour to fade.
-
-[UNCHANGED: The foxglove jar moved, and the summary of Beatrice’s learning.]
-
-Her mother said nothing about it afterwards. She did not need to. The foxglove jar was moved to a higher shelf, out of reach of certainty, and Beatrice never reached for it again without pausing, without feeling the ghost of her mother’s hand on her wrist.
-
-She learned, in the years that followed, which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer’s broken limb, and lemon balm to lift a heavy heart.
+Beatrice learnt, in the years that followed, which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer’s broken limb, and lemon balm to lift a heavy heart.
 
 She learned how to soothe a crying child with a cool hand and a soft word. She learned how much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter. And most importantly, she learned how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
 
 ---
 
-[NEW SECTION: The conversation between Aldwina and Beatrice after the man leaves.]
+### A fickle friend
 
-After the man and his wife had gone, and the door was barred, and the hawthorn infusion had been set to cool, Beatrice sat on the stool by the hearth. The foxglove jar was on the high shelf now. She could see it there, above her reach.
+A fist pounded the oak door.
+
+Beatrice was on her feet before the servant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘My lady, please; Peter was working in the high field and his heart began to pound and it will not stop.‘
+
+Aldwina was already there. She guided a young man to the hearth and sat him on the stool she often used for sick, frightened or women in labour. He sat down heavily, head bowed, looking terrified. His hand pressed flat against his chest, his breath coming in short, shallow gasps like a fish. His skin was the colour of old ash, grey‑blue at his protruding lips. 
+
+Beatrice turned to the cold stone shelves where jars stood in their neat row: willow bark, comfrey, lemon balm, foxglove. Her fingers closed on the foxglove jar. She knew this. A small pinch. To steady the pulse.
+
+Her mother’s hand closed over hers and she shook her head.
+
+‘No. His heart is fast, but his hands are cold.‘ Aldwina placed the jar back on a higher shelf, out of easy reach. ‘Foxglove would stop it, not slow it. We will use Hawthorn flowers and the leaves. Fetch me a blanket, the thick woolen one, for he is cold as well as frightened.‘
+
+Beatrice returned with the blanket. She found her mother crushing Hawthorn leaves with the flat of a knife, quick and sure, and scooped them into a cup. Aldwina poured hot water from the kettle, her voice pleasant and calm.
+
+Beatrice looked back at the foxglove jar, then at the frightened young man on the stool. 
+
+‘Am I dying?‘ The young man’s voice gasped. ‘My lady, am I—‘
+
+‘No.‘ Aldwina did not look up from her work. ‘Your heart is startled and your body is tired.‘
+
+‘Will I see her?‘ His fists were clenched on his thighs. ‘If I die. Will I see my mother?‘
+
+Aldwina put the cup into his hands. ‘If the Lord God took you, she would know you and you would know her. There would be no more pain, that is the promise.‘ She closed his fingers around the cup. ‘Now, drink.‘
+
+He drank and Aldwina continued. 
+
+‘But as for you, I have seen plenty of dying, and it does not look like you. You have been working far too long in the heat without water, that is all.’
+
+Beatrice watched the colour seep back into his cheeks. She watched the grey recede like a tide. Her mother had known the difference before she had even touched him. 
+
+But the tremor in Beatrice’s own hands took an hour to fade, remembering her mother’s words.
+
+---
+
+### How do you know
+
+After the man and his wife had gone, and the door was once again barred, Beatrice sat on the stool by the hearth. The foxglove jar was on the high shelf now. She could see it there, above her reach.
 
 Her mother was wiping down the workbench. She did not speak, and Beatrice knew she was being given time to find her own words.
+
+‘Mother?’
+
+‘Yes, dear?’
+
+‘How did you know that it was not his heart failing?' Beatrice asked. 'That foxglove would be wrong.'
+
+Aldwina wiped the last of the hawthorn leaves from the knife and set it aside. She did not answer at once, and Beatrice had the sense that her mother was choosing her words with the same care she used when measuring out a remedy.
+
+'A heart can race for many reasons,' she said. 'Fear. Exhaustion. A fever. A flaw in the heart itself. The trick is to read the whole man, not the single sign.' She turned to face Beatrice. 'His hands were cold. You felt them when you brought the blanket. Cold hands with a racing heart—that is the body pulling itself inward, guarding its core, the way a frightened animal pulls back from a flame. The heart is not sick. The heart is answering a command.'
+
+'What command?'
+
+
+'To live, to survive. He had worked too long in the heat. His body believed it was in danger. The racing heart was not the illness. It was the cure.' She paused. 'Foxglove would have silenced it. And the cure would have killed him.'
+
+Beatrice was silent. She looked at her own hands. They were still now, but she could feel the tremor waiting beneath the skin, the memory of the jar in her fingers, the pinch she had almost taken.
+
+'So the cold hands told you,' she said.
+
+'The cold hands and the fear and the way he could still grip his own knees. A dying man's hands are cold and weak. A frightened man's hands are cold and strong. You learn to see the difference, in time.' Aldwina reached out and covered Beatrice's hands with her own. 'You will learn.'
+
+
 
 ‘You told him he would see his mother again,‘ Beatrice said.
 
