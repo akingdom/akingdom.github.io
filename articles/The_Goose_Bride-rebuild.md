@@ -373,94 +373,78 @@ And when the village reeve brought the harvest accounts, her father made her sit
 
 Beatrice fumbled with the ties of her apron, her fingers still clumsy with sleep. The strings were too short or her hands were too cold. She could not tell which.
 
-‘Here.’ Her mother turned her by the shoulders and knotted the ties at the small of her back. ‘Up you get.’
+‘Here.’ Her mother turned her by the shoulders. ‘Do you want to make your own bread today?’ She knotted the ties at the small of her back.
 
-Beatrice scrambled onto the stool. It wobbled. She grabbed the edge of the kitchen workbench, steadied herself, and forgot to breathe.
+Beatrice nodded vehemently. ‘Yes, Mother!’
 
-Her mother’s hands were in the dough. Not stirring, not mixing—kneading. The heel of her palm pressed down, folded the dough over, pressed again. The bench groaned under the rhythm of it. A puff of flour jumped from the wood at each push and hung in the air before drifting down. The muscles in her mother’s forearms moved like something alive beneath the skin. The dough made a soft, wet sound as it turned, a sound Beatrice could feel in the back of her own throat.
+‘Up you get, then.’
+
+Beatrice scrambled onto the stool. It wobbled. Aldwina reached out, but Beatrice had already grabbed the edge of the kitchen workbench, steadied herself, and forgot to breathe.
+
+‘Less rush, more care, Beatrice. Now. Watch my hands first, then yours will follow.’
+
+Her mother’s hands were in the dough. Not stirring, not mixing, but kneading. The heel of her palm pressed down, folded the dough over, pressed again. The bench groaned under the rhythm of it. A puff of flour jumped from the wood at each push and hung in the air before drifting down.
 
 ‘Why do you push it so hard?’
 
-‘To knock the air out.’ Her mother did not look up. ‘If I don’t, the loaf will be full of holes.’
+‘To knock the air out. If I don’t, the loaf will be full of holes. Now you.’
 
-Beatrice thought about holes in bread. She had picked them out with her fingers and eaten the soft middle first, a hundred times. She had never once thought about where they came from.
+She set a smaller lump of dough in front of Beatrice. It was soft and floury, and it smelled of yeast and something warm, something alive. Beatrice pressed her fingers into it as she had seen her mother do. The dough gave way under her hands, springing back when she released it.
 
-Her mother gathered the dough into a smooth ball and set it in a wooden bowl, covering it with a linen cloth. She tucked the edges around it, the same way she tucked Beatrice into bed at night.
+‘It breathes!’
+
+‘It does. You must be gentle with it, or it will not rise. Heel of your palm, like this.’
+
+Her mother came to stand behind her, reaching around to guide her hands. ‘Press and fold. Press and fold. You are not punishing the dough. You are shaping it.’
+
+Beatrice pressed and folded. Pressed and folded. The bench creaked under her weight, a smaller sound than when her mother leaned into the work, but the same rhythm. The dough began to smooth under her hands.
+
+‘There. Now you are making bread.’
+
+Her mother gathered both their portions together and set the dough in a wooden bowl, covering it with a linen cloth. She tucked the edges around it, the same way she tucked Beatrice into bed at night.
 
 ‘Now it must rest.’
 
 ‘Why?’
 
-‘The yeast has work to do. You cannot rush it.’
+‘The yeast will not rush its work and neither should you.’
 
 Beatrice watched the cloth. Nothing happened. She watched it some more. Still nothing. She was about to say so when her mother tapped the bowl with a finger.
 
 ‘Patience. It will rise when it is ready.’
 
-And it did. Slowly, almost imperceptibly, the cloth began to lift. The dough was breathing under there, filling the bowl, pressing against the linen like a small, round belly. Beatrice stared. She had seen loaves rise before, but she had never watched it happen, never understood that the dough was doing something while she waited, working invisibly in the warmth from the hearth.
+And rise it did. Slowly, almost imperceptibly, the cloth began to lift. The dough was breathing under there, filling the bowl, pressing against the linen like a small, round belly. Beatrice stared. She had seen loaves rise before, but she had never watched it happen.
 
-Her mother pulled back the cloth. The dough had doubled. She pressed a finger into its surface, and the dent stayed, a small dimple in the smooth pale skin.
+Her mother pulled back the cloth. The dough had doubled. She pressed a finger into its surface, and the dent stayed, a small dimple in the smooth pale skin. She divided it again and set a portion in front of Beatrice.
 
-‘Now it is ready.’
+‘Shape it now. Gentle tucks. Like you are folding a letter.’
 
-She shaped the loaves with quick, practised tucks, her fingers leaving small impressions that vanished as the dough sprang back. She set them in a row on the bench. A smear of flour sat across her forehead where she had wiped her face with the back of her wrist, and there was dough drying under her fingernails, and she did not seem to notice any of it.
+Beatrice shaped the loaf with the whole of her concentration, her tongue pressed against her top lip, her hands moving more slowly than her mother’s but with the same careful intention. When she finished, the loaf was lopsided, one end higher than the other, and there was a thumbprint deep in the centre where she had pressed too hard. She looked up, ready to apologise.
 
-She thrust her bare hand into the oven’s mouth and held it there.
+Her mother was smiling. ‘It will taste better for being yours.’
 
-Beatrice leaned forward. One heartbeat. Two. Her mother pulled her hand back, flexed her fingers, and nodded.
+She thrust her bare hand into the oven’s mouth and held it there. Beatrice leaned forward.
 
 ‘How do you do that without burning yourself?’
 
-‘Practice.’ She crouched and slid the loaves onto the stone with a long wooden paddle. ‘And calluses.’
+‘Practice.’ Her mother crouched and slid the loaves onto the stone with a long wooden paddle. ‘Practice and calluses.’
 
-The oven breathed heat into the room. Beatrice’s cheeks prickled. The smell came first, before the colour—the warm, yeasty smell of baking bread, and then the darker smell of the crust beginning to brown. Beatrice knew that smell. It meant bread. It meant supper. It meant her mother would be humming soon, and her father would come in from the yard and say something about the smell reaching the gate, and Goosie would honk at the door for a crust.
+The oven breathed heat into the room. Beatrice’s cheeks prickled. The smell came first—the warm, yeasty smell of baking bread, and then the darker smell of the crust beginning to brown.
 
-When the first loaf came out, her mother lifted it and knocked on its underside with a knuckle. The sound was hollow. A small warm *thock*. She knocked again, listening.
+When the loaves came out, her mother lifted Beatrice’s and knocked on its underside with a knuckle. The sound was hollow. A small warm *thock*.
 
-‘How do you know when it’s ready?’
-
-‘The bread tells me.’
-
-‘Bread can’t talk.’
-
-‘Not with words.’ Her mother set the loaf on the bench and tapped its golden flank. ‘Listen.’
-
-Beatrice listened. The thump was hollow, a small echo inside the loaf. She did not know how she knew what it meant, but she knew it, the same way she knew the sound of her father’s boots on the flagstones or the honk of Goosie across the yard.
-
-‘It sounds like a door,’ she said.
+‘It sounds like a door,’ Beatrice said.
 
 Her mother blinked. ‘A door?’
 
 ‘A tiny door. Inside the bread.’
 
-Aldwina laughed—a real laugh—and Beatrice felt it open something warm in her chest.
+Her mother laughed, a real laugh, and Beatrice felt it open something warm in her chest. ‘You certainly listen with different ears than I do.’ She set the loaf on the bench. ‘Now. Let us see how it tastes.’
 
-‘You listen with different ears than I do,’ her mother said. ‘That’s not a bad thing.’
-
----
-
-### Shaping the loaves
-
-One morning, when Beatrice was tall enough to reach the workbench without a stool, her mother stepped aside.
-
-‘Your turn.’
-
-Beatrice stared at the lump of dough. It was soft and floury, and it smelled of yeast and something warm, something alive. She pressed her fingers into it as she had seen her mother do. The dough gave way under her hands, springing back when she released it. She pressed again, harder, and a small pocket of air escaped with a sigh.
-
-‘It breathes!’ She looked up, her fingers still buried in the dough. ‘Did you see? Can I make it do it again?’
-
-‘It does. It is alive, after a fashion. You must be gentle with it, or it will not rise.’
-
-Beatrice shaped the loaf with the whole of her concentration, her tongue pressed against her top lip, her hands moving more slowly than her mother’s but with the same careful intention. When she finished, the loaf was lopsided, one end higher than the other, and there was a thumbprint deep in the centre where she had pressed too hard.
-
-She looked up, ready to apologise.
-
-Her mother was smiling. ‘It will taste better for being yours.’
-
-And it did. When the loaf came out of the oven, golden and steaming, and her mother thumped the crust and nodded, Beatrice felt a pride so fierce and private that she carried it with her all day, a warm knot beneath her ribs. She had made something. She had made something, and it was good.
+And when the loaf had cooled enough to tear open, the crust crackling under her fingers, Beatrice felt a pride so fierce and private that she carried it with her all day, a warm knot beneath her ribs. She had made something. She had made something, and it was good.
 
 ---
-
+
 ### To send for the priest
 
 Beatrice learnt, in the years that followed, which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer’s broken limb, and lemon balm to lift a heavy heart.
