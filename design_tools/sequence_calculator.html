@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<!-- # filename: sequence_calculator.html -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sequence Grid Calculator</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; background: #f4f4f9; }
+        .controls { display: flex; gap: 20px; margin-bottom: 20px; align-items: flex-end; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .control-group { display: flex; flex-direction: column; gap: 5px; }
+        input[type="number"] { width: 60px; padding: 5px; }
+        
+        .grid-container { overflow-x: auto; background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        table { border-collapse: collapse; min-width: 100%; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; min-width: 80px; }
+        
+        .header-row { background: #eee; font-weight: bold; }
+        .formula-input, .seed-input { width: 90%; padding: 4px; border: 1px solid #ddd; border-radius: 3px; font-family: monospace; }
+        .formula-input { background: #eefbff; }
+        .seed-input { background: #fffdf0; }
+        
+        .read-only-cell { background: #fafafa; color: #333; }
+        .help-toggle { cursor: pointer; color: #0066cc; text-decoration: underline; margin-bottom: 10px; display: inline-block; }
+        #help-section { display: none; background: #fff; border: 1px solid #0066cc; padding: 15px; margin-bottom: 20px; border-radius: 5px; line-height: 1.5; }
+        code { background: #eee; padding: 2px 4px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+
+    <h2>Sequence Calculator</h2>
+
+    <div class="help-toggle" onclick="toggleHelp()">Toggle Help & Examples</div>
+    <div id="help-section">
+    <div class="grid-container" id="gridWrapper_example"><table><tbody><tr><td class="header-row">Formula</td><td><input readonly class="formula-input" data-col="0" value="row * 2"></td><td><input readonly class="formula-input" data-col="1" value="a + 5"></td><td><input readonly class="formula-input" data-col="2" value="cell(-1, 0) * cell(0, -1)"></td></tr><tr><td class="header-row">Seed</td><td><input readonly type="number" class="seed-input" data-col="0" value="0"></td><td><input readonly type="number" class="seed-input" data-col="1" value="0"></td><td><input readonly type="number" class="seed-input" data-col="2" value="1"></td></tr><tr class="header-row"><td># (row)</td><td>1 (a)</td><td>2 (b)</td><td>3 (c)</td></tr><tr><td class="header-row">1</td><td class="read-only-cell">2</td><td class="read-only-cell">7</td><td class="read-only-cell">7</td></tr><tr><td class="header-row">2</td><td class="read-only-cell">4</td><td class="read-only-cell">9</td><td class="read-only-cell">63</td></tr><tr><td class="header-row">3</td><td class="read-only-cell">6</td><td class="read-only-cell">11</td><td class="read-only-cell">693</td></tr><tr><td class="header-row">4</td><td class="read-only-cell">8</td><td class="read-only-cell">13</td><td class="read-only-cell">9009</td></tr><tr><td class="header-row">5</td><td class="read-only-cell">10</td><td class="read-only-cell">15</td><td class="read-only-cell">135135</td></tr></tbody></table></div><br>
+    <strong>Variables & Aliases:</strong>
+    <ul>
+        <li><code>row</code>, <code>col</code>: Current position.</li>
+        <li><code>a</code>, <code>b</code>, <code>c</code>...: References the value of that column in the <strong>current</strong> row.</li>
+        <li><code>above</code>, <code>prior</code>, <code>previous</code>, <code>last</code>: All reference the value directly above the current cell (<code>cell(0, -1)</code>).</li>
+        <li><code>seed</code>: reference the seed value (same as <code>cell(0, -1)</code> for the first row and <code>cell(0, -2)</code> for the second row).</li>
+    </ul>
+    <strong>Functions:</strong>
+    <ul>
+        <li><code>cell(x, y)</code>: Relative lookup. <code>x</code> = horizontal offset, <code>y</code> = vertical offset. (Must be &le; 0).</li>
+        <li><strong>Math:</strong> Use <code>PI</code>, <code>SQRT2</code>, <code>sin()</code>, <code>abs()</code>, <code>pow(base, exp)</code>, etc., without the 'Math.' prefix.</li>
+    </ul>
+    <strong>Further Examples:</strong>
+    <ul>
+        <li>Arithmetic sequence: <code>above + 10</code> (Seed is start value).</li>
+        <li>Fibonacci-style: <code>last + cell(0, -2)</code>.</li>
+        <li>Running total of Col A: <code>a + last</code>.</li>
+    </ul>
+    
+</div>
+
+    <div class="controls">
+        <div class="control-group">
+            <label>Rows</label>
+            <input type="number" id="rowCount" value="5" min="1" onchange="updateGridDimensions()">
+        </div>
+        <div class="control-group">
+            <label>Cols</label>
+            <input type="number" id="colCount" value="3" min="1" onchange="updateGridDimensions()">
+        </div>
+        <button onclick="calculate()">Calculate</button>
+        <button onclick="resetGrid()" style="background: #ff4444; color: white; border: none; padding: 5px 15px; border-radius: 4px; cursor: pointer;">Reset All</button>
+    </div>
+
+    <div class="grid-container" id="gridWrapper"></div>
+
+<script>
+    // Persistent state
+    let config = {
+        formulas: ["last", "last", "last"],
+        seeds: [0, 0, 0]
+    };
+
+    function toggleHelp() {
+        const hs = document.getElementById('help-section');
+        hs.style.display = hs.style.display === 'block' ? 'none' : 'block';
+    }
+
+    function getColLetter(n) {
+        return String.fromCharCode(97 + n);
+    }
+
+    function updateGridDimensions() {
+        renderGrid();
+    }
+
+    function renderGrid() {
+        const rows = parseInt(document.getElementById('rowCount').value);
+        const cols = parseInt(document.getElementById('colCount').value);
+        const container = document.getElementById('gridWrapper');
+
+        let html = `<table>`;
+        
+        // 1. Formula Inputs Row
+        html += `<tr><td class="header-row">Formula</td>`; // Removed extra <td>
+        for (let j = 0; j < cols; j++) {
+            let val = config.formulas[j] || "";
+            html += `<td><input class="formula-input" data-col="${j}" value="${val}" onchange="saveConfig()"></td>`;
+        }
+        html += `</tr>`;
+
+        // 2. Seed Inputs Row
+        html += `<tr><td class="header-row">Seed</td>`; // Removed extra <td>
+        for (let j = 0; j < cols; j++) {
+            let val = config.seeds[j] !== undefined ? config.seeds[j] : 0;
+            html += `<td><input type="number" class="seed-input" data-col="${j}" value="${val}" onchange="saveConfig()"></td>`;
+        }
+        html += `</tr>`;
+
+        // 3. Title Row (Format: # (a))
+        html += `<tr class="header-row"><td># (row)</td>`; // Removed extra <td>
+        for (let j = 0; j < cols; j++) {
+            html += `<td>${j + 1} (${getColLetter(j)})</td>`;
+        }
+        html += `</tr>`;
+
+        // 4. Data Rows
+        for (let i = 1; i <= rows; i++) {
+            // Row starts with row number, then immediately starts data cells
+            html += `<tr><td class="header-row">${i}</td>`; 
+            for (let j = 0; j < cols; j++) {
+                html += `<td id="cell-${i}-${j}" class="read-only-cell">-</td>`;
+            }
+            html += `</tr>`;
+        }
+
+        html += `</table>`;
+        container.innerHTML = html;
+        calculate(); 
+    }
+
+    function saveConfig() {
+        const formulas = document.querySelectorAll('.formula-input');
+        const seeds = document.querySelectorAll('.seed-input');
+        
+        formulas.forEach(input => {
+            config.formulas[parseInt(input.dataset.col)] = input.value;
+        });
+        seeds.forEach(input => {
+            config.seeds[parseInt(input.dataset.col)] = parseFloat(input.value) || 0;
+        });
+        calculate();
+    }
+
+    function calculate() {
+        const rows = parseInt(document.getElementById('rowCount').value);
+        const cols = parseInt(document.getElementById('colCount').value);
+        
+        let results = Array.from({ length: rows + 1 }, () => Array(cols).fill(0));
+
+        for (let j = 0; j < cols; j++) {
+            results[0][j] = parseFloat(config.seeds[j]) || 0;
+        }
+
+        for (let i = 1; i <= rows; i++) {
+            for (let j = 0; j < cols; j++) {
+                const formula = config.formulas[j] || "0";
+                
+                const context = {
+                    row: i,
+                    col: j + 1,
+                    column: j + 1,
+                    // Alias mapping for cell(0, -1)
+                    above: results[i - 1][j],
+                    prior: results[i - 1][j],
+                    previous: results[i - 1][j],
+                    last: results[i - 1][j],
+                    seed: results[0][j - 0],
+                    cell: (dx, dy) => {
+                        let targetCol = j + dx;
+                        let targetRow = i + dy;
+                        if (targetRow < 0 || targetRow > i) return 0;
+                        if (targetRow === i && targetCol >= j) return 0; 
+                        if (targetCol < 0 || targetCol >= cols) return 0;
+                        return results[targetRow][targetCol];
+                    }
+                };
+
+                for (let k = 0; k < j; k++) {
+                    context[getColLetter(k)] = results[i][k];
+                }
+
+                try {
+                    const evaluator = new Function('ctx', `
+                        with(Math) {
+                            with(ctx) {
+                                return ${formula};
+                            }
+                        }
+                    `);
+                    let res = evaluator(context);
+                    results[i][j] = (typeof res !== 'number' || isNaN(res)) ? "Error" : res;
+                } catch (e) {
+                    results[i][j] = "Error";
+                }
+
+                const cell = document.getElementById(`cell-${i}-${j}`);
+                if (cell) {
+                    let displayVal = results[i][j];
+                    cell.innerText = typeof displayVal === 'number' ? 
+                        Number(displayVal.toFixed(4)).toString() : displayVal;
+                }
+            }
+        }
+    }
+        
+    function resetGrid() {
+        if (!confirm("Are you sure you want to clear all formulas and seeds?")) return;
+
+        // Reset the data storage
+        config.formulas = [];
+        config.seeds = [];
+
+        // Reset the dimension inputs
+        document.getElementById('rowCount').value = 5;
+        document.getElementById('colCount').value = 3;
+
+        // Refresh the view
+        renderGrid();
+    }
+
+    // Initial Load
+    window.onload = renderGrid;
+</script>
+
+</body>
+</html>
