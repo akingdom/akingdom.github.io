@@ -1,6 +1,6 @@
 # Scripture Viewer Build Tool
 
-A lightweight, high-performance USFM-to-JSON pipeline and web-based viewer. This project is designed to handle multiple Bible versions, automatically detect translation titles from USFM headers or copyright files, and provide a clean, responsive reading experience with Strong’s numbers and footnote support.
+A lightweight, high-performance USFM-to-JSON pipeline and web-based viewer. This project is designed to handle multiple Bible versions, automatically detect translation titles from USFM headers or copyright files, and provide a clean, responsive reading experience with Strong’s numbers and footnote support. 
 
 ## 🚀 Key Features
 
@@ -15,6 +15,10 @@ A lightweight, high-performance USFM-to-JSON pipeline and web-based viewer. This
 * `preprocess_bible.py` - The Python build tool that converts USFM folders into JS data.
 * `bookdata/` - Created during build; contains the processed JS versions and index.
 * `[Translation_Folders]/` - Put your raw USFM/SFM folders here.
+
+## 📚 Data Structure
+
+* The JS book data files are essentially raw USFM format inside a JSON wrapper, with one entry per book, one file per version. This provides for reasonably compact data.
 
 ## 🛠️ How to Build
 
