@@ -263,36 +263,70 @@ function populateBooks() {
 }
 
 function parseUSFM(usfm) {
-    const chapters = {}; let curCh = 0, curV = 0;
+    const chapters = {}; 
+    let curCh = 0, curV = 0;
+    let pendingPrefixes = []; // To hold headings that belong BEFORE the next verse
+    
     const metaIgnore = ['\\h', '\\toc', '\\id', '\\mt', '\\rem'];
 
     usfm.split('\n').forEach(line => {
         line = line.trim();
         if (!line) return;
-        const tag = line.split(' ')[0];
+        
+        const parts = line.split(' ');
+        const tag = parts[0];
+        const cleanTag = tag.replace('\\', '');
 
-        if (line.startsWith('\\c ')) { 
-            curCh = parseInt(line.split(' ')[1]); chapters[curCh] = {}; curV = 0; return;
+        // 1. Handle Chapter marker
+        if (tag === '\\c') { 
+            curCh = parseInt(parts[1]); 
+            chapters[curCh] = {}; 
+            curV = 0; 
+            return;
         }
-        if (line.startsWith('\\v ')) {
+
+        // 2. Handle Verse marker
+        if (tag === '\\v') {
             const m = line.match(/\\v\s+(\d+)\s+(.*)/);
-            if (m) { curV = parseInt(m[1]); chapters[curCh][curV] = finalize(m[2]); } return;
+            if (m) { 
+                curV = parseInt(m[1]); 
+                // Initialize verse with any pending headers that were waiting for it
+                chapters[curCh][curV] = pendingPrefixes.join('') + finalize(m[2]); 
+                pendingPrefixes = []; // Clear queue
+            } 
+            return;
         }
 
         if (metaIgnore.some(m => tag.startsWith(m))) return;
 
-        let content = finalize(line);
-        const cleanTag = tag.replace('\\', '');
+        // 3. Handle Structural Tags (Headings, Breaks, etc.)
+        let content = finalize(line.substring(tag.length).trim());
         
-        // Fix: Preserve structural markers (like \b blank lines) even if content-less
-        if (content || cleanTag === 'b') {
-            if (curCh === 0) { curCh = 1; chapters[curCh] = {}; }
-            const wrapped = `<span class="usfm-${cleanTag}">${content}</span>`;
+        // If content is empty but it's a known structural tag like \b (blank line)
+        if (content || ['b', 'm', 'pmo', 'q1', 'q2'].includes(cleanTag)) {
+            const wrapped = `<div class="usfm-${cleanTag}">${content}</div>`;
 
-            if (curV === 0) { curV = 1; chapters[curCh][curV] = wrapped; }
-            else { chapters[curCh][curV] = (chapters[curCh][curV] || "") + wrapped; }
+            // THE LOGIC FIX:
+            // If we haven't hit a verse yet, or if the current verse text is already "finished" 
+            // (which in USFM linear processing means this tag is a suffix to the current 
+            // block or a prefix to the next), we put it in the pending queue.
+            
+            if (curV === 0 || line.includes('\\s') || line.includes('\\r')) {
+                // These tags generally precede verse text in USFM
+                pendingPrefixes.push(wrapped);
+            } else {
+                // Append to existing verse if it's mid-verse material (like \f notes or \qs)
+                chapters[curCh][curV] = (chapters[curCh][curV] || "") + wrapped;
+            }
         }
     });
+
+    // If there are leftover pending items at the very end of a chapter, 
+    // attach them as a suffix to the last known verse.
+    if (pendingPrefixes.length > 0 && curCh > 0 && curV > 0) {
+        chapters[curCh][curV] += pendingPrefixes.join('');
+    }
+
     return chapters;
 }
 
@@ -341,13 +375,27 @@ function render(targetV) {
     
     let html = "";
     Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
-        // We no longer need to wrap every individual word in a span.
-        // Instead, we treat the entire verse as one 'addressable' block.
-        const verseContent = verses[v]; 
+        const rawContent = verses[v]; 
+        
+        // Use a Regex to separate structural <div> tags from the actual verse text
+        // This regex catches everything inside <div class="usfm-s...">...</div>
+        const structMatch = rawContent.match(/((?:<div class="usfm-(?:s|r|m|b|mt|d|pmo|q)[^>]*>.*?<\/div>\s*)+)(.*)/s);
+        
+        let structuralHeader = "";
+        let verseBody = rawContent;
+
+        if (structMatch) {
+            structuralHeader = structMatch[1]; // The headings/breaks
+            verseBody = structMatch[2];       // The actual text
+        }
+
         html += `
-            <div id="v-${v}" class="verse-row tts-block" data-vnum="${v}">
-                <span class="v-num">${v}</span>
-                <span class="verse-text">${verseContent}</span>
+            <div class="verse-group">
+                ${structuralHeader}
+                <div id="v-${v}" class="verse-row tts-block" data-vnum="${v}">
+                    <span class="v-num">${v}</span>
+                    <span class="verse-text">${verseBody}</span>
+                </div>
             </div>`;
     });
     
