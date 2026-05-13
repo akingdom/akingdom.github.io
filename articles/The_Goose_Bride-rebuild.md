@@ -338,7 +338,7 @@ The years that followed were full of geese and growing. Father and Mother taught
 
 Harold did not break his stride. Beatrice was seven years old, trotting to keep up, two steps to every one of his. The grass was wet with morning and her shoes were already soaked.
 
-‘Because the land does not keep itself. A neighbour may move a stone if he thinks no one is watching. A fox can dig under a fence if the earth is soft. The boundary is only as strong as the memory of it.’
+‘Because the land does not keep itself, little Bee. A neighbour may move a stone if he thinks no one is watching. A fox can dig under a fence if the earth is soft. The boundary is only as strong as the memory of it.’
 
 Beatrice trotted to keep up, two steps to every one of her father’s long steady gait. The grass was wet with morning and her shoes were already soaked. She did not mind. She was watching her father’s back, the broad shoulders, the steady gait, and trying to match her steps to his.
 
@@ -371,7 +371,7 @@ And when the village reeve brought the harvest accounts, her father made her sit
 
 ### The hollow thump
 
-Beatrice fumbled with the ties of her apron, her fingers still clumsy with sleep. The strings were too short or her hands were too cold. She could not tell which.
+Beatrice fumbled with the ties of her apron, her fingers still clumsy with sleep. This was her seventh winter and it was a chilly one. The strings were too short or her hands were too cold. 
 
 ‘Here.’ Her mother turned her by the shoulders. ‘Do you want to make your own bread today?’ She knotted the ties at the small of her back.
 
@@ -381,7 +381,7 @@ Beatrice nodded vehemently. ‘Yes, Mother!’
 
 Beatrice scrambled onto the stool. It wobbled. Aldwina reached out, but Beatrice had already grabbed the edge of the kitchen workbench, steadied herself, and forgot to breathe.
 
-‘Less rush, more care, Beatrice. Now. Watch my hands first, then yours will follow.’
+‘Less rush, more care, Beatrice. Now, watch my hands first, then you can copy me afterwards.’
 
 Her mother’s hands were in the dough. Not stirring, not mixing, but kneading. The heel of her palm pressed down, folded the dough over, pressed again. The bench groaned under the rhythm of it. A puff of flour jumped from the wood at each push and hung in the air before drifting down.
 
@@ -415,9 +415,9 @@ Beatrice watched the cloth. Nothing happened. She watched it some more. Still no
 
 And rise it did. Slowly, almost imperceptibly, the cloth began to lift. The dough was breathing under there, filling the bowl, pressing against the linen like a small, round belly. Beatrice stared. She had seen loaves rise before, but she had never watched it happen.
 
-Her mother pulled back the cloth. The dough had doubled. She pressed a finger into its surface, and the dent stayed, a small dimple in the smooth pale skin. She divided it again and set a portion in front of Beatrice.
+Her mother pulled back the cloth to reveal that the dough had doubled. She pressed a finger into its surface, and the dent stayed, a small dimple in the smooth pale skin. She divided it again and set a portion in front of Beatrice.
 
-‘Shape it now. Gentle tucks. Like you are folding a letter.’
+‘Shape it now, using gentle tucks, like you are folding the linen.’
 
 Beatrice shaped the loaf with the whole of her concentration, her tongue pressed against her top lip, her hands moving more slowly than her mother’s but with the same careful intention. When she finished, the loaf was lopsided, one end higher than the other, and there was a thumbprint deep in the centre where she had pressed too hard. She looked up, ready to apologise.
 
@@ -431,25 +431,69 @@ She thrust her bare hand into the oven’s mouth and held it there. Beatrice lea
 
 The oven breathed heat into the room. Beatrice’s cheeks prickled. The smell came first—the warm, yeasty smell of baking bread, and then the darker smell of the crust beginning to brown.
 
-When the loaves came out, her mother lifted Beatrice’s and knocked on its underside with a knuckle. The sound was hollow. A small warm *thock*.
+When the loaves came out, her mother lifted Beatrice’s and knocked on its underside gently with a knuckle, giving a hollow *thock* sound.
 
 ‘It sounds like a door,’ Beatrice said.
 
 Her mother blinked. ‘A door?’
 
-‘A tiny door. Inside the bread.’
+‘A tiny door, inside the bread.’
 
-Her mother laughed, a real laugh, and Beatrice felt it open something warm in her chest. ‘You certainly listen with different ears than I do.’ She set the loaf on the bench. ‘Now. Let us see how it tastes.’
+Her mother laughed, a real laugh, and Beatrice felt it open something warm in her chest. ‘You certainly listen with different ears than I do.’ She set the loaf on the bench. ‘Now, let us see how it tastes.’
 
-And when the loaf had cooled enough to tear open, the crust crackling under her fingers, Beatrice felt a pride so fierce and private that she carried it with her all day, a warm knot beneath her ribs. She had made something. She had made something, and it was good.
+And when the loaf had cooled enough to tear open, Aldwina watched her daughter take the first bite.
+
+‘Well?’ Beatrice looked up at her, the crust still in her fingers, eager uncertainty lifting her brow. ‘Is it good?’
+
+Aldwina did not answer directly, but brushed flour from one cheek and ran a hand over Beatrice’s hair.
+
+‘Take some to your father. He will want to know what his daughter has made.’
+
+Beatrice tore off a piece of the loaf—the best piece, the end with the most crust—and carried it across the yard to find him.
 
 ---
-
-### To send for the priest
 
-Beatrice learnt, in the years that followed, which green stalks to gather from the riverbank: willow bark to chew for a throbbing head, comfrey to bind a farmer’s broken limb, and lemon balm to lift a heavy heart.
+### Little Bee
 
-She learned how to soothe a crying child with a cool hand and a soft word. She learned how much barley went into the ale, and when to add the bog myrtle or yarrow to make it keep through winter. And most importantly, she learned how to look at a fever and know whether it would break with a compress of mugwort or whether you needed to send for the priest.
+The bucket struck the ice and went through.
+
+‘How is it, little Bee?’
+
+‘Manageable, Father.’
+
+He nodded. 'Not so bad as last winter, then. Or maybe my Bee grows stronger.'
+
+‘Definitely stronger, Father dear.’
+
+Beatrice hauled the rope hand over hand, trying not to hit the rising bucket against the stone coping. She set it on the rim of the well without spilling a drop, but the water was so cold it burnt. She blew on her painful fingers before lifting the bucket down to the ground. 
+
+Her father was right, last winter he had had to swing his axe against the ice to break it, spinning chunks away across the frozen yard, Beatrice shivering by his side. This winter the ice was no thicker than a dried leaf and even that was unusual.
+
+Of course, she needed her father for other things.
+
+‘Father, what is that strange light in the sky?’
+
+He followed her gaze up into the last pale light of dawn, to a long cloudy tail trailing a new star, like a scratch across the heavens, that had been growing brighter each night.
+
+'A comet,' he said at last. 'Some say it means war. Some say it marks a new king. We named you after the wending star that came when you were conceived, for your name means “Bringer of Joy.”' He put a hand on her shoulder. 'Your mother would say it means that we should come in and eat before it gets cold.'
+
+Beatrice laughed, and the comet hung brightly above them, as she carried the heavy bucket inside.
+
+---
+
+### She learnt to soothe a crying child
+
+Training with herbs came with the summer of her ninth year. The riverbank was thick with comfrey, the air sweet with lemon balm, and Beatrice knelt in the wet grass and gathered the stalks her mother had named, laying them in her basket in neat, separate bundles. She could tell willow bark from comfrey by the feel of the leaf alone. 
+
+When a villein's child came to the door with a swollen ankle, Beatrice wrapped it herself, her fingers trembling but her voice steady. The child walked out without limping. Beatrice’s mother said nothing, which was her way when she was pleased enough.
+
+In Autumn, the brewing-house smelt of malt and yeast and the sharp tang of bog myrtle, and Beatrice stood beside her mother at the great copper pot. She learnt to skim the foam from the surface, to measure the barley by weight, to know when the ale brew was ready by the smell alone. She was ten, and her mother no longer watched her hands. She trusted them.
+
+Winter returned, grey and still. The Reeve spread the harvest tallies across the table, and her father sat beside her and pointed to each line in their records: the wheat, the barley, the oats, the hay. She read the numbers back to him, and he nodded. She was eleven, and the accounts were as familiar to her now as the feel of dough under her palms. 
+
+She learnt to soothe a crying child with a cool hand and a soft word. She learnt that a fever that broke with a compress of mugwort was different from a fever that did not, and that the second kind meant sending for the priest. She learnt to look at the skin colour and breath sound of a sick person, to tell whether they would live or die.
+
+However, not all lessons were simple ones, as she would soon learn.
 
 ---
 
@@ -457,15 +501,15 @@ She learned how to soothe a crying child with a cool hand and a soft word. She l
 
 A fist pounded the oak door.
 
-Beatrice was on her feet before the servant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘My lady, please; Peter was working in the high field and his heart began to pound and it will not stop.‘
+Beatrice was on her feet before the servant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘Please, Peter was working in the high field and his heart began to pound and it will not stop.‘
 
-Aldwina was already there. She guided a young man to the hearth and sat him on the stool she often used for sick, frightened or women in labour. He sat down heavily, head bowed, looking terrified. His hand pressed flat against his chest, his breath coming in short, shallow gasps like a fish. His skin was the colour of old ash, grey‑blue at his protruding lips. 
+Beatrice guided a young man to the hearth and sat him on the stool her mother often used for the sick, the frightened or women in labour. The man sat down heavily, head bowed, looking terrified. His hand pressed flat against his chest, his breath coming in short, shallow gasps like a fish. His skin was the colour of old ash, grey‑blue at his protruding lips. 
 
-Beatrice turned to the cold stone shelves where jars stood in their neat row: willow bark, comfrey, lemon balm, foxglove. Her fingers closed on the foxglove jar. She knew this. A small pinch. To steady the pulse.
+She turned to the cold stone shelves where medicinal jars stood in their neat rows: willow bark, comfrey, lemon balm, foxglove. Her fingers closed on the foxglove jar, for she knew that a small pinch would steady his pulse.
 
-Her mother’s hand closed over hers and she shook her head.
+Aldwina arrived and her hand closed over her daughter’s hand. She shook her head vehemently, but her voice was calm and quiet.
 
-‘No. His heart is fast, but his hands are cold.‘ Aldwina placed the jar back on a higher shelf, out of easy reach. ‘Foxglove would stop it, not slow it. We will use Hawthorn flowers and the leaves. Fetch me a blanket, the thick woolen one, for he is cold as well as frightened.‘
+‘No. For sooth his heart is fast, but his hands are cold.‘ Aldwina placed the jar back on a higher shelf, out of easy reach. ‘Foxglove would stop it, not slow it. We will use Hawthorn flowers and the leaves. Fetch me a blanket, the thick woolen one, for he is cold as well as frightened.‘
 
 Beatrice returned with the blanket. She found her mother crushing Hawthorn leaves with the flat of a knife, quick and sure, and scooped them into a cup. Aldwina poured hot water from the kettle, her voice pleasant and calm.
 
@@ -473,84 +517,78 @@ Beatrice looked back at the foxglove jar, then at the frightened young man on th
 
 ‘Am I dying?‘ The young man’s voice gasped. ‘My lady, am I—‘
 
-‘No.‘ Aldwina did not look up from her work. ‘Your heart is startled and your body is tired.‘
+‘Nay.‘ Aldwina did not look up from her work. ‘Your heart is startled and your body is tired.‘
 
-‘Will I see her?‘ His fists were clenched on his thighs. ‘If I die. Will I see my mother?‘
+‘Will I see her?‘ His fists were clenched on his thighs and he was not listening. ‘If I die. Will I see my mother?‘
 
-Aldwina put the cup into his hands. ‘If the Lord God took you, she would know you and you would know her. There would be no more pain, that is the promise.‘ She closed his fingers around the cup. ‘Now, drink.‘
-
-He drank and Aldwina continued. 
+Aldwina put the cup into his hands. ‘If the Lord God took you, she would know you and you would know her. There would be no more pain, that is the promise.‘ She closed his fingers around the cup. ‘Now, drink, for I do not believe that day is today.‘
 
-‘But as for you, I have seen plenty of dying, and it does not look like you. You have been working far too long in the heat without water, that is all.’
+He drank and she continued. 
 
-Beatrice watched the colour seep back into his cheeks. She watched the grey recede like a tide. Her mother had known the difference before she had even touched him. 
+‘Nay, I have seen plenty of dying, and it does not look like you. You have been working far too long in the heat without water, that is all.’
 
-But the tremor in Beatrice’s own hands took an hour to fade, remembering her mother’s words.
+Beatrice watched the colour seep back into his cheeks. She watched the grey recede like a tide. Her mother had known the difference, before she had even touched him. 
+
+But the tremor in Beatrice’s own hands took an hour to fade, remembering her near fatal mistake.
 
 ---
 
 ### How do you know
 
-After the man and his wife had gone, and the door was once again barred, Beatrice sat on the stool by the hearth. The foxglove jar was on the high shelf now. She could see it there, above her reach.
+After the man and his wife left, Beatrice barred the door and walked miserably to the stool by the hearth, looking up at the foxglove jar on the high shelf. 
 
-Her mother was wiping down the workbench. She did not speak, and Beatrice knew she was being given time to find her own words.
+Her mother was busy wiping down the workbench, giving Beatrice time to find her own words.
 
 ‘Mother?’
 
 ‘Yes, dear?’
 
-‘How did you know that it was not his heart failing?' Beatrice asked. 'That foxglove would be wrong.'
+A long moment passed. Then, quieter: ‘I almost gave him the foxglove.’
 
-Aldwina wiped the last of the hawthorn leaves from the knife and set it aside. She did not answer at once, and Beatrice had the sense that her mother was choosing her words with the same care she used when measuring out a remedy.
+‘You did.’
 
-'A heart can race for many reasons,' she said. 'Fear. Exhaustion. A fever. A flaw in the heart itself. The trick is to read the whole man, not the single sign.' She turned to face Beatrice. 'His hands were cold. You felt them when you brought the blanket. Cold hands with a racing heart—that is the body pulling itself inward, guarding its core, the way a frightened animal pulls back from a flame. The heart is not sick. The heart is answering a command.'
+‘I might have killed him.’
 
-'What command?'
+‘You did not.’ Her mother’s voice was steady. ‘You stopped. You learned. That is how it works.’
 
-
-'To live, to survive. He had worked too long in the heat. His body believed it was in danger. The racing heart was not the illness. It was the cure.' She paused. 'Foxglove would have silenced it. And the cure would have killed him.'
+Beatrice sighed. ‘How did you know that it was not his heart failing? That foxglove would be wrong.‘
 
-Beatrice was silent. She looked at her own hands. They were still now, but she could feel the tremor waiting beneath the skin, the memory of the jar in her fingers, the pinch she had almost taken.
+Aldwina did not answer at once, but wiped the last of the hawthorn leaves from the knife and set it aside. ‘A heart can race for many reasons,‘ she said, her words measured out with care. ‘Fear, exhaustion, a fever or a flaw in the heart itself; The trick is to read the whole man, not the single sign.‘ 
 
-'So the cold hands told you,' she said.
+She sat and took hold of Beatrice’s hands. ‘His hands were cold. You felt them when you brought the blanket. Cold hands with a racing heart—that is the body pulling itself inward, guarding its core, the way a frightened animal pulls back from a flame. The heart is not sick. The heart is answering a command.‘
 
-'The cold hands and the fear and the way he could still grip his own knees. A dying man's hands are cold and weak. A frightened man's hands are cold and strong. You learn to see the difference, in time.' Aldwina reached out and covered Beatrice's hands with her own. 'You will learn.'
+‘What command?‘
 
+‘A command to live, to survive. He had worked too long in the heat. His body believed it was in danger and so the racing heart was not the illness, but the cure.‘ She paused. ‘Foxglove would have silenced it, and the cure would have killed him.‘
 
+Beatrice was entirely silent as she looked at her own hands, remembering the feel of the tremor, the jar in her fingers.
 
-‘You told him he would see his mother again,‘ Beatrice said.
+‘So the cold hands told you,‘ she said.
 
-Aldwina did not turn. ‘I did.‘
+Aldwina looked at Beatrice for a long and decisive moment.
 
-‘How do you know?‘
+‘Do you remember how you knew the bread was ready? The hollow thump?’
 
-Aldwina set down the cloth. She looked at Beatrice for a long moment, and Beatrice had the sense that her mother was deciding something. Then she crossed to the stool and sat beside her.
+Beatrice nodded.
 
-‘I do not know,‘ she said. ‘Not the way I know that bread will rise or that hawthorn will steady a racing heart. Those things I have seen with my own eyes. I have not seen the resurrection.‘
+‘You did not see inside the loaf. You did not need to. You knew the sound. You had heard it a hundred times, and your ears told you what your eyes could not.’ She took Beatrice’s hand. ‘I have sat with the dying. I have washed the dead. I have heard the sound of a soul that is preparing to leave, and I have heard the sound of a soul that is afraid. They are different sounds. The first is like the hollow thump of the bread—it tells you something is ready, even if you cannot see inside.’
 
-Beatrice waited.
+Beatrice was silent, but listening.
 
-‘But I have seen death,‘ her mother continued. ‘I have seen my own mother die, and my father, and a child who never drew breath. I have sat with the dying and I have washed the dead and I have asked God the same question you are asking. And what I have found is this.‘ She took Beatrice’s hand. ‘The fear of death is worse than death itself. I have seen men and women die peacefully, even joyfully, because they trusted that they were going somewhere they would be known. And I have seen others die in terror, fighting to the last breath, because they believed there was nothing waiting for them but darkness.‘
+‘Father Edwin says that when Our Lord rose from the dead, his own disciples did not know him at first. They walked with him on the road and ate with him at table and still they did not understand who he was. And then, suddenly, they knew. Something opened their eyes. They saw the man they had loved, the teacher they had followed, the friend they had buried. Not a ghost. Not a stranger. Him.’ She squeezed Beatrice’s hand. ‘That is what I believe. When I die, I will be known. Not by a stranger. By the one who made me. And by those I have loved.’
 
-‘Which will you choose?‘
+‘You will know me?’
 
-Aldwina almost smiled. ‘I choose to trust. Father Edwin spoke once of a passage from the Apostle Paul. He said that at the end, death itself will be swallowed up in victory. That we will be changed, in the twinkling of an eye. That we will put on immortality like a garment. I do not understand what that means. But I believe that the God who made the rain and the sun and the harvest, the God who made you and your father and every living thing, did not make us to be thrown away.‘
+Aldwina smiled. ‘I will know you, Beatrice. Wherever I am.’
 
-She squeezed Beatrice’s hand and released it.
-
-A silence. Then, quieter: ‘I almost gave him the foxglove.‘
-
-‘You did.‘
-
-‘I could have killed him.‘
-
-‘You did not.‘ Her mother’s voice was steady. ‘You stopped. You learned. That is how it works.‘
+Beatrice did not speak. She only held her mother’s hand, and the silence between them was not empty but full.
 
 ---
 
 [NEW SECTION: That night — the goat memory and the bridge.]
 
-That night, Beatrice lay awake and remembered the goat.
+>>> Maybe a dream (we've not gone in this direction so far, so not recommended).
+That night, Beatrice lay awake and remembered the goat. 
 
 It had been two winters ago, or perhaps three. She had found it in the morning, stiff and cold in the stall, its eyes open and unseeing. She had touched its ear. The ear was cold, and the goat did not flick it away. She had understood, then, that the goat was not asleep. Sleep was warm and breathing. The goat was something else.
 
@@ -772,9 +810,9 @@ Beatrice stood a little apart, watching her father’s hands move as he describe
 
 On the walk back, Harold fell silent. He watched his daughter as she walked beside him—the girl who had run the manor without being asked, whose bright eyes missed little, whose quick wit sometimes outpaced her judgment, who still spoke her thoughts aloud before deciding whether she ought to. She had been doing a woman’s work on a child’s shoulders, and he had not told her it mattered. He had been too hollowed out to see it.
 
-"The hall looks well," he said at last. "Your mother would have been proud."
+“The hall looks well,“ he said at last. “Your mother would have been proud.“
 
-Beatrice looked down at the track. "I tried to do what she would have done."
+Beatrice looked down at the track. “I tried to do what she would have done.“
 
 Harold thought of the months since Aldwina’s death—the red and golden leaves falling, the *boon-days* Beatrice had seen to, the harvest labour she had overseen, the *brewing-house* and the *buttery*, the sick she had tended the way her mother had taught her. All of it done without complaint, without being asked.
 
@@ -6361,27 +6399,49 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 | Date | Event | Monarch |
 |---|---|---|
 | 994 | Norwegian and Dane attacks on London (Olaf Tryggvason and Sweyn). | Æthelred II |
+| 995 | A comet appears, seen as a portent of Danish attacks and the death of Archbishop Sigeric. | Æthelred II |
+| 1009 | A "haired star" (comet) appears, followed by a massive Danish invasion under Thorkell the Tall. | Æthelred II |
 | 1012 | Last major Danegeld (protection money) raised by Æthelred. | Æthelred II |
 | Feb 1014 | Sweyn Forkbeard dies; Æthelred is recalled from exile. | Æthelred II |
+| Sept 1014 | The "Great Sea-Flood" hits the English coast, drowning many towns. | Æthelred II |
 | Apr 1016 | Death of Æthelred; Edmund Ironside succeeds him. | Edmund II |
 | Nov 1016 | Edmund dies; Canute (Cnut) becomes undisputed King. | Canute |
 | Nov 1035 | Canute dies; Harold *Harefoot* claims the English throne. | Harold I |
+| 1035 | Severe famine reported in various parts of England due to crop failure. | Canute |
+| 1039 | A "most severe winter" and famine; many cattle perish across England. | Harold I |
 | June 1040 | Harthacnut arrives in England with a fleet to seize the crown. | Harthacnut |
 | June 1042 | Harthacnut dies; Edward *the Confessor* is acclaimed. | Edward |
+| 1046 | Extreme winter and pestilence among cattle; many people die of hunger. | Edward |
 | Jan 1066 | Death of Edward; Harold Godwinson crowned (6 Jan). | Harold II |
+| Apr 1066 | Halley’s Comet appears (24 April), viewed as a terrifying omen of the downfall of the kingdom. | Harold II |
 | Oct 1066 | Battle of Hastings; Harold II killed (14 Oct). | Harold II |
 | Dec 1066 | William *the Conqueror* crowned in England on Christmas Day. | William I |
 | Sept 1068 | Henry I born at Selby, Yorkshire. | William I |
+| 1069 | "The Harrying of the North" leads to a massive three-year famine. | William I |
+| 1078 | A lunar eclipse is recorded; observers note the moon turning the "colour of blood." | William I |
 | c. 1080 | Matilda of Scotland (Edith) born. | William I |
+| Oct 1097 | A "rare star" (comet) with a long tail appears in the autumn for fifteen days until October 25. | William II |
 | Aug 1100 | Henry I crowned (6 Aug) after William II’s hunting death. | Henry I |
 | Nov 1100 | Henry marries Matilda (Edith) of Scotland (11 Nov). | Henry I |
 | Feb 1102 | William Adelin (Henry’s heir) born. | Henry I |
-| Jan 1114 | Empress Matilda marries Emperor Henry V in Worms (7 Jan). | Henry I |
+| 1103 | A very calamitous year through murrain of cattle, and deficiency of produce, not only in corn, but in every kind of fruit. | Henry I |
+| Aug 1103 | On the mass day of St. Laurence (August 10), the wind did so much harm here on land to corn and all fruits, such as no man remembered. | Henry I |
+| 1105 | A very calamitous year through loss of fruit. | Henry I |
+| Feb 1106 | A brilliant comet appears in February with a massive beam of light. | Henry I |
+| 1109 | Very trememendous frequent storms of thunder. | Henry I |
+| May 1109 | High sea-flood, as no man remembered before, did so much harm on the festival of St. Martin (November 11). | Henry I |
+| 1110 | A very calamitous year through loss of fruit and tree produce due to bad weather. | Henry I |
+| May 1110 | The "Vanishing Moon" (5 May); a total lunar eclipse where the moon became completely invisible. | Henry I |
+| 1111 | A long, severe, heavy winter with marred fruit and murrain of cattle. | Henry I |
+| 1112 | A very good, fruitful year in both wood and field, but many people died of disease. | Henry I |
 | Mar 1113 | Treaty of Gisors; Matilda FitzRoy betrothed to Conan. | Henry I |
+| Jan 1114 | Empress Matilda marries Emperor Henry V in Worms (7 Jan). | Henry I |
+| May 1114 | A huge comet appears at the end of May. | Henry I |
 | June 1114 | Henry launches a massive campaign into Wales. | Henry I |
 | Early Aug 1114 | Welsh campaign concludes with the submission of local princes. | Henry I |
 | Mid-Aug 1114 | **Royal Court at Rockingham Castle - The Goose Vow.** | Henry I |
 | Late Aug 1114 | Court moves to Westminster; Henry crosses to Normandy. | Henry I |
+| 1117 | Severe storms and "fiery lights" (likely Aurora Borealis) seen in the northern sky. | Henry I |
 | May 1118 | Queen Matilda dies at Westminster (1 May). | Henry I |
 | Nov 1120 | White Ship Disaster (25 Nov); Heir William Adelin drowns. | Henry I |
 | Dec 1135 | Henry I dies (1 Dec); Stephen seizes the throne (22 Dec). | Stephen |
