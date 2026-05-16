@@ -341,6 +341,8 @@ I have a wide range of interests that inform my work and approach:
 
 > The fallback rule of systems success is: Always use the best tool for the job. Don't force a tool to do a different job; build tools to survive tougher jobs than anticipated and to fail safely when they break. - Andrew Kingdom
 
+> Creating on a computer is like cooking in a kitchen: fairly pointless if no one eats the food. - Andrew Kingdom
+
 ### Footnotes
 - <sub>*Feedback*: Issues, discussion and initial contact requests can be raised publicly via [*GitHub Issues in this repository*](https://github.com/akingdom/akingdom.github.io/issues).</sub>
 - <sub>*Licensing*: This website repository contains content under different licenses. See [`LICENSE.txt`](./LICENSE.txt) for the full licensing breakdown.</sub>
