@@ -615,34 +615,38 @@ When Beatrice finally went inside, the hall was quiet. The bread was only half-s
 
 Instead of her mother, the maid servant was working the dough, red-faced and setting a frantic pace, puffing and panting. 
 
-‘Mother isn’t here.’
+‘Mother isn’t here?’
 
 The maid wiped the sweat from her forehead with the back of her wrist, and gave a polite bob of her head to Beatrice.
+Here is the passage with section headings added in the same style and formula as the rest of the chapter, and with a small typo corrected.
+
+---
 
 ‘No, my lady.’
 
-Beatrice lookeed at the wooden table groaning under the weight of the great troughs. 
+Beatrice looked at the wooden table groaning under the weight of the great troughs.
 
 ‘Is something wrong?’ Beatrice had noticed that the bread dough had not been tucked or shaped; unusually, it was still a rough, sticky mass, overflowing its wooden rim and drying into a grey crust at the edges.
 
-‘It's your mother. She...’ The girl hestitated and the words seemed stuck in her mouth. ‘She... See, she said she was feeling poorly, so I’ve taken her to the bed chamber to rest.’ She rubbed her neck, leaving a large smudge of flour there. She nodded her head as though she had done her duty, then glanced back as Beatrice as though she’d said too much. It was strange.
+‘It’s your mother. She…’ The girl hesitated and the words seemed stuck in her mouth. ‘She… See, she said she was feeling poorly, so I’ve helped her to the bed chamber to rest.’ She rubbed her neck, leaving a large smudge of flour there. She nodded her head as though she had done her duty, then glanced back at Beatrice as though she’d said too much. It was strange.
 
-Beatrice could hear her parents talking, almost arguing in whispers in their chamber. She couldn't make out what they were speaking about. Goosie arrived and honked beside her and immediately the whispering stopped and her father came out. 
+---
 
-Harold studied her, with a worried, preoccupied expression on this face. He opened his mouth to speak, but changed his mind and left abruptly without a word. It was very strange.
+### A whispered argument
 
-Beatrice stuck her head through the curtain and saw her mother lying there, thin and pale. Mother looked up with a smile, and gestured to her to come over. So Beatrice went in and knelt on the floor of rushes, beside the bed.
+At the bed chamber, Beatrice could hear her parents talking, almost arguing in whispers. She couldn’t make out what they were speaking about. Goosie arrived and honked beside her and immediately the whispering stopped and her father came out.
 
-Mother did not seem angry, merely tired.
+Harold studied her with a worried, preoccupied expression on his face. He opened his mouth as if to speak, then closed it again. For a moment he stood quite still, looking at her as if he were trying to memorise her face. Then he left without a word.
 
-
-Mother says something then...
+Beatrice stuck her head through the curtain and saw her mother lying there, thin and pale. Mother looked up with a smile and gestured to her to come over. So Beatrice went in and knelt on the rushes beside the bed.
 
-‘We’ll do without the fresh bread for today,‘ she said. ‘Perhaps you might help me tomorrow.‘
+Mother did not seem angry, merely tired. She reached out and tucked a strand of hair behind Beatrice’s ear, the way she used to when Beatrice was small.
 
-‘Yes,’ Beatrice nodded. She pulled the cloth back over the dough.
+‘We’ll do without the fresh bread for today,’ she said. ‘Perhaps you might help me tomorrow.’
 
-*Mother must have been waiting for me all that time.* It was an unexpected thought and she did not quite trust herself to speak, and yet she did. 
+‘Yes.’ Beatrice nodded. She pulled the cloth back over the dough.
+
+*Mother must have been waiting for me all that time.* It was an unexpected thought, and she did not quite trust herself to speak, and yet she did.
 
 ‘It was thoughtless of me to leave all the work to you. I’m sorry, Mother.’
 
@@ -650,19 +654,71 @@ She was happy to help tomorrow. But tomorrow, when it came, her mother was still
 
 ---
 
+### The best thing I ever made
+
+And yet, by the next morning, Beatrice found her mother up, dressed and standing at the edge of the yard, looking out across the river towards the farm. The sunlight caught the grey in her hair, and in that moment, Beatrice’s heart lifted.
+
+*She is better. She was only tired after all.*
+
+She crossed the yard, meaning to ask about the bread. But something in her mother’s stillness stopped her. Aldwina was not looking at the farm. She was looking at the river, her face still and far away.
+
+‘You know, I used to cross that river as a girl,’ her mother said, as if speaking to herself. ‘The ford was lower then. You could wade across without wetting your skirts.’ She was quiet for a moment. ‘I crossed it the day I came to Stanwey. Your father met me on the other side. He was so nervous he dropped the flowers he had picked.’
+
+Beatrice had never heard this story. She stood beside her mother and said nothing.
+
+‘And I crossed it the day you were born. The midwife came from Ascele, across the water, and I remember looking out at the river while I waited, thinking that it had been there before me and would be there after me, and that was a comfort.’ She turned to Beatrice and smiled, and the smile was real and tired and full of something Beatrice could not name.
+
+‘You are the best thing I ever made,’ Aldwina said. ‘Better than any loaf of bread.’
+
+Beatrice looked at her mother and felt strangely cold.
+
+‘I’ll make the bread today,’ she said. ‘You stay here and watch the river.’
+
+Aldwina reached out and tucked a strand of hair behind Beatrice’s ear. ‘Thank you,’ she said.
+
+Beatrice went inside and shaped the loaves. Her hands were steady, and she did not cry.
+
+---
+
+### One day at a time
+
+That night, Beatrice woke to the sound of coughing. It was a dry, hollow sound, muffled by the curtain, and it went on for a long time.
+
+She rose and warmed a cup of the liquorice tea her mother had taught her to make for coughs, and carried it to the sleeping chamber. Aldwina was sitting up in bed, her face pale in the thin light of the rush lamp, her breath coming in shallow, careful sips.
+
+‘I brought you some tea,’ Beatrice said.
+
+Aldwina took the cup and held it in both hands, but she did not drink. She looked at Beatrice for a long moment, as though to fix the view in her mind forever.
+
+‘Do you remember the day that a young man came to the door clutching his chest, what we spoke of after?’
+
+Beatrice nodded. ‘You said you would know me. Wherever you were.’
+
+Aldwina set the cup aside. ‘You will have to be brave for me now, for I think that I shall soon see my mother and father. I am not afraid of that day, for I have asked the Lord to remember me.’
+
+It felt like someone had thrust a huge thorn into Beatrice’s chest. ‘I don’t know how to be brave,’ she whispered.
+
+‘Yes, you do. You have been brave before. When Goosie was lost. When you shaped your first loaf and it came out lopsided.’ Aldwina almost smiled. ‘Being brave does not mean not crying. It means doing the next thing, and the next, even when you are afraid, one day at a time, one step at a time.’
+
+Beatrice did not speak. She laid her head on the blanket beside her mother’s hand, and Aldwina stroked her hair, and they stayed like that until the coughing eased and the first grey light began to seep through the shutters.
+
+But later on, Beatrice cried into her own blanket, muffling the sound so that no one would hear.
+
+---
+
 ### Thin fingers on the petals
 
-It was a slow fading, like the light at the end of a long day. Some mornings her mother seemed almost herself, able to lie outside in the golden sunshine, sitting up and asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow in her sleeping chamber.
+It was a slow fading with Mother, like the light at the end of a long day. Some mornings she seemed almost herself, able to lie outside in the golden sunshine, sitting up and asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow.
 
-Beatrice would feed her broth with milk, thyme, wild oregano, and garlic from the garden on the rise. She would make sweet tea from liquorice root dug from the soft, silty earth by the Welland.
+Beatrice found herself busier than she had ever been. She learned to make the broth the way her mother had taught her—milk, thyme, wild oregano, garlic from the high garden. She dug liquorice roots from the soft, silty earth by the Welland. She learned to sit beside the bed and hold her mother’s hand while the light moved across the wall, slow and golden, and her mother’s fingers grew thinner each week.
 
-Her father was often in the doorway of the chamber, watching, his great warrior’s hands hanging useless at his sides. He tried to help with carrying her outdoors, bringing her water, or smoothing the blankets, but his wife smiled at him with such gentle patience that he seemed to shrink.
+Her father was often in the doorway of the chamber, watching, his great warrior’s hands hanging useless at his sides. He tried to help with carrying her outdoors into the warming sunshine, bringing her water, or smoothing the blankets, but his wife smiled at him with such gentle patience that he seemed to shrink.
 
 ‘Tend the fire for me, Harold. Beatrice will stay here.’
 
 And he would go, the soft rhythm of snoring soon drifting from his chair by the hearth. Only years later would Beatrice understand: her mother was telling Father to rest, and that he needed to care for himself now.
 
-On such occasions, Mother would speak quietly of things to come. 
+On such occasions, Mother would speak quietly of things to come.
 
 ‘In a few years, Beatrice, your body will change. Do not be afraid or ashamed when it comes. One day you will bleed, and it will be natural, no wound, no sickness. It is the mark of womanhood. Wash yourself, rest if you can, and know that every woman before you has felt the same.’
 
