@@ -670,11 +670,17 @@ let currentVerseIdx = 0; // The new "Source of Truth"
 let charIndex = 0; // The "Bookmark" within the current verse
 
 const speechControl = {
+    _speakingInProgress: false,
+    _restartTimer: null,
+    restartPending: false,
+
     play: function() {
         const synth = window.speechSynthesis;
 
         if (isSpeaking) {
-            isSpeaking = false; 
+            // Cancel current speech
+            isSpeaking = false;
+            this._speakingInProgress = false;  // ensure flag cleared
             synth.cancel();
             document.querySelectorAll('.play-pause-btn').forEach(b => b.innerText = "🔊 Resume");
             return;
@@ -708,6 +714,12 @@ const speechControl = {
     },
 
     speakFrom: function(vIdx, startChar = 0) {
+        if (this._speakingInProgress) {
+            console.warn("speakFrom already in progress, skipping");
+            return;
+        }
+        this._speakingInProgress = true;
+
         const synth = window.speechSynthesis;
         synth.cancel();
 
@@ -738,10 +750,21 @@ const speechControl = {
         };
 
         utterance.onend = () => {
+            this._speakingInProgress = false;
             if (isSpeaking) {
                 currentVerseIdx++;
                 charIndex = 0; // Fresh verse, fresh index
                 this.speakFrom(currentVerseIdx, 0);
+            }
+        };
+
+        utterance.onerror = (err) => {
+            console.error("Utterance error", err);
+            this._speakingInProgress = false;
+            isSpeaking = false;
+            // Only reset charIndex on real errors, not when the user intentionally cancels
+            if (err.error !== 'interrupted') {
+                charIndex = 0;
             }
         };
 
@@ -754,9 +777,27 @@ const speechControl = {
     },
 
     restart: function() {
+        if (this.restartPending) return; // ignore rapid clicks
+        this.restartPending = true;
+
+        // Clear any pending restart timer
+        if (this._restartTimer) clearTimeout(this._restartTimer);
+
+        // Cancel any ongoing speech
         window.speechSynthesis.cancel();
+        
+        // Reset all flags and state immediately
+        this._speakingInProgress = false;
+        isSpeaking = false;
         currentVerseIdx = 0;
-        this.speakFrom(0);
+        charIndex = 0;
+
+        // Small delay to let the engine finish cancelling, then start fresh
+        this._restartTimer = setTimeout(() => {
+            this.speakFrom(0, 0);
+            this.restartPending = false;
+            this._restartTimer = null;
+        }, 100);
     },
 
     updateVoice: function(voiceName) {
@@ -769,7 +810,7 @@ const speechControl = {
             
             // If the user changes voice MID-SPEECH, restart current verse
             if (isSpeaking) {
-                this.speakFrom(currentVerseIdx);
+                this.speakFrom(currentVerseIdx, charIndex);
             }
         }
     },
