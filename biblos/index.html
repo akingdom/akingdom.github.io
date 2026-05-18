@@ -43,8 +43,13 @@ max-height: 450px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(
 .search-nav-indicator { padding: 15px; text-align: center; background: var(--bg); color: var(--primary); cursor: pointer; font-weight: 500; border-top: 1px solid var(--border); }
 
 .ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem; font-weight: 400; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
-.verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; }
-.v-num { font-size: 0.75rem; color: #9aa0a6; font-weight: bold; margin-right: 10px; vertical-align: super; font-family: sans-serif; }
+.verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; display: flex;
+align-items: baseline;}
+.v-num { font-size: 0.75rem; color: #9aa0a6; font-weight: bold; margin-right: 10px; font-family: sans-serif; flex-shrink: 0; line-height: 1.6; /* Match body line-height */ padding-top: 0.15em; /* Fine-tune alignment */}
+.verse-text { flex: 1; }
+.verse-text.indent-q1 { padding-left: 2rem; }
+.verse-text.indent-q2 { padding-left: 4rem; }
+.verse-text.indent-q3 { padding-left: 6rem; }
 
 .strong-pill { font-size: 0.65rem; color: var(--strong-green); background: rgba(129, 201, 149, 0.15); padding: 1px 4px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; font-weight: bold; }
 .strongs-hidden .strong-pill { display: none !important; }
@@ -197,7 +202,12 @@ window.onload = async () => {
     const idx = window.BIBLE_INDEX;
     if (idx) {
         const colSel = document.getElementById('col-select');
-        idx.collections.forEach(c => colSel.add(new Option(c.name, c.id)));
+        idx.collections.forEach(c => {
+            // Only add collections that have books
+            if (c.books && Object.keys(c.books).length !== 0) {
+                colSel.add(new Option(c.name, c.id));
+            }
+        });
     }
     const params = new URLSearchParams(window.location.search);
     const last = JSON.parse(localStorage.getItem('last_pos')) || {};
@@ -209,12 +219,22 @@ window.onload = async () => {
 
     await initDB();
     if (targetCol) {
+        // Set the collection dropdown to match
+        document.getElementById('col-select').value = targetCol;
+        
+        // Load the collection (this now populates books and handles navigation)
         await loadCollection(targetCol);
-        if (params.get('q')) {
+        
+        // After collection is loaded, handle URL/bookmark navigation
+        if (params.get('book')) {
+            // URL has a specific book - navigate to it
+            navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
+        } else if (params.get('q')) {
+            // URL has a search query
             document.getElementById('search-box').value = params.get('q');
             handleSearch({ target: { value: params.get('q') } });
         }
-        if (params.get('book')) navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
+        // If no URL params, loadCollection already handles navigation to last position or first book
     }
 };
 
@@ -254,77 +274,121 @@ async function loadCollection(id) {
 
     state.activeCollection = window[varName];
     populateBooks();
-    if (!state.book) navigateTo(Object.keys(state.activeCollection)[0], 1);
+    
+    // --- FIX: Always try to navigate, preserving the current book/chapter if possible ---
+    const previousBook = state.book;
+    const previousCh = state.ch;
+    
+    // Reset the fullLibrary so we don't accidentally use the old collection's data
+    state.fullLibrary = {};
+    
+    // Try to keep the same book if it exists in the new collection
+    if (previousBook && state.activeCollection[previousBook]) {
+        // Book exists in new collection, go to the same chapter (or 1 if chapter doesn't exist)
+        state.book = previousBook;
+        state.fullLibrary = parseUSFM(state.activeCollection[previousBook].usfm);
+        
+        // Check if the previous chapter exists in the new collection
+        const availableChapters = Object.keys(state.fullLibrary);
+        const targetCh = availableChapters.includes(String(previousCh)) ? previousCh : 1;
+        
+        // Update the chapter dropdown and render
+        const chSel = document.getElementById('chapter-select');
+        chSel.innerHTML = "";
+        availableChapters.sort((a,b) => a-b).forEach(c => chSel.add(new Option(`Chapter ${c}`, c)));
+        document.getElementById('book-select').value = previousBook;
+        changeChapter(targetCh);
+    } else {
+        // Book doesn't exist or no previous book, go to first book
+        navigateTo(Object.keys(state.activeCollection)[0], 1);
+    }
 }
 
 function populateBooks() {
-    const sel = document.getElementById('book-select'); sel.innerHTML = "";
+    const sel = document.getElementById('book-select');
+    sel.innerHTML = "";
     Object.keys(state.activeCollection).forEach(code => sel.add(new Option(state.activeCollection[code].name, code)));
+    if (state.book) {
+        sel.value = state.book;
+    }
 }
 
 function parseUSFM(usfm) {
-    const chapters = {}; 
+    const chapters = {};
     let curCh = 0, curV = 0;
-    let pendingPrefixes = []; // To hold headings that belong BEFORE the next verse
-    
+    let pendingPrefixes = [];   // for true headings before the first verse
+    let interVerseBuffer = [];  // new: for empty block tags between verses
+
     const metaIgnore = ['\\h', '\\toc', '\\id', '\\mt', '\\rem'];
+    const blockTags = ['b', 'm', 'pmo', 'q1', 'q2', 'q3', 'qr', 'q', 'ms', 'mr', 'cl'];
 
     usfm.split('\n').forEach(line => {
         line = line.trim();
         if (!line) return;
-        
+
         const parts = line.split(' ');
         const tag = parts[0];
         const cleanTag = tag.replace('\\', '');
 
-        // 1. Handle Chapter marker
-        if (tag === '\\c') { 
-            curCh = parseInt(parts[1]); 
-            chapters[curCh] = {}; 
-            curV = 0; 
+        // 1. Chapter marker
+        if (tag === '\\c') {
+            curCh = parseInt(parts[1]);
+            chapters[curCh] = {};
+            curV = 0;
+            interVerseBuffer = [];
+            pendingPrefixes = [];
             return;
         }
 
-        // 2. Handle Verse marker
+        // 2. Verse marker
         if (tag === '\\v') {
             const m = line.match(/\\v\s+(\d+)\s+(.*)/);
-            if (m) { 
-                curV = parseInt(m[1]); 
-                // Initialize verse with any pending headers that were waiting for it
-                chapters[curCh][curV] = pendingPrefixes.join('') + finalize(m[2]); 
-                pendingPrefixes = []; // Clear queue
-            } 
+            if (m) {
+                curV = parseInt(m[1]);
+                // Flush inter‑verse buffer as prefix for this new verse
+                const prefix = pendingPrefixes.join('') + interVerseBuffer.join('');
+                chapters[curCh][curV] = prefix + finalize(m[2]);
+                pendingPrefixes = [];
+                interVerseBuffer = [];
+            }
             return;
         }
 
         if (metaIgnore.some(m => tag.startsWith(m))) return;
 
-        // 3. Handle Structural Tags (Headings, Breaks, etc.)
+        // 3. Structural tags
         let content = finalize(line.substring(tag.length).trim());
-        
-        // If content is empty but it's a known structural tag like \b (blank line)
-        if (content || ['b', 'm', 'pmo', 'q1', 'q2'].includes(cleanTag)) {
-            const wrapped = `<div class="usfm-${cleanTag}">${content}</div>`;
+        const wrapped = `<div class="usfm-${cleanTag}">${content}</div>`;
 
-            // THE LOGIC FIX:
-            // If we haven't hit a verse yet, or if the current verse text is already "finished" 
-            // (which in USFM linear processing means this tag is a suffix to the current 
-            // block or a prefix to the next), we put it in the pending queue.
-            
+        // Is this a block‑level tag that could be empty?
+        const isBlock = blockTags.includes(cleanTag.replace(/[0-9]/g, ''));
+
+        if (isBlock && !content) {
+            // Empty block tag → hold in inter‑verse buffer
+            interVerseBuffer.push(wrapped);
+        } else {
+            // Non‑empty or not a block tag → first flush inter‑verse buffer to current verse
+            if (interVerseBuffer.length > 0) {
+                if (curV > 0) {
+                    chapters[curCh][curV] = (chapters[curCh][curV] || '') + interVerseBuffer.join('');
+                } else {
+                    pendingPrefixes.push(interVerseBuffer.join(''));
+                }
+                interVerseBuffer = [];
+            }
+
+            // Now process the current line
             if (curV === 0 || line.includes('\\s') || line.includes('\\r')) {
-                // These tags generally precede verse text in USFM
                 pendingPrefixes.push(wrapped);
             } else {
-                // Append to existing verse if it's mid-verse material (like \f notes or \qs)
-                chapters[curCh][curV] = (chapters[curCh][curV] || "") + wrapped;
+                chapters[curCh][curV] = (chapters[curCh][curV] || '') + wrapped;
             }
         }
     });
 
-    // If there are leftover pending items at the very end of a chapter, 
-    // attach them as a suffix to the last known verse.
-    if (pendingPrefixes.length > 0 && curCh > 0 && curV > 0) {
-        chapters[curCh][curV] += pendingPrefixes.join('');
+    // End of chapter: flush any remaining inter‑verse buffer to the last verse
+    if (interVerseBuffer.length > 0 && curV > 0) {
+        chapters[curCh][curV] += interVerseBuffer.join('');
     }
 
     return chapters;
@@ -367,61 +431,88 @@ function render(targetV) {
     charIndex = 0;
     isSpeaking = false;
     document.getElementById('play-btn').innerText = "🔊 Listen";
-    
+
     const verses = state.fullLibrary[state.ch];
     if (!verses) return;
-    
-    document.getElementById('ref-header').innerText = `${state.activeCollection[state.book].name} ${state.ch}`;
-    
+
     let html = "";
     Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
-        const rawContent = verses[v]; 
-        
-        // Use a Regex to separate structural <div> tags from the actual verse text
-        // This regex catches everything inside <div class="usfm-s...">...</div>
-        const structMatch = rawContent.match(/((?:<div class="usfm-(?:s|r|m|b|mt|d|pmo|q)[^>]*>.*?<\/div>\s*)+)(.*)/s);
-        
+        const rawContent = verses[v];
+    
+        // Separate real structural headers (s*, ms*, mr, r, d, cl, mt*, is*)
+        const structMatch = rawContent.match(
+            /^((?:<div class="usfm-(?:s[123]?|ms[12]?|mr|r|d|cl|mt[123]|is[12]?)[^>]*>.*?<\/div>\s*)+)(.*)/s
+        );
+    
         let structuralHeader = "";
-        let verseBody = rawContent;
-
+        let verseBody = rawContent;   // default: everything into verse text
+    
         if (structMatch) {
-            structuralHeader = structMatch[1]; // The headings/breaks
-            verseBody = structMatch[2];       // The actual text
+            structuralHeader = structMatch[1];
+            verseBody = structMatch[2];
         }
-
+    
+        // ---------- NEW: Clean up leading & trailing empty formatting divs ----------
+        let indentClass = "";        // e.g. "q1" if the first line should be indented
+        let blankLineBefore = "";    // a real blank line to place before the verse number
+    
+        // 1. Strip leading empty <div class="usfm-(b|m|pmo|q1|q2|q3)"> and capture indent for poetry
+        verseBody = verseBody.replace(
+            /^(\s*(<div class="usfm-(b|m|pmo|q[123])"><\/div>\s*)+)/,
+            (match) => {
+                if (match.includes('usfm-b')) {
+                    blankLineBefore = '<div class="usfm-b"></div>';
+                }
+                const poeticMatch = match.match(/usfm-(q[123])/g);
+                if (poeticMatch) {
+                    indentClass = poeticMatch[poeticMatch.length - 1].replace('usfm-', '');
+                }
+                return ''; // remove all matched empty divs
+            }
+        );
+    
+        // 2. Strip trailing empty formatting divs of the same classes
+        verseBody = verseBody.replace(
+            /(\s*(<div class="usfm-(b|m|pmo|q[123])"><\/div>\s*)+)$/,
+            ''
+        );
+        // -------------------------------------------------------------------------
+    
+        if (!verseBody.trim() && !structuralHeader && !blankLineBefore) return;
+    
         html += `
             <div class="verse-group">
                 ${structuralHeader}
+                ${blankLineBefore}
                 <div id="v-${v}" class="verse-row tts-block" data-vnum="${v}">
                     <span class="v-num">${v}</span>
-                    <span class="verse-text">${verseBody}</span>
+                    <span class="verse-text${indentClass ? ' indent-' + indentClass : ''}">${verseBody}</span>
                 </div>
             </div>`;
     });
-    
+
     document.getElementById('content').innerHTML = html;
         
     // Sync highlight if we are currently paused/resuming
-    if (charIndex > 0) {
-        syncHighlight(charIndex);
-    }
+    if (charIndex > 0) syncHighlight(charIndex);
+
 
     // --- PRESERVED EXISTING FUNCTIONALITY ---
     updateQR();
     if (targetV) {
         setTimeout(() => {
             const el = document.getElementById(`v-${targetV}`);
-            if (el) { 
-                el.scrollIntoView({ behavior: 'smooth', block: 'center' }); 
-                el.style.backgroundColor = 'rgba(25,103,210,0.2)'; 
-                setTimeout(()=>el.style.backgroundColor='transparent', 2000); 
+            if (el) {
+                el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                el.style.backgroundColor = 'rgba(25,103,210,0.2)';
+                setTimeout(()=>el.style.backgroundColor='transparent', 2000);
             }
         }, 300);
     }
-    localStorage.setItem('last_pos', JSON.stringify({ 
-        col: state.currentCollectionId, 
-        book: state.book, 
-        ch: state.ch 
+    localStorage.setItem('last_pos', JSON.stringify({
+        col: state.currentCollectionId,
+        book: state.book,
+        ch: state.ch
     }));
 }
 
