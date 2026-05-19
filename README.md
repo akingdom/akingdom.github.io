@@ -112,18 +112,33 @@ AUTHOR:      Andrew Kingdom
 <div id="DESCRIPTION"></div>
 
 
-## Services
+## How I Can Help
 
-I'm a freelance consultant specializing in technology solutions. Whether you're facing a complex IT issue or need guidance on software development, I'm here to help.
+I provide patient, one‑on‑one IT support, tutoring, and custom tool‑building for people who find technology overwhelming — the way NDIS supports health, I support tech. Whether you need a problem solved, a skill learned, or a lightweight tool built just for you, I’m here to help without jargon or judgment.
 
-- <span class="xicon-mobile"></span> **App Maintenance** — Keeping your mobile apps running smoothly.
-- <span class="xicon-web"></span> **Minimalist Websites** — Streamlined one‑page websites.
-- <span class="xicon-person"></span> **English Language** — Help for non‑native speakers.
-- <span class="xicon-thing1"></span> **Freelancer & Tutor for hire** — IT support big or small. Tutoring in programming, electronics, genealogy.
-- <span class="xicon-thing2"></span> **Code Translation** — Translating programs between languages.
-- <span class="xicon-game"></span> **Data Pipelines** — Building data transformation workflows.
+- <span class="xicon-mobile"></span> **Patient tech support** — For seniors, non‑tech‑savvy individuals, and anyone who just wants things to work.
+- <span class="xicon-web"></span> **Minimalist websites & tools** — Streamlined one‑page websites and lightweight web apps.
+- <span class="xicon-person"></span> **One‑on‑one tutoring** — Programming, Microsoft Office, genealogy software, and more.
+- <span class="xicon-thing1"></span> **Custom automation** — Let me build a small tool or script that takes a tedious task off your plate.
+- <span class="xicon-thing2"></span> **Code translation & data pipelines** — Moving logic between languages or transforming messy data into clean output.
+- <span class="xicon-game"></span> **Remote or on‑site** — I work with clients across Victoria and beyond; remote support available worldwide.
 
 *"Together, let's turn ideas into reality. Reach out to start your journey!"*
+
+
+## What Clients Say
+
+> “Andrew was brilliant! Definitely knows his trade. On top of which, he was flexible and patient. All in all, he did a great job in getting the job done! AAA+++” — **Tony H.**
+
+> “Omg this man is a Saint. So knowledgeable, so personable. I was very stressed but Andrew calmed me down and got my scanner and computer talking again all through remote assistance. Thanx Andrew” — **Jane D.**
+
+> “Andrew did an excellent job. Very patient and extremely knowledgeable. Strong recommend if you want to improve your programming skills.” — **Graham H.**
+
+> “THANK YOU SO MUCH Andrew. I had been pulling my hair out trying to figure this out. THANK YOU for everything you did. PLUS your patience waiting and cleaning out the huge build up of dust and dog hair lol. I am most appreciative and highly recommend you.” — **Leonie B.**
+
+> “I was pulling out my hair with Computer stuff beyond my knowledge. Andrew was so wonderful and so happy to help me get my problems fixed. I will definitely be going back to them for any future computer problems. 👌🏻” — **Fleur M.**
+
+> “Andrew is a good knowledgeable teacher and easy to learn from. Professional and reliable. Would recommend.” — **Bernadette K.**
 
 
 ## Featured Projects
@@ -137,7 +152,7 @@ I'm a freelance consultant specializing in technology solutions. Whether you're 
          width="90" alt="AI Tools illustration" />
   </a>
   <br><strong>AI Tools</strong>
-  <br><small>Duplicate Word Finder & Prompt Extraction — sharpen your workflow.</small>
+  <br><small>Duplicate Word Finder & Prompt Extraction — sharpen your AI workflow instantly.</small>
 </td>
 
 <!-- Scripture Viewer -->
@@ -146,7 +161,7 @@ I'm a freelance consultant specializing in technology solutions. Whether you're 
     <img src="biblos/biblos.svg" width="90" alt="Biblos logo – open Bible with bookmark" />
   </a>
   <br><strong>Scripture Viewer</strong>
-  <br><small>Offline‑first Bible reader with TTS, search, and multiple translations.</small>
+  <br><small>Offline‑first Bible reader with multiple translations, full‑text search, and calming text‑to‑speech.</small>
 </td>
 
 <!-- Talking Clock -->
@@ -156,7 +171,7 @@ I'm a freelance consultant specializing in technology solutions. Whether you're 
          width="90" alt="Talking Clock screenshot" />
   </a>
   <br><strong>Talking Clock</strong>
-  <br><small>Analog clock with real‑time voice, inspired by Telstra's 1194.</small>
+  <br><small>Analog clock with real‑time voice synthesis, inspired by Telstra's classic 1194.</small>
 </td>
 </tr>
 </table>
@@ -205,53 +220,69 @@ I'm a freelance consultant specializing in technology solutions. Whether you're 
   - **Software** — [Talking Clock](https://akingdom.github.io/talking_clock) · [Match Blocks](https://akingdom.github.io/matchblox) · [Code](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
 
-## Quotes
+## My Philosophy
 
-> A movie is never really finished, just released. — Bonnie Arnold
+Technology should work for people, not the other way around. I approach every problem as a chance to listen, solve, and teach — patiently and without jargon.
 
-> If you're not embarrassed by your early work, you spent too long on it. — Attributed to Neil Gaiman
+> “Where possible, focus on things that are worthwhile.” — *Andrew Kingdom*
 
-> The opposite of addiction is not sobriety but connection. — Johann Hari
+> “The fallback rule of systems success: always use the best tool for the job. Build tools to survive tougher jobs than anticipated and to fail safely when they break.” — *Andrew Kingdom*
 
-> Where possible, focus on things that are worthwhile. — Andrew Kingdom
+> “If a lack of effort isn't the problem, more effort is not the solution. If we want to achieve more, we often need to do less.” — *Jessica McCabe*
 
-> Writer's Block? Think about things differently: add a new communication; add random text from any source; take time to relax; help a stranger; rewrite in a different format; put down the basics and move on. — Andrew Kingdom
 
-> Even experts know less than 1% of everything that can be known about life, the universe and everything. — Andrew Kingdom
+<details>
+<summary><strong>More quotes I live by</strong> (click to expand)</summary>
 
-> Being an expert in one field does not guarantee expertise in another. — Andrew Kingdom
+> A movie is never really finished, just released. — *Bonnie Arnold*
 
-> No work is ever worth a divorce. — Andrew Kingdom
+> If you're not embarrassed by your early work, you spent too long on it. — *Attributed to Neil Gaiman*
 
-> You can't truly love others if you're not caring for yourself. It's like how airlines say, 'Put on your own mask first, then help others.' — Andrew Kingdom
+> The opposite of addiction is not sobriety but connection. — *Johann Hari*
 
-> Intelligence has little to do with a person's value as a human. — Andrew Kingdom
+> Even experts know less than 1% of everything that can be known about life, the universe and everything. — *Andrew Kingdom*
 
-> True life transformation isn't the fruit of human effort — it's not something owed or earnt — but a reliable divine gift, granted freely through grace. — Andrew Kingdom
+> Being an expert in one field does not guarantee expertise in another. — *Andrew Kingdom*
 
-> A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence. — Andrew Kingdom
+> No work is ever worth a divorce. — *Andrew Kingdom*
 
-> Un-deception is the successful resolution of misapprehension — changing your own mind concerning a misbelief. — A. Kingdom on C.S. Lewis on J. Austen
+> You can't truly love others if you're not caring for yourself. It's like how airlines say, 'Put on your own mask first, then help others.' — *Andrew Kingdom*
 
-> I.Q. tests measure a narrow band of mental ability and generally exclude a person's full intellect, emotional quotient, physical intellect, spatial intellect, spiritual intellect, love, kindness, ethics, and mental alertness. — Andrew Kingdom
+> Intelligence has little to do with a person's value as a human. — *Andrew Kingdom*
 
-> Understanding emotional context improves decision-making and strengthens relationships. — Andrew Kingdom
+> True life transformation isn't the fruit of human effort — it's not something owed or earnt — but a reliable divine gift, granted freely through grace. — *Andrew Kingdom*
 
-> Use your connections to find the back door into an organisation rather than worrying about getting stuck in the front door. — Temple Grandin
+> A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence. — *Andrew Kingdom*
 
-> Add new technology only if it clearly reduces workload — each addition must simplify processes to offset the complexity it brings. — Andrew Kingdom
+> Un-deception is the successful resolution of misapprehension — changing your own mind concerning a misbelief. — *A. Kingdom on C.S. Lewis on J. Austen*
 
-> Thoughts and ideas are like food — we need them to live, but there are junk thoughts and healthy thoughts. — Andrew Kingdom
+> I.Q. tests measure a narrow band of mental ability and generally exclude a person's full intellect, emotional quotient, physical intellect, spatial intellect, spiritual intellect, love, kindness, ethics, and mental alertness. — *Andrew Kingdom*
 
-> Computers (and thus AI) are mainly an aid to extend human thinking and memory. — Andrew Kingdom
+> Understanding emotional context improves decision-making and strengthens relationships. — *Andrew Kingdom*
 
-> A person who struggles and moves forwards will generally go much further in life than a person who never had to struggle at all. — Andrew Kingdom
+> Use your connections to find the back door into an organisation rather than worrying about getting stuck in the front door. — *Temple Grandin*
 
-> If a lack of effort isn't the problem, more effort is not the solution. If we want to achieve more, we often need to do less. — Jessica McCabe
+> Add new technology only if it clearly reduces workload — each addition must simplify processes to offset the complexity it brings. — *Andrew Kingdom*
 
-> The fallback rule of systems success: always use the best tool for the job. Build tools to survive tougher jobs than anticipated and to fail safely when they break. — Andrew Kingdom
+> Thoughts and ideas are like food — we need them to live, but there are junk thoughts and healthy thoughts. — *Andrew Kingdom*
 
-> Creating on a computer is like cooking in a kitchen: fairly pointless if no one eats the food. — Andrew Kingdom
+> Computers (and thus AI) are mainly an aid to extend human thinking and memory. — *Andrew Kingdom*
+
+> A person who struggles and moves forwards will generally go much further in life than a person who never had to struggle at all. — *Andrew Kingdom*
+
+> Creating on a computer is like cooking in a kitchen: fairly pointless if no one eats the food. — *Andrew Kingdom*
+
+</details>
+
+
+## Let's Work Together
+
+I'm open to freelance, consulting, and collaboration opportunities — remote or on‑site (Victoria, Australia).
+
+- **Best way to reach me:** [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) (public) or via [email](mailto:akingdom@example.com).
+- **What happens next:** Send me a message describing your challenge. I'll reply within 24 hours, and we'll figure out together whether I'm the right fit — no pressure, no jargon.
+
+*I focus on individuals, small businesses, and practical tools. I don't take on large‑scale corporate contracts or full‑stack web design — but I can build you a lightweight solution that gets the job done.*
 
 
 ## Footnotes
