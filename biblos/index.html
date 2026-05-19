@@ -5,177 +5,488 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biblos Scripture Viewer</title>
     <style>
-:root { 
---primary: #1967d2; --bg: #f8f9fa; --surface: #ffffff; 
---text: #202124; --border: #dadce0; --note-bg: #e8f0fe; 
---strong-green: #188038; --hover: #f1f3f4;
-}
-@media (prefers-color-scheme: dark) {
-:root {
-    --primary: #8ab4f8; --bg: #202124; --surface: #2d2e31;
-    --text: #e8eaed; --border: #3c4043; --note-bg: #3c4043;
-    --strong-green: #81c995; --hover: #35363a;
-}
-}
+        :root {
+            --primary: #1967d2;
+            --bg: #f8f9fa;
+            --surface: #ffffff;
+            --text: #202124;
+            --border: #dadce0;
+            --note-bg: #e8f0fe;
+            --strong-green: #188038;
+            --hover: #f1f3f4;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #8ab4f8;
+                --bg: #202124;
+                --surface: #2d2e31;
+                --text: #e8eaed;
+                --border: #3c4043;
+                --note-bg: #3c4043;
+                --strong-green: #81c995;
+                --hover: #35363a;
+            }
+        }
 
-body { font-family: 'Charis SIL', 'Times New Roman', serif; margin: 0; background: var(--bg); color: var(--text); line-height: 1.6; padding-bottom: 140px; }
-.ui-font { font-family: 'Roboto', 'Segoe UI', Arial, sans-serif; }
+        body {
+            font-family: 'Charis SIL', 'Times New Roman', serif;
+            margin: 0;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            padding-bottom: 120px;
+        }
+        .ui-font {
+            font-family: 'Roboto', 'Segoe UI', Arial, sans-serif;
+        }
 
-.container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
-.card { background: var(--surface); padding: 2.5rem; border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); position: relative; min-height: 70vh; }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .card {
+            background: var(--surface);
+            padding: 2rem;
+            border-radius: 16px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+            position: relative;
+            min-height: 70vh;
+            overflow: hidden; /* contain the float */
+        }
 
-.sticky-nav { 
-position: sticky; top: 0; background: var(--surface); padding: 10px 0; 
-border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; z-index: 1000; 
-display: flex; gap: 8px; flex-wrap: wrap; align-items: center; 
-}
-select, input { border: 1px solid var(--border); padding: 8px; border-radius: 8px; outline: none; font-size: 0.9rem; background: var(--surface); color: var(--text); }
-#col-select { max-width: 150px; }
-#search-box { flex-grow: 1; min-width: 150px; }
+        /* ================== TOP NAV ROW ================== */
+        .top-nav {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 1rem;
+            position: relative;
+        }
+        #search-box {
+            flex: 1;
+            min-width: 120px;
+            border: 1px solid var(--border);
+            padding: 10px 36px 10px 12px;
+            border-radius: 8px;
+            outline: none;
+            font-size: 0.95rem;
+            background: var(--surface);
+            color: var(--text);
+        }
+        #search-clear {
+            position: absolute;
+            right: 8px;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            font-size: 18px;
+            color: #9aa0a6;
+            display: none;
+            line-height: 1;
+            user-select: none;
+        }
+        .search-wrapper {
+            position: relative;
+            flex: 1;
+            display: flex;
+            align-items: center;
+        }
 
-#search-results { 
-position: absolute; top: 60px; left: 0; width: 100%; background: var(--surface); 
-z-index: 2000; border: 1px solid var(--border); border-radius: 8px; 
-max-height: 450px; overflow-y: auto; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
-}
-.search-item { padding: 12px; border-bottom: 1px solid var(--border); cursor: pointer; font-size: 0.95rem; }
-.search-item:hover { background: var(--hover); }
-.search-nav-indicator { padding: 15px; text-align: center; background: var(--bg); color: var(--primary); cursor: pointer; font-weight: 500; border-top: 1px solid var(--border); }
+        /* Pill dropdown buttons */
+        .pill-btn {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 8px 12px;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            background: var(--surface);
+            color: var(--text);
+            cursor: pointer;
+            font-size: 0.85rem;
+            white-space: nowrap;
+            user-select: none;
+            transition: background 0.2s;
+        }
+        .pill-btn:hover {
+            background: var(--hover);
+        }
+        .pill-btn .arrow {
+            font-size: 10px;
+            margin-left: 2px;
+            opacity: 0.7;
+        }
+        .dropdown-list {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            min-width: 140px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            z-index: 2000;
+            max-height: 250px;
+            overflow-y: auto;
+            display: none;
+        }
+        .dropdown-item {
+            padding: 8px 14px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            white-space: nowrap;
+        }
+        .dropdown-item:hover {
+            background: var(--hover);
+        }
+        .custom-dropdown {
+            position: relative;
+        }
 
-.ref { font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem; font-weight: 400; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
-.verse-row { margin-bottom: 1rem; font-size: 1.4rem; transition: background-color 0.8s ease; padding: 4px; border-radius: 4px; display: flex;
-align-items: baseline;}
-.v-num { font-size: 0.75rem; color: #9aa0a6; font-weight: bold; margin-right: 10px; font-family: sans-serif; flex-shrink: 0; line-height: 1.6; /* Match body line-height */ padding-top: 0.15em; /* Fine-tune alignment */}
-.verse-text { flex: 1; }
-.verse-text.indent-q1 { padding-left: 2rem; }
-.verse-text.indent-q2 { padding-left: 4rem; }
-.verse-text.indent-q3 { padding-left: 6rem; }
+        /* QR code float */
+        .qr-float {
+            float: right;
+            width: 80px;
+            height: 80px;
+            margin-left: 15px;
+            margin-bottom: 10px;
+            background: white;
+            border-radius: 8px;
+            padding: 4px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
 
-.strong-pill { font-size: 0.65rem; color: var(--strong-green); background: rgba(129, 201, 149, 0.15); padding: 1px 4px; border-radius: 4px; margin-left: 2px; vertical-align: super; font-family: sans-serif; font-weight: bold; }
-.strongs-hidden .strong-pill { display: none !important; }
-.fn-chip { background: var(--note-bg); color: var(--primary); font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 12px; margin: 0 4px; cursor: pointer; vertical-align: middle; }
+        /* Reference title */
+        .ref {
+            font-size: 1.5rem;
+            color: var(--primary);
+            margin-bottom: 0.8rem;
+            font-weight: 400;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 10px;
+            clear: none; /* allow wrapping around float */
+        }
 
-/* Structural Styling */
-/* --- Structural Headers --- */
-.usfm-mt1, .usfm-mt2, .usfm-mt3 { display: block; text-align: center; color: var(--primary); font-family: 'Roboto', sans-serif; }
-.usfm-mt1 { font-size: 1.8rem; font-weight: bold; margin-top: 1rem; }
-.usfm-mt2 { font-size: 1.4rem; font-weight: normal; margin-bottom: 0.5rem; }
-.usfm-mt3 { font-size: 1.1rem; font-style: italic; }
+        /* Scripture content */
+        .verse-row {
+            margin-bottom: 1rem;
+            font-size: 1.4rem;
+            transition: background-color 0.8s ease;
+            padding: 4px;
+            border-radius: 4px;
+            display: flex;
+            align-items: baseline;
+        }
+        .v-num {
+            font-size: 0.75rem;
+            color: #9aa0a6;
+            font-weight: bold;
+            margin-right: 10px;
+            font-family: sans-serif;
+            flex-shrink: 0;
+            line-height: 1.6;
+            padding-top: 0.15em;
+        }
+        .verse-text {
+            flex: 1;
+        }
+        .verse-text.indent-q1 { padding-left: 2rem; }
+        .verse-text.indent-q2 { padding-left: 4rem; }
+        .verse-text.indent-q3 { padding-left: 6rem; }
 
-.usfm-s1, .usfm-s2, .usfm-ms1 { display: block; font-weight: bold; color: var(--primary); margin: 1.5rem 0 0.5rem; text-align: left; }
-.usfm-s1 { font-size: 1.2rem; border-bottom: 1px solid var(--border); padding-bottom: 4px; }
-.usfm-s2 { font-size: 1.05rem; }
+        .strong-pill {
+            font-size: 0.65rem;
+            color: var(--strong-green);
+            background: rgba(129, 201, 149, 0.15);
+            padding: 1px 4px;
+            border-radius: 4px;
+            margin-left: 2px;
+            vertical-align: super;
+            font-family: sans-serif;
+            font-weight: bold;
+        }
+        .strongs-hidden .strong-pill { display: none !important; }
+        .fn-chip {
+            background: var(--note-bg);
+            color: var(--primary);
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 2px 10px;
+            border-radius: 12px;
+            margin: 0 4px;
+            cursor: pointer;
+            vertical-align: middle;
+        }
 
-/* --- Paragraphs & Spacing --- */
-.usfm-p { display: block; margin: 0.8rem 0; text-indent: 1.5rem; }
-.usfm-m { display: block; margin: 0.8rem 0; text-indent: 0; } /* Margin paragraph (BSB heavy) */
-.usfm-nb { display: block; margin-top: -0.8rem; } /* No-break paragraph */
-.usfm-b { display: block; height: 1.2rem; content: ""; } /* Blank line / Stanza break */
+        /* USFM structural styles (unchanged, kept for brevity) */
+        .usfm-mt1, .usfm-mt2, .usfm-mt3 { display: block; text-align: center; color: var(--primary); }
+        .usfm-mt1 { font-size: 1.8rem; font-weight: bold; margin-top: 1rem; }
+        .usfm-mt2 { font-size: 1.4rem; font-weight: normal; margin-bottom: 0.5rem; }
+        .usfm-mt3 { font-size: 1.1rem; font-style: italic; }
+        .usfm-s1, .usfm-s2, .usfm-ms1 { display: block; font-weight: bold; color: var(--primary); margin: 1.5rem 0 0.5rem; }
+        .usfm-s1 { font-size: 1.2rem; border-bottom: 1px solid var(--border); }
+        .usfm-s2 { font-size: 1.05rem; }
+        .usfm-p { display: block; margin: 0.8rem 0; text-indent: 1.5rem; }
+        .usfm-m { display: block; margin: 0.8rem 0; text-indent: 0; }
+        .usfm-b { display: block; height: 1.2rem; }
+        .usfm-q1 { display: block; padding-left: 2rem; margin: 0.1rem 0; }
+        .usfm-q2 { display: block; padding-left: 4rem; margin: 0.1rem 0; }
+        .usfm-q3 { display: block; padding-left: 6rem; margin: 0.1rem 0; }
+        .usfm-qr { display: block; text-align: right; font-style: italic; font-size: 0.9rem; }
+        .usfm-r { display: block; font-style: italic; font-size: 0.85rem; color: #5f6368; margin-bottom: 0.5rem; }
+        .usfm-d { display: block; font-style: italic; font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0; }
+        .usfm-li1 { display: block; padding-left: 2rem; text-indent: -1rem; }
+        .usfm-li2 { display: block; padding-left: 3rem; text-indent: -1rem; }
+        .usfm-sp { display: block; font-weight: bold; font-style: italic; margin-top: 0.5rem; }
+        .usfm-pc { display: block; text-align: center; }
+        .usfm-pmo { display: block; margin-left: 1.5rem; font-style: italic; }
+        .usfm-is1 { display: block; font-weight: bold; font-size: 1.1rem; margin: 1rem 0 0.5rem 0; color: var(--text); border-bottom: 1px dashed var(--border); }
+        .usfm-ip, .usfm-ili { color: #70757a; font-size: 0.95rem; }
+        .usfm-ili { display: block; padding-left: 1rem; }
+        .usfm-id, .usfm-ide, .usfm-h, .usfm-toc1, .usfm-toc2, .usfm-toc3 { display: none; }
 
-/* --- Poetic Material --- */
-.usfm-q1 { display: block; padding-left: 2rem; margin: 0.1rem 0; }
-.usfm-q2 { display: block; padding-left: 4rem; margin: 0.1rem 0; }
-.usfm-q3 { display: block; padding-left: 6rem; margin: 0.1rem 0; }
-.usfm-qr { display: block; text-align: right; font-style: italic; font-size: 0.9rem; } /* Poetic right-aligned */
+        /* Speech */
+        .tts-word {
+            transition: background-color 0.15s ease, color 0.15s ease;
+            border-radius: 2px;
+        }
+        .speaking-active {
+            background-color: #fff9c4;
+            color: inherit;
+        }
+        .verse-row.verse-speaking {
+            background-color: rgba(255, 249, 196, 0.3);
+            transition: background-color 0.3s ease;
+        }
 
-/* --- References & Notes --- */
-.usfm-r { display: block; font-style: italic; font-size: 0.85rem; color: #5f6368; margin-bottom: 0.5rem; }
-.usfm-d { display: block; font-style: italic; font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0; } /* Descriptive title/Psalm heading */
+        /* Bottom bar */
+        .bottom-bar {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: calc(100% - 40px);
+            max-width: 760px;
+            background: var(--surface);
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            padding: 12px 16px;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            box-sizing: border-box;
+        }
+        .bottom-bar.is-note {
+            background: var(--note-bg);
+            border: 1px solid var(--primary);
+        }
+        .ui-group {
+            display: flex;
+            gap: 12px;
+            width: 100%;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .icon-btn {
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            padding: 6px;
+            border-radius: 8px;
+            color: var(--text);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+        }
+        .icon-btn:hover {
+            background: var(--hover);
+        }
+        .icon-btn.active {
+            color: var(--primary);
+            background: rgba(25,103,210,0.1);
+        }
 
-/* --- Lists & Special Blocks --- */
-.usfm-li1 { display: block; padding-left: 2rem; text-indent: -1rem; }
-.usfm-li2 { display: block; padding-left: 3rem; text-indent: -1rem; }
-.usfm-sp { display: block; font-weight: bold; font-style: italic; margin-top: 0.5rem; } /* Speaker */
-.usfm-pc { display: block; text-align: center; } /* Centered paragraph */
-.usfm-pmo { display: block; margin-left: 1.5rem; font-style: italic; } /* Embedded opening oral prayer/address */
+        /* Voice sidebar */
+        .sidebar-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.4);
+            z-index: 3000;
+            display: none;
+            justify-content: flex-end;
+        }
+        .sidebar {
+            width: 300px;
+            max-width: 85vw;
+            height: 100%;
+            background: var(--surface);
+            padding: 20px;
+            box-shadow: -4px 0 12px rgba(0,0,0,0.2);
+            overflow-y: auto;
+            animation: slideIn 0.2s ease;
+        }
+        @keyframes slideIn {
+            from { transform: translateX(100%); }
+            to { transform: translateX(0); }
+        }
+        .sidebar h2 {
+            margin-top: 0;
+            font-size: 1.2rem;
+        }
+        .voice-option {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 4px 0;
+            background: transparent;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            text-align: left;
+            cursor: pointer;
+            font-size: 0.9rem;
+            color: var(--text);
+        }
+        .voice-option:hover { background: var(--hover); }
+        .voice-option.selected { background: var(--primary); color: white; }
 
-/* --- Intro Material (WEB-only) --- */
-.usfm-is1 { display: block; font-weight: bold; font-size: 1.1rem; margin: 1rem 0 0.5rem 0; color: var(--text); border-bottom: 1px dashed var(--border); }
-.usfm-ip, .usfm-ili { color: #70757a; font-size: 0.95rem; }
-.usfm-ili { display: block; padding-left: 1rem; }
-
-/* --- Hide Meta Data from View --- */
-.usfm-id, .usfm-ide, .usfm-h, .usfm-toc1, .usfm-toc2, .usfm-toc3 { display: none; }
-
-.bottom-bar { 
-    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); 
-    width: calc(100% - 40px); max-width: 760px; background: var(--surface); 
-    border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); 
-    padding: 12px 20px; z-index: 1000; display: flex; align-items: center; box-sizing: border-box; overflow-x: auto;
-}
-.bottom-bar.is-note { background: var(--note-bg); border: 1px solid var(--primary); }
-.ui-group { display: flex; gap: 10px; width: 100%; min-width: max-content; justify-content: space-between; align-items: center; }
-
-button { background: var(--primary); color: white; border: none; padding: 8px 14px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-weight: 500; white-space: nowrap; }
-button.secondary { background: var(--hover); color: var(--text); }
-button.active { background: var(--primary) !important; color: var(--surface) !important; outline: 2px solid var(--primary); }
-
-#note-display { display: none; width: 100%; justify-content: space-between; align-items: center; }
-#qrcode { float: right; width: 80px; height: 80px; padding: 5px; background: white; border-radius: 8px; margin-left: 10px; }
-#cache-status { font-size: 0.7rem; color: #9aa0a6; position: absolute; bottom: 5px; right: 10px; }
-
-/* Highlight for the currently spoken word/phrase */
-.speaking-active { 
-    background-color: #fff9c4; /* Pale Yellow */
-    transition: background-color 0.1s ease;
-    border-radius: 2px;
-}
+        /* Search results */
+        #search-results {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 100%;
+            background: var(--surface);
+            z-index: 2500;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            max-height: 400px;
+            overflow-y: auto;
+            display: none;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+        .search-item { padding: 10px 12px; border-bottom: 1px solid var(--border); cursor: pointer; font-size: 0.9rem; }
+        .search-item:hover { background: var(--hover); }
+        .search-nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px;
+            border-bottom: 1px solid var(--border);
+        }
+        .search-nav-buttons button {
+            background: var(--hover);
+            border: none;
+            padding: 4px 8px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            border-radius: 4px;
+        }
     </style>
 </head>
 <body class="strongs-hidden">
 
 <div class="container">
     <div class="card">
-        <div class="sticky-nav ui-font">
-            <select id="col-select" onchange="loadCollection(this.value)"></select>
-            <select id="book-select" onchange="navigateTo(this.value, 1)"></select>
-            <select id="chapter-select" onchange="changeChapter(this.value)"></select>
-            <div style="position: relative; flex-grow: 1; display: flex;">
-                <input type="text" id="search-box" placeholder="Search keywords or 'John 3'..." onkeyup="handleSearch(event)">
+        <!-- Top navigation row -->
+        <div class="top-nav ui-font">
+            <div class="search-wrapper">
+                <input type="text" id="search-box" placeholder="Search / Chapter or :verse" onkeyup="handleSearch(event)" aria-label="Search">
+                <span id="search-clear" onclick="clearSearch()" title="Clear">✕</span>
                 <div id="search-results"></div>
+            </div>
+
+            <div class="custom-dropdown" id="col-dropdown">
+                <button class="pill-btn" onclick="toggleDropdown('col-dropdown')" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="Translation">
+                    <span id="col-label">BSB</span> <span class="arrow">▾</span>
+                </button>
+                <div class="dropdown-list" role="listbox"></div>
+            </div>
+
+            <div class="custom-dropdown" id="book-dropdown">
+                <button class="pill-btn" onclick="toggleDropdown('book-dropdown')" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="Book">
+                    <span id="book-label">Genesis</span> <span class="arrow">▾</span>
+                </button>
+                <div class="dropdown-list" role="listbox"></div>
+            </div>
+
+            <div class="custom-dropdown" id="chapter-dropdown">
+                <button class="pill-btn" onclick="toggleDropdown('chapter-dropdown')" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="Chapter">
+                    <span id="chapter-label">1</span> <span class="arrow">▾</span>
+                </button>
+                <div class="dropdown-list" role="listbox"></div>
             </div>
         </div>
 
-        <div id="qrcode"></div>
+        <!-- QR code floated right -->
+        <div id="qrcode" class="qr-float"></div>
+
+        <!-- Reference title -->
         <h1 class="ref" id="ref-header">Biblos</h1>
         <div id="content"></div>
-        <div id="cache-status" class="ui-font"></div>
+        <div id="cache-status" class="ui-font" style="font-size:0.7rem; color:#9aa0a6;"></div>
     </div>
 </div>
 
+<!-- Bottom bar -->
 <div class="bottom-bar ui-font" id="bottom-bar">
     <div id="standard-controls" class="ui-group">
-        <div style="display: flex; gap: 6px;">
-            <button class="secondary" onclick="stepChapter(-1)">◀</button>
-            <button class="secondary" onclick="stepChapter(1)">▶</button>
+        <div style="display: flex; gap: 8px;">
+            <button class="icon-btn" onclick="stepChapter(-1)" title="Previous chapter" aria-label="Previous chapter">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>
+            </button>
+            <button class="icon-btn" onclick="stepChapter(1)" title="Next chapter" aria-label="Next chapter">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
+            </button>
         </div>
-        <div style="display: flex; gap: 6px;">
-            <button id="strong-toggle" class="secondary" onclick="toggleStrongs()">S#</button>
-            <button class="secondary" onclick="pickRandom()">🎲 Random</button>
-            <div class="tts-ui-container" style="display:flex; align-items:center; gap:8px;">
-                <button id="play-btn" onclick="speechControl.play()">🔊 Listen</button>
-                <button id="restart-btn" class="secondary" onclick="speechControl.restart()">🔄 Restart</button>
-                
-                <div style="position:relative; display:inline-block;">
-                    <button onclick="document.getElementById('voice-picker').classList.toggle('hidden')" 
-                            style="background:none; border:none; cursor:pointer; padding:4px;">⚙️</button>
-                    <select id="voice-picker" 
-                            class="hidden"
-                            onchange="speechControl.updateVoice(this.value)"
-                            style="position:absolute; bottom:100%; right:0; z-index:100; font-size:11px; width:160px; border-radius:4px; padding:2px;">
-                        <option>Loading...</option>
-                    </select>
-                </div>
-            </div>
-            
-            <style>
-                .hidden { display: none; }
-            </style>
+        <div style="display: flex; gap: 8px;">
+            <button id="strong-toggle" class="icon-btn" onclick="toggleStrongs()" title="Toggle Strong's numbers" aria-label="Toggle Strong's numbers">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                    <text x="2" y="18" font-size="14" font-weight="bold" fill="currentColor">S<tspan baseline-shift="super" font-size="0.6em">#</tspan></text>
+                </svg>
+            </button>
+            <button class="icon-btn" onclick="pickRandom()" title="Random verse" aria-label="Random verse">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                    <rect x="2" y="2" width="20" height="20" rx="4" fill="none" stroke="currentColor" stroke-width="1.5"/>
+                    <circle cx="7" cy="7" r="2"/><circle cx="17" cy="7" r="2"/>
+                    <circle cx="12" cy="12" r="2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/>
+                </svg>
+            </button>
+            <button id="play-btn" class="icon-btn" onclick="speechControl.play()" title="Listen" aria-label="Listen">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
+            </button>
+            <button id="restart-btn" class="icon-btn" onclick="speechControl.restart()" title="Restart reading" aria-label="Restart reading">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                    <rect x="2" y="4" width="2" height="16"/>
+                    <polygon points="22,4 6,12 22,20"/>
+                </svg>
+            </button>
+            <button class="icon-btn" onclick="openVoiceSidebar()" title="Voice settings" aria-label="Voice settings">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                    <circle cx="12" cy="8" r="4"/>
+                    <path d="M12 14c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+                    <path d="M3 8l-2 2 2 2M21 8l2 2-2 2" stroke="currentColor" stroke-width="1.5" fill="none"/>
+                </svg>
+            </button>
         </div>
     </div>
-    <div id="note-display" class="ui-group">
+    <div id="note-display" class="ui-group" style="display:none;">
         <div id="note-content" style="flex-grow:1; font-size:0.9rem;"></div>
-        <div style="cursor:pointer; font-weight:bold; padding-left:15px;" onclick="closeNote()">✕</div>
+        <button class="icon-btn" onclick="closeNote()" style="font-size:1.2rem; font-weight:bold;">✕</button>
+    </div>
+</div>
+
+<!-- Voice sidebar overlay -->
+<div id="voice-sidebar-overlay" class="sidebar-overlay" onclick="closeVoiceSidebar(event)">
+    <div class="sidebar" id="voice-sidebar" onclick="event.stopPropagation()">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+            <h2>Choose Voice</h2>
+            <button class="icon-btn" onclick="closeVoiceSidebar()" style="font-size:1.2rem;">✕</button>
+        </div>
+        <div id="voice-list"></div>
     </div>
 </div>
 
@@ -183,7 +494,35 @@ button.active { background: var(--primary) !important; color: var(--surface) !im
 <script src="../js/qrcode.js"></script>
 
 <script>
-const state = { activeCollection: null, currentCollectionId: null, fullLibrary: {}, book: null, ch: 1, showStrongs: false, searchResults: [], searchPage: 0, notePinned: false, db: null };
+// ==================== STATE & INIT ====================
+const state = {
+    activeCollection: null,
+    currentCollectionId: null,
+    fullLibrary: {},
+    book: null,
+    ch: 1,
+    showStrongs: false,
+    searchResults: [],
+    searchPage: 0,
+    notePinned: false,
+    db: null,
+    currentSearchIndex: -1
+};
+
+// ==================== ICON MAP ====================
+const ICONS = {
+    play: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>',
+    pause: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><rect x="5" y="3" width="4" height="18"/><rect x="15" y="3" width="4" height="18"/></svg>',
+    prevChapter: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>',
+    nextChapter: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>',
+    strongs: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><text x="2" y="18" font-size="14" font-weight="bold" fill="currentColor">S<tspan baseline-shift="super" font-size="0.6em">#</tspan></text></svg>',
+    dice: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="4" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="7" cy="7" r="2"/><circle cx="17" cy="7" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/></svg>',
+    restart: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="4" width="2" height="16"/><polygon points="22,4 6,12 22,20"/></svg>',
+    volume: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>',
+    speaker: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="8" r="4"/><path d="M12 14c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/><path d="M3 8l-2 2 2 2M21 8l2 2-2 2" stroke="currentColor" stroke-width="1.5" fill="none"/></svg>'
+};
+
+// ==================== SETUP ====================
 
 async function initDB() {
     return new Promise((resolve) => {
@@ -199,82 +538,165 @@ async function initDB() {
 }
 
 window.onload = async () => {
+    await initDB();
+
+    // Populate collection dropdown
     const idx = window.BIBLE_INDEX;
     if (idx) {
-        const colSel = document.getElementById('col-select');
-        idx.collections.forEach(c => {
-            // Only add collections that have books
-            if (c.books && Object.keys(c.books).length !== 0) {
-                colSel.add(new Option(c.name, c.id));
-            }
-        });
+        populateCollectionDropdown();
     }
+
     const params = new URLSearchParams(window.location.search);
     const last = JSON.parse(localStorage.getItem('last_pos')) || {};
     const targetCol = params.get('col') || last.col || (idx ? idx.collections[0].id : null);
-    
+
     state.showStrongs = localStorage.getItem('show_strongs') === 'true';
     document.body.classList.toggle('strongs-hidden', !state.showStrongs);
     document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
 
-    document.getElementById('search-box').addEventListener('focus', focusSearchBox);
-    document.getElementById('search-box').addEventListener('blur', closeSearch);
-    document.addEventListener('click', anyDocumentClick);
+    // Search box listeners
+    const searchBox = document.getElementById('search-box');
+    searchBox.addEventListener('focus', () => {
+        if (searchBox.value.trim().length >= 2 && state.searchResults.length > 0) {
+            document.getElementById('search-results').style.display = 'block';
+        }
+        document.getElementById('search-clear').style.display = searchBox.value ? 'block' : 'none';
+    });
+    searchBox.addEventListener('blur', () => {
+        setTimeout(() => {
+            if (document.activeElement !== searchBox) {
+                document.getElementById('search-results').style.display = 'none';
+            }
+        }, 100);
+    });
+    document.addEventListener('click', (e) => {
+        const res = document.getElementById('search-results');
+        const box = document.getElementById('search-box');
+        if (!box.contains(e.target) && !res.contains(e.target)) {
+            res.style.display = 'none';
+        }
+    });
 
-    await initDB();
+    // Global keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            closeNote();
+            closeSearch();
+            closeVoiceSidebar();
+        }
+        if ((e.key === '/' || e.key === '?') && !e.target.matches('input,textarea')) {
+            e.preventDefault();
+            searchBox.focus();
+            searchBox.select();
+        }
+    });
+
     if (targetCol) {
-        // Set the collection dropdown to match
-        document.getElementById('col-select').value = targetCol;
-        
-        // Load the collection (this now populates books and handles navigation)
         await loadCollection(targetCol);
-        
-        // After collection is loaded, handle URL/bookmark navigation
         if (params.get('book')) {
-            // URL has a specific book - navigate to it
             navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
         } else if (params.get('q')) {
-            // URL has a search query
-            document.getElementById('search-box').value = params.get('q');
+            searchBox.value = params.get('q');
             handleSearch({ target: { value: params.get('q') } });
         }
-        // If no URL params, loadCollection already handles navigation to last position or first book
+    } else if (idx) {
+        // Load first collection by default
+        await loadCollection(idx.collections[0].id);
     }
 };
 
-function focusSearchBox() {
-    const q = document.getElementById('search-box').value.trim();
-    if (q.length >= 2 && state.searchResults.length > 0) {
-        document.getElementById('search-results').style.display = 'block';
+// ==================== COLLECTION DROPDOWN ====================
+function populateCollectionDropdown() {
+    const idx = window.BIBLE_INDEX;
+    const list = document.querySelector('#col-dropdown .dropdown-list');
+    list.innerHTML = '';
+    
+    // Filter and sort alphabetically by name
+    const sorted = idx.collections
+        .filter(c => c.books && Object.keys(c.books).length)
+        .sort((a, b) => a.name.localeCompare(b.name));
+    
+    sorted.forEach(c => {
+        const div = document.createElement('div');
+        div.className = 'dropdown-item';
+        div.textContent = c.name;
+        div.setAttribute('role', 'option');
+        div.onclick = () => {
+            document.getElementById('col-label').textContent = c.name.substring(0, 4).toUpperCase();
+            loadCollection(c.id);
+            list.style.display = 'none';
+        };
+        list.appendChild(div);
+    });
+    
+    // Set initial label from the first sorted item
+    if (sorted.length) {
+        document.getElementById('col-label').textContent = sorted[0].name.substring(0, 4).toUpperCase();
     }
 }
 
-function closeSearch() {
-    document.getElementById('search-results').style.display='none';
-    const searchBox = document.getElementById('search-box');
-    // delay to allow for tab key
-    setTimeout(() => {
-      if (document.activeElement === searchBox) {
-        searchBox.blur();
-      }
-    }, 0);
+// ==================== BOOK & CHAPTER DROPDOWNS ====================
+function populateBookDropdown() {
+    const list = document.querySelector('#book-dropdown .dropdown-list');
+    list.innerHTML = '';
+    Object.keys(state.activeCollection).forEach(code => {
+        const div = document.createElement('div');
+        div.className = 'dropdown-item';
+        div.textContent = state.activeCollection[code].name;
+        div.setAttribute('role', 'option');
+        div.onclick = () => {
+            navigateTo(code, 1);
+            list.style.display = 'none';
+        };
+        list.appendChild(div);
+    });
 }
 
-function anyDocumentClick(e) {
-    const searchBox = document.getElementById('search-box');
-    const resultsDiv = document.getElementById('search-results');
-    // If the click is outside the search box and outside the results dropdown, dismiss the search results.
-    if (!searchBox.contains(e.target) && !resultsDiv.contains(e.target)) {
-        closeSearch();
-    }
-};
+function populateChapterDropdown() {
+    const list = document.querySelector('#chapter-dropdown .dropdown-list');
+    list.innerHTML = '';
+    const chs = Object.keys(state.fullLibrary).sort((a,b) => a-b);
+    chs.forEach(c => {
+        const div = document.createElement('div');
+        div.className = 'dropdown-item';
+        div.textContent = c;
+        div.setAttribute('role', 'option');
+        div.onclick = () => {
+            changeChapter(c);
+            list.style.display = 'none';
+        };
+        list.appendChild(div);
+    });
+}
 
+function toggleDropdown(id) {
+    const dd = document.getElementById(id);
+    const list = dd.querySelector('.dropdown-list');
+    const btn = dd.querySelector('.pill-btn');
+    const isOpen = list.style.display === 'block';
+    // Close all
+    document.querySelectorAll('.dropdown-list').forEach(l => l.style.display = 'none');
+    document.querySelectorAll('.pill-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+    if (!isOpen) {
+        list.style.display = 'block';
+        btn.setAttribute('aria-expanded', 'true');
+    }
+}
+
+document.addEventListener('click', (e) => {
+    if (!e.target.closest('.custom-dropdown')) {
+        document.querySelectorAll('.dropdown-list').forEach(l => l.style.display = 'none');
+        document.querySelectorAll('.pill-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+    }
+});
+
+// ==================== LOAD & NAVIGATE ====================
 async function loadCollection(id) {
     state.currentCollectionId = id;
     const colData = window.BIBLE_INDEX.collections.find(c => c.id === id);
     const varName = `COLLECTION_${id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
     const statusEl = document.getElementById('cache-status');
-    
+
     let cachedData = null;
     if (state.db) {
         cachedData = await new Promise(r => {
@@ -291,10 +713,10 @@ async function loadCollection(id) {
         statusEl.innerText = "☁ Loading...";
         await new Promise(r => {
             const s = document.createElement('script');
-            s.src = colData.file; 
+            s.src = colData.file;
             s.onload = () => {
                 if (state.db) {
-                    try { state.db.transaction(["collections"], "readwrite").objectStore("collections").put(window[varName], id); } catch(e){}
+                    try { state.db.transaction(["collections"], "readwrite").objectStore("collections").put(window[varName], id); } catch(e) {}
                 }
                 r();
             };
@@ -304,46 +726,42 @@ async function loadCollection(id) {
     }
 
     state.activeCollection = window[varName];
-    populateBooks();
-    
-    // --- FIX: Always try to navigate, preserving the current book/chapter if possible ---
-    const previousBook = state.book;
-    const previousCh = state.ch;
-    
-    // Reset the fullLibrary so we don't accidentally use the old collection's data
+    document.getElementById('col-label').textContent = colData.name.substring(0, 4).toUpperCase();
+    populateBookDropdown();
+
+    const prevBook = state.book;
+    const prevCh = state.ch;
     state.fullLibrary = {};
-    
-    // Try to keep the same book if it exists in the new collection
-    if (previousBook && state.activeCollection[previousBook]) {
-        // Book exists in new collection, go to the same chapter (or 1 if chapter doesn't exist)
-        state.book = previousBook;
-        state.fullLibrary = parseUSFM(state.activeCollection[previousBook].usfm);
-        
-        // Check if the previous chapter exists in the new collection
-        const availableChapters = Object.keys(state.fullLibrary);
-        const targetCh = availableChapters.includes(String(previousCh)) ? previousCh : 1;
-        
-        // Update the chapter dropdown and render
-        const chSel = document.getElementById('chapter-select');
-        chSel.innerHTML = "";
-        availableChapters.sort((a,b) => a-b).forEach(c => chSel.add(new Option(`Chapter ${c}`, c)));
-        document.getElementById('book-select').value = previousBook;
+
+    if (prevBook && state.activeCollection[prevBook]) {
+        state.book = prevBook;
+        state.fullLibrary = parseUSFM(state.activeCollection[prevBook].usfm);
+        const chs = Object.keys(state.fullLibrary);
+        const targetCh = chs.includes(String(prevCh)) ? prevCh : Number(chs[0]);
+        populateChapterDropdown();
+        document.getElementById('book-label').textContent = state.activeCollection[prevBook].name;
         changeChapter(targetCh);
     } else {
-        // Book doesn't exist or no previous book, go to first book
-        navigateTo(Object.keys(state.activeCollection)[0], 1);
+        const firstBook = Object.keys(state.activeCollection)[0];
+        navigateTo(firstBook, 1);
     }
 }
 
-function populateBooks() {
-    const sel = document.getElementById('book-select');
-    sel.innerHTML = "";
-    Object.keys(state.activeCollection).forEach(code => sel.add(new Option(state.activeCollection[code].name, code)));
-    if (state.book) {
-        sel.value = state.book;
-    }
+function navigateTo(code, ch, v) {
+    state.book = code;
+    state.fullLibrary = parseUSFM(state.activeCollection[code].usfm);
+    document.getElementById('book-label').textContent = state.activeCollection[code].name;
+    populateChapterDropdown();
+    changeChapter(ch || 1, v);
 }
 
+function changeChapter(c, v) {
+    state.ch = parseInt(c);
+    document.getElementById('chapter-label').textContent = c;
+    render(v);
+}
+
+// ==================== PARSE & RENDER ====================
 function parseUSFM(usfm) {
     const chapters = {};
     let curCh = 0, curV = 0;
@@ -427,7 +845,7 @@ function parseUSFM(usfm) {
 
 function finalize(raw) {
     if (!raw) return "";
-    raw = raw.replace(/\\x\s+.*?\\x\*/g, ''); 
+    raw = raw.replace(/\\x\s+.*?\\x\*/g, '');
     let html = raw.replace(/\\\+?w\s+([^|]+)\|strong="([HG])([0-9]+)"\\\+?w\*/g, (m, word, lang, code) => {
         return `${word}<span class="strong-pill">${lang}${code}</span>`;
     });
@@ -438,30 +856,46 @@ function finalize(raw) {
     return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim();
 }
 
-function navigateTo(code, ch, v) {
-    state.book = code;
-    state.fullLibrary = parseUSFM(state.activeCollection[code].usfm);
-    document.getElementById('book-select').value = code;
-    const chSel = document.getElementById('chapter-select'); chSel.innerHTML = "";
-    Object.keys(state.fullLibrary).sort((a,b)=>a-b).forEach(c => chSel.add(new Option(`Chapter ${c}`, c)));
-    changeChapter(ch || 1, v);
+function wrapWordsInSpans(html) {
+    const temp = document.createElement('div');
+    temp.innerHTML = html;
+
+    const wrapTextNodes = (parent) => {
+        Array.from(parent.childNodes).forEach(node => {
+            if (node.nodeType === 3) { // Text Node
+                const text = node.nodeValue;
+                if (text.trim().length > 0) {
+                    const newSpan = document.createElement('span');
+                    newSpan.innerHTML = text.split(/(\s+)/).map(part => {
+                        if (part.trim().length > 0) {
+                            return `<span class="tts-word">${part}</span>`;
+                        }
+                        return part;
+                    }).join('');
+                    node.replaceWith(newSpan);
+                }
+            } else if (node.nodeType === 1) {
+                if (!node.classList.contains('strong-pill') && !node.classList.contains('fn-chip')) {
+                    wrapTextNodes(node);
+                }
+            }
+        });
+    };
+    wrapTextNodes(temp);
+    return temp.innerHTML;
 }
 
-function changeChapter(c, v) {
-    state.ch = parseInt(c);
-    document.getElementById('chapter-select').value = c;
-    render(v);
+function setPlayIcon(type) {
+    const btn = document.getElementById('play-btn');
+    if (btn) btn.innerHTML = ICONS[type];
 }
-
-// # filename: biblos_viewer.html
 
 function render(targetV) {
-    // 1. RESET SPEECH STATE ON EVERY NEW RENDER
     window.speechSynthesis.cancel();
     currentVerseIdx = 0;
     charIndex = 0;
     isSpeaking = false;
-    document.getElementById('play-btn').innerText = "🔊 Listen";
+    setPlayIcon('play');
 
     const verses = state.fullLibrary[state.ch];
     if (!verses) return;
@@ -509,6 +943,8 @@ function render(targetV) {
         );
         // -------------------------------------------------------------------------
     
+        verseBody = wrapWordsInSpans(verseBody);
+
         if (!verseBody.trim() && !structuralHeader && !blankLineBefore) return;
     
         html += `
@@ -523,15 +959,12 @@ function render(targetV) {
     });
 
     document.getElementById('content').innerHTML = html;
-        
-    // Sync highlight if we are currently paused/resuming
-    if (charIndex > 0) syncHighlight(charIndex);
 
+    document.getElementById('ref-header').textContent = `${state.activeCollection[state.book].name} ${state.ch}`;
 
-    // --- PRESERVED EXISTING FUNCTIONALITY ---
     updateQR();
     if (targetV) {
-        setTimeout(() => {
+            setTimeout(() => {
             const el = document.getElementById(`v-${targetV}`);
             if (el) {
                 el.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -547,12 +980,36 @@ function render(targetV) {
     }));
 }
 
+// ==================== SEARCH ====================
 function handleSearch(e) {
     const q = e.target.value.trim().toLowerCase();
     const resDiv = document.getElementById('search-results');
-    if (q.length < 2) { resDiv.style.display = 'none'; return; }
-    state.searchResults = []; state.searchPage = 0;
+    document.getElementById('search-clear').style.display = q ? 'block' : 'none';
 
+    // Numeric navigation shortcuts
+    if (/^\d+$/.test(q)) {
+        const targetCh = parseInt(q);
+        if (state.fullLibrary[targetCh]) {
+            changeChapter(targetCh);
+            resDiv.style.display = 'none';
+            return;
+        }
+    }
+    if (/^(\d+):(\d+)$/.test(q)) {
+        const [, ch, vs] = q.match(/^(\d+):(\d+)$/);
+        if (state.fullLibrary[ch]) {
+            changeChapter(ch, vs);
+            resDiv.style.display = 'none';
+            return;
+        }
+    }
+
+    if (q.length < 2) { resDiv.style.display = 'none'; return; }
+    state.searchResults = [];
+    state.searchPage = 0;
+    state.currentSearchIndex = -1;
+
+    // Reference jump
     const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
     if (refMatch) {
         const bQ = refMatch[1].replace(/\s/g, '');
@@ -564,11 +1021,7 @@ function handleSearch(e) {
         const lib = parseUSFM(state.activeCollection[code].usfm);
         for (const ch in lib) {
             for (const v in lib[ch]) {
-                // REMOVE STRONG'S SPANS BEFORE SEARCHING TEXT
-                const txt = lib[ch][v]
-                    .replace(/<span class="strong-pill">.*?<\/span>/g, '') 
-                    .replace(/<[^>]*>/g, '')
-                    .toLowerCase();
+                const txt = lib[ch][v].replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
                 if (txt.includes(q)) state.searchResults.push({ code, ch, v, text: txt });
             }
         }
@@ -581,132 +1034,86 @@ function renderSearchResults() {
     const start = state.searchPage * 100, end = start + 100;
     const pageItems = state.searchResults.slice(start, end);
 
-    let html = pageItems.map(m => `
-        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v || 'null'}); document.getElementById('search-results').style.display='none';">
+    let html = '<div class="search-nav-buttons">';
+    html += `<button onclick="navigateSearchResult(-1)" ${state.currentSearchIndex <= 0 ? 'disabled' : ''}>◀</button>`;
+    html += `<span style="font-size:0.8rem;">${state.currentSearchIndex+1}/${state.searchResults.length}</span>`;
+    html += `<button onclick="navigateSearchResult(1)" ${state.currentSearchIndex >= state.searchResults.length-1 ? 'disabled' : ''}>▶</button>`;
+    html += '</div>';
+
+    html += pageItems.map((m, idx) => `
+        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v || 'null'}); document.getElementById('search-results').style.display='none';"
+             data-index="${start+idx}">
             <strong>${state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}</strong> - ${m.text.substring(0, 90)}...
         </div>`).join('');
 
     if (state.searchResults.length > end) {
-        html += `<div class="search-nav-indicator" onclick="event.stopPropagation(); state.searchPage++; renderSearchResults();">Next 100</div>`;
+        html += `<div class="search-item" onclick="state.searchPage++; renderSearchResults();">Next 100 →</div>`;
     }
-    resDiv.innerHTML = html; resDiv.style.display = html ? 'block' : 'none';
+    resDiv.innerHTML = html;
+    resDiv.style.display = state.searchResults.length ? 'block' : 'none';
 }
 
-function updateQR() {
-    const container = document.getElementById('qrcode');
-    const url = new URL(window.location);
-    url.searchParams.set('col', state.currentCollectionId); url.searchParams.set('book', state.book); url.searchParams.set('ch', state.ch);
-    const sq = document.getElementById('search-box').value;
-    if (sq) url.searchParams.set('q', sq); else url.searchParams.delete('q');
-    window.history.replaceState(null, '', url);
-    if (container && typeof QRCode !== 'undefined') { container.innerHTML = ""; new QRCode(container, { text: url.href, width: 80, height: 80 }); }
+function navigateSearchResult(dir) {
+    const newIdx = state.currentSearchIndex + dir;
+    if (newIdx >= 0 && newIdx < state.searchResults.length) {
+        state.currentSearchIndex = newIdx;
+        const res = state.searchResults[newIdx];
+        navigateTo(res.code, res.ch, res.v);
+        renderSearchResults();
+    }
 }
 
-function stepChapter(dir) {
-    const chs = Object.keys(state.fullLibrary).map(Number).sort((a,b)=>a-b);
-    const idx = chs.indexOf(state.ch);
-    if (chs[idx + dir]) changeChapter(chs[idx + dir]);
+function clearSearch() {
+    const box = document.getElementById('search-box');
+    box.value = '';
+    document.getElementById('search-results').style.display = 'none';
+    document.getElementById('search-clear').style.display = 'none';
+    state.searchResults = [];
+    box.focus();
 }
 
-function toggleStrongs() {
-    state.showStrongs = !state.showStrongs;
-    document.body.classList.toggle('strongs-hidden', !state.showStrongs);
-    document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
-    localStorage.setItem('show_strongs', state.showStrongs);
-}
-
-/**
- * find and highlight the word span that matches our global charIndex
- */
-function syncHighlight(index) {
-    const words = document.querySelectorAll('.tts-word');
-    // 1. Always clean up first
-    document.querySelectorAll('.speaking-active').forEach(el => el.classList.remove('speaking-active'));
-    
-    if (index === 0 || words.length === 0) return;
-
-    let cumulative = 0;
-    for (let i = 0; i < words.length; i++) {
-        const wordLen = words[i].innerText.length;
-        // Check if the current charIndex falls within this specific word span
-        if (index >= cumulative && index < cumulative + wordLen + 1) {
-            words[i].classList.add('speaking-active');
-            
-            // 2. Only scroll if the word is actually off-screen to prevent jitter
-            const rect = words[i].getBoundingClientRect();
-            if (rect.top < 0 || rect.bottom > window.innerHeight) {
-                words[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-            break;
+function closeSearch() {
+    document.getElementById('search-results').style.display = 'none';
+    document.getElementById('search-clear').style.display = 'none';
+    const searchBox = document.getElementById('search-box');
+    // delay to allow for tab key
+    setTimeout(() => {
+        if (document.activeElement === searchBox) {
+            searchBox.blur();
         }
-        cumulative += wordLen + 1; // +1 accounts for the space between words
-    }
+    }, 0);
 }
 
-let selectedVoice = null;
-let voicesLoaded = false;
-    
-function toggleVoiceMenu() {
-    const picker = document.getElementById('voice-picker');
-    picker.style.display = (picker.style.display === 'none') ? 'inline-block' : 'none';
+// ==================== VOICE SIDEBAR ====================
+function openVoiceSidebar() {
+    const overlay = document.getElementById('voice-sidebar-overlay');
+    overlay.style.display = 'flex';
+    populateVoiceList();
 }
 
-function initVoices() {
+function closeVoiceSidebar(e) {
+    if (e && e.target !== document.getElementById('voice-sidebar-overlay')) return;
+    document.getElementById('voice-sidebar-overlay').style.display = 'none';
+}
+
+function populateVoiceList() {
     const synth = window.speechSynthesis;
-    let voices = synth.getVoices();
-
-    // If voices are empty, the browser hasn't initialized the hardware yet
-    if (voices.length === 0) {
-        // Retry once after a short delay for browsers that don't fire onvoiceschanged
-        setTimeout(initVoices, 100);
-        return;
-    }
-
-    const picker = document.getElementById('voice-picker');
-    if (!picker) return;
-
-    // Filter for English and remove duplicates (common in mobile Safari)
-    const englishVoices = voices.filter(v => v.lang.startsWith('en'));
-    
-    // De-duplicate by name to keep the UI clean
-    const uniqueVoices = Array.from(new Map(englishVoices.map(v => [v.name, v])).values());
-
-    picker.innerHTML = uniqueVoices.map(v => {
-        const isDefault = v.default ? " (System)" : "";
-        return `<option value="${v.name}">${v.name}${isDefault}</option>`;
+    const voices = synth.getVoices().filter(v => v.lang.startsWith('en'));
+    const uniqueVoices = Array.from(new Map(voices.map(v => [v.name, v])).values());
+    const container = document.getElementById('voice-list');
+    container.innerHTML = uniqueVoices.map(v => {
+        const sel = selectedVoice && selectedVoice.name === v.name ? 'selected' : '';
+        return `<button class="voice-option ${sel}" onclick="selectVoice('${v.name}')">${v.name}${v.default ? ' (System)' : ''}</button>`;
     }).join('');
-
-    // Persistence: Try to load the user's previous preference from localStorage
-    const savedVoiceName = localStorage.getItem('tts_voice_pref');
-    if (savedVoiceName) {
-        selectedVoice = uniqueVoices.find(v => v.name === savedVoiceName);
-    }
-
-    // Fallback: If no saved pref, look for System Default, else first English voice
-    if (!selectedVoice) {
-        selectedVoice = uniqueVoices.find(v => v.default) || uniqueVoices[0];
-    }
-
-    if (selectedVoice) {
-        picker.value = selectedVoice.name;
-        voicesLoaded = true;
-    }
 }
 
-// Attach listener for async voice loading
-window.speechSynthesis.onvoiceschanged = initVoices;
-initVoices();  // for firefox/safari.
-    
-let currentVerseIdx = 0; // The new "Source of Truth"
-let charIndex = 0; // The "Bookmark" within the current verse
+function selectVoice(name) {
+    speechControl.updateVoice(name);
+    closeVoiceSidebar();
+}
 
-// ============================================================================
-// speechControl - TTS Controller with Resume, Restart, Multi-Verse Support
-// ============================================================================
-// Global variables (defined elsewhere, used here):
-//   - isSpeaking, currentVerseIdx, charIndex, selectedVoice
-// ============================================================================
-
+// ==================== TTS CONTROLLER ====================
+// (All existing speechControl code, unchanged, but we update the play button SVG toggling)
 const speechControl = {
     // ------------------------------------------------------------------------
     // Internal flags (unique to this controller)
@@ -733,17 +1140,18 @@ const speechControl = {
         clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
         return clone.innerText.trim() + '.';
     },
-    _updatePlayPauseButtons: function(text) {
-        document.querySelectorAll('.play-pause-btn').forEach(btn => btn.innerText = text);
-    },
     _clearHighlights: function() {
         document.querySelectorAll('.speaking-active').forEach(el => el.classList.remove('speaking-active'));
     },
     _highlightVerse: function(verseNum) {
+        // Remove verse glow from all
+        document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
+        // Remove word highlight (already done by _clearHighlights)
         this._clearHighlights();
+    
         const el = document.getElementById(`v-${verseNum}`);
         if (el) {
-            el.classList.add('speaking-active');
+            el.classList.add('verse-speaking');
             el.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
     },
@@ -789,8 +1197,8 @@ const speechControl = {
 
         // Highlight and UI
         this._highlightVerse(vNum);
-        this._updatePlayPauseButtons("⏸ Pause");
         isSpeaking = true;
+        setPlayIcon('pause');
 
         // Utterance
         const utterance = new SpeechSynthesisUtterance(textToSpeak);
@@ -800,6 +1208,7 @@ const speechControl = {
         utterance.onboundary = (event) => {
             if (event.name === 'word') {
                 charIndex = startChar + event.charIndex;
+                syncHighlight(charIndex);
             }
         };
 
@@ -821,7 +1230,9 @@ const speechControl = {
                 isSpeaking = false;
                 charIndex = 0;
                 this._clearHighlights();
-                this._updatePlayPauseButtons("🔊 Listen");
+                document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
+
+                setPlayIcon('play');
             }
         };
 
@@ -842,7 +1253,7 @@ const speechControl = {
             isSpeaking = false;
             this._speakingInProgress = false;
             synth.cancel();
-            this._updatePlayPauseButtons("🔊 Resume");
+            setPlayIcon('play');
             return;
         }
 
@@ -875,7 +1286,7 @@ const speechControl = {
         charIndex = 0;
 
         this._clearHighlights();
-        this._updatePlayPauseButtons("⏸ Pause");
+        setPlayIcon('pause');
 
         this._restartTimer = setTimeout(() => {
             this.speakFrom(0, 0);
@@ -908,9 +1319,8 @@ const speechControl = {
         currentVerseIdx = 0;
         charIndex = 0;
         this._clearHighlights();
-        this._updatePlayPauseButtons("🔊 Listen");
-        const playBtn = document.getElementById('play-btn');
-        if (playBtn) playBtn.innerText = "🔊 Listen";
+        document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
+        setPlayIcon('play');
     },
 
     // ------------------------------------------------------------------------
@@ -920,27 +1330,140 @@ const speechControl = {
         this._clearHighlights();
     }
 };
-// Reset position when changing chapter
+
+let selectedVoice = null;
+let voicesLoaded = false;
+let currentVerseIdx = 0;
+let charIndex = 0;
+let isSpeaking = false;
+
+function toggleVoiceMenu() {
+    const picker = document.getElementById('voice-picker');
+    picker.style.display = (picker.style.display === 'none') ? 'inline-block' : 'none';
+}
+
+function initVoices() {
+    const synth = window.speechSynthesis;
+    let voices = synth.getVoices();
+
+    if (voices.length === 0) {
+        setTimeout(initVoices, 100);
+        return;
+    }
+
+    const picker = document.getElementById('voice-picker');
+    if (!picker) return;
+
+    const englishVoices = voices.filter(v => v.lang.startsWith('en'));
+    const uniqueVoices = Array.from(new Map(englishVoices.map(v => [v.name, v])).values());
+
+    picker.innerHTML = uniqueVoices.map(v => {
+        const isDefault = v.default ? " (System)" : "";
+        return `<option value="${v.name}">${v.name}${isDefault}</option>`;
+    }).join('');
+
+    const savedVoiceName = localStorage.getItem('tts_voice_pref');
+    if (savedVoiceName) {
+        selectedVoice = uniqueVoices.find(v => v.name === savedVoiceName);
+    }
+
+    if (!selectedVoice) {
+        selectedVoice = uniqueVoices.find(v => v.default) || uniqueVoices[0];
+    }
+
+    if (selectedVoice) {
+        picker.value = selectedVoice.name;
+        voicesLoaded = true;
+    }
+}
+
+window.speechSynthesis.onvoiceschanged = initVoices;
+initVoices();
+
 const originalChangeChapter = changeChapter;
 changeChapter = function(c, v) {
-    // Kill speech immediately when the user navigates
     window.speechSynthesis.cancel();
+    document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
+    speechControl._clearHighlights();
     currentVerseIdx = 0;
     charIndex = 0; 
     isSpeaking = false;
-    document.getElementById('play-btn').innerText = "🔊 Listen";
+    setPlayIcon('play');
     originalChangeChapter(c, v);
 };
-    
+
+function syncHighlight(index) {
+    const verseEl = document.querySelector('.verse-row.verse-speaking');
+    if (!verseEl) return;
+    const words = verseEl.querySelectorAll('.tts-word');
+    document.querySelectorAll('.speaking-active').forEach(el => el.classList.remove('speaking-active'));
+    if (index === 0 || words.length === 0) return;
+    let cumulative = 0;
+    for (let i = 0; i < words.length; i++) {
+        const wordLen = words[i].innerText.length;
+        if (index >= cumulative && index < cumulative + wordLen + 1) {
+            words[i].classList.add('speaking-active');
+            const rect = words[i].getBoundingClientRect();
+            if (rect.top < 0 || rect.bottom > window.innerHeight) {
+                words[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+            break;
+        }
+        cumulative += wordLen + 1;
+    }
+}
+
+// Override play to toggle icon
+const origPlay = speechControl.play;
+speechControl.play = function() {
+    if (isSpeaking) {
+        origPlay.call(this);
+        setPlayIcon('play');
+    } else {
+        origPlay.call(this);
+        setPlayIcon('pause');
+    }
+};
+
+// ==================== UTILITY ====================
+function updateQR() {
+    const container = document.getElementById('qrcode');
+    const url = new URL(window.location);
+    url.searchParams.set('col', state.currentCollectionId);
+    url.searchParams.set('book', state.book);
+    url.searchParams.set('ch', state.ch);
+    window.history.replaceState(null, '', url);
+    if (container && typeof QRCode !== 'undefined') {
+        container.innerHTML = "";
+        new QRCode(container, { text: url.href, width: 80, height: 80 });
+    }
+}
+
+function stepChapter(dir) {
+    const chs = Object.keys(state.fullLibrary).map(Number).sort((a,b)=>a-b);
+    const idx = chs.indexOf(state.ch);
+    if (chs[idx + dir]) changeChapter(chs[idx + dir]);
+}
+
+function toggleStrongs() {
+    state.showStrongs = !state.showStrongs;
+    document.body.classList.toggle('strongs-hidden', !state.showStrongs);
+    document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
+    localStorage.setItem('show_strongs', state.showStrongs);
+}
+
 function pickRandom() {
     const codes = Object.keys(state.activeCollection);
     const code = codes[Math.floor(Math.random() * codes.length)];
     const lib = parseUSFM(state.activeCollection[code].usfm);
-    const ch = Object.keys(lib)[Math.floor(Math.random() * Object.keys(lib).length)];
-    const v = Object.keys(lib[ch])[Math.floor(Math.random() * Object.keys(lib[ch]).length)];
+    const chs = Object.keys(lib);
+    const ch = chs[Math.floor(Math.random() * chs.length)];
+    const vs = Object.keys(lib[ch]);
+    const v = vs[Math.floor(Math.random() * vs.length)];
     navigateTo(code, ch, v);
 }
 
+// ==================== NOTE HANDLING ====================
 function handleNote(e, t, type) {
     if (type === 'click') state.notePinned = true;
     if (type === 'out' && state.notePinned) return;
@@ -951,51 +1474,11 @@ function handleNote(e, t, type) {
         document.getElementById('standard-controls').style.display = 'none';
     } else { closeNote(); }
 }
-
-function closeNote() { state.notePinned = false; document.getElementById('bottom-bar').classList.remove('is-note'); document.getElementById('note-display').style.display = 'none'; document.getElementById('standard-controls').style.display = 'flex'; }
-
-document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeNote(); closeSearch(); } });
-
-// DEVELOPER TOOL: call this from debug console...
-async function runUsfmAudit() {
-    console.log("🚀 Starting Deep USFM Audit...");
-    const report = {
-        summary: {},
-        perVersion: {}
-    };
-    for (const col of window.BIBLE_INDEX.collections) {
-        console.log(`Checking Version: ${col.name}...`);
-        const varName = `COLLECTION_${col.id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
-        
-        // Ensure the collection is loaded for the audit
-        if (!window[varName]) {
-            await new Promise(r => {
-                const s = document.createElement('script');
-                s.src = col.file;
-                s.onload = r;
-                document.head.appendChild(s);
-            });
-        }
-        const data = window[varName];
-        report.perVersion[col.id] = {};
-        for (const bookCode in data) {
-            data[bookCode].usfm.split('\n').forEach(line => {
-                if (line.startsWith('\\')) {
-                    const tag = line.split(' ')[0].split('\*')[0]; // Catch tags like \v or \q1
-                    
-                    // Update Summary
-                    report.summary[tag] = (report.summary[tag] || 0) + 1;
-                    
-                    // Update Per Version
-                    report.perVersion[col.id][tag] = (report.perVersion[col.id][tag] || 0) + 1;
-                }
-            });
-        }
-    }
-    console.log("✅ Audit Complete!");
-    console.table(report.summary);
-    console.log("Full Report Object:", report);
-    return report;
+function closeNote() {
+    state.notePinned = false;
+    document.getElementById('bottom-bar').classList.remove('is-note');
+    document.getElementById('note-display').style.display = 'none';
+    document.getElementById('standard-controls').style.display = 'flex';
 }
 </script>
 </body>
