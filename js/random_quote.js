@@ -1,15 +1,33 @@
 /**
  * QuoteManager Namespace
- * Processes document quotes using an isolated, input-agnostic pipeline.
- */
-const QuoteManager = (function () {
+ * Detects structural clusters of sequential blockquotes and transfers a random selection.
+ * 
+ * =========================================================================================
+ * PARAMETERS (JavaScript Options Object)
+ * =========================================================================================
+ * @param {Object} flags           - Configuration object properties.
+ * @param {string|null} [flags.source=null] - The ID of a wrapper container to scan. 
+ *                                              If null/omitted, scans the entire document.
+ * @param {string} flags.target    - The required ID of the destination container element.
+ * @param {boolean} [flags.silent=false] - Toggles console logging and warning messages.
+ * 
+ * =========================================================================================
+ * HTML ATTRIBUTES (Target Container Configuration)
+ * =========================================================================================
+ * @attribute {string} [data-quote-action="clone"] - Placed on the target element to define behavior.
+ *                                                   Accepted values: 'clone' | 'move'.
+ *                                                   Defaults to 'clone' if omitted.
+ * 
+ * @example
+ * <!-- HTML Markup Configuration -->
+ * <div id="quote-container" data-quote-action="move"></div>
+ */const QuoteManager = (function () {
     
-    // --- CLI Parameter Defaults ---
+    // --- Parameter Defaults ---
     const DEFAULT_FLAGS = {
-        source: null,       // Specific container ID, or null to query the whole document
-        target: '',         // ID of the destination container (--target)
-        action: 'move',     // Operation mode: 'move' or 'clone' (--action)
-        silent: false       // Suppress environment logs (--silent)
+        source: null,       
+        target: '',         
+        silent: false       
     };
 
     // --- Private Implementation Details ---
@@ -19,7 +37,6 @@ const QuoteManager = (function () {
      * @param {HTMLElement|Document} searchContext - The DOM node or document root to query.
      */
     function findSequentialBlockquotes(searchContext) {
-        // Queries only within the passed context (e.g. a specific DIV or the whole document)
         const allBlockquotes = searchContext.querySelectorAll('blockquote');
         const blockquoteChains = [];
         let currentChain = [];
@@ -48,11 +65,11 @@ const QuoteManager = (function () {
         const randomIndex = Math.floor(Math.random() * blockquoteCollection.length);
         const selectedQuote = blockquoteCollection[randomIndex];
 
-        if (actionFlag === 'clone') {
-            const deepCloneOfQuote = selectedQuote.cloneNode(true);
-            destinationContainer.appendChild(deepCloneOfQuote);
+        if (actionFlag === 'move') {
+            destinationContainer.appendChild(selectedQuote); // Moves the original HTML element
         } else {
-            destinationContainer.appendChild(selectedQuote);
+            const deepCloneOfQuote = selectedQuote.cloneNode(true);
+            destinationContainer.appendChild(deepCloneOfQuote); // Clones the element (Default)
         }
     }
 
@@ -60,7 +77,7 @@ const QuoteManager = (function () {
     return {
         /**
          * Executes the manager using command-line style options override.
-         * @param {Object} flags - Named parameters detailing targets and operational modes.
+         * @param {Object} flags - Named parameters detailing targets and logs.
          */
         run: function (flags = {}) {
             const args = { ...DEFAULT_FLAGS, ...flags };
@@ -77,8 +94,8 @@ const QuoteManager = (function () {
                 return;
             }
 
-            // HTML attribute on target container takes highest operational priority
-            const finalAction = targetContainer.dataset.quoteAction || args.action;
+            // GRABS ATTRIBUTE: Reads data-quote-action from HTML. Defaults to 'clone' if empty or missing.
+            const finalAction = targetContainer.dataset.quoteAction || 'clone';
 
             // Extract the chain using the dynamically selected context
             const firstValidChain = findSequentialBlockquotes(searchContext);
@@ -97,22 +114,11 @@ const QuoteManager = (function () {
         }
     };
 })();
-
 // --- Auto-Execution via DOM Event Wrapper ---
 document.addEventListener('DOMContentLoaded', () => {
     
-    // Example 1: Scanning a targeted area (e.g., your Markdown output block)
-    /*
+    // Scans the entire document globally, tracking configuration parameters purely via HTML
     QuoteManager.run({
-        source: 'markdown-content-area', 
-        target: 'quote-container',       
-        action: 'clone'
-    });
-    */
-
-    // Example 2: Scanning the entire document globally (by omitting 'source')
-    QuoteManager.run({
-        target: 'quote-container',       
-        action: 'move'
+        target: 'quote-container'
     });
 });
