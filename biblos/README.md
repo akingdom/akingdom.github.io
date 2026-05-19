@@ -1,5 +1,7 @@
 # Scripture Viewer Build Tool
 
+<img alt="Biblos emblem" src="biblos.svg" width="180px" height="180px" style="max-width: 100%; float:left;">
+
 A lightweight, high-performance USFM-to-JSON pipeline and web-based viewer. This project is designed to handle multiple Bible versions, automatically detect translation titles from USFM headers or copyright files, and provide a clean, responsive reading experience with Strong’s numbers and footnote support. 
 
 ## 🚀 Key Features
