@@ -279,7 +279,7 @@ Technology should work for people, not the other way around. I approach every pr
 
 I'm open to freelance, consulting, and collaboration opportunities — remote or on‑site (Victoria, Australia).
 
-- **Best way to reach me:** [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) (public)<!-- or via [email](mailto:akingdom@example.com)--.
+- **Best way to reach me:** [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) (public)<!-- or via [email](mailto:akingdom@example.com)-->
 - **What happens next:** Send me a message describing your challenge. I'll reply<!-- within 24 hours-->, and we'll figure out together whether I'm the right fit — no pressure, no jargon.
 
 *I focus on individuals, small businesses, and practical tools. I don't take on large‑scale corporate contracts or full‑stack web design — but I can build you a lightweight solution that gets the job done.*
