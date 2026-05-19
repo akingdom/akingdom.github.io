@@ -176,7 +176,7 @@ I provide patient, one‑on‑one IT support, tutoring, and custom tool‑buildi
 </tr>
 </table>
 
-<div id="quote-container" data-quote-action="clone"></div>
+<div id="quote-container" data-quote-action="move"></div>
 
 
 ## Technology Expertise
