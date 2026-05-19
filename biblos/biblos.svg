@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="leftPage" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f5f0e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ede4d3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="rightPage" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ede4d3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5f0e8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1967d2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8ab4f8;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#00000030" />
+    </filter>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="200" cy="150" r="140" fill="url(#leftPage)" opacity="0.3" />
+
+  <!-- Open book -->
+  <g filter="url(#shadow)">
+    <!-- Left page -->
+    <path d="M200 80 Q140 70 90 85 L90 215 Q140 200 200 210 Z" fill="url(#leftPage)" stroke="#d4c9b5" stroke-width="1.5" />
+    <!-- Right page -->
+    <path d="M200 80 Q260 70 310 85 L310 215 Q260 200 200 210 Z" fill="url(#rightPage)" stroke="#d4c9b5" stroke-width="1.5" />
+    <!-- Spine -->
+    <line x1="200" y1="78" x2="200" y2="212" stroke="#b8a88a" stroke-width="3" />
+  </g>
+
+  <!-- Left page lines (text suggestion) -->
+  <line x1="110" y1="105" x2="185" y2="98" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="110" y1="120" x2="185" y2="113" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="110" y1="135" x2="185" y2="128" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="110" y1="150" x2="180" y2="143" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="110" y1="165" x2="185" y2="158" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="110" y1="180" x2="185" y2="173" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Right page lines -->
+  <line x1="215" y1="98" x2="290" y2="105" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="215" y1="113" x2="290" y2="120" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="215" y1="128" x2="290" y2="135" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="215" y1="143" x2="285" y2="150" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="215" y1="158" x2="290" y2="165" stroke="#c4b99b" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Highlighted verse on right page -->
+  <rect x="213" y="170" width="78" height="18" rx="3" fill="#fff9c4" opacity="0.7" />
+  <line x1="215" y1="178" x2="288" y2="178" stroke="#c4b99b" stroke-width="1.2" stroke-linecap="round" />
+
+  <!-- Bookmark ribbon -->
+  <g filter="url(#glow)">
+    <path d="M200 212 L195 240 L200 235 L205 240 Z" fill="url(#ribbon)" />
+    <line x1="200" y1="212" x2="200" y2="78" stroke="#1967d2" stroke-width="2.5" opacity="0.6" />
+  </g>
+
+  <!-- Small cross on left page -->
+  <g stroke="#b8a88a" stroke-width="1.2" opacity="0.5">
+    <line x1="148" y1="190" x2="148" y2="200" />
+    <line x1="143" y1="195" x2="153" y2="195" />
+  </g>
+
+  <!-- Small Star of David on right page -->
+  <g fill="none" stroke="#b8a88a" stroke-width="1" opacity="0.5">
+    <polygon points="265,185 268,192 275,192 269,196 271,203 265,199 259,203 261,196 255,192 262,192" />
+  </g>
+</svg>
