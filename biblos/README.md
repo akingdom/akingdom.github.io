@@ -1,35 +1,34 @@
-# Scripture Viewer & Build Tool
+# Biblos Scripture Viewer
 
-<img alt="Biblos emblem" src="biblos.svg" width="180px" height="180px" style="max-width: 100%; float:left;">
+<img alt="Biblos logo" src="biblos.svg" width="180" height="180" style="float:left; margin-right:1rem;">
 
-A lightweight, high-performance USFM-to-JSON pipeline and web-based viewer. This project is designed to handle multiple Bible versions, automatically detect translation titles from USFM headers or copyright files, and provide a clean, responsive reading experience with Strong’s numbers and footnote support. 
+A fast, entirely client‑side Bible reader built from USFM source files.  
+Choose from several freely distributable translations, search the entire text, and listen to the Word with smooth, sentence‑aware text‑to‑speech — all in a clean, mobile‑friendly interface that works offline.
 
-## 🚀 Key Features
+## ✨ Highlights
 
-* **Smart Title Detection:** Automatically pulls the collection name from `copyright.html` or uses a majority-substring algorithm to find the version name within `\id` tags.
-* **Granular Randomizer:** Picks a random Book → Chapter → Verse and scrolls directly to it with a visual highlight.
-* **Strong’s Number Support:** Integrated toggle (S#) for viewing Greek/Hebrew references.
-* **Zero-Server Architecture:** Once built, the entire library runs locally in any modern web browser.
+* **Multiple translations** – Switch between collections with a single tap; the app remembers your last‑read position.
+* **Smart search** – Type a reference (“John 3:16”), a plain‑text keyword, or just a chapter number to jump instantly.
+* **Text‑to‑speech** – Listen to whole chapters with per‑word highlighting and a soft verse glow. Pause, resume, or restart reading anytime.
+* **Strong’s numbers & footnotes** – Toggle Strong’s references on/off; tap any footnote chip to read it in the bottom bar.
+* **Random verse** – A dice button for moments of serendipity.
+* **QR code sharing** – The current passage is always available as a floating QR code.
+* **Zero‑server design** – Once built, everything runs in your browser. No internet required after the first load.
 
-## 📂 Project Structure
+## 🧱 Project Structure
 
-* `biblos.html` - The main application (UI & Logic).
-* `preprocess_bible.py` - The Python build tool that converts USFM folders into JS data.
-* `bookdata/` - Created during build; contains the processed JS versions and index.
-* `[Translation_Folders]/` - Put your raw USFM/SFM folders here.
-
-## 📚 Data Structure
-
-* The JS book data files are essentially raw USFM format inside a JSON wrapper, with one entry per book, one file per version. This provides for reasonably compact data.
+* `biblos.html` – The complete viewer (UI, logic, TTS engine).
+* `preprocess_bible.py` – Python build script that converts USFM directories into compact JavaScript data files.
+* `bookdata/` – Auto‑generated during build; holds the processed JS collections and an index.
+* `[Translation_Folders]/` – Place your raw USFM/SFM directories here before building.
 
 ## 🛠️ How to Build
 
-1.  Place your USFM folders in the project root.
-2.  Ensure each folder has its `.usfm` or `.sfm` files.
-3.  (Optional) Include a `copyright.html` in the folder to set the formal version name.
-4.  Run the build script:
-    ```bash
-    python3 preprocess_bible.py
+1. Place your USFM folders in the project root (e.g., `BSB/`, `WEB/`).
+2. (Optional) Include a `copyright.html` inside a folder to set the formal version name.
+3. Run the builder:
+   ```bash
+   python3 preprocess_bible.py
     ```
 5.  Open [`index.html`](index.html) in your browser.
 
