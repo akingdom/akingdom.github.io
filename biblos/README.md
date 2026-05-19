@@ -1,4 +1,4 @@
-# Scripture Viewer Build Tool
+# Scripture Viewer & Build Tool
 
 <img alt="Biblos emblem" src="biblos.svg" width="180px" height="180px" style="max-width: 100%; float:left;">
 
