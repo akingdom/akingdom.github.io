@@ -227,18 +227,23 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 - **System Tools**: Operational utilities.
 	- **Read more**: [Password Generator](https://akingdom.github.io/system_tools/password_generator.html)
 
-<div id="talkingclock" dir="auto" class="feature">
-	<div>
-		<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Talking&nbsp;Clock</h2></div>
-		<a target="_blank" rel="noopener noreferrer nofollow" href="https://akingdom.github.io/talking_clock/talkingclock.png">
-			<img alt="Whimsical www" src="https://akingdom.github.io/talking_clock/talkingclock.png" width="180px" height="180px" style="max-width: 100%;">
-		</a>
-	</div>
-	<div>
-		<p><a href="https://akingdom.github.io/talking_clock/">Experience a talking clock</a>—complete with smooth analog animation 
-      and real‑time voice announcements inspired by Telstra’s classic <em>1194</em> clock. 
-      Choose from your browser’s installed voices, mute the chimes when needed.</p>
-	</div>
+<div id="biblos" dir="auto" class="feature">
+  <div>
+    <div class="markdown-heading" dir="auto">
+      <h2 tabindex="-1" class="heading-element" dir="auto">Scripture Viewer</h2>
+    </div>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="biblos/">
+      <img alt="Biblos logo – open Bible with bookmark" src="biblos/biblos.svg" width="180px" height="180px" style="max-width: 100%;">
+    </a>
+  </div>
+  <div>
+    <p>
+      A distraction‑free, offline‑first Bible reader. <br>
+      <strong>Multiple freely distributable translations</strong>, <strong>full‑text search</strong>, and 
+      <strong>immersive text‑to‑speech</strong> with smooth per‑word highlighting.<br>
+      Open the Word anywhere — no server required.
+    </p>
+  </div>
 </div>
 
 
@@ -290,6 +295,19 @@ I have a wide range of interests that inform my work and approach:
 		- **Read more**: [Talking Clock](https://akingdom.github.io/talking_clock)
 		- **Read more**: [Match Blocks](https://akingdom.github.io/matchblox)
 
+<div id="talkingclock" dir="auto" class="feature">
+	<div>
+		<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Talking&nbsp;Clock</h2></div>
+		<a target="_blank" rel="noopener noreferrer nofollow" href="https://akingdom.github.io/talking_clock/talkingclock.png">
+			<img alt="Whimsical www" src="https://akingdom.github.io/talking_clock/talkingclock.png" width="180px" height="180px" style="max-width: 100%;">
+		</a>
+	</div>
+	<div>
+		<p><a href="https://akingdom.github.io/talking_clock/">Experience a talking clock</a>—complete with smooth analog animation 
+      and real‑time voice announcements inspired by Telstra’s classic <em>1194</em> clock. 
+      Choose from your browser’s installed voices, mute the chimes when needed.</p>
+	</div>
+</div>
 
 ### Quotes
 
