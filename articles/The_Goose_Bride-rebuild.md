@@ -457,17 +457,15 @@ Beatrice peered into the well as she hauled the rope hand over hand.
 
 ‘Manageable.’
 
-Her breath clouded her view, as she tried not to hit the stone coping with the rising bucket.
+Her breath clouded her view as she tried to raise the bucket without hitting the stony sides of the well.
 
 Harold nodded. ‘Not so bad as last winter, then. Or maybe my Bee grows stronger.’
 
+Only one winter ago, the ice had been so thick that her father had had to ram a wooden pole down against the surface to break it up. This winter it was no thicker than a dried leaf and even that was unusual.
+
 ‘Definitely stronger, Father dear.’
 
-At last, she set the freezing water on the rim of the well without spillage. She blew on her painful fingers before lifting the bucket down to the ground. 
-
-One winter ago, the ice had been so thick that her father had had to ram a wooden pole against the ice to break it up. This winter the ice was no thicker than a dried leaf and even that was unusual.
-
-Of course, she needed her father for other things.
+At last, she set the freezing water on the rim of the well without spillage. She looked upwards as she blew on her painful fingers before lifting the bucket down to the ground. 
 
 ‘Father, what is that strange light in the sky?’
 
