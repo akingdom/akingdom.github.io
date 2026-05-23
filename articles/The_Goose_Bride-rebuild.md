@@ -184,17 +184,17 @@ Beatrice’s interest was in a smaller goose.
 
 The farm woman nodded. ‘Ah. A wild egg. I saw a fox take the mother from its nest down by the river. The goose in the corner isn’t the sitting kind. She won’t see it through.’
 
-Mother leant in, her eyes scanning the quiet, grey birds in the main nesting area by the door. ‘Look here, Beatrice. These eggs are from the marsh-mother. They’ll hatch into well-behaved birds that stay near the hall and not try to fly the fence every time the wind changes.’
+Mother leant in, her eyes scanning the quiet, grey birds in the main nesting area by the door. ‘See, Beatrice, these eggs are from the marsh-mother. They’ll hatch into well-behaved birds that stay near the hall and not try to fly the fence every time the wind changes.’
 
 A small, hard line appeared between Beatrice’s brows. It was the same look her father wore when he was counting the days until a storm.
 
-‘I want the one from the reeds,’ she said, crossing her arms.
+‘No, I want the one from the reeds,’ she said, crossing her arms determinedly.
 
-Mother looked at the larger, bone-coloured egg, then back at her daughter’s determined face. She didn’t argue. Instead, she knelt in the straw, checking the warmth of the stray egg with the back of her hand.
+Mother looked at the larger, bone-coloured egg, then back at her daughter’s face. She knelt down in the straw, checking the warmth of the stray egg with the back of her hand.
 
 ‘We’ll need a hen,’ Mother said softly. ‘A broody one who won’t mind the size of it. If it doesn’t hatch, we’ll come back and choose another.’
 
-‘I want this one, Mother! Please.’
+‘I want this one, Mother, please!’
 
 The woman considered, looking towards the rafters. ‘Well, I do have an old speckled hen. Been sitting on stones for a week and cross enough to peck the eyes out of any fox. I guess that the egg’s due in two or three weeks time, so patience is required.’
 
@@ -349,15 +349,15 @@ Beatrice traced the shapes with a finger, though she could not read them. ‘Wha
 
 Harold knelt beside the stone. ‘It says that Tola raised this stone in memory of his father, Ulf. That Ulf crossed the sea with King Sweyn. That he took silver from Æthelred and bought this land. That God help his soul.’ He touched the weathered carving. ‘Æthelred was a king, a long time ago. The payment was Ulf’s right to settle. It means this land was earned, not stolen.’
 
-‘It is the old tongue,’ he continued. ‘Before the Normans, before the Saxons, there were men who spoke like this. One of them was your grandfather’s grandfather. He crossed the sea, and he stayed, and this stone has marked our boundary ever since.’
+‘It is the old tongue,’ he continued. ‘Before the Normans, before the Saxons, there were men who spoke like this. One of them was your grandfather’s grandfather, who crossed the sea. He stayed her, and this stone has marked our boundary ever since.’
 
 She nodded, though she did not fully understand. She understood only that her father was telling her something important, something she would need to carry. She pressed her palm flat against the stone and tried to memorise the cold of it, the rough grain of the lichen, the way the carved shapes felt under her fingers.
 
-She would walk the boundary every year after that. She would learn the twist of the hawthorn, the straight line of the Roman road, the dip of the old ditch, the place where the river bent and the reeds grew thick. She would learn that the land had a language, and that her father had been teaching it to her since before she could speak.
+She would walk the boundary every year after that. She would learn the twist of the hawthorn, the straight line of the Roman road, the dip of the old ditch, the place where the river bent and the reeds grew thick. The land had a language, and her father had been teaching it to her since before she could speak.
 
-Each morning, she helped move the goats, driving the iron pickets with a heavy mallet to tether them where the thickets were densest. The goats stripped the saplings and gnawed the brambles to the dirt; for without a ditch or palisade, it was only these circles of bare earth that kept the forest a bowshot away and the hall safe. A thick oak door and heavy‑barred shutters were the final line against the dark.
+Iron pickets had to be driven with a heavy mallet each morning, tethering the goats wherever the brush grew thickest. It was the goats' job to clear the land, chewing saplings and brambles right to the soil. No ditch or palisade protected the hall; only these cleared rings kept the forest a bowshot away. If that line failed, nothing remained but a thick oak door and heavy-barred shutters to block the dark.
 
-And when the village reeve brought the harvest accounts, her father made her sit beside him and learn to explain each number, until the tallies were as familiar as the boundaries, and the boundaries as familiar as her own breath.
+Likewise, her father made her sit beside him when the village reeve brought the harvest accounts. She had to learn to explain each number, until the tallies were as familiar as the boundaries, and the boundaries as familiar as her own breath.
 
 ---
 
@@ -495,7 +495,7 @@ However, some lessons were neither easy nor simple, as she would soon learn.
 
 A fist pounded the oak door in the heat of the day.
 
-Beatrice was on her feet before the servant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘Please, Peter was working in the high field and his heart began to pound and it will not stop.‘
+Beatrice was on her feet before their manservant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘Please sir, Peter was working in the high field and his heart began to pound. It will not stop.‘
 
 Now aged eleven, Beatrice guided a young man to the hearth and sat him on the stool her mother often used for the sick, the frightened or women in labour. The man sat down heavily, head bowed, looking terrified. His hand pressed flat against his chest, his breath coming in short, shallow gasps like a fish. His skin was the colour of old ash, grey‑blue at his protruding lips. 
 
@@ -511,9 +511,9 @@ Beatrice looked back at the foxglove jar, then at the frightened young man on th
 
 ‘Am I dying?‘ The young man’s voice gasped. ‘My lady, am I—‘
 
-‘Nay.‘ Aldwina did not look up from her work. ‘Your heart is startled and your body is tired.‘
+‘Dying? Nay.‘ Aldwina did not look up from her work. ‘Your heart is startled and your body is tired.‘
 
-‘Will I see her?‘ His fists were clenched on his thighs and he was not listening. ‘If I die. Will I see my mother?‘
+‘If I die. Will I see her?‘ He was not hearing her, and his fists were clenched restlessly on his thighs. ‘Will I see my mother?‘
 
 Aldwina put the cup into his hands. ‘If the Lord God took you, she would know you and you would know her. There would be no more pain, that is the promise.‘ She closed his fingers around the cup. ‘Now, drink, for I do not believe that day is today.‘
 
@@ -595,7 +595,7 @@ It was early summer and everyone seemed busier than usual, though Beatrice could
 
 Minutes earlier, Beatrice had been running along the river and back up towards the hall. She could still feel the pound of her heart in her ears, the good ache in her legs, as she had flopped down and Goosie had thumped down beside her with an indignant honk. The goose tucked her beak under her wing and subsided into a heap of warm white feathers, and Beatrice lay back and let the sky swallow her.
 
-She found one that looked like a goose, long‑necked and white, and watched it drift eastward. The wind caught it and pulled it apart. It was a smear now. It was nothing. She felt a small, strange pang. She wanted it to stay, and then the feeling passed, because there was another cloud behind it, and another, and the sky was full of clouds that had not yet unravelled.
+She found one that looked like a goose, and watched it drift eastward. The wind caught it and pulled it apart into a smear, into nothing. She felt a small, strange pang, wanting it to stay, but the feeling passed because there was another interesting cloud behind it, and so on.
 
 From the direction of the hall, her mother’s voice: ‘Beatrice!‘
 
@@ -623,7 +623,9 @@ Beatrice looked at the wooden table groaning under the weight of the great troug
 
 ‘Is something wrong?’ Beatrice had noticed that the bread dough had not been tucked or shaped; unusually, it was still a rough, sticky mass, overflowing its wooden rim and drying into a grey crust at the edges.
 
-‘It’s your mother. She…’ The girl hesitated and the words seemed stuck in her mouth. ‘Look, she said that she was feeling poorly, so I’ve helped her to the bed chamber to rest.’ She rubbed her neck, leaving a large smudge of flour there. She nodded her head as though she had done her duty, then glanced back at Beatrice as though she’d said too much. It was strange.
+‘It’s...’ The words stuck in the girl's mouth as she mumbled. ‘Your mother she said that she was feeling poorly, so I’ve helped her to the bed chamber to rest.’ She gave a firm, defensive nod as if vindicating herself, but her gaze drifted downwards. She scratch at her forehead, leaving a large smudge of flour there. 
+
+A sharp hesitation caught the girl's tongue. ‘She said that she was feeling poorly,’ she mumbled, ‘so I’ve helped her to the bedchamber to rest.’ Looking down, she rubbed her face, marking it with flour from her fingers. The whole display felt entirely wrong.
 
 ---
 
@@ -635,17 +637,15 @@ Harold studied her with a worried, preoccupied expression on his face. He opened
 
 Beatrice stuck her head through the curtain and saw her mother lying there, thin and pale. Mother looked up with a smile and gestured to her to come over. So Beatrice went in and knelt on the rushes beside the bed.
 
-Mother did not seem angry, merely tired. She reached out and tucked a strand of hair behind Beatrice’s ear, the way she used to when Beatrice was small.
+Mother did not seem angry, but exhausted. She reached out and tucked a strand of hair behind Beatrice’s ear, the way she used to when Beatrice was small.
 
-‘We’ll do without the fresh bread for today,’ she said. ‘Perhaps you might help me tomorrow.’
+‘We’ll do without the fresh bread for today,’ she said. 
 
-‘Yes.’ Beatrice nodded. She pulled the cloth back over the dough.
+‘Yes, Mother,’ Beatrice nodded, looking at her mother’s thin face. A disturbing thought entered her mind. ‘I’m sorry to let you to do all the work, Mother. It was thoughtless and I'll help you once you’re up.’
 
-*Mother must have been waiting for me all that time.* It was an unexpected thought, and she did not quite trust herself to speak, and yet she did.
+‘Perhaps tomorrow, Bea dear.’
 
-‘It was thoughtless of me to leave all the work to you. I’m sorry, Mother.’
-
-She was happy to help tomorrow. But tomorrow, when it came, her mother was still in bed.
+Beatrice was happy to help tomorrow. But tomorrow, when it came, her mother was still in bed.
 
 ---
 
