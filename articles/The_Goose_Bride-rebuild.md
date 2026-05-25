@@ -95,7 +95,7 @@ Beatrice could no longer run anyway. The grip hurt. She tried to pull free and c
 
 ‘Keep still.’
 
-She followed his gaze and saw only white feathers and hissing orange beaks. The gander so close now that she could see the black of his tongue.
+She followed his gaze and saw only white feathers and hissing orange beaks. The gander was so close now that she could see the black of his tongue.
 
 *I got too close to the geese.*
 
@@ -196,7 +196,7 @@ Mother looked at the larger, bone-coloured egg, then back at her daughter’s fa
 
 ‘I want this one, Mother, please!’
 
-The woman considered, looking towards the rafters. ‘Well, I do have an old speckled hen. Been sitting on stones for a week and cross enough to peck the eyes out of any fox. I guess that the egg’s due in two or three weeks time, so patience is required.’
+The woman considered, looking towards the rafters. ‘Well, I do have an old speckled hen. Been sitting on stones for a week and cross enough to peck the eyes out of any fox. I guess that the egg’s due in two or three weeks’ time, so patience is required.’
 
 She fetched the hen and placed her in a straw-lined basket. It was a small, fierce-looking thing with feathers the colour of autumn leaves. Then, carefully, she added the chosen egg.
 
@@ -225,11 +225,11 @@ The hen sat in her basket near the warm hearth, feathers fluffed, eyes half‑cl
 
 For two weeks, Beatrice watched and waited.
 
-Each morning she brought a handful of grain and a shallow dish of water. The hen ate with quick, precise movements, never lingering, never leaving the egg longer than necessary. Beatrice talked to her while she worked—about the geese in the meadow, about the bread her mother was baking, about the boy with the cloak who had vanished before she could thank him. The hen listened with the same expression she gave everything: sceptical, patient, entirely unimpressed.
+Each morning she brought a handful of grain and a shallow dish of water. The hen ate with quick, precise movements, never lingering, never leaving the egg longer than necessary. Beatrice talked to her while she worked: about the geese in the meadow, about the bread her mother was baking, about the boy with the cloak who had vanished before she could thank him. The hen listened with the same expression she gave everything: sceptical, patient, entirely unimpressed.
 
 ‘She needs to know you’re part of her flock,’ Mother said. ‘Bring her food. Spend time with her. But don’t unsettle her.’
 
-So Beatrice sat beside the basket while the fire crackled and the hen dozed, and she learned the particular stillness of a creature whose whole purpose was waiting.
+So Beatrice sat beside the basket while the fire crackled and the hen dozed, and she learnt the particular stillness of a creature whose whole purpose was waiting.
 
 And every night, before bed, she knelt by the basket and pressed her ear close.
 
@@ -257,7 +257,7 @@ She stepped aside, not far, just enough to make room. Beneath her, the egg rocke
 
 Beatrice held her breath.
 
-The hen watched the gosling struggle. She did not help. She had done her part. Now the hatchling had to do its own work—breaking free, finding its feet, shaking the last of the shell from its damp down. The hen stood guard, patient as she had always been, waiting for the small creature to find its way.
+The hen watched the gosling struggle. She did not help. She had done her part. Now the hatchling had to do its own work: breaking free, finding its feet, shaking the last of the shell from its damp down. The hen stood guard, patient as she had always been, waiting for the small creature to find its way.
 
 And when the shell finally fell away, and the gosling blinked at the world with eyes that had never seen light, the hen stepped forward and gathered it under her feathers. The peeping stopped. She had not abandoned her charge. She was only beginning.
 
@@ -265,7 +265,7 @@ And when the shell finally fell away, and the gosling blinked at the world with 
 
 So Beatrice helped. She brought fresh water and watched the hen dip her beak to show the gosling how. She scattered grain and watched the gosling peck at it with clumsy, hopeful jabs. She sat beside the basket while the hen brooded her strange, pale child, and she talked to them both until the sound of her voice was as familiar as the crackle of the hearth.
 
-And one day, when the gosling was dry and steady on its feet, it waddled out from under the hen and made its way across the rushes towards the girl who had been waiting for it. The hen did not stop it. She merely watched—sceptical, patient, entirely unimpressed—as the gosling pressed its small body against Beatrice’s hand.
+And one day, when the gosling was dry and steady on its feet, it waddled out from under the hen and made its way across the rushes towards the girl who had been waiting for it. The hen did not stop it. She merely watched, sceptical, patient, entirely unimpressed, as the gosling pressed its small body against Beatrice’s hand.
 
 ‘Now,’ Mother said softly. ‘Now she’s yours.’
 
@@ -349,7 +349,7 @@ Beatrice traced the shapes with a finger, though she could not read them. ‘Wha
 
 Harold knelt beside the stone. ‘It says that Tola raised this stone in memory of his father, Ulf. That Ulf crossed the sea with King Sweyn. That he took silver from Æthelred and bought this land. That God help his soul.’ He touched the weathered carving. ‘Æthelred was a king, a long time ago. The payment was Ulf’s right to settle. It means this land was earned, not stolen.’
 
-‘It is the old tongue,’ he continued. ‘Before the Normans, before the Saxons, there were men who spoke like this. One of them was your grandfather’s grandfather, who crossed the sea. He stayed her, and this stone has marked our boundary ever since.’
+‘It is the old tongue,’ he continued. ‘Before the Normans, before the Saxons, there were men who spoke like this. One of them was your grandfather’s grandfather, who crossed the sea. He stayed here, and this stone has marked our boundary ever since.’
 
 She nodded, though she did not fully understand. She understood only that her father was telling her something important, something she would need to carry. She pressed her palm flat against the stone and tried to memorise the cold of it, the rough grain of the lichen, the way the carved shapes felt under her fingers.
 
@@ -481,7 +481,7 @@ Training with herbs came with the summer of her ninth year. The riverbank was th
 
 When a villein’s child came to the hall with a swollen ankle, Beatrice wrapped it herself, her fingers trembling but her voice steady. The child walked out without limping. Beatrice’s mother said nothing, which was her way when she was pleased enough.
 
-In Autumn, the brewing-house smelt of malt and yeast and the sharp tang of bog myrtle, and Beatrice stood beside her mother at the great copper pot. She learnt to skim the foam from the surface, to measure the barley by weight, to know when the ale brew was ready by the smell alone. She was ten, and her mother no longer watched her hands. She trusted them.
+In autumn, the brewing-house smelt of malt and yeast and the sharp tang of bog myrtle, and Beatrice stood beside her mother at the great copper pot. She learnt to skim the foam from the surface, to measure the barley by weight, to know when the ale brew was ready by the smell alone. She was ten, and her mother no longer watched her hands. She trusted them.
 
 Winter returned, grey and still. The Reeve spread the harvest tallies across the table, and her father sat beside her and pointed to each line in their records: the wheat, the barley, the oats, the hay. She read the numbers back to him, and he nodded. She was eleven, and the accounts were as familiar to her now as the feel of dough under her palms. 
 
@@ -495,27 +495,27 @@ However, some lessons were neither easy nor simple, as she would soon learn.
 
 A fist pounded the oak door in the heat of the day.
 
-Beatrice was on her feet before their manservant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘Please sir, Peter was working in the high field and his heart began to pound. It will not stop.‘
+Beatrice was on her feet before their manservant reached the door. A woman’s voice, tight with fear, spilled through the gap as the bar lifted: ‘Please sir, Peter was working in the high field and his heart began to pound. It will not stop.’
 
-Now aged eleven, Beatrice guided a young man to the hearth and sat him on the stool her mother often used for the sick, the frightened or women in labour. The man sat down heavily, head bowed, looking terrified. His hand pressed flat against his chest, his breath coming in short, shallow gasps like a fish. His skin was the colour of old ash, grey‑blue at his protruding lips. 
+Now aged eleven, Beatrice guided a young man to the hearth and sat him on the stool her mother often used for the sick, the frightened, or women in labour. The man sat down heavily, head bowed, looking terrified. His hand pressed flat against his chest, his breath coming in short, shallow gasps like a fish. His skin was the colour of old ash, grey‑blue at his protruding lips. 
 
 She turned to the cold stone shelves where medicinal jars stood in their neat rows: willow bark, comfrey, lemon balm, foxglove. Her fingers closed on the foxglove jar, for she knew that a small pinch would steady his pulse.
 
 Aldwina arrived and her hand closed over her daughter’s hand. She shook her head vehemently, but her voice was calm and quiet.
 
-‘No. For sooth his heart is fast, but his hands are cold.‘ Aldwina placed the jar back on a higher shelf, out of easy reach. ‘Foxglove would stop it, not slow it. We will use hawthorn flowers and the leaves. Fetch me a blanket, the thick woollen one, for he is cold as well as frightened.‘
+‘No. Forsooth his heart is fast, but his hands are cold.’ Aldwina placed the jar back on a higher shelf, out of easy reach. ‘Foxglove would stop it, not slow it. We will use hawthorn flowers and the leaves. Fetch me a blanket, the thick woollen one, for he is cold as well as frightened.’
 
 Beatrice returned with the blanket. She found her mother crushing hawthorn leaves with the flat of a knife, quick and sure, and scooped them into a cup. Aldwina poured hot water from the kettle, her voice pleasant and calm.
 
 Beatrice looked back at the foxglove jar, then at the frightened young man on the stool. 
 
-‘Am I dying?‘ The young man’s voice gasped. ‘My lady, am I—‘
+‘Am I dying?’ The young man’s voice gasped. ‘My lady, am I—’
 
-‘Dying? Nay.‘ Aldwina did not look up from her work. ‘Your heart is startled and your body is tired.‘
+‘Dying? Nay.’ Aldwina did not look up from her work. ‘Your heart is startled and your body is tired.’
 
-‘If I die. Will I see her?‘ He was not hearing her, and his fists were clenched restlessly on his thighs. ‘Will I see my mother?‘
+‘If I die. Will I see her?’ He was not hearing her, and his fists were clenched restlessly on his thighs. ‘Will I see my mother?’
 
-Aldwina put the cup into his hands. ‘If the Lord God took you, she would know you and you would know her. There would be no more pain, that is the promise.‘ She closed his fingers around the cup. ‘Now, drink, for I do not believe that day is today.‘
+Aldwina put the cup into his hands. ‘If the Lord God took you, she would know you and you would know her. There would be no more pain, that is the promise.’ She closed his fingers around the cup. ‘Now, drink, for I do not believe that day is today.’
 
 He drank and she continued. 
 
@@ -543,29 +543,29 @@ A long moment passed. Then, quieter: ‘I almost gave him the foxglove.’
 
 ‘And I might have killed him.’
 
-‘You did not.’ Her mother’s voice was steady. ‘You stopped. You learned. That is how it works.’
+‘You did not.’ Her mother’s voice was steady. ‘You stopped. You realised. That is how it works.’
 
-Beatrice sighed. ‘But how did you know that it was not his heart failing? That the foxglove would be wrong to give him.‘
+Beatrice sighed. ‘But how did you know that it was not his heart failing? That the foxglove would be wrong to give him.’
 
-Aldwina did not answer at once, but wiped the last of the hawthorn leaves from the knife and set it aside. ‘Well, think of it this way: A heart can race for many reasons,‘ she said, her words measured out with care. ‘Fear, exhaustion, a fever or a flaw in the heart itself; The trick is to read the whole man, not the single sign.‘ 
+Aldwina did not answer at once, but wiped the last of the hawthorn leaves from the knife and set it aside. ‘Well, think of it this way: a heart can race for many reasons,’ she said, her words measured out with care. ‘Fear, exhaustion, a fever, or a flaw in the heart itself. The trick is to read the whole man, not the single sign.’ 
 
-She sat and took firm hold of Beatrice’s hands. ‘His hands were cold. You felt them when you brought the blanket. Cold hands with a racing heart—that is like a frightened animal pulling back from a flame. His heart was not sick, but answering a command.‘
+She sat and took firm hold of Beatrice’s hands. ‘His hands were cold. You felt them when you brought the blanket. Cold hands with a racing heart, that is like a frightened animal pulling back from a flame. His heart was not sick, but answering a command.’
 
-‘What command?‘
+‘What command?’
 
-‘He had worked too long in the heat, so his body believed it was in danger. His racing heart was not the illness, but the cure.‘ She paused. ‘Foxglove would have silenced it.‘
+‘He had worked too long in the heat, so his body believed it was in danger. His racing heart was not the illness, but the cure.’ She paused. ‘Foxglove would have silenced it.’
 
 Beatrice was entirely silent as she looked at her own hands, remembering the feel of the tremor, the jar in her fingers.
 
-‘So his cold hands told you,‘ she said uncertainly.
+‘So his cold hands told you,’ she said uncertainly.
 
 Aldwina looked at Beatrice for a long and decisive moment.
 
-‘Beatrice, when we bake bread, how you knew the bread was ready?’
+‘Beatrice, when we bake bread, how did you know the bread was ready?’
 
 ‘By the hollow thump?’
 
-‘Exactly. You did not see inside the loaf and You did not need to. You knew it by the sound. You had heard it dozens of times, and your ears told you what your eyes could not.’ 
+‘Exactly. You did not see inside the loaf and you did not need to. You knew it by the sound. You had heard it dozens of times, and your ears told you what your eyes could not.’ 
 
 She took Beatrice’s hand. ‘I have sat with the dying. I have washed the dead. I have heard the sound of a soul that is preparing to leave, and I have heard the sound of a soul that is afraid. They are different sounds.’
 
@@ -597,11 +597,11 @@ Minutes earlier, Beatrice had been running along the river and back up towards t
 
 She found one that looked like a goose, and watched it drift eastward. The wind caught it and pulled it apart into a smear, into nothing. She felt a small, strange pang, wanting it to stay, but the feeling passed because there was another interesting cloud behind it, and so on.
 
-From the direction of the hall, her mother’s voice: ‘Beatrice!‘
+From the direction of the hall, her mother’s voice: ‘Beatrice!’
 
 She lifted her head. Goosie stirred.
 
-‘Coming, Mother!‘ She fully intended to go in. There was bread to shape and herbs to sort and her mother would need her. But the sun was warm on her closed eyelids, and the clover bent under the weight of her body, and she could feel the earth beneath her, solid and still. For a moment she had the strange sensation that she was both lying in the grass and floating above it, weightless, as if she had been loosened from the hall and belonged nowhere but here, to the sky and the grass and the warm white feathers beside her.
+‘Coming, Mother!’ She fully intended to go in. There was bread to shape and herbs to sort and her mother would need her. But the sun was warm on her closed eyelids, and the clover bent under the weight of her body, and she could feel the earth beneath her, solid and still. For a moment she had the strange sensation that she was both lying in the grass and floating above it, weightless, as if she had been loosened from the hall and belonged nowhere but here, to the sky and the grass and the warm white feathers beside her.
 
 The voice came again, fainter now, or perhaps she was only imagining it.
 
@@ -609,7 +609,7 @@ Not yet. Not for one more cloud. No need for hurry.
 
 When Beatrice finally went inside, the hall was quiet. The bread was only half-shaped on the bench, the cloth that should have covered it slipped to one side. A pale, floury edge was drying in the air. 
 
-Instead of her mother, the maid servant was working the dough, red-faced and setting a frantic pace, puffing and panting. 
+Instead of her mother, the maidservant was working the dough, red-faced and setting a frantic pace, puffing and panting. 
 
 ‘Mother isn’t here?’
 
@@ -623,7 +623,7 @@ Beatrice looked at the wooden table groaning under the weight of the great troug
 
 ‘Is something wrong?’ Beatrice had noticed that the bread dough had not been tucked or shaped; unusually, it was still a rough, sticky mass, overflowing its wooden rim and drying into a grey crust at the edges.
 
-‘It’s...’ The words stuck in the girl's mouth as she mumbled. ‘Your mother she said that she was feeling poorly, so I’ve helped her to the bed chamber to rest.’ She gave a firm, defensive nod as if vindicating herself, but her gaze drifted downwards. She scratch at her forehead, leaving a large smudge of flour there. 
+‘It’s…’ The words stuck in the girl's mouth as she mumbled. ‘Your mother she said that she was feeling poorly, so I’ve helped her to the bedchamber to rest.’ She gave a firm, defensive nod as if vindicating herself, but her gaze drifted downwards. She scratched at her forehead, leaving a large smudge of flour there. 
 
 A sharp hesitation caught the girl's tongue. ‘She said that she was feeling poorly,’ she mumbled, ‘so I’ve helped her to the bedchamber to rest.’ Looking down, she rubbed her face, marking it with flour from her fingers. The whole display felt entirely wrong.
 
@@ -631,51 +631,69 @@ A sharp hesitation caught the girl's tongue. ‘She said that she was feeling po
 
 ### A whispered argument
 
-At the bed chamber, Beatrice could hear her parents talking, almost arguing in whispers. She couldn’t make out what they were speaking about. Goosie arrived and honked beside her and immediately the whispering stopped and her father came out.
+At the bedchamber, Beatrice could hear her parents talking, almost arguing in whispers. She couldn’t make out what they were speaking about. Goosie arrived and honked beside her and immediately the whispering stopped and her father came out.
 
 Harold studied her with a worried, preoccupied expression on his face. He opened his mouth as if to speak, then closed it again. For a moment he stood quite still, looking at her as if he were trying to memorise her face. Then he left without a word.
 
 Beatrice stuck her head through the curtain and saw her mother lying there, thin and pale. Mother looked up with a smile and gestured to her to come over. So Beatrice went in and knelt on the rushes beside the bed.
 
-Mother did not seem angry, but exhausted. She reached out and tucked a strand of hair behind Beatrice’s ear, the way she used to when Beatrice was small.
+‘Are you all right, Mother?’
 
-‘We’ll do without the fresh bread for today,’ she said. 
+Her mother did not seem angry, but exhausted. 
 
-‘Yes, Mother,’ Beatrice nodded, looking at her mother’s thin face. A disturbing thought entered her mind. ‘I’m sorry to let you to do all the work, Mother. It was thoughtless and I'll help you once you’re up.’
+‘Only tired, dear.’
+
+Beatrice hesitated. ‘What were you and Father speaking of? He looked—’ She struggled to discern her memory of her father’s face. 'He almost looked afraid.'
+
+Aldwina was silent for a moment. ‘There are some things that even a brave man struggles with,’ she said at last. ‘You must be patient with him, Bea. Your father is doing as best as he knows how.’ She drew a long noisy breath and sighed. ‘It is not easy for him.’
+
+Beatrice did not fully understand. She sensed that there was something, but no one was telling her what it was. Tears came to her eyes, but she blinked them away. *Was it something I did?*
+
+A guilty thought pricked her conscience.
+
+‘I'm sorry that I left you to do all the work earlier, Mother.’
+
+Her mother’s gaze shifted from the thick chamber curtains and her reply was as practical as always. ‘We can do without fresh bread for today,’ she said in blunt yet comforting tones. 
+
+‘Yes, Mother,’ Beatrice said, keeping her eyes on the thin, drawn face beneath the blankets. ‘See, I'll help you once you’re up.’
+
+Her mother reached out and tucked a strand of hair behind Beatrice’s ear, the way she used to when Beatrice was small.
 
 ‘Perhaps tomorrow, Bea dear.’
 
-Beatrice was happy to help tomorrow. But tomorrow, when it came, her mother was still in bed.
+*Tomorrow.*
+
+Beatrice held onto that promise. But the next day found her mother still in bed. And the day after that.
 
 ---
 
 ### The best thing I ever made
 
-And yet, by the next morning, Beatrice found her mother up, dressed and standing at the edge of the yard, looking out across the river towards the farm. The sunlight caught the grey in her hair, and in that moment, Beatrice’s heart lifted.
+On the fourth morning, Aldwina was finally up.
 
-*She is better. She was only tired after all.*
+Beatrice noticed her at the edge of the yard, fully dressed and staring out across the river toward the farm. The morning sun caught the stray grey strands in her mother's hair. Beatrice's heart lifted in that moment, sharp relief, the past few days of worry vanishing at the sight. *She was only tired after all.*
 
-She crossed the yard, meaning to ask about the bread. But something in her mother’s stillness stopped her. Aldwina was not looking at the farm. She was looking at the river, her face still and far away.
+She crossed the yard, but something in her mother’s stillness stopped her. Aldwina was not looking at the farm. She was looking at the river, her gaze far away.
 
 ‘You know, I used to cross that river as a girl,’ her mother said, as if speaking to herself. ‘The ford was lower then. You could wade across without wetting your skirts.’ She was quiet for a moment. ‘I crossed it the day I came to Stanwey. Your father met me on the other side. He was so nervous he dropped the flowers he had picked.’
 
 Beatrice had never heard this story. She stood beside her mother and said nothing.
 
-‘And I crossed it the day you were born. The midwife came from Ascele, across the water, and I remember looking out at the river while I waited, thinking that it had been there before me and would be there after me, and that was a comfort.’ She turned to Beatrice and smiled, and the smile was real and tired and full of something Beatrice could not name.
+‘And I crossed it hastily the day you were born,’ Aldwina murmured. ‘The midwife was in Ascele, across the water. I remember staring at that rushing current, thinking it had been there long before me and would remain long after. It was the only comfort I found.’
 
-‘You are the best thing I ever made,’ Aldwina said. ‘Better than any loaf of bread.’
+She turned to Beatrice and gave a tired, but genuine smile. There was a quietness, a distance, something in it that Beatrice could not quite name, something she could not see.
 
-Beatrice looked at her mother and felt strangely cold.
+'But you are the best thing I ever made,' Aldwina said. 'Better than any loaf of bread.'
+
+Beatrice looked at her mother and felt strangely cold, a shiver going through her though the morning sun was warm on her face. 
 
 ‘I’ll make the bread today,’ she said. ‘You stay here and watch the river.’
 
-Aldwina reached out and tucked a strand of hair behind Beatrice’s ear. ‘Thank you,’ she said.
-
-Beatrice went inside and shaped the loaves. Her hands were steady, and she did not cry.
+Aldwina smiled. ‘Thank you,’ she said.
 
 ---
 
-### One day at a time
+### Doing the next thing
 
 That night, Beatrice woke to the sound of coughing. It was a dry, hollow sound, muffled by the curtain, and it went on for a long time.
 
@@ -683,7 +701,7 @@ She rose and warmed a cup of the liquorice tea her mother had taught her to make
 
 ‘I brought you some tea,’ Beatrice said.
 
-Aldwina took the cup and held it in both hands, but she did not drink. She looked at Beatrice for a long moment, as though to fix the view in her mind forever.
+Aldwina took the cup and held it in both hands, but she did not drink. She looked at Beatrice for a long moment, as though to fix the view in her mind forever. It felt as though her mother were going on a journey, but not yet ready to say goodbye. 
 
 ‘Do you remember the day that a young man came to the door clutching his chest, what we spoke of after?’
 
@@ -691,7 +709,7 @@ Beatrice nodded. ‘You said you would know me. Wherever you were.’
 
 Aldwina set the cup aside. ‘You will have to be brave for me from now on, for I think that I shall soon see my mother and father. I am not afraid of that day, for I have asked the Lord to remember me. And, I will keep you in my heart always.’
 
-It felt like someone had thrust a huge thorn into Beatrice’s chest. ‘I don’t know how to be brave,’ she whispered, not fully comprehending.
+A sob shook her chest. ‘I don’t know how to be brave,’ she whispered, not fully comprehending. It was the first time she had let herself feel it: the horror of her mother not being there, sharp as a thorn piercing her.
 
 ‘Yes, you do. You have been brave before. When Goosie was lost. When you shaped your first loaf and it came out lopsided.’ Aldwina almost smiled. ‘Being brave does not mean not crying. It means doing the next thing, and the next, even when you are afraid, one day at a time, one step at a time.’
 
@@ -705,13 +723,13 @@ But later on, Beatrice cried hard into her own blanket, muffling the sound so th
 
 It was a slow fading with Mother, like the light at the end of a long day. Some mornings she seemed almost herself, able to lie outside in the golden sunshine, sitting up and asking about the village, wanting to see Goosie. Other mornings she could barely lift her head from the pillow.
 
-Beatrice found herself busier than she had ever been. She learned to make the broth the way her mother had taught her—milk, thyme, wild oregano, garlic from the high garden. She dug liquorice roots from the soft, silty earth by the Welland. She learned to sit beside the bed and hold her mother’s hand while the light moved across the wall, slow and golden, and her mother’s fingers grew thinner each week.
+Beatrice found herself busier than she had ever been. She learnt to make the broth the way her mother had taught her: milk, thyme, wild oregano, garlic from the high garden. She dug liquorice roots from the soft, silty earth by the Welland. She learnt to sit beside the bed and hold her mother’s hand while the light moved across the wall, slow and golden, and her mother’s fingers grew thinner each week.
 
-Her father was often in the doorway of the chamber, watching, his great warrior’s hands hanging useless at his sides. Harold was not a man to talk about his feelingst, but he tried to help where he could, with carrying her outdoors into the warming sunshine, bringing her water, or smoothing the blankets, but his wife smiled at him with such gentle patience that he seemed to shrink.
+Her father was often in the doorway of the chamber, watching, his great warrior’s hands hanging useless at his sides. Harold was not a man to talk about his feelings, but he tried to help where he could, with carrying her outdoors into the warming sunshine, bringing her water, or smoothing the blankets, but his wife smiled at him with such gentle patience that he seemed to shrink.
 
 ‘Tend the fire for me, Harold. Beatrice will stay here.’
 
-And he would go, the soft rhythm of snoring soon drifting from his chair by the hearth. Only years later would Beatrice understand: her mother was telling Father to rest, and that he needed to care for himself now.
+And he would go, the soft rhythm of snoring soon drifting from his chair by the hearth. Only years later would Beatrice understand: her mother was telling her father to rest, and that he needed to care for himself now.
 
 On such occasions, Mother would speak quietly of things to come.
 
@@ -737,9 +755,9 @@ He was in the doorway of the sleeping chamber, not crossing the threshold, just 
 
 Beatrice looked in.
 
-Mother lay there with her eyes closed, her hands folded in the stillness.
+Mother lay there with her eyes closed, her hands folded in the stillness, a look of peaceful delight on her face, as though she had just recognised a long lost friend.
 
-Beatrice went in and knelt beside the bed and felt her mother’s wrist, but there was no telltale throb of life. She did not cry, but put her cheek against the hand. It was oddly cool to the touch—not cold yet, just cool.
+Beatrice went in and knelt beside the bed and felt her mother’s wrist, but there was no telltale throb of life. She did not cry, but put her cheek against the hand. It was oddly cool to the touch, not cold yet, just cool.
 
 There was a sound behind her, a sound she had never heard before and would never hear again; it was a sound that didn’t belong to the man who had crossed blades with rebels and dragged drowning lords from rivers.
 
@@ -793,17 +811,17 @@ That night, Beatrice built up the fire and kept her father company. She spoke li
 
 Once the logs had burnt down, a servant came to rake the embers and then withdrew.
 
-Beatrice touched her father’s arm.
+Beatrice touched her father’s arm. 
 
-‘Father. You should try to rest.’ He nodded, and she followed him towards the sleeping chamber.
+‘Father, you should try to rest.’ 
 
-Harold stopped abruptly at the threshold.
+He nodded, and she followed him towards the sleeping chamber.
 
-Beatrice saw it then: the bed where Mother had laid. The blankets were still rumpled from the morning she had been found. 
+Harold stopped abruptly at the threshold. Beatrice saw it then, the bed where her mother had lain. The blankets were still rumpled from the morning she had been found. 
 
 ‘I’ll change the linens tomorrow,’ Beatrice said.
 
-He looked at her gravely before slowly shaking his head and whispering, ‘I can’t.’
+Harold looked at her painfully before slowly shaking his head and whispering, ‘Don’t. I can’t.’
 
 She waited, uncertain what she should do.
 
@@ -841,6 +859,8 @@ She nodded. ‘The fire is lit. The bed will be warm.’
 
 That night, as she lay in her own bed, she heard the creak of the bed in the sleeping chamber. The thought came to her, clear and quiet: *Father crossed the threshold all by himself*.
 
+She found her face was wet with tears and silently wiped them away.
+
 ---
 
 ### Goosie follows, always
@@ -849,7 +869,7 @@ In the morning, the hall was still and cold. Beatrice rose to rebuild the fire a
 
 Above the hearth hung a sword, broad and straight-edged. It was pattern-welded and showed a faint ripple. The lobed iron pommel and grip were worn smooth by his own father’s hand. This true Saxon blade had carved through shield walls, yet now it seemed a memory, like another man’s life long ago.
 
-‘Daughter, fetch my sword down for me,’ he said. After a thought, he added, ‘carefully.’
+‘Daughter, fetch my sword down for me,’ he said. After a thought, he added, ‘Carefully.’
 
 She took up a stool and set it beside the hearth, stepped up, and lifted the sword from its pegs. It was heavier than it looked, the scabbard cool against her fingers and smelling faintly of old iron and leather. She climbed down and offered it to him. He took it, drew the blade an inch from the scabbard without looking, his hands reliving the weight of it.
 
@@ -865,15 +885,15 @@ Harold laid the sword on the anvil and spoke quietly with the man about a clean 
 
 Beatrice stood a little apart, watching her father’s hands move as he described the work. They were still the hands of a warrior, even if they no longer held a blade in battle. She had seen him leave for war when she was small; she did not need to see him fight again.
 
-On the walk back, Harold fell silent. He watched his daughter as she walked beside him—the girl who had run the manor without being asked, whose bright eyes missed little, whose quick wit sometimes outpaced her judgment, who still spoke her thoughts aloud before deciding whether she ought to. She had been doing a woman’s work on a child’s shoulders, and he had not told her it mattered. He had been too hollowed out to see it.
+On the walk back, Harold fell silent. He watched his daughter as she walked beside him, the girl who had run the manor without being asked, whose bright eyes missed little, whose quick wit sometimes outpaced her judgment, who still spoke her thoughts aloud before deciding whether she ought to. She had been doing a woman’s work on a child’s shoulders, and he had not told her it mattered. He had been too hollowed out to see it.
 
-“The hall looks well,“ he said at last. “Your mother would have been proud.“
+‘The hall looks well,’ he said at last. ‘Your mother would have been proud.’
 
-Beatrice looked down at the track. “I tried to do what she would have done.“
+Beatrice looked down at the track. ‘I tried to do what she would have done.’
 
-Harold thought of the months since Aldwina’s death—the red and golden leaves falling, the *boon-days* Beatrice had seen to, the harvest labour she had overseen, the *brewing-house* and the *buttery*, the sick she had tended the way her mother had taught her. All of it done without complaint, without being asked.
+Harold thought of the months since Aldwina’s death: the red and golden leaves falling, the *boon-days* Beatrice had seen to, the harvest labour she had overseen, the *brewing-house* and the *buttery*, the sick she had tended the way her mother had taught her. All of it done without complaint, without being asked.
 
-‘You have done well, Beatrice’
+‘You have done well, Beatrice.’
 
 They walked on and Harold almost smiled. 
 
@@ -924,7 +944,7 @@ At the reeve’s cottage, his wife sent him straight back out into the yard.
 
 ‘Illness respects no one, husband, and you’ll only be in our way, head of the village or not,’ she said, and pulled the curtain across the bed.
 
-The girl had sickened with a fever that refused to break. Beatrice knelt beside the pallet and laid the back of her hand against the child’s forehead. The skin was dry and hot, the pulse rapid beneath her fingers. She remembered her mother’s hands—the way they could find the beat of a life in a wrist, the way they knew which herbs to steep and which to burn. She had watched those hands a hundred times. She had never needed them the way she needed them now.
+The girl had sickened with a fever that refused to break. Beatrice knelt beside the pallet and laid the back of her hand against the child’s forehead. The skin was dry and hot, the pulse rapid beneath her fingers. She remembered her mother’s hands: the way they could find the beat of a life in a wrist, the way they knew which herbs to steep and which to burn. She had watched those hands a hundred times. she had never needed them the way she needed them now.
 
 She brewed yarrow and elderflower with a pinch of mint, and she said the prayer she had learnt from the old nurse at the river‑bend farm, the one who kept the geese.
 
@@ -936,7 +956,7 @@ The girl lived. Afterwards, the reeve’s wife called her ‘the Lady of Stanwey
 
 ### My father’s eyes teaching me to see
 
-That was the year Beatrice began to understand the things her father refused to say about himself. He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief—her mother’s empty place at the table, the silence where her voice had been. But then he began to speak to her of their neighbours.
+That was the year Beatrice began to understand the things her father refused to say about himself. He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief, her mother’s empty place at the table, the silence where her voice had been. But then he began to speak to her of their neighbours.
 
 He would venture down to the village, his breath coming shorter with every step back up the slope, and afterwards he would watch her with a strange, searching look. He spoke of the miller’s new wife, who had a ‘sharp eye for the grain,’ or how the blacksmith’s son was ‘strong of arm but slow of wit.’ He was giving her his eyes, she realised. He was teaching her how to see the people they ruled, before his own sight faded into the grey.
 
@@ -944,7 +964,7 @@ He would venture down to the village, his breath coming shorter with every step 
 
 ### Not for Stanwey
 
-‘The thegn of Thornbury was speaking to me of his son,’ Harold said one evening, stirring the coals. ‘I met the boy—Edmund.’ He said it as *Ædmond*. ‘He saw you at the autumn fair.’
+‘The thegn of Thornbury was speaking to me of his son,’ Harold said one evening, stirring the coals. ‘I met the boy, Edmund.’ He said it as *Ædmond*. ‘He saw you at the autumn fair.’
 
 Beatrice’s hands paused on the dough. ‘Has he?’
 
@@ -956,7 +976,7 @@ The bread dough was smooth under her palms, but her thoughts were not.
 
 Beatrice nodded. ‘I’ll think on it.’ But her thoughts were for her father. *However would he survive in his frail state once she married?*
 
-She thought about Edmund of Thornbury—a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else—a cousin, perhaps, or a steward. Her father would be alone.
+She thought about Edmund of Thornbury, a rowdy but pleasant young man with calloused hands and a kind word for most people. She thought about the way he had not minded when Goosie chased his horse. But she also thought about her mother’s herb garden, the goose pond, the path down to the river where the reeds whispered in the wind. If she married Edmund, she would move south. Stanwey would belong to someone else, a cousin, perhaps, or a steward. Her father would be alone.
 
 She said nothing until Harold raised the matter of Edmund a week later.
 
@@ -974,11 +994,11 @@ She stopped mixing herbs and shook her head. ‘Three sons, Father? They would b
 
 ‘A minor Norman knight whose lands lie west. A sturdy man.’
 
-Beatrice put another log into the hearth. ‘A man off to war at the first sign of trouble—just like—’ She stopped. The unfinished thought hung in the air.
+Beatrice put another log into the hearth. ‘A man off to war at the first sign of trouble, just like,’ she stopped. The unfinished thought hung in the air.
 
 Harold listened. He nodded sadly. He did not press.
 
-But she saw the way he looked at the sword above the hearth—the blade he had carried when he rode with kings. She saw the way his hand went to his chest after climbing the slope from the village. He was not getting younger. He was afraid of leaving her alone, and she no less so.
+But she saw the way he looked at the sword above the hearth, the blade he had carried when he rode with kings. She saw the way his hand went to his chest after climbing the slope from the village. He was not getting younger. He was afraid of leaving her alone, and she no less so.
 
 ---
 
