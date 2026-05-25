@@ -958,7 +958,9 @@ The girl lived. Afterwards, the reeve’s wife called her ‘the Lady of Stanwey
 
 That was the year Beatrice began to understand the things her father refused to say about himself. He would watch her from his chair by the fire, his hand on the staghound’s head, his eyes following her as she moved through the hall. She thought at first it was only the grief, her mother’s empty place at the table, the silence where her voice had been. But then he began to speak to her of their neighbours.
 
-He would venture down to the village, his breath coming shorter with every step back up the slope, and afterwards he would watch her with a strange, searching look. He spoke of the miller’s new wife, who had a ‘sharp eye for the grain,’ or how the blacksmith’s son was ‘strong of arm but slow of wit.’ He was giving her his eyes, she realised. He was teaching her how to see the people they ruled, before his own sight faded into the grey.
+He would venture down to the village, his breath coming shorter with every step back up the slope, and afterwards he would watch her with a strange, searching look. He spoke of the miller’s new wife, who had a ‘sharp eye for the grain,’ or how the blacksmith’s son was ‘strong of arm but slow of wit.’ 
+
+He was giving her his eyes, she realised. He was teaching her how to see the people they ruled, before his own sight faded into the grey.
 
 ---
 
@@ -972,7 +974,7 @@ Beatrice’s hands paused on the dough. ‘Has he?’
 
 The bread dough was smooth under her palms, but her thoughts were not.
 
-‘You need not decide anything,’ Harold added quickly, noting her silence. ‘I only thought it would be well to have neighbours who are friends.’
+‘You need not decide anything,’ Harold added hastily, noting her silence. ‘I only thought it would be well to have neighbours who are friends.’
 
 Beatrice nodded. ‘I’ll think on it.’ But her thoughts were for her father. *However would he survive in his frail state once she married?*
 
@@ -994,7 +996,7 @@ She stopped mixing herbs and shook her head. ‘Three sons, Father? They would b
 
 ‘A minor Norman knight whose lands lie west. A sturdy man.’
 
-Beatrice put another log into the hearth. ‘A man off to war at the first sign of trouble, just like,’ she stopped. The unfinished thought hung in the air.
+Beatrice put another log into the hearth. ‘A man off to war at the first sign of trouble, just like…’ she stopped. The unfinished thought hung in the air.
 
 Harold listened. He nodded sadly. He did not press.
 
@@ -1042,7 +1044,7 @@ She went to the window, watching the last light fade over the fields. Sheep graz
 
 Harold said nothing.
 
-‘It is not me he wants,’ Beatrice insisted. ‘It is the hall. He would turn us out without a crust or a thread as easily as he would look at his reflection in a bucket.’
+‘There is something not right about that man,’ Beatrice insisted. ‘It is the hall he wants, and surely he would turn us out without a crust or a thread as easily as he would look at his reflection in a bucket.’
 
 ‘He is a landowner,’ Harold said. ‘These are the things landowners ask.’
 
@@ -1052,7 +1054,7 @@ They both sighed. This was no minor knight, but a man with connections in the ro
 
 Harold’s expression shifted.
 
-Beatrice turned to face him. ‘I shall marry when I must. But not to a man who sees our people as livestock, as coin to be counted. Surely not for Stanwey, Father.’
+Beatrice turned to face him. ‘I wish I knew what worries me so, for he seems to see our people as livestock, as coin to be counted. Surely not for Stanwey, Father.’
 
 ---
 
@@ -1068,9 +1070,9 @@ She was halfway up the track when she saw Sir Guy, standing with the nurse by th
 
 He scoffed. ‘Since when can a daughter hold thegn’s land without a husband? Every loose tongue shares how she has refused every man her father has ever brought. She is insolent, foolish, or both. But the land is good. The wool from the southern fields alone is worth—’
 
-The horse bolted.
+The knight’s horse bolted, and shot past them at a gallop, heading for the river crossing. 
 
-It shot past them at a gallop, heading for the river crossing. Sir Guy’s smooth voice turned into a yell with such un‑knightly words as would make a pig blush. He took off after his mount, scattering the geese, as though chased by a swarm of bees.
+Sir Guy’s smooth voice turned into a yell with such un‑knightly words as would make a pig blush. He took off after his mount, scattering the geese, as though chased by a swarm of bees.
 
 Far behind him, the nurse doubled over in a fit of laughter, slapping her leg at the comedy of the scene. By the time Beatrice reached her, however, there was barely a smile on her face, only a twinkle in her eye told of her good mood.
 
@@ -1092,9 +1094,9 @@ He listened in silence, his face pale. When she finished, he closed his eyes.
 
 ‘Father, you saw a knight who spoke of protection. There was no shame in that.’
 
-He shook his head. ‘I wanted to believe there was a way to secure this place without forcing you. I wanted—’ He stopped, his voice rough.
+He shook his head. ‘I wanted to believe there was a way to secure this place without forcing you. I wanted…’ he stopped, his voice rough.
 
-Beatrice knelt beside his chair. ‘Father, I am not afraid of him. And I am not afraid for Stanwey. I will hold it until the day I can hold it no longer. And when that day comes, it will not be Sir Guy who takes it—no, not even the King of England.’
+Beatrice knelt beside his chair. ‘Father, I am not afraid of him. And I am not afraid for Stanwey. I will hold Stanwey until the day I can hold it no longer. And when that day comes, it will not be Sir Guy who takes it, no, not even the King of England.’
 
 Harold opened his eyes. ‘You may keep that last part to yourself, daughter.’ He did not raise his voice, but the weight of it changed. ‘It is not suited for the ears of lions. And lions, Beatrice, have a way of hearing the wind before the grass even moves. Mind how you speak of a King, even in your own hall.’
 
@@ -1102,7 +1104,7 @@ For a moment, she saw the man who had pulled a lord from the river, who had ridd
 
 He looked at her softly. ‘You are your mother’s daughter,’ he said.
 
-She took his hand. ‘And your daughter, Father. But as for that man—not for Stanwey. No, never.’
+She took his hand. ‘And your daughter, Father. I shall marry when I must, but as for that man, not for Stanwey, no never.’
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -1219,7 +1221,7 @@ He didn’t say *your mother’s goose*. He didn’t need to.
 
 A hot, ungracious thought rose in Beatrice. ‘What business has the King hunting here, anyway? He has a thousand forests. A hundred kitchens. Must he come and take what little we have?‘
 
-‘A crown is a heavy thing,‘ he said gently. ‘Kings must take much, for much is laid upon them.‘
+‘A crown is a heavy thing,‘ Harold said gently. ‘Kings must take much, for much is laid upon them.‘
 
 Beatrice folded her arms. ‘I should like to tell this king what I think of that.‘
 
@@ -1269,7 +1271,7 @@ He raised his hand higher still, standing tall, calling out.
 
 ‘Remember whose hall you enter.‘
 
-Then the road took her, towards a king who had no idea she was coming.
+Then the road took her, towards a king who had no idea she was coming or what she had planned.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -1354,11 +1356,11 @@ No one spoke.
 
 The Queen glanced at Roger, then at Henry. She had her own fears — that Godfrey might overshadow William — but she held her tongue. This was between the King and his conscience.
 
-After a long silence, Henry said, his voice rough, “Leave me.”
+After a long silence, Henry said, his voice rough, “Leave this.”
 
 Roger bowed. “As you wish, my lord.”
 
-He stepped back into the shadows. The hall slowly resumed its murmur. But the question hung in the air like a drawn sword.
+The hall slowly resumed its murmur. But the question hung in the air like a drawn sword.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -1367,7 +1369,7 @@ He stepped back into the shadows. The hall slowly resumed its murmur. But the qu
 
 Roger’s question still burned in the King’s chest: *What do you mean to do for him?*
 
-He thought of Godfrey—quiet, watchful Godfrey. The one who most reminded him of himself at that age. The one who waited. The one they called shadow.
+He thought of Godfrey: quiet, watchful Godfrey. The one who most reminded him of himself at that age, the one who waited, the one they called shadow.
 
 *Lackland’s shadow.*
 
@@ -1387,7 +1389,7 @@ Henry’s eyes scanned the far wall, unseeing. “They called me Lackland, for I
 
 The hall was still for a moment. Men held their tongues. 
 
-Finally, Roger, Bishop of Salisbury, could no longer stay silent in the shadows. “My lord, we speak of silver.”
+Finally, Roger, Bishop of Salisbury, could no longer stay silent in the shadows, but shifted tack. “My lord, we speak of silver.”
 
 Henry nodded, for Roger managed the royal treasury. 
 
@@ -1395,7 +1397,7 @@ Henry nodded, for Roger managed the royal treasury.
 
 Muted murmurs arose among the knights, barons and especially the churchmen. Roger ploughed on, regardless.
 
-”Thus, I return to the matter of young Godfrey. Is not your son a coin left on the table?”
+“Thus, I return to the matter of young Godfrey. Is not your son a coin left on the table?”
 
 Henry turned. His eyes were dangerous.
 
@@ -1403,19 +1405,17 @@ Henry turned. His eyes were dangerous.
 
 Roger bowed—a shallow, efficient nod. 
 
-“The treasury is bruised by expense: The wars, the dowry and the gifts to the King of the Germans.”
+“We all know that the royal treasury is bruised by the expense of securing the realm, the cost of gifts and dowry for the German alliance. And so a timely marriage to another royal house could gracefully enrich your coffers and elevate your son.”
 
-Roger’s words hung in the air like a blade.
+“You think my blood is currency?” Henry’s voice thundered, raw with fury.
+
+Roger stepped back into the shadows, but again his sharp words hung in the air like a blade.
 
 Henry’s jaw tightened. He turned and caught sight of Godfrey’s face — the quiet boy who had spent his life watching, waiting, being counted. Henry saw his own father’s dismissal. He saw the ledger, the coin, the whispers, the waiting.
 
-Something inside him gave way.
-
-“My son is not a sack of wool to be weighed and sold.” Henry’s voice thundered, raw with fury. “We shall have no more of this talk! And so, this very day—”
-
 A new thought struck him and a dangerous smile played at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
 
-“Roger, my bishop, you think my blood is currency? You want to bargain? You want to weigh and measure and trade? Fine. Let us bargain with Someone who cannot be outbid.”
+“Roger, my bishop, let us bargain with Someone who cannot be outbid! You want to weigh and measure and trade? Fine.”
 
 Henry’s voice rose, the “Scholar-King” giving way to the impulsive pride of the Conqueror’s son. “If he be a coin, Roger, then we shall toss him to the Heavens!”
 
@@ -6983,6 +6983,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **tallage** (pl. tallages; Tax on tenants)
 - **tally** (pl. tallies; Notched accounting stick)
 - **tanner** (pl. tanners; Leather maker)
+- **tack** (sailing direction relative to the wind, to change tack is to change direction)
 - **thatcher** (pl. thatchers; Roof builder)
 - **villein** (pl. villeins; Unfree peasant)
 - **wainwright** (pl. wainwrights; Wagon maker)
