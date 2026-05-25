@@ -1373,11 +1373,7 @@ He thought of Godfrey: quiet, watchful Godfrey. The one who most reminded him of
 
 *Lackland’s shadow.*
 
-The word had cut deep. He knew what it was to have no place to stand. His father had given him silver and told him to wait. He had waited while his brothers took everything. And when the moment came, he had seized what was his.
-
-But Godfrey still waited. And Henry had done nothing.
-
-He glanced at the barons and knights about the hall. Not all were true friends. Soon he must cross again to Normandy—his father’s country and now his. 
+The word had cut deep. Henry knew what it was to have no place to stand. He glanced at the barons and knights about the hall. Not all were true friends, and soon he must cross again to Normandy—his father’s country and now his. 
 
 *Too many whisperers.*
 
@@ -3143,7 +3139,9 @@ Matilda spoke then, her voice calm. “A woman’s heart is not a fortress to be
 
 Harold inclined his head. “It is truth, Your Grace.” 
 
-Henry waved a hand. “A woman should speak of women’s things. But the bargain is between us, Rauthulfr.” He leant forward. “The children learn to love – or at least to live – afterward. But I have seen matches that were nothing but duty, and I have seen matches that grew into something more. I want more for my son.”
+Henry waved a hand. “A woman should speak of women’s things. But the bargain is between us, Rauthulfr.” He leant forward. “The children learn to love – or at least to live – afterward.’ 
+
+The King turned to face his wife. ‘Heaven has blessed me with a caring wife, a woman whom I have truly loved. But I have seen matches that were nothing but duty. I desire a good match for my son that may grow into a fruitful union.”
 
 “As do I for my daughter,” Harold said.
 
@@ -3177,7 +3175,7 @@ Harold nodded slowly. “I recall Beaumont well. He crossed the sea with your fa
 
 ### He rode into Wales alone
 
-A servant appeared in the doorway, glancing at the two lords. He gave a small bow. “My lord Godfrey said they will be in shortly, my lords.” He bowed vanished before either could answer.
+A servant appeared in the doorway, glancing at the two lords. He gave a small bow. “My lord Godfrey said they shall be in shortly, my lords.” He bowed vanished before either could answer.
 
 Harold shook his head, but his eyes were bright. He turned to Henry. “The lad has been a help at Stanwey, sire. Mended the goose pen without being asked. Helped the reeve with a cart. Asks about the crops, the tenants.” He smiled, a rare thing. “A man’s character shows in small things.”
 
@@ -3201,7 +3199,7 @@ Henry glanced at the door, then did a double‑take. Godfrey and Beatrice were s
 
 “Ah,” he said, his expression unreadable. “There you both are.”
 
-Beatrice’s cheeks were pink. Godfrey’s face was still, but his eyes were on his father.
+Beatrice’s cheeks were pink. Godfrey’s face was unreadable, but his eyes were on his father.
 
 Henry studied her for a long moment. “You have been listening, child?”
 
@@ -3234,7 +3232,7 @@ Beatrice hesitated. Her throat was dry. She looked at Godfrey – at his quiet, 
 
 The silence stretched. Harold spoke first, his head bowed. “I have failed to teach my daughter properly of such matters. I must give apology—”
 
-The King raised a hand, cutting him off. “No apology is needed, Rauthulfr. The girl asked an honest question of a father, and I shall answer as such.”
+The King raised a hand, cutting him off. “No apology is needed, Rauthulfr. The girl asked an honest question of a father, and I shall answer it as such.”
 
 The fire cracked. A log settled. The room held its breath.
 
@@ -3242,21 +3240,21 @@ King Henry looked back at Beatrice. “Child, you have a choice.”
 
 He paused, as if weighing the words, then glanced at Matilda. A flicker, nothing more. She did not speak. He glanced at the uncertain look on Beatrice’s face.
 
-“Know this: my vow was an intent to arrange marriage, not a mandate to force it. Know that I am a King of Law, not a tyrant of oppression. The Church requires your ‘Yes’ else a marriage is no marriage at all. I will not seize what is not offered.”
+“Know this: my vow was an intent to arrange marriage, not a mandate to force it. Know that I am a King of Law, not a tyrant of oppression. I will not seize what is not offered.”
 
-Henry glanced at Matilda. She gave a small nod, asking without words. He returned it.
+Henry glanced at Matilda. She gave a small nod, asking permission without words. He understood and agreed with a nod.
 
 “Truth.” Queen Matilda rose and stood beside Henry. “I am queen to no tyrant,” she said quietly. “For the Church does teach that without free consent, there is no marriage.”
 
-She paused, and her voice softened. “But the King speaks truly of consequences as well. A refusal would not be without cost. That is the weight of the choice.”
+She paused, and her voice softened. “But the King speaks truly of consequences as well. A refusal would not be without cost. That is the weight of the matter.”
 
-King Henry spread his hands. “So. There is your choice. A hard one, perhaps. But yours.”
+King Henry spread his hands. “So. There is your choice. A hard one, perhaps, but yours.”
 
-He gestured to Beatrice. “You are to take time. Get to know my son. Let him prove himself as a man – or fail. Go. Think. Pray. When truly know your own heart, you may both declare and seal your choices. Not before. You have agreed and your father has permitted it. That is enough for now.”
+He gestured to Beatrice. “You are to take time. Get to know my son. Let him prove himself as a man, or fail. Go, think, pray, and once you truly know your own heart, you may both declare and seal your choices. You have agreed and your father has permitted it. That is enough for now, and all I ask of you both.”
 
 Beatrice curtsied, her knees weak. “Thank you, my lord.”
 
-The King waved a hand. “Go. Both of you. We have business with your father.”
+The King waved a hand. “Go, both of you, for we have business with your father.”
 
 Godfrey smiled and opened the door for Beatrice. At the threshold, she paused and looked back.
 
@@ -3284,8 +3282,6 @@ Harold nodded, “Many thanks, your Grace.”
 
 ”Your daughter shall attend Westminster Palace for a time. She shall observe the court’s function at first hand and enter into life there. Godfrey is charged with her escort on the road.”
 
-Beatrice’s face held many secrets, but she simply nodded. “Yes, my lady.”
-
 Harold was silent for a moment. Then he said, quietly, “You are most kind, your Grace.”
 
 “I am most practical,” Matilda said. “A king’s daughter-in-law should not be distracted by worry. It is bad for the complexion.”
@@ -3298,15 +3294,17 @@ Harold agreed, “as I have heard.”
 
 ### The strangest creature
 
-The fire burned low. Henry and Harold spoke of old wars, old friends, old enemies. Beatrice listened, learning the shape of her father’s youth—the battles, the losses, the narrow escapes. She had heard some of it before, but never like this, never from a king who had been there.
+The King, Queen and Harold joined the party outdoors, where a bonfire burnt merrily and there was more food, drink and dancing, plenty for the nobles, the villagers and everyone gathered there, in accord with royal generousity. 
 
-Godfrey stood by the door, watching, waiting, as he always did.
+Until the fire burned low, Henry and Harold spoke of old wars, old friends, old enemies. Beatrice listened, learning the shape of her father’s youth—the battles, the losses, the narrow escapes. She had heard some of it before, but never like this, never from a king who had been there.
 
-At last, Henry rose. “I have stayed too long. My wife, the Queen, shall wonder where I am.”
+Godfrey stood by, watching, waiting, as he always did.
+
+At last, Henry rose and spoke loudly in the hearing of all gathered there. “I have enjoyed this time, thanks to my wife, the Queen, and Lord Harold. It is arranged that my son, Godfrey, shall court the Lady Beatrice, and if it please them both then they shall marry with our royal blessing.”
 
 He put a hand on Harold’s shoulder. “You have served me well, Rauthulfr. You have given me a son’s loyalty and a daughter’s courage. I will not forget.”
 
-He turned to go. At the door, he paused and looked at Goosie, who had settled on the hearth.
+As he turned to go, he looked at Goosie, who had settled watchfully in a safe place.
 
 “That goose,” he said, “is the strangest creature I have ever seen.”
 
@@ -3314,13 +3312,13 @@ He turned to go. At the door, he paused and looked at Goosie, who had settled on
 
 Henry laughed. “Then I am glad she did not hiss at me.”
 
-He rode away with his knights, the villagers cheering, the children waving. The lane was quiet again.
+The royal party rode away, while the villagers cheered, and the children waved. Then the lane settled into quietness once more as families made their way back to their cottages, though some stayed well into the night, children snoring softly.
 
 ---
 
 ### She would have liked Godfrey
 
-Later that night, long after the king had gone, Beatrice sat with her father by the fire. Godfrey had promised to return in the morning. The reeve and the cook would come tomorrow. The king’s words still echoed in her ears.
+Beatrice sat quietly with her father by the fire. Godfrey had promised to return in the morning. The reeve and the cook would come tomorrow. The king’s words still echoed in her ears.
 
 “You are not afraid,” Henry had said.
 
@@ -3332,7 +3330,7 @@ She leant her head against his shoulder. “She would have liked Godfrey.”
 
 Harold smiled. “She would have liked that he does not talk idly, of useless matters.”
 
-They sat in silence as the fire burned down, and Goosie slept between them.
+They sat in silence as the fire burned down, and the deerhound and Goosie slept between them.
 
 ---
 
