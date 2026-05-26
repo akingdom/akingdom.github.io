@@ -1663,7 +1663,7 @@ She met his eyes. ‘Depends on the wolf.‘
 
 Something passed between them, an old understanding, a shared history of managing the unmanageable.
 
-‘Depends on the tamer, but I’ll leave that to you,‘ Henry said.
+‘Depends on the tamer too, but I’ll leave that to you,‘ Henry said.
 
 A real smile now. ‘You always do.‘
 
@@ -1723,7 +1723,7 @@ The King’s voice carried to the furthest rafters. ‘Hearken now, all my baron
 
 The chatter died instantly.
 
-‘By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that my son, Godfrey, shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession.‘
+‘By my royal will and with the counsel of my court, I have seen fit to reward the service of Harold of Stanwey. Therefore, I grant and notify you that, *if they will*, my son Godfrey shall take to wife the daughter of Harold. He shall hold the manor of Stanwey in wardship and by right of marriage, as of my crown. Let him serve me faithfully for these lands, as his father-in-law has done before him. I command my peace be kept in this matter, and let no man presume to challenge this gift or disturb their possession.‘
 
 He looked directly at the cluster of knights where Sir Guy stood, his gaze like a physical weight.
 
