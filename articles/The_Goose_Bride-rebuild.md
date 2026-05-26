@@ -623,9 +623,7 @@ Beatrice looked at the wooden table groaning under the weight of the great troug
 
 ‘Is something wrong?’ Beatrice had noticed that the bread dough had not been tucked or shaped; unusually, it was still a rough, sticky mass, overflowing its wooden rim and drying into a grey crust at the edges.
 
-‘It’s…’ The words stuck in the girl's mouth as she mumbled. ‘Your mother she said that she was feeling poorly, so I’ve helped her to the bedchamber to rest.’ She gave a firm, defensive nod as if vindicating herself, but her gaze drifted downwards. She scratched at her forehead, leaving a large smudge of flour there. 
-
-A sharp hesitation caught the girl's tongue. ‘She said that she was feeling poorly,’ she mumbled, ‘so I’ve helped her to the bedchamber to rest.’ Looking down, she rubbed her face, marking it with flour from her fingers. The whole display felt entirely wrong.
+A sharp hesitation caught the girl's tongue. She scratched at her forehead, leaving a large smudge of flour there. ‘She said that she was feeling poorly,’ she mumbled, ‘so I’ve helped her to the bedchamber to rest.’ She gave a firm, defensive nod as if vindicating herself, but her gaze drifted downwards. 
 
 ---
 
@@ -1111,7 +1109,7 @@ She took his hand. ‘And your daughter, Father. I shall marry when I must, but 
 
 ## Chapter 6 ⬩ The King’s messenger does not dismount
 
-Hooves broke the morning silence. Beatrice looked up from the herb bed outside the kitchen. A royal messenger was riding up the lane towards the hall, cloak streaming, horse lathered. He reined in before the hall and unrolled a stiff parchment.
+Hooves broke the morning silence. Beatrice looked up from the herb bed outside the kitchen, and their manservant lowered his axe at the woodpile. A royal messenger was riding up the lane towards the hall, cloak streaming, horse lathered. He reined in before the hall and unrolled a stiff parchment.
 
 'The King hunts in Rockingham Forest', he announced, projecting towards the timbers as if the building itself were worthy of his breath. 'This holding shall render its service: two feathered arrows and a fowl for His Majesty's table.'
 
@@ -1195,7 +1193,7 @@ She knelt beside her bed to pray and the next moment woke from a bad dream: Goos
 
 It was silent apart from the distant cry of a fox. Then she remembered. The nurse. The empty coops. The King.
 
-She prayed as she sat empty‑handed in the dark. As she laid her head down, she named the worst thing. She had said it to herself: *Goosie must go.* And having said it, the world did not end. Somewhere between one breath and the next, she slipped into a sleep without dreams.
+She prayed as she knelt empty‑handed in the dark. As she laid her head down, she named the worst thing. She had said it to herself: *Goosie must go.* And having said it, the world did not end. Somewhere between one breath and the next, she slipped into a sleep without dreams.
 
 ---
 
@@ -1328,7 +1326,7 @@ Roger inclined his head. ‘Your lordship studied at Salisbury Cathedral, and di
 
 Something flickered in Henry’s face. Pride? Surprise? He said nothing.
 
-Roger continued, his tone shifting. ‘My lord, as each of your children has proven themselves, coming of age, you have provided for each. To Robert, a captain’s command. To Sybilla, a crown. Even Fulk has found his cloister.‘
+Roger continued, his tone shifting. ‘My lord, as each of your children has proven themselves, coming of age, and you have provided for each. To Robert, a captain’s command. To Sybilla, a crown. Even Fulk has found his cloister.‘
 
 He paused. The hall grew quiet.
 
@@ -1570,13 +1568,15 @@ The Queen rose quickly. ‘—this fine goose alive and a larder to fill his hal
 
 She turned to the clerk, dictating: ‘Item: the goose of the daughter of Harold Red-Wolf is spared by the king’s grace. Item: a larder shall be sent to Stanwey to honour Harold Red-Wolf’s service. Item: the king shall visit Stanwey within the fortnight to hear the tale of the Severn told anew.‘
 
-Her heart beat hard. She had risked Henry’s displeasure, yet he seemed pleased. ‘Yes, yes. Write it thus.‘
+Her heart beat hard. She had risked Henry’s displeasure, yet he seemed pleased. 
+
+‘Yes, yes. Write it thus.‘
 
 The Queen turned warmly to Beatrice. ‘Go home, young lady, and take your goose. The King’s word is given.‘
 
-As Beatrice turned gratefully to leave, her knees feeling a little weak, the King’s eyes narrowed seeing Sir Guy leaning by the door, goblet in hand.
+Beatrice turned gratefully to leave, her knees feeling a little weak. The King’s eyes narrowed seeing Sir Guy leaning by the door, goblet in hand.
 
-‘And you, de Montfort, the door will hold up well enough without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.‘
+‘And you, de Montfort, the door will hold up well enough without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before supper.‘
 
 It seemed that the King missed very little in his court.
 
@@ -7017,6 +7017,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **poppet** (pl. poppets; Small doll or figure)
 - **posset** (pl. possets; Hot milk-and-ale drink)
 - **pottage** (pl. pottages; Thick stew)
+- **poultry** (Domestic fowl such as chickens, ducks, and geese)
 - **solar** (pl. solars; Private upper room)
 - **spicery** (pl. spiceries; Spice storage room)
 - **treacle** (Thick syrup)
