@@ -127,7 +127,7 @@ She turned towards the voice. Her mother was a small figure at the meadow’s ed
 
 ‘Coming, Mother!’
 
-She looked back, but the boy was gone. There was nothing to say that she hadn’t imagined him, except for the retreating geese and her aching arm.
+She looked back, but the boy was gone, with nothing to say that she hadn’t imagined him, except for the retreating geese and her aching arm.
 
 She walked towards her mother. Her legs were unsteady.
 
@@ -1090,7 +1090,7 @@ When Beatrice returned home, she told Harold everything.
 
 He listened in silence, his face pale. When she finished, he closed his eyes.
 
-‘If he had shown the brush of his tail sooner, I should have seen the fox beneath the skin,’ he said, his voice grinding like stones.
+‘If he had shown the brush of his tail sooner, I should have seen the fox beneath the skin’, he said, his voice grinding like stones.
 
 ‘Father, you saw a knight who spoke of protection. There was no shame in that.’
 
@@ -1098,11 +1098,11 @@ He shook his head. ‘I wanted to believe there was a way to secure this place w
 
 Beatrice knelt beside his chair. ‘Father, I am not afraid of him. And I am not afraid for Stanwey. I will hold Stanwey until the day I can hold it no longer. And when that day comes, it will not be Sir Guy who takes it, no, not even the King of England.’
 
-Harold opened his eyes. ‘You may keep that last part to yourself, daughter.’ He did not raise his voice, but the weight of it changed. ‘It is not suited for the ears of lions. And lions, Beatrice, have a way of hearing the wind before the grass even moves. Mind how you speak of a King, even in your own hall.’
+Harold opened his eyes. ‘You may keep that last part to yourself, daughter.’ He did not raise his voice, but the weight of it changed. ‘It is not suited for the ears of lions. And lions, Beatrice, have a way of visiting when they are least welcome. Mind how you speak of a King, even in your own hall.’
 
 For a moment, she saw the man who had pulled a lord from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
 
-He looked at her softly. ‘You are your mother’s daughter,’ he said.
+He looked at her softly. ‘You are your mother’s daughter’, he said.
 
 She took his hand. ‘And your daughter, Father. I shall marry when I must, but as for that man, not for Stanwey, no never.’
 
@@ -1113,7 +1113,7 @@ She took his hand. ‘And your daughter, Father. I shall marry when I must, but 
 
 Hooves broke the morning silence. Beatrice looked up from the herb bed outside the kitchen. A royal messenger was riding up the lane towards the hall, cloak streaming, horse lathered. He reined in before the hall and unrolled a stiff parchment.
 
-'The King hunts in Rockingham Forest,' he announced, projecting towards the timbers as if the building itself were worthy of his breath. 'This holding shall render its service: two feathered arrows and a fowl for His Majesty's table.'
+'The King hunts in Rockingham Forest', he announced, projecting towards the timbers as if the building itself were worthy of his breath. 'This holding shall render its service: two feathered arrows and a fowl for His Majesty's table.'
 
 He wheeled his horse and was gone.
 
@@ -1127,11 +1127,11 @@ Goosie honked.
 
 Harold had not risen from his chair. When Beatrice came inside, he looked at the goose, then at his daughter, and his eyes were hollow.
 
-'My tired arms are of little use to a younger King,' he said. His voice was low and gritty, the voice of a man who had been turning something over in his mind for a long time and had only now found the words. 'A man who cannot ride to war must pay the shield‑tax instead. That I can manage, just. But this—' He shook his head. 'They took the last of our stored grain at Michaelmas. The King's own purveyors. For the army in Wales. If they come again, the village may well starve.'
+'My tired arms are of little use to a younger King', he said. His voice was low and gritty, the voice of a man who had been turning something over in his mind for a long time and had only now found the words. 'A man who cannot ride to war must pay the shield‑tax instead. That I can manage, just. But this,' he shook his head, 'they took the last of our stored grain at Michaelmas. The King's own purveyors. For the army in Wales. If they come again, the village may well starve.'
 
 They both knew that they had nothing suitable for the King except the unthinkable.
 
-‘We have coin enough for the present, Father,‘ Beatrice said, her voice almost sounding confident.‘ We shall simply buy a bird for the King. Surely there must be at least one, one of the farm geese—‘
+‘We have coin enough for the present, Father,‘ Beatrice said, her voice almost sounding confident. ‘We shall simply buy a bird for the King. Surely there must be at least one, one of the farm geese…‘
 
 Harold shook his head. ‘Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn’t seize for the King’s table, the Earl’s men bought up to provision the baggage trains. Roger of Salisbury’s clerks have been through the ledgers; they know exactly how many wings are in every yard.‘
 
@@ -1159,15 +1159,15 @@ She crossed the river upstream, nearly falling in, and at long last reached the 
 
 ‘The King is back and you’re after a bird for the King’s table.‘
 
-Beatrice nodded. ‘The purveyors... the Abbot... there is nothing.‘
+Beatrice nodded. ‘The purveyors… the Abbot… there is nothing.‘
 
-The nurse sighed, wiping her hands on her apron. ‘When you’ve served a king, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we’d recover by this summer, but the King’s own host has been marching this year, and they’re taking the young birds before they can even grow fat. I’ve nothing left but scrawny things—all bone and pin‑feathers.‘
+The nurse sighed, wiping her hands on her apron. ‘When you’ve served a king, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we’d recover by this summer, but the King’s own host has been marching this year, and they’re taking the young birds before they can even grow fat. I’ve nothing left but scrawny things, all bone and pin‑feathers.‘
 
 ‘I can’t bear to send Goosie. Surely there is another,‘ Beatrice pleaded.
 
-The nurse looked towards the poultry shed. ‘Only the old gander. He’s the last of the 1112 stock—‘
+The nurse looked towards the poultry shed. ‘Only the old gander. He’s the last of the 1112 stock…‘
 
-Beatrice interrupted eagerly. ‘Then I’ll buy him. I have the silver Mother left—‘
+Beatrice interrupted eagerly. ‘Then I’ll buy him. I have the silver Mother left…‘
 
 The nurse shook her head. ‘He’s already spoken for. The Royal Marshal marked him with the King’s seal yesterday. If I sell him to you, they’ll hang me for theft of Crown property. He’s not a bird any more, Beatrice; he’s a piece of the King’s war.‘
 
@@ -1191,7 +1191,7 @@ It was dark and the fire had burned low and pale. She saw Goosie, a pale mound r
 
 The silence settled around her like cold water. She had never felt so alone.
 
-She knelt beside her bed to pray and the next moment woke from a bad dream: Goosie had gone missing—gone from the house, gone from the yard, gone from the world—and so she sat up gasping, her hand reaching wildly in the darkness for feathers that were not there.
+She knelt beside her bed to pray and the next moment woke from a bad dream: Goosie had gone missing, gone from the house, gone from the yard, gone from the world, and so she sat up gasping, her hand reaching wildly in the darkness for feathers that were not there.
 
 It was silent apart from the distant cry of a fox. Then she remembered. The nurse. The empty coops. The King.
 
@@ -1207,13 +1207,13 @@ Beatrice lay still, one hand resting on the white curve of the goose’s back. I
 
 She rose. Goosie rose with her.
 
-Harold was awake, moving slowly back to the hearth, having tended to his own needs. He glanced at her—not the sharp look of a father catching a daughter in trouble, but the careful look of a man who had been waiting.
+Harold was awake, moving slowly back to the hearth, having tended to his own needs. He glanced at her, not the sharp look of a father catching a daughter in trouble, but the careful look of a man who had been waiting.
 
 Beatrice built up the fire. She knelt beside his chair. And she told him everything.
 
 *The river took the weak. The Abbot took the strong. The war took the rest.*
 
-‘There’s no other bird but—‘ she whispered.
+‘There’s no other bird but…‘ she whispered.
 
 ‘Nothing but Goosie,‘ Harold finished.
 
@@ -1239,7 +1239,7 @@ She was at his side in three steps.
 
 Beatrice shook her head. ‘The agisters will strip the very shoes from a horse for a grazing tax, and the foresters bleed a man for merely looking at a deer. And besides, the Reeve has a large, hungry family. Goosie would end up in his pot before they even saw the forest.‘ A thought found its way out of her mouth, unintended: *Not for Stanwey, Father.*
 
-She looked at the charcoal basket by the hearth—the same basket her father had made for Goosie over ten years ago, now darkened by wear, but the leather strap was still supple. The nurse’s words echoed: *Only the King or God.*
+She looked at the charcoal basket by the hearth, the same basket her father had made for Goosie over ten years ago, now darkened by wear, but the leather strap was still supple. The nurse’s words echoed: *Only the King or God.*
 
 She looked at her father’s tired face, at the way his hand still rested on his chest. And just like that, she knew what she must do.
 
@@ -1253,9 +1253,9 @@ Harold studied her face.
 
 ‘Your mother would be proud of you.‘
 
-And for a moment, something flickered in his eyes—the old sharpness, the man who had ridden with kings.
+And for a moment, something flickered in his eyes, the old sharpness, the man who had ridden with kings.
 
-Beatrice’s throat tightened. She set down the basket—with a protest from Goosie—and quickly hugged her father fiercely. He felt thinner and more frail than he should.
+Beatrice’s throat tightened. She set down the basket, with a protest from Goosie, and quickly hugged her father fiercely. He felt thinner and more frail than he should.
 
 ‘Perhaps I should go,‘ he murmured into her hair.
 
@@ -1263,7 +1263,7 @@ Beatrice’s throat tightened. She set down the basket—with a protest from Goo
 
 She settled Goosie in the basket and set out.
 
-Her father stood in the doorway—not leaning this time, standing on his own. Staghound at his side, one hand raised high.
+Her father stood in the doorway, not leaning this time, standing on his own. Staghound at his side, one hand raised high.
 
 She waved.
 
@@ -1284,29 +1284,27 @@ Then the road took her, towards a king who had no idea she was coming or what sh
 
 ## Chapter 7 ⬩ The oak doors crashed, and the music died
 
-The great oak doors of Rockingham’s hunting lodge crashed inward. Every head in the hall snapped towards the sound. Conversation and music died. Meal preparation paused. Even the hounds by the hearth flattened their ears.
+The great oak doors of Rockingham’s hunting lodge crashed inward. Every head in the hall snapped towards the sound. Conversation and music died, meal preparation paused, and even the hounds by the hearth flattened their ears.
 
 Henry, King of the English, Duke of the Normans, stood in the threshold.
 
-He was not a tall man, though built like a war-horse: thick-necked, barrel-chested, his broad shoulders crowding the doorway. His hunting tunic was stained with the black loam of the forest floor and his dark hair was plastered to his temples with sweat.
+He was not a tall man, though built like a war-horse: thick-necked, barrel-chested. The sweat was cooling on his skin, and he could feel the grit of the forest floor against it, ground into the weave of his tunic. The morning’s hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. He had returned with empty hands and a foul temper, and the smoke of the hall stung his eyes as he gazed sharply about the room. He found little that pleased him.
 
-He gazed sharply about the hall and found little that pleased him, until his eyes, grey as honed steel, settled on his queen’s face.
+His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their weapons, their gear, the pattern of the rushes covering the floor; anything to avoid meeting the King’s eye. They knew the signs: when the King’s hunt was light, his wrath was often heavy.
 
-The morning’s hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. Henry had returned with empty hands and a foul temper.
-
-His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their weapons, their gear, the pattern of the rushes covering the floor; anything to avoid meeting the King’s eye. They knew the signs. When the King’s hunt was lean, his wrath was often fat.
+Then his gaze settled on his queen’s face, and something in him eased a little.
 
 He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant.
 
-Henry lowered himself onto his chair—not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
+Henry lowered himself onto his chair, not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
 
 For a long moment, no one breathed, for fear of the king’s displeasure. A clerk by the high table watched a large beetle crawl onto his parchment, yet dared not brush it away. Woodsmoke hung lazily in the air, like a reminder of the idle hunt.
 
-Then the Queen spoke.
+The Queen spoke with practiced diplomacy.
 
-“Such a frosty morning, my lord,” she said softly, nodding to the musicians to play. “It is no surprise that the game is shy in this cold fog...”
+“Such a frosty morning, my lord,” she said softly, nodding to the musicians to play. “It is no surprise that the game is shy in this cold fog…”
 
-Henry’s steely gaze shifted to the door where his men lingered. Inwardly, he knew that a knight with a full belly was less likely to plot against him than a hungry one, but outwardly...
+Henry’s steely gaze shifted to the door where his men lingered. Inwardly, he knew that a knight with a full belly was less likely to plot against him than a hungry one, but outwardly…
 
 “The game is shy,” he repeated, his voice a low rumble. “Or perhaps my knights have grown fat and lazy on my peace.”
 
@@ -1314,13 +1312,13 @@ The Queen looked at him directly, she who had ruled England as regent in his ste
 
 “My lord’s peace is no poor gift. It is the fruit of seeds you planted. Has not Anjou troubled your lands? That lion is tamed now. Anjou’s heir is bound to William.”
 
-Henry grunted, his fingers drumming on the oak. “If it holds—a promise is only as strong as the sword behind it.”
+Henry grunted, his fingers drumming on the oak. “If it holds, a promise is only as strong as the sword behind it.”
 
 The Queen countered smoothly, turning her head. "And a sword is only as strong as the hand that holds it. The French King yielded at Gisors because he saw your reach was long. What are stags compared with your sons, and foxes to your daughters?"
 
 She watched his jaw relax. He liked the map she was drawing.
 
-Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink—the second most powerful man in England and keeper of the realm’s cold reality.
+Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink, the second most powerful man in England and keeper of the realm’s cold reality.
 
 “My lord the king,” Roger said, his voice precise, “It is well met, for I would speak of a son, not in terms of silver and swords, but rather I would speak of souls and of welfare.”
 
@@ -1334,7 +1332,7 @@ Roger continued, his tone shifting. “My lord, as each of your children has pro
 
 He paused. The hall grew quiet.
 
-“But is it to be for this son Godfrey — the one who studied under my own roof — having neither land, nor title, nor marriage. He has naught but your name. The canons ask me, my lord. I ask you. What do you mean to do for him?”
+“But is it to be for this son Godfrey, the one who studied under my own roof, having neither land, nor title, nor marriage. He has naught but your name. The canons ask me, my lord. I ask you. What do you mean to do for him?”
 
 Henry’s face went still. His fingers, which had been drumming on the oak, stopped.
 
@@ -1348,13 +1346,13 @@ Henry’s jaw tightened. “He studies.” He said it as if convincing himself. 
 
 “Time for what?” Roger’s voice was flat. “It is whispered in the corridors, at the supper tables, and now even to my own ears: Lackland’s shadow.”
 
-Henry flinched. The word Lackland — his own childhood wound — landed like a blade between his ribs.
+Henry flinched and all saw it. The word *Lackland* was a hard blow, a wound from his childhood.
 
-He turned back to the fire, his back to Roger, his back to the room. His hand pressed against his chest, as if holding something in place.
+He turned back to the fire, his back to Roger, his back to the room. His hand pressed against his belly.
 
 No one spoke.
 
-The Queen glanced at Roger, then at Henry. She had her own fears — that Godfrey might overshadow William — but she held her tongue. This was between the King and his conscience.
+The Queen glanced at Roger, then at Henry. She had her own fears, that Godfrey might overshadow William, but she held her tongue. This was between the King and his conscience.
 
 After a long silence, Henry said, his voice rough, “Leave this.”
 
@@ -1373,21 +1371,21 @@ He thought of Godfrey: quiet, watchful Godfrey. The one who most reminded him of
 
 *Lackland’s shadow.*
 
-The word had cut deep. Henry knew what it was to have no place to stand. He glanced at the barons and knights about the hall. Not all were true friends, and soon he must cross again to Normandy—his father’s country and now his. 
+The word had cut deep. Henry knew what it was to have no place to stand. He glanced at the barons and knights about the hall. Not all were true friends, and soon he must cross again to Normandy, his father’s country and now his.
 
 *Too many whisperers.*
 
-“My father—” The King spoke suddenly, his voice low, resonant, commanding silence.
+“My father,” the King spoke suddenly, his voice low, resonant, commanding silence.
 
 “My father was mocked as the *Tanner’s Grandson* by every noble in Paris. Did he wait for their blessing? No. He carved his kingdom with a sword. We are kings because God willed it, not because nobles permitted it.”
 
 Henry’s eyes scanned the far wall, unseeing. “They called me Lackland, for I had not a foot of earth to call mine. My father gave me silver and told me to wait. I waited while my brothers bled the land dry, and when the moment came, I took what was mine. I did not ask for a marriage to buy my way to the throne.”
 
-The hall was still for a moment. Men held their tongues. 
+The hall was still for a moment. Men held their tongues.
 
 Finally, Roger, Bishop of Salisbury, could no longer stay silent in the shadows, but shifted tack. “My lord, we speak of silver.”
 
-Henry nodded, for Roger managed the royal treasury. 
+Henry nodded, for Roger managed the royal treasury.
 
 “My lord, I put it to all present that royal seed, the sons and daughters, these are the true currency of kings.”
 
@@ -1399,35 +1397,37 @@ Henry turned. His eyes were dangerous.
 
 “A coin, Roger?” His laugh was low, rough, forced.
 
-Roger bowed—a shallow, efficient nod. 
+Roger bowed, a shallow, efficient nod.
 
 “We all know that the royal treasury is bruised by the expense of securing the realm, the cost of gifts and dowry for the German alliance. And so a timely marriage to another royal house could gracefully enrich your coffers and elevate your son.”
 
 “You think my blood is currency?” Henry’s voice thundered, raw with fury.
 
-Roger stepped back into the shadows, but again his sharp words hung in the air like a blade.
+Roger vanished into the shadows, but the sting of his sharp words remained.
 
-Henry’s jaw tightened. He turned and caught sight of Godfrey’s face — the quiet boy who had spent his life watching, waiting, being counted. Henry saw his own father’s dismissal. He saw the ledger, the coin, the whispers, the waiting.
+Henry’s jaw tightened. He turned towards his son Godfrey and saw himself: the lonely boy who had spent his life watching and waiting, wanting much but daring little.
 
-A new thought struck him and a dangerous smile played at the corners of his mouth—the look of a gambler who has decided to destroy the table entirely.
+A new thought struck him and a dangerous smile played at the corners of his mouth, the look of a gambler who has decided to destroy the table entirely.
 
 “Roger, my bishop, let us bargain with Someone who cannot be outbid! You want to weigh and measure and trade? Fine.”
 
 Henry’s voice rose, the “Scholar-King” giving way to the impulsive pride of the Conqueror’s son. “If he be a coin, Roger, then we shall toss him to the Heavens!”
 
-He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, carved doors of the lodge.
+He lifted his arm and pointed across the crowd, fixing his eyes on the heavy, carved doors of the lodge. Words broke forth from deep within him, beyond his grasp, and in a distant voice.
 
 “I command it: the first pure maid to cross that threshold, be she royal heiress or landless scullion, the same shall be his wife. I leave the selection to God’s judgment. If the boy cannot live with a peasant at his side, he is no son of mine and holds no claim to my blood. Let it be written as a vow.”
 
-Roger’s eyes widened in shock. Bishop Bloet exchanged a glance with the Archbishop of Canterbury. The monk of the new Cistercian order lowered his head and his lips began to move silently.
+The words fell on the silent hall like dry autumn leaves on a bonfire.
 
-As for the Queen, she stared at the King, a picture of astonishment. “You cannot possibly mean to cast his life so blindly.”
+Henry’s breath came fast, his finger still pointing, his mind hunting for what he had said. Roger’s eyes widened in shock. Bishop Bloet exchanged a glance with the Archbishop of Canterbury. The monk of the new Cistercian order lowered his head and his lips began to move silently.
+
+As for the Queen, she stared at the King, a picture of astonishment. “Surely you cannot possibly mean to cast his life so blindly.”
 
 Henry’s posture relaxed instantly, the fire cooling into a stony, dismissive indifference. He reached for his wine. “If the Heavens wish him wed, they shall surely provide. Else-wise, let the hall keep its silence, that I may drink in peace.”
 
-The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a *vow* made *coram rege*—before the high court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar in the eyes of the law and God.
+The hall settled into a jagged silence. Roger of Salisbury stood motionless. He knew the truth, as did the older lords: the King had spoken a *vow* made *coram rege*, before the high court. If a beggar girl crossed that threshold now, Henry would have to marry his son to her or become a liar in the eyes of the law and God.
 
-Henry reached for his wine, oblivious to the cage he had just built — its door swung wide open.
+Henry reached for his wine, oblivious to the cage he had just built, its door swung wide open.
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
@@ -1436,17 +1436,19 @@ Henry reached for his wine, oblivious to the cage he had just built — its door
 
 Beatrice reached the hunting lodge by midday.
 
-The place swarmed with soldiers and servants. 
+The place swarmed with soldiers and servants.
 
-The hall was still nursing the King’s mood. Nobles muttered into their wine, casting dark looks towards the doors. A spilled cup, a whispered curse—the court was a pot waiting to boil, and any stranger who entered would do well to be wary. 
+The hall was still nursing the King’s mood. Nobles muttered into their wine, casting dark looks towards the doors. A spilled cup, a whispered curse, the court was a pot waiting to boil, and any stranger who entered would do well to be wary.
 
-As Beatrice entered, carrying the handmade basket and dusty from the journey, Sir Guy recognised her as he lounged near the doorway. He was the young Norman knight, who had tried to court her.
+Beatrice entered, carrying the handmade basket and dusty from the journey. She was greeted by the overpowering smell of sweaty bodies, woodsmoke and roasted meat.
 
-Months earlier, Beatrice and her father had travelled up to the Midsummer Feast of St John (held at Laxton parish church, across the valley). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the “civilising” hand his family had brought to the inferior Midlands.
+The young Norman knight, Sir Guy sneered at her as he lounged unseen by the doorway. He was the same one who had persistently tried to court her until some months earlier.
+
+The final straw had been when Beatrice and her father had travelled up to the Midsummer Feast of St John (held at Laxton parish church, across the valley). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the “civilising” hand his family had brought to the inferior Midlands.
 
 Insulted, Beatrice had politely begged to be excused, then to go and find her father.
 
-He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding—she should be more accommodating to a Norman blade. Else, your lands *escheat* to the King and your hall is burned for charcoal!”
+He had called after her then: “A Saxon maid with a fading father and no brother to defend the holding should be more accommodating to a Norman blade. Else, your lands *escheat* to the King and your hall is burned for charcoal!”
 
 She had told him coldly that she preferred men who worked for their supper, not some fine *popinjay* who lived off the sweat of others.
 
@@ -1477,7 +1479,7 @@ The Sheriff of Nottingham muttered: “My troth! A goose loose in the king’s h
 
 The bird leapt onto the king’s table.
 
-Henry blinked at the goose, and every face showed what it feared most, not knowing whether the king’s mood would turn to mercy or to wrath. 
+Henry blinked at the goose, and every face showed what it feared most, not knowing whether the king’s mood would turn to mercy or to wrath.
 
 In that breath, the king laughed heartily: a great, genuine sound that startled even him. The court, hearing it, exchanged uncertain glances before daring to chuckle along.
 
@@ -1493,7 +1495,7 @@ The King blinked.
 
 “Your goose?”
 
-Laughter and confused commentary rippled through the hall, settling finally into unease. 
+Laughter and confused commentary rippled through the hall, settling finally into unease.
 
 A serving woman muttered the old saying: “Sooth, a goose may wander where a king must stop.”
 
@@ -1501,17 +1503,17 @@ Sir Guy, emboldened by the court’s uncertain laughter, called out: “This Sax
 
 Beatrice suddenly remembered whose hall she had entered. Her heart hammered against her ribs like a trapped bird. She instinctively flung up both hands, unadorned palms outward in the ancient sign of a peaceful traveller.
 
-Assessing her safety, she glanced at the whirl of faces around her—variously amused, curious, still hostile, fearful. One face though, by the pillar, held no judgment at all. Almost sympathetic. Almost willing her to do well.
+Assessing her safety, she glanced at the whirl of faces around her, variously amused, curious, still hostile, fearful. One face though, by the pillar, held no judgment at all. Almost sympathetic. Almost willing her to do well.
 
 Their eyes locked for a long moment.
 
 She turned and found herself curtsying low to the King. No time to think. Drawing courage in the silence, she spoke.
 
-“She was meant for your table, sire... but if it please you, spare her.”
+“She was meant for your table, sire… but if it please you, spare her.”
 
-Henry chuckled, his eyes glinting with a curious merriment. 
+Henry chuckled, his eyes glinting with a curious merriment.
 
-“At last—an honest creature in this hall. Spare the goose, you plead?”
+“At last, an honest creature in this hall. Spare the goose, you plead?”
 
 He shook his head in astonishment. It was a novelty for a petitioner to plead for a bird’s life while her own head sat so precarious.
 
@@ -1552,9 +1554,9 @@ The King roared with excited laughter, in sudden recognition.
 
 “Ha! Then it all returns to me! My father the King gave your father a purse of silver for his damp trouble, and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit instead. My brother Robert was ever more a sodden worm than a lord, and would have stayed on the riverbed had the Red‑Wolf not hauled him to the bank.”
 
-The King beamed, shaking his head in surprise. “Well, aren’t you a fine she-wolf! Now, do not delay but go, tell your father that I shall visit him next week to hear him tell it anew...”
+The King beamed, shaking his head in surprise. “Well, aren’t you a fine she-wolf! Now, do not delay but go, tell your father that I shall visit him next week to hear him tell it anew…”
 
-The Queen was most relieved to see the King now quite relaxed and pleased. She calculated that she had a week—maybe two. The king had promised a visit. That gave her time. Time to discuss the matter with him privately, time to consider the options, time to—
+The Queen was most relieved to see the King now quite relaxed and pleased. She calculated that she had a week, maybe two. The king had promised a visit. That gave her time. Time to discuss the matter with him privately, time to consider the options, time to—
 
 Henry set down his cup, rising. “Hearken now, all my barons and faithful men of England!”
 
@@ -1566,23 +1568,23 @@ Matilda’s stomach dropped.
 
 The Queen rose quickly. “—this fine goose alive and a larder to fill his hall, as the king in his mercy intends. Let it be recorded.”
 
-She turns to the clerk, dictating: “Item: the goose of the daughter of Harold Red-Wolf is spared by the king’s grace. Item: a larder shall be sent to Stanwey to honour Harold Red-Wolf’s service. Item: the king shall visit Stanwey within the fortnight to hear the tale of the Severn told anew.”
+She turned to the clerk, dictating: “Item: the goose of the daughter of Harold Red-Wolf is spared by the king’s grace. Item: a larder shall be sent to Stanwey to honour Harold Red-Wolf’s service. Item: the king shall visit Stanwey within the fortnight to hear the tale of the Severn told anew.”
 
-Henry was pleased. “Yes, yes. Write it.”
+Her heart beat hard. She had risked Henry’s displeasure, yet he seemed pleased. “Yes, yes. Write it thus.”
 
 The Queen turned warmly to Beatrice. “Go home, young lady, and take your goose. The King’s word is given.”
 
-As Beatrice turned gratefully to leave, her knees feeling a little weak, the King’s eyes narrowed seeing Sir Guy leaning by the door, goblet in hand. 
+As Beatrice turned gratefully to leave, her knees feeling a little weak, the King’s eyes narrowed seeing Sir Guy leaning by the door, goblet in hand.
 
 “And you, de Montfort, the door will hold up well enough without you! If the daughter of a Red-Wolf can walk five miles with a goose, a knight of my guard can surely find some honest work to do before sunset.”
 
-It seemed that the King missed very little in his court. 
+It seemed that the King missed very little in his court.
 
 Sir Guy passed Beatrice, moving aside, red-faced. She caught his eye and offered a quick, sharp smile before dipping her head as maidenly modesty required. It seemed the King, too, preferred men who worked for their supper.
 
-She turned her back on the man who had humiliated her earlier; her gaze swept the crowd, looking for safe harbour, anything steady. Her eyes found him—the quiet one—by the pillar. Not part of the whispers. Not part of the cruelty—simply there. Something flickered in his face—barely there. A crack in his cautious mask.
+She turned her back on the man who had humiliated her earlier; her gaze swept the crowd, looking for safe harbour, anything steady. Her eyes found him, the quiet one, by the pillar. Not part of the whispers. Not part of the cruelty, simply there. Something flickered in his face, barely there. A crack in his cautious mask.
 
-For a heartbeat—two—she forgot to breathe. *Not a smirk. Not a threat.* Then, quieter: *He’s trying too.*
+For a heartbeat, two, she forgot to breathe. *Not a smirk. Not a threat.* Then, quieter: *He’s trying too.*
 
 The moment passed. Standing in the large doorway to the hall, she turned and impulsively gave a curtsy without seeing anyone; a mere blur of people as fresh air washed over her.
 
@@ -1595,7 +1597,7 @@ Beatrice curtsied and went. The heavy doors closed behind her.
 
 The hall exhaled. Servants moved. Knights reached for wine. Music resumed near the damp hearth, a shawm’s shrill cry and the hollow rattle of a tabor offered a thin, lonely music.
 
-The Queen rose smoothly and gestured to the steward—a small, almost imperceptible wave. The steward nodded and, with quiet efficiency, redirected the nearest courtiers towards the sideboards. *Eat. Drink. Give us room.*
+The Queen rose smoothly and gestured to the steward, a small, almost imperceptible wave. The steward nodded and, with quiet efficiency, redirected the nearest courtiers towards the sideboards. *Eat. Drink. Give us room.*
 
 Within moments, the immediate press of bodies melted away from the high table, leaving Henry and Matilda in a bubble of semi-privacy. The hall still hummed with life, but no one was close enough to hear.
 
@@ -1607,9 +1609,9 @@ She leant closer, her voice dropping. “It seems my lord had success in the hun
 
 Henry paused, piece of venison halfway to his mouth. He looked at her, distracted, and lowered his voice to match hers. “What’s that?”
 
-A small smile. “I said you caught a she-wolf today—Despite the frost.”
+A small smile. “I said you caught a she-wolf today, despite the frost.”
 
-He set the meat down. Something flickered—amusement, wariness, affection.
+He set the meat down. Something flickered, amusement, wariness, affection.
 
 “You have thoughts, Matilda.”
 
@@ -1621,17 +1623,17 @@ She considered her words. “The girl is… unexpected.”
 
 Henry grinned. “That’s the point.”
 
-“Is it?” She let the question hang. “My lord, what of the barons? A Saxon thegn’s daughter—no alliance, no dowry, no lands to speak of. They will say you have slighted your son.”
+“Is it?” She let the question hang. “My lord, what of the barons? A Saxon thegn’s daughter, no alliance, no dowry, no lands to speak of. They will say you have slighted your son.”
 
-The grin faded. “Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she—“ He stopped, looking towards the door where Beatrice had vanished. “She walked into my hall after a goose. She spoke to me like I was a man, not a king—at least at first. When did you last see that?”
+The grin faded. “Low-born? Harold Red-Wolf is a thegn. His blood is as old as mine, older if you count the Saxon kings. And she,” he stopped, looking towards the door where Beatrice had vanished. “She walked into my hall after a goose. She spoke to me like I was a man, not a king, at least at first. When did you last see that?”
 
 “Rarely.”
 
-“Godfrey has been called shadow and whelp and coin. He’s been overlooked his whole life. If he marries a king’s daughter, he’ll still be a shadow—just a shadow with a richer wife. But this girl…” He trailed off.
+“Godfrey has been called shadow and whelp and coin. He’s been overlooked his whole life. If he marries a king’s daughter, he’ll still be a shadow, just a shadow with a richer wife. But this girl…” He trailed off.
 
 “This girl?”
 
-“She *saw* him.” He picked up his meat and pointed. “In the hall—before any of this. The girl did look at him—just for a moment—and didn’t look away. I was watching them.”
+“She *saw* him.” He picked up his meat and pointed. “In the hall, before any of this. The girl did look at him, just for a moment, and didn’t look away. I was watching them.”
 
 The Queen absorbed this.
 
@@ -1645,11 +1647,11 @@ Then, slowly: “Then perhaps I misjudged.”
 
 Henry looked surprised. “You?”
 
-Almost a smile. “It happens—rarely.”
+Almost a smile. “It happens, rarely.”
 
 He laughed softly. “I’ll mark the day.”
 
-“And she will need fitting for court, taming—perhaps. Teaching certainly: manners, dress, language, etiquette—how not to fall foul of others unnecessarily, how to think before she speaks.”
+“And she will need fitting for court, taming, perhaps. Teaching certainly: manners, dress, language, etiquette, how not to fall foul of others unnecessarily, how to think before she speaks.”
 
 She became more serious.
 
@@ -1659,7 +1661,7 @@ Henry considered this, “We can afford a little diplomacy, then. But a tame wol
 
 She met his eyes. “Depends on the wolf.”
 
-Something passed between them—an old understanding, a shared history of managing the unmanageable.
+Something passed between them, an old understanding, a shared history of managing the unmanageable.
 
 “Depends on the tamer, but I’ll leave that to you,” Henry said.
 
@@ -1673,29 +1675,29 @@ The King looked towards his sons, for there were several present about the hall.
 
 Henry beckoned. “Godfrey. Come.”
 
-Godfrey crossed the cleared space and stood before them, uncertain—a young man who had spent his life watching, not being watched.
+Godfrey crossed the cleared space and stood before them, uncertain, a young man who had spent his life watching, not being watched.
 
 The Queen studied him. Then, slowly, she smiled.
 
 “It is well, my son.”
 
-Something crossed Godfrey’s face. A flicker—a crack in the careful mask. At her words—*my son*—his throat moved once. He said nothing. He didn’t need to.
+Something crossed Godfrey’s face. A flicker, a crack in the careful mask. At her words, *my son*, his throat moved once. He said nothing. He didn’t need to.
 
 Henry watched the exchange, his eyes warm.
 
-After a moment: “You will escort the young lady home. Two riders—no more. See her safely to her father’s door.”
+After a moment: “You will escort the young lady home. Two riders, no more. See her safely to her father’s door.”
 
 Godfrey found his voice. “Yes, Father.”
 
-The Queen leant closer, her voice barely a murmur. “Be wary of those would see this vow fail, but never fear them,” she said quietly. 
+The Queen leant closer, her voice barely a murmur. “Be wary of those would see this vow fail, but never fear them,” she said quietly.
 
 Godfrey nodded. “Let them watch, my lady, for we shall not be moved. But the road grows dark and she has a head start.”
 
-Godfrey bowed to them both—a bow deeper than protocol required—and turned to go.
+Godfrey bowed to them both, a bow deeper than protocol required, and turned to go.
 
 At the door, he paused. Looked back.
 
-They were watching him. Both of them—Together.
+They were watching him. Both of them, together.
 
 He went out into the dusk.
 
@@ -1760,7 +1762,7 @@ The Queen rose, moving away, but her smile lingered. “I learnt from the best.�
 
 ## Chapter 13 ⬩ The dust of Rockingham on my shoes
 
-Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps. She gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket, and the evening air cool on her face.
+Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps for a moment, her heart pounding, letting the trembling in her legs subside. She gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket, and the evening air cool on her face.
 
 It was more than she had dared hope for. She had her goose. The king had spared her. More than that, he was coming to visit her father at their home. A dozen things sprang into her head; things that needed attending to before the king arrived. For now she ignored them all; today had been quite enough without worrying about tomorrow and beyond.
 
