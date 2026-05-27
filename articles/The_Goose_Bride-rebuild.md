@@ -1467,9 +1467,7 @@ The basket flew open.
 
 Goosie exploded from the basket in a fury of wings.
 
-Servants shouted.
-
-A clerk dropped his parchments.
+Servants shouted, the guards reached for their weapons, and a clerk dropped his parchments.
 
 The goose darted across the hall like a feathered arrow.
 
@@ -1762,9 +1760,23 @@ The Queen rose, moving away, but her smile lingered. ‘I learnt from the best.�
 
 ## Chapter 13 ⬩ The dust of Rockingham on my shoes
 
-Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps for a moment, her heart pounding, letting the trembling in her legs subside. She gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket, and the evening air cool on her face.
+Earlier, as the doors of the hunting lodge closed behind her, Beatrice stood on the steps breathing deeply for a moment, her heart pounding, letting the trembling in her legs subside. She closed her eyes and bowed her head, her hands clasped at her chest, and gave thanks to the God of Heaven for breath in her lungs, for Goosie safe and warm in her basket.
 
-It was more than she had dared hope for. She had her goose. The king had spared her. More than that, he was coming to visit her father at their home. A dozen things sprang into her head; things that needed attending to before the king arrived. For now she ignored them all; today had been quite enough without worrying about tomorrow and beyond.
+When she opened her eyes, one of the guards at the door was watching her. He bore himself with an air of someone who had weathered a great many royal moods and was content to stand guard. 
+
+Beatrice gave him a small, uncertain nod.
+
+'Your goose is spared, then?' His voice was gruff, but not unkind.
+
+Beatrice had to push the swirling thoughts aside before she could answer him. 'He spared her. It was more than I dared hope for. He will… He is coming to visit my father.'
+
+The guard nodded. He turned and called to a younger guard passing nearby. 'Hi, Evan! Walk this girl as far as the outer gate. Tell the watch she's under the King's peace.'
+
+The younger guard straightened. 'Aye, sir.' He automatically fell into step beside Beatrice without another word. She did not try to speak. The king was coming to visit her father at their home. A dozen things sprang into her head; things that needed attending to before the king arrived. For now she ignored them all; today had been quite enough without worrying about tomorrow and beyond.
+
+At the outer gate, the young guard stopped. 'Safe home, then.'
+
+She nodded and passed under the gate and out onto the road.
 
 Behind her, the hall hummed with resumed life. Ahead, the road stretched eastward through the forest, pale stone under a pale sky.
 
@@ -1796,7 +1808,7 @@ The man pulled up. Beatrice scented the sour‑tallow from the creaking axles.
 
 Beatrice’s feet throbbed. “Oh, I’d be really grateful—many thanks.”
 
-She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a water‑skin. Beatrice drank, thanked her, and rested her old wicker basket atop her legs. Its lid was now firmly pegged down, and there was nothing to suggest its precious gift inside.
+The planks were rough under her hands, warm from the sun. She climbed up beside the girls, who shuffled aside, eyeing her basket. The woman passed a water‑skin. Beatrice drank, thanked her, and rested her old wicker basket atop her legs. Its lid was now firmly pegged down, and there was nothing to suggest the precious gift inside.
 
 The wain lurched forward. The iron‑shod wheels bit into the white limestone ruts of the zigzag scarp with a jarring, metallic crunch. On the steep descent, the heavy frame kicked up a fine, chalky powder that coated their clothes and the roadside brambles in a ghostly grey. They worked their way back and forth down the elbows of the hill until the slope finally levelled out, and the wheels smoothed as they found the old Roman stone of the forest road.
 
@@ -1840,7 +1852,7 @@ The girl leant closer, her voice a conspiratorial hiss. “No, silly. The court 
 
 The other girl tugged at her sister’s sleeve. “But why would the King say no to a king’s daughter?”
 
-“He didn’t say no to a king’s daughter,” the elder girl said, with the authority of someone who had heard the story from a kitchen maid. “He said anyone could marry his son.”
+“He didn’t say no to a king’s daughter,” the elder girl said, with the authority of someone who had heard the story second-hand from a kitchen maid. “He said anyone could marry his son.”
 
 “Even me?” The younger girl’s eyes twinkled.
 
@@ -1906,13 +1918,13 @@ She pressed her forehead against the rough wood, letting the vibration of the ca
 
 The cart rumbled slowly on, the bullocks flicking their ears and tails at the flies.
 
-A new sound from behind: rhythmic beat of horse hooves—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them past.
+A new sound from behind them, the rhythmic beat of horse hooves—two riders, coming fast. John called out to the oxen, and the cart slowed, to let them pass by safely.
 
 Two men in the king’s colours drew alongside, their horses blowing. The older guard scanned the cart. “Good folk, we seek a young woman on this road, travelling alone for Stanwey, with a goose.”
 
 John’s hand tightened on the goad. “We’ve seen no one with a goose, sir.”
 
-The guard’s gaze lingered on Beatrice. She kept her face still. The younger guard leant down, his eyes falling on her basket, then moving away.
+The younger guard’s gaze lingered on Beatrice, before glancing at the basket. 
 
 “She’d be alone,” the older guard said. “You’re a family.”
 
@@ -1950,7 +1962,7 @@ The lane was narrow, rutted, the trees close on either side. The silence after t
 
 *They were looking for me. The guards were looking for me.*
 
-She stopped, her hand going to her throat. 
+She stopped, her hand going to her throat. The skin there was moist, and she could feel her pulse throbbing against her fingers.
 
 *The king made a vow about his son marrying? Was it about me? Which son?*
 
@@ -2010,15 +2022,15 @@ She looked down at her fingers, now smudged with grey, then up at him.
 
 ### Many questions
 
-In a hasty turn, Beatrice faced away. A quick scrub with linen from her belt-purse cleared the mark, leaving her nose scoured-red and stinging. *Well, that must do.* 
+In a hasty turn, Beatrice faced away. A quick scrub with linen from her belt-purse cleared the mark, leaving her nose scoured red and stinging. *Well, that must do.* 
 
-She tucked her hand down, cheeks burning. She had rubbed the soot on earlier that morning, to look more like a charcoal‑burner, not a thegn’s daughter, while travelling to the hall.
+She had rubbed the soot on earlier that morning, to look more like a charcoal‑burner, not a thegn's daughter, while travelling to the hall.
 
 “Shall we walk?” Godfrey simply indicated the laneway with his hand.
 
 She nodded, looking away, taking a few stiff steps. He fell in beside her, leading his horse. The animal’s hooves made soft sounds on the packed earth.
 
-He looked back towards the place where the cart had disappeared. “You rode with the carter?”
+He looked back towards the place where the cart had disappeared, “You rode with the carter?”
 
 “My feet were sore. They gave me a lift.” 
 
@@ -2161,7 +2173,8 @@ For her father, for Stanwey, for the life she had built and the life that was be
 
 ### Unable to speak
 
-She did not know how long she knelt there. The ground was cold through her skirt, the basket tipped on its side beside her, Goosie’s worried honks a distant sound.
+She did not know how long she knelt there. 
+The ground was cold through her skirt. Goosie’s worried honks seemed far away, though the basket was right beside her. 
 
 At length, the grief expelled itself, leaving a hollow stillness inside her. The sudden chill of the evening air hit her skin with the force of cold water.
 
@@ -2241,8 +2254,7 @@ She walked towards the hall. At the door, she turned. He was still there, at the
 
 She went inside, carrying the basket.
 
-![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
-
+---
 
 ### The door closed, the fire crackled
 
@@ -2358,8 +2370,7 @@ Beatrice let out the breath she had been holding. She turned to Godfrey, her eye
 
 Godfrey walked towards the door and Goosie led the way inside.
 
-![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
-
+---
 
 ### What is the fourth thing?
 
