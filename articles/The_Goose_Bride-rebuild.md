@@ -251,19 +251,17 @@ Mother patted Beatrice’s head and left her to watch.
 
 It was a whole two days later when the hen shifted, clucked softly, shifted again. 
 
-She stepped aside, not far, just enough to make room. Beneath her, the egg rocked. A crack appeared, fine as a thread. Another. A wet, wobbly head emerged, too large for the body that followed it, blinking at a world that was all firelight and shadow and the warm bulk of the hen who had kept it safe.
+For Beatrice it seemed as though a whole year had passed. She held her breath as a small fluffy, bewildered head emerged from the front of the hen and blinked at the world. The gosling made a sound, small and questioning.
 
-Beatrice held her breath.
+Beatrice looked at her mother.
 
-The hen watched the gosling struggle. She did not help. She had done her part. Now the hatchling had to do its own work: breaking free, finding its feet, shaking the last of the shell from its damp down. The hen stood guard, patient as she had always been, waiting for the small creature to find its way.
+‘Can I hold her?’
 
-And when the shell finally fell away, and the gosling blinked at the world with eyes that had never seen light, the hen stepped forward and gathered it under her feathers. The peeping stopped. She had not abandoned her charge. She was only beginning.
+‘She needs to know the hen first. In time you can help the hen teach it.’
 
-‘She’ll keep it warm now,’ Mother said. ‘And teach it to eat and drink. You can help her, if you’re gentle.’
+Soon came the day when Mother nodded, and Beatrice reached out a trembling hand. The hen did not hiss or ruffle her feathers, giving a quiet sign of permission. 
 
-So Beatrice helped. She brought fresh water and watched the hen dip her beak to show the gosling how. She scattered grain and watched the gosling peck at it with clumsy, hopeful jabs. She sat beside the basket while the hen brooded her strange, pale child, and she talked to them both until the sound of her voice was as familiar as the crackle of the hearth.
-
-And one day, when the gosling was dry and steady on its feet, it waddled out from under the hen and made its way across the rushes towards the girl who had been waiting for it. The hen did not stop it. She merely watched, sceptical, patient, entirely unimpressed, as the gosling pressed its small body against Beatrice’s hand.
+Encouraged by the contact, the gosling stretched its neck towards Beatrice’s soft murmurs, drawn by the sound of her voice. It waddled out from the safety of the nest, imprinting on the face that had waited for it so long.
 
 ‘Now,’ Mother said softly. ‘Now she’s yours.’
 
