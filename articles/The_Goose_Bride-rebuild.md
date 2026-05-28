@@ -182,7 +182,7 @@ She led them to the poultry shed where several geese sat. Inside the doorway, be
 
 Beatrice’s interest was in a smaller goose. 
 
-The farm woman nodded. ‘Ah. A wild egg. I saw a fox take the mother from its nest down by the river. The goose in the corner isn’t the sitting kind. She won’t see it through.’
+The farm woman nodded. ‘Ah. A wild egg. I saw a fox take the mother from its nest down by the river. The goose in the corner isn’t the sitting kind though. She won’t see it through.’
 
 Mother leant in, her eyes scanning the quiet, grey birds in the main nesting area by the door. ‘See, Beatrice, these eggs are from the marsh-mother. They’ll hatch into well-behaved birds that stay near the hall and not try to fly the fence every time the wind changes.’
 
@@ -221,15 +221,15 @@ Beatrice walked home holding the basket, barely breathing, as if the smallest mo
 
 ## Chapter 3 ⬩ Fourteen nights of listening
 
-The hen sat in her basket near the warm hearth, feathers fluffed, eyes half‑closed. She was a small, fierce‑looking thing with plumage the colour of autumn leaves, and she regarded the world with the suspicion of a creature who had been sitting on stones for a week and was not about to be impressed by anything softer.
+For two weeks, Beatrice watched.
 
-For two weeks, Beatrice watched and waited.
+The hen sat in her basket by the hearth, feathers fluffed, eyes half-closed. 
 
-Each morning she brought a handful of grain and a shallow dish of water. The hen ate with quick, precise movements, never lingering, never leaving the egg longer than necessary. Beatrice talked to her while she worked: about the geese in the meadow, about the bread her mother was baking, about the boy with the cloak who had vanished before she could thank him. The hen listened with the same expression she gave everything: sceptical, patient, entirely unimpressed.
+‘She needs to know you are part of her flock,’ explained Mother. ‘Bring her food and spend time with her, but be sure not to unsettle her.’
 
-‘She needs to know you’re part of her flock,’ Mother said. ‘Bring her food. Spend time with her. But don’t unsettle her.’
+So the hen ate when Beatrice offered food, drank when a dish was placed before her, listened patiently to Beatrice’s chatter, but never once left the egg.
 
-So Beatrice sat beside the basket while the fire crackled and the hen dozed, and she learnt the particular stillness of a creature whose whole purpose was waiting.
+‘She knows,’ Mother said. ‘She’ll feel it when it’s time.’
 
 And every night, before bed, she knelt by the basket and pressed her ear close.
 
@@ -239,19 +239,17 @@ And every night, before bed, she knelt by the basket and pressed her ear close.
 
 Then, on the fourteenth night, as the sun set and the stars came out, the hen stirred.
 
-She shifted. She clucked, low and soft, a sound Beatrice had never heard her make before. She ruffled her feathers and settled again with a strange new tension in her body, as if she were listening to something only she could hear.
-
 Beatrice called for Mother.
 
-They sat together in the firelight, watching. The hen shifted once more, and then—so faint Beatrice thought she had imagined it—a thin, peeping sound.
+They sat together in the firelight, watching. Then they heard it, a thin peeping sound.
 
 ‘Has it hatched, Mother?’
 
-‘Not yet. But it’s close. Sit very still.’
+‘Not yet, dear. Be very careful not to scare the hen and the chick should hatch tomorrow or the next day.’
 
-Time slowed. The fire settled with a soft hiss. The hen rose slightly, adjusted the egg beneath her with her beak, and settled again. The peeping grew stronger, more insistent, a tiny voice demanding entry into the world.
+Mother patted Beatrice’s head and left her to watch. 
 
-Then, quite suddenly, the hen stood.
+It was a whole two days later when the hen shifted, clucked softly, shifted again. 
 
 She stepped aside, not far, just enough to make room. Beneath her, the egg rocked. A crack appeared, fine as a thread. Another. A wet, wobbly head emerged, too large for the body that followed it, blinking at a world that was all firelight and shadow and the warm bulk of the hen who had kept it safe.
 
