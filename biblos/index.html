@@ -52,7 +52,7 @@
             box-shadow: 0 1px 3px rgba(0,0,0,0.12);
             position: relative;
             min-height: 70vh;
-            overflow: hidden; /* contain the float */
+            overflow: hidden;
         }
 
         /* ================== TOP NAV ROW ================== */
@@ -165,7 +165,7 @@
             font-weight: 400;
             border-bottom: 1px solid var(--border);
             padding-bottom: 10px;
-            clear: none; /* allow wrapping around float */
+            clear: none;
         }
 
         /* Scripture content */
@@ -455,10 +455,10 @@
                     <circle cx="12" cy="12" r="2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/>
                 </svg>
             </button>
-            <button id="play-btn" class="icon-btn" onclick="speechControl.play()" title="Listen" aria-label="Listen">
+            <button id="play-btn" class="icon-btn" onclick="speechController.play()" title="Listen" aria-label="Listen">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
             </button>
-            <button id="restart-btn" class="icon-btn" onclick="speechControl.restart()" title="Restart reading" aria-label="Restart reading">
+            <button id="restart-btn" class="icon-btn" onclick="speechController.restart()" title="Restart reading" aria-label="Restart reading">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                     <rect x="2" y="4" width="2" height="16"/>
                     <polygon points="22,4 6,12 22,20"/>
@@ -494,20 +494,62 @@
 <script src="../js/qrcode.js"></script>
 
 <script>
-// ==================== STATE & INIT ====================
-const state = {
-    activeCollection: null,
-    currentCollectionId: null,
-    fullLibrary: {},
-    book: null,
-    ch: 1,
-    showStrongs: false,
-    searchResults: [],
-    searchPage: 0,
-    notePinned: false,
-    db: null,
-    currentSearchIndex: -1
-};
+// ==================== APP STATE ====================
+/**
+ * AppState – Single source of truth for all application state.
+ * Input: none (initialised with defaults)
+ * Output: properties read/written by all other modules
+ * Side-effects: localStorage sync for persistent preferences (showStrongs)
+ * 
+ * Currently all properties are public; existing code accesses them directly.
+ * Methods are provided for common operations to ease future encapsulation.
+ */
+class AppState {
+    constructor() {
+        // Collection & navigation
+        this.activeCollection = null;
+        this.currentCollectionId = null;
+        this.fullLibrary = {};
+        this.book = null;
+        this.ch = 1;
+
+        // UI toggles
+        this.showStrongs = false;
+
+        // Search state
+        this.searchResults = [];
+        this.searchPage = 0;
+        this.currentSearchIndex = -1;
+
+        // Notes
+        this.notePinned = false;
+
+        // Database handle (set by BibleDataLoader later)
+        this.db = null;
+    }
+
+    /** Toggles Strong's numbers and persists the preference. */
+    toggleStrongs() {
+        this.showStrongs = !this.showStrongs;
+        localStorage.setItem('show_strongs', this.showStrongs);
+        return this.showStrongs;
+    }
+
+    /** Loads persisted preferences from localStorage. Call once during init. */
+    loadPersisted() {
+        this.showStrongs = localStorage.getItem('show_strongs') === 'true';
+    }
+
+    /** Saves the current navigation position so it can be restored on next visit. */
+    savePosition() {
+        localStorage.setItem('last_pos', JSON.stringify({
+            col: this.currentCollectionId,
+            book: this.book,
+            ch: this.ch
+        }));
+    }
+}
+const state = new AppState();
 
 // ==================== ICON MAP ====================
 const ICONS = {
@@ -522,628 +564,752 @@ const ICONS = {
     speaker: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="8" r="4"/><path d="M12 14c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/><path d="M3 8l-2 2 2 2M21 8l2 2-2 2" stroke="currentColor" stroke-width="1.5" fill="none"/></svg>'
 };
 
-// ==================== SETUP ====================
+// ==================== USFM PARSER (Stage 1 – pure logic encapsulated) ====================
+/**
+ * USFMParser – Pure functions for USFM to HTML conversion.
+ * Input: raw USFM text
+ * Output: structured chapter/verse object, cleaned HTML strings
+ * Side-effects: none (static methods only)
+ */
+class USFMParser {
+    /**
+     * Parses USFM into a chapters object: { [ch]: { [verse]: htmlString } }
+     */
+    static parse(usfm) {
+        const chapters = {};
+        let curCh = 0, curV = 0;
+        let pendingPrefixes = [];
+        let interVerseBuffer = [];
 
-async function initDB() {
-    return new Promise((resolve) => {
-        const timer = setTimeout(() => resolve(null), 150);
-        try {
-            if (!window.indexedDB) return resolve(null);
-            const request = indexedDB.open("BiblosCache", 1);
-            request.onupgradeneeded = (e) => e.target.result.createObjectStore("collections");
-            request.onsuccess = (e) => { clearTimeout(timer); state.db = e.target.result; resolve(state.db); };
-            request.onerror = () => resolve(null);
-        } catch(e) { resolve(null); }
-    });
-}
+        const metaIgnore = ['\\h', '\\toc', '\\id', '\\mt', '\\rem'];
+        const blockTags = ['b', 'm', 'pmo', 'q1', 'q2', 'q3', 'qr', 'q', 'ms', 'mr', 'cl'];
 
-window.onload = async () => {
-    await initDB();
+        usfm.split('\n').forEach(line => {
+            line = line.trim();
+            if (!line) return;
 
-    // Populate collection dropdown
-    const idx = window.BIBLE_INDEX;
-    if (idx) {
-        populateCollectionDropdown();
-    }
+            const parts = line.split(' ');
+            const tag = parts[0];
+            const cleanTag = tag.replace('\\', '');
 
-    const params = new URLSearchParams(window.location.search);
-    const last = JSON.parse(localStorage.getItem('last_pos')) || {};
-    const targetCol = params.get('col') || last.col || (idx ? idx.collections[0].id : null);
-
-    state.showStrongs = localStorage.getItem('show_strongs') === 'true';
-    document.body.classList.toggle('strongs-hidden', !state.showStrongs);
-    document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
-
-    // Search box listeners
-    const searchBox = document.getElementById('search-box');
-    searchBox.addEventListener('focus', () => {
-        if (searchBox.value.trim().length >= 2 && state.searchResults.length > 0) {
-            document.getElementById('search-results').style.display = 'block';
-        }
-        document.getElementById('search-clear').style.display = searchBox.value ? 'block' : 'none';
-    });
-    searchBox.addEventListener('blur', () => {
-        setTimeout(() => {
-            if (document.activeElement !== searchBox) {
-                document.getElementById('search-results').style.display = 'none';
-            }
-        }, 100);
-    });
-    document.addEventListener('click', (e) => {
-        const res = document.getElementById('search-results');
-        const box = document.getElementById('search-box');
-        if (!box.contains(e.target) && !res.contains(e.target)) {
-            res.style.display = 'none';
-        }
-    });
-
-    // Global keyboard shortcuts
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
-            closeNote();
-            closeSearch();
-            closeVoiceSidebar();
-        }
-        if ((e.key === '/' || e.key === '?') && !e.target.matches('input,textarea')) {
-            e.preventDefault();
-            searchBox.focus();
-            searchBox.select();
-        }
-    });
-
-    if (targetCol) {
-        await loadCollection(targetCol);
-        if (params.get('book')) {
-            navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
-        } else if (params.get('q')) {
-            searchBox.value = params.get('q');
-            handleSearch({ target: { value: params.get('q') } });
-        }
-    } else if (idx) {
-        // Load first collection by default
-        await loadCollection(idx.collections[0].id);
-    }
-};
-
-// ==================== COLLECTION DROPDOWN ====================
-function populateCollectionDropdown() {
-    const idx = window.BIBLE_INDEX;
-    const list = document.querySelector('#col-dropdown .dropdown-list');
-    list.innerHTML = '';
-    
-    // Filter and sort alphabetically by name
-    const sorted = idx.collections
-        .filter(c => c.books && Object.keys(c.books).length)
-        .sort((a, b) => a.name.localeCompare(b.name));
-    
-    sorted.forEach(c => {
-        const div = document.createElement('div');
-        div.className = 'dropdown-item';
-        div.textContent = c.name;
-        div.setAttribute('role', 'option');
-        div.onclick = () => {
-            document.getElementById('col-label').textContent = c.name.substring(0, 4).toUpperCase();
-            loadCollection(c.id);
-            list.style.display = 'none';
-        };
-        list.appendChild(div);
-    });
-    
-    // Set initial label from the first sorted item
-    if (sorted.length) {
-        document.getElementById('col-label').textContent = sorted[0].name.substring(0, 4).toUpperCase();
-    }
-}
-
-// ==================== BOOK & CHAPTER DROPDOWNS ====================
-function populateBookDropdown() {
-    const list = document.querySelector('#book-dropdown .dropdown-list');
-    list.innerHTML = '';
-    Object.keys(state.activeCollection).forEach(code => {
-        const div = document.createElement('div');
-        div.className = 'dropdown-item';
-        div.textContent = state.activeCollection[code].name;
-        div.setAttribute('role', 'option');
-        div.onclick = () => {
-            navigateTo(code, 1);
-            list.style.display = 'none';
-        };
-        list.appendChild(div);
-    });
-}
-
-function populateChapterDropdown() {
-    const list = document.querySelector('#chapter-dropdown .dropdown-list');
-    list.innerHTML = '';
-    const chs = Object.keys(state.fullLibrary).sort((a,b) => a-b);
-    chs.forEach(c => {
-        const div = document.createElement('div');
-        div.className = 'dropdown-item';
-        div.textContent = c;
-        div.setAttribute('role', 'option');
-        div.onclick = () => {
-            changeChapter(c);
-            list.style.display = 'none';
-        };
-        list.appendChild(div);
-    });
-}
-
-function toggleDropdown(id) {
-    const dd = document.getElementById(id);
-    const list = dd.querySelector('.dropdown-list');
-    const btn = dd.querySelector('.pill-btn');
-    const isOpen = list.style.display === 'block';
-    // Close all
-    document.querySelectorAll('.dropdown-list').forEach(l => l.style.display = 'none');
-    document.querySelectorAll('.pill-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
-    if (!isOpen) {
-        list.style.display = 'block';
-        btn.setAttribute('aria-expanded', 'true');
-    }
-}
-
-document.addEventListener('click', (e) => {
-    if (!e.target.closest('.custom-dropdown')) {
-        document.querySelectorAll('.dropdown-list').forEach(l => l.style.display = 'none');
-        document.querySelectorAll('.pill-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
-    }
-});
-
-// ==================== LOAD & NAVIGATE ====================
-async function loadCollection(id) {
-    state.currentCollectionId = id;
-    const colData = window.BIBLE_INDEX.collections.find(c => c.id === id);
-    const varName = `COLLECTION_${id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
-    const statusEl = document.getElementById('cache-status');
-
-    let cachedData = null;
-    if (state.db) {
-        cachedData = await new Promise(r => {
-            const req = state.db.transaction(["collections"]).objectStore("collections").get(id);
-            req.onsuccess = () => r(req.result);
-            req.onerror = () => r(null);
-        });
-    }
-
-    if (cachedData) {
-        window[varName] = cachedData;
-        statusEl.innerText = "✓ Offline";
-    } else if (!window[varName]) {
-        statusEl.innerText = "☁ Loading...";
-        await new Promise(r => {
-            const s = document.createElement('script');
-            s.src = colData.file;
-            s.onload = () => {
-                if (state.db) {
-                    try { state.db.transaction(["collections"], "readwrite").objectStore("collections").put(window[varName], id); } catch(e) {}
-                }
-                r();
-            };
-            document.head.appendChild(s);
-        });
-        statusEl.innerText = "✓ Online";
-    }
-
-    state.activeCollection = window[varName];
-    document.getElementById('col-label').textContent = colData.name.substring(0, 4).toUpperCase();
-    populateBookDropdown();
-
-    const prevBook = state.book;
-    const prevCh = state.ch;
-    state.fullLibrary = {};
-
-    if (prevBook && state.activeCollection[prevBook]) {
-        state.book = prevBook;
-        state.fullLibrary = parseUSFM(state.activeCollection[prevBook].usfm);
-        const chs = Object.keys(state.fullLibrary);
-        const targetCh = chs.includes(String(prevCh)) ? prevCh : Number(chs[0]);
-        populateChapterDropdown();
-        document.getElementById('book-label').textContent = state.activeCollection[prevBook].name;
-        changeChapter(targetCh);
-    } else {
-        const firstBook = Object.keys(state.activeCollection)[0];
-        navigateTo(firstBook, 1);
-    }
-}
-
-function navigateTo(code, ch, v) {
-    state.book = code;
-    state.fullLibrary = parseUSFM(state.activeCollection[code].usfm);
-    document.getElementById('book-label').textContent = state.activeCollection[code].name;
-    populateChapterDropdown();
-    changeChapter(ch || 1, v);
-}
-
-function changeChapter(c, v) {
-    state.ch = parseInt(c);
-    document.getElementById('chapter-label').textContent = c;
-    render(v);
-}
-
-// ==================== PARSE & RENDER ====================
-function parseUSFM(usfm) {
-    const chapters = {};
-    let curCh = 0, curV = 0;
-    let pendingPrefixes = [];   // for true headings before the first verse
-    let interVerseBuffer = [];  // new: for empty block tags between verses
-
-    const metaIgnore = ['\\h', '\\toc', '\\id', '\\mt', '\\rem'];
-    const blockTags = ['b', 'm', 'pmo', 'q1', 'q2', 'q3', 'qr', 'q', 'ms', 'mr', 'cl'];
-
-    usfm.split('\n').forEach(line => {
-        line = line.trim();
-        if (!line) return;
-
-        const parts = line.split(' ');
-        const tag = parts[0];
-        const cleanTag = tag.replace('\\', '');
-
-        // 1. Chapter marker
-        if (tag === '\\c') {
-            curCh = parseInt(parts[1]);
-            chapters[curCh] = {};
-            curV = 0;
-            interVerseBuffer = [];
-            pendingPrefixes = [];
-            return;
-        }
-
-        // 2. Verse marker
-        if (tag === '\\v') {
-            const m = line.match(/\\v\s+(\d+)\s+(.*)/);
-            if (m) {
-                curV = parseInt(m[1]);
-                // Flush inter‑verse buffer as prefix for this new verse
-                const prefix = pendingPrefixes.join('') + interVerseBuffer.join('');
-                chapters[curCh][curV] = prefix + finalize(m[2]);
+            if (tag === '\\c') {
+                curCh = parseInt(parts[1]);
+                chapters[curCh] = {};
+                curV = 0;
+                interVerseBuffer = [];
                 pendingPrefixes = [];
-                interVerseBuffer = [];
+                return;
             }
-            return;
-        }
 
-        if (metaIgnore.some(m => tag.startsWith(m))) return;
-
-        // 3. Structural tags
-        let content = finalize(line.substring(tag.length).trim());
-        const wrapped = `<div class="usfm-${cleanTag}">${content}</div>`;
-
-        // Is this a block‑level tag that could be empty?
-        const isBlock = blockTags.includes(cleanTag.replace(/[0-9]/g, ''));
-
-        if (isBlock && !content) {
-            // Empty block tag → hold in inter‑verse buffer
-            interVerseBuffer.push(wrapped);
-        } else {
-            // Non‑empty or not a block tag → first flush inter‑verse buffer to current verse
-            if (interVerseBuffer.length > 0) {
-                if (curV > 0) {
-                    chapters[curCh][curV] = (chapters[curCh][curV] || '') + interVerseBuffer.join('');
-                } else {
-                    pendingPrefixes.push(interVerseBuffer.join(''));
+            if (tag === '\\v') {
+                const m = line.match(/\\v\s+(\d+)\s+(.*)/);
+                if (m) {
+                    curV = parseInt(m[1]);
+                    const prefix = pendingPrefixes.join('') + interVerseBuffer.join('');
+                    chapters[curCh][curV] = prefix + USFMParser.finalize(m[2]);
+                    pendingPrefixes = [];
+                    interVerseBuffer = [];
                 }
-                interVerseBuffer = [];
+                return;
             }
 
-            // Now process the current line
-            if (curV === 0 || line.includes('\\s') || line.includes('\\r')) {
-                pendingPrefixes.push(wrapped);
+            if (metaIgnore.some(m => tag.startsWith(m))) return;
+
+            let content = USFMParser.finalize(line.substring(tag.length).trim());
+            const wrapped = `<div class="usfm-${cleanTag}">${content}</div>`;
+
+            const isBlock = blockTags.includes(cleanTag.replace(/[0-9]/g, ''));
+
+            if (isBlock && !content) {
+                interVerseBuffer.push(wrapped);
             } else {
-                chapters[curCh][curV] = (chapters[curCh][curV] || '') + wrapped;
+                if (interVerseBuffer.length > 0) {
+                    if (curV > 0) chapters[curCh][curV] = (chapters[curCh][curV] || '') + interVerseBuffer.join('');
+                    else pendingPrefixes.push(interVerseBuffer.join(''));
+                    interVerseBuffer = [];
+                }
+                if (curV === 0 || line.includes('\\s') || line.includes('\\r')) pendingPrefixes.push(wrapped);
+                else chapters[curCh][curV] = (chapters[curCh][curV] || '') + wrapped;
             }
-        }
-    });
-
-    // End of chapter: flush any remaining inter‑verse buffer to the last verse
-    if (interVerseBuffer.length > 0 && curV > 0) {
-        chapters[curCh][curV] += interVerseBuffer.join('');
+        });
+        if (interVerseBuffer.length > 0 && curV > 0) chapters[curCh][curV] += interVerseBuffer.join('');
+        return chapters;
     }
 
-    return chapters;
-}
+    /**
+     * Cleans up USFM markers, inserts Strong's pills and footnote chips.
+     * Footnote text is now sanitised to prevent XSS.
+     */
+    static finalize(raw) {
+        if (!raw) return "";
+        raw = raw.replace(/\\x\s+.*?\\x\*/g, '');
+        let html = raw.replace(/\\\+?w\s+([^|]+)\|strong="([HG])([0-9]+)"\\\+?w\*/g, (m, word, lang, code) => `${word}<span class="strong-pill">${lang}${code}</span>`);
+        html = html.replace(/\\f\s+\+\s+(.*?)\s+(.*?)\\f\*/g, (m, r, n) => {
+            // Sanitize footnote text by stripping HTML tags
+            const sanitize = (str) => {
+                const div = document.createElement('div');
+                div.textContent = str;
+                return div.innerHTML;
+            };
+            const safeText = sanitize(n);
+            return `<span class="fn-chip" onmouseover="handleNote(event, '${safeText}', 'hover')" onmouseout="handleNote(event, null, 'out')" onclick="handleNote(event, '${safeText}', 'click')">Note</span>`;
+        });
+        return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim();
+    }
 
-function finalize(raw) {
-    if (!raw) return "";
-    raw = raw.replace(/\\x\s+.*?\\x\*/g, '');
-    let html = raw.replace(/\\\+?w\s+([^|]+)\|strong="([HG])([0-9]+)"\\\+?w\*/g, (m, word, lang, code) => {
-        return `${word}<span class="strong-pill">${lang}${code}</span>`;
-    });
-    html = html.replace(/\\f\s+\+\s+(.*?)\s+(.*?)\\f\*/g, (m, r, n) => {
-        const escaped = n.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-        return `<span class="fn-chip" onmouseover="handleNote(event, '${escaped}', 'hover')" onmouseout="handleNote(event, null, 'out')" onclick="handleNote(event, '${escaped}', 'click')">Note</span>`;
-    });
-    return html.replace(/\\[\+a-z0-9]+\*?\s?/gi, '').trim();
-}
+    /**
+     * Wraps text nodes inside an HTML string with <span class="tts-word"> for TTS highlighting.
+     */
+    static wrapWordsInSpans(html) {
+        const temp = document.createElement('div');
+        temp.innerHTML = html;
 
-function wrapWordsInSpans(html) {
-    const temp = document.createElement('div');
-    temp.innerHTML = html;
-
-    const wrapTextNodes = (parent) => {
-        Array.from(parent.childNodes).forEach(node => {
-            if (node.nodeType === 3) { // Text Node
-                const text = node.nodeValue;
-                if (text.trim().length > 0) {
-                    const newSpan = document.createElement('span');
-                    newSpan.innerHTML = text.split(/(\s+)/).map(part => {
-                        if (part.trim().length > 0) {
-                            return `<span class="tts-word">${part}</span>`;
-                        }
-                        return part;
-                    }).join('');
-                    node.replaceWith(newSpan);
-                }
-            } else if (node.nodeType === 1) {
-                if (!node.classList.contains('strong-pill') && !node.classList.contains('fn-chip')) {
+        const wrapTextNodes = (parent) => {
+            Array.from(parent.childNodes).forEach(node => {
+                if (node.nodeType === 3) {
+                    const text = node.nodeValue;
+                    if (text.trim().length > 0) {
+                        const newSpan = document.createElement('span');
+                        newSpan.innerHTML = text.split(/(\s+)/).map(part => part.trim().length > 0 ? `<span class="tts-word">${part}</span>` : part).join('');
+                        node.replaceWith(newSpan);
+                    }
+                } else if (node.nodeType === 1 && !node.classList.contains('strong-pill') && !node.classList.contains('fn-chip')) {
                     wrapTextNodes(node);
                 }
-            }
-        });
-    };
-    wrapTextNodes(temp);
-    return temp.innerHTML;
+            });
+        };
+        wrapTextNodes(temp);
+        return temp.innerHTML;
+    }
 }
 
+// Backward-compatible global aliases
+const parseUSFM = USFMParser.parse;
+const finalize = USFMParser.finalize;
+const wrapWordsInSpans = USFMParser.wrapWordsInSpans;
+
+// ==================== QR MANAGER (Stage 3a) ====================
+/**
+ * QRManager – Generates QR code for the current URL.
+ * Input: collectionId, book, chapter
+ * Output: updates #qrcode element
+ * Side-effects: manipulates DOM, uses QRCode library
+ */
+class QRManager {
+    constructor(containerId) {
+        this.container = document.getElementById(containerId);
+    }
+    update(collectionId, book, ch) {
+        if (!this.container || typeof QRCode === 'undefined') return;
+        const url = new URL(window.location);
+        url.searchParams.set('col', collectionId);
+        url.searchParams.set('book', book);
+        url.searchParams.set('ch', ch);
+        window.history.replaceState(null, '', url);
+        this.container.innerHTML = "";
+        new QRCode(this.container, { text: url.href, width: 80, height: 80 });
+    }
+}
+const qrManager = new QRManager('qrcode');
+// Global alias for backward compatibility
+const updateQR = () => qrManager.update(state.currentCollectionId, state.book, state.ch);
+
+// ==================== NOTE MANAGER (Stage 3b) ====================
+/**
+ * NoteManager – Handles footnote display in the bottom bar.
+ * Input: footnote text, event type
+ * Output: toggles bottom bar display
+ * Side-effects: DOM manipulation, manages own pin state
+ */
+class NoteManager {
+    constructor(bottomBarId, noteContentId, noteDisplayId, standardControlsId) {
+        this.bottomBar = document.getElementById(bottomBarId);
+        this.noteContent = document.getElementById(noteContentId);
+        this.noteDisplay = document.getElementById(noteDisplayId);
+        this.standardControls = document.getElementById(standardControlsId);
+        this._pinned = false;
+    }
+
+    handleNote(event, text, type) {
+        if (type === 'click') this._pinned = true;
+        if (type === 'out' && this._pinned) return;
+        if (text) {
+            this.noteContent.innerText = text;
+            this.bottomBar.classList.add('is-note');
+            this.noteDisplay.style.display = 'flex';
+            this.standardControls.style.display = 'none';
+        } else {
+            this.closeNote();
+        }
+    }
+
+    closeNote() {
+        this._pinned = false;
+        this.bottomBar.classList.remove('is-note');
+        this.noteDisplay.style.display = 'none';
+        this.standardControls.style.display = 'flex';
+    }
+}
+const noteManager = new NoteManager('bottom-bar', 'note-content', 'note-display', 'standard-controls');
+// Global aliases for footnote chips and close button
+const handleNote = (event, text, type) => noteManager.handleNote(event, text, type);
+const closeNote = () => noteManager.closeNote();
+
+// ==================== VOICE SIDEBAR (Stage 3c) ====================
+/**
+ * VoiceSidebar – Manages voice selection sidebar UI.
+ * Input: speech controller (for voice change)
+ * Output: sidebar open/close, voice list population
+ * Side-effects: DOM manipulation, relies on global selectedVoice for highlight
+ */
+class VoiceSidebar {
+    constructor(overlayId, sidebarId, listId, speechCtrl) {
+        this.overlay = document.getElementById(overlayId);
+        this.sidebar = document.getElementById(sidebarId);
+        this.listContainer = document.getElementById(listId);
+        this.speechCtrl = speechCtrl;
+    }
+
+    open() {
+        this.overlay.style.display = 'flex';
+        this.populateVoiceList();
+    }
+
+    close(event) {
+        if (event && event.target !== this.overlay) return;
+        this.overlay.style.display = 'none';
+    }
+
+    populateVoiceList() {
+        const synth = window.speechSynthesis;
+        const voices = synth.getVoices().filter(v => v.lang.startsWith('en'));
+        const uniqueVoices = Array.from(new Map(voices.map(v => [v.name, v])).values());
+        this.listContainer.innerHTML = uniqueVoices.map(v => {
+            const sel = this.speechCtrl.selectedVoice && this.speechCtrl.selectedVoice.name === v.name ? 'selected' : '';
+            return `<button class="voice-option ${sel}" onclick="selectVoice('${v.name}')">${v.name}${v.default ? ' (System)' : ''}</button>`;
+        }).join('');
+    }
+
+    selectVoice(name) {
+        this.speechCtrl.updateVoice(name);
+        this.close();
+    }
+}
+// speechController is instantiated later; we'll pass it after creation
+
+// ==================== BIBLE DATA LOADER (Stage 4) ====================
+/**
+ * BibleDataLoader – Handles collection data loading, caching in IndexedDB, and fallback.
+ * Input: AppState (for db and activeCollection), BIBLE_INDEX
+ * Output: populates state.activeCollection and state.fullLibrary, updates DOM labels
+ * Side-effects: IndexedDB, dynamic script injection, DOM status updates
+ */
+class BibleDataLoader {
+    constructor(state) {
+        this.state = state;
+    }
+
+    async initDB() {
+        return new Promise((resolve) => {
+            const timer = setTimeout(() => resolve(null), 150);
+            try {
+                if (!window.indexedDB) return resolve(null);
+                const request = indexedDB.open("BiblosCache", 1);
+                request.onupgradeneeded = (e) => e.target.result.createObjectStore("collections");
+                request.onsuccess = (e) => {
+                    clearTimeout(timer);
+                    this.state.db = e.target.result;
+                    resolve(this.state.db);
+                };
+                request.onerror = () => resolve(null);
+            } catch(e) {
+                resolve(null);
+            }
+        });
+    }
+
+    async loadCollection(id) {
+        this.state.currentCollectionId = id;
+        const colData = window.BIBLE_INDEX.collections.find(c => c.id === id);
+        const varName = `COLLECTION_${id.toUpperCase().replace(/[^A-Z0-9]/g, '_')}`;
+        const statusEl = document.getElementById('cache-status');
+
+        let cachedData = null;
+        if (this.state.db) {
+            cachedData = await new Promise(r => {
+                const req = this.state.db.transaction(["collections"]).objectStore("collections").get(id);
+                req.onsuccess = () => r(req.result);
+                req.onerror = () => r(null);
+            });
+        }
+
+        if (cachedData) {
+            window[varName] = cachedData;
+            statusEl.innerText = "✓ Offline";
+        } else if (!window[varName]) {
+            statusEl.innerText = "☁ Loading...";
+            await new Promise(r => {
+                const s = document.createElement('script');
+                s.src = colData.file;
+                s.onload = () => {
+                    if (this.state.db) {
+                        try {
+                            this.state.db.transaction(["collections"], "readwrite").objectStore("collections").put(window[varName], id);
+                        } catch(e) {}
+                    }
+                    r();
+                };
+                document.head.appendChild(s);
+            });
+            statusEl.innerText = "✓ Online";
+        }
+
+        this.state.activeCollection = window[varName];
+        document.getElementById('col-label').textContent = colData.name.substring(0, 4).toUpperCase();
+        populateBookDropdown();   // delegate to dropdownManager
+
+        const prevBook = this.state.book;
+        const prevCh = this.state.ch;
+        this.state.fullLibrary = {};
+
+        if (prevBook && this.state.activeCollection[prevBook]) {
+            this.state.book = prevBook;
+            this.state.fullLibrary = parseUSFM(this.state.activeCollection[prevBook].usfm);
+            const chs = Object.keys(this.state.fullLibrary);
+            const targetCh = chs.includes(String(prevCh)) ? prevCh : Number(chs[0]);
+            populateChapterDropdown();   // delegate
+            document.getElementById('book-label').textContent = this.state.activeCollection[prevBook].name;
+            changeChapter(targetCh);     // delegate
+        } else {
+            const firstBook = Object.keys(this.state.activeCollection)[0];
+            navigateTo(firstBook, 1);   // delegate
+        }
+    }
+}
+
+const bibleDataLoader = new BibleDataLoader(state);
+// Backward-compatible aliases
+const initDB = () => bibleDataLoader.initDB();
+const loadCollection = (id) => bibleDataLoader.loadCollection(id);
+
+// ==================== RENDERER (Stage 5) ====================
+/**
+ * Renderer – Builds the chapter HTML and manages the content area.
+ * Input: AppState, USFMParser, QRManager, DOM containers
+ * Output: updated #content, #ref-header, QR code, and saved position
+ * Side-effects: cancels TTS, resets speech globals (temporary), manipulates DOM
+ */
+class Renderer {
+    constructor(state, parser, qrManager, speechCtrl, contentId, refHeaderId) {
+        this.state = state;
+        this.parser = parser;     // USFMParser static class
+        this.qrManager = qrManager;
+        this.speechCtrl = speechCtrl;   // for resetting TTS state
+        this.contentEl = document.getElementById(contentId);
+        this.refHeaderEl = document.getElementById(refHeaderId);
+    }
+
+    render(targetV) {
+        // Cancel any ongoing speech and reset TTS indices
+        window.speechSynthesis.cancel();
+        this.speechCtrl.resetState();   // sets currentVerseIdx, charIndex, isSpeaking to initial values
+        setPlayIcon('play');
+
+        const verses = this.state.fullLibrary[this.state.ch];
+        if (!verses) return;
+
+        let html = "";
+        Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
+            const rawContent = verses[v];
+            // Separate real structural headers (s*, ms*, mr, r, d, cl, mt*, is*)
+            const structMatch = rawContent.match(
+                /^((?:<div class="usfm-(?:s[123]?|ms[12]?|mr|r|d|cl|mt[123]|is[12]?)[^>]*>.*?<\/div>\s*)+)(.*)/s
+            );
+            let structuralHeader = "";
+            let verseBody = rawContent;
+            if (structMatch) {
+                structuralHeader = structMatch[1];
+                verseBody = structMatch[2];
+            }
+
+            let indentClass = "";        // e.g. "q1" if the first line should be indented
+            let blankLineBefore = "";    // a real blank line to place before the verse number
+
+            // 1. Strip leading empty <div class="usfm-(b|m|pmo|q1|q2|q3)"> and capture indent for poetry
+            verseBody = verseBody.replace(
+                /^(\s*(<div class="usfm-(b|m|pmo|q[123])"><\/div>\s*)+)/,
+                (match) => {
+                    if (match.includes('usfm-b')) {
+                        blankLineBefore = '<div class="usfm-b"></div>';
+                    }
+                    const poeticMatch = match.match(/usfm-(q[123])/g);
+                    if (poeticMatch) {
+                        indentClass = poeticMatch[poeticMatch.length - 1].replace('usfm-', '');
+                    }
+                    return ''; // remove all matched empty divs
+                }
+            );
+
+            // 2. Strip trailing empty formatting divs of the same classes
+            verseBody = verseBody.replace(
+                /(\s*(<div class="usfm-(b|m|pmo|q[123])"><\/div>\s*)+)$/,
+                ''
+            );
+
+            verseBody = this.parser.wrapWordsInSpans(verseBody);
+
+            if (!verseBody.trim() && !structuralHeader && !blankLineBefore) return;
+
+            html += `
+                <div class="verse-group">
+                    ${structuralHeader}
+                    ${blankLineBefore}
+                    <div id="v-${v}" class="verse-row tts-block" data-vnum="${v}">
+                        <span class="v-num">${v}</span>
+                        <span class="verse-text${indentClass ? ' indent-' + indentClass : ''}">${verseBody}</span>
+                    </div>
+                </div>`;
+        });
+
+        this.contentEl.innerHTML = html;
+        this.refHeaderEl.textContent = `${this.state.activeCollection[this.state.book].name} ${this.state.ch}`;
+
+        // Update QR code and persist position
+        this.qrManager.update(this.state.currentCollectionId, this.state.book, this.state.ch);
+        this.state.savePosition();
+
+        if (targetV) {
+            setTimeout(() => {
+                const el = document.getElementById(`v-${targetV}`);
+                if (el) {
+                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    el.style.backgroundColor = 'rgba(25,103,210,0.2)';
+                    setTimeout(()=>el.style.backgroundColor='transparent', 2000);
+                }
+            }, 300);
+        }
+    }
+}
+// speechController will be created later, then renderer instantiated
+
+// Helper to update play button icon (still global)
 function setPlayIcon(type) {
     const btn = document.getElementById('play-btn');
     if (btn) btn.innerHTML = ICONS[type];
 }
 
-function render(targetV) {
-    window.speechSynthesis.cancel();
-    currentVerseIdx = 0;
-    charIndex = 0;
-    isSpeaking = false;
-    setPlayIcon('play');
+// ==================== DROPDOWN MANAGER (Stage 6) ====================
+/**
+ * DropdownManager – Handles collection/book/chapter dropdowns and navigation.
+ * Input: AppState, Renderer, BibleDataLoader, DOM IDs
+ * Output: populated dropdowns, navigation actions, UI updates
+ * Side-effects: DOM manipulation, calls renderer.render()
+ */
+class DropdownManager {
+    constructor(state, renderer, bibleDataLoader) {
+        this.state = state;
+        this.renderer = renderer;
+        this.bibleDataLoader = bibleDataLoader;
+        this._initCloseListener();
+    }
 
-    const verses = state.fullLibrary[state.ch];
-    if (!verses) return;
-
-    let html = "";
-    Object.keys(verses).sort((a,b)=>a-b).forEach(v => {
-        const rawContent = verses[v];
-    
-        // Separate real structural headers (s*, ms*, mr, r, d, cl, mt*, is*)
-        const structMatch = rawContent.match(
-            /^((?:<div class="usfm-(?:s[123]?|ms[12]?|mr|r|d|cl|mt[123]|is[12]?)[^>]*>.*?<\/div>\s*)+)(.*)/s
-        );
-    
-        let structuralHeader = "";
-        let verseBody = rawContent;   // default: everything into verse text
-    
-        if (structMatch) {
-            structuralHeader = structMatch[1];
-            verseBody = structMatch[2];
+    /** Populates the collection/translation dropdown from BIBLE_INDEX */
+    populateCollectionDropdown() {
+        const idx = window.BIBLE_INDEX;
+        const list = document.querySelector('#col-dropdown .dropdown-list');
+        list.innerHTML = '';
+        
+        // Filter and sort alphabetically by name
+        const sorted = idx.collections
+            .filter(c => c.books && Object.keys(c.books).length)
+            .sort((a, b) => a.name.localeCompare(b.name));
+        
+        sorted.forEach(c => {
+            const div = document.createElement('div');
+            div.className = 'dropdown-item';
+            div.textContent = c.name;
+            div.setAttribute('role', 'option');
+            div.onclick = () => {
+                document.getElementById('col-label').textContent = c.name.substring(0, 4).toUpperCase();
+                loadCollection(c.id);
+                list.style.display = 'none';
+            };
+            list.appendChild(div);
+        });
+        
+        if (sorted.length) {
+            document.getElementById('col-label').textContent = sorted[0].name.substring(0, 4).toUpperCase();
         }
-    
-        // ---------- NEW: Clean up leading & trailing empty formatting divs ----------
-        let indentClass = "";        // e.g. "q1" if the first line should be indented
-        let blankLineBefore = "";    // a real blank line to place before the verse number
-    
-        // 1. Strip leading empty <div class="usfm-(b|m|pmo|q1|q2|q3)"> and capture indent for poetry
-        verseBody = verseBody.replace(
-            /^(\s*(<div class="usfm-(b|m|pmo|q[123])"><\/div>\s*)+)/,
-            (match) => {
-                if (match.includes('usfm-b')) {
-                    blankLineBefore = '<div class="usfm-b"></div>';
+    }
+
+    /** Populates the book dropdown based on current active collection */
+    populateBookDropdown() {
+        const list = document.querySelector('#book-dropdown .dropdown-list');
+        list.innerHTML = '';
+        Object.keys(this.state.activeCollection).forEach(code => {
+            const div = document.createElement('div');
+            div.className = 'dropdown-item';
+            div.textContent = this.state.activeCollection[code].name;
+            div.setAttribute('role', 'option');
+            div.onclick = () => {
+                this.navigateTo(code, 1);
+                list.style.display = 'none';
+            };
+            list.appendChild(div);
+        });
+    }
+
+    /** Populates the chapter dropdown for the current book */
+    populateChapterDropdown() {
+        const list = document.querySelector('#chapter-dropdown .dropdown-list');
+        list.innerHTML = '';
+        const chs = Object.keys(this.state.fullLibrary).sort((a,b) => a-b);
+        chs.forEach(c => {
+            const div = document.createElement('div');
+            div.className = 'dropdown-item';
+            div.textContent = c;
+            div.setAttribute('role', 'option');
+            div.onclick = () => {
+                this.setChapter(c);
+                list.style.display = 'none';
+            };
+            list.appendChild(div);
+        });
+    }
+
+    /** Toggle a dropdown by its ID */
+    toggleDropdown(id) {
+        const dd = document.getElementById(id);
+        const list = dd.querySelector('.dropdown-list');
+        const btn = dd.querySelector('.pill-btn');
+        const isOpen = list.style.display === 'block';
+        // Close all
+        document.querySelectorAll('.dropdown-list').forEach(l => l.style.display = 'none');
+        document.querySelectorAll('.pill-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+        if (!isOpen) {
+            list.style.display = 'block';
+            btn.setAttribute('aria-expanded', 'true');
+        }
+    }
+
+    /** Navigate to a book/chapter/verse */
+    navigateTo(code, ch, v) {
+        this.state.book = code;
+        this.state.fullLibrary = parseUSFM(this.state.activeCollection[code].usfm);
+        document.getElementById('book-label').textContent = this.state.activeCollection[code].name;
+        this.populateChapterDropdown();
+        this.setChapter(ch || 1, v);
+    }
+
+    /** Set the current chapter and optionally scroll to a verse */
+    setChapter(c, v) {
+        this.state.ch = parseInt(c);
+        document.getElementById('chapter-label').textContent = c;
+        this.renderer.render(v);
+    }
+
+    /** Step to previous/next chapter by direction */
+    stepChapter(dir) {
+        const chs = Object.keys(this.state.fullLibrary).map(Number).sort((a,b)=>a-b);
+        const idx = chs.indexOf(this.state.ch);
+        if (chs[idx + dir]) this.setChapter(chs[idx + dir]);
+    }
+
+    /** Internal listener to close any open dropdown when clicking outside */
+    _initCloseListener() {
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.custom-dropdown')) {
+                document.querySelectorAll('.dropdown-list').forEach(l => l.style.display = 'none');
+                document.querySelectorAll('.pill-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+            }
+        });
+    }
+}
+
+const dropdownManager = new DropdownManager(state, null, bibleDataLoader); // renderer not yet available
+// We'll set renderer later after speechController is created.
+
+// Replace global functions with delegates to DropdownManager
+const populateCollectionDropdown = () => dropdownManager.populateCollectionDropdown();
+const populateBookDropdown = () => dropdownManager.populateBookDropdown();
+const populateChapterDropdown = () => dropdownManager.populateChapterDropdown();
+const toggleDropdown = (id) => dropdownManager.toggleDropdown(id);
+const navigateTo = (code, ch, v) => dropdownManager.navigateTo(code, ch, v);
+const changeChapter = (c, v) => dropdownManager.setChapter(c, v);
+const stepChapter = (dir) => dropdownManager.stepChapter(dir);
+
+// ==================== SEARCH MANAGER (Stage 7) ====================
+/**
+ * SearchManager – Handles search input, results display, and navigation.
+ * Input: AppState, navigateTo function
+ * Output: populates #search-results, triggers navigation
+ * Side-effects: DOM manipulation, calls parseUSFM for full-text search
+ */
+class SearchManager {
+    constructor(state, navigateToFn) {
+        this.state = state;
+        this.navigateTo = navigateToFn;   // function to navigate
+    }
+
+    handleSearch(e) {
+        const q = e.target.value.trim().toLowerCase();
+        const resDiv = document.getElementById('search-results');
+        document.getElementById('search-clear').style.display = q ? 'block' : 'none';
+
+        // Numeric navigation shortcuts
+        if (/^\d+$/.test(q)) {
+            const targetCh = parseInt(q);
+            if (this.state.fullLibrary[targetCh]) {
+                changeChapter(targetCh);  // use global delegate
+                resDiv.style.display = 'none';
+                return;
+            }
+        }
+        if (/^(\d+):(\d+)$/.test(q)) {
+            const [, ch, vs] = q.match(/^(\d+):(\d+)$/);
+            if (this.state.fullLibrary[ch]) {
+                changeChapter(ch, vs);
+                resDiv.style.display = 'none';
+                return;
+            }
+        }
+
+        if (q.length < 2) { resDiv.style.display = 'none'; return; }
+        this.state.searchResults = [];
+        this.state.searchPage = 0;
+        this.state.currentSearchIndex = -1;
+
+        // Reference jump
+        const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
+        if (refMatch) {
+            const bQ = refMatch[1].replace(/\s/g, '');
+            const tB = Object.keys(this.state.activeCollection).find(k => k.toLowerCase().includes(bQ) || this.state.activeCollection[k].name.toLowerCase().replace(/\s/g,'').includes(bQ));
+            if (tB) this.state.searchResults.push({ code: tB, ch: refMatch[2] || 1, v: refMatch[3] || null, text: `Jump to Reference`, isJump: true });
+        }
+
+        // Full-text search across books
+        for (const code in this.state.activeCollection) {
+            const lib = parseUSFM(this.state.activeCollection[code].usfm);
+            for (const ch in lib) {
+                for (const v in lib[ch]) {
+                    const txt = lib[ch][v].replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
+                    if (txt.includes(q)) this.state.searchResults.push({ code, ch, v, text: txt });
                 }
-                const poeticMatch = match.match(/usfm-(q[123])/g);
-                if (poeticMatch) {
-                    indentClass = poeticMatch[poeticMatch.length - 1].replace('usfm-', '');
-                }
-                return ''; // remove all matched empty divs
-            }
-        );
-    
-        // 2. Strip trailing empty formatting divs of the same classes
-        verseBody = verseBody.replace(
-            /(\s*(<div class="usfm-(b|m|pmo|q[123])"><\/div>\s*)+)$/,
-            ''
-        );
-        // -------------------------------------------------------------------------
-    
-        verseBody = wrapWordsInSpans(verseBody);
-
-        if (!verseBody.trim() && !structuralHeader && !blankLineBefore) return;
-    
-        html += `
-            <div class="verse-group">
-                ${structuralHeader}
-                ${blankLineBefore}
-                <div id="v-${v}" class="verse-row tts-block" data-vnum="${v}">
-                    <span class="v-num">${v}</span>
-                    <span class="verse-text${indentClass ? ' indent-' + indentClass : ''}">${verseBody}</span>
-                </div>
-            </div>`;
-    });
-
-    document.getElementById('content').innerHTML = html;
-
-    document.getElementById('ref-header').textContent = `${state.activeCollection[state.book].name} ${state.ch}`;
-
-    updateQR();
-    if (targetV) {
-            setTimeout(() => {
-            const el = document.getElementById(`v-${targetV}`);
-            if (el) {
-                el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                el.style.backgroundColor = 'rgba(25,103,210,0.2)';
-                setTimeout(()=>el.style.backgroundColor='transparent', 2000);
-            }
-        }, 300);
-    }
-    localStorage.setItem('last_pos', JSON.stringify({
-        col: state.currentCollectionId,
-        book: state.book,
-        ch: state.ch
-    }));
-}
-
-// ==================== SEARCH ====================
-function handleSearch(e) {
-    const q = e.target.value.trim().toLowerCase();
-    const resDiv = document.getElementById('search-results');
-    document.getElementById('search-clear').style.display = q ? 'block' : 'none';
-
-    // Numeric navigation shortcuts
-    if (/^\d+$/.test(q)) {
-        const targetCh = parseInt(q);
-        if (state.fullLibrary[targetCh]) {
-            changeChapter(targetCh);
-            resDiv.style.display = 'none';
-            return;
-        }
-    }
-    if (/^(\d+):(\d+)$/.test(q)) {
-        const [, ch, vs] = q.match(/^(\d+):(\d+)$/);
-        if (state.fullLibrary[ch]) {
-            changeChapter(ch, vs);
-            resDiv.style.display = 'none';
-            return;
-        }
-    }
-
-    if (q.length < 2) { resDiv.style.display = 'none'; return; }
-    state.searchResults = [];
-    state.searchPage = 0;
-    state.currentSearchIndex = -1;
-
-    // Reference jump
-    const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
-    if (refMatch) {
-        const bQ = refMatch[1].replace(/\s/g, '');
-        const tB = Object.keys(state.activeCollection).find(k => k.toLowerCase().includes(bQ) || state.activeCollection[k].name.toLowerCase().replace(/\s/g,'').includes(bQ));
-        if (tB) state.searchResults.push({ code: tB, ch: refMatch[2] || 1, v: refMatch[3] || null, text: `Jump to Reference`, isJump: true });
-    }
-
-    for (const code in state.activeCollection) {
-        const lib = parseUSFM(state.activeCollection[code].usfm);
-        for (const ch in lib) {
-            for (const v in lib[ch]) {
-                const txt = lib[ch][v].replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
-                if (txt.includes(q)) state.searchResults.push({ code, ch, v, text: txt });
             }
         }
+        this.renderSearchResults();
     }
-    renderSearchResults();
-}
 
-function renderSearchResults() {
-    const resDiv = document.getElementById('search-results');
-    const start = state.searchPage * 100, end = start + 100;
-    const pageItems = state.searchResults.slice(start, end);
+    renderSearchResults() {
+        const resDiv = document.getElementById('search-results');
+        const start = this.state.searchPage * 100, end = start + 100;
+        const pageItems = this.state.searchResults.slice(start, end);
 
-    let html = '<div class="search-nav-buttons">';
-    html += `<button onclick="navigateSearchResult(-1)" ${state.currentSearchIndex <= 0 ? 'disabled' : ''}>◀</button>`;
-    html += `<span style="font-size:0.8rem;">${state.currentSearchIndex+1}/${state.searchResults.length}</span>`;
-    html += `<button onclick="navigateSearchResult(1)" ${state.currentSearchIndex >= state.searchResults.length-1 ? 'disabled' : ''}>▶</button>`;
-    html += '</div>';
+        let html = '<div class="search-nav-buttons">';
+        html += `<button onclick="navigateSearchResult(-1)" ${this.state.currentSearchIndex <= 0 ? 'disabled' : ''}>◀</button>`;
+        html += `<span style="font-size:0.8rem;">${this.state.currentSearchIndex+1}/${this.state.searchResults.length}</span>`;
+        html += `<button onclick="navigateSearchResult(1)" ${this.state.currentSearchIndex >= this.state.searchResults.length-1 ? 'disabled' : ''}>▶</button>`;
+        html += '</div>';
 
-    html += pageItems.map((m, idx) => `
-        <div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v || 'null'}); document.getElementById('search-results').style.display='none';"
-             data-index="${start+idx}">
-            <strong>${state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}</strong> - ${m.text.substring(0, 90)}...
-        </div>`).join('');
+        html += pageItems.map((m, idx) => {
+            const ref = `${this.state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}`;
+            return `<div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v || 'null'}); document.getElementById('search-results').style.display='none';" data-index="${start+idx}"><strong>${ref}</strong> - ${m.text.substring(0, 90)}...</div>`;
+        }).join('');
 
-    if (state.searchResults.length > end) {
-        html += `<div class="search-item" onclick="state.searchPage++; renderSearchResults();">Next 100 →</div>`;
-    }
-    resDiv.innerHTML = html;
-    resDiv.style.display = state.searchResults.length ? 'block' : 'none';
-}
-
-function navigateSearchResult(dir) {
-    const newIdx = state.currentSearchIndex + dir;
-    if (newIdx >= 0 && newIdx < state.searchResults.length) {
-        state.currentSearchIndex = newIdx;
-        const res = state.searchResults[newIdx];
-        navigateTo(res.code, res.ch, res.v);
-        renderSearchResults();
-    }
-}
-
-function clearSearch() {
-    const box = document.getElementById('search-box');
-    box.value = '';
-    document.getElementById('search-results').style.display = 'none';
-    document.getElementById('search-clear').style.display = 'none';
-    state.searchResults = [];
-    box.focus();
-}
-
-function closeSearch() {
-    document.getElementById('search-results').style.display = 'none';
-    document.getElementById('search-clear').style.display = 'none';
-    const searchBox = document.getElementById('search-box');
-    // delay to allow for tab key
-    setTimeout(() => {
-        if (document.activeElement === searchBox) {
-            searchBox.blur();
+        if (this.state.searchResults.length > end) {
+            html += `<div class="search-item" onclick="this.state.searchPage++; this.renderSearchResults();">Next 100 →</div>`;
         }
-    }, 0);
+        resDiv.innerHTML = html;
+        resDiv.style.display = this.state.searchResults.length ? 'block' : 'none';
+    }
+
+    navigateSearchResult(dir) {
+        const newIdx = this.state.currentSearchIndex + dir;
+        if (newIdx >= 0 && newIdx < this.state.searchResults.length) {
+            this.state.currentSearchIndex = newIdx;
+            const res = this.state.searchResults[newIdx];
+            this.navigateTo(res.code, res.ch, res.v);
+            this.renderSearchResults();
+        }
+    }
+
+    clearSearch() {
+        const box = document.getElementById('search-box');
+        box.value = '';
+        document.getElementById('search-results').style.display = 'none';
+        document.getElementById('search-clear').style.display = 'none';
+        this.state.searchResults = [];
+        box.focus();
+    }
+
+    closeSearch() {
+        document.getElementById('search-results').style.display = 'none';
+        document.getElementById('search-clear').style.display = 'none';
+        const searchBox = document.getElementById('search-box');
+        setTimeout(() => { if (document.activeElement === searchBox) searchBox.blur(); }, 0);
+    }
 }
 
-// ==================== VOICE SIDEBAR ====================
-function openVoiceSidebar() {
-    const overlay = document.getElementById('voice-sidebar-overlay');
-    overlay.style.display = 'flex';
-    populateVoiceList();
-}
+const searchManager = new SearchManager(state, navigateTo); // navigateTo is the global delegate
 
-function closeVoiceSidebar(e) {
-    if (e && e.target !== document.getElementById('voice-sidebar-overlay')) return;
-    document.getElementById('voice-sidebar-overlay').style.display = 'none';
-}
+// Override global search functions with delegates
+const handleSearch = (e) => searchManager.handleSearch(e);
+const renderSearchResults = () => searchManager.renderSearchResults();
+const navigateSearchResult = (dir) => searchManager.navigateSearchResult(dir);
+const clearSearch = () => searchManager.clearSearch();
+const closeSearch = () => searchManager.closeSearch();
 
-function populateVoiceList() {
-    const synth = window.speechSynthesis;
-    const voices = synth.getVoices().filter(v => v.lang.startsWith('en'));
-    const uniqueVoices = Array.from(new Map(voices.map(v => [v.name, v])).values());
-    const container = document.getElementById('voice-list');
-    container.innerHTML = uniqueVoices.map(v => {
-        const sel = selectedVoice && selectedVoice.name === v.name ? 'selected' : '';
-        return `<button class="voice-option ${sel}" onclick="selectVoice('${v.name}')">${v.name}${v.default ? ' (System)' : ''}</button>`;
-    }).join('');
-}
+// ==================== SPEECH CONTROLLER (Stage 8 – class encapsulation) ====================
+/**
+ * SpeechController – Manages text-to-speech playback with verse-by-verse navigation.
+ * Input: none (reads DOM .tts-block elements, window.speechSynthesis)
+ * Output: DOM word/verse highlights, play button icon updates
+ * Side-effects: window.speechSynthesis, DOM manipulation, localStorage for voice pref
+ */
+class SpeechController {
+    constructor() {
+        // ------------------------------------------------------------------------
+        // Internal flags (unique to this controller)
+        // ------------------------------------------------------------------------
+        this._speakingInProgress = false;
+        this._restartTimer = null;
+        this._restartPending = false;
 
-function selectVoice(name) {
-    speechControl.updateVoice(name);
-    closeVoiceSidebar();
-}
+        // ------------------------------------------------------------------------
+        // TTS state (previously global)
+        // ------------------------------------------------------------------------
+        this.currentVerseIdx = 0;
+        this.charIndex = 0;
+        this.isSpeaking = false;
+        this.selectedVoice = null;
+        this.voicesLoaded = false;
 
-// ==================== TTS CONTROLLER ====================
-// (All existing speechControl code, unchanged, but we update the play button SVG toggling)
-const speechControl = {
-    // ------------------------------------------------------------------------
-    // Internal flags (unique to this controller)
-    // ------------------------------------------------------------------------
-    _speakingInProgress: false,
-    _restartTimer: null,
-    _restartPending: false,
+        // Voice initialisation
+        this._initVoices();
+    }
 
     // ------------------------------------------------------------------------
     // DOM Helpers (encapsulated but still using global document)
     // ------------------------------------------------------------------------
-    _getBlocks: function() {
+    _getBlocks() {
         return document.querySelectorAll('.tts-block');
-    },
-    _getCurrentBlock: function() {
-        return this._getBlocks()[currentVerseIdx];
-    },
-    _getVerseNumber: function(block) {
+    }
+    _getCurrentBlock() {
+        return this._getBlocks()[this.currentVerseIdx];
+    }
+    _getVerseNumber(block) {
         return block ? block.getAttribute('data-vnum') : null;
-    },
-    _getCleanVerseText: function(block) {
+    }
+    _getCleanVerseText(block) {
         if (!block) return '';
         const clone = block.querySelector('.verse-text').cloneNode(true);
         clone.querySelectorAll('.strong-pill, .fn-chip').forEach(el => el.remove());
         return clone.innerText.trim() + '.';
-    },
-    _clearHighlights: function() {
+    }
+    _clearHighlights() {
         document.querySelectorAll('.speaking-active').forEach(el => el.classList.remove('speaking-active'));
-    },
-    _highlightVerse: function(verseNum) {
+    }
+    _highlightVerse(verseNum) {
         // Remove verse glow from all
         document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
         // Remove word highlight (already done by _clearHighlights)
@@ -1154,26 +1320,26 @@ const speechControl = {
             el.classList.add('verse-speaking');
             el.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
-    },
+    }
 
     // ------------------------------------------------------------------------
     // Text Navigation Helpers (exact same logic as original)
     // ------------------------------------------------------------------------
-    _getResumePosition: function(fullText) {
-        let safeStart = Math.max(0, charIndex - 15);
+    _getResumePosition(fullText) {
+        let safeStart = Math.max(0, this.charIndex - 15);
         const spaceIndex = fullText.indexOf(' ', safeStart);
-        if (spaceIndex !== -1 && spaceIndex < charIndex) {
+        if (spaceIndex !== -1 && spaceIndex < this.charIndex) {
             return spaceIndex + 1;
-        } else if (charIndex < 15) {
+        } else if (this.charIndex < 15) {
             return 0;
         }
-        return charIndex;
-    },
+        return this.charIndex;
+    }
 
     // ------------------------------------------------------------------------
     // Core Speech: speakFrom (exact original logic, but with guard)
     // ------------------------------------------------------------------------
-    speakFrom: function(vIdx, startChar = 0) {
+    speakFrom(vIdx, startChar = 0) {
         // Guard against re‑entry
         if (this._speakingInProgress) {
             console.warn("speakFrom already in progress, skipping");
@@ -1197,28 +1363,28 @@ const speechControl = {
 
         // Highlight and UI
         this._highlightVerse(vNum);
-        isSpeaking = true;
+        this.isSpeaking = true;
         setPlayIcon('pause');
 
         // Utterance
         const utterance = new SpeechSynthesisUtterance(textToSpeak);
-        if (selectedVoice) utterance.voice = selectedVoice;
+        if (this.selectedVoice) utterance.voice = this.selectedVoice;
         utterance.rate = 0.94;
 
         utterance.onboundary = (event) => {
             if (event.name === 'word') {
-                charIndex = startChar + event.charIndex;
-                syncHighlight(charIndex);
+                this.charIndex = startChar + event.charIndex;
+                this._syncHighlight(this.charIndex);
             }
         };
 
         utterance.onend = () => {
             this._speakingInProgress = false;
-            if (isSpeaking) {
+            if (this.isSpeaking) {
                 // Move to next verse
-                currentVerseIdx++;
-                charIndex = 0;
-                this.speakFrom(currentVerseIdx, 0);
+                this.currentVerseIdx++;
+                this.charIndex = 0;
+                this.speakFrom(this.currentVerseIdx, 0);
             }
         };
 
@@ -1227,8 +1393,8 @@ const speechControl = {
             this._speakingInProgress = false;
             // Only reset charIndex on real errors, not on intentional interrupts
             if (err.error !== 'interrupted') {
-                isSpeaking = false;
-                charIndex = 0;
+                this.isSpeaking = false;
+                this.charIndex = 0;
                 this._clearHighlights();
                 document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
 
@@ -1240,38 +1406,72 @@ const speechControl = {
         setTimeout(() => {
             synth.speak(utterance);
         }, 50);
-    },
+    }
 
     // ------------------------------------------------------------------------
-    // Public API: play (toggle pause/resume)
+    // Word-level highlighting synchronisation
     // ------------------------------------------------------------------------
-    play: function() {
-        const synth = window.speechSynthesis;
-
-        if (isSpeaking) {
-            // Pause
-            isSpeaking = false;
-            this._speakingInProgress = false;
-            synth.cancel();
-            setPlayIcon('play');
-            return;
+    _syncHighlight(index) {
+        const verseEl = document.querySelector('.verse-row.verse-speaking');
+        if (!verseEl) return;
+        const words = verseEl.querySelectorAll('.tts-word');
+        document.querySelectorAll('.speaking-active').forEach(el => el.classList.remove('speaking-active'));
+        if (index === 0 || words.length === 0) return;
+        let cumulative = 0;
+        for (let i = 0; i < words.length; i++) {
+            const wordLen = words[i].innerText.length;
+            if (index >= cumulative && index < cumulative + wordLen + 1) {
+                words[i].classList.add('speaking-active');
+                const rect = words[i].getBoundingClientRect();
+                if (rect.top < 0 || rect.bottom > window.innerHeight) {
+                    words[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+                break;
+            }
+            cumulative += wordLen + 1;
         }
+    }
 
-        // Resume
-        const currentBlock = this._getCurrentBlock();
-        if (!currentBlock) return;
+    // ------------------------------------------------------------------------
+    // Public API: play (toggle pause/resume) – now with error boundary
+    // ------------------------------------------------------------------------
+    play() {
+        try {
+            const synth = window.speechSynthesis;
 
-        const fullText = this._getCleanVerseText(currentBlock);
-        const newCharIndex = this._getResumePosition(fullText);
-        // Update global charIndex (original also modified it)
-        charIndex = newCharIndex;
-        this.speakFrom(currentVerseIdx, charIndex);
-    },
+            if (this.isSpeaking) {
+                // Pause
+                this.isSpeaking = false;
+                this._speakingInProgress = false;
+                synth.cancel();
+                setPlayIcon('play');
+                return;
+            }
+
+            // Resume
+            const currentBlock = this._getCurrentBlock();
+            if (!currentBlock) return;
+
+            const fullText = this._getCleanVerseText(currentBlock);
+            const newCharIndex = this._getResumePosition(fullText);
+            this.charIndex = newCharIndex;
+            this.speakFrom(this.currentVerseIdx, this.charIndex);
+        } catch (error) {
+            console.error("SpeechController.play() error:", error);
+            // Reset UI to safe state
+            this.isSpeaking = false;
+            this._speakingInProgress = false;
+            window.speechSynthesis.cancel();
+            setPlayIcon('play');
+            this._clearHighlights();
+            document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
+        }
+    }
 
     // ------------------------------------------------------------------------
     // Public API: restart (reset to beginning)
     // ------------------------------------------------------------------------
-    restart: function() {
+    restart() {
         if (this._restartPending) return;
         this._restartPending = true;
 
@@ -1281,9 +1481,9 @@ const speechControl = {
 
         // Reset all flags and global state
         this._speakingInProgress = false;
-        isSpeaking = false;
-        currentVerseIdx = 0;
-        charIndex = 0;
+        this.isSpeaking = false;
+        this.currentVerseIdx = 0;
+        this.charIndex = 0;
 
         this._clearHighlights();
         setPlayIcon('pause');
@@ -1293,163 +1493,207 @@ const speechControl = {
             this._restartPending = false;
             this._restartTimer = null;
         }, 100);
-    },
+    }
 
     // ------------------------------------------------------------------------
     // Public API: updateVoice (change voice mid‑speech)
     // ------------------------------------------------------------------------
-    updateVoice: function(voiceName) {
+    updateVoice(voiceName) {
         const voices = window.speechSynthesis.getVoices();
         const found = voices.find(v => v.name === voiceName);
         if (found) {
-            selectedVoice = found;
+            this.selectedVoice = found;
             localStorage.setItem('tts_voice_pref', voiceName);
-            if (isSpeaking) {
-                this.speakFrom(currentVerseIdx, charIndex);
+            if (this.isSpeaking) {
+                this.speakFrom(this.currentVerseIdx, this.charIndex);
             }
         }
-    },
+    }
 
     // ------------------------------------------------------------------------
     // Public API: handleEnd (called when no more verses)
     // ------------------------------------------------------------------------
-    handleEnd: function() {
-        isSpeaking = false;
+    handleEnd() {
+        this.isSpeaking = false;
         this._speakingInProgress = false;
-        currentVerseIdx = 0;
-        charIndex = 0;
+        this.currentVerseIdx = 0;
+        this.charIndex = 0;
         this._clearHighlights();
         document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
         setPlayIcon('play');
-    },
+    }
 
     // ------------------------------------------------------------------------
     // Public API: cleanup (just removes highlights)
     // ------------------------------------------------------------------------
-    cleanup: function() {
+    cleanup() {
         this._clearHighlights();
     }
-};
 
-let selectedVoice = null;
-let voicesLoaded = false;
-let currentVerseIdx = 0;
-let charIndex = 0;
-let isSpeaking = false;
-
-function toggleVoiceMenu() {
-    const picker = document.getElementById('voice-picker');
-    picker.style.display = (picker.style.display === 'none') ? 'inline-block' : 'none';
-}
-
-function initVoices() {
-    const synth = window.speechSynthesis;
-    let voices = synth.getVoices();
-
-    if (voices.length === 0) {
-        setTimeout(initVoices, 100);
-        return;
-    }
-
-    const picker = document.getElementById('voice-picker');
-    if (!picker) return;
-
-    const englishVoices = voices.filter(v => v.lang.startsWith('en'));
-    const uniqueVoices = Array.from(new Map(englishVoices.map(v => [v.name, v])).values());
-
-    picker.innerHTML = uniqueVoices.map(v => {
-        const isDefault = v.default ? " (System)" : "";
-        return `<option value="${v.name}">${v.name}${isDefault}</option>`;
-    }).join('');
-
-    const savedVoiceName = localStorage.getItem('tts_voice_pref');
-    if (savedVoiceName) {
-        selectedVoice = uniqueVoices.find(v => v.name === savedVoiceName);
-    }
-
-    if (!selectedVoice) {
-        selectedVoice = uniqueVoices.find(v => v.default) || uniqueVoices[0];
-    }
-
-    if (selectedVoice) {
-        picker.value = selectedVoice.name;
-        voicesLoaded = true;
-    }
-}
-
-window.speechSynthesis.onvoiceschanged = initVoices;
-initVoices();
-
-const originalChangeChapter = changeChapter;
-changeChapter = function(c, v) {
-    window.speechSynthesis.cancel();
-    document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
-    speechControl._clearHighlights();
-    currentVerseIdx = 0;
-    charIndex = 0; 
-    isSpeaking = false;
-    setPlayIcon('play');
-    originalChangeChapter(c, v);
-};
-
-function syncHighlight(index) {
-    const verseEl = document.querySelector('.verse-row.verse-speaking');
-    if (!verseEl) return;
-    const words = verseEl.querySelectorAll('.tts-word');
-    document.querySelectorAll('.speaking-active').forEach(el => el.classList.remove('speaking-active'));
-    if (index === 0 || words.length === 0) return;
-    let cumulative = 0;
-    for (let i = 0; i < words.length; i++) {
-        const wordLen = words[i].innerText.length;
-        if (index >= cumulative && index < cumulative + wordLen + 1) {
-            words[i].classList.add('speaking-active');
-            const rect = words[i].getBoundingClientRect();
-            if (rect.top < 0 || rect.bottom > window.innerHeight) {
-                words[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-            break;
-        }
-        cumulative += wordLen + 1;
-    }
-}
-
-// Override play to toggle icon
-const origPlay = speechControl.play;
-speechControl.play = function() {
-    if (isSpeaking) {
-        origPlay.call(this);
+    // ------------------------------------------------------------------------
+    // Reset state (called by Renderer before new chapter)
+    // ------------------------------------------------------------------------
+    resetState() {
+        window.speechSynthesis.cancel();
+        document.querySelectorAll('.verse-speaking').forEach(el => el.classList.remove('verse-speaking'));
+        this._clearHighlights();
+        this.currentVerseIdx = 0;
+        this.charIndex = 0;
+        this.isSpeaking = false;
         setPlayIcon('play');
-    } else {
-        origPlay.call(this);
-        setPlayIcon('pause');
     }
+
+    // ------------------------------------------------------------------------
+    // Voice initialisation (previously standalone initVoices)
+    // ------------------------------------------------------------------------
+    _initVoices() {
+        const loadVoices = () => {
+            const synth = window.speechSynthesis;
+            let voices = synth.getVoices();
+
+            if (voices.length === 0) {
+                setTimeout(loadVoices, 100);
+                return;
+            }
+
+            const englishVoices = voices.filter(v => v.lang.startsWith('en'));
+            const uniqueVoices = Array.from(new Map(englishVoices.map(v => [v.name, v])).values());
+
+            const savedVoiceName = localStorage.getItem('tts_voice_pref');
+            if (savedVoiceName) {
+                this.selectedVoice = uniqueVoices.find(v => v.name === savedVoiceName);
+            }
+
+            if (!this.selectedVoice) {
+                this.selectedVoice = uniqueVoices.find(v => v.default) || uniqueVoices[0];
+            }
+
+            this.voicesLoaded = true;
+        };
+
+        window.speechSynthesis.onvoiceschanged = loadVoices;
+        loadVoices();
+    }
+}
+
+// Instantiate SpeechController
+const speechController = new SpeechController();
+
+// Now we can update the renderer with the speechController instance
+dropdownManager.renderer = new Renderer(state, USFMParser, qrManager, speechController, 'content', 'ref-header');
+// Update the global render alias
+const render = (targetV) => dropdownManager.renderer.render(targetV);
+
+// Voice sidebar now receives the real speechController
+const voiceSidebar = new VoiceSidebar('voice-sidebar-overlay', 'voice-sidebar', 'voice-list', speechController);
+const openVoiceSidebar = () => voiceSidebar.open();
+const closeVoiceSidebar = (event) => voiceSidebar.close(event);
+const selectVoice = (name) => voiceSidebar.selectVoice(name);
+
+// Update the monkey-patch on changeChapter: we need to use speechController.resetState() now
+const originalSetChapter = dropdownManager.setChapter.bind(dropdownManager);
+dropdownManager.setChapter = function(c, v) {
+    speechController.resetState();   // clear highlights, cancel speech, reset indices
+    originalSetChapter(c, v);
 };
+// The global changeChapter already delegates to dropdownManager.setChapter, so the monkey-patch is automatically applied.
 
-// ==================== UTILITY ====================
-function updateQR() {
-    const container = document.getElementById('qrcode');
-    const url = new URL(window.location);
-    url.searchParams.set('col', state.currentCollectionId);
-    url.searchParams.set('book', state.book);
-    url.searchParams.set('ch', state.ch);
-    window.history.replaceState(null, '', url);
-    if (container && typeof QRCode !== 'undefined') {
-        container.innerHTML = "";
-        new QRCode(container, { text: url.href, width: 80, height: 80 });
+// ==================== APP (Stage 9 – Orchestrator) ====================
+/**
+ * App – Application orchestrator.
+ * Wires all modules together and handles initialisation.
+ */
+class App {
+    constructor() {
+        this.state = state;
+        this.init();
+    }
+
+    async init() {
+        await initDB();
+        this.state.loadPersisted();
+
+        const idx = window.BIBLE_INDEX;
+        if (idx) {
+            populateCollectionDropdown();
+        }
+
+        const params = new URLSearchParams(window.location.search);
+        const last = JSON.parse(localStorage.getItem('last_pos')) || {};
+        const targetCol = params.get('col') || last.col || (idx ? idx.collections[0].id : null);
+
+        document.body.classList.toggle('strongs-hidden', !this.state.showStrongs);
+        document.getElementById('strong-toggle').classList.toggle('active', this.state.showStrongs);
+
+        // Search box listeners
+        const searchBox = document.getElementById('search-box');
+        searchBox.addEventListener('focus', () => {
+            if (searchBox.value.trim().length >= 2 && this.state.searchResults.length > 0) {
+                document.getElementById('search-results').style.display = 'block';
+            }
+            document.getElementById('search-clear').style.display = searchBox.value ? 'block' : 'none';
+        });
+        searchBox.addEventListener('blur', () => {
+            setTimeout(() => {
+                if (document.activeElement !== searchBox) {
+                    document.getElementById('search-results').style.display = 'none';
+                }
+            }, 100);
+        });
+        document.addEventListener('click', (e) => {
+            const res = document.getElementById('search-results');
+            const box = document.getElementById('search-box');
+            if (!box.contains(e.target) && !res.contains(e.target)) {
+                res.style.display = 'none';
+            }
+        });
+
+        // Global keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeNote();
+                closeSearch();
+                closeVoiceSidebar();
+            }
+            if ((e.key === '/' || e.key === '?') && !e.target.matches('input,textarea')) {
+                e.preventDefault();
+                searchBox.focus();
+                searchBox.select();
+            }
+        });
+
+        if (targetCol) {
+            await loadCollection(targetCol);
+            if (params.get('book')) {
+                navigateTo(params.get('book'), params.get('ch') || 1, params.get('v'));
+            } else if (params.get('q')) {
+                searchBox.value = params.get('q');
+                handleSearch({ target: { value: params.get('q') } });
+            }
+        } else if (idx) {
+            // Load first collection by default
+            await loadCollection(idx.collections[0].id);
+        }
     }
 }
 
-function stepChapter(dir) {
-    const chs = Object.keys(state.fullLibrary).map(Number).sort((a,b)=>a-b);
-    const idx = chs.indexOf(state.ch);
-    if (chs[idx + dir]) changeChapter(chs[idx + dir]);
+// Boot the application
+window.onload = () => { new App(); };
+
+// ==================== SERVICE WORKER (Stage 10 – offline caching) ====================
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js').catch(() => {
+            // Service worker registration failed – app still works online
+        });
+    });
 }
 
+// ==================== UTILITY (still global for inline onclick handlers) ====================
 function toggleStrongs() {
-    state.showStrongs = !state.showStrongs;
-    document.body.classList.toggle('strongs-hidden', !state.showStrongs);
-    document.getElementById('strong-toggle').classList.toggle('active', state.showStrongs);
-    localStorage.setItem('show_strongs', state.showStrongs);
+    const newVal = state.toggleStrongs();
+    document.body.classList.toggle('strongs-hidden', !newVal);
+    document.getElementById('strong-toggle').classList.toggle('active', newVal);
 }
 
 function pickRandom() {
@@ -1461,24 +1705,6 @@ function pickRandom() {
     const vs = Object.keys(lib[ch]);
     const v = vs[Math.floor(Math.random() * vs.length)];
     navigateTo(code, ch, v);
-}
-
-// ==================== NOTE HANDLING ====================
-function handleNote(e, t, type) {
-    if (type === 'click') state.notePinned = true;
-    if (type === 'out' && state.notePinned) return;
-    if (t) {
-        document.getElementById('note-content').innerText = t;
-        document.getElementById('bottom-bar').classList.add('is-note');
-        document.getElementById('note-display').style.display = 'flex';
-        document.getElementById('standard-controls').style.display = 'none';
-    } else { closeNote(); }
-}
-function closeNote() {
-    state.notePinned = false;
-    document.getElementById('bottom-bar').classList.remove('is-note');
-    document.getElementById('note-display').style.display = 'none';
-    document.getElementById('standard-controls').style.display = 'flex';
 }
 </script>
 </body>
