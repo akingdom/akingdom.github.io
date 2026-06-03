@@ -1316,9 +1316,9 @@ The Queen countered smoothly, turning her head. ‘And a sword is only as strong
 
 She watched his jaw relax. He liked the map she was drawing.
 
-Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a quiet, scholarly figure, his fingers stained with the permanent grey of ink, the second most powerful man in England and keeper of the realm’s cold reality.
+Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a force of precise, restless motion; his hands clenching tight to arrest the trembling of sheer, ceaseless labor of his grey, ink-stained fingers. As the second most powerful man in England, his chaotic brilliance was bound in iron discipline, anchoring the realm to his cold, unyielding accounts.
 
-‘My lord the king,‘ Roger said, his voice precise, ‘It is well met, for I would speak of a son, not in terms of silver and swords, but rather I would speak of souls and of welfare.‘
+‘My lord the king,‘ Roger said, his voice urgent, ‘It is well met, for I would speak of a son, not in terms of silver and swords, but rather I would speak of souls and of welfare.‘
 
 Henry turned, his eyes wary.
 
