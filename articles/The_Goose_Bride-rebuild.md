@@ -783,9 +783,9 @@ The farm woman was there, by the poultry shed. She looked up, saw Beatrice’s f
 
 The apple trees in the orchard over there were still blooming, white petals drifting shamelessly on the wind. They seemed to be all dressed up for a celebration that she wasn’t a part of, and Beatrice hated them for their indifference. She would gladly have stripped every twig bare of its fine frills, if stripping trees could have brought her mother back. But the wind merely danced across the river, and all she could hear was the wordless song of the river among the rushes.
 
-Beatrice stood there for a long time, watching the geese on the far bank as they ignored her completely. She wondered how geese felt about their mothers.
+Beatrice stood there for a long time, watching the geese on the far bank as they ignored her completely. 
 
-Goosie pressed against her leg.
+Goosie pressed against her leg and Beatrice wondered how geese felt about their mothers.
 
 ---
 
@@ -940,7 +940,7 @@ Beatrice was already on her feet. ‘I’ll come.’
 
 At the reeve’s cottage, his wife sent him straight back out into the yard.
 
-‘Illness respects no one, husband, and you’ll only be in our way, head of the village or not,’ she said, and pulled the curtain across the bed.
+‘Illness respects no one, husband, and you’ll only be in our way, head of the village or not,’ she said, and shooed him away.
 
 The girl had sickened with a fever that refused to break. Beatrice knelt beside the pallet and laid the back of her hand against the child’s forehead. The skin was dry and hot, the pulse rapid beneath her fingers. She remembered her mother’s hands: the way they could find the beat of a life in a wrist, the way they knew which herbs to steep and which to burn. She had watched those hands a hundred times. she had never needed them the way she needed them now.
 
@@ -964,15 +964,15 @@ He was giving her his eyes, she realised. He was teaching her how to see the peo
 
 ### Not for Stanwey
 
-‘The thegn of Thornbury was speaking to me of his son,’ Harold said one evening, stirring the coals. ‘I met the boy, Edmund.’ He said it as *Ædmond*. ‘He saw you at the autumn fair.’
+‘The thegn of Thornbury was speaking to me of his son,’ Harold said one evening, stirring the coals. ‘You may remember the boy, Edmund.’ He said it as *Ædmond*. ‘He saw you at the autumn fair.’
 
-Beatrice’s hands paused on the dough. ‘Has he?’
+Beatrice’s hands paused on the dough. ‘Did he?’
 
 ‘He asked after you.’ Harold’s voice was careful. ‘He is a solid young man. His father’s lands border ours to the south. It would be a good alliance.’
 
 The bread dough was smooth under her palms, but her thoughts were not.
 
-‘You need not decide anything,’ Harold added hastily, noting her silence. ‘I only thought it would be well to have neighbours who are friends.’
+‘You need not decide anything,’ Harold added hastily, noting her frown. ‘I only thought it would be well to have neighbours who are friends.’
 
 Beatrice nodded. ‘I’ll think on it.’ But her thoughts were for her father. *However would he survive in his frail state once she married?*
 
@@ -980,7 +980,7 @@ She thought about Edmund of Thornbury, a rowdy but pleasant young man with callo
 
 She said nothing until Harold raised the matter of Edmund a week later.
 
-‘Not for Stanwey,’ she replied softly, and Harold did not mention Edmund again.
+‘Not for Stanwey, Father’ she replied softly, and Harold did not mention Edmund again.
 
 From time to time he would mention others.
 
@@ -1066,17 +1066,17 @@ She was halfway up the track when she saw Sir Guy, standing with the nurse by th
 
 ‘That old man is either stubborn or just plain senile.’ His voice was low, impatient. ‘The estate will escheat to the crown within five years. The king’s justices will see it.’
 
-He scoffed. ‘Since when can a daughter hold thegn’s land without a husband? Every loose tongue shares how she has refused every man her father has ever brought. She is insolent, foolish, or both. But the land is good. The wool from the southern fields alone is worth—’
+He scoffed. ‘Since when can a daughter hold thegn’s land without a husband? Every loose tongue shares that she has refused every man her father has ever brought. She is insolent, foolish, or both. But the land is good. The wool from the southern fields alone is worth—’
 
-The knight’s horse bolted, and shot past them at a gallop, heading for the river crossing. 
+Sudden hoofbeats sounded and the knight’s horse shot past them at a gallop, heading for the river crossing. 
 
-Sir Guy’s smooth voice turned into a yell with such un‑knightly words as would make a pig blush. He took off after his mount, scattering the geese, as though chased by a swarm of bees.
+Sir Guy’s voice was no longer smooth, but yelled such un‑knightly words as would make a pig blush. He took off after his mount, scattering the geese, as though chased by a swarm of bees.
 
 Far behind him, the nurse doubled over in a fit of laughter, slapping her leg at the comedy of the scene. By the time Beatrice reached her, however, there was barely a smile on her face, only a twinkle in her eye told of her good mood.
 
 ‘It seems that someone let Sir Guy’s horse loose. Fancy that. Fresh eggs again?’
 
-Then she saw Beatrice’s trembling hands. She patted her arm. ‘There, there. Come in for a hot posset.’
+Then she noticed Beatrice’s trembling hands. She patted her arm. ‘There, there. Come in for a hot posset, dear.’
 
 She guided Beatrice into the shadows of the cottage, towards the low roar of the hearth. The room smelt of ancient peat‑smoke and the sharp tang of drying mugwort, but as the woman stirred the pot, the heavy, golden scent of honey rose to meet them. Soon a steaming wooden mazer was pressed into Beatrice’s palms. The posset was spiced and thick with honey and the bitter, earthy scent of valerian root, its warmth seeping through the maple wood to still the shaking in her fingers.
 
