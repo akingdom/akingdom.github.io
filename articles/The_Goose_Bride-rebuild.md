@@ -427,7 +427,7 @@ Her mother blinked. ‘A door?’
 
 ‘A tiny door, inside the bread.’
 
-Her mother laughed, a real laugh, and Beatrice felt it open something warm in her chest. ‘You certainly listen with different ears than I do.’ She set the loaf on the bench. ‘Now, let us see how it tastes.’
+Her mother laughed heartily, and Beatrice felt it open something warm in her chest. ‘You certainly listen with different ears than I do.’ She set the loaf on the bench. ‘Now, let us see how it tastes.’
 
 And when the loaf had cooled enough to tear open, Aldwina watched her daughter take the first bite.
 
@@ -543,21 +543,9 @@ A long moment passed. Then, quieter: ‘I almost gave him the foxglove.’
 
 Beatrice sighed. ‘But how did you know that it was not his heart failing? That the foxglove would be wrong to give him.’
 
-Aldwina did not answer at once, but wiped the last of the hawthorn leaves from the knife and set it aside. ‘Well, think of it this way: a heart can race for many reasons,’ she said, her words measured out with care. ‘Fear, exhaustion, a fever, or a flaw in the heart itself. The trick is to read the whole man, not the single sign.’ 
+Aldwina did not answer at once, but wiped the last of the hawthorn leaves from the knife and set it aside. 
 
-She sat and took firm hold of Beatrice’s hands. ‘His hands were cold. You felt them when you brought the blanket. Cold hands with a racing heart, that is like a frightened animal pulling back from a flame. His heart was not sick, but answering a command.’
-
-‘What command?’
-
-‘He had worked too long in the heat, so his body believed it was in danger. His racing heart was not the illness, but the cure.’ She paused. ‘Foxglove would have silenced it.’
-
-Beatrice was entirely silent as she looked at her own hands, remembering the feel of the tremor, the jar in her fingers.
-
-‘So his cold hands told you,’ she said uncertainly.
-
-Aldwina looked at Beatrice for a long and decisive moment.
-
-‘Beatrice, when we bake bread, how did you know the bread was ready?’
+‘Beatrice, how do you know when the bread is ready when we bake it?’
 
 ‘By the hollow thump?’
 
@@ -565,13 +553,29 @@ Aldwina looked at Beatrice for a long and decisive moment.
 
 She took Beatrice’s hand. ‘I have sat with the dying. I have washed the dead. I have heard the sound of a soul that is preparing to leave, and I have heard the sound of a soul that is afraid. They are different sounds.’
 
+‘Likewise, a heart can race for many reasons,’ she said, her words measured out with care. ‘Fear, exhaustion, a fever, or a flaw in the heart itself. The secret is to read the whole man, not the single sign.’ 
+
+She sat and took firm hold of Beatrice’s hands. ‘His hands were cold. You felt them when you brought the blanket.‘
+
+Beatrice was entirely silent as she looked at her own hands, remembering the cold feel of the tremor.
+
+‘So his cold hands told you,’ she said, still uncertain.
+
+Aldwina looked at Beatrice for a long and decisive moment. ’Cold hands with a racing heart, that is like a frightened animal pulling back from a flame. His heart was not sick, but answering a call.’
+
+‘What do you mean?’
+
+‘He had worked too long in the heat, so his body believed it was in danger. His racing heart was not the illness, but the cure.’ She paused. ‘Foxglove would have silenced it.’
+
 Her mother’s gaze drifted beyond the window. 
 
-‘I remember when my mother was dying, she was not afraid. She held my hand, and whispered this to me, “I have asked My Lord to remember me, and that is enough.” That was all she said, then she closed her eyes and was gone.’ Aldwina turned to Beatrice. ‘I have held that thought firm all my life.’
+‘I remember the sound of my mother dying, that she was not afraid. She held my hand, and whispered this to me, “I have asked My Lord to remember me, and that is enough.”’
+
+Aldwina rose from her stool, and seemed unsteady for a moment. ‘That was all she said, then she closed her eyes and was gone.’ 
 
 ‘But will I remember you, Mother?’
 
-Aldwina rose from her stool, and seemed unsteady for a moment. She squeezed Beatrice’s hand and smiled.
+Mother squeezed Beatrice’s hand and smiled.
 
 ‘Father Edwin says that when our Lord rose from the dead, his own disciples did not know him at first. They walked with him on the road and ate with him at table and still they did not understand who he was. And then, suddenly, they recognised him. They saw the man they had loved, the teacher they had followed, the friend they had buried. Not a ghost, not a stranger, but *him*.’ 
 
@@ -625,9 +629,9 @@ A sharp hesitation caught the girl's tongue. She scratched at her forehead, leav
 
 ### A whispered argument
 
-At the bedchamber, Beatrice could hear her parents talking, almost arguing in whispers. She couldn’t make out what they were speaking about. Goosie arrived and honked beside her and immediately the whispering stopped and her father came out.
+At the bedchamber, Beatrice could hear her parents talking, almost arguing in whispers. She couldn’t make out what they were speaking about. Goosie arrived and honked beside her and immediately the whispering stopped. Her father came out a few moments later.
 
-Harold studied her with a worried, preoccupied expression on his face. He opened his mouth as if to speak, then closed it again. For a moment he stood quite still, looking at her as if he were trying to memorise her face. Then he left without a word.
+Harold studied her with a worried, preoccupied expression on his face. He opened his mouth as if to speak, then closed it again. For a moment he stood quite still, looking at her as if he were trying to fix in his mind how she looked at that moment. Then he left without a word.
 
 Beatrice stuck her head through the curtain and saw her mother lying there, thin and pale. Mother looked up with a smile and gestured to her to come over. So Beatrice went in and knelt on the rushes beside the bed.
 
@@ -637,7 +641,7 @@ Her mother did not seem angry, but exhausted.
 
 ‘Only tired, dear.’
 
-Beatrice hesitated. ‘What were you and Father speaking of? He looked—’ She struggled to discern her memory of her father’s face. 'He almost looked afraid.'
+Beatrice hesitated, not sure whether to ask about their whispering. 'Were you and Father quarrelling?' She hesitated, struggling to discern the look from her father’s face. 'He looked almost afraid.'
 
 Aldwina was silent for a moment. ‘There are some things that even a brave man struggles with,’ she said at last. ‘You must be patient with him, Bea. Your father is doing as best as he knows how.’ She drew a long noisy breath and sighed. ‘It is not easy for him.’
 
@@ -665,15 +669,15 @@ Beatrice held onto that promise. But the next day found her mother still in bed.
 
 On the fourth morning, Aldwina was finally up.
 
-Beatrice noticed her at the edge of the yard, fully dressed and staring out across the river toward the farm. The morning sun caught the stray grey strands in her mother's hair. Beatrice's heart lifted in that moment, sharp relief, the past few days of worry vanishing at the sight. *She was only tired after all.*
+Beatrice noticed her at the edge of the yard, fully dressed and staring out across the river toward the farm opposite. The morning sun caught the stray grey strands in her mother's hair. Beatrice's heart lifted in that moment, sharp relief, the past few days of worry vanishing at the sight. *She was only tired after all.*
 
-She crossed the yard, but something in her mother’s stillness stopped her. Aldwina was not looking at the farm. She was looking at the river, her gaze far away.
+She crossed the yard, but something stopped her, something in her mother’s stillness. Aldwina was not looking at the farm. She was looking at the river, her gaze far away.
 
 ‘You know, I used to cross that river as a girl,’ her mother said, as if speaking to herself. ‘The ford was lower then. You could wade across without wetting your skirts.’ She was quiet for a moment. ‘I crossed it the day I came to Stanwey. Your father met me on the other side. He was so nervous he dropped the flowers he had picked.’
 
 Beatrice had never heard this story. She stood beside her mother and said nothing.
 
-‘And I crossed it hastily the day you were born,’ Aldwina murmured. ‘The midwife was in Ascele, across the water. I remember staring at that rushing current, thinking it had been there long before me and would remain long after. It was the only comfort I found.’
+‘And I crossed it hastily the day you were born,’ Aldwina murmured. ‘Trying not to fall in. The midwife was in Ascele, across the water. I remember staring at that rushing current, thinking it had been there long before me and would remain long after. It was the only comfort I found.’
 
 She turned to Beatrice and gave a tired, but genuine smile. There was a quietness, a distance, something in it that Beatrice could not quite name, something she could not see.
 
@@ -697,13 +701,13 @@ She rose and warmed a cup of the liquorice tea her mother had taught her to make
 
 Aldwina took the cup and held it in both hands, but she did not drink. She looked at Beatrice for a long moment, as though to fix the view in her mind forever. It felt as though her mother were going on a journey, but not yet ready to say goodbye. 
 
-‘Do you remember the day that a young man came to the door clutching his chest, what we spoke of after?’
+‘Do you remember the day that the young man, Peter, came to the door clutching his chest, and what we spoke of after?’
 
 Beatrice nodded. ‘You said you would know me. Wherever you were.’
 
-Aldwina set the cup aside. ‘You will have to be brave for me from now on, for I think that I shall soon see my mother and father. I am not afraid of that day, for I have asked the Lord to remember me. And, I will keep you in my heart always.’
+Aldwina set the cup aside. ‘Bea, from now on, you will have to be brave for me, for I think that I shall soon see my mother and father. I am not afraid of that day, for I have asked the Lord to remember me. And, I will keep you in my heart always.’
 
-A sob shook her chest. ‘I don’t know how to be brave,’ she whispered, not fully comprehending. It was the first time she had let herself feel it: the horror of her mother not being there, sharp as a thorn piercing her.
+A sob shook Beatrice’s chest. ‘I don’t know how to be brave,’ she whispered, not fully comprehending. It was the first time she had felt it: the horror of her mother not being there, sharp as a thorn piercing her.
 
 ‘Yes, you do. You have been brave before. When Goosie was lost. When you shaped your first loaf and it came out lopsided.’ Aldwina almost smiled. ‘Being brave does not mean not crying. It means doing the next thing, and the next, even when you are afraid, one day at a time, one step at a time.’
 
