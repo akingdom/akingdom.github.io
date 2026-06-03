@@ -1286,7 +1286,7 @@ The great oak doors of Rockingham’s hunting lodge crashed inward. Every head i
 
 Henry, King of the English, Duke of the Normans, stood in the threshold.
 
-He was not a tall man, though built like a war-horse: thick-necked, barrel-chested. The sweat was cooling on his skin, and he could feel the grit of the forest floor against it, ground into the weave of his tunic. The morning’s hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. He had returned with empty hands and a foul temper, and the smoke of the hall stung his eyes as he gazed sharply about the room. He found little that pleased him.
+He was not a tall man, though built like a war-horse: thick-necked, barrel-chested. The sweat was cooling on his skin, and he could feel against it the grit of the forest floor, ground into the weave of his tunic. The morning’s hunt had been a disaster. Two thin hares, three wiry fowl, and a fox too mangy to skin. He had returned with empty hands and a foul temper, and the smoke of the hall stung his eyes as he gazed sharply about the room. He found little that pleased him.
 
 His silence was a physical weight. Knights and clerks busied themselves with sudden, urgent interest in their weapons, their gear, the pattern of the rushes covering the floor; anything to avoid meeting the King’s eye. They knew the signs: when the King’s hunt was light, his wrath was often heavy.
 
