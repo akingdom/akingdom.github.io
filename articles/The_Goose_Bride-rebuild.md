@@ -1292,11 +1292,11 @@ His silence was a physical weight. Knights and clerks busied themselves with sud
 
 Then his gaze settled on his queen’s face, and something in him eased a little.
 
-He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant.
+He strode to his seat beside Queen Matilda at the high table. She watched him approach, her face carefully smooth, accepting a wine goblet from a servant. The servant hovered by the king with a trembling pitcher, but was ignored. 
 
-Henry lowered himself onto his chair, not a collapse, but a deliberate settling of immense power. The servant darted forward to fill his goblet, but the King ignored him.
+Henry sprawled onto his throne, a relaxed, unhurried settling of immense power. He tilted his chin back, sniffing the woodsmoke hungrily, though the meal itself was still some time away, a lingering reminder of the idle hunt.
 
-For a long moment, no one breathed, for fear of the king’s displeasure. A clerk by the high table watched a large beetle crawl onto his parchment, yet dared not brush it away. Woodsmoke hung lazily in the air, like a reminder of the idle hunt.
+For a long moment, no one breathed, for fear of the king’s displeasure. A clerk by the high table watched a large beetle crawl onto his parchment, yet dared not brush it away.
 
 The Queen spoke with practiced diplomacy.
 
@@ -6848,6 +6848,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **moat** (pl. moats; Defensive ditch)
 - **motte** (pl. mottes; Earthen mound supporting castle)
 - **oubliette** (pl. oubliettes; Hidden dungeon)
+- **pitcher** (pl. pitchers; a large jug)
 - **palfrey** (pl. palfreys; Riding horse)
 - **palisade** (pl. palisades; Defensive wooden fence)
 - **pauldron** (pl. pauldrons; Shoulder armour)
