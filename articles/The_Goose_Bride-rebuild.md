@@ -1322,7 +1322,7 @@ Roger, Bishop of Salisbury, stepped forward into the silence that followed. He w
 
 Henry turned, his eyes wary.
 
-Roger inclined his head. ‘Your lordship studied at Salisbury Cathedral, and did well. Your son, Godfrey Fitzroy, has now completed his own studies. The canons speak highly of his learning. He reads Latin, writes a fair charter, and can argue a point of canon law without losing his temper.‘ A thin smile. ‘More than I could say for many a knight.‘
+Roger inclined his head. ‘Your lordship studied at Salisbury Cathedral, and did well. Your son, Godfrey Fitzroy, reads Latin, writes a fair charter, and can argue a point of canon law without losing his temper.‘ A thin smile. ‘More than I could say for many a knight.‘
 
 Something flickered in Henry’s face. Pride? Surprise? He said nothing.
 
@@ -1330,19 +1330,19 @@ Roger continued, his tone shifting. ‘My lord, as each of your children has pro
 
 He paused. The hall grew quiet.
 
-‘But is it to be for this son Godfrey, the one who studied under my own roof, having neither land, nor title, nor marriage. He has naught but your name. The canons ask me, my lord. I ask you. What do you mean to do for him?‘
+‘But what of this son Godfrey, the one who studied under my own roof, having neither land, nor title, nor marriage. He has naught but your name. The canons ask me, my lord, and indeed I ask you this: What do you mean to do for him?‘
 
 Henry’s face went still. His fingers, which had been drumming on the oak, stopped.
 
 For a long moment, he did not speak. The silence was a physical weight.
 
-Then, slowly, he said, ‘Godfrey is… young.‘
+Then, slowly, he said, ‘He studies.‘
 
-Roger’s eyebrows rose. ‘At his age you seized the treasury at Winchester.‘
+Roger’s eyebrows rose. ‘He has completed his own studies for some time, my lord.‘
 
-Henry’s jaw tightened. ‘He studies.‘ He said it as if convincing himself. ‘There is time enough.‘
+Henry’s jaw tightened. ‘Godfrey is… young.‘ He said it as if convincing himself. ‘There is time enough.‘
 
-‘Time for what?‘ Roger’s voice was flat. ‘It is whispered in the corridors, at the supper tables, and now even to my own ears: Lackland’s shadow.‘
+‘Time for what?‘ Roger’s voice was flat. ‘At his age you seized the treasury at Winchester. Yet he is whispered of in the corridors, at the supper tables, and now even to my own ears: Lackland’s shadow.‘
 
 Henry flinched and all saw it. The word *Lackland* was a hard blow, a wound from his childhood.
 
