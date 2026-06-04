@@ -1340,7 +1340,7 @@ The Queen countered smoothly, turning her head. ‘And a sword is only as strong
 
 She watched his jaw relax. He liked the map she was drawing.
 
-Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a precise force of restless motion; his hands clenching tight to arrest the trembling of sheer, ceaseless labor of his grey, ink-stained fingers. As the second most powerful man in England, his chaotic brilliance was bound in iron discipline, anchoring the realm to his cold, unyielding accounts.
+Roger, Bishop of Salisbury, stepped forward into the silence that followed. He was a precise force of restless motion; his hands clenching tight to arrest the trembling of his grey, ink-stained fingers, unused to being still. As the second most powerful man in England, his chaotic brilliance was bound in iron discipline, anchoring the realm to his cold, unyielding accounts.
 
 ‘My lord the king,‘ Roger said, his voice urgent, ‘It is well met, for I would speak of a son, not in terms of silver and swords, but rather I would speak of souls and of welfare.‘
 
