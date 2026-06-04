@@ -1271,6 +1271,28 @@ He raised his hand higher still, standing tall, calling out.
 
 Then the road took her, towards a king who had no idea she was coming or what she had planned.
 
+---
+
+The cold air stung her cheeks. High in the treetops, rooks called to one another. Beatrice walked with the basket on her hip and her father's words in her ears. *Remember whose hall you enter.*
+
+She began to hum, one of her mother's tunes, and the sound of it steadied her.
+
+A sudden thunder of wings tore through the trees ahead. Beatrice flinched as a cloud of black shapes burst from the branches, their clamour filling the air, their kaah‑kaah harsh and close. Her heart jolted against her ribs. The birds wheeled against the grey sky, calling and calling.
+
+Then, faint and thin, a horn sounded somewhere far off. A hunting party, perhaps. Beatrice glanced behind her, but there was only a distant charcoal‑bearer. She shifted the basket to her other hip and walked on.
+
+A carter passed her, heading west with an empty cart. He raised a hand but did not speak.
+
+The trees thinned out as the road began to climb. The clamour of rooks grew until it filled the air, scores of them wheeling around Rockingham Castle, settling on high walls that had not been there in her grandfather's day.
+
+A second horn call, closer now, and then she saw them—a long line of horses entering the castle gates, small as ants against the grey stone. The hunt was returning. The court would be assembling. If she did not reach the hall soon, the doors might close and her chance would be lost.
+
+Her feet ached deeply from hours on hard stone. Goosie honked softly from inside the basket as the sun appeared, briefly warming her.
+
+She tried again to rehearse what she would say to the King, but the walk had tired her, and the words kept slipping away from her. If she rested, she might find them. If she hurried, she might stand before him with nothing to say.
+
+A mossy bank at the roadside. Half an hour. No more. She could unlace her shoes, rest her aching feet before the last climb. Surely no one would mind what time of day she reached the castle. She had left early enough. No one would know.
+
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
