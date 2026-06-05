@@ -1507,7 +1507,7 @@ In that breath, the king laughed heartily: a great, genuine sound that startled 
 
 He lunged and caught the goose just as it snapped at the clerk’s rear end.
 
-At the sound of Goosie’s distressed squawking, Beatrice burst into the hall, long hair flying and uncovered.
+At the sound of Goosie’s distressed squawking, Beatrice burst into the middle of the crowded hall, long hair flying and uncovered.
 
 ‘Please don’t hurt Goosie!‘
 
