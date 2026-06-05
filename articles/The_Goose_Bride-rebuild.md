@@ -1749,9 +1749,15 @@ The chatter died instantly.
 
 He looked directly at the cluster of knights where Sir Guy stood, his gaze like a physical weight.
 
-‘Let this be clear to one and all. None shall hinder the marriage of my son, Godfrey, to the daughter of Harold Red‑Wolf. This is our royal will.‘
+‘Let this be clear to one and all. None shall hinder the marriage of my son, Godfrey, to the daughter of Harold Red‑Wolf. This is our royal will.’
 
-It took some moments for the King’s word to settle on the assembled court, no one certain how to respond. The scratchings of the clerk’s quill ceased and he lifted the finished parchment, blew softly on the ink, and held it out once dry. The Chancellor of England pressed the King’s seal into a pool of warm wax at the foot of the page. The image of the King, lion of England, hardened into place.
+It took some moments for the King’s word to settle on the assembled court, no one certain how to respond. Then the Sheriff of Nottingham raised his cup. He was an ambitious man, alert to the shifting currents of royal favour, and he had seen which way the wind was blowing.
+
+‘*Wes heil!*’ he cried.
+
+A thunderous response rolled back from the hall. ‘*Drinc heil!*’
+
+The old Saxon toast, given by a Norman sheriff, in honour of a Saxon bride. The sheriff sat down, satisfied. The clerk’s quill ceased its scratching and he lifted the finished parchment, blew softly on the ink, and held it out once dry. The Chancellor of England pressed the King’s seal into a pool of warm wax at the foot of the page. The image of the King, lion of England, hardened into place.
 
 Henry spoke again, his voice far lighter and diverted.
 
