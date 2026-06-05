@@ -1354,7 +1354,7 @@ Roger continued, his tone shifting. ‘My lord, as each of your children has pro
 
 He paused. The hall grew quiet.
 
-‘But what of this son Godfrey, the one who studied under my own roof, having neither land, nor title, nor marriage. He has naught but your name. The canons ask me, my lord, and indeed I ask you this: What do you mean to do for him?‘
+‘But what of Godfrey, this son who studied under my own roof, having neither land, nor title, nor marriage. He has naught but your name. The canons ask me, my lord, and indeed I ask you this: What do you mean to do for him?‘
 
 Henry’s face went still. His fingers, which had been drumming on the oak, stopped.
 
