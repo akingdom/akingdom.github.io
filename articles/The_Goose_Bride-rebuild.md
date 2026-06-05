@@ -1812,11 +1812,11 @@ Behind her, the hall hummed with resumed life. Ahead, the road stretched eastwar
 
 She started walking.
 
-The road was quiet at first. She made good time, the basket bumping against her hip. But after a mile, near an intersection, she stopped at a mossy stone by the wayside, sat down, and unlaced her shoes. Goosie rustled inside the basket.
+The road was quiet at first. She made good time, the basket bumping against her hip. But after a mile, near an intersection, she stopped at the mossy stone bank by the wayside, sat down, and unlaced her shoes. Goosie rustled inside the basket.
 
 “We’ll rest a moment,” she whispered. “Then home.”
 
-She worked a pebble out of her shoe, retied the laces, and sat a little longer than she meant to, resting her aching feet, watching the sun slant through the oaks. The air was cool, the road empty, apart from an old woman carrying a big bundle of sticks on her back. Beatrice was beginning to feel safe.
+She worked a pebble out of her shoe, retied the laces, and sat a little longer than she meant to, resting her aching feet, for the first time that day, watching the sun slant through the oaks. The air was cool, the road empty, apart from an old woman carrying a big bundle of sticks on her back. Beatrice was beginning to feel safe.
 
 Then came the rhythmic clump‑clump of a bullock team, the cart behind them groaning with every turn of a dry, wooden wheel.
 
