@@ -1464,7 +1464,7 @@ The hall was still nursing the King’s mood. Nobles muttered into their wine, c
 
 Beatrice entered, carrying the handmade basket and dusty from the journey. She was greeted by the overpowering smell of sweaty bodies, woodsmoke and roasted meat.
 
-The young Norman knight, Sir Guy sneered at her as he lounged unseen by the doorway. He was the same one who had persistently tried to court her until some months earlier.
+Sir Guy, the young Norman knight, sneered at her as he lounged unseen by the doorway. He was the very same one who had persistently tried to court her until some months earlier.
 
 The final straw had been when Beatrice and her father had travelled up to the Midsummer Feast of St John (held at Laxton parish church, across the valley). While the elders shared ale by the bonfires, Sir Guy had again cornered her, boasting of his lineage and the ‘civilising’ hand his family had brought to the inferior Midlands.
 
