@@ -2066,7 +2066,7 @@ He looked back towards the place where the cart had disappeared, “You rode wit
 
 “My apologies. I was supposed to have a horse waiting for you, but you were already gone by the time I reached the gate.” He shook his head. “I should have been swifter.”
 
-She tried to gather her thoughts, her feet strolling, but her heart galloping. “Why are you here?”
+She tried to gather her thoughts, her feet strolling, but her heart galloping. “So, why are you here?”
 
 His voice cracked, and he patted his horse’s face. “I... I came after you.” He said it simply, as if it were merely the only path set before him.
 
@@ -2080,15 +2080,15 @@ The ice broke.
 
 ### “And you knew”
 
-“Is it true?” Her voice was too loud. “The king’s vow? About the maid who walked through the doors?”
+“Is it true?” Her voice was too loud. “About the king’s vow?”
 
 Godfrey’s step faltered. He almost tripped. He was quiet for a long breath. 
 
-“The King swore it,” Godfrey nodded. “Before the court. The next woman through the doors.”
+“The King swore it,” Godfrey nodded. “Before the court.”
 
 “And you knew.”
 
-Her words landed. They did not hang. They hit. They astonished.
+Her words hit hard. They astonished him, though he was well trained in the art of debate.
 
 Godfrey stared at her. His mouth opened.
 
@@ -2096,11 +2096,11 @@ Godfrey stared at her. His mouth opened.
 
 “Yes.” His voice was dry. “I knew. I was in the hall.”
 
-“You let me walk in and out without a word.” Her voice cracked. “The whole hall watched me play the fool. I curtsied. I thanked the Queen for scraps. And you all held your tongues. My father bled for this crown. And you all counted me like wool.”
+“You let me walk in and out without a word.” Her voice cracked. “The whole hall watched me play the fool, and you all held your tongues.”
 
 *I did not speak. That is true. I could have. I did not.*
 
-He felt sick.
+He felt slightly unwell.
 
 “I followed you,” he said, his voice rougher. “I am here now. I am telling you now.”
 
@@ -2120,7 +2120,11 @@ She looked at him again – a quick, anxious glance.
 
 He did not move. His breathing quickened; a frown creased his brow. The lane was darkening. An owl called nearby – short and sharp.
 
-“The Queen knew,” Godfrey said. He spoke firmly, facing aside, to his horse’s ears. “She could have stopped you. She did not. She sent you away with gifts instead.” He shook his head. “I think she was shocked at the King’s vow. She did not mean to harm you. She meant to buy time to keep everyone calm.”
+“We owe you an apology. I think that the King intended to announce it to you there in front of everyone. The Queen was shocked,” Godfrey said. He spoke firmly, facing aside, to his horse’s ears. 
+
+“By me,” wondered Beatrice uncertainly.
+
+A nervous smile flittered across Godfrey’s face. “Nay, rather the King’s vow. She was shocked, and thus sent you away with gifts, to allow her time to speak with the King, and so as not to make you a public spectacle, and to keep everyone calm. She could have stopped you. She did not, but I’m sure that she meant you no harm, at least that’s what I believe.”
 
 He looked down the road with a sudden sigh. “You must remember that my father was under immense pressure from everyone – barons, bishops, even the Queen — and he does not like being pushed. Everyone had a plan for my marriage. So he made that vow.”
 
