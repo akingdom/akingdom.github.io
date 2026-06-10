@@ -287,7 +287,7 @@ Technology should work for people, not the other way around. I approach every pr
 I'm open to freelance, consulting, and collaboration opportunities – remote or on‑site (Victoria, Australia). Here's how we create value together:
 
 1. **You send a clear description** of your challenge (via [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) – public, or we can take it private from there).
-2. **I reply within 24 hours** and we have a no‑pressure chat.
+2. **I reply** and we have a no‑pressure chat.
 3. **We agree on scope** – a small paid call, a project, or just a one‑off answer.
 
 **What you can expect:** Straight talk, no hidden fees, and a focus on what actually moves the needle for your business. I don't do large‑scale corporate contracts or full‑stack web design – but I'm excellent at solving specific problems, building lightweight tools, and helping you think through complex technical decisions.
