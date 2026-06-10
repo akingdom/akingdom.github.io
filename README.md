@@ -107,44 +107,53 @@ AUTHOR:      Andrew Kingdom
 <!-- Search Box end -->
 
 
-**[Areas of Expertise](#work-i-do)** — [Language](#interests) · [Software](https://github.com/akingdom/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
+**[Areas of Expertise](#work-i-do)** — [Business & Strategy](#business--strategy) · [Technology](#technology-expertise) · [Projects](#featured-projects) · [Articles & Tools](#interests) · [Quotes](#quotes)
 
 <div id="DESCRIPTION"></div>
 
+> **What this site is:** A portfolio of my work and a place where I publish ideas, tools, and research. The articles, guidelines, and tools you'll find here are things I've built or written – not just links to "about me" pages. They're the actual value I offer.
 
-## How I Can Help
+## How I Can Help Your Business
 
-I provide patient, one‑on‑one IT support, tutoring, and custom tool‑building for people who find technology overwhelming — the way NDIS supports health, I support tech. Whether you need a problem solved, a skill learned, or a lightweight tool built just for you, I’m here to help without jargon or judgment.
+Technology should make your business run smoother, not create more headaches. I bring 35+ years of IT experience – from coding in over 300 languages to managing 5,000‑user environments – and I work directly with owners to solve real problems.
 
-- <span class="xicon-mobile"></span> **Patient tech support** — For seniors, non‑tech‑savvy individuals, and anyone who just wants things to work.
-- <span class="xicon-web"></span> **Minimalist websites & tools** — Streamlined one‑page websites and lightweight web apps.
-- <span class="xicon-person"></span> **One‑on‑one tutoring** — Programming, Microsoft Office, genealogy software, and more.
-- <span class="xicon-thing1"></span> **Custom automation** — Let me build a small tool or script that takes a tedious task off your plate.
-- <span class="xicon-thing2"></span> **Code translation & data pipelines** — Moving logic between languages or transforming messy data into clean output.
-- <span class="xicon-game"></span> **Remote or on‑site** — I work with clients across Victoria and beyond; remote support available worldwide.
+Here's what that means for you:
 
-*"Together, let's turn ideas into reality. Reach out to start your journey!"*
+- **Practical advice, not jargon** – I translate technical complexity into clear choices.
+- **Experience across the board** – Mobile, desktop, cloud, IoT, servers, and everything in between.
+- **A track record of results** – I've helped owners decipher what NASA wanted from their business, plan international tech rollouts, and build custom tools that save hours every week.
 
+**My promise:** Every conversation leaves you clearer than before. No pressure, no upsells – just honest help.
 
-## What Clients Say
+## Services I Offer
 
-> “Andrew was brilliant! Definitely knows his trade. On top of which, he was flexible and patient. All in all, he did a great job in getting the job done! AAA+++” — **Tony H.**
+I focus on small to medium businesses and individual professionals. These are the concrete ways I deliver value:
 
-> “Omg this man is a Saint. So knowledgeable, so personable. I was very stressed but Andrew calmed me down and got my scanner and computer talking again all through remote assistance. Thanx Andrew” — **Jane D.**
+- **IT Consulting & Strategy** – Need to plan a new website, app, or system? I'll help you scope it, budget it, and avoid common pitfalls.
+- **Custom Software & Tools** – A small script or a full web app – if it saves you time, I can build it.
+- **Technical Support for Teams** – From one‑off fixes to ongoing help for your staff.
+- **Educational Consulting** – Training your team, or advising on tech for schools and creative industries.
+- **Online Research & Data** – Finding the right information, cleaning messy data, or setting up automated research workflows.
 
-> “Andrew did an excellent job. Very patient and extremely knowledgeable. Strong recommend if you want to improve your programming skills.” — **Graham H.**
+*Everything I do is tailored to what actually works for you – not what looks good on a portfolio.*
 
-> “THANK YOU SO MUCH Andrew. I had been pulling my hair out trying to figure this out. THANK YOU for everything you did. PLUS your patience waiting and cleaning out the huge build up of dust and dog hair lol. I am most appreciative and highly recommend you.” — **Leonie B.**
+## Business & Strategy
 
-> “I was pulling out my hair with Computer stuff beyond my knowledge. Andrew was so wonderful and so happy to help me get my problems fixed. I will definitely be going back to them for any future computer problems. 👌🏻” — **Fleur M.**
+I've spent years working alongside business owners to turn technology into a competitive advantage. Here's what that looks like in practice:
 
-> “Andrew is a good knowledgeable teacher and easy to learn from. Professional and reliable. Would recommend.” — **Bernadette K.**
+- **Deciphering client requirements** – For example, helping a business understand exactly what NASA wanted from their proposal, so they could bid with confidence.
+- **Planning international expansion** – Mapping out the tech, compliance, and logistics for cross‑border growth.
+- **New app and website scoping** – Moving from a vague idea to a clear, actionable plan.
+- **IT cost optimisation** – Cutting unnecessary spend without sacrificing reliability.
 
+**Recent article that speaks to this:**
+- [**Universal Ethical Framework for Future AI**](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI) – A principles‑based guide for integrating AI into business without losing accountability.
+
+> *Notes from my work:* I regularly consult with business owners on practical success – whether that's deciphering a complex tender, planning a new software rollout, or simply helping someone understand what their IT person is saying. I've worked at the small/SME level and have deep insight into how large corporations operate (from a human, not a bureaucratic, angle).
 
 ## Featured Projects
 
-<table>
-<tr>
+<table><tr>
 <!-- AI Tools -->
 <td width="33%" valign="top">
   <a href="https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html">
@@ -152,9 +161,9 @@ I provide patient, one‑on‑one IT support, tutoring, and custom tool‑buildi
          width="90" alt="AI Tools illustration" />
   </a>
   <br><strong>AI Tools</strong>
-  <br><small>Duplicate Word Finder & Prompt Extraction — sharpen your AI workflow instantly.</small>
+  <br><small>Duplicate Word Finder & Prompt Extraction – sharpen your AI workflow instantly.</small>
 </td>
-
+articles/Metrics-Beyond_the_Engagement.md
 <!-- Scripture Viewer -->
 <td width="33%" valign="top">
   <a href="biblos/">
@@ -173,21 +182,19 @@ I provide patient, one‑on‑one IT support, tutoring, and custom tool‑buildi
   <br><strong>Talking Clock</strong>
   <br><small>Analog clock with real‑time voice synthesis, inspired by Telstra's classic 1194.</small>
 </td>
-</tr>
-</table>
+</tr></table>
 
 <div id="quote-container" data-quote-action="move"></div>
 
-
 ## Technology Expertise
 
-- **AI** — Ethics, tutoring, prompts, tasking.
+- **AI** – Ethics, tutoring, prompts, tasking.
   - [AI Governance Policy](https://akingdom.github.io/articles/AI_Governance_Policy_Accountability_First) · [Universal Ethical Framework](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI) · [AI Communication](https://akingdom.github.io/articles/optimizing_communication_with_ai) · [AI Nomenclature](https://akingdom.github.io/articles/ai_nomenclature) · [AI & Art](https://akingdom.github.io/articles/AI-is-Arts-Next-Tool-Not-Grave) · [AI Protocol](https://akingdom.github.io/articles/ai_verifiable_reality) · [Simplified AI Architecture](https://akingdom.github.io/articles/limits_of_simplified_AI_architecture)
 
-- **Programming Languages** — Objective‑C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
+- **Programming Languages** – Objective‑C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
   - [Advice for Students](https://akingdom.github.io/articles/Programming-Advice-AK) · [Source Code](https://github.com/akingdom?tab=repositories) · [Code Extracts](https://gist.github.com/akingdom) · [Guides](https://github.com/akingdom/) · [Standards](https://github.com/akingdom/)
 
-- **Platforms** — Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (macOS, Windows), mobile (iOS, Android), embedded (MicroChip, Raspberry Pi).
+- **Platforms** – Cloud (AWS, Azure, Google), servers (Windows, Linux), desktop (macOS, Windows), mobile (iOS, Android), embedded (MicroChip, Raspberry Pi).
   - [External Content in Apple Apps](https://akingdom.github.io/articles/apple-developer-external-content)
 
 - **Development Tools**
@@ -277,13 +284,15 @@ Technology should work for people, not the other way around. I approach every pr
 
 ## Let's Work Together
 
-I'm open to freelance, consulting, and collaboration opportunities — remote or on‑site (Victoria, Australia).
+I'm open to freelance, consulting, and collaboration opportunities – remote or on‑site (Victoria, Australia). Here's how we create value together:
 
-- **Best way to reach me:** [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) (public)<!-- or via [email](mailto:akingdom@example.com)-->
-- **What happens next:** Send me a message describing your challenge. I'll reply<!-- within 24 hours-->, and we'll figure out together whether I'm the right fit — no pressure, no jargon.
+1. **You send a clear description** of your challenge (via [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) – public, or we can take it private from there).
+2. **I reply within 24 hours** and we have a no‑pressure chat.
+3. **We agree on scope** – a small paid call, a project, or just a one‑off answer.
 
-*I focus on individuals, small businesses, and practical tools. I don't take on large‑scale corporate contracts or full‑stack web design — but I can build you a lightweight solution that gets the job done.*
+**What you can expect:** Straight talk, no hidden fees, and a focus on what actually moves the needle for your business. I don't do large‑scale corporate contracts or full‑stack web design – but I'm excellent at solving specific problems, building lightweight tools, and helping you think through complex technical decisions.
 
+**Let's start with a conversation.** [Open an issue](https://github.com/akingdom/akingdom.github.io/issues) – tell me what's on your mind. No charge for the first discussion.
 
 ## Footnotes
 
