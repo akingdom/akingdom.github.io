@@ -1022,7 +1022,7 @@ Sir Guy was charming. He spoke of his rich lands in Normandy, of his family’s 
 
 Harold’s face was unreadable. ‘My daughter has strong hands of her own.’
 
-Sir Guy laughed, as if Harold had made a joke.
+Sir Guy laughed, as if Harold had intended a joke.
 
 He came again a month later, and again before Christmas, mindful of Goosie’s beak, for the goose did not like the man. Each time he brought gifts: a bolt of silk from the continent, an expensive leather‑bound book, a silver brooch with a design Beatrice had never seen. Harold accepted them with careful thanks. Beatrice thanked him with her mother’s courtesies, her face smooth, her mind sharp, her eyes watchful, as her father had been teaching her.
 
@@ -1096,26 +1096,32 @@ He shook his head. ‘I wanted to believe there was a way to secure this place w
 
 Beatrice knelt beside his chair. ‘Father, I am not afraid of him. And I am not afraid for Stanwey. I will hold Stanwey until the day I can hold it no longer. And when that day comes, it will not be Sir Guy who takes it, no, not even the King of England.’
 
-Harold opened his eyes. ‘You may keep that last part to yourself, daughter.’ He did not raise his voice, but the weight of it changed. ‘It is not suited for the ears of lions. And lions, Beatrice, have a way of visiting when they are least welcome. Mind how you speak of a King, even in your own hall.’
+Harold opened his eyes. ‘You may keep that last part to yourself, daughter.’ He did not raise his voice, but the weight of it changed. ‘Mind how you speak of a King, even in your own hall, Beatrice. Lions and kings have a way of visiting when they are least expected.’
 
 For a moment, she saw the man who had pulled a lord from the river, who had ridden with kings. The warrior was still there, beneath the tired flesh.
 
 He looked at her softly. ‘You are your mother’s daughter’, he said.
 
-She took his hand. ‘And your daughter, Father. I shall marry when I must, but as for that man, not for Stanwey, no never.’
+She took his hand. ‘And your daughter too, Father. I shall marry when I must, but as for that man, not for Stanwey, no never.’
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
 ## Chapter 6 ⬩ The King’s messenger does not dismount
 
-Hooves broke the morning silence. Beatrice looked up from the herb bed outside the kitchen, and their manservant lowered his axe at the woodpile. A royal messenger was riding up the lane towards the hall, cloak streaming, horse lathered. He reined in before the hall and unrolled a stiff parchment.
+Three long brassy blasts blown on an ox horn shattered the morning quiet. Beatrice’s gaze snapped up towards the village. She was in the herb garden, outside the kitchen. 
 
-'The King hunts in Rockingham Forest', he announced, projecting towards the timbers as if the building itself were worthy of his breath. 'This holding shall render its service: two feathered arrows and a fowl for His Majesty's table.'
+The old manservant lowered his axe at the woodpile. ‘This can’t be good news.’ 
 
-He wheeled his horse and was gone.
+Beatrice loathed those blasts. As a young child, they had sounded to call her father off to war for a year or so. She had missed him so much.
 
-A servant stood in the doorway of the hall, a rag still in her hand, staring after the dust. Beatrice scooped up her goose.
+A horse and rider came around the corner, striding towards the hall, hoofbeats thudding up the packed earth track, cloak streaming, horse lathered. 
+
+The messenger reined in before the hall, and unrolled a stiff parchment writ.
+
+‘The King hunts in Rockingham Forest', he announced, projecting his voice towards the timbers as if the building itself were worthy of his breath. 'This holding shall render its service: two feathered arrows and a fowl for His Majesty's table.’
+
+The man wheeled his horse about, and was gone. A servant stood in the doorway of the hall, a rag still in her hand, staring after the dust. Beatrice scooped up her goose.
 
 Goosie honked.
 
@@ -1151,7 +1157,7 @@ Beatrice insisted. ‘Then keep it aside for me until it’s needed. If not, ano
 
 At these words, the woman accepted the gift. ‘I’ll accept it as a mercy between neighbours then. May God bless you, dear. Try big Edwin’s farm, by the oak on the hill; he had some birds last I heard.‘
 
-After a long walk, Beatrice arrived at the farm by the oak, where big Edwin, a tenant of the manor, was loading the last of his hay. ‘Looking for a bird?‘ he barked, seeing her eyes stray to the empty yard. ‘You’re about two weeks late. The Abbot’s Tithe collector came through on Sunday. The Abbey’s own ponds were fished clean and their yards emptied when the King’s household stayed there last week. The Abbot is holding us to our “in‑kind” debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss.‘
+After a long walk, Beatrice arrived at the farm by the oak, where big Edwin, a tenant of the manor, was loading the last of his hay. ‘Looking for a bird?‘ he barked, seeing her eyes stray to the empty yard. ‘You’re about two weeks late. The Abbot’s Tithe collector came through on Sunday. The Abbey’s own ponds were ed clean and their yards emptied when the King’s household stayed there last week. The Abbot is holding us to our “in‑kind” debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss.‘
 
 She crossed the river upstream, nearly falling in, and at long last reached the farm by the reedy wide river bend where Goosie came from as an egg. The owner herself came out to meet her. She looked at Beatrice’s face and seemed to understand.
 
@@ -1572,7 +1578,7 @@ Beatrice brightened.
 
 The King roared with excited laughter, in sudden recognition.
 
-‘Ha! Then it all returns to me! My father the King gave your father a purse of silver for his damp trouble, and my brother a whipping for his damp clothes. Your father went fishing for lampreys in the Severn and caught a loach with a wet wit instead. My brother Robert was ever more a sodden worm than a lord, and would have stayed on the riverbed had the Red‑Wolf not hauled him to the bank.‘
+‘Ha! Then it all returns to me! My father the King gave your father a purse of silver for his damp trouble, and my brother a whipping for his damp clothes. Your father went ing for lampreys in the Severn and caught a loach with a wet wit instead. My brother Robert was ever more a sodden worm than a lord, and would have stayed on the riverbed had the Red‑Wolf not hauled him to the bank.‘
 
 The King beamed, shaking his head in surprise. ‘Well, aren’t you a fine she-wolf! Now, do not delay but go, tell your father that I shall visit him next week to hear him tell it anew…‘
 
@@ -3470,7 +3476,7 @@ Godfrey’s hand found her elbow. “Are you unwell?”
 
 She shook her head. Couldn’t speak.
 
-He guided her through the press of bodies, past clusters of nobles who barely glanced at her, past servants carrying heavy silver chargers of fish, past a knot of children—royal wards in fine silk-trimmed tunics—who stared openly.
+He guided her through the press of bodies, past clusters of nobles who barely glanced at her, past servants carrying heavy silver chargers of , past a knot of children—royal wards in fine silk-trimmed tunics—who stared openly.
 
 Then, abruptly, she stopped.
 
@@ -3627,13 +3633,13 @@ Beatrice read it three times, then tucked it into her sleeve.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-## Chapter 25 ⬩ A fish knife for the meat course
+## Chapter 25 ⬩ A  knife for the meat course
 
 The first formal dinner was also the King’s farewell. Henry would leave for Normandy within the week, and the court had gathered in the Great Hall to honour him.
 
 In the minstrels’ gallery above the screens passage, a small but extravagant ensemble had been arranged at the Queen’s instruction – two harps, three vielles, a psaltery, and two recorders. They played a stately prelude, the melody winding through the smoky air like a thread of gold. 
 
-Beatrice sat near the foot of the table, a plain island in a sea of silk-clad women and whispered judgments. She found herself straining to listen, even as her stomach tightened with nerves. The array of knives and spoons was bewildering. Trying to remember her lessons, she reached for the wrong one—a fish knife for the meat course—and a titter ran down the table.
+Beatrice sat near the foot of the table, a plain island in a sea of silk-clad women and whispered judgments. She found herself straining to listen, even as her stomach tightened with nerves. The array of knives and spoons was bewildering. Trying to remember her lessons, she reached for the wrong one—a  knife for the meat course—and a titter ran down the table.
 
 Lady Margaret, from beside her, quietly: “The other one. The broader blade, girl.”
 
@@ -6049,7 +6055,7 @@ These themes appear naturally in the story and lend themselves to discussion:
 - **Showing empty hands** was a traditional sign of peaceful intent.
 - **Royal halls** were public spaces where people brought petitions to the king.
 - **Lineage and reputation** mattered greatly in medieval society.
-- **Lampreys** (eel‑like fish) were a favourite royal delicacy.
+- **Lampreys** (eel‑like ) were a favourite royal delicacy.
 - **Nicknames** like “Red‑Wolf” or “she‑wolf” often reflected personality, deeds, or family history.
 - **Purveyance** was the king’s right to take food and goods from local people to feed his court.
 - **A thegn** was a Saxon nobleman who held land directly from the king.
