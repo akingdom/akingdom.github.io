@@ -5788,9 +5788,15 @@ Goosie lived to be very old indeed, long past the time when geese should die. On
 
 ---
 
-**”A goose may wend where a King must wait.”**
+### A goose may wend where a King must wait.
 
-Foolish village talk to some. In Mercia, however, wise women still tell how a young woman proved the saying strangely true.
+In the margins of her psalter, found after her death, written in a trembling hand:
+
+*"I have slept in palaces and lain on royal linen. I have broken bread with Kings and Queens. But when I close my eyes, I still feel the boundary stone, with Goosie at my side, and the smell of bread from my mother's oven. I shall be fully know soon, face to face, in heavenly realms beyond."*
+
+Beneath it, in a younger hand — perhaps her daughter's:
+
+"She remembered well."
 
 And if you walk the old Roman road on a spring morning, past the farm by the river bend, past the clearing where Stanwey once stood, you might still hear—faintly, distantly—the honk of a goose, leading the way.
 
@@ -6543,7 +6549,7 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 ### Fixed Historical Timeline Anchors: 994 – 1135
 
 | Date | Event | Monarch |
-|---|---|---|
+|------|-------|---------|
 | 994 | Norwegian and Dane attacks on London (Olaf Tryggvason and Sweyn). | Æthelred II |
 | 995 | A comet appears, seen as a portent of Danish attacks and the death of Archbishop Sigeric. | Æthelred II |
 | 1009 | A "haired star" (comet) appears, followed by a massive Danish invasion under Thorkell the Tall. | Æthelred II |
@@ -6552,14 +6558,14 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 | Sept 1014 | The "Great Sea-Flood" hits the English coast, drowning many towns. | Æthelred II |
 | Apr 1016 | Death of Æthelred; Edmund Ironside succeeds him. | Edmund II |
 | Nov 1016 | Edmund dies; Canute (Cnut) becomes undisputed King. | Canute |
-| Nov 1035 | Canute dies; Harold *Harefoot* claims the English throne. | Harold I |
 | 1035 | Severe famine reported in various parts of England due to crop failure. | Canute |
+| Nov 1035 | Canute dies; Harold *Harefoot* claims the English throne. | Harold I |
 | 1039 | A "most severe winter" and famine; many cattle perish across England. | Harold I |
 | June 1040 | Harthacnut arrives in England with a fleet to seize the crown. | Harthacnut |
 | June 1042 | Harthacnut dies; Edward *the Confessor* is acclaimed. | Edward |
 | 1046 | Extreme winter and pestilence among cattle; many people die of hunger. | Edward |
 | Jan 1066 | Death of Edward; Harold Godwinson crowned (6 Jan). | Harold II |
-| Apr 1066 | Halley’s Comet appears (24 April), viewed as a terrifying omen of the downfall of the kingdom. | Harold II |
+| Apr 1066 | Halley's Comet appears (24 April), viewed as a terrifying omen of the downfall of the kingdom. | Harold II |
 | Oct 1066 | Battle of Hastings; Harold II killed (14 Oct). | Harold II |
 | Dec 1066 | William *the Conqueror* crowned in England on Christmas Day. | William I |
 | Sept 1068 | Henry I born at Selby, Yorkshire. | William I |
@@ -6567,31 +6573,42 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 | 1078 | A lunar eclipse is recorded; observers note the moon turning the "colour of blood." | William I |
 | c. 1080 | Matilda of Scotland (Edith) born. | William I |
 | Oct 1097 | A "rare star" (comet) with a long tail appears in the autumn for fifteen days until October 25. | William II |
-| Aug 1100 | Henry I crowned (6 Aug) after William II’s hunting death. | Henry I |
+| Aug 1100 | Henry I crowned (6 Aug) after William II's hunting death. | Henry I |
 | Nov 1100 | Henry marries Matilda (Edith) of Scotland (11 Nov). | Henry I |
-| Feb 1102 | William Adelin (Henry’s heir) born. | Henry I |
+| July 1101 | Invasion of Portsmouth (Hampshire). Kingdom in mortal peril; total national call-up. Mandatory service – all knights must attend in person. | Henry I |
+| July 1101 | Siege of Arundel Castle (West Sussex). Armed rebellion on English soil. Mandatory service – local and regional lords forced to fight; no excuses. | Henry I |
+| Feb 1102 | William Adelin (Henry's heir) born. | Henry I |
+| 1102 | Sieges of Tickhill & Bridgnorth (Yorkshire / Shropshire). Critical internal emergency. Mandatory service – direct feudal service required to crush the revolt. | Henry I |
+| 1102 | Siege of Shrewsbury (Shropshire). Final domestic push; royal army demands local levies. Mandatory service – all local knights must physically attend. | Henry I |
 | 1103 | A very calamitous year through murrain of cattle, and deficiency of produce, not only in corn, but in every kind of fruit. | Henry I |
 | Aug 1103 | On the mass day of St. Laurence (August 10), the wind did so much harm here on land to corn and all fruits, such as no man remembered. | Henry I |
+| 1104 | Invasion of the Cotentin (Normandy). Foreign expedition; secular barons paid cash, church lands heavily taxed. Knights could be excused by paying scutage. | Henry I |
 | 1105 | A very calamitous year through loss of fruit. | Henry I |
+| 1105 | Siege of Bayeux & Caen (Normandy). Cash accepted from English knights to fund professional mercenaries in France. Knights could be excused by paying scutage. | Henry I |
 | Feb 1106 | A brilliant comet appears in February with a massive beam of light. | Henry I |
-| 1109 | Very trememendous frequent storms of thunder. | Henry I |
+| Sept 1106 | Battle of Tinchebray (Normandy). Church lands paid scutage; continental barons and close royal allies fought in person. Partial – church tenants could pay scutage; barons must serve. | Henry I |
+| 1108 | Pembrokeshire Colonisation (South Wales). Small frontier operation by Marcher lords using local land-retention rules. Local service only – no scutage; frontier knights must attend. | Henry I |
 | May 1109 | High sea-flood, as no man remembered before, did so much harm on the festival of St. Martin (November 11). | Henry I |
-| 1110 | A very calamitous year through loss of fruit and tree produce due to bad weather. | Henry I |
+| 1109 | Very tremendous frequent storms of thunder. | Henry I |
+| 1109 | Vexin Border War starts (French border). Prolonged war; English knights paid cash to stay home while mercenaries fought abroad. Knights could be excused by paying scutage. | Henry I |
 | May 1110 | The "Vanishing Moon" (5 May); a total lunar eclipse where the moon became completely invisible. | Henry I |
+| 1110 | A very calamitous year through loss of fruit and tree produce due to bad weather. | Henry I |
+| 1110 | Skirmishes of the Vexin (French border). Long-term war funding; scutage routinely extracted from English estates. Knights could be excused by paying scutage. | Henry I |
 | 1111 | A long, severe, heavy winter with marred fruit and murrain of cattle. | Henry I |
+| 1111 | Campaign of the Vexin (French border). Heavy financial extraction from England to sustain distant border troops. Knights could be excused by paying scutage. | Henry I |
 | 1112 | A very good, fruitful year in both wood and field, but many people died of disease. | Henry I |
+| 1112 | Siege of Gisors (French border). Fixed garrison defence funded by English cash scutages and continental taxes. Knights could be excused by paying scutage. | Henry I |
 | Mar 1113 | Treaty of Gisors; Matilda FitzRoy betrothed to Conan. | Henry I |
 | Jan 1114 | Empress Matilda marries Emperor Henry V in Worms (7 Jan). | Henry I |
 | May 1114 | A huge comet appears at the end of May. | Henry I |
-| June 1114 | Henry launches a massive campaign into Wales. | Henry I |
+| June 1114 | Massive campaign into Wales (First Welsh Campaign). Grand royal demonstration of power; knights ordered to march in person to intimidate the Welsh. Mandatory service – all knights attend; scutage forbidden. | Henry I |
 | Early Aug 1114 | Welsh campaign concludes with the submission of local princes. | Henry I |
-| Mid-Aug 1114 | **Royal Court at Rockingham Castle - The Goose Vow.** | Henry I |
+| Mid-Aug 1114 | Royal Court at Rockingham Castle - The Goose Vow. | Henry I |
 | Late Aug 1114 | Court moves to Westminster; Henry crosses to Normandy. | Henry I |
 | 1117 | Severe storms and "fiery lights" (likely Aurora Borealis) seen in the northern sky. | Henry I |
 | May 1118 | Queen Matilda dies at Westminster (1 May). | Henry I |
 | Nov 1120 | White Ship Disaster (25 Nov); Heir William Adelin drowns. | Henry I |
 | Dec 1135 | Henry I dies (1 Dec); Stephen seizes the throne (22 Dec). | Stephen |
-
 
 ### Master Timeline (1103‑1115)
 
