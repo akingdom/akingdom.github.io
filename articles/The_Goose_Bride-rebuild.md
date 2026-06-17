@@ -5790,9 +5790,9 @@ Goosie lived to be very old indeed, long past the time when geese should die. On
 
 ### A goose may wend where a King must wait.
 
-In the margins of her psalter, found after her death, written in a trembling hand:
+In the margins of her psalter, found after her death, written by a frail hand:
 
-*"I have slept in palaces and lain on royal linen. I have broken bread with Kings and Queens. But when I close my eyes, I still feel the boundary stone, with Goosie at my side, and the smell of bread from my mother's oven. I shall be fully known soon, face to face, in heavenly realms beyond."*
+*"I have slept in palaces and lain on royal linen. I have broken bread with Kings and Queens. But when I close my eyes, I still feel the boundary stone, with Goosie at my side, and the smell of fresh bread from my mother's oven. I shall be fully known soon, face to face, in heavenly realms beyond."*
 
 Beneath it, in a younger hand — perhaps her daughter's:
 
