@@ -351,7 +351,7 @@ She nodded, though she did not fully understand. She understood only that her fa
 
 She would walk the boundary every year after that. She would learn the twist of the hawthorn, the straight line of the Roman road, the dip of the old ditch, the place where the river bent and the reeds grew thick. The land had a language, and her father had been teaching it to her since before she could speak.
 
-Iron pickets had to be driven with a heavy mallet each morning, tethering the goats wherever the brush grew thickest. It was the goats' job to clear the land, chewing saplings and brambles right to the soil. No ditch or palisade protected the hall; only these cleared rings kept the forest a bowshot away. If that line failed, nothing remained but a thick oak door and heavy-barred shutters to block the dark.
+Iron pickets had to be driven with a heavy mallet each morning, tethering the goats wherever the brush grew thickest. It was the goats’ job to clear the land, chewing saplings and brambles right to the soil. No ditch or palisade protected the hall; only these cleared rings kept the forest a bowshot away. If that line failed, nothing remained but a thick oak door and heavy-barred shutters to block the dark.
 
 Likewise, her father made her sit beside him when the village reeve brought the harvest accounts. She had to learn to explain each number, until the tallies were as familiar as the boundaries, and the boundaries as familiar as her own breath.
 
@@ -623,7 +623,7 @@ Beatrice looked at the wooden table groaning under the weight of the great troug
 
 ‘Is something wrong?’ Beatrice had noticed that the bread dough had not been tucked or shaped; unusually, it was still a rough, sticky mass, overflowing its wooden rim and drying into a grey crust at the edges.
 
-A sharp hesitation caught the girl's tongue. She scratched at her forehead, leaving a large smudge of flour there. ‘She said that she was feeling poorly,’ she mumbled, ‘so I’ve helped her to the bedchamber to rest.’ She gave a firm, defensive nod as if vindicating herself, but her gaze drifted downwards. 
+A sharp hesitation caught the girl’s tongue. She scratched at her forehead, leaving a large smudge of flour there. ‘She said that she was feeling poorly,’ she mumbled, ‘so I’ve helped her to the bedchamber to rest.’ She gave a firm, defensive nod as if vindicating herself, but her gaze drifted downwards. 
 
 ---
 
@@ -641,7 +641,7 @@ Her mother did not seem angry, but exhausted.
 
 ‘Only tired, dear.’
 
-Beatrice hesitated, not sure whether to ask about their whispering. 'Were you and Father quarrelling?' She hesitated, struggling to discern the look from her father’s face. 'He looked almost afraid.'
+Beatrice hesitated, not sure whether to ask about their whispering. ‘Were you and Father quarrelling?’ She hesitated, struggling to discern the look from her father’s face. ‘He looked almost afraid.’
 
 Aldwina was silent for a moment. ‘There are some things that even a brave man struggles with,’ she said at last. ‘You must be patient with him, Bea. Your father is doing as best as he knows how.’ She drew a long noisy breath and sighed. ‘It is not easy for him.’
 
@@ -649,11 +649,11 @@ Beatrice did not fully understand. She sensed that there was something, but no o
 
 A guilty thought pricked her conscience.
 
-‘I'm sorry that I left you to do all the work earlier, Mother.’
+‘I’m sorry that I left you to do all the work earlier, Mother.’
 
 Her mother’s gaze shifted from the thick chamber curtains and her reply was as practical as always. ‘We can do without fresh bread for today,’ she said in blunt yet comforting tones. 
 
-‘Yes, Mother,’ Beatrice said, keeping her eyes on the thin, drawn face beneath the blankets. ‘See, I'll help you once you’re up.’
+‘Yes, Mother,’ Beatrice said, keeping her eyes on the thin, drawn face beneath the blankets. ‘See, I’ll help you once you’re up.’
 
 Her mother reached out and tucked a strand of hair behind Beatrice’s ear, the way she used to when Beatrice was small.
 
@@ -669,7 +669,7 @@ Beatrice held onto that promise. But the next day found her mother still in bed.
 
 On the fourth morning, Aldwina was finally up.
 
-Beatrice noticed her at the edge of the yard, fully dressed and staring out across the river toward the farm opposite. The morning sun caught the stray grey strands in her mother's hair. Beatrice's heart lifted in that moment, sharp relief, the past few days of worry vanishing at the sight. *She was only tired after all.*
+Beatrice noticed her at the edge of the yard, fully dressed and staring out across the river toward the farm opposite. The morning sun caught the stray grey strands in her mother’s hair. Beatrice’s heart lifted in that moment, sharp relief, the past few days of worry vanishing at the sight. *She was only tired after all.*
 
 She crossed the yard, but something stopped her, something in her mother’s stillness. Aldwina was not looking at the farm. She was looking at the river, her gaze far away.
 
@@ -681,7 +681,7 @@ Beatrice had never heard this story. She stood beside her mother and said nothin
 
 She turned to Beatrice and gave a tired, but genuine smile. There was a quietness, a distance, something in it that Beatrice could not quite name, something she could not see.
 
-'But you are the best thing I ever made,' Aldwina said. 'Better than any loaf of bread.'
+‘But you are the best thing I ever made,’ Aldwina said. ‘Better than any loaf of bread.’
 
 Beatrice looked at her mother and felt strangely cold, a shiver going through her though the morning sun was warm on her face. 
 
@@ -924,38 +924,94 @@ Harold paused. His eyes drifted from the script to the window, and for a moment 
 
 ‘Four and sixty winters. I was sixteen winters when Hardrada’s sea-steeds bit the sands at Riccall. I saw the Raven snap in the wind ere the swords broke our shield‑wall at the Bridge. Norway bled on that grass; I thought my own thread was spun.’
 
-He fingered a stiff page of the heavy book, his gaze hard but distant.
+He fingered the heavy book, his hard gaze distant.
 
-‘But the Normans were made of stiffer cloth. I bent my knee to their William while the blood was still wet on my mail. I traded the axe for a Norman’s horse and rode with his sons through the mud of the West. Now, that was when—’
+‘But the Normans were made of stiffer cloth. I bent my knee to their William while the blood was still wet on my mail. I traded my axe for a Norman’s horse and rode with his sons through the mud of the West. Now, that was when—’
 
-...a distant horn blew thrice...
-...messenger arrives... (recycle later messenger)
-...call to war (wales)...
-...can scutage be paid?
-...cannot be paid. by command of the king, all knights must present themselves at Chester or Shrewsbury.
+A sharp horn blast broke their concentration, a wail like a high-pitched cow bellow. Only then did they both realise that two earlier blasts had already passed unnoticed.
 
-...discussion...beatrice fears etc. 
+Goosie lifted her head as Beatrice rose to her feet, letting the parchment scroll itself up. ‘Whatever is that?’
 
+Harold’s face was pale. ‘Three blasts is surely the King’s summons.’
 
-‘Now you’re the Lady of Stanwey.’
+He crossed to the door and stood in the threshold, his hand gripping the frame. A rider was approaching at speed, cloak streaming, horse lathered. The man reined in before the hall and unrolled a stiff parchment writ, its seal heavy with wax.
+
+‘Hear the word of Henry, King of the English! By the King’s strict command, every man holding land of the crown—be he Norman knight or Saxon thegn—is summoned to ride for the Welsh campaign! The King’s host assembles at Chester. Let no man make excuse. No scutage may be given: the King demands your swords, not your coin. Whosoever fails to make appearance, let him know his lands are utterly forfeit to the crown!’
+
+Beatrice stepped forward. ‘Sir, my father is not a young man.’
+
+The royal messenger looked at her, then at Harold. His voice softened, but only slightly. ‘My lady, the King marches on Wales. To make his claims clear by strength of arms, he gives exemption to no man. Your father is no stranger to such matters, I think.’
+
+He handed the writ to Harold, nodded once, and rode off, presumably towards nearby Rockingham Castle. 
+
+Harold faced away from her, reading the parchment. When he spoke his words were gravely quiet. ‘I promised your mother, Beatrice, that I would not be away at war until you were older—’
+
+‘Then you must keep that promise. Surely the King would understand.’
+
+‘What are my troubles compared to those of kings? Nay, child, I swore fealty to the King. Your mother knew about that when we married, similar to how I swore to be faithful to her.’
+
+‘Then what shall we to do, Father?’ The pit of her stomach hurt.
+
+‘I will go,’ he said. He folded the parchment and laid it on the table. ’I have no choice.’
+
+‘But Father, you are not well. Your hands—’
+
+‘My hands can still wield a sword, Daughter.’ He looked at her, and for a moment she saw the man who had pulled a lord from the Severn, who had ridden with kings. ‘I have held a blade since before you were born...’
+
+Harold turned to face her.
+
+‘You shall manage the estate while I am gone, Beatrice, just as I have taught you, and as you learnt from your mother. It likely won’t be for long.’
+
+’How long do you think? Last time you were away for more than a year?’ 
+
+Harold was quiet for a long moment. ‘I know. That year — after your mother died — I should not have left. You were too young. But I was not myself.’ He looked at her. ‘I am myself now. And I will not leave you unprotected. Not like before.’
+
+‘Then stay.’
+
+‘I know you would keep me here, but if I stay, we lose the land, and more. I will not let that happen, not to you and not to Stanwey.’
+
+He looked at her.
+
+‘As to how long, I might say less than six months, probably three, given the sheer number of men the King is calling, if the messenger is to be believed.’
+
+Beatrice looked at her hands. They were steady. She had made them steady. She had learned to keep them steady while her mother was dying, while her father sat silent, while the world went on around her.
+
+‘Then I shall manage,’ she said with a half-smile.
+
+Harold caught the look on her face, fearful yet being brave for both their sakes. He held her head to kiss her forehead, and spoke reassuringly.
+
+‘Bless you, my daughter. Now you’re the Lady of Stanwey.’
 
 ###
 
 (action)
-it was a moon later when harold and several men from the village waved goodbye and set off. The blacksmith’s wife sighed. ‘I suppose we’ll have time to get the village tidy while the men are away.’
+After some weeks, Harold and several men from the village waved goodbye and set off. The blacksmith’s wife sighed. ‘I suppose we’ll have time to get the village tidy while the men are away.’
 
 indeed it was a full (how long)August before the first knight came through (sir guy).
 
 
-## FULL REVISED CHAPTER WITH CHANGE MARKERS
 
----
+The knight dismounted. He was young, handsome, his clothes travel-stained. He smiled — a warm, practiced smile.
 
-**ORIGINAL TEXT** begins here (with changes marked):
+"I come from Wales," he said. "I carry news for the King at Rockingham. But I also bring word of your father."
 
----
+Beatrice felt her throat tighten. "My father?"
 
-### [NEW SCENE 1 — FARMER'S ENQUIRY]
+"I served with him at the ford. He took a blow, nothing serious. He will recover."
+
+The relief was so sudden and so sharp that it almost hurt. She had been alone for weeks. She had been afraid. And now this stranger had brought her news, and he was kind, and he had seen her father.
+
+She did not ask why a knight was riding alone, or why he had stopped at Stanwey. She was too relieved.
+
+
+
+
+
+
+
+
+
+### [NEW SCENE 1 — FARMER’S ENQUIRY]
 
 > *The knight reined in at the crossroads, where the lane to the river met the old Roman road. A farmer was mending a gate, his hands raw from the cold, his breath clouding in the chill air.*
 >
@@ -994,6 +1050,16 @@ indeed it was a full (how long)August before the first knight came through (sir 
 > *He rode on, his horse's hooves clicking on the old stones. The farmer watched him go, the coin heavy in his palm. Something about the knight's smile had unsettled him — the way he had asked about the daughter, the way he had said "heir," the way he had said "interesting."*
 >
 > *He tucked the coin into his belt and went back to mending the gate.*
+
+
+## FULL REVISED CHAPTER WITH CHANGE MARKERS
+
+---
+
+**ORIGINAL TEXT** begins here (with changes marked):
+
+---
+
 
 ---
 
@@ -7251,6 +7317,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **embrasure** (pl. embrasures; An opening in a wall for firing weapons)
 - **ensemble** (pl. ensembles; A group, especially of musicians)
 - **flail** (pl. flails; A weapon with a spiked ball on a chain)
+- **fealty** (a vow of loyalty and to be faithful, usually to a lord)
 - **gorget** (pl. gorgets; Armor protecting the throat)
 - **gār** (pl. gārs; Spear; Old English term)
 - **greave** (pl. greaves; Armor for the lower leg)
