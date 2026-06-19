@@ -1,4 +1,4 @@
-# Portrait Reconstruction of Henry I of England (1101 CE)
+# Portrait Reconstruction of Henry I of England (1101 AD)
 
 ## A Methodological Summary and Final Description
 
@@ -142,8 +142,7 @@ The presentation of the image as "a photograph in the style of a historical reen
 
 ### 6. Final Image
 
-[![King Henry I of England - a reconstruction](articles/reconstructing_henry_i_england_files/HenryIEngland_20260619_212247.png)](articles/reconstructing_henry_i_england_files/HenryIEngland_20260619_212247.png)
-
+[![King Henry I of England - a reconstruction](https://akingdom.github.io/articles/reconstructing_henry_i_england_files/HenryIEngland_20260619_212247.png)](https://akingdom.github.io/articles/reconstructing_henry_i_england_files/HenryIEngland_20260619_212247.png)
 
 **Image by:** Andrew Kingdom (utilising Microsoft Copilot)
 
