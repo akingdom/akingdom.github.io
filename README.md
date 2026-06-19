@@ -222,7 +222,7 @@ articles/Metrics-Beyond_the_Engagement.md
   - [Recipes](https://github.com/akingdom/food-recipes) · [Weight & Health](https://akingdom.github.io/articles/weight-health)
 
 - **Creative Endeavors** — Reading, writing, UI, artwork, music.
-  - [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ) · [Art](art2/) · [Stereograph Tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html) · [Cleopatra Visualisation](https://akingdom.github.io/articles/reconstructing_cleopatra_vii) · [AI Art](https://akingdom.github.io/art2/)
+  - [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ) · [Art](art2/) · [Stereograph Tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html) · [Cleopatra Visualisation](https://akingdom.github.io/articles/reconstructing_cleopatra_vii) · [Henry I Visualisation](https://akingdom.github.io/articles/reconstructing_henry_i_england) · [AI Art](https://akingdom.github.io/art2/)
   - **Writing** — [On Writing](https://akingdom.github.io/articles/AK_on_writing) · [Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen) · [Micro Stories](https://akingdom.github.io/articles/microstorywriting) · [The Unsafe Saddle](https://akingdom.github.io/articles/microstory-The_unsafe_saddle) · [The Goose Bride](https://akingdom.github.io/articles/The_Goose_Bride)
   - **Software** — [Talking Clock](https://akingdom.github.io/talking_clock) · [Match Blocks](https://akingdom.github.io/matchblox) · [Code](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
