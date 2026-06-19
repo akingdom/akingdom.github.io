@@ -914,15 +914,15 @@ He paused, the precious book resting on his knees. ‘Sweet daughter?’
 
 ‘How many winters have I lived through? Truly?’
 
-‘Let me see…’ His gaze drifted towards the fire as he worked the years in his head. ‘You had seen but two winters when King Henry claimed the throne. Now, it is his twelfth year, I believe. Let me check.’
+‘Let me see…’ His gaze drifted towards the fire as he worked the years in his head. ‘You had seen but two winters when King Henry claimed the throne. Now, it is his fourteenth year, I believe. Let me check.’
 
-He turned the pages towards the front, where the calendar of saints was marked with tiny, cramped notes. His finger settled on a faded ink‑mark in the margin. ‘Fourteen,’ he murmured. ‘Fourteen years since the great frost killed the cattle. A very bad year, and yet, in the middle of it all, God gave your mother and me a most unexpected little gift.’
+He turned the pages towards the front, where the calendar of saints was marked with tiny, cramped notes. His finger settled on a faded ink‑mark in the margin. ‘Sixteen,’ he murmured. ‘Sixteen years since the great frost killed the cattle. A very bad year, and yet, in the middle of it all, God gave your mother and me a most unexpected little gift.’
 
 Seeing his distant smile, Beatrice leant in. ‘Tell me, Father.’ She knew it would bring him pleasure to tell his tales, to pull the old world out from the shadows of the rafters for a time. ‘How many winters for the Red‑Wolf, son of Magnús?’
 
 Harold paused. His eyes drifted from the script to the window, and for a moment the hall seemed to grow cold with the memory of salt spray. When he spoke, his voice dropped into the low, rolling thrum of a saga‑man.
 
-‘Two and sixty winters. I was sixteen winters when Hardrada’s sea-steeds bit the sands at Riccall. I saw the Raven snap in the wind ere the swords broke our shield‑wall at the Bridge. Norway bled on that grass; I thought my own thread was spun.’
+‘Four and sixty winters. I was sixteen winters when Hardrada’s sea-steeds bit the sands at Riccall. I saw the Raven snap in the wind ere the swords broke our shield‑wall at the Bridge. Norway bled on that grass; I thought my own thread was spun.’
 
 He fingered a stiff page of the heavy book, his gaze hard but distant.
 
@@ -931,10 +931,20 @@ He fingered a stiff page of the heavy book, his gaze hard but distant.
 ...a distant horn blew thrice...
 ...messenger arrives... (recycle later messenger)
 ...call to war (wales)...
+...can scutage be paid?
+...cannot be paid. by command of the king, all knights must present themselves at Chester or Shrewsbury.
+
+...discussion...beatrice fears etc. 
 
 
 ‘Now you’re the Lady of Stanwey.’
 
+###
+
+(action)
+it was a moon later when harold and several men from the village waved goodbye and set off. The blacksmith’s wife sighed. ‘I suppose we’ll have time to get the village tidy while the men are away.’
+
+indeed it was a full (how long)August before the first knight came through (sir guy).
 
 
 ## FULL REVISED CHAPTER WITH CHANGE MARKERS
