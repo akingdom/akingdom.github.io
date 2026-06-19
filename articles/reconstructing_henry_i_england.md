@@ -1,4 +1,4 @@
-# Portrait Reconstruction of Henry I of England (1101 AD)
+# Portrait Reconstruction of Henry I of England
 
 ## A Methodological Summary and Final Description
 
@@ -6,7 +6,7 @@
 
 ### 1. Objective
 
-To synthesize a historically faithful, photorealistic portrait of **King Henry I of England** at the age of 33, balancing cultural authenticity with modern visual legibility. The goal was to produce an image that the king himself might have approved—authoritative, era-accurate, and free from later stylistic contamination.
+To synthesize a historically faithful, photorealistic portrait of **King Henry I of England** at the age of 33 (circa 1101 AD), balancing cultural authenticity with modern visual legibility. The goal was to produce an image that the king himself might have approved—authoritative, era-accurate, and free from later stylistic contamination.
 
 ---
 
@@ -144,7 +144,7 @@ The presentation of the image as "a photograph in the style of a historical reen
 
 [![King Henry I of England - a reconstruction](https://akingdom.github.io/articles/reconstructing_henry_i_england_files/HenryIEngland_20260619_212247.png)](https://akingdom.github.io/articles/reconstructing_henry_i_england_files/HenryIEngland_20260619_212247.png)
 
-**Image by:** Andrew Kingdom (utilising Microsoft Copilot)
+**Image by:** Andrew Kingdom (generated via Microsoft Copilot)
 
 ---
 
