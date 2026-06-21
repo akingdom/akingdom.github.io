@@ -332,7 +332,7 @@ Beatrice was seven years old, trotting to keep up. The grass was wet with mornin
 
 ‘How do you remember where it goes?’
 
-‘Your grandfather walked it with me, and his father with him. Now I walk it with you.’ He stopped beside a grey stone half‑buried in the earth, its surface mottled with yellow lichen. ‘This is the first marker. Put your hand on it.’
+‘Those who came before walked it with me. Now I walk it with you.’ He stopped beside a grey stone half‑buried in the earth, its surface mottled with yellow lichen. ‘This is the first marker. Put your hand on it.’
 
 She did. The stone was cold and rough, and under the lichen she could feel the faint shapes of something carved. Letters, perhaps, or symbols she could not read. The inscription ran in two winding lines along the edges of the slab, the runes worn shallow by weather and time.
 
@@ -345,7 +345,7 @@ Beatrice traced the shapes with a finger, though she could not read them. ‘Wha
 
 Harold knelt beside the stone. ‘It says that Tola raised this stone in memory of his father, Ulf. That Ulf crossed the sea with King Sweyn. That he took silver from Æthelred and bought this land. That God help his soul.’ He touched the weathered carving. ‘Æthelred was a king, a long time ago. The payment was Ulf’s right to settle. It means this land was earned, not stolen.’
 
-‘It is the old tongue,’ he continued. ‘Before the Normans, before the Saxons, there were men who spoke like this. One of them was your grandfather’s grandfather, who crossed the sea. He stayed here, and this stone has marked our boundary ever since.’
+‘It is the old tongue,’ he continued. ‘Before the Normans, before the Saxons, there were men who spoke like this. One of them was your ancestor, who crossed the sea, just as I did. He stayed here, and this stone has marked the boundary ever since.’
 
 She nodded, though she did not fully understand. She understood only that her father was telling her something important, something she would need to carry. She pressed her palm flat against the stone and tried to memorise the cold of it, the rough grain of the lichen, the way the carved shapes felt under her fingers.
 
@@ -912,33 +912,41 @@ Below is the fully integrated version of Chapters 5 and 6, with all new warning 
 
 ## Chapter 5 — The Lady of Stanwey
 
-Beatrice pressed her thumb against the last tally and held it there. The parchment had curled at the edges. Nearby, Goosie made another determined attempt to grab the ribbon binding the roll, but Beatrice gently moved her small head away.
+Beatrice pressed her thumb against the last tally and held it there. The parchment had curled at the edges. Nearby, Goosie made another determined attempt to grab the ribbon binding of the roll, but Beatrice gently moved the bird’s head away.
 
-In the background, the two servants raked the rushes, the rustle of straw filling the hall. Spring planting at Stanwey was done. The heat of Beatrice's July name day was still a moon's turn away.
+In the background, the two servants raked the rushes, the rustle of straw filling the hall. Spring planting at Stanwey was done. The Summer heat of Beatrice's July name day was still a month away.
 
 By the warm hearth, Harold sat heavily in his chair, tracing a finger along the vellum of his psalter, his lips moving with the Latin.
 
-Beatrice set her roll aside and stretched her arms with a yawn. 'Father, a question?'
+Beatrice set her roll aside and looked across the room. ‘That’s the accounts done, Father.'
 
 He paused, the precious book resting on his knees. 'Sweet daughter?'
 
-'Looking at the accounts, a thought occurs to me. Truly, how many winters I lived through?'
+'The tallies are done. What are you reading?’
 
-'A good question…' His gaze drifted towards the fire as he worked out the years in his head. 'You had seen but two winters when King Henry claimed the throne. Now, it is his fourteenth year, I believe. Let me check.'
+‘*Emitte manum tuam de excelso; eripe me, et libera me de aquis multis, de manu filiorum alienorum.*’
 
-He turned the pages towards the front, where the calendar of saints was marked with tiny, cramped notes. His finger settled on a faded ink‑mark in the margin. 'Sixteen,' he murmured. 'Sixteen years since the great frost killed the cattle. A very bad year, and yet, in the middle of it all, God gave your mother and me a most unexpected little gift.'
+Beatrice leaned back, tilting her head. ‘Something about giving a hand?’
 
-Seeing his distant smile, Beatrice leant in. 'Tell me, Father.' She knew it would bring him pleasure to tell his tales, to pull the old world out from the shadows of the rafters for a time. 'How many winters for the Red‑Wolf, son of Magnús?'
+‘Reach out your hand from above to deliver me,’ Harold translated from the Latin softly, his voice rough. ‘Rescue me from the sea of waters, from the hands of foreign sons.’
 
-Harold paused. His eyes drifted from the script to the window, and for a moment the hall seemed to grow cold with the memory of salt spray. When he spoke, his voice dropped into the low, rolling thrum of a saga‑man.
+Beatrice leant in, seeing his distant smile. 'It sounds like when you were young, Father. How many winters had you?' 
 
-'Four and sixty winters. I was sixteen winters when Hardrada's sea-steeds bit the sands at Riccall. I saw the Raven snap in the wind ere the swords broke our shield‑wall at the Bridge. Norway bled on that grass; I thought my own thread was spun.'
+He looked down at the script, the ink fading into the old sheepskin. For a Saxon who had spent his life under the weight of a Norman crown, the words carried a familiar taste.
+
+‘Now I have four and sixty winters. But back then I was the very same age as you are now, my daughter, the very same.’
+
+She knew it would bring him pleasure to tell his tales, to pull the old world out from the shadows of the rafters for a time. 'What of the rescue of the Red‑Wolf, son of Magnús?'
+
+When Harold next spoke, his voice dropped into the low, rolling thrum of a saga‑man.
+
+'I was sixteen winters when Hardrada's sea-steeds bit the sands at Riccall. I saw the Raven snap in the wind ere the swords broke our shield‑wall at the Bridge. Norway bled on that grass; I thought my own thread was spun.'
 
 He fingered the heavy book, his hard gaze distant.
 
 'But the Normans were made of stiffer cloth. I bent my knee to their William while the blood was still wet on my mail. I traded my axe for a Norman's horse and rode with his sons through the mud of the West. Now, that was when—'
 
-A sharp horn blast broke their concentration, a wail like a high-pitched cow bellow. Only then did they both realise that two earlier blasts had already passed unnoticed.
+He broke off his tale as a sharp horn blast sounded, a wail like a high-pitched cow bellow. Only then did they both realise that two earlier blasts had already passed unnoticed.
 
 Goosie lifted her head as Beatrice rose to her feet. 'Whatever is that?'
 
@@ -1611,6 +1619,8 @@ The nurse's hand, calloused from years of plucking and grain‑sorting, rested h
 'Dry those, girl,' the nurse muttered, her voice dropping to a gravelly whisper. 'Salt water won't fatten a bird, and it won't soften a King's heart.'
 
 She looked Beatrice squarely in the eye, her expression hard as flint. 'Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here.'
+
+TODO we must drop clues and then make clear that sir guy had spitefully bought up all the birds.
 
 ---
 
