@@ -1,6 +1,8 @@
 # Governing Autonomous Systems:
 ## A Layered Framework for Accountability
 
+![Scales of Justice illustration](./Governing_Automated_Systems_files/scales330.jpeg)
+
 ---
 
 **Version:** 1.0  
@@ -93,6 +95,8 @@ The framework requires only that rules exist, that accountability is clear, that
 ---
 
 ## Part 3: A Three-Layer System – Built to Last, Built to Adapt
+
+![Three-Layer Governance Stack illustration](./Governing_Automated_Systems_files/automation-governance-layers.svg)
 
 Because AI changes fast, we need a layered system where each layer updates at its own natural speed.
 
