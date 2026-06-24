@@ -163,7 +163,7 @@ I've spent years working alongside business owners to turn technology into a com
   <br><strong>AI Tools</strong>
   <br><small>Duplicate Word Finder & Prompt Extraction – sharpen your AI workflow instantly.</small>
 </td>
-articles/Metrics-Beyond_the_Engagement.md
+
 <!-- Scripture Viewer -->
 <td width="33%" valign="top">
   <a href="biblos/">
@@ -189,7 +189,7 @@ articles/Metrics-Beyond_the_Engagement.md
 ## Technology Expertise
 
 - **AI** – Ethics, tutoring, prompts, tasking.
-  - [Governing Autonomous Systems](https://akingdom.github.io/articles/Governing_Autonomous_Systems.md) · [AI Governance Policy](https://akingdom.github.io/articles/AI_Governance_Policy_Accountability_First) · [Universal Ethical Framework](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI) · [AI Communication](https://akingdom.github.io/articles/optimizing_communication_with_ai) · [AI Nomenclature](https://akingdom.github.io/articles/ai_nomenclature) · [AI & Art](https://akingdom.github.io/articles/AI-is-Arts-Next-Tool-Not-Grave) · [AI Protocol](https://akingdom.github.io/articles/ai_verifiable_reality) · [Simplified AI Architecture](https://akingdom.github.io/articles/limits_of_simplified_AI_architecture) · [Designing Developer Systems](https://akingdom.github.io/articles/Global_Developer_Experience-and-System_Design_Mandate)
+  - [Governing Autonomous Systems](https://akingdom.github.io/articles/Governing_Autonomous_Systems) · [AI Governance Policy](https://akingdom.github.io/articles/AI_Governance_Policy_Accountability_First) · [Universal Ethical Framework](https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI) · [AI Communication](https://akingdom.github.io/articles/optimizing_communication_with_ai) · [AI Nomenclature](https://akingdom.github.io/articles/ai_nomenclature) · [AI & Art](https://akingdom.github.io/articles/AI-is-Arts-Next-Tool-Not-Grave) · [AI Protocol](https://akingdom.github.io/articles/ai_verifiable_reality) · [Simplified AI Architecture](https://akingdom.github.io/articles/limits_of_simplified_AI_architecture) · [Designing Developer Systems](https://akingdom.github.io/articles/Global_Developer_Experience-and-System_Design_Mandate)
 
 - **Programming Languages** – Objective‑C, Java, C#, Swift, HTML, JavaScript, CSS, and more.
   - [Advice for Students](https://akingdom.github.io/articles/Programming-Advice-AK) · [Source Code](https://github.com/akingdom?tab=repositories) · [Code Extracts](https://gist.github.com/akingdom) · [Guides](https://github.com/akingdom/) · [Standards](https://github.com/akingdom/)
