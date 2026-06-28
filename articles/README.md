@@ -185,5 +185,3 @@ done
 | **[Playground Housekeeping](playground-housekeeping)** | 2024 | Notes on moving on from "playground". |
 
 ---
-
-**Pro tip:** If you later want to **sort** the TOC by year instead of alphabetically, you can easily copy the table into a spreadsheet and re‑sort – the Year column makes that frictionless.
