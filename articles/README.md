@@ -45,6 +45,7 @@ INSTRUCTIONS TO RE-CREATE THIS CATEGORISED TABLE OF CONTENTS
    - Ensure links are functional when viewed on GitHub or a local Markdown previewer
 -->
 
+# Articles
 ## Table of Contents with Summaries
 
 ---
