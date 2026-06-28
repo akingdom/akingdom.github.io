@@ -1,4 +1,5 @@
 # Random Reality
+*Thoughts on randomness in reality and in computation.*
 
 All finite systems are to some degree controlled, engineered or governed and there is no way around this. 
 
