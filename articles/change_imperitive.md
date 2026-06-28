@@ -1,3 +1,5 @@
+[![Fragile office meeting?](change_imperitive_files/RebuildMeeting-28T135906.737.jpeg)](change_imperitive_files/RebuildMeeting-28T135906.737.jpeg)
+
 # The Change Initiative No One Asked For
 
 *How to move organisations forward without losing the people inside them.*
@@ -8,9 +10,9 @@ Most change initiatives fail.
 
 Not because the solution is wrong. Because we treat people like software updates.
 
-Push the code. Reboot. Expect improvement.
+*'Push the code. Reboot. Expect improvement.'*
 
-People don't work that way.
+Except people don't work that way.
 
 The failure rate is consistent across industries and geographies. McKinsey puts it at roughly 70%. Harvard Business Review says 70-95%. Kearney's 2025 study found 83% miss targets. BCG's global research shows only 26% of transformations create lasting value. The numbers vary by methodology, but the direction is clear: most change efforts do not achieve what they set out to achieve.
 
@@ -144,7 +146,9 @@ You would be surprised how quickly things move when everyone can see the bottlen
 
 ## A Quiet Note on Inspiration
 
-A small, underfunded unit in WWII called WATU achieved remarkable results with almost no resources. They had no budget, no authority, and a hostile hierarchy above them. They succeeded by testing cheap prototypes on a linoleum floor and giving frontline people permission to act without calling London for approval.
+[![Fragile office meeting?](change_imperitive_files/WATU_Wrens_calculating_moves_colour.png)](change_imperitive_files/WATU_Wrens_calculating_moves_colour.png)
+
+A small, underfunded unit in WWII called WATU achieved remarkable results with almost no resources. They had no budget, no authority, and a hostile hierarchy above them. They succeeded by testing cheap prototypes on a wooden floor and giving frontline people permission to act without calling London for approval.
 
 The lesson is not about warfare. It is about constraints. They are not an excuse to wait. If you have no budget, prototype with paper. If you have no authority, test in the one corner of the business that trusts you.
 
