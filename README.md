@@ -226,6 +226,7 @@ I've spent years working alongside business owners to turn technology into a com
   - **Writing** — [On Writing](https://akingdom.github.io/articles/AK_on_writing) · [Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen) · [Micro Stories](https://akingdom.github.io/articles/microstorywriting) · [The Unsafe Saddle](https://akingdom.github.io/articles/microstory-The_unsafe_saddle) · [The Goose Bride](https://akingdom.github.io/articles/The_Goose_Bride)
   - **Software** — [Talking Clock](https://akingdom.github.io/talking_clock) · [Match Blocks](https://akingdom.github.io/matchblox) · [Code](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
+The above includes various [articles](articles) I have written.
 
 ## My Philosophy
 
