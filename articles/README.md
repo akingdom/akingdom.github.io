@@ -97,6 +97,8 @@ INSTRUCTIONS TO RE-CREATE THIS CATEGORISED TABLE OF CONTENTS
 | **[Journey_of_Faith_Trust_and_Eternal_Promise](Journey_of_Faith_Trust_and_Eternal_Promise)** | A spiritual reflection on faith, trust, and eternal promises. |
 | **[growing_by_divine_guidance](growing_by_divine_guidance)** | A piece on personal growth through divine or spiritual guidance. |
 | **[Resurrection_of_Jesus_Christ-An_Inquiry](Resurrection_of_Jesus_Christ-An_Inquiry)** | A historical and theological inquiry into the resurrection of Jesus Christ. |
+| **[first_aid_venomous_bites_stings](first_aid_venomous_bites_stings)** | Practical first‑aid guidance for treating venomous bites and stings. |
+| **[weight-health](weight-health)** | An article about weight management and general health. |
 
 ---
 
@@ -114,6 +116,7 @@ INSTRUCTIONS TO RE-CREATE THIS CATEGORISED TABLE OF CONTENTS
 | **[etymology-notes](etymology-notes)** | Miscellaneous notes on word origins and etymology. |
 | **[Japanese](Japanese)** | Notes on the Japanese language, culture, or learning strategies. |
 | **[maths](maths)** | An article on a mathematical topic. |
+| **[random](random)** | Thoughts on randomness in reality and in computation. |
 
 ---
 
@@ -133,14 +136,11 @@ INSTRUCTIONS TO RE-CREATE THIS CATEGORISED TABLE OF CONTENTS
 
 ---
 
-### 🏥 Health & Miscellaneous
+### 🏥 Miscellaneous
 *Focus: First aid, physical wellbeing, and leftover eclectic topics.*
 
 | Filename | Summary |
 | :--- | :--- |
-| **[first_aid_venomous_bites_stings](first_aid_venomous_bites_stings)** | Practical first‑aid guidance for treating venomous bites and stings. |
-| **[weight-health](weight-health)** | An article about weight management and general health. |
-| **[random](random)** | A miscellaneous collection of random reality and computation topics. |
-| **[playground-housekeeping](playground-housekeeping)** | Notes on maintaining or organising a "playground" (metaphorical or literal). |
+| **[playground-housekeeping](playground-housekeeping)** | Notes on moving on from "playground". |
 
 ---
