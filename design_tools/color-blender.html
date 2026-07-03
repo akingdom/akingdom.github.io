@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Color Combination and Variation Tool</title>
     <style>
         body {
@@ -11,10 +11,11 @@
             text-align: center;
             padding: 20px;
         }
-        input[type="text"], input[type="range"] {
+        input[type="text"],
+        input[type="range"] {
             margin: 5px;
         }
-        /* --- NEW STYLES FOR COLOR PICKER SQUARE --- */
+        /* --- COLOR PICKER SQUARE --- */
         .picker-wrapper {
             display: inline-flex;
             align-items: center;
@@ -40,7 +41,7 @@
             border: none;
             padding: 0;
         }
-        /* ----------------------------------------- */
+        /* --- GRID & BOXES --- */
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -54,15 +55,27 @@
             border: 1px solid #ccc;
             margin-bottom: 10px;
             cursor: pointer;
+            border-radius: 4px;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+        }
+        .color-box:hover {
+            transform: scale(1.04);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+            z-index: 2;
         }
         .color-label {
             position: absolute;
             bottom: 0;
             width: 100%;
-            background-color: rgba(255, 255, 255, 0.8);
+            background-color: rgba(255, 255, 255, 0.85);
             text-align: center;
             padding: 2px 0;
-            font-size: 12px;
+            font-size: 11px;
+            line-height: 1.3;
+            border-radius: 0 0 4px 4px;
+            pointer-events: none;
+            backdrop-filter: blur(2px);
+            word-break: break-word;
         }
         .slider-label {
             display: inline-block;
@@ -73,12 +86,22 @@
             font-size: 14px;
             margin-top: 10px;
         }
-        /* --- NEW STYLES FOR IMAGE PALETTE --- */
+        /* --- SATURATION BADGE ON THE BLENDED BOX --- */
+        .sat-badge {
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            font-size: 9px;
+            padding: 1px 6px;
+            border-radius: 10px;
+            margin-left: 4px;
+            letter-spacing: 0.3px;
+        }
+        /* --- IMAGE PALETTE --- */
         #image-canvas {
-            /* Canvas drawing area is always 256x256, but its content is scaled. */
             border: 2px dashed #007bff;
             cursor: crosshair;
-            display: block; 
+            display: block;
             margin: 0 auto;
         }
         #image-drop-area {
@@ -101,418 +124,412 @@
             text-align: center;
             padding: 10px;
             color: #495057;
+            font-size: 14px;
+        }
+        /* --- responsive tweaks --- */
+        @media (max-width: 600px) {
+            .color-box {
+                width: 80px;
+                height: 80px;
+            }
+            .color-label {
+                font-size: 9px;
+            }
         }
     </style>
-    <script src="../js/colorConversion.js"></script>
+    <script src="../js/colorConversion.js">
+    </script>
 </head>
 <body>
-	<a href=".." style="position:absolute;left: 1em;top: .6em;">Menu</a>
-    <h1>Color Combination and Variation Tool</h1>
+    <a href=".." style="position:absolute;left:1em;top:.6em;">Menu</a>
+    <h1>Color Combination &amp; Variation Tool</h1>
     <p>Enter up to four colors (hex or named) and see various combinations and variations.</p>
 
-    <hr>
+    <hr />
     <h2>Mixer 1</h2>
-
     <div>
         <div class="picker-wrapper">
-            <input type="color" id="pick1" class="color-picker-sq" oninput="syncPickerToText(1, 1)">
-            <input type="text" id="color1" placeholder="yellow" oninput="updateColors(1); syncTextToPicker(1)">
-            <input type="range" id="weight1" min="0" max="100" value="25" oninput="updateColors(1)">
+            <input type="color" id="pick1" class="color-picker-sq" oninput="syncPickerToText(1,1)" />
+            <input type="text" id="color1" placeholder="yellow" oninput="updateColors(1); syncTextToPicker(1)" />
+            <input type="range" id="weight1" min="0" max="100" value="25" oninput="updateColors(1)" />
             <span id="closestColor1"></span>
-        </div><br>
-        
+        </div><br />
         <div class="picker-wrapper">
-            <input type="color" id="pick2" class="color-picker-sq" oninput="syncPickerToText(2, 1)">
-            <input type="text" id="color2" placeholder="#00FF00" oninput="updateColors(1); syncTextToPicker(2)">
-            <input type="range" id="weight2" min="0" max="100" value="25" oninput="updateColors(1)">
+            <input type="color" id="pick2" class="color-picker-sq" oninput="syncPickerToText(2,1)" />
+            <input type="text" id="color2" placeholder="#00FF00" oninput="updateColors(1); syncTextToPicker(2)" />
+            <input type="range" id="weight2" min="0" max="100" value="25" oninput="updateColors(1)" />
             <span id="closestColor2"></span>
-        </div><br>
-
+        </div><br />
         <div class="picker-wrapper">
-            <input type="color" id="pick3" class="color-picker-sq" oninput="syncPickerToText(3, 1)">
-            <input type="text" id="color3" placeholder="#0000FF" oninput="updateColors(1); syncTextToPicker(3)">
-            <input type="range" id="weight3" min="0" max="100" value="25" oninput="updateColors(1)">
+            <input type="color" id="pick3" class="color-picker-sq" oninput="syncPickerToText(3,1)" />
+            <input type="text" id="color3" placeholder="#0000FF" oninput="updateColors(1); syncTextToPicker(3)" />
+            <input type="range" id="weight3" min="0" max="100" value="25" oninput="updateColors(1)" />
             <span id="closestColor3"></span>
-        </div><br>
-
+        </div><br />
         <div class="picker-wrapper">
-            <input type="color" id="pick4" class="color-picker-sq" oninput="syncPickerToText(4, 1)">
-            <input type="text" id="color4" placeholder="#FFFF00" oninput="updateColors(1); syncTextToPicker(4)">
-            <input type="range" id="weight4" min="0" max="100" value="25" oninput="updateColors(1)">
+            <input type="color" id="pick4" class="color-picker-sq" oninput="syncPickerToText(4,1)" />
+            <input type="text" id="color4" placeholder="#FFFF00" oninput="updateColors(1); syncTextToPicker(4)" />
+            <input type="range" id="weight4" min="0" max="100" value="25" oninput="updateColors(1)" />
             <span id="closestColor4"></span>
         </div>
     </div>
-
     <div class="grid" id="results1"></div>
     <div id="copied-message1" class="copied"></div>
 
-    <hr>
-    
+    <hr />
     <h2>Mixer 2</h2>
-
     <div>
         <div class="picker-wrapper">
-            <input type="color" id="pick5" class="color-picker-sq" oninput="syncPickerToText(5, 2)">
-            <input type="text" id="color5" placeholder="#FF0000" oninput="updateColors(2); syncTextToPicker(5)">
-            <input type="range" id="weight5" min="0" max="100" value="25" oninput="updateColors(2)">
+            <input type="color" id="pick5" class="color-picker-sq" oninput="syncPickerToText(5,2)" />
+            <input type="text" id="color5" placeholder="#FF0000" oninput="updateColors(2); syncTextToPicker(5)" />
+            <input type="range" id="weight5" min="0" max="100" value="25" oninput="updateColors(2)" />
             <span id="closestColor5"></span>
-        </div><br>
-
+        </div><br />
         <div class="picker-wrapper">
-            <input type="color" id="pick6" class="color-picker-sq" oninput="syncPickerToText(6, 2)">
-            <input type="text" id="color6" placeholder="#00FF00" oninput="updateColors(2); syncTextToPicker(6)">
-            <input type="range" id="weight6" min="0" max="100" value="25" oninput="updateColors(2)">
+            <input type="color" id="pick6" class="color-picker-sq" oninput="syncPickerToText(6,2)" />
+            <input type="text" id="color6" placeholder="#00FF00" oninput="updateColors(2); syncTextToPicker(6)" />
+            <input type="range" id="weight6" min="0" max="100" value="25" oninput="updateColors(2)" />
             <span id="closestColor6"></span>
-        </div><br>
-
+        </div><br />
         <div class="picker-wrapper">
-            <input type="color" id="pick7" class="color-picker-sq" oninput="syncPickerToText(7, 2)">
-            <input type="text" id="color7" placeholder="#0000FF" oninput="updateColors(2); syncTextToPicker(7)">
-            <input type="range" id="weight7" min="0" max="100" value="25" oninput="updateColors(2)">
+            <input type="color" id="pick7" class="color-picker-sq" oninput="syncPickerToText(7,2)" />
+            <input type="text" id="color7" placeholder="#0000FF" oninput="updateColors(2); syncTextToPicker(7)" />
+            <input type="range" id="weight7" min="0" max="100" value="25" oninput="updateColors(2)" />
             <span id="closestColor7"></span>
-        </div><br>
-
+        </div><br />
         <div class="picker-wrapper">
-            <input type="color" id="pick8" class="color-picker-sq" oninput="syncPickerToText(8, 2)">
-            <input type="text" id="color8" placeholder="#FFFF00" oninput="updateColors(2); syncTextToPicker(8)">
-            <input type="range" id="weight8" min="0" max="100" value="25" oninput="updateColors(2)">
+            <input type="color" id="pick8" class="color-picker-sq" oninput="syncPickerToText(8,2)" />
+            <input type="text" id="color8" placeholder="#FFFF00" oninput="updateColors(2); syncTextToPicker(8)" />
+            <input type="range" id="weight8" min="0" max="100" value="25" oninput="updateColors(2)" />
             <span id="closestColor8"></span>
         </div>
     </div>
-
     <div class="grid" id="results2"></div>
     <div id="copied-message2" class="copied"></div>
-    
-    <hr>
+
+    <hr />
     <section id="image-palette-section">
         <h2>🖼️ Image Color Palette</h2>
         <div id="image-drop-area">
-            <p>Paste an image (Ctrl+V), Drag & Drop a file, or Click to Upload. Click on image to pick a pixel color.</p>
+            <p>Paste an image (Ctrl+V), Drag &amp; Drop, or Click to Upload.<br />Click on image to pick a pixel color.</p>
             <canvas id="image-canvas" width="256" height="256"></canvas>
-            <input type="file" id="image-upload" accept="image/*" style="display: none;">
+            <input type="file" id="image-upload" accept="image/*" style="display:none;" />
         </div>
-        
-        <div style="margin: 20px 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
-            <label for="numColorsRange" style="font-weight: bold;">Dominant Colors:</label>
-            <input type="range" id="numColorsRange" min="1" max="32" value="8" 
-                   style="width: 150px;" oninput="updateDominantCount()">
-            <span id="numColorsValue" style="font-weight: bold; color: #007bff;"></span>
+        <div style="margin:20px 0;display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;">
+            <label for="numColorsRange" style="font-weight:bold;">Dominant Colors:</label>
+            <input type="range" id="numColorsRange" min="1" max="32" value="8" style="width:150px;" oninput="updateDominantCount()" />
+            <span id="numColorsValue" style="font-weight:bold;color:#007bff;"></span>
         </div>
-        
         <div class="grid">
-            <div id="pixel-color-container">
-                </div>
-            <div id="dominant-colors-container" style="display: contents;"></div>
+            <div id="pixel-color-container"></div>
+            <div id="dominant-colors-container" style="display:contents;"></div>
         </div>
         <div id="copied-message-image" class="copied"></div>
     </section>
 
     <script>
-        // NOTE: colorfromHex, RGBAToHex, getClosestNamedColor, and namedWebColors are assumed to be loaded from colorConversion.js
+        // ---- utilities from colorConversion.js (assumed loaded) ----
+        // colorfromHex, RGBAToHex, getClosestNamedColor, namedWebColors
 
-        // --- NEW SYNC LOGIC ---
+        // ---- SYNC picker ↔ text ----
         function syncPickerToText(id, mixerNum) {
-            const picker = document.getElementById(`pick${id}`);
-            const textInput = document.getElementById(`color${id}`);
-            textInput.value = picker.value.toUpperCase();
-            updateColors(mixerNum);
+            const picker = document.getElementById('pick' + id);
+            const textInput = document.getElementById('color' + id);
+            if (picker && textInput) {
+                textInput.value = picker.value.toUpperCase();
+                updateColors(mixerNum);
+            }
         }
 
         function syncTextToPicker(id) {
-            const picker = document.getElementById(`pick${id}`);
-            const textInput = document.getElementById(`color${id}`);
-            // Use your existing parseColor to handle names like "red"
+            const picker = document.getElementById('pick' + id);
+            const textInput = document.getElementById('color' + id);
+            if (!picker || !textInput) return;
             const rgba = parseColor(textInput.value);
             if (rgba) {
-                // <input type="color"> requires 7-character hex (#RRGGBB)
-                const hex = RGBAToHex({r: rgba.r, g: rgba.g, b: rgba.b, a: 255}).substring(0, 7);
+                const hex = RGBAToHex({ r: rgba.r, g: rgba.g, b: rgba.b, a: 255 }).substring(0, 7);
                 picker.value = hex;
             }
         }
-        // ----------------------
-        
-        // --- HSL Conversion for Dominant Color Bias ---
-        function RGBToHSL(r, g, b) {
-            r /= 255; g /= 255; b /= 255;
-            const max = Math.max(r, g, b), min = Math.min(r, g, b);
-            let h, s, l = (max + min) / 2;
 
-            if (max === min) {
-                h = s = 0; // achromatic
-            } else {
-                const d = max - min;
-                s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
-                switch (max) {
-                    case r: h = (g - b) / d + (g < b ? 6 : 0); break;
-                    case g: h = (b - r) / d + 2; break;
-                    case b: h = (r - g) / d + 4; break;
-                }
-                h /= 6;
-            }
-            // Return L (Lightness/Value) normalized to 0-100 for comparison
-            return { h: h, s: s, l: l * 100 }; 
-        }
-
-        // --- EXISTING COLOR MIXER LOGIC ---
-
+        // ---- parse / blend / etc. ----
         function parseColor(input) {
+            if (!input) return null;
             const colorHex = namedWebColors[input.toLowerCase()] || input;
-            try { return colorfromHex(colorHex); } catch(e) { return null; }
+            try { return colorfromHex(colorHex); } catch (e) { return null; }
         }
 
         function blendColors(colors, weights) {
-            const totalWeight = weights.reduce((acc, weight) => acc + weight, 0);
-            if (totalWeight === 0) {
-                return { r: 0, g: 0, b: 0, a: 255 };
-            }
-            const normalizedWeights = weights.map(weight => weight / totalWeight);
-            const blended = colors.reduce((acc, color, index) => {
-                acc.r += color.r * normalizedWeights[index];
-                acc.g += color.g * normalizedWeights[index];
-                acc.b += color.b * normalizedWeights[index];
-                acc.a += color.a * normalizedWeights[index];
-                return acc;
-            }, { r: 0, g: 0, b: 0, a: 0 });
-
-            return { r: Math.round(blended.r), g: Math.round(blended.g), b: Math.round(blended.b), a: Math.round(blended.a) };
+            const totalWeight = weights.reduce((a, b) => a + b, 0);
+            if (totalWeight === 0) return { r: 0, g: 0, b: 0, a: 255 };
+            const norm = weights.map(w => w / totalWeight);
+            const acc = { r: 0, g: 0, b: 0, a: 0 };
+            colors.forEach((c, i) => {
+                acc.r += c.r * norm[i];
+                acc.g += c.g * norm[i];
+                acc.b += c.b * norm[i];
+                acc.a += c.a * norm[i];
+            });
+            return { r: Math.round(acc.r), g: Math.round(acc.g), b: Math.round(acc.b), a: Math.round(acc.a) };
         }
 
-        function invertColor(color) {
-            return { r: 255 - color.r, g: 255 - color.g, b: 255 - color.b, a: color.a };
-        }
+        function invertColor(c) { return { r: 255 - c.r, g: 255 - c.g, b: 255 - c.b, a: c.a }; }
 
-        function shadeColor(color, percent) {
-            const factor = percent / 100;
+        function shadeColor(c, percent) {
+            const f = percent / 100;
             return {
-                r: Math.min(255, Math.max(0, Math.round(color.r + factor * (255 - color.r)))),
-                g: Math.min(255, Math.max(0, Math.round(color.g + factor * (255 - color.g)))),
-                b: Math.min(255, Math.max(0, Math.round(color.b + factor * (255 - color.b)))),
-                a: color.a
+                r: Math.min(255, Math.max(0, Math.round(c.r + f * (255 - c.r)))),
+                g: Math.min(255, Math.max(0, Math.round(c.g + f * (255 - c.g)))),
+                b: Math.min(255, Math.max(0, Math.round(c.b + f * (255 - c.b)))),
+                a: c.a
             };
         }
 
-        function pastelColor(color) {
-            return shadeColor(color, 70);
-        }
+        function pastelColor(c) { return shadeColor(c, 70); }
 
-        function vibrantColor(color) {
-            return shadeColor(color, -70);
-        }
-
-        function hueShift(color, degrees) {
-            const r = color.r / 255;
-            const g = color.g / 255;
-            const b = color.b / 255;
-            const max = Math.max(r, g, b);
-            const min = Math.min(r, g, b);
-            let h, s, l = (max + min) / 2;
-
-            if (max === min) {
-                h = s = 0;
-            } else {
-                const d = max - min;
-                s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
-                switch (max) {
-                    case r: h = (g - b) / d + (g < b ? 6 : 0); break;
-                    case g: h = (b - r) / d + 2; break;
-                    case b: h = (r - g) / d + 4; break;
-                }
-                h /= 6;
-            }
-
-            h = (h * 360 + degrees) % 360;
-            if (h < 0) h += 360;
-            h /= 360;
-
-            let q = l < 0.5 ? l * (1 + s) : l + s - l * s;
-            let p = 2 * l - q;
-            const r2 = Math.round(hue2rgb(p, q, h + 1/3) * 255);
-            const g2 = Math.round(hue2rgb(p, q, h) * 255);
-            const b2 = Math.round(hue2rgb(p, q, h - 1/3) * 255);
-
-            return { r: r2, g: g2, b: b2, a: color.a };
-        }
+        function vibrantColor(c) { return shadeColor(c, -70); }
 
         function hue2rgb(p, q, t) {
             if (t < 0) t += 1;
             if (t > 1) t -= 1;
-            if (t < 1/6) return p + (q - p) * 6 * t;
-            if (t < 1/2) return q;
-            if (t < 2/3) return p + (q - p) * (2/3 - t) * 6;
+            if (t < 1 / 6) return p + (q - p) * 6 * t;
+            if (t < 1 / 2) return q;
+            if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
             return p;
         }
 
-		function equalColors(a,b) {
-			if(!a || !b) return false;
-			return a.r == b.r && a.g == b.g && a.b == b.b && a.a == b.a;
-		}
-		
-		function colorName(rgba) {
-      if(!rgba) return '';
-			const closestColorName = getClosestNamedColor(rgba);
-			if(closestColorName == '') return '';
-			const closestColorHex = namedWebColors[closestColorName];
-			const closestColorRGBA = colorfromHex(closestColorHex);
-			const almost = equalColors(rgba, closestColorRGBA) ? '' : " ≈";
-			return `${closestColorName}${almost}`;
-		}
+        function hueShift(c, degrees) {
+            const r = c.r / 255,
+                g = c.g / 255,
+                b = c.b / 255;
+            const max = Math.max(r, g, b),
+                min = Math.min(r, g, b);
+            let h, s, l = (max + min) / 2;
+            if (max === min) { h = s = 0; } else {
+                const d = max - min;
+                s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+                switch (max) {
+                    case r:
+                        h = (g - b) / d + (g < b ? 6 : 0);
+                        break;
+                    case g:
+                        h = (b - r) / d + 2;
+                        break;
+                    case b:
+                        h = (r - g) / d + 4;
+                        break;
+                }
+                h /= 6;
+            }
+            h = (h * 360 + degrees) % 360;
+            if (h < 0) h += 360;
+            h /= 360;
+            let q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+            let p = 2 * l - q;
+            return {
+                r: Math.round(hue2rgb(p, q, h + 1 / 3) * 255),
+                g: Math.round(hue2rgb(p, q, h) * 255),
+                b: Math.round(hue2rgb(p, q, h - 1 / 3) * 255),
+                a: c.a
+            };
+        }
 
+        function equalColors(a, b) {
+            if (!a || !b) return false;
+            return a.r === b.r && a.g === b.g && a.b === b.b && a.a === b.a;
+        }
+
+        function colorName(rgba) {
+            if (!rgba) return '';
+            const closestColorName = getClosestNamedColor(rgba);
+            if (!closestColorName) return '';
+            const closestColorHex = namedWebColors[closestColorName];
+            const closestColorRGBA = colorfromHex(closestColorHex);
+            const almost = equalColors(rgba, closestColorRGBA) ? '' : ' ≈';
+            return closestColorName + almost;
+        }
+
+        // ---- NEW: saturation helpers ----
+        function RGBToHSL(r, g, b) {
+            r /= 255;
+            g /= 255;
+            b /= 255;
+            const max = Math.max(r, g, b),
+                min = Math.min(r, g, b);
+            let h, s, l = (max + min) / 2;
+            if (max === min) { h = s = 0; } else {
+                const d = max - min;
+                s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+                switch (max) {
+                    case r:
+                        h = (g - b) / d + (g < b ? 6 : 0);
+                        break;
+                    case g:
+                        h = (b - r) / d + 2;
+                        break;
+                    case b:
+                        h = (r - g) / d + 4;
+                        break;
+                }
+                h /= 6;
+            }
+            return { h: h * 360, s: s * 100, l: l * 100 };
+        }
+
+        function HSLToRGB(h, s, l) {
+            h /= 360;
+            s /= 100;
+            l /= 100;
+            let r, g, b;
+            if (s === 0) {
+                r = g = b = l;
+            } else {
+                const hue2rgb2 = (p, q, t) => {
+                    if (t < 0) t += 1;
+                    if (t > 1) t -= 1;
+                    if (t < 1 / 6) return p + (q - p) * 6 * t;
+                    if (t < 1 / 2) return q;
+                    if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
+                    return p;
+                };
+                const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+                const p = 2 * l - q;
+                r = hue2rgb2(p, q, h + 1 / 3);
+                g = hue2rgb2(p, q, h);
+                b = hue2rgb2(p, q, h - 1 / 3);
+            }
+            return { r: Math.round(r * 255), g: Math.round(g * 255), b: Math.round(b * 255) };
+        }
+
+        function getSaturationPercent(rgba) {
+            const hsl = RGBToHSL(rgba.r, rgba.g, rgba.b);
+            return Math.round(hsl.s);
+        }
+
+        function fullySaturatedColor(rgba) {
+            const hsl = RGBToHSL(rgba.r, rgba.g, rgba.b);
+            // keep hue and lightness, set saturation to 100%
+            const rgb = HSLToRGB(hsl.h, 100, hsl.l);
+            return { r: rgb.r, g: rgb.g, b: rgb.b, a: rgba.a };
+        }
+
+        // ---- render color boxes ----
+        function addColorBoxToContainer(container, color, label, extraClass) {
+            const hex = RGBAToHex(color);
+            const name = colorName(color);
+            const sat = getSaturationPercent(color);
+            let labelHtml = `${label}<br>${hex}`;
+            if (name) labelHtml += ` ${name}`;
+            // show saturation badge on blended color
+            if (label === 'Blended') {
+                labelHtml += ` <span class="sat-badge">${sat}% sat</span>`;
+            }
+            const box = document.createElement('div');
+            box.className = 'color-box' + (extraClass ? ' ' + extraClass : '');
+            box.style.backgroundColor = hex;
+            box.innerHTML = `<div class="color-label">${labelHtml}</div>`;
+            box.addEventListener('click', () => {
+                copyToClipboard(hex, container.dataset.mixer || 0);
+            });
+            container.appendChild(box);
+        }
+
+        // ---- update mixer ----
         function updateColors(mixer) {
             const startIdx = 1 + (mixer - 1) * 4;
-            const colorInputs = [
-                document.getElementById(`color${startIdx}`).value,
-                document.getElementById(`color${startIdx+1}`).value,
-                document.getElementById(`color${startIdx+2}`).value,
-                document.getElementById(`color${startIdx+3}`).value
-            ];
+            const inputs = [];
+            const weights = [];
+            for (let i = 0; i < 4; i++) {
+                const idx = startIdx + i;
+                const val = document.getElementById('color' + idx).value;
+                const w = val ? Number(document.getElementById('weight' + idx).value) : 0;
+                inputs.push(val);
+                weights.push(w);
+            }
+            const parsed = inputs.map(parseColor).filter((c, i) => c && weights[i] > 0);
+            const filteredWeights = weights.filter((w, i) => inputs[i] && w > 0);
 
-            const weights = [
-                colorInputs[0] ? Number(document.getElementById(`weight${startIdx}`).value) : 0,
-                colorInputs[1] ? Number(document.getElementById(`weight${startIdx+1}`).value) : 0,
-                colorInputs[2] ? Number(document.getElementById(`weight${startIdx+2}`).value) : 0,
-                colorInputs[3] ? Number(document.getElementById(`weight${startIdx+3}`).value) : 0
-            ];
-
-            const parsedColors = colorInputs.map(parseColor).filter((c, index) => c && weights[index] > 0);
-            const filteredWeights = weights.filter((w, index) => colorInputs[index] && w > 0);
-            const results = document.getElementById(`results${mixer}`);
+            const results = document.getElementById('results' + mixer);
             results.innerHTML = '';
+            results.dataset.mixer = mixer;
 
-            colorInputs.forEach((input, index) => {
-                const displayIdx = index + startIdx;
-                if (input) {
-                    const color = parseColor(input);
-                    document.getElementById(`closestColor${displayIdx}`).textContent = `${colorName(color)}`;
-                } else {
-                    document.getElementById(`closestColor${displayIdx}`).textContent = '';
+            // update closest color names
+            for (let i = 0; i < 4; i++) {
+                const idx = startIdx + i;
+                const span = document.getElementById('closestColor' + idx);
+                if (span) {
+                    const c = parseColor(document.getElementById('color' + idx).value);
+                    span.textContent = c ? colorName(c) : '';
                 }
-            });
-
-            if (parsedColors.length === 0) return;
-
-            const blendedColor = blendColors(parsedColors, filteredWeights);
-
-            function addColorBox(color, label) {
-                const hex = RGBAToHex(color);
-                // Updated label format to include HEX in the label for clarity
-                results.innerHTML += `
-                    <div class="color-box" style="background-color: ${hex};" onclick="copyToClipboard('${hex}', ${mixer})">
-                        <div class="color-label">${label} <br>${hex} ${colorName(color)}</div>
-                    </div>
-                `;
             }
 
-            addColorBox(blendedColor, `Blended`);
-            addColorBox(invertColor(blendedColor), `Inverse`);
-            addColorBox(pastelColor(blendedColor), `Pastel`);
-            addColorBox(vibrantColor(blendedColor), `Vibrant`);
-            addColorBox(shadeColor(blendedColor, 20), `Lighter`);
-            addColorBox(shadeColor(blendedColor, -20), `Darker`);
-            addColorBox(hueShift(blendedColor, 120), `Tri-chromic 1`);
-            addColorBox(hueShift(blendedColor, 240), `Tri-chromic 2`);
-            addColorBox(hueShift(blendedColor, 90), `Tetra-chromic 1`);
-            addColorBox(hueShift(blendedColor, 180), `Tetra-chromeic 2`);
-            addColorBox(hueShift(blendedColor, 270), `Tetra-chromeic 3`);
+            if (parsed.length === 0) return;
+
+            const blended = blendColors(parsed, filteredWeights);
+
+            // 1) Blended (with saturation badge)
+            addColorBoxToContainer(results, blended, 'Blended');
+
+            // 2) Fully Saturated (NEW) — shows the "actual" colour at 100% saturation
+            const saturated = fullySaturatedColor(blended);
+            addColorBoxToContainer(results, saturated, 'Full Saturation');
+
+            // 3) other variations
+            addColorBoxToContainer(results, invertColor(blended), 'Inverse');
+            addColorBoxToContainer(results, pastelColor(blended), 'Pastel');
+            addColorBoxToContainer(results, vibrantColor(blended), 'Vibrant');
+            addColorBoxToContainer(results, shadeColor(blended, 20), 'Lighter');
+            addColorBoxToContainer(results, shadeColor(blended, -20), 'Darker');
+            addColorBoxToContainer(results, hueShift(blended, 120), 'Tri-chromic 1');
+            addColorBoxToContainer(results, hueShift(blended, 240), 'Tri-chromic 2');
+            addColorBoxToContainer(results, hueShift(blended, 90), 'Tetra-chromic 1');
+            addColorBoxToContainer(results, hueShift(blended, 180), 'Tetra-chromic 2');
+            addColorBoxToContainer(results, hueShift(blended, 270), 'Tetra-chromic 3');
         }
 
+        // ---- clipboard ----
         function copyToClipboard(text, mixer) {
-            const textarea = document.createElement("textarea");
-            textarea.value = text;
-            document.body.appendChild(textarea);
-            textarea.select();
-            document.execCommand("copy");
-            document.body.removeChild(textarea);
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand('copy');
+            document.body.removeChild(ta);
 
-            const copiedMessage = document.getElementById(`copied-message${mixer}`);
-            if (copiedMessage) {
-                copiedMessage.textContent = `Copied ${text} to clipboard!`;
-                setTimeout(() => {
-                    copiedMessage.textContent = "";
-                }, 2000);
+            let msg;
+            if (mixer === 0) {
+                msg = document.getElementById('copied-message-image');
+            } else {
+                msg = document.getElementById('copied-message' + mixer);
             }
-            // For the image palette, use a dedicated message element
-            const imageCopiedMessage = document.getElementById('copied-message-image');
-            if (imageCopiedMessage && mixer === 0) {
-                 imageCopiedMessage.textContent = `Copied ${text} to clipboard!`;
-                setTimeout(() => {
-                    imageCopiedMessage.textContent = "";
-                }, 2000);
+            if (msg) {
+                msg.textContent = 'Copied ' + text + ' to clipboard!';
+                setTimeout(() => { msg.textContent = ''; }, 2000);
             }
         }
-        
-        // --- IMAGE PALETTE LOGIC ---
-        
+
+        // ---- IMAGE PALETTE ----
         const canvas = document.getElementById('image-canvas');
         const ctx = canvas.getContext('2d');
         const dropArea = document.getElementById('image-drop-area');
         const imageUpload = document.getElementById('image-upload');
-        const PIXEL_COLOR_CONTAINER = document.getElementById('pixel-color-container');
-        const DOMINANT_COLORS_CONTAINER = document.getElementById('dominant-colors-container');
-        const transparentColor = colorfromHex("00000000");
+        const pixelContainer = document.getElementById('pixel-color-container');
+        const dominantContainer = document.getElementById('dominant-colors-container');
+        const transparentColor = colorfromHex('00000000');
+        let minDominantColours = 8;
 
-        let minDominantColours = -1;
+        pixelContainer.innerHTML = '';
+        const defaultPixelBox = document.createElement('div');
+        defaultPixelBox.className = 'color-box';
+        defaultPixelBox.style.backgroundColor = '#ccc';
+        defaultPixelBox.innerHTML = `<div class="color-label">Pixel Color<br>—</div>`;
+        defaultPixelBox.addEventListener('click', () => copyToClipboard('—', 0));
+        pixelContainer.appendChild(defaultPixelBox);
 
-        // 1. Image Loading (File Upload, Drag & Drop, Paste)
-        dropArea.addEventListener('click', (e) => {
-            if (e.target.id !== 'image-canvas' && e.target.tagName !== 'BUTTON') {
-                 imageUpload.click();
-            }
-        });
-        imageUpload.addEventListener('change', (e) => {
-            if (e.target.files.length) {
-                loadImageFromFile(e.target.files[0]);
-            }
-        });
-
-        // Drag & Drop
-        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
-            dropArea.addEventListener(eventName, preventDefaults, false);
-        });
-        ['dragenter', 'dragover'].forEach(eventName => {
-            dropArea.addEventListener(eventName, () => dropArea.style.borderColor = '#0056b3', false);
-        });
-        ['dragleave', 'drop'].forEach(eventName => {
-            dropArea.addEventListener(eventName, () => dropArea.style.borderColor = '#6c757d', false);
-        });
-        dropArea.addEventListener('drop', (e) => {
-            const dt = e.dataTransfer;
-            const file = dt.files[0];
-            const items = dt.items;
-
-            if (file && file.type.startsWith('image/')) {
-                loadImageFromFile(file);
-            } else if (items) {
-                for (let i = 0; i < items.length; i++) {
-                    if (items[i].kind === 'file' && items[i].type.startsWith('image/')) {
-                        loadImageFromFile(items[i].getAsFile());
-                        return;
-                    }
-                }
-            }
-        }, false);
-
-        // Paste
-        document.addEventListener('paste', (e) => {
-            for (let i = 0; i < e.clipboardData.items.length; i++) {
-                const item = e.clipboardData.items[i];
-                if (item.type.indexOf('image') !== -1) {
-                    loadImageFromFile(item.getAsFile());
-                    e.preventDefault(); 
-                    break;
-                }
-            }
-        });
-
-        function preventDefaults(e) {
-            e.preventDefault();
-            e.stopPropagation();
-        }
-
+        // load image
         function loadImageFromFile(file) {
             const reader = new FileReader();
-            reader.onload = (e) => {
-                drawImageOnCanvas(e.target.result);
-            };
+            reader.onload = (e) => drawImageOnCanvas(e.target.result);
             reader.readAsDataURL(file);
         }
 
@@ -521,225 +538,175 @@
             img.crossOrigin = 'Anonymous';
             img.onload = () => {
                 ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-                let targetWidth = img.width;
-                let targetHeight = img.height;
-                
-                // Scale the image down to fit the 256x256 canvas area (display limit)
-                const max_size = 256;
-                const ratio = Math.min(max_size / targetWidth, max_size / targetHeight);
-                
-                if (ratio < 1) {
-                    targetWidth *= ratio;
-                    targetHeight *= ratio;
-                }
-                
-                // Center the image within the 256x256 canvas
-                const x_offset = (canvas.width - targetWidth) / 2;
-                const y_offset = (canvas.height - targetHeight) / 2;
-
-                ctx.drawImage(img, x_offset, y_offset, targetWidth, targetHeight);
-                dropArea.querySelector('p').style.display = 'none';
+                let tw = img.width,
+                    th = img.height;
+                const maxSize = 256;
+                const ratio = Math.min(maxSize / tw, maxSize / th);
+                if (ratio < 1) { tw *= ratio;
+                    th *= ratio; }
+                const xOff = (canvas.width - tw) / 2;
+                const yOff = (canvas.height - th) / 2;
+                ctx.drawImage(img, xOff, yOff, tw, th);
+                const p = dropArea.querySelector('p');
+                if (p) p.style.display = 'none';
                 updateDominantCount();
             };
             img.onerror = () => {
-                alert("Error loading image. Ensure it's a valid image file and not from a cross-origin source without CORS headers.");
-                dropArea.querySelector('p').style.display = 'block';
-            }
+                alert('Error loading image. Check CORS or file format.');
+                const p = dropArea.querySelector('p');
+                if (p) p.style.display = 'block';
+            };
             img.src = dataURL;
         }
 
-
-        // 2. Pixel Color Picker
-
-        canvas.addEventListener('click', getPixelColor);
-        PIXEL_COLOR_CONTAINER.innerHTML = createColorBoxHTML(transparentColor, 'Pixel Color');
-
-        function getPixelColor(e) {
+        // pixel picker
+        canvas.addEventListener('click', (e) => {
             const rect = canvas.getBoundingClientRect();
             const x = e.clientX - rect.left;
             const y = e.clientY - rect.top;
-            
-            let color = transparentColor;
-            PIXEL_COLOR_CONTAINER.innerHTML = '';
-            
             try {
                 const pixel = ctx.getImageData(x, y, 1, 1).data;
-
-                if (pixel[3] < 50) { // Check for near-transparency/background
-                    return;
-                }
-                
-                const r = pixel[0];
-                const g = pixel[1];
-                const b = pixel[2];
-
-                const newColor = {r, g, b, a: pixel[3]};
-                
-                const hex = RGBAToHex(newColor);
-                
-                // --- NEW CODE: Automatically copy the hex code to clipboard ---
-                copyToClipboard(hex, 0); 
-                // -----------------------------------------------------------------
-                
-                // Use the existing addColorBox style for display
-                color = newColor;
-                
-            } catch (error) {
-                 console.error(error);
-                 alert("Cannot read pixel data. The canvas is likely tainted by a cross-origin image.");
+                if (pixel[3] < 50) return;
+                const color = { r: pixel[0], g: pixel[1], b: pixel[2], a: pixel[3] };
+                const hex = RGBAToHex(color);
+                copyToClipboard(hex, 0);
+                pixelContainer.innerHTML = '';
+                const box = document.createElement('div');
+                box.className = 'color-box';
+                box.style.backgroundColor = hex;
+                const name = colorName(color);
+                const sat = getSaturationPercent(color);
+                box.innerHTML =
+                    `<div class="color-label">Pixel Color<br>${hex} ${name} <span class="sat-badge">${sat}% sat</span></div>`;
+                box.addEventListener('click', () => copyToClipboard(hex, 0));
+                pixelContainer.appendChild(box);
+            } catch (err) {
+                console.error(err);
+                alert('Cannot read pixel data (cross-origin taint).');
             }
-            
-            const colorBoxHTML = createColorBoxHTML(color, 'Pixel Color');
-            PIXEL_COLOR_CONTAINER.innerHTML = colorBoxHTML;
-        }
-        
-        function createColorBoxHTML(color, label) {
-            const hex = RGBAToHex(color);
-            // Label format: [Label] ([#HEX]) [Closest Named Color] [≈]
-            const name = colorName(color);
-            const labelText = `${label} <br>${hex} ${name}`;
-            
-            // The entire box is the copy target, copying the hex value (mixer 0 is general clipboard)
-            return `
-                <div class="color-box" style="background-color: ${hex};" onclick="copyToClipboard('${hex}', 0)">
-                    <div class="color-label">${labelText}</div>
-                </div>
-            `;
-        }
+        });
 
-        // 3. Dominant Color Extraction (Quantization with Log-Scaling and Perceptual Weighting)
-
+        // dominant colors
         function findDominantColors() {
-            dominantColors = [];
-            DOMINANT_COLORS_CONTAINER.innerHTML = '';
-            
+            dominantContainer.innerHTML = '';
             try {
                 const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
                 const data = imageData.data;
-                const step = 4; // Sample every 4th pixel 
-                const binSize = 64; 
-                const colorMap = {}; 
+                const step = 4;
+                const binSize = 64;
+                const colorMap = {};
 
                 for (let i = 0; i < data.length; i += 4 * step) {
-                    if (data[i + 3] < 50) continue; // Skip mostly transparent/background
-                    
-                    const r = data[i];
-                    const g = data[i + 1];
-                    const b = data[i + 2];
-                    
-                    const r_bin = Math.floor(r / binSize) * binSize;
-                    const g_bin = Math.floor(g / binSize) * binSize;
-                    const b_bin = Math.floor(b / binSize) * binSize;
-
-                    const key = `${r_bin},${g_bin},${b_bin}`;
-
-                    if (!colorMap[key]) {
-                        colorMap[key] = { r: 0, g: 0, b: 0, count: 0, avg_r: 0, avg_g: 0, avg_b: 0, hsl: {} };
-                    }
-                    
+                    if (data[i + 3] < 50) continue;
+                    const r = data[i],
+                        g = data[i + 1],
+                        b = data[i + 2];
+                    const rb = Math.floor(r / binSize) * binSize;
+                    const gb = Math.floor(g / binSize) * binSize;
+                    const bb = Math.floor(b / binSize) * binSize;
+                    const key = rb + ',' + gb + ',' + bb;
+                    if (!colorMap[key]) colorMap[key] = { r: 0, g: 0, b: 0, count: 0 };
                     colorMap[key].r += r;
                     colorMap[key].g += g;
                     colorMap[key].b += b;
                     colorMap[key].count++;
                 }
 
-                // Apply PERCEPTUAL LOG-SCALING (V9)
-                Object.values(colorMap).forEach(bin => {
+                const bins = Object.values(colorMap).filter(bin => bin.count > 1);
+                bins.forEach(bin => {
                     const avg_r = bin.r / bin.count;
                     const avg_g = bin.g / bin.count;
                     const avg_b = bin.b / bin.count;
                     const hsl = RGBToHSL(avg_r, avg_g, avg_b);
-                    
+                    let mult = 1;
+                    if (hsl.l > 80) mult = Math.max(mult, 2.5);
+                    else if (hsl.l > 40 && hsl.l <= 70) mult = Math.max(mult, 2.2);
+                    else if (hsl.l < 20) mult = Math.max(mult, 1.3);
+                    if (hsl.s > 30) mult += 2.0 * (hsl.s / 100);
+                    bin.biasedScore = Math.log(bin.count) * mult;
                     bin.avg_r = Math.round(avg_r);
                     bin.avg_g = Math.round(avg_g);
                     bin.avg_b = Math.round(avg_b);
-                    bin.hsl = hsl; // Store HSL for final sort
-
-                    // Base multiplier is 1 (no change)
-                    let perceptualMultiplier = 1.0; 
-                    
-                    // 1. Lightness (L) Multiplier: Amplify the score based on lightness
-                    if (hsl.l > 80) { // Very Light (Sweater) - High Priority
-                        perceptualMultiplier = Math.max(perceptualMultiplier, 2.5); 
-                    } else if (hsl.l > 40 && hsl.l <= 70) { // Mid-Lightness (Skin/Mid-tones)
-                        perceptualMultiplier = Math.max(perceptualMultiplier, 2.2); 
-                    } else if (hsl.l < 20) { // Very Dark (Shadows/Coat)
-                        perceptualMultiplier = Math.max(perceptualMultiplier, 1.3); 
-                    } 
-
-                    // 2. Saturation (S) Multiplier: HIGHLY Amplify saturated colors (Hair/Sunset)
-                    if (hsl.s > 0.3) { 
-                        perceptualMultiplier += 2.0 * hsl.s; 
-                    }
-
-                    // Log-Scale the count to flatten large numerical differences
-                    const logCount = Math.log(bin.count);
-
-                    // New Biased Score: Log-Count * Perceptual Multiplier
-                    bin.biasedScore = logCount * perceptualMultiplier;
+                    bin.hsl = hsl;
                 });
 
-                // Step 1: Filter and sort by the final calculated Biased Score
-                const sortedBinsByScore = Object.values(colorMap)
-                    // Filter out bins that only have a single pixel, as they create noise after log scaling
-                    .filter(bin => bin.count > 1) 
-                    .sort((a, b) => b.biasedScore - a.biasedScore);
-
-                const numColors = Math.min(minDominantColours, sortedBinsByScore.length);
-                
-                // Step 2: Take the top N colors, and re-sort them for presentation
-                let finalDominantColors = sortedBinsByScore.slice(0, numColors);
-
-                // FINAL SORTING FOR PRESENTATION (V10)
-                // Sort Priority:
-                // 1. Saturation (highest first) - to prioritize rich colors like hair/sunset
-                // 2. Darkness (lowest Lightness first) - to prioritize deep shadows over mid-tones
-                finalDominantColors.sort((a, b) => {
-                    // Primary Key: Saturation (higher is better)
-                    const satDiff = b.hsl.s - a.hsl.s;
-                    if (satDiff !== 0) return satDiff;
-
-                    // Secondary Key: Lightness (lower is better, i.e., darker colors first)
+                const sorted = bins.sort((a, b) => b.biasedScore - a.biasedScore);
+                const num = Math.min(minDominantColours, sorted.length);
+                const top = sorted.slice(0, num);
+                // re-sort for presentation: by saturation desc, then lightness asc
+                top.sort((a, b) => {
+                    const sd = b.hsl.s - a.hsl.s;
+                    if (sd !== 0) return sd;
                     return a.hsl.l - b.hsl.l;
                 });
 
-                
-                for (let i = 0; i < finalDominantColors.length; i++) {
-                    const bin = finalDominantColors[i];
-                    
-                    const color = {r: bin.avg_r, g: bin.avg_g, b: bin.avg_b};
+                top.forEach((bin, i) => {
+                    const color = { r: bin.avg_r, g: bin.avg_g, b: bin.avg_b };
                     const hex = RGBAToHex(color);
-                    dominantColors.push(hex);
-                    
-                    const label = `Dominant ${i + 1}`;
-                    const colorBoxHTML = createColorBoxHTML(color, label);
-                    DOMINANT_COLORS_CONTAINER.innerHTML += colorBoxHTML;
-                }
-
+                    const box = document.createElement('div');
+                    box.className = 'color-box';
+                    box.style.backgroundColor = hex;
+                    const name = colorName(color);
+                    const sat = getSaturationPercent(color);
+                    box.innerHTML =
+                        `<div class="color-label">Dominant ${i+1}<br>${hex} ${name} <span class="sat-badge">${sat}% sat</span></div>`;
+                    box.addEventListener('click', () => copyToClipboard(hex, 0));
+                    dominantContainer.appendChild(box);
+                });
             } catch (e) {
-                console.error("Could not read canvas data.", e);
-                DOMINANT_COLORS_CONTAINER.innerHTML = '<div style="color:red; width: 100%;">Error extracting palette (Cross-Origin issue).</div>';
+                console.error(e);
+                dominantContainer.innerHTML = '<div style="color:red;">Error extracting palette (cross-origin).</div>';
             }
         }
 
         function updateDominantCount() {
-            const val = document.getElementById('numColorsRange').value || 0;
+            const val = document.getElementById('numColorsRange').value || 8;
             minDominantColours = parseInt(val);
             document.getElementById('numColorsValue').textContent = val;
-            
-            // Only trigger if an image has actually been loaded to the canvas
-            const pElement = document.querySelector('#image-drop-area p');
-            if (pElement && pElement.style.display === 'none') {
-                findDominantColors();
-            }
+            const p = dropArea.querySelector('p');
+            if (p && p.style.display === 'none') findDominantColors();
         }
-        // Initial call to populate mixers
+
+        // ---- DOM ready ----
         document.addEventListener('DOMContentLoaded', () => {
-             // Sync pickers to initial placeholder or values
-             for(let i=1; i<=8; i++) syncTextToPicker(i);
-             updateColors(1);
-             updateColors(2);
+            for (let i = 1; i <= 8; i++) syncTextToPicker(i);
+            updateColors(1);
+            updateColors(2);
+            updateDominantCount();
+
+            // image upload events
+            dropArea.addEventListener('click', (e) => {
+                if (e.target.id !== 'image-canvas' && e.target.tagName !== 'BUTTON') imageUpload.click();
+            });
+            imageUpload.addEventListener('change', (e) => {
+                if (e.target.files.length) loadImageFromFile(e.target.files[0]);
+            });
+
+            ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(ev => {
+                dropArea.addEventListener(ev, (e) => { e.preventDefault();
+                    e.stopPropagation(); });
+            });
+            ['dragenter', 'dragover'].forEach(ev => {
+                dropArea.addEventListener(ev, () => dropArea.style.borderColor = '#0056b3');
+            });
+            ['dragleave', 'drop'].forEach(ev => {
+                dropArea.addEventListener(ev, () => dropArea.style.borderColor = '#6c757d');
+            });
+            dropArea.addEventListener('drop', (e) => {
+                const dt = e.dataTransfer;
+                const file = dt.files[0];
+                if (file && file.type.startsWith('image/')) loadImageFromFile(file);
+            });
+
+            document.addEventListener('paste', (e) => {
+                for (const item of e.clipboardData.items) {
+                    if (item.type.indexOf('image') !== -1) {
+                        loadImageFromFile(item.getAsFile());
+                        e.preventDefault();
+                        break;
+                    }
+                }
+            });
         });
     </script>
 </body>
