@@ -904,14 +904,6 @@ And Goosie followed, always.
 
 ## Chapter 5 — The Lady of Stanwey
 
-# Chapters 5 & 6 — Integrated Revision
-
-Below is the fully integrated version of Chapters 5 and 6, with all new warning scenes woven into the existing text, and any unused material moved to the scrapbook at the end.
-
----
-
-## Chapter 5 — The Lady of Stanwey
-
 Beatrice pressed her thumb against the last tally and held it there. The parchment had curled at the edges. Nearby, Goosie made another determined attempt to grab the ribbon binding of the roll, but Beatrice gently moved the bird’s head away.
 
 In the background, the two servants raked the rushes, the rustle of straw filling the hall. Spring planting at Stanwey was done. The Summer heat of Beatrice's July name day was still a month away.
@@ -930,7 +922,7 @@ Beatrice leaned back, tilting her head. ‘Something about giving a hand?’
 
 ‘Reach out your hand from above to deliver me,’ Harold translated from the Latin softly, his voice rough. ‘Rescue me from the sea of waters, from the hands of foreign sons.’
 
-Beatrice leant in, seeing his distant smile. 'It sounds like when you were young, Father. How many winters had you?' 
+Beatrice leant in, seeing his distant smile. 'It sounds like when you were young, Father. How many winters had you then?' 
 
 He looked down at the script, the ink fading into the old sheepskin. For a Saxon who had spent his life under the weight of a Norman crown, the words carried a familiar taste.
 
@@ -952,7 +944,9 @@ Goosie lifted her head as Beatrice rose to her feet. 'Whatever is that?'
 
 Harold's face was pale. 'Three blasts for the King. It is likely a summons.'
 
-Crossing to the door, Harold stood in the doorway, his hand gripping the frame. A rider was approaching at speed, cloak streaming, horse lathered. The man reined in before the hall and unrolled a stiff parchment writ, its seal heavy with wax.
+### TODO - SECTION TITLE
+
+From the doorway, Harold spied a rider approaching at speed, cloak streaming, horse lathered. The man reined in before the hall and unrolled a stiff parchment writ, its seal heavy with wax.
 
 'Hear the word of Henry, King of the English!' the messenger cried. 'By the King's strict command, every man holding land of the crown, be he Norman knight or Saxon thegn, the same is summoned to ride in the Welsh campaign! The King's host assembles at Chester. Let no man make excuse. No scutage may be given: the King demands your swords, not your coin. Whosoever fails to make appearance, let him know his lands are utterly forfeit to the crown!'
 
@@ -994,30 +988,167 @@ Harold caught the look on her face, seeing the fear she was trying so hard to hi
 
 ---
 
-### The Weight of the Waiting
+### The Lady's Work
 
-The weeks that followed were consumed by the grease of wool and the smell of hot tallow. Beatrice found no time for fear in the daylight, her hands turned entirely to the work of equipping her father's small retinue. She oversaw the boiling of leather to stiffen old jerkins, counted out the bags of dried peas and salt pork for the pack-horses, and hand-sewn the heavy woollen cloaks that would keep the damp of the road out of old bones. She even checked the rivet-work on the men's scabbards herself—not because she knew the blacksmith's trade, but because her father's life rested in the gaps between those iron pins.
+The weeks before Harold's departure were a blur of wool and tallow and iron. Beatrice moved through the hall with frenetic diligence, her hands never still, her mind fixed on the dozens of small tasks that would keep her father alive on the road.
 
-On the morning of the departure, the courtyard at Stanwey was loud with the stamping of hooves and the nervous chatter of the village men. Harold looked smaller outside the hall, burdened by the heavy, dull weight of his mail shirt. Yet when he lifted himself onto his mount, the years seemed to fall away from his shoulders, replaced by the rigid, familiar posture of the warrior he had once been.
+She was no blacksmith, yet insisted on checking the rivets on every scabbard personally, because her father's life rested in the gaps between those iron pins. She boiled leather to stiffen old jerkins, the smell of hot hide clinging to her clothes and hair. She counted out bags of dried peas and salt pork for the pack-horses, weighing each portion against the days of travel.
 
-Beatrice stood by the mounting block, her fingers laced tightly together. She did not reach out to touch his stirrup; the maids and the tenants were watching, and she was the Lady of Stanwey now. Instead, she simply met his distant gaze and held it, offering the same steady, half-smile she had promised him.
+She had learned from her mother how to prepare for a long absence. Her mother had done this numerous times, sending her husband to war with a full pack and a prayer. Aldwina had taught her the practical things: how a cloak should keep out the damp, how a badly packed saddlebag would chafe the horse, how to read a soldier's face when he said he would be home by winter.
 
-With a sharp jerk of the reins, Harold turned his horse toward the road. Several men from the village followed, their shields slung over their backs, waving their goodbyes to the small crowd gathered at the gates. Beatrice watched until the dust of their column dissolved into the summer haze of the treeline.
+*"You just keep your hands busy and your mind on one day at a time. That's how you get through it."*
 
-Beside her, the blacksmith's wife wiped her hands on her apron and let out a long, heavy sigh. 'I suppose we'll have time to get the village tidy while the men are away.'
-
-The weeks settled into a monotonous routine. With the men gone, the hall felt empty, its daily life reduced to the quiet voices of the women and the repetitive clatter of the loom. Beatrice kept herself busy with the midsummer work, but each completed chore only marked another week of her father's absence. She monitored the shrinking grain stores and watched the tenants harvest the hay in the meadows, using the manual labor to keep her mind from wandering.
-
-Yet, the silence was difficult to ignore. In an era without regular news, a long absence meant imagining the worst. Every sudden bark of a hound or rattle of the heavy door brought her to a halt, waiting for a step on the threshold that never came. She found herself questioning the occasional traveling tinker or pilgrim for gossip, trying to piece together the reality of the Welsh campaign from their vague, conflicting stories.
-
-*She had started counting the days on a tally stick, notching it each evening. She did not know why. It was not as if the notches would bring him back. But it gave her something to do with her hands, something to mark the passing of time. Each notch was a day he had survived. She was afraid of the day she would have to stop counting.*
+Beatrice had not much time for thinking beyond these matters, but some nights between first and second sleep, she would lay awake, wondering what would happen to her if her father did not return.
 
 ---
 
-### The Arrival of the Royal Party
+### The Night Before
+
+The evening before the departure, Beatrice sat by the hearth with Goosie at her feet, going over the packing list one last time. The hall was quiet, but it was not the silence of absence — not yet. Harold was in his chamber, his sword laid across the bed, his eyes on the ceiling.
+
+She wanted to go to ask him, one more time, if he must go. But she knew the answer. She had known it surely as the messenger had ridden into the yard.
+
+So she re-checked the list had nothing missing. And so she stayed by the fire until morning dawned.
+
+---
+IN PROGRESS EDITING
+### The Morning of Departure
+
+The courtyard was loud with the stamping of hooves and the nervous chatter of the village men. Harold looked smaller outside the hall, burdened by the heavy, dull weight of his mail shirt. Yet when he lifted himself onto his mount, the years seemed to fall away from his shoulders, replaced by the rigid, familiar posture of the warrior he had once been.
+
+Beatrice stood by the mounting block, her fingers laced tightly together. She did not reach out to touch his stirrup; the maids and the tenants were watching, and she was the Lady of Stanwey now. Instead, she simply met his gaze and held it, offering the same steady smile she had promised him.
+
+With a sharp jerk of the reins, Harold turned his horse toward the road. Several men from the village followed, their shields slung over their backs, waving to the small crowd gathered at the gates. Beatrice watched until the dust of their column dissolved into the summer haze.
+
+Beside her, the blacksmith's wife wiped her hands on her apron and let out a long, heavy sigh. "I suppose we'll have time to get the village tidy while the men are away."
+
+Beatrice said nothing. She was still watching the road.
+
+---
+
+### The First Week
+
+The hall felt different without Harold. It was not just the silence — though that was the first thing she noticed. The creak of his chair, the rustle of his psalter, the low murmur of his voice as he read aloud to himself. All gone.
+
+Beatrice found herself listening for him. The clatter of the door latch would make her look up. A heavy footstep in the yard would send her to the window. Each time, the disappointment settled a little deeper, like cold water seeping into cracks.
+
+She threw herself into the work. There was plenty of it — midsummer tasks that could not wait. She checked the grain stores, walked the boundaries, supervised the hay harvest. Her father's voice in her ear: *"Boundaries are only as strong as the memory of them."*
+
+But the work was not the comfort it had once been. It was just work. And when the work was done, the silence returned.
+
+*She had started counting the days on a tally stick, notching it each evening. She did not know why. It was not as if the notches would bring him back. But it gave her something to do with her hands, something to mark the passing of time.*
+
+In the evenings, when the light began to fade, she would walk to the gate. She did not tell herself she was waiting; she told herself she was checking the latch, looking for strays, taking the air. But her eyes always drifted towards the road. A rider, perhaps. A messenger. Someone with news.
+
+She was waiting. She just did not want to admit it.
+
+---
+
+### The Second Week
+
+Beatrice began to notice the small things. The way the light fell across the hearth at a certain hour, the same angle it had fallen when Harold used to sit there. The way Goosie would sometimes lift her head and listen, as if she, too, was waiting for a step that never came.
+
+Each notch on the tally stick was a day he had survived. She was afraid of the day she would have to stop counting.
+
+One afternoon, she found herself standing in the doorway of Harold's chamber. The bed was made, the blankets smoothed. His sword was gone, but his old cloak still hung on its peg. She touched the wool, felt the rough weave against her fingers.
+
+*He will come back*, she told herself. *He always does.*
+
+But she had not been this afraid before. Not since her mother.
+
+At dusk, she walked to the gate. A rabbit broke from the hedge. She heard the distant cry of a fox. The road was empty.
+
+She went inside and barred the door.
+
+---
+
+### The Third Week
+
+A pilgrim passed through the village, on his way to the shrine at Walsingham. Beatrice questioned him about the war, about the roads, about the condition of the King's army. He was vague, his answers thin and contradictory.
+
+"I saw a great host at Chester," he said. "But I cannot say who was among them."
+
+She pressed him for more. He shook his head, his eyes avoiding hers.
+
+"You are worried for someone," he said.
+
+"My father."
+
+He nodded, as if he had expected this. "I will pray for him," he said. And then he was gone, his staff tapping on the packed earth of the lane.
+
+Beatrice watched him go. His prayers were kind, but they were not news.
+
+She went to the gate that evening, but she did not stay long. The sky was grey, the road empty. She told herself there was no point waiting for news that would not come.
+
+She did not believe herself.
+
+---
+
+### The Fourth Week
+
+The hay was ready for cutting. Beatrice supervised the work, watching the tenants swing their scythes in the long rows. The rhythm of the work was steady, ancient, unchanged by the absence of men or the presence of war.
+
+She tried to lose herself in the rhythm. But her mind kept straying north, towards Chester, towards the Welsh marches, towards a place where men fought and died and sometimes did not come home.
+
+At night, she lay awake, listening to the hall settle. The timbers groaned. The thatch rustled. Outside, the river whispered its endless, unchanging song.
+
+She thought of her mother. Aldwina had been alone too, in the last years of her life. Harold had been away, and Beatrice had been too young to understand what it meant to be left behind.
+
+Now she understood.
+
+She no longer walked to the gate. What was the point? The road was empty. It was always empty. One day slid into the next, the same grey light, the same silence, the same hollow waiting.
+
+She still notched the tally stick, but even that had become a habit, not a comfort. She notched the wood without thinking, her mind elsewhere. Each notch was a day. She was not sure what she was counting towards anymore.
+
+---
+
+### The Fifth Week
 
 The village child came running at dusk, her bare feet slapping the hard earth. "Horsemen, my lady! Many horsemen on the Roman road! They're heading for the castle, but some are turning this way!"
 
+Beatrice set down the herb bundles she had been tying and wiped her hands on her apron. Her heart was beating too fast. She had been waiting for this — waiting for news, waiting for riders, waiting for something to break the long silence.
+
+"How many?" she asked.
+
+"Six, my lady. All in the King's colours. They sounded a horn."
+
+Six. A royal party. A messenger, his escort, a knight, and support riders.
+
+Beatrice walked to the gate and watched them come.
+
+She had not been to the gate in days. She had stopped hoping. And now this — riders in the King's livery, a messenger, a knight, a chance of news.
+
+She felt a flush of shame — not for waiting, but for having stopped. She had made herself small, wrapped herself in the dull grey of giving up. And now the King's riders were here, and she was not ready. She had not been ready.
+
+She straightened her shoulders. The Lady of Stanwey would not show fear. But inside, she was trembling.
+
+---
+
+## Part Eight: Summary
+
+| Element | Status |
+|---------|--------|
+| **Pacing** | ✅ Good — five weeks, each with distinct beat |
+| **Historical appropriateness** | ✅ Good — grounded in period details |
+| **Character consistency** | ✅ Good — Beatrice is practical, proud, vulnerable in private |
+| **Emotional arc** | ✅ Good — hope, erosion, shame, return of hope |
+| **Gate motif** | ✅ Good — recurring thread that pays off |
+| **Tally stick** | ✅ Good — introduced in Week 1, carries through |
+| **Shame beat** | ✅ Good — strengthened in final version |
+
+---
+
+## What This Version Achieves
+
+| Reader Experience | How It's Achieved |
+|-------------------|-------------------|
+| **We feel her busyness** | The preparation weeks are full of work |
+| **We feel the shock of absence** | The first week — the silence, the listening |
+| **We feel the loneliness** | The gate-waiting, the tally stick |
+| **We feel the erosion of hope** | The third week — the pilgrim, the empty road |
+| **We feel the hollow giving up** | The fourth week — no gate, tally stick as habit |
+| **We feel the shame of giving up** | The fifth week — she is not ready, she is trembling |
+| **We feel her vulnerability** | When Sir Guy arrives, she is already hollowed out |
 Beatrice set down the herb bundles she had been tying and wiped her hands on her apron. The child was breathless, eyes wide. "How many?"
 
 "Six, my lady. All in the King's colours. They sounded a horn."
@@ -1741,116 +1872,6 @@ Her feet ached deeply from hours on hard stone. Goosie honked softly from inside
 She tried again to rehearse what she would say to the King, but the walk had tired her, and the words kept slipping away from her. If she rested, she might find them. If she hurried, she might stand before him with nothing to say.
 
 A mossy bank at the roadside. Half an hour. No more. She could unlace her shoes, rest her aching feet before the last climb. Surely no one would mind what time of day she reached the castle. She had left early enough. No one would know.
-
----
-
-## SCRAPBOOK — Unused / Recyclable Material
-
-Below is material from the original drafts that has been replaced or moved but may still be useful elsewhere:
-
-### Original "Age Query" Section (Moved to Chapter 5 opening)
-
-> *‘How many winters have I lived through? Truly?’*
->
-> *‘Let me see…’ His gaze drifted towards the fire as he worked the years in his head. ‘You had seen but two winters when King Henry claimed the throne. Now, it is his fourteenth year, I believe. Let me check.’*
->
-> *He turned the pages towards the front, where the calendar of saints was marked with tiny, cramped notes. His finger settled on a faded ink‑mark in the margin. ‘Sixteen,’ he murmured. ‘Sixteen years since the great frost killed the cattle. A very bad year, and yet, in the middle of it all, God gave your mother and me a most unexpected little gift.’*
-
-### Original "Farmer's Enquiry" Scene (Replaced by integrated warnings)
-
-> *The knight reined in at the crossroads, where the lane to the river met the old Roman road. A farmer was mending a gate, his hands raw from the cold, his breath clouding in the chill air.*
->
-> *"Good day," the knight said. He did not dismount.*
->
-> *The farmer straightened, wary. Visitors on the Roman road were not always friendly, especially not knights riding alone.*
->
-> *"Good day, my lord."*
->
-> *The knight's eyes swept the valley — the river bend, the manor beyond, the smoke rising from the hall. "Whose land is this? The estate along the river?"*
->
-> *The farmer followed his gaze. "Stanwey, my lord. A thegn called Red-Wolf holds it."*
->
-> *"Red-Wolf?" The knight's voice was dismissive, almost bored. "I know of no Harold Red-Wolf. And yet it is a very pretty estate. A desirable plot of land. Good pasture, I imagine."*
->
-> *The farmer nodded cautiously. "Aye, my lord. The river floods in spring, but the hay is good."*
->
-> *"And who manages it in the thegn's absence? His son, I suppose?"*
->
-> *"Nay, my lord. He has no son."*
->
-> *The knight's eyebrows rose. "No son at all?"*
->
-> *"No, my lord. Only a daughter. Beatrice. She is young, but she has a head for it."*
->
-> *"A daughter." The knight's eyes sharpened. The word hung in the air, heavy with calculation. "She is the heir, then."*
->
-> *"She is, my lord."*
->
-> *The knight was silent for a moment. His fingers drummed on his saddle. Then he smiled — a thin, satisfied smile that did not reach his eyes.*
->
-> *"Interesting," he said. He reached into his pouch and tossed a silver coin to the farmer. The farmer caught it, startled.*
->
-> *"For your trouble," the knight said. "I have an interest in the land."*
->
-> *He rode on, his horse's hooves clicking on the old stones. The farmer watched him go, the coin heavy in his palm. Something about the knight's smile had unsettled him — the way he had asked about the daughter, the way he had said "heir," the way he had said "interesting."*
->
-> *He tucked the coin into his belt and went back to mending the gate.*
-
-### Original "No One Would Know" Section (Moved to Chapter 6 end)
-
-> *The cold air stung her cheeks. High in the treetops, rooks called to one another. Beatrice walked with the basket on her hip and her father's words in her ears. Remember whose hall you enter.*
->
-> *She began to hum, one of her mother's tunes, and the sound of it steadied her.*
->
-> *A sudden thunder of wings tore through the trees ahead. Beatrice flinched as a cloud of black shapes burst from the branches...*
->
-> *[...] A mossy bank at the roadside. Half an hour. No more. She could unlace her shoes, rest her aching feet before the last climb. Surely no one would mind what time of day she reached the castle. She had left early enough. No one would know.*
-
----
-
-## Summary of Changes
-
-| Element | Location | Status |
-|---------|----------|--------|
-| **Opening (Beatrice's name day)** | Chapter 5 | Kept |
-| **Harold's departure** | Chapter 5 | Kept |
-| **Monotonous weeks / tally stick** | Chapter 5 | Kept |
-| **Royal party arrives** | Chapter 5 | Kept |
-| **"Do you remember me?"** | Chapter 5 | Added |
-| **Courtship begins** | Chapter 5 | Added |
-| **Warning 1: Nurse** | Chapter 5 | Added |
-| **Warning 2: Reeve** | Chapter 5 | Added |
-| **Fever girl scene** | Chapter 5 | Added |
-| **Warning 3: Village woman** | Chapter 5 | Added |
-| **Warning 4: Priest** | Chapter 5 | Added |
-| **Warning 5: Farmer at crossroads** | Chapter 5 | Added |
-| **Warning 6: Nurse again** | Chapter 5 | Added |
-| **Celebration / overheard conversation** | Chapter 5 | Added |
-| **"Poppinjay" scene** | Chapter 5 | Kept (moved from original) |
-| **Beatrice alone / "I was a fool"** | Chapter 5 | Added |
-| **King's messenger (first demand)** | Chapter 5 | Kept (from original Chapter 6) |
-| **Search for bird / nurse's posset** | Chapter 5 | Kept (from original Chapter 6) |
-| **Beatrice's flight / realization** | Chapter 5 | Kept |
-| **King's messenger (second demand)** | Chapter 6 | Kept |
-| **Harold's hollow response** | Chapter 6 | Kept |
-| **We're living on pottage** | Chapter 6 | Kept |
-| **Only God or the King** | Chapter 6 | Kept |
-| **No one would know** | Chapter 6 | Kept |
-
----
-
-## What This Version Achieves
-
-| Element | How It's Shown |
-|---------|----------------|
-| **Multiple independent warnings** | Nurse, reeve, village woman, priest, tenant farmer — 6 sources |
-| **Different tones** | Each warns in a different way — direct, indirect, ambiguous, pointed |
-| **Beatrice dismisses each one** | She rationalizes them away in her own thoughts |
-| **"Beatrice thoughts" format** | Used throughout to show her internal dismissal |
-| **"Do you remember me?" backstory** | Added — creates false intimacy and dramatic irony |
-| **The "poppinjay" scene** | The culmination of her realization |
-| **Reader frustration** | Builds across the arc — Beatrice ignores everyone |
-| **The payoff** | The reader feels relief when she finally sees |
 
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
