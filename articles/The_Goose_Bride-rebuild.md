@@ -904,7 +904,7 @@ And Goosie followed, always.
 
 ## Chapter 5 — The Lady of Stanwey
 
-Beatrice pressed her thumb against the last tally and held it there. The parchment had curled at the edges. Nearby, Goosie made another determined attempt to grab the ribbon binding of the roll, but Beatrice gently moved the bird’s head away.
+Beatrice pressed her thumb against the last tally and held it there. The parchment had curled at the edges. Nearby, Goosie made another determined attempt to grab the ribbon binding of the roll, but Beatrice gently guided her little head away.
 
 In the background, the two servants raked the rushes, the rustle of straw filling the hall. Spring planting at Stanwey was done. The Summer heat of Beatrice's July name day was still a month away.
 
@@ -996,7 +996,7 @@ She was no blacksmith, yet insisted on checking the rivets on every scabbard per
 
 She had learned from her mother how to prepare for a long absence. Her mother had done this numerous times, sending her husband to war with a full pack and a prayer. Aldwina had taught her the practical things: how a cloak should keep out the damp, how a badly packed saddlebag would chafe the horse, how to read a soldier's face when he said he would be home by winter.
 
-*"You just keep your hands busy and your mind on one day at a time. That's how you get through it."*
+*‘You just keep your hands busy and your mind on one day at a time. That's how you get through it.’*
 
 Beatrice had not much time for thinking beyond these matters, but some nights between first and second sleep, she would lay awake, wondering what would happen to her if her father did not return.
 
@@ -1011,243 +1011,251 @@ She wanted to go to ask him, one more time, if he must go. But she knew the answ
 So she re-checked the list had nothing missing. And so she stayed by the fire until morning dawned.
 
 ---
-IN PROGRESS EDITING
+
 ### The Morning of Departure
 
-The courtyard was loud with the stamping of hooves and the nervous chatter of the village men. Harold looked smaller outside the hall, burdened by the heavy, dull weight of his mail shirt. Yet when he lifted himself onto his mount, the years seemed to fall away from his shoulders, replaced by the rigid, familiar posture of the warrior he had once been.
+Outside the main entrance to the hall clattered with loud stamping of hooves and nervous chatter of the village men. Harold looked smaller outside the hall, burdened by the heavy, dull weight of his mail shirt. Yet once he lifted himself onto his mount, the years seemed to fall away from his shoulders, replaced by the rigid, familiar posture of a warrior.
 
-Beatrice stood by the mounting block, her fingers laced tightly together. She did not reach out to touch his stirrup; the maids and the tenants were watching, and she was the Lady of Stanwey now. Instead, she simply met his gaze and held it, offering the same steady smile she had promised him.
+Beatrice stood by the stone mounting block, her fingers laced tightly together. The Lady of Stanwey now stood proudly in front of the villagers, meeting her father’s gaze with a steady smile, as much for her sake as for his.
 
-With a sharp jerk of the reins, Harold turned his horse toward the road. Several men from the village followed, their shields slung over their backs, waving to the small crowd gathered at the gates. Beatrice watched until the dust of their column dissolved into the summer haze.
+Harold nodded and with a sharp jerk of the reins, turned his horse toward the Roman road. Several men from the village followed, their shields slung over their backs, waving back to the small crowd gathered at the gates. Beatrice watched until the dust of their small column dissolved into the summer haze and a loneliness hung about her.
 
-Beside her, the blacksmith's wife wiped her hands on her apron and let out a long, heavy sigh. "I suppose we'll have time to get the village tidy while the men are away."
-
-Beatrice said nothing. She was still watching the road.
+Beside her, the blacksmith's wife let out a long, heavy sigh. ‘At least we'll have time to get this place tidy while the men are away.’ She wiped her hands on her apron.
 
 ---
 
 ### The First Week
 
-The hall felt different without Harold. It was not just the silence — though that was the first thing she noticed. The creak of his chair, the rustle of his psalter, the low murmur of his voice as he read aloud to himself. All gone.
+It was not merely the silence, though that was the first thing Beatrice noticed. The creak of her father’s chair, the rustle of his psalter, the low murmur of his voice as he read aloud to himself. 
 
-Beatrice found herself listening for him. The clatter of the door latch would make her look up. A heavy footstep in the yard would send her to the window. Each time, the disappointment settled a little deeper, like cold water seeping into cracks.
+Beatrice found herself habitually listening for him, as she went about her chores. The clatter of the door latch would make her look up, only to see a maid. A heavy footstep in the yard would send her to the window. Each time, the disappointment settled more deeply, like cold water seeping slowly away into cracks.
 
-She threw herself into the work. There was plenty of it — midsummer tasks that could not wait. She checked the grain stores, walked the boundaries, supervised the hay harvest. Her father's voice in her ear: *"Boundaries are only as strong as the memory of them."*
+There was no shortage of midsummer tasks. She checked the grain stores, supervised the hay harvest, visited the sick. Her father's advice was fresh in her ear: *’Boundaries are only as strong as the memory of them.’*
 
-But the work was not the comfort it had once been. It was just work. And when the work was done, the silence returned.
+But the work was not the comfort it had once been. Chores became just dull chores to keep the silence away.
 
-*She had started counting the days on a tally stick, notching it each evening. She did not know why. It was not as if the notches would bring him back. But it gave her something to do with her hands, something to mark the passing of time.*
+She began counting the days on a tally stick each evening. She did not know why. It was not as if the notches would bring him back. But it gave her hands something to do to mark the passage of time.
 
-In the evenings, when the light began to fade, she would walk to the gate. She did not tell herself she was waiting; she told herself she was checking the latch, looking for strays, taking the air. But her eyes always drifted towards the road. A rider, perhaps. A messenger. Someone with news.
-
-She was waiting. She just did not want to admit it.
+In the evenings, as the light began to fade, she would inevitably walk to the gate. She did not admit to herself she was waiting; she was merely checking the latch, looking for strays, taking the air, keeping an eye on the village. But her eyes ever drifted towards the road for a rider, a messenger, or a traveller who might news.
 
 ---
 
 ### The Second Week
 
-Beatrice began to notice the small things. The way the light fell across the hearth at a certain hour, the same angle it had fallen when Harold used to sit there. The way Goosie would sometimes lift her head and listen, as if she, too, was waiting for a step that never came.
+Certain small things became more apparent to Beatrice: the way light fell across the hearth at a certain hour, when Harold would have often sat there. The way Goosie would sometimes lift her head and listen, as if she, too, was waiting for a familiar voice.
 
-Each notch on the tally stick was a day he had survived. She was afraid of the day she would have to stop counting.
+Each day notched on the tally stick marked another day he had survived, another day closer to when she could stop counting.
 
-One afternoon, she found herself standing in the doorway of Harold's chamber. The bed was made, the blankets smoothed. His sword was gone, but his old cloak still hung on its peg. She touched the wool, felt the rough weave against her fingers.
+One afternoon, she found herself standing in the doorway of Harold's chamber. The bed was made, the blankets smoothed. His sword was gone, but his old cloak still hung on its peg. She planted her face deeply in the rough wool, smelling his familiar scent for a moment.
 
 *He will come back*, she told herself. *He always does.*
 
-But she had not been this afraid before. Not since her mother.
+But she had not felt like this since her mother’s death.
 
-At dusk, she walked to the gate. A rabbit broke from the hedge. She heard the distant cry of a fox. The road was empty.
+At dusk, she walked again to the gate. A rabbit broke from the hedge, but the road was empty. From somewhere in the distance, a fox gave a raspy scream.
 
-She went inside and barred the door.
+She went inside and barred the door against the evening.
 
 ---
 
 ### The Third Week
 
-A pilgrim passed through the village, on his way to the shrine at Walsingham. Beatrice questioned him about the war, about the roads, about the condition of the King's army. He was vague, his answers thin and contradictory.
-
-"I saw a great host at Chester," he said. "But I cannot say who was among them."
-
-She pressed him for more. He shook his head, his eyes avoiding hers.
-
-"You are worried for someone," he said.
-
-"My father."
-
-He nodded, as if he had expected this. "I will pray for him," he said. And then he was gone, his staff tapping on the packed earth of the lane.
-
-Beatrice watched him go. His prayers were kind, but they were not news.
-
 She went to the gate that evening, but she did not stay long. The sky was grey, the road empty. She told herself there was no point waiting for news that would not come.
 
-She did not believe herself.
+But just then, a short stout stranger came down the lane into village, his staff tapping on the packed earth. 
+
+‘Mistress!’ he called out, not breaking his stride. ‘Be this the proper way for Pipewell Abbey?’
+
+Beatrice blinked at the thick, foreign burr of his words. ‘Nay, you’ve strayed too far north.’ She stepped past the timber bars and pointed. ‘If you ford the river and head past Ascele...’
+
+She looked at his dusty exhausted appearance. ‘But you look in need of food and drink.’
+
+The man halted, leaning heavily on his knotty ash staff. ‘I’d be glad of a morsel, mistress. God's truth, I would.’
+
+She fetched a heel of barley bread and a leather blackjack of small beer. He took them with trembling hands, breaking the bread with his teeth. As he chewed, she began to ply him. ‘You’ve come far?’
+
+He gulped greedily at the beer. ‘On pilgrimage from Bristol to Walsingham, to the shrine there.’
+
+Beatrice studied him a moment, as her father taught her. ‘What of the roads? Is the war moving south? What of the King’s army?’
+
+The pilgrim swallowed hard, his eyes darting to the darkening horizon. ‘In truth, I know nothing of the King’s business, mistress. The tracks are foul, as are the rumours everywhere.’
+
+‘But you must have crossed their path,’ she pressed, her voice rising. ‘Did you see the levies? The horsemen?’
+
+He shook his head, handing back the empty jack. ‘I heard only of a great host gathering at Chester. But I cannot say who was among them.’
+
+‘Stay longer,’ she urged, catching his sleeve as he turned. ‘It is my father's hall, and the hearth is free to any pilgrim. You will have a place by the fire and the manservant guards the door. Go on the morrow.’
+
+‘Nay,’ he said, pulling away with a sudden, anxious strength. ‘Kindness enough, mistress. But the sky turns and the Abbey bolts the gates at dusk.’
+
+‘Then I’ll walk you as far as the ford,’ she said, swinging the gate shut behind her. 
+
+He glanced sideways at her as they followed the narrow lane toward the river, his boots squelching in the mire. ‘Surely you are worried for someone,’ he said softly.
+
+‘Aye, my father.’
+
+The pilgrim paused at the river’s edge. ‘I will pray for him,’ he said. Then, without another word, he stepped into the current, the water swirling around his boots. He reached the far bank and looked back, lifting his ash staff in salute.
+
+Beatrice watched him head towards Ascele. His prayers were kind, but she greatly longed for some news of her father.
 
 ---
 
 ### The Fourth Week
 
-The hay was ready for cutting. Beatrice supervised the work, watching the tenants swing their scythes in the long rows. The rhythm of the work was steady, ancient, unchanged by the absence of men or the presence of war.
+The hay was ready for cutting. Beatrice and Goosie supervised the work, watching the tenants swing their scythes in the long rows. The rhythm of the work was steady, ancient, unchanged by the absence of men or the presence of war.
 
 She tried to lose herself in the rhythm. But her mind kept straying north, towards Chester, towards the Welsh marches, towards a place where men fought and died and sometimes did not come home.
 
 At night, she lay awake, listening to the hall settle. The timbers groaned. The thatch rustled. Outside, the river whispered its endless, unchanging song.
 
-She thought of her mother. Aldwina had been alone too, in the last years of her life. Harold had been away, and Beatrice had been too young to understand what it meant to be left behind.
+She thought of her mother. Aldwina had been alone too, in the last years of her life. Harold had often been away, and Beatrice had been too young to understand.
 
-Now she understood.
+Now she knew what it meant to be left behind.
 
-She no longer walked to the gate. What was the point? The road was empty. It was always empty. One day slid into the next, the same grey light, the same silence, the same hollow waiting.
+She rarely walked in the evenings to the gate. The road was always empty. One day drifted into the next, the same grey light, the same silence, the same hollow waiting.
 
-She still notched the tally stick, but even that had become a habit, not a comfort. She notched the wood without thinking, her mind elsewhere. Each notch was a day. She was not sure what she was counting towards anymore.
+She still notched the tally stick, but even that had become a habit, not a comfort. She notched the wood without thinking, her mind elsewhere. She was not sure what she was counting towards anymore.
 
 ---
 
 ### The Fifth Week
 
-The village child came running at dusk, her bare feet slapping the hard earth. "Horsemen, my lady! Many horsemen on the Roman road! They're heading for the castle, but some are turning this way!"
+It was almost dusk on Monday when a child came running through the gate posts to the hall, bare feet slapping the hard earth. ‘Horsemen, my lady! Many horsemen on the Roman road! Many are heading for the castle, but some are turning this way!’
 
-Beatrice set down the herb bundles she had been tying and wiped her hands on her apron. Her heart was beating too fast. She had been waiting for this — waiting for news, waiting for riders, waiting for something to break the long silence.
+Beatrice set down the herb bundles she had been tying and wiped her hands on her apron. Her heart was beating too fast. She had been waiting for this, for something to break the long silence at last. Surely they had news of her father. Why else would they come.
 
-"How many?" she asked.
+‘How many men?’ she asked.
 
-"Six, my lady. All in the King's colours. They sounded a horn."
-
-Six. A royal party. A messenger, his escort, a knight, and support riders.
+‘Five and one, my lady. All in the King's colours. They blew a horn three times.’
 
 Beatrice walked to the gate and watched them come.
 
+Six. A royal party. A messenger, his escort, a knight, and other riders.
+
 She had not been to the gate in days. She had stopped hoping. And now this — riders in the King's livery, a messenger, a knight, a chance of news.
 
-She felt a flush of shame — not for waiting, but for having stopped. She had made herself small, wrapped herself in the dull grey of giving up. And now the King's riders were here, and she was not ready. She had not been ready.
+She felt a flush of shame — not for waiting, but for having stopped. She had made herself small, wrapped herself in the dull grey of giving up. And now the King's riders were here, and she was not ready. She had not expected this at all.
 
-She straightened her shoulders. The Lady of Stanwey would not show fear. But inside, she was trembling.
-
----
-
-## Part Eight: Summary
-
-| Element | Status |
-|---------|--------|
-| **Pacing** | ✅ Good — five weeks, each with distinct beat |
-| **Historical appropriateness** | ✅ Good — grounded in period details |
-| **Character consistency** | ✅ Good — Beatrice is practical, proud, vulnerable in private |
-| **Emotional arc** | ✅ Good — hope, erosion, shame, return of hope |
-| **Gate motif** | ✅ Good — recurring thread that pays off |
-| **Tally stick** | ✅ Good — introduced in Week 1, carries through |
-| **Shame beat** | ✅ Good — strengthened in final version |
+However, the Lady of Stanwey would not show fear. She straightened her shoulders and stood tall, though inwardly, she trembled.
 
 ---
 
-## What This Version Achieves
+### The King’s riders
 
-| Reader Experience | How It's Achieved |
-|-------------------|-------------------|
-| **We feel her busyness** | The preparation weeks are full of work |
-| **We feel the shock of absence** | The first week — the silence, the listening |
-| **We feel the loneliness** | The gate-waiting, the tally stick |
-| **We feel the erosion of hope** | The third week — the pilgrim, the empty road |
-| **We feel the hollow giving up** | The fourth week — no gate, tally stick as habit |
-| **We feel the shame of giving up** | The fifth week — she is not ready, she is trembling |
-| **We feel her vulnerability** | When Sir Guy arrives, she is already hollowed out |
-Beatrice set down the herb bundles she had been tying and wiped her hands on her apron. The child was breathless, eyes wide. "How many?"
-
-"Six, my lady. All in the King's colours. They sounded a horn."
-
-Six. A royal party, then — not a full advance force, but a detachment. A messenger, his escort, a knight, and support riders.
-
-Beatrice felt her heart quicken. The King's men. Perhaps her father was amongst them.
-
-She walked to the gate and watched keenly.
-
-They came up the lane at a steady trot, six riders in the King's livery. The lead rider was a messenger carrying a parchment sealed with royal wax. Behind him rode a knight in a fine grey cloak, his horse a handsome chestnut colour. Two men-at-arms flanked them, and two grooms brought up the rear, leading pack mules loaded with supplies. None of them had her father's broad build or familiar seat in the saddle.
-
-Beatrice straightened her shoulders. The Lady of Stanwey would not show fear.
+The riders came up the lane at a steady trot, six riders in the King’s livery. The lead rider was a messenger carrying a parchment sealed with royal wax. Behind him rode a knight in a fine grey cloak, his horse a handsome chestnut colour. Two men-at-arms flanked them, and two grooms brought up the rear, leading pack mules loaded with supplies. None of them had her father’s broad build or familiar seat in the saddle.
 
 The lead rider reined in and unrolled the parchment. His voice was loud, formal, carrying across the yard.
 
-"By command of Henry, King of the English, the holder of this holding shall render for the King's table: two feathered arrows and a fowl, to be delivered within the week. The King hunts in Rockingham Forest and expects his table to be well supplied. This is the King's will."
+’By command of Henry, King of the English, the holder of this holding shall render for the King’s table: two feathered arrows and a fowl, to be delivered within the week. The King hunts in Rockingham Forest and expects his table to be well supplied. This is the King’s will.’
 
-Beatrice's stomach turned. Her hand went to Goosie before she had even thought, gathering the warm white feathers against her chest. A week was not long, and the estate was already short-handed. But a hunting king suggested the fighting in Wales might be drawing to a close. Perhaps her father would be home by then.
+Beatrice’s stomach turned. Her hand went to Goosie before she had even thought, gathering the warm white feathers against her chest. She would have to pay a neighbour for a bird, since Stanwey Hall had none suitable.
 
-"I understand," she said, her voice steady. "The holding will do what it can."
+‘I understand,‘ said the young Lady of Stanwey, her voice holding steady. ‘The holding shall supply my Lord the King as you say.’
 
-The messenger nodded, satisfied. He turned to ride on, but Beatrice stepped forward, her hand raised.
+Beatrice watched the messenger direct his horse around. *The King hunts in Rockingham.*
 
-"My lord," she said. "Any tidings of my father, Harold, called Red-Wolf. Have you word of him? Is he well?"
+‘Sir,’ she called. ’Since the King is truly coming here, does that mean that our men are also returning? Is the army standing down or remaining?’
 
-The messenger paused, frowning. 'Our number was over ten thousand, my lady. Alas, I don't recall hearing his name specifically. I expect that Midlands men will not be far behind our lord the King.'
+The messenger nodded, ‘The Welsh sued for peace and the war is ended.’
 
-Beatrice felt her face fall and hope falter. She had been waiting so long with no direct news.
+He turned to ride on, but Beatrice called out again. ‘Any tidings of my father, Harold, called Red-Wolf. Have you word of him? Is he well?’
 
-The horsemen began to ride off, but then one left the group—a younger man who had been riding near the rear. "I may have word of your father."
+The messenger paused, frowning. ‘My lady, we were over ten thousand in number. However, I expect that the Midlands men will not be far behind our Lord the King.’
 
-The knight dismounted. He was young, handsome, his clothes travel-stained. His smile was warm and practiced.
-
-"I saw him at the muster," he said. "I heard he took a blow at the ford, nothing serious."
-
-Beatrice felt her throat tighten. "He was wounded?"
-
-"I did not say wounded." The knight's smile tightened slightly. "I said a blow. He was walking when I saw him."
-
-The relief was sudden and sharp. She had been managing the manor alone for weeks, carrying the constant worry of his safety. Now, this stranger had brought the first concrete news, and he spoke with reassurance.
-
-"He is alive then? He is well?"
-
-"He seemed well enough when I left him."
-
-The knight's eyes swept past her, taking in the hall, the barns, and the fields beyond. Beatrice was too relieved to notice the quick assessment. She only saw his smile and the warmth in his voice.
-
-"You are —"
-
-"Sir Guy de Montfort." He bowed. "At your service, my lady."
-
-"I am Beatrice. Daughter of Harold Red-Wolf. And I thank you. You have no idea what this news means to me."
-
-Sir Guy's smile broadened. "I am delighted to hear it. I think your father's face lights up when he speaks of you. He is proud of you. And he worries. That is why I made the detour."
-
-She felt her cheeks flush. He had made a detour for her.
-
-"But I should not keep you," she said, suddenly aware that the messenger and his escort were waiting at the end of the lane. "You ride to Rockingham, I assume?"
-
-"We do. But I will pass by this way on my return." He mounted his horse, but paused, looking down at her. "I will bring more news, if I have it."
-
-"That is very kind."
-
-"It is my honour." His eyes lingered on her for a moment too long. Then he turned and rode after the others.
-
-Beatrice stood at the gate, watching him go. She felt lighter than she had in weeks.
-
-*She did not notice Goosie, who had waddled to her side and was hissing softly at the retreating riders.*
+Her facial expression fell as she let the men go.
 
 ---
 
-### "Do You Remember Me?"
+### Tidings of my father
 
-Sir Guy returned three days later. He said he was passing through, but Beatrice was not sure she believed him. She was too glad to see him to care.
+Beatrice blinked away tears of disappointment. She had waited so long.
 
-*She told herself they were just friends. He was a knight who had brought news of her father. He was kind, and she was grateful. That was all. She did not think about the way he looked at her, or the way she felt when he smiled.*
+‘I may have word of your father.’ 
 
-He dismounted, handing his reins to the groom who had accompanied him. As he straightened, he looked at her — not at the goose, not at the hall, but at her. There was something in his expression she could not read.
+The voice came from behind her. She turned to see a knight dismounting. He was young and handsome, his clothes travel-stained, and his smile warm.
 
-"You do not remember me," he said.
+‘I believe I saw him at the muster,’ he said. ‘I heard he took a blow at the ford, nothing serious.’
 
-She blinked. "I beg your pardon?"
+Beatrice felt her throat tighten. ‘He was wounded?’
 
-"We have met before. Two years ago, at the Midsummer Fair in Stamford. You were with your father."
+‘Merely a blow, or so I heard.’ The knight’s smile tightened slightly. ‘The man was walking about when I saw him.’
 
-She stared at him, trying to place his face. The fair had been crowded, noisy, overwhelming. She had been fourteen, still raw from her mother's death. She remembered the noise, the press of strangers, the feeling of wanting to escape.
+The relief was sudden and sharp. She had been managing the manor alone for weeks, carrying the constant worry of his safety. Now, this stranger had brought the first concrete news, and he spoke with reassurance.
 
-"I am sorry," she said, embarrassed. "I do not remember."
+‘He is alive then? He is well?’
 
-He smiled — a thin, knowing smile. "I am not surprised. You were distracted. I spoke to you, and you barely answered. I thought you were shy."
+‘He seemed well enough when I left him.’
 
-She frowned, trying to recall. A knight at the fair — pushy, perhaps, or persistent? She had been uncomfortable. She had wanted to leave.
+The knight’s eyes swept past her, taking in the hall, the barns, and the fields beyond. Beatrice was too relieved to care. She only saw his smile and the warmth in his voice.
 
-"I am sorry," she said again.
+‘You are —’
 
-"Two years is not so long." His voice was light, but something in it made her uneasy. "I remember you, Beatrice. I remember you very well."
+‘Sir Guy de Montfort.’ He bowed. ‘At your service, my lady.’
 
-*She felt a chill — a small one, quickly dismissed. He had remembered her. He had sought her out. That was flattering, wasn't it?*
+‘I am Beatrice. Daughter of Harold Red-Wolf. And I thank you. You have no idea what this news means to me.’
+
+Sir Guy’s smile broadened. ‘I am delighted to hear it. I think your father‘s face lights up when he speaks of you. He is surely proud of you. And he worries. That is why I made the waited.’
+
+She felt her cheeks flush. He had waited for her. For a moment she was unsure what to say. ‘That is very kind. But I should not keep you,’ she said, suddenly noticing the messenger and his escort turning onto the Roman road at the end of the lane. ‘You ride to Rockingham, I assume?’
+
+‘We do. But I will pass by this way on my return.’ He mounted his horse, but paused, looking down at her. ‘I will bring more news, if I have it.’
+
+‘That is most kind.’
+
+‘It is my honour.’ His eyes lingered on her for a moment too long. Then he turned and rode after the others.
+
+Beatrice stood at the gate, watching him go. She felt lighter than she had in weeks.
+
+*Goosie waddled to her side and hissed softly at all the retreating soldiers.*
+
+---
+
+### Warning 1: The Nurse
+*** Not sure where this should be; needs breaking down from the earlier version of this section.
+*** Must have the nurse more circumspect. ‘I see there's a man hanging around... It's your business what company you keep, of course.’
+Beatrice walked to the river-bend farm the next day, hoping to find news of a bird. The nurse was in the yard, scattering grain for the few scrawny hens that remained.
+
+‘I saw that knight leaving,‘ the nurse said, her eyes narrowing. ‘The one who brought the news.‘
+
+Beatrice stopped. ‘Sir Guy?‘
+
+‘That one.‘ The nurse’s voice was flat. ‘I know his type. Charming. Helpful. Always asking questions.‘
+
+‘He was asking about the manor.‘
+
+‘That is what I mean.‘ The nurse wiped her hands on her apron. ‘A man who asks too many questions about other people’s land is not just curious, child. He is measuring.‘
+
+Beatrice laughed. ‘You are suspicious of everyone.‘
+
+‘I am suspicious of men who smile too easily,‘ the nurse said. ‘And men who ask too many questions.‘
+
+Beatrice shook her head. ‘He brought news of my father. He was kind.‘
+
+‘Kindness and honesty are not the same thing.‘
+
+*Beatrice walked on, irritated. She did not want to hear this. The nurse was old and set in her ways. She did not know Sir Guy. She had no right to judge him.*
+
+### ‘Do You Remember Me?‘
+
+Sir Guy returned with a servant a few days later, and Beatrice found herself pleased to see him. 
+
+He dismounted, handing his reins to his groom, and turned to face her. ‘We have met before,‘ he said simply.
+
+She looked at him oddly. ‘You mean three days ago?‘
+
+He laughed loudly. ‘No. Two years ago, at the Midsummer Fair in Stamford. You were with your father. I’d forgotten until now.‘
+
+She stared at him, trying to place his face. The fair had been crowded, noisy, overwhelming. She had been fourteen, still raw from her mother’s death. She remembered the noise, the press of strangers, but little more.
+
+‘I am sorry,’ she said, embarrassed. ‘I do not remember.’
+
+He smiled — a thin, knowing smile. ‘I am not surprised. You seemed distracted. I spoke to you, and you barely answered. I thought you were shy.‘
+
+She frowned, ‘I recall that I was unwell at the time.’
+
+‘Then perhaps that is the reason.‘ His voice was light. ‘I certainly remember you though.‘
+
+*She felt the hairs on her arms stand up. He had remembered her. He had sought her out, and brought news of her father. He was kind, and she was grateful. That was all.*
 
 ---
 
@@ -1255,65 +1263,37 @@ She frowned, trying to recall. A knight at the fair — pushy, perhaps, or persi
 
 Sir Guy lingered through the afternoon. He walked with her in the garden, praising her herbcraft. He asked about the manor, about the boundaries, about the iron pits. He asked about Harold. He asked about her mother.
 
-"You manage all this yourself?" He looked at the hall, the barns, the fields. "A rare thing. A woman who knows what she is about."
+‘You manage all this yourself?‘ He looked at the hall, the barns, the fields. ‘A rare thing, woman who knows what she is about. Many women I know are as changeable as the weather.’
 
-She shrugged, but she was pleased. "My father taught me."
+She shrugged, but she was secretly pleased. ‘My father taught me.‘
 
-"A rare father, then."
+‘A rare father, then.‘
 
-*She liked the way he looked at her as if she were worth looking at. She had been lonely, with her father away. Her mother had been dead for two years. The hall was quiet. And Sir Guy was handsome, and attentive, and he had brought news of Harold.*
+*It was enjoyable, having someone to talk to. She had been lonely, with her father away. The hall was quiet. And Sir Guy was handsome, and attentive, and he had brought news of Harold. She liked the way he looked at her as if she were worth looking at.*
 
-As they walked, he spoke of his own father. "My father served the crown," he said, his voice flat. "He died for this land. I am trying to make something of what he left me."
+As they walked, he spoke of his own father. ‘My father served the crown,‘ he said, his voice flat. ‘He died for this land. I am trying to make something of what he left me.‘
 
-Beatrice felt a pang of sympathy. She knew what it was to lose a father. "I am sorry," she said.
+Beatrice felt a pang of sympathy. She knew what it was to lose a parent. ‘I am sorry,‘ she said.
 
-He smiled — a thin, tight smile. "It is what it is."
-
-*She did not notice that his sympathy came with questions about the land, about the boundaries, about what would happen to Stanwey if Harold were lost.*
-
----
-
-### Warning 1: The Nurse
-
-Beatrice walked to the river-bend farm the next day, hoping to find news of a bird. The nurse was in the yard, scattering grain for the few scrawny hens that remained.
-
-"I saw that knight leaving," the nurse said, her eyes narrowing. "The one who brought the news."
-
-Beatrice stopped. "Sir Guy?"
-
-"That one." The nurse's voice was flat. "I know his type. Charming. Helpful. Always asking questions."
-
-"He was asking about the manor."
-
-"That is what I mean." The nurse wiped her hands on her apron. "A man who asks too many questions about other people's land is not just curious, child. He is measuring."
-
-Beatrice laughed. "You are suspicious of everyone."
-
-"I am suspicious of men who smile too easily," the nurse said. "And men who ask too many questions."
-
-Beatrice shook her head. "He brought news of my father. He was kind."
-
-"Kindness and honesty are not the same thing."
-
-*Beatrice walked on, irritated. She did not want to hear this. The nurse was old and set in her ways. She did not know Sir Guy. She had no right to judge him.*
+He smiled — a thin, tight smile. ‘It is what it is.‘
 
 ---
 
 ### Warning 2: The Reeve
 
-Later that week, the reeve met Beatrice at the gate, his face troubled. "My lady, that knight — the one who passed through — he was asking about the boundaries."
+Later that week, the reeve met Beatrice at the gate, his face troubled. ‘My lady, that knight — the one who passed through — he was asking about the boundaries.‘
 
-Beatrice frowned. "The boundaries?"
+Beatrice frowned. ‘The boundaries?‘
 
-"Aye. Where the land ends, who holds what, whether any of it has been sold or disputed."
+‘Aye. Where the land ends, who holds what, whether any of it has been sold or disputed.‘
 
-She shrugged. "He is interested in how we manage. That is not unusual."
+She shrugged. ‘He is interested in how we manage. That is not unusual.‘
 
-The reeve shook his head. "I have been managing this land for twenty years, my lady. Men who ask about boundaries are not usually planning to help you keep them."
+The reeve shook his head. ‘I have been managing this land for twenty years, my lady. Men who ask about boundaries are not usually planning to help you keep them.‘
 
-"He was just being curious."
+‘He was just being curious.‘
 
-"A man who is just curious does not ask how much the land is worth."
+‘A man who is just curious does not ask how much the land is worth.‘
 
 *Beatrice said nothing. The reeve was old and cautious. He did not know Sir Guy. She did not want to hear this.*
 
@@ -1321,17 +1301,17 @@ The reeve shook his head. "I have been managing this land for twenty years, my l
 
 ### The Fever Girl
 
-A few days later, Beatrice was tending the reeve's daughter, who had a fever. Sir Guy arrived uninvited. He stood in the doorway, his shadow falling across the pallet.
+A few days later, Beatrice was tending the reeve’s daughter, who had a fever. Sir Guy arrived uninvited. He stood in the doorway, his shadow falling across the pallet.
 
-"Why do you bother?" he asked.
+‘Why do you bother?‘ he asked.
 
-She looked up, startled. "She is ill. She needs help."
+She looked up, startled. ‘She is ill. She needs help.‘
 
-"She is a villein's brat," he said, as if explaining something obvious. "If she dies, her father will work the harder for the next one."
+‘She is a villein’s brat,‘ he said, as if explaining something obvious. ‘If she dies, her father will work the harder for the next one.‘
 
-Beatrice's hands stilled. The words hung in the air, ugly and cold. She looked at him, puzzled. Was this a joke? A test?
+Beatrice’s hands stilled. The words hung in the air, ugly and cold. She looked at him, puzzled. Was this a joke? A test?
 
-He smiled — a thin, practiced smile. "You are kind," he said. "It is a virtue. But you must learn to be practical."
+He smiled — a thin, practiced smile. ‘You are kind,‘ he said. ‘It is a virtue. But you must learn to be practical.‘
 
 She said nothing. She did not know what to say. The words felt wrong, but she could not name why. She turned back to the girl and dipped the cloth in the water again.
 
@@ -1345,15 +1325,15 @@ He lingered for a moment longer, then left.
 
 Beatrice was drawing water from the well when a village woman approached.
 
-"My lady, I heard that knight — Sir Guy — bought Old Martha's birds. Every one of them."
+‘My lady, I heard that knight — Sir Guy — bought Old Martha’s birds. Every one of them.‘
 
-Beatrice looked up. "Why would a knight need birds?"
+Beatrice looked up. ‘Why would a knight need birds?‘
 
-"I don't know, my lady. But he paid silver for them. Old Martha said he asked about the purveyors too — who had birds, how many, whether they were spoken for."
+‘I don’t know, my lady. But he paid silver for them. Old Martha said he asked about the purveyors too — who had birds, how many, whether they were spoken for.‘
 
-Beatrice set down the bucket. "He was helping me. He said he would look for a bird for the King's table."
+Beatrice set down the bucket. ‘He was helping me. He said he would look for a bird for the King’s table.‘
 
-The woman shrugged. "I am only telling you what I heard, my lady."
+The woman shrugged. ‘I am only telling you what I heard, my lady.‘
 
 *Beatrice walked back to the hall. The woman was gossiping. Sir Guy was trying to help. He was kind. He was not what they said.*
 
@@ -1361,29 +1341,29 @@ The woman shrugged. "I am only telling you what I heard, my lady."
 
 ### Warning 4: The Priest
 
-Beatrice attended Mass at St. Peter's. The priest was old, his voice thin, but his eyes were sharp.
+Beatrice attended Mass at St. Peter’s. The priest was old, his voice thin, but his eyes were sharp.
 
 He found her after the service, walking in the churchyard.
 
-"I saw you with that knight," he said. "The one who has been riding through."
+‘I saw you with that knight,‘ he said. ‘The one who has been riding through.‘
 
-"Sir Guy?"
+‘Sir Guy?‘
 
-"The same." The priest paused. "He told me you had met before."
+‘The same.‘ The priest paused. ‘He told me you had met before.‘
 
-Beatrice looked away. "We met at the Midsummer Fair, two years ago. He remembered me."
+Beatrice looked away. ‘We met at the Midsummer Fair, two years ago. He remembered me.‘
 
-"And you did not remember him."
+‘And you did not remember him.‘
 
-"I was young. I was distracted."
+‘I was young. I was distracted.‘
 
-The priest nodded slowly. "A man who claims he remembers you when you do not remember him — that is not a memory, child. That is a fixation."
+The priest nodded slowly. ‘A man who claims he remembers you when you do not remember him — that is not a memory, child. That is a fixation.‘
 
-Beatrice stiffened. "He was kind. He brought news of my father."
+Beatrice stiffened. ‘He was kind. He brought news of my father.‘
 
-"And you are grateful. That is understandable. But gratitude is not the same as trust."
+‘And you are grateful. That is understandable. But gratitude is not the same as trust.‘
 
-"I do not need to be warned," she said, her voice sharp. "I am not a child."
+‘I do not need to be warned,‘ she said, her voice sharp. ‘I am not a child.‘
 
 *The priest said nothing. He only looked at her with those sharp, knowing eyes. She walked away, her jaw tight. He saw fixations everywhere. It did not mean anything.*
 
@@ -1391,27 +1371,27 @@ Beatrice stiffened. "He was kind. He brought news of my father."
 
 ### A Moment of Doubt
 
-Beatrice was walking back from the village when she saw Sir Guy at the crossroads. He was speaking to a tenant farmer — a man she knew, a good man. The farmer's face was uneasy, almost frightened.
+Beatrice was walking back from the village when she saw Sir Guy at the crossroads. He was speaking to a tenant farmer — a man she knew, a good man. The farmer’s face was uneasy, almost frightened.
 
 Sir Guy noticed her and smiled, waving. The farmer hurried away.
 
-"What did you want with him?" she asked.
+‘What did you want with him?‘ she asked.
 
-"Nothing. Just passing the time."
+‘Nothing. Just passing the time.‘
 
 She wanted to ask more. But he was already changing the subject, praising her garden, asking about her mother. She let it go.
 
-*Later, she found the farmer in the yard. "What did he want?" she asked.*
+*Later, she found the farmer in the yard. ‘What did he want?‘ she asked.*
 
-*The farmer shifted his weight. "He was asking about the rent, my lady. How much we pay, how long the leases run."*
+*The farmer shifted his weight. ‘He was asking about the rent, my lady. How much we pay, how long the leases run.‘*
 
-*"Why would a knight need to know that?"*
+*’Why would a knight need to know that?‘*
 
-*The farmer shrugged. "He said he was thinking of investing in the area."*
+*The farmer shrugged. ‘He said he was thinking of investing in the area.‘*
 
-*"Investing?"*
+*’Investing?‘*
 
-*"That was his word, my lady."*
+*’That was his word, my lady.‘*
 
 *Beatrice did not say anything. She walked back to the hall, her thoughts churning. The farmer was always uneasy. It did not mean anything.*
 
@@ -1421,27 +1401,27 @@ She wanted to ask more. But he was already changing the subject, praising her ga
 
 Beatrice went back to the river-bend farm, exhausted from her search. The nurse was there, as always.
 
-"I see you are still looking for a bird," the nurse said.
+‘I see you are still looking for a bird,‘ the nurse said.
 
-"There is none. The purveyors took everything. The abbey took what remained."
+‘There is none. The purveyors took everything. The abbey took what remained.‘
 
-The nurse handed her a cup of hot posset. "And Sir Guy? Has he found anything?"
+The nurse handed her a cup of hot posset. ‘And Sir Guy? Has he found anything?‘
 
-Beatrice shook her head. "He said he searched everywhere. There was nothing."
+Beatrice shook her head. ‘He said he searched everywhere. There was nothing.‘
 
 The nurse was silent for a long moment. Then she spoke, her voice flat.
 
-"I have seen men like him before, child. They take what they want and they leave the bones."
+‘I have seen men like him before, child. They take what they want and they leave the bones.‘
 
 Beatrice set down the cup. Her hands were trembling.
 
-"I am not a fool," she said.
+‘I am not a fool,‘ she said.
 
-"I did not say you were." The nurse's voice was soft. "I said I have seen men like him before. And I have seen women like you too — young, capable, alone. The men like him seek them out. They know a good thing when they see it."
+‘I did not say you were.‘ The nurse’s voice was soft. ‘I said I have seen men like him before. And I have seen women like you too — young, capable, alone. The men like him seek them out. They know a good thing when they see it.‘
 
-Beatrice stood up. "I do not want to hear this."
+Beatrice stood up. ‘I do not want to hear this.‘
 
-"I know you do not."
+‘I know you do not.‘
 
 *Beatrice walked out without looking back. She was not a fool. She was not.*
 
@@ -1453,71 +1433,71 @@ The village celebration was held by the river, with bonfires casting long shadow
 
 Beatrice stood near the fire, her hands wrapped around a cup of spiced ale. She was still thinking about the bird — still worried, still searching, still hoping.
 
-Sir Guy appeared at her side. "You look like you are a thousand miles away."
+Sir Guy appeared at her side. ‘You look like you are a thousand miles away.‘
 
-"I was thinking about the King's demand. There is no bird to be had."
+‘I was thinking about the King’s demand. There is no bird to be had.‘
 
-He nodded sympathetically. "I have been looking too. I asked everywhere I could think of. There is simply nothing."
+He nodded sympathetically. ‘I have been looking too. I asked everywhere I could think of. There is simply nothing.‘
 
-"You have been looking for me?"
+‘You have been looking for me?‘
 
-"I told you I would. I promised I would help you."
+‘I told you I would. I promised I would help you.‘
 
-She felt a rush of gratitude. "That is kind of you, Sir Guy."
+She felt a rush of gratitude. ‘That is kind of you, Sir Guy.‘
 
-He shrugged. "I would do anything for you, Beatrice."
+He shrugged. ‘I would do anything for you, Beatrice.‘
 
 *She felt her cheeks flush. She looked away, towards the dancers.*
 
 And then she heard it — a conversation nearby. Two women, talking.
 
-"I heard he bought them all," one woman said. "Every bird in the valley."
+‘I heard he bought them all,‘ one woman said. ‘Every bird in the valley.‘
 
-"Who did?"
+‘Who did?‘
 
-"That knight. The one who's been riding through. Paid silver for them."
+‘That knight. The one who’s been riding through. Paid silver for them.‘
 
-"Old Martha's gander — he bought it. The last one."
+‘Old Martha’s gander — he bought it. The last one.‘
 
 Beatrice stood very still. The dancers blurred before her eyes.
 
 She turned back to Sir Guy. He was still smiling, still warm, still apologizing.
 
-"I wish I could have done more," he was saying. "I am sorry I could not help you."
+‘I wish I could have done more,‘ he was saying. ‘I am sorry I could not help you.‘
 
-And then she remembered the nurse's words. *A man who asks too many questions about other people's property is rarely asking out of kindness.*
+And then she remembered the nurse’s words. *A man who asks too many questions about other people’s property is rarely asking out of kindness.*
 
-She remembered the farmer at the crossroads, the look on his face. She remembered the priest's warning. She remembered all of it.
+She remembered the farmer at the crossroads, the look on his face. She remembered the priest’s warning. She remembered all of it.
 
 He had bought the birds. He had taken them from the market. He had stripped her of every option. And then he had stood there, apologizing for not finding one.
 
 ---
 
-### The "Poppinjay" Scene
+### The ‘Poppinjay’ Scene
 
-"It is a shame," Sir Guy was saying. "A holding like yours should not be left without protection. A woman alone—"
+‘It is a shame,‘ Sir Guy was saying. ‘A holding like yours should not be left without protection. A woman alone—‘
 
-"I am not alone."
+‘I am not alone.‘
 
-He blinked. "What?"
+He blinked. ‘What?‘
 
-"I am not alone," she repeated. "I have my father. I have my people. And I have my own hands."
+‘I am not alone,‘ she repeated. ‘I have my father. I have my people. And I have my own hands.‘
 
-He smiled, as if she were a child saying something amusing. "Of course. But a husband—"
+He smiled, as if she were a child saying something amusing. ‘Of course. But a husband—‘
 
-"A husband who would take my land, my people, and my goose?"
+‘A husband who would take my land, my people, and my goose?‘
 
-His smile faltered. "I do not know what you mean."
+His smile faltered. ‘I do not know what you mean.‘
 
-"I think you do, Sir Guy. I think you know exactly what I mean."
+‘I think you do, Sir Guy. I think you know exactly what I mean.‘
 
 She stepped closer to him, her voice carrying across the bonfire.
 
-*"I prefer men who work for their supper," she said coldly, "not some fine popinjay who lives off the sweat of others."*
+*’I prefer men who work for their supper,‘ she said coldly, ‘not some fine popinjay who lives off the sweat of others.‘*
 
 The bonfire crackled. The dancers stopped. The elders fell silent.
 
-Sir Guy's face went pale. He opened his mouth, then closed it. He was speechless — furious, humiliated, and unable to defend himself.
+Sir Guy’s face went pale. He opened his mouth, then closed it. He was speechless — furious, humiliated, and unable to defend himself.
 
 Beatrice turned away. She walked back to Harold without looking back.
 
@@ -1527,15 +1507,15 @@ Beatrice turned away. She walked back to Harold without looking back.
 
 Later that night, Beatrice sat by the cold hearth. Goosie was at her feet, quiet and still. The hall was silent. Harold had gone to bed.
 
-She thought about the nurse's words. *A man who asks too many questions about other people's property is rarely asking out of kindness.*
+She thought about the nurse’s words. *A man who asks too many questions about other people’s property is rarely asking out of kindness.*
 
 She thought about the women at the celebration. *He bought them all. Every bird in the valley.*
 
-She thought about Sir Guy's apology. *I am sorry I could not help you. I wish I could have done more.*
+She thought about Sir Guy’s apology. *I am sorry I could not help you. I wish I could have done more.*
 
 She thought about the way he had looked at her, the way he had praised her, the way he had asked about the boundaries, the iron pits, the wool clip.
 
-She thought about her father's words, from the boundary walk years ago: *"A man's character shows in small things. Watch how he treats those who can do nothing for him."*
+She thought about her father’s words, from the boundary walk years ago: *’A man’s character shows in small things. Watch how he treats those who can do nothing for him.‘*
 
 She had not watched. She had been too busy being flattered.
 
@@ -1543,27 +1523,27 @@ She had not watched. She had been too busy being flattered.
 
 She had been flattered by his attention. She had been lonely. She had almost trusted him.
 
-She pressed her forehead against Goosie's warm feathers.
+She pressed her forehead against Goosie’s warm feathers.
 
-"I was a fool," she whispered.
+‘I was a fool,‘ she whispered.
 
 *Goosie shifted, pressing closer.*
 
-"I was a fool."
+‘I was a fool.‘
 
 ---
 
-### The King's Messenger (The Demand for the Fowl)
+### The King’s Messenger (The Demand for the Fowl)
 
-Three long brassy blasts blown on an ox horn shattered the morning quiet. Beatrice's gaze snapped up towards the village. She was in the herb garden, outside the kitchen.
+Three long brassy blasts blown on an ox horn shattered the morning quiet. Beatrice’s gaze snapped up towards the village. She was in the herb garden, outside the kitchen.
 
-The old manservant lowered his axe at the woodpile. "This can't be good news."
+The old manservant lowered his axe at the woodpile. ‘This can’t be good news.‘
 
 A horse and rider came around the corner, striding towards the hall, hoofbeats thudding up the packed earth track, cloak streaming, horse lathered.
 
 The messenger reined in before the hall, and unrolled a stiff parchment writ.
 
-"The King hunts in Rockingham Forest," he announced, projecting his voice towards the timbers as if the building itself were worthy of his breath. "This holding shall render its service: two feathered arrows and a fowl for His Majesty's table."
+‘The King hunts in Rockingham Forest,‘ he announced, projecting his voice towards the timbers as if the building itself were worthy of his breath. ‘This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.‘
 
 The man wheeled his horse about, and was gone. A servant stood in the doorway of the hall, a rag still in her hand, staring after the dust. Beatrice scooped up her goose.
 
@@ -1575,17 +1555,17 @@ Goosie honked.
 
 Harold had not risen from his chair. When Beatrice came inside, he looked at the goose, then at his daughter, and his eyes were hollow.
 
-"My tired arms are of little use to a younger King," he said. His voice was low and gritty. "A man who cannot ride to war must pay the shield-tax instead. That I can manage, just. But this —" he shook his head, "they took the last of our stored grain at Michaelmas. The King's own purveyors. For the army in Wales. If they come again, the village may well starve."
+‘My tired arms are of little use to a younger King,‘ he said. His voice was low and gritty. ‘A man who cannot ride to war must pay the shield-tax instead. That I can manage, just. But this —‘ he shook his head, ‘they took the last of our stored grain at Michaelmas. The King’s own purveyors. For the army in Wales. If they come again, the village may well starve.‘
 
 They both knew that they had nothing suitable for the King except the unthinkable.
 
-"We have coin enough for the present, Father," Beatrice said, her voice almost sounding confident. "We shall simply buy a bird for the King. Surely there must be at least one, one of the farm geese—"
+‘We have coin enough for the present, Father,‘ Beatrice said, her voice almost sounding confident. ‘We shall simply buy a bird for the King. Surely there must be at least one, one of the farm geese—‘
 
-Harold shook his head. "Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn't seize for the King's table, the Earl's men bought up to provision the baggage trains. Roger of Salisbury's clerks have been through the ledgers; they know exactly how many wings are in every yard."
+Harold shook his head. ‘Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn’t seize for the King’s table, the Earl’s men bought up to provision the baggage trains. Roger of Salisbury’s clerks have been through the ledgers; they know exactly how many wings are in every yard.‘
 
-Her father looked at her wryly. "It is a strange world, Beatrice, where a man in a stone tower knows our poultry better than a fox."
+Her father looked at her wryly. ‘It is a strange world, Beatrice, where a man in a stone tower knows our poultry better than a fox.‘
 
-*Beatrice stared at the fire. Her thoughts drifted to Sir Guy. The man who had lied about her father's wound. The man who had counted her livestock. The man who had smiled and called her "insolent" and "foolish." And now the King was demanding a fowl.*
+*Beatrice stared at the fire. Her thoughts drifted to Sir Guy. The man who had lied about her father’s wound. The man who had counted her livestock. The man who had smiled and called her ‘insolent’ and ‘foolish.‘ And now the King was demanding a fowl.*
 
 *She pressed her hand to her chest. She was already learning the cost of choices.*
 
@@ -1595,59 +1575,59 @@ Her father looked at her wryly. "It is a strange world, Beatrice, where a man in
 
 That afternoon, Beatrice wore out her legs, visiting many farms.
 
-At the first, the farmer's wife was scrubbing an empty coop with vinegar. "Can't help you, alas. The murrain took half the flock after the river burst its banks in April," she said, not looking up. "The damp-rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We're living on pottage and prayer."
+At the first, the farmer’s wife was scrubbing an empty coop with vinegar. ‘Can’t help you, alas. The murrain took half the flock after the river burst its banks in April,‘ she said, not looking up. ‘The damp-rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We’re living on pottage and prayer.‘
 
-Beatrice looked at the woman's wrinkled hands, then reached into her own purse. "Here's a little help from a neighbour."
+Beatrice looked at the woman’s wrinkled hands, then reached into her own purse. ‘Here’s a little help from a neighbour.‘
 
-The woman looked up with red-rimmed eyes. "Nay, we'll do all right."
+The woman looked up with red-rimmed eyes. ‘Nay, we’ll do all right.‘
 
-Beatrice insisted. "Then keep it aside for me until it's needed. If not, another neighbour can benefit."
+Beatrice insisted. ‘Then keep it aside for me until it’s needed. If not, another neighbour can benefit.‘
 
-At these words, the woman accepted the gift. "I'll accept it as a mercy between neighbours then. May God bless you, dear. Try big Edwin's farm, by the oak on the hill; he had some birds last I heard."
+At these words, the woman accepted the gift. ‘I’ll accept it as a mercy between neighbours then. May God bless you, dear. Try big Edwin’s farm, by the oak on the hill; he had some birds last I heard.‘
 
-After a long walk, Beatrice arrived at the farm by the oak, where big Edwin was loading the last of his hay. "Looking for a bird?" he barked. "You're about two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were swept clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our 'in-kind' debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss."
+After a long walk, Beatrice arrived at the farm by the oak, where big Edwin was loading the last of his hay. ‘Looking for a bird?‘ he barked. ‘You’re about two weeks late. The Abbot’s Tithe collector came through on Sunday. The Abbey’s own ponds were swept clean and their yards emptied when the King’s household stayed there last week. The Abbot is holding us to our “in-kind’ debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss.‘
 
-She crossed the river upstream, nearly falling in, and at long last reached the farm by the reedy wide river bend where Goosie came from as an egg. The owner herself came out to meet her. She looked at Beatrice's face and seemed to understand.
+She crossed the river upstream, nearly falling in, and at long last reached the farm by the reedy wide river bend where Goosie came from as an egg. The owner herself came out to meet her. She looked at Beatrice’s face and seemed to understand.
 
-"The King is back and you're after a bird for the King's table."
+‘The King is back and you’re after a bird for the King’s table.‘
 
-Beatrice nodded. "The purveyors… the Abbot… there is nothing."
+Beatrice nodded. ‘The purveyors… the Abbot… there is nothing.‘
 
-The nurse sighed, wiping her hands on her apron. "When you've served a king, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we'd recover by this summer, but the King's own host has been marching this year, and they're taking the young birds before they can even grow fat. I've nothing left but scrawny things, all bone and pin-feathers."
+The nurse sighed, wiping her hands on her apron. ‘When you’ve served a king, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we’d recover by this summer, but the King’s own host has been marching this year, and they’re taking the young birds before they can even grow fat. I’ve nothing left but scrawny things, all bone and pin-feathers.‘
 
-"I can't bear to send Goosie. Surely there is another," Beatrice pleaded.
+‘I can’t bear to send Goosie. Surely there is another,‘ Beatrice pleaded.
 
-The nurse looked towards the poultry shed. "Only the old gander. He's the last of the 1112 stock—"
+The nurse looked towards the poultry shed. ‘Only the old gander. He’s the last of the 1112 stock—‘
 
-Beatrice interrupted eagerly. "Then I'll buy him. I have the silver Mother left—"
+Beatrice interrupted eagerly. ‘Then I’ll buy him. I have the silver Mother left—‘
 
-The nurse shook her head. "He's already spoken for. The Royal Marshal marked him with the King's seal yesterday. If I sell him to you, they'll hang me for theft of Crown property. He's not a bird any more, Beatrice; he's a piece of the King's war."
+The nurse shook her head. ‘He’s already spoken for. The Royal Marshal marked him with the King’s seal yesterday. If I sell him to you, they’ll hang me for theft of Crown property. He’s not a bird any more, Beatrice; he’s a piece of the King’s war.‘
 
-The nurse looked at her, blunt but not unkind. "Count it a blessing that your own bird has lived as long as she has. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron."
+The nurse looked at her, blunt but not unkind. ‘Count it a blessing that your own bird has lived as long as she has. I can tell you that she’s the only prime bird in three parishes that hasn’t been crated for a knight’s pot or soldier’s cauldron.‘
 
-Beatrice's throat tightened. The news was too much for her to bear and she burst into large wet tears. The normally gruff nurse patted her back.
+Beatrice’s throat tightened. The news was too much for her to bear and she burst into large wet tears. The normally gruff nurse patted her back.
 
-The nurse's hand, calloused from years of plucking and grain-sorting, rested heavy on Beatrice's shoulder. She didn't offer empty comfort; in these parts, tears were as common as the rain.
+The nurse’s hand, calloused from years of plucking and grain-sorting, rested heavy on Beatrice’s shoulder. She didn’t offer empty comfort; in these parts, tears were as common as the rain.
 
-"Dry those, girl," the nurse muttered, her voice dropping to a gravelly whisper. "Salt water won't fatten a bird, and it won't soften a King's heart."
+‘Dry those, girl,‘ the nurse muttered, her voice dropping to a gravelly whisper. ‘Salt water won’t fatten a bird, and it won’t soften a King’s heart.‘
 
-She looked Beatrice squarely in the eye, her expression hard as flint. "Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here."
+She looked Beatrice squarely in the eye, her expression hard as flint. ‘Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here.‘
 
 ---
 
-### Beatrice's Flight
+### Beatrice’s Flight
 
-Beatrice fled. The nurse's words tolled like a death knell. Brambles caught her legs; hedgerows slid past unseen. Her own breath was loud in her ears. She could not imagine how she reached home; her feet must have worked by memory alone.
+Beatrice fled. The nurse’s words tolled like a death knell. Brambles caught her legs; hedgerows slid past unseen. Her own breath was loud in her ears. She could not imagine how she reached home; her feet must have worked by memory alone.
 
-She was not thinking of the King. She was not thinking of the goose. She was thinking of Sir Guy. The man who had lied about her father's wound. The man who had counted her livestock. The man who had smiled and called her "insolent" and "foolish."
+She was not thinking of the King. She was not thinking of the goose. She was thinking of Sir Guy. The man who had lied about her father’s wound. The man who had counted her livestock. The man who had smiled and called her ‘insolent’ and ‘foolish.‘
 
 She had almost trusted him. She had imagined a future with him. She had been a fool.
 
-She thought of her father's words, from the boundary walk, years ago: *"A man's character shows in small things. Watch how he treats those who can do nothing for him."*
+She thought of her father’s words, from the boundary walk, years ago: *’A man’s character shows in small things. Watch how he treats those who can do nothing for him.‘*
 
 She had not watched. She had been too busy being flattered.
 
-She pressed her forehead against the rough bark of a tree and let herself shake. No one saw. That was the rule now: be brave when they're watching, fall apart when they're not.
+She pressed her forehead against the rough bark of a tree and let herself shake. No one saw. That was the rule now: be brave when they’re watching, fall apart when they’re not.
 
 ---
 
@@ -1669,15 +1649,15 @@ She prayed as she knelt empty-handed in the dark. As she laid her head down, she
 
 ---
 
-## Chapter 6 — The King's Messenger Does Not Dismount
+## Chapter 6 — The King’s Messenger Does Not Dismount
 
 ---
 
 ### The Second Demand
 
-Three long brassy blasts blown on an ox horn shattered the morning quiet. Beatrice's gaze snapped up towards the village. She was in the herb garden, outside the kitchen.
+Three long brassy blasts blown on an ox horn shattered the morning quiet. Beatrice’s gaze snapped up towards the village. She was in the herb garden, outside the kitchen.
 
-The old manservant lowered his axe at the woodpile. 'This can't be good news.'
+The old manservant lowered his axe at the woodpile. “This can’t be good news.“
 
 Beatrice loathed those blasts. As a young child, they had sounded to call her father off to war for a year or so. She had missed him so much.
 
@@ -1685,7 +1665,7 @@ A horse and rider came around the corner, striding towards the hall, hoofbeats t
 
 The messenger reined in before the hall, and unrolled a stiff parchment writ.
 
-'The King hunts in Rockingham Forest,' he announced, projecting his voice towards the timbers as if the building itself were worthy of his breath. 'This holding shall render its service: two feathered arrows and a fowl for His Majesty's table.'
+“The King hunts in Rockingham Forest,“ he announced, projecting his voice towards the timbers as if the building itself were worthy of his breath. “This holding shall render its service: two feathered arrows and a fowl for His Majesty’s table.“
 
 The man wheeled his horse about, and was gone. A servant stood in the doorway of the hall, a rag still in her hand, staring after the dust. Beatrice scooped up her goose.
 
@@ -1697,15 +1677,15 @@ Goosie honked.
 
 Harold had not risen from his chair. When Beatrice came inside, he looked at the goose, then at his daughter, and his eyes were hollow.
 
-'My tired arms are of little use to a younger King,' he said. His voice was low and gritty, the voice of a man who had been turning something over in his mind for a long time and had only now found the words. 'A man who cannot ride to war must pay the shield‑tax instead. That I can manage, just. But this,' he shook his head, 'they took the last of our stored grain at Michaelmas. The King's own purveyors. For the army in Wales. If they come again, the village may well starve.'
+“My tired arms are of little use to a younger King,“ he said. His voice was low and gritty, the voice of a man who had been turning something over in his mind for a long time and had only now found the words. “A man who cannot ride to war must pay the shield‑tax instead. That I can manage, just. But this,“ he shook his head, “they took the last of our stored grain at Michaelmas. The King’s own purveyors. For the army in Wales. If they come again, the village may well starve.“
 
 They both knew that they had nothing suitable for the King except the unthinkable.
 
-'We have coin enough for the present, Father,' Beatrice said, her voice almost sounding confident. 'We shall simply buy a bird for the King. Surely there must be at least one, one of the farm geese…'
+“We have coin enough for the present, Father,“ Beatrice said, her voice almost sounding confident. “We shall simply buy a bird for the King. Surely there must be at least one, one of the farm geese…“
 
-Harold shook his head. 'Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn't seize for the King's table, the Earl's men bought up to provision the baggage trains. Roger of Salisbury's clerks have been through the ledgers; they know exactly how many wings are in every yard.'
+Harold shook his head. “Try by all means, Beatrice. But the Great Levy last spring stripped every manor from here to the Severn. What the purveyors didn’t seize for the King’s table, the Earl’s men bought up to provision the baggage trains. Roger of Salisbury’s clerks have been through the ledgers; they know exactly how many wings are in every yard.“
 
-Her father looked at her wryly. 'It is a strange world, Beatrice, where a man in a stone tower knows our poultry better than a fox.'
+Her father looked at her wryly. “It is a strange world, Beatrice, where a man in a stone tower knows our poultry better than a fox.“
 
 ---
 
@@ -1713,43 +1693,43 @@ Her father looked at her wryly. 'It is a strange world, Beatrice, where a man in
 
 That afternoon, Beatrice wore out her legs, visiting many farms.
 
-At the first, the farmer's wife was scrubbing an empty coop with vinegar. 'Can't help you, alas. The murrain took half the flock after the river burst its banks in April,' she said, not looking up. 'The damp‑rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We're living on pottage and prayer.'
+At the first, the farmer’s wife was scrubbing an empty coop with vinegar. “Can’t help you, alas. The murrain took half the flock after the river burst its banks in April,“ she said, not looking up. “The damp‑rot got into their lungs. The few that survived, we sold to the pedlars a month ago just to buy seed grain. We’re living on pottage and prayer.“
 
-Beatrice looked at the woman's wrinkled hands, then reached into her own purse. 'Here's a little help from a neighbour.'
+Beatrice looked at the woman’s wrinkled hands, then reached into her own purse. “Here’s a little help from a neighbour.“
 
-The woman looked up with red‑rimmed eyes. 'Nay, we'll do all right.'
+The woman looked up with red‑rimmed eyes. “Nay, we’ll do all right.“
 
-Beatrice insisted. 'Then keep it aside for me until it's needed. If not, another neighbour can benefit.'
+Beatrice insisted. “Then keep it aside for me until it’s needed. If not, another neighbour can benefit.“
 
-At these words, the woman accepted the gift. 'I'll accept it as a mercy between neighbours then. May God bless you, dear. Try big Edwin's farm, by the oak on the hill; he had some birds last I heard.'
+At these words, the woman accepted the gift. “I’ll accept it as a mercy between neighbours then. May God bless you, dear. Try big Edwin’s farm, by the oak on the hill; he had some birds last I heard.“
 
-After a long walk, Beatrice arrived at the farm by the oak, where big Edwin, a tenant of the manor, was loading the last of his hay. 'Looking for a bird?' he barked, seeing her eyes stray to the empty yard. 'You're about two weeks late. The Abbot's Tithe collector came through on Sunday. The Abbey's own ponds were swept clean and their yards emptied when the King's household stayed there last week. The Abbot is holding us to our "in‑kind" debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss.'
+After a long walk, Beatrice arrived at the farm by the oak, where big Edwin, a tenant of the manor, was loading the last of his hay. “Looking for a bird?“ he barked, seeing her eyes stray to the empty yard. “You’re about two weeks late. The Abbot’s Tithe collector came through on Sunday. The Abbey’s own ponds were swept clean and their yards emptied when the King’s household stayed there last week. The Abbot is holding us to our ‘in‑kind’ debts to restock his own kitchen. If I had a prime gander left, it would be in a crate for the monks, not for sale, not even to your father. I mean no disrespect, miss.“
 
-She crossed the river upstream, nearly falling in, and at long last reached the farm by the reedy wide river bend where Goosie came from as an egg. The owner herself came out to meet her. She looked at Beatrice's face and seemed to understand.
+She crossed the river upstream, nearly falling in, and at long last reached the farm by the reedy wide river bend where Goosie came from as an egg. The owner herself came out to meet her. She looked at Beatrice’s face and seemed to understand.
 
-'The King is back and you're after a bird for the King's table.'
+“The King is back and you’re after a bird for the King’s table.“
 
-Beatrice nodded. 'The purveyors… the Abbot… there is nothing.'
+Beatrice nodded. “The purveyors… the Abbot… there is nothing.“
 
-The nurse sighed, wiping her hands on her apron. 'When you've served a king, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we'd recover by this summer, but the King's own host has been marching this year, and they're taking the young birds before they can even grow fat. I've nothing left but scrawny things, all bone and pin‑feathers.'
+The nurse sighed, wiping her hands on her apron. “When you’ve served a king, you learn to watch which way the wind blows. It started last year, child. When the border lords began their raids, they bought up every breeding pair in the shire to salt down for the winter garrisons. We thought we’d recover by this summer, but the King’s own host has been marching this year, and they’re taking the young birds before they can even grow fat. I’ve nothing left but scrawny things, all bone and pin‑feathers.“
 
-'I can't bear to send Goosie. Surely there is another,' Beatrice pleaded.
+“I can’t bear to send Goosie. Surely there is another,“ Beatrice pleaded.
 
-The nurse looked towards the poultry shed. 'Only the old gander. He's the last of the 1112 stock…'
+The nurse looked towards the poultry shed. “Only the old gander. He’s the last of the 1112 stock…“
 
-Beatrice interrupted eagerly. 'Then I'll buy him. I have the silver Mother left…'
+Beatrice interrupted eagerly. “Then I’ll buy him. I have the silver Mother left…“
 
-The nurse shook her head. 'He's already spoken for. The Royal Marshal marked him with the King's seal yesterday. If I sell him to you, they'll hang me for theft of Crown property. He's not a bird any more, Beatrice; he's a piece of the King's war.'
+The nurse shook her head. “He’s already spoken for. The Royal Marshal marked him with the King’s seal yesterday. If I sell him to you, they’ll hang me for theft of Crown property. He’s not a bird any more, Beatrice; he’s a piece of the King’s war.“
 
-The nurse looked at her, blunt but not unkind. 'Count it a blessing that your own bird has lived as long as she has. I can tell you that she's the only prime bird in three parishes that hasn't been crated for a knight's pot or soldier's cauldron.'
+The nurse looked at her, blunt but not unkind. “Count it a blessing that your own bird has lived as long as she has. I can tell you that she’s the only prime bird in three parishes that hasn’t been crated for a knight’s pot or soldier’s cauldron.“
 
-Beatrice's throat tightened. The news was too much for her to bear and she burst into large wet tears. The normally gruff nurse patted her back.
+Beatrice’s throat tightened. The news was too much for her to bear and she burst into large wet tears. The normally gruff nurse patted her back.
 
-The nurse's hand, calloused from years of plucking and grain‑sorting, rested heavy on Beatrice's shoulder. She didn't offer empty comfort; in these parts, tears were as common as the rain.
+The nurse’s hand, calloused from years of plucking and grain‑sorting, rested heavy on Beatrice’s shoulder. She didn’t offer empty comfort; in these parts, tears were as common as the rain.
 
-'Dry those, girl,' the nurse muttered, her voice dropping to a gravelly whisper. 'Salt water won't fatten a bird, and it won't soften a King's heart.'
+“Dry those, girl,“ the nurse muttered, her voice dropping to a gravelly whisper. “Salt water won’t fatten a bird, and it won’t soften a King’s heart.“
 
-She looked Beatrice squarely in the eye, her expression hard as flint. 'Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here.'
+She looked Beatrice squarely in the eye, her expression hard as flint. “Only the King or God Himself can save your goose now. Go home, Beatrice. There is nothing more for you here.“
 
 TODO we must drop clues and then make clear that sir guy had spitefully bought up all the birds.
 
@@ -1757,7 +1737,7 @@ She looked Beatrice squarely in the eye, her expression hard as flint. 'Only the
 
 ### Only God or the King
 
-Beatrice fled. The nurse's words tolled like a death knell. Brambles caught her legs; hedgerows slid past unseen. Her own breath was loud in her ears. She could not imagine how she reached home; her feet must have worked by memory alone.
+Beatrice fled. The nurse’s words tolled like a death knell. Brambles caught her legs; hedgerows slid past unseen. Her own breath was loud in her ears. She could not imagine how she reached home; her feet must have worked by memory alone.
 
 The yard. The door. The cold nose of the staghound as she pushed inside.
 
@@ -1779,7 +1759,7 @@ She prayed as she knelt empty‑handed in the dark. As she laid her head down, s
 
 Beatrice woke to a soft weight pressing against her hip. Daylight. Pale and new through the shutters. Goosie had crossed the rushes and settled beside her, warm and solid and entirely herself.
 
-Beatrice lay still, one hand resting on the white curve of the goose's back. In place of her fears was something quieter and worse: certainty.
+Beatrice lay still, one hand resting on the white curve of the goose’s back. In place of her fears was something quieter and worse: certainty.
 
 She rose. Goosie rose with her.
 
@@ -1789,53 +1769,53 @@ Beatrice built up the fire. She knelt beside his chair. And she told him everyth
 
 *The river took the weak. The Abbot took the strong. The war took the rest.*
 
-'There's no other bird but…' she whispered.
+“There’s no other bird but…“ she whispered.
 
-'Nothing but Goosie,' Harold finished.
+“Nothing but Goosie,“ Harold finished.
 
-He didn't say *your mother's goose*. He didn't need to.
+He didn’t say *your mother’s goose*. He didn’t need to.
 
-A hot, ungracious thought rose in Beatrice. 'What business has the King hunting here, anyway? He has a thousand forests. A hundred kitchens. Must he come and take what little we have?'
+A hot, ungracious thought rose in Beatrice. “What business has the King hunting here, anyway? He has a thousand forests. A hundred kitchens. Must he come and take what little we have?“
 
-'A crown is a heavy thing,' Harold said gently. 'Kings must take much, for much is laid upon them.'
+“A crown is a heavy thing,“ Harold said gently. “Kings must take much, for much is laid upon them.“
 
-Beatrice folded her arms. 'I should like to tell this king what I think of that.'
+Beatrice folded her arms. “I should like to tell this king what I think of that.“
 
 Harold almost smiled. It was a pale shadow of his old laugh, but it was something.
 
-'You may keep that thought to yourself.'
+“You may keep that thought to yourself.“
 
 He tried to rise. His hands shook. Beatrice saw him brace against the chair, saw the moment of pain cross his face before he hid it.
 
 She was at his side in three steps.
 
-'You shouldn't travel that far while the weather is cold.'
+“You shouldn’t travel that far while the weather is cold.“
 
-'Then I shall send the Reeve. He has a sturdy cart and the manner of a village headman.'
+“Then I shall send the Reeve. He has a sturdy cart and the manner of a village headman.“
 
-Beatrice shook her head. 'The agisters will strip the very shoes from a horse for a grazing tax, and the foresters bleed a man for merely looking at a deer. And besides, the Reeve has a large, hungry family. Goosie would end up in his pot before they even saw the forest.' A thought found its way out of her mouth, unintended: *Not for Stanwey, Father.*
+Beatrice shook her head. “The agisters will strip the very shoes from a horse for a grazing tax, and the foresters bleed a man for merely looking at a deer. And besides, the Reeve has a large, hungry family. Goosie would end up in his pot before they even saw the forest.“ A thought found its way out of her mouth, unintended: *Not for Stanwey, Father.*
 
-She looked at the charcoal basket by the hearth, the same basket her father had made for Goosie over ten years ago, now darkened by wear, but the leather strap was still supple. The nurse's words echoed: *Only the King or God.*
+She looked at the charcoal basket by the hearth, the same basket her father had made for Goosie over ten years ago, now darkened by wear, but the leather strap was still supple. The nurse’s words echoed: *Only the King or God.*
 
-She looked at her father's tired face, at the way his hand still rested on his chest. And just like that, she knew what she must do.
+She looked at her father’s tired face, at the way his hand still rested on his chest. And just like that, she knew what she must do.
 
-'Father, I'll take her.'
+“Father, I’ll take her.“
 
-He shook his head. 'It's hardly safe for you, daughter.'
+He shook his head. “It’s hardly safe for you, daughter.“
 
-'I can walk the old Roman road and blend with the charcoal‑bearers. Goosie can hide in a basket on my hip.' She paused. 'Besides, I'm on the King's business if anyone asks.'
+“I can walk the old Roman road and blend with the charcoal‑bearers. Goosie can hide in a basket on my hip.“ She paused. “Besides, I’m on the King’s business if anyone asks.“
 
 Harold studied her face.
 
-'Your mother would be proud of you.'
+“Your mother would be proud of you.“
 
 And for a moment, something flickered in his eyes, the old sharpness, the man who had ridden with kings.
 
-Beatrice's throat tightened. She set down the basket, with a protest from Goosie, and quickly hugged her father fiercely. He felt thinner and more frail than he should.
+Beatrice’s throat tightened. She set down the basket, with a protest from Goosie, and quickly hugged her father fiercely. He felt thinner and more frail than he should.
 
-'Perhaps I should go,' he murmured into her hair.
+“Perhaps I should go,“ he murmured into her hair.
 
-'Nay, Father,' she said, pulling back, blinking hard. 'Nay, I'll be home by dark.'
+“Nay, Father,“ she said, pulling back, blinking hard. “Nay, I’ll be home by dark.“
 
 She settled Goosie in the basket and set out.
 
@@ -1845,7 +1825,7 @@ She waved.
 
 He raised his hand higher still, standing tall, calling out.
 
-'Remember whose hall you enter.'
+“Remember whose hall you enter.“
 
 Then the road took her, towards a king who had no idea she was coming or what she had planned.
 
@@ -1853,9 +1833,9 @@ Then the road took her, towards a king who had no idea she was coming or what sh
 
 ### No One Would Know
 
-The cold air stung her cheeks. High in the treetops, rooks called to one another. Beatrice walked with the basket on her hip and her father's words in her ears. *Remember whose hall you enter.*
+The cold air stung her cheeks. High in the treetops, rooks called to one another. Beatrice walked with the basket on her hip and her father’s words in her ears. *Remember whose hall you enter.*
 
-She began to hum, one of her mother's tunes, and the sound of it steadied her.
+She began to hum, one of her mother’s tunes, and the sound of it steadied her.
 
 A sudden thunder of wings tore through the trees ahead. Beatrice flinched as a cloud of black shapes burst from the branches, their clamour filling the air, their kaah‑kaah harsh and close. Her heart jolted against her ribs. The birds wheeled against the grey sky, calling and calling.
 
@@ -1863,7 +1843,7 @@ Then, faint and thin, a horn sounded somewhere far off. A hunting party, perhaps
 
 A carter passed her, heading west with an empty cart. He raised a hand but did not speak.
 
-The trees thinned out as the road began to climb. The clamour of rooks grew until it filled the air, scores of them wheeling around Rockingham Castle, settling on high walls that had not been there in her grandfather's day.
+The trees thinned out as the road began to climb. The clamour of rooks grew until it filled the air, scores of them wheeling around Rockingham Castle, settling on high walls that had not been there in her grandfather’s day.
 
 A second horn call, closer now, and then she saw them—a long line of horses entering the castle gates, small as ants against the grey stone. The hunt was returning. The court would be assembling. If she did not reach the hall soon, the doors might close and her chance would be lost.
 
@@ -3408,7 +3388,7 @@ The priest was silent.
 
 “And you have lost?”
 
-Godfrey looked away. “My mother has not been to court since I was young. It has been some years since I last saw her. My father—” He stopped. “father is the King. But as a king’s son, I have never truly existed. I have been ignored for so long that this sudden attention is a shock." He let out a breath. "The existence of love, in my experience, is conditional. Contingent. Revocable. Cut off on a whim."
+Godfrey looked away. “My mother has not been to court since I was young. It has been some years since I last saw her. My father—” He stopped. “father is the King. But as a king’s son, I have never truly existed. I have been ignored for so long that this sudden attention is a shock.’ He let out a breath. ‘The existence of love, in my experience, is conditional. Contingent. Revocable. Cut off on a whim."
 
 “And yet,” the priest countered gently, “you are walking the bounds and learning the sword. You followed a goose and a girl. Something has changed.”
 
@@ -7655,6 +7635,7 @@ Look carefully and you’ll see the Old English letter þ (thorn) a few times. W
 - **livery** (pl. liveries; Servant clothing)
 - **manciple** (pl. manciples; Food and supply officer)
 - **mazer** (pl. mazers; Wooden drinking bowl)
+- **morrow** (morning; the next morning; tomorrow)
 - **napery** (pl. naperies; Table linen)
 - **pantry** (pl. pantries; Bread storage room)
 - **poppet** (pl. poppets; Small doll or figure)
