@@ -900,21 +900,21 @@ And Goosie followed, always.
 ![Chapter](https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png)
 
 
-# TODO - CHAPTER/SECTION TITLES
+*** TODO - CHAPTER/SECTION TITLES
 
 ## Chapter 5 — The Lady of Stanwey
 
 Beatrice pressed her thumb against the last tally and held it there. The parchment had curled at the edges. Nearby, Goosie made another determined attempt to grab the ribbon binding of the roll, but Beatrice gently guided her little head away.
 
-In the background, the two servants raked the rushes, the rustle of straw filling the hall. Spring planting at Stanwey was done. The Summer heat of Beatrice's July name day was still a month away.
+In the background, the two servants raked the rushes, the rustle of straw filling the hall. Spring planting at Stanwey was done. The Summer heat of Beatrice’s July name day was still a month away.
 
 By the warm hearth, Harold sat heavily in his chair, tracing a finger along the vellum of his psalter, his lips moving with the Latin.
 
-Beatrice set her roll aside and looked across the room. ‘That’s the accounts done, Father.'
+Beatrice set her roll aside and looked across the room. ‘That’s the accounts done, Father.’
 
-He paused, the precious book resting on his knees. 'Sweet daughter?'
+He paused, the precious book resting on his knees. ‘Sweet daughter?’
 
-'The tallies are done. What are you reading?’
+‘The tallies are done. What are you reading?’
 
 ‘*Emitte manum tuam de excelso; eripe me, et libera me de aquis multis, de manu filiorum alienorum.*’
 
@@ -922,81 +922,89 @@ Beatrice leaned back, tilting her head. ‘Something about giving a hand?’
 
 ‘Reach out your hand from above to deliver me,’ Harold translated from the Latin softly, his voice rough. ‘Rescue me from the sea of waters, from the hands of foreign sons.’
 
-Beatrice leant in, seeing his distant smile. 'It sounds like when you were young, Father. How many winters had you then?' 
+Beatrice leant in, seeing his distant smile. ‘It sounds like when you were young, Father. How many winters had you then?’ 
 
 He looked down at the script, the ink fading into the old sheepskin. For a Saxon who had spent his life under the weight of a Norman crown, the words carried a familiar taste.
 
 ‘Now I have four and sixty winters. But back then I was the very same age as you are now, my daughter, the very same.’
 
-She knew it would bring him pleasure to tell his tales, to pull the old world out from the shadows of the rafters for a time. 'What of the rescue of the Red‑Wolf, son of Magnús?'
+She knew it would bring him pleasure to tell his tales, to pull the old world out from the shadows of the rafters for a time. ‘What of the rescue of the Red‑Wolf, son of Magnús?’
 
 When Harold next spoke, his voice dropped into the low, rolling thrum of a saga‑man.
 
-'I was sixteen winters when Hardrada's sea-steeds bit the sands at Riccall. I saw the Raven snap in the wind ere the swords broke our shield‑wall at the Bridge. Norway bled on that grass; I thought my own thread was spun.'
+‘I was sixteen winters when Hardrada’s sea-steeds bit the sands at Riccall. I saw the Raven snap in the wind ere the swords broke our shield‑wall at the Bridge. Norway bled on that grass; I thought my own thread was spun.’
 
 He fingered the heavy book, his hard gaze distant.
 
-'But the Normans were made of stiffer cloth. I bent my knee to their William while the blood was still wet on my mail. I traded my axe for a Norman's horse and rode with his sons through the mud of the West. Now, that was when—'
+‘But the Normans were made of stiffer cloth. I bent my knee to their William while the blood was still wet on my mail. I traded my axe for a Norman’s horse and rode with his sons through the mud of the West. Now, that was when—’
 
 He broke off his tale as a sharp horn blast sounded, a wail like a high-pitched cow bellow. Only then did they both realise that two earlier blasts had already passed unnoticed.
 
-Goosie lifted her head as Beatrice rose to her feet. 'Whatever is that?'
+Goosie lifted her head as Beatrice rose to her feet. ‘Whatever is that?’
 
-Harold's face was pale. 'Three blasts for the King. It is likely a summons.'
+Harold‘s face was pale. ‘Three blasts for the King. It is likely a summons.’
 
 ### TODO - SECTION TITLE
 
-From the doorway, Harold spied a rider approaching at speed, cloak streaming, horse lathered. The man reined in before the hall and unrolled a stiff parchment writ, its seal heavy with wax.
+Standing in the main doorway, Harold spied a rider approaching at speed, cloak streaming, horse lathered. The man reined in before the hall and unrolled a stiff parchment writ, its seal heavy with wax.
 
-'Hear the word of Henry, King of the English!' the messenger cried. 'By the King's strict command, every man holding land of the crown, be he Norman knight or Saxon thegn, the same is summoned to ride in the Welsh campaign! The King's host assembles at Chester. Let no man make excuse. No scutage may be given: the King demands your swords, not your coin. Whosoever fails to make appearance, let him know his lands are utterly forfeit to the crown!'
+‘Hear the word of Henry, King of the English!’ the messenger cried. ‘By strict command, every man holding land of the crown, be he Norman knight or Saxon thegn, the same is summoned to ride in the Welsh campaign! The King’s host assembles at Chester. Let no man make excuse. No scutage may be given: the King demands your swords, not your coin. Whosoever fails to make appearance, let him know his lands are utterly forfeit to the crown!’
 
-Beatrice stepped forward to her father's side. 'Sir, my father is not a young man.'
+Beatrice stepped forward to her father’s side. ‘Sir, my father is not a young man.’
 
-The royal messenger looked at her, then at Harold, who seemed suddenly interested in the ground. The man's voice softened, but only slightly. 'My lady, the King marches on Wales. To make his claims clear by strength of arms, he gives exemption to no man. Your father is no stranger to such affairs, I think.'
+The royal messenger looked at her, then at Harold, who seemed suddenly interested in the ground. The man’s voice softened, but only slightly. ‘My lady, the King marches on Wales. To make his claims clear by strength of arms, he gives exemption to no man. Your father is no stranger to such affairs, I think.’
 
 He handed the writ to Harold, nodded once, and rode off, presumably towards nearby Rockingham Castle.
 
 Harold watched the dust settle on the road. He stepped back inside, folded the parchment and laid it firmly on the large table. When he spoke his words were gravely quiet.
 
-'I promised your mother, Beatrice, that I would not be away at war until you were older.'
+‘I promised your mother, Beatrice, that I would not be away at war until you were older.’
 
-'Then you must keep that promise. Surely the King would understand.'
+‘Then you must keep that promise. Surely the King would understand.’
 
-'What are my trifles compared with those of kings? For the greatest palaces are stormed by heavy troubles. I swore fealty to the King, Daughter. Your mother knew about that when we married, just as she knew I swore to be faithful to her. I have no choice. I shall go.'
+‘What are my trifles compared with those of kings? For the greatest palaces are stormed by heavy troubles. I swore fealty to the King, Daughter. Your mother knew about that when we married, just as she knew I swore to be faithful to her. I have no choice. I shall go.’
 
-He looked at her, and for a moment she saw the man who had pulled a lord from the Severn, who had ridden with kings. 'My grandfather's blade knows its craft well. I have held it since before you were born...'
+He looked at her, and for a moment she saw the man who had pulled a lord from the Severn, who had ridden with kings. ‘My grandfather’s blade knows its craft well. I have held it since before you were born...’
 
-'I am not a child, Father,' Beatrice said, her chin lifting with a touch of defensive bluster. 'I have kept the books these three seasons. You need not speak to me as if I still hide in the skirts of my maids.'
+Beatrice hsitated. She wanted to beg him to stay for her sake. But she knew to ignore the King’s summons was to lose everything, and she could not ask him to choose her over their very survival.
 
-Harold turned to face her fully, a faint, weary smile softening his stark features. 'I know, Beatrice. I know. You shall manage the estate while I am gone, just as I have taught you, and as you learnt from your mother. It likely won't be for long.'
+‘I am not a child, Father,’ Beatrice said, her chin lifting with a touch of defensive bluster to mask her fear. ‘I have kept the books these three seasons. You need not speak to me as if I still hide in the skirts of my maids.’
 
-'How long do you think?' She crossed her arms, still bristling slightly but unable to hide her anxiety. 'The last time you took up your shield, you were away for more than a year.'
+Harold turned to face her fully, a faint, weary smile softening his stark features. His eyes held a quiet, fierce pride that he rarely voiced. 
 
-Harold was quiet for a long moment. 'I should not have left you then. You were too young, and after your mother died... I was not myself. I had to send for your aunt, Leofwina, to hold Stanwey together.' He looked at her, his voice dropping. 'I am myself now. I could send for her again, if you have need of her.'
+‘I know, Beatrice. I know. You shall manage the estate while I am gone, just as I have taught you, and as you learnt from your mother. It likely won’t be for long.’
 
-'I have no need of my aunt,' Beatrice countered quickly, her pride flaring again. 'I told you, I can manage.'
+‘How long do you think?’ She crossed her arms, still bristling slightly but unable to hide her anxiety. ‘The last time you took up your shield, you were away for more than a year.’
 
-'I know you can,' Harold said softly. 'But if I stay to prove it, we lose the land, and more. I will not let that happen, not to you and not to Stanwey. As to how long, I might say less than six months. Probably three, given the sheer number of men the King is calling, if the messenger is to be believed.'
+Harold was quiet for a long moment. ‘I should not have left you then. You were too young, and after your mother died... I was not myself. I had to send for your mother’s sister, Leofwina, to hold Stanwey together.’ He looked at her, his voice dropping. ‘I could send for her again, if you have need of her.’
+
+‘I have no need of my aunt,’ Beatrice countered quickly, her pride flaring again. ‘I told you, I can manage.’
+
+‘I know you can,’ Harold said, softly echoing her pride. ‘As to how long, I might say less than six months. Probably three, given the sheer number of men the King is calling, if the messenger is to be believed.’
 
 Beatrice looked down at her hands. They were steady. She had made them steady. She had learned to keep them steady while her mother was dying, while her father sat silent, while the world went on around her.
 
-She looked up with a brave, tight half-smile. 'Then I shall manage.'
+Yet self-doubt crouched within her calm posture. *What if she could not manage alone? What if she failed him, and he returned to a broken estate as a broken man?*
 
-Harold caught the look on her face, seeing the fear she was trying so hard to hide for his sake. He pulled her close, holding her head to kiss her forehead.
+A flush of terror briefly dropped a tear from her eyes before she mastered it. 
 
-'Bless you, my daughter,' he murmured reassuringly. 'Now you're the Lady of Stanwey.'
+She looked up with a brave, tight half-smile. ‘Then I shall manage.’
+
+Harold caught the look on her face, seeing the fear she was trying so hard to hide for his sake, and loving her all the more for it. He pulled her close, holding her head to kiss her forehead.
+
+‘Bless you, my daughter,’ he murmured reassuringly. ‘Now you’re the Lady of Stanwey.’
 
 ---
 
-### The Lady's Work
+### The Lady’s Work
 
-The weeks before Harold's departure were a blur of wool and tallow and iron. Beatrice moved through the hall with frenetic diligence, her hands never still, her mind fixed on the dozens of small tasks that would keep her father alive on the road.
+The weeks before Harold’s departure were a blur of wool and tallow and iron. Beatrice moved through the hall with frenetic diligence, her hands never still, her mind fixed on the dozens of small tasks that would keep her father alive on the road.
 
-She was no blacksmith, yet insisted on checking the rivets on every scabbard personally, because her father's life rested in the gaps between those iron pins. She boiled leather to stiffen old jerkins, the smell of hot hide clinging to her clothes and hair. She counted out bags of dried peas and salt pork for the pack-horses, weighing each portion against the days of travel.
+She was no blacksmith, yet insisted on checking the rivets on every scabbard personally, because her father’s life rested in the gaps between those iron pins. She boiled leather to stiffen old jerkins, the smell of hot hide clinging to her clothes and hair. She counted out bags of dried peas and salt pork for the pack-horses, weighing each portion against the days of travel.
 
-She had learned from her mother how to prepare for a long absence. Her mother had done this numerous times, sending her husband to war with a full pack and a prayer. Aldwina had taught her the practical things: how a cloak should keep out the damp, how a badly packed saddlebag would chafe the horse, how to read a soldier's face when he said he would be home by winter.
+She had learned from her mother how to prepare for a long absence. Her mother had done this numerous times, sending her husband to war with a full pack and a prayer. Aldwina had taught her the practical things: how a cloak should keep out the damp, how a badly packed saddlebag would chafe the horse, how to read a soldier’s face when he said he would be home by winter.
 
-*‘You just keep your hands busy and your mind on one day at a time. That's how you get through it.’*
+*‘You just keep your hands busy and your mind on one day at a time. That’s how you get through it.’*
 
 Beatrice had not much time for thinking beyond these matters, but some nights between first and second sleep, she would lay awake, wondering what would happen to her if her father did not return.
 
@@ -1020,7 +1028,7 @@ Beatrice stood by the stone mounting block, her fingers laced tightly together. 
 
 Harold nodded and with a sharp jerk of the reins, turned his horse toward the Roman road. Several men from the village followed, their shields slung over their backs, waving back to the small crowd gathered at the gates. Beatrice watched until the dust of their small column dissolved into the summer haze and a loneliness hung about her.
 
-Beside her, the blacksmith's wife let out a long, heavy sigh. ‘At least we'll have time to get this place tidy while the men are away.’ She wiped her hands on her apron.
+Beside her, the blacksmith’s wife let out a long, heavy sigh. ‘At least we’ll have time to get this place tidy while the men are away.’ She wiped her hands on her apron.
 
 ---
 
@@ -1028,15 +1036,15 @@ Beside her, the blacksmith's wife let out a long, heavy sigh. ‘At least we'll 
 
 It was not merely the silence, though that was the first thing Beatrice noticed. The creak of her father’s chair, the rustle of his psalter, the low murmur of his voice as he read aloud to himself. 
 
-Beatrice found herself habitually listening for him, as she went about her chores. The clatter of the door latch would make her look up, only to see a maid. A heavy footstep in the yard would send her to the window. Each time, the disappointment settled more deeply, like cold water seeping slowly away into cracks.
-
-There was no shortage of midsummer tasks. She checked the grain stores, supervised the hay harvest, visited the sick. Her father's advice was fresh in her ear: *’Boundaries are only as strong as the memory of them.’*
+There was no shortage of midsummer tasks. She checked the grain stores, supervised the hay harvest, visited the sick. Her father’s advice was fresh in her ear: *’Boundaries are only as strong as the memory of them.’*
 
 But the work was not the comfort it had once been. Chores became just dull chores to keep the silence away.
 
-She began counting the days on a tally stick each evening. She did not know why. It was not as if the notches would bring him back. But it gave her hands something to do to mark the passage of time.
+Beatrice found herself habitually listening for him. The clatter of the door latch would make Goosie look up. A footstep in the yard would send her to the window, only to see a maid. Each time, the disappointment settled more deeply, like cold water seeping slowly away into cracks.
 
 In the evenings, as the light began to fade, she would inevitably walk to the gate. She did not admit to herself she was waiting; she was merely checking the latch, looking for strays, taking the air, keeping an eye on the village. But her eyes ever drifted towards the road for a rider, a messenger, or a traveller who might news.
+
+She began counting the days on a tally stick each evening. She did not know why. It was not as if the notches would bring him back. But it gave her hands something to do to mark the passage of time.
 
 ---
 
@@ -1046,15 +1054,15 @@ Certain small things became more apparent to Beatrice: the way light fell across
 
 Each day notched on the tally stick marked another day he had survived, another day closer to when she could stop counting.
 
-One afternoon, she found herself standing in the doorway of Harold's chamber. The bed was made, the blankets smoothed. His sword was gone, but his old cloak still hung on its peg. She planted her face deeply in the rough wool, smelling his familiar scent for a moment.
+One afternoon, she found herself standing in the doorway of Harold’s chamber. The bed was made, the blankets smoothed. His sword was gone, but his old cloak still hung on its peg. She planted her face deeply in the rough wool, smelling his familiar scent for a moment.
 
 *He will come back*, she told herself. *He always does.*
 
-But she had not felt like this since her mother’s death.
+At dusk, she walked again to the gate, but the road was empty. She had not felt like this since her mother’s death.
 
-At dusk, she walked again to the gate. A rabbit broke from the hedge, but the road was empty. From somewhere in the distance, a fox gave a raspy scream.
+A child from the village came over and held her hand, asking ‘Will papa come home soon?’ Something delicate seemed to crack inside Beatrice and she did not know how to answer. ‘I hope so,’ was all she could manage.
 
-She went inside and barred the door against the evening.
+From somewhere in the distance, a fox gave a raspy scream. She gave the child as much of a smile as she could spare, then went inside and barred the door, unable to see even the beautiful sunset.
 
 ---
 
@@ -1070,7 +1078,7 @@ Beatrice blinked at the thick, foreign burr of his words. ‘Nay, you’ve stray
 
 She looked at his dusty exhausted appearance. ‘But you look in need of food and drink.’
 
-The man halted, leaning heavily on his knotty ash staff. ‘I’d be glad of a morsel, mistress. God's truth, I would.’
+The man halted, leaning heavily on his knotty ash staff. ‘I’d be glad of a morsel, mistress. God’s truth, I would.’
 
 She fetched a heel of barley bread and a leather blackjack of small beer. He took them with trembling hands, breaking the bread with his teeth. As he chewed, she began to ply him. ‘You’ve come far?’
 
@@ -1084,7 +1092,7 @@ The pilgrim swallowed hard, his eyes darting to the darkening horizon. ‘In tru
 
 He shook his head, handing back the empty jack. ‘I heard only of a great host gathering at Chester. But I cannot say who was among them.’
 
-‘Stay longer,’ she urged, catching his sleeve as he turned. ‘It is my father's hall, and the hearth is free to any pilgrim. You will have a place by the fire and the manservant guards the door. Go on the morrow.’
+‘Stay longer,’ she urged, catching his sleeve as he turned. ‘It is my father’s hall, and the hearth is free to any pilgrim. You will have a place by the fire and the manservant guards the door. Go on the morrow.’
 
 ‘Nay,’ he said, pulling away with a sudden, anxious strength. ‘Kindness enough, mistress. But the sky turns and the Abbey bolts the gates at dusk.’
 
@@ -1126,15 +1134,15 @@ Beatrice set down the herb bundles she had been tying and wiped her hands on her
 
 ‘How many men?’ she asked.
 
-‘Five and one, my lady. All in the King's colours. They blew a horn three times.’
+‘Five and one, my lady. All in the King’s colours. They blew a horn three times.’
 
 Beatrice walked to the gate and watched them come.
 
 Six. A royal party. A messenger, his escort, a knight, and other riders.
 
-She had not been to the gate in days. She had stopped hoping. And now this — riders in the King's livery, a messenger, a knight, a chance of news.
+She had not been to the gate in days. She had stopped hoping. And now this — riders in the King’s livery, a messenger, a knight, a chance of news.
 
-She felt a flush of shame — not for waiting, but for having stopped. She had made herself small, wrapped herself in the dull grey of giving up. And now the King's riders were here, and she was not ready. She had not expected this at all.
+She felt a flush of shame — not for waiting, but for having stopped. She had made herself small, wrapped herself in the dull grey of giving up. And now the King’s riders were here, and she was not ready. She had not expected this at all.
 
 However, the Lady of Stanwey would not show fear. She straightened her shoulders and stood tall, though inwardly, she trembled.
 
@@ -1212,7 +1220,7 @@ Beatrice stood at the gate, watching him go. She felt lighter than she had in we
 
 ### Warning 1: The Nurse
 *** Not sure where this should be; needs breaking down from the earlier version of this section.
-*** Must have the nurse more circumspect. ‘I see there's a man hanging around... It's your business what company you keep, of course.’
+*** Must have the nurse more circumspect. ‘I see there’s a man hanging around... It’s your business what company you keep, of course.’
 Beatrice walked to the river-bend farm the next day, hoping to find news of a bird. The nurse was in the yard, scattering grain for the few scrawny hens that remained.
 
 ‘I saw that knight leaving,‘ the nurse said, her eyes narrowing. ‘The one who brought the news.‘
@@ -2354,7 +2362,7 @@ When she opened her eyes, one of the guards at the door was watching her. He bor
 
 Beatrice gave him a small, uncertain nod.
 
-'Your goose is spared, then?' His voice was gruff, but not unkind.
+‘Your goose is spared, then?’ His voice was gruff, but not unkind.
 
 Beatrice had to push the swirling thoughts aside before she could answer him. 'He spared her. It was more than I dared hope for. He will… He is coming to visit my father.'
 
