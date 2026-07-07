@@ -1048,6 +1048,12 @@ She began counting the days on a tally stick each evening. She did not know why.
 
 ---
 
+*** TODO - ADD TO BELOW OR ABOVE
+The hall was never truly empty. There were always servants, always work, always the sound of the hearth. But Beatrice was the only one who slept in her mother's chamber. She was the only one who remembered her mother's voice. That was the loneliness she could not name.
+
+
+
+
 ### The Second Week
 
 Certain small things became more apparent to Beatrice: the way light fell across the hearth at a certain hour, when Harold would have often sat there. The way Goosie would sometimes lift her head and listen, as if she, too, was waiting for a familiar voice.
@@ -1123,6 +1129,12 @@ Now she knew what it meant to be left behind.
 She rarely walked in the evenings to the gate. The road was always empty. One day drifted into the next, the same grey light, the same silence, the same hollow waiting.
 
 She still notched the tally stick, but even that had become a habit, not a comfort. She notched the wood without thinking, her mind elsewhere. She was not sure what she was counting towards anymore.
+
+*** TODO - REDO the above to include: Beatrice's mother had been dead for two years, but she still found herself reaching for her in small moments — a question about a herb, a worry about the bread, a quiet evening when the hall felt too empty. She did not speak of this to anyone. It was hers.
+
+Why This Matters: Beatrice's grief is what makes her vulnerable to Sir Guy. He offers a distraction from grief, a promise of new life. The reader must feel the weight of her loss.
+
+
 
 ---
 
@@ -1635,6 +1647,12 @@ And then she remembered the nurse’s words. *A man who asks too many questions 
 She remembered the farmer at the crossroads, the look on his face. She remembered the priest’s warning. She remembered all of it.
 
 He had bought the birds. He had taken them from the market. He had stripped her of every option. And then he had stood there, apologizing for not finding one.
+
+---
+
+### TODO - SECTION GATHERED HERE AND NAMED - HAROLD RETURNS
+
+"On the road, I fell into conversation with an quite odd burlap-clad monk from Shrewsbury Abbey. He said he preferred to heal men than kill them. I reckon he had been tending their gardens for more than fifty years. Anyways I was telling him about our estate, how your mother and now yourself work with herbs and such. Well, he insisted on giving me some plants for you: yellow poppy from Wales which juice is a strong sleep draught, winter grass from the mud flats for preventing scurvey, and valerian from the River Severn as a sedative. He insisted that you see him if you are ever in the area."
 
 ---
 
