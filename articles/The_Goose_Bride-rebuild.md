@@ -795,9 +795,9 @@ Beatrice lost track of time, wandering aimlessly, and eventually found herself s
 
 She half-expected to hear her mother’s familiar warm voice calling her name. She sighed. The hall seemed smaller than before. Her father stood waiting in the doorway, rubbing his chest with a clenched fist, as if holding something in place that might otherwise escape.
 
-He saw her and let out a long, shuddering sigh. He looked away for a moment before attempting a borrowed smile.
+He saw her and let out a long, shuddering sigh. He looked away for a moment before attempting a borrowed smile. 
 
-Beatrice crossed the clearing and took his hand. It was cold.
+Beatrice crossed the clearing. He paid her no notice so she took his hand. It was cold.
 
 ‘I’m here, Father.’
 
@@ -813,7 +813,7 @@ Beatrice touched her father’s arm.
 
 ‘Father, you should try to rest.’ 
 
-He nodded, and she followed him towards the sleeping chamber.
+He didn't look up but merely nodded dully, and she guided him towards his sleeping chamber.
 
 Harold stopped abruptly at the threshold. Beatrice saw it then, the bed where her mother had lain. The blankets were still rumpled from the morning she had been found. 
 
@@ -851,11 +851,13 @@ Some time later, she heard his sobbing coming faintly from the chamber.
 
 So it was that in the evening, when at last she sat down to rest, she heard his approach and felt his hand come to rest on her shoulder. She looked up, uncertain what to expect. His face was tired but open.
 
-‘Thank you,’ he said. The first words he had spoken to her in several days.
+‘Thank you,’ he said. 
 
-She nodded. ‘The fire is lit. The bed will be warm.’
+Surprise flickered on her face. These were the first he had spoken to her in some days. Beatrice had assumed that he was simply giving up, or abandoning her.
 
-That night, as she lay in her own bed, she heard the creak of the bed in the sleeping chamber. The thought came to her, clear and quiet: *Father crossed the threshold all by himself*.
+She nodded with a hint of a smile. ‘The fire is lit. The bed will be warm.’
+
+That night, as she lay in her own bed, she heard the creak of the bed in the sleeping chamber. The thought came to her, clear and quiet: *Father crossed the threshold all by himself. Maybe he was simply grieving.*.
 
 She found her face was wet with tears and silently wiped them away.
 
@@ -1387,7 +1389,7 @@ TODO - REWIRE RECYCLE RELOCATE
 *** Not sure where this should be; needs breaking down from the earlier version of this section.
 *** Must have the nurse more circumspect. ‘I see there’s a man hanging around... It’s your business what company you keep, of course.’
 Beatrice walked to the river-bend farm the next day, hoping to find news of a bird. The nurse was in the yard, scattering grain for the few scrawny hens that remained.
-
+*** I'm repurposing much of this for the priest as the more or less final warning.
 ‘I saw that knight leaving,‘ the nurse said, her eyes narrowing. ‘The one who brought the news.‘
 
 Beatrice stopped. ‘Sir Guy?‘
@@ -1555,11 +1557,62 @@ Make it like this: Beatrice is meant by the king's purveyor (Not merely messenge
 Probably the purveyor says that he understood she was having difficulties. She sighed and admited that such was the case.
 At that point the old priest from Saint Peters (the village church, by the crossroads) joined them with a greeting to both 'my lady, good sir'.
 
-I couldn't help overhearing your conversation. It is good to see such diligence in service of the King. I did hear that the king . 
+‘I was passing by and I couldn't help overhearing your conversation. It is good to know that the King has such diligent servants. Perhaps you would confirm for me today’s news that the King is enjoying the hospitality of Tamworth Castle?’
+
+’You are?’
+
+‘Oh no one of much consequence, merely a rustic priest who knows nothing at all about royal matters.’ [too much/strong?]
+
+The man is hesitant and after a little more needling on both sides, he leaves. 
+
+Beatrice thanks the priest [name?] and they chat.
+
+‘And how is that knight of yours?’
+
+Beatrice’s face flushed. ‘Sir Guy is not mine.’
+
+‘Oh, my mistake, I thought from his behaviour that there was something more to it.’
+[not sure if this it the right tack to start the chat?]
+
+‘...’
+
+‘Well, he can certainly turn on a warm smile when he wishes, I’ll give him that much. A skill he learnt from his father, no doubt.’
+
+Beatrice frowned. ‘The dead can’t defend themselves, father.’
+
+‘No more they can. His cousin’
+
+
+======================================================================
+>>>> TODO *** IN PROGRESS here of updating sir guy - see new backstory and co.
+======================================================================
+
+
+He smiled — a warm, practiced smile. He had learned it as a boy, watching his father charm the knights who had everything. He knew exactly when to use it. He knew exactly what it did to women. He did not feel guilt. He felt satisfaction.
 
 
 
+===
+‘I saw that knight leaving,‘ the nurse said, her eyes narrowing. ‘The one who brought the news.‘
 
+Beatrice stopped. ‘Sir Guy?‘
+
+‘That one.‘ The nurse’s voice was flat. ‘I know his type. Charming. Helpful. Always asking questions.‘
+
+‘He was asking about the manor.‘
+
+‘That is what I mean.‘ The nurse wiped her hands on her apron. ‘A man who asks too many questions about other people’s land is not just curious, child. He is measuring.‘
+
+Beatrice laughed. ‘You are suspicious of everyone.‘
+
+‘I am suspicious of men who smile too easily,‘ the nurse said. ‘And men who ask too many questions.‘
+
+Beatrice shook her head. ‘He brought news of my father. He was kind.‘
+
+‘Kindness and honesty are not the same thing.‘
+
+*Beatrice walked on, irritated. She did not want to hear this. The nurse was old and set in her ways. She did not know Sir Guy. She had no right to judge him.*
+===
 
 Beatrice attended Mass at St. Peter’s. The priest was old, his voice thin, but his eyes were sharp.
 
@@ -6528,7 +6581,6 @@ about what the story made you feel.***
 
 
 
-
 ***
 
 ## Author’s Note — Why I Wrote This Story
@@ -6544,6 +6596,8 @@ We have a natural fascination with seeing things happen to other people; this st
 3. Does it offer a “psychological tool”? (Is it useful enough?)
 
 I offer these questions as a practical craft check for anyone who wants to use them in their own work.
+
+> *The greatest healing is rarely in grand gestures, but in the quiet work of ordinary days. The mended fence. The warm hearth. The patient word. That is where love lives.*
 
 ---
 
@@ -7126,6 +7180,10 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 | Source | Contribution |
 |--------|--------------|
 | **Welsh folk tale** | The story of Llywelyn the Great’s faithful hound, missing and later found dead, demonstrates that medieval audiences understood the anguish of a lost animal companion. This influenced the "Goosie is missing" scene in the early chapters. |
+
+### Others
+
+Others I might mention include such as the works and life of Jane Austen, Edith Pargeter ('Ellis Peters') Cadfael series, Harold Blundell ('George Bellairs') Inspector Littlejohn series, and many others.
 
 ## III. Where Influences Appear in the Story
 
