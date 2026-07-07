@@ -1516,7 +1516,50 @@ The woman shrugged. ‘I am only telling you what I heard, my lady.‘
 
 ---
 
+### Warning 5: The Nurse Again
+
+*** TODO MAKE THIS THE FINAL BIRD SEARCH BUT NOT FINAL WARNING
+
+Beatrice went back to the river-bend farm, exhausted from her search. The nurse was there, as always.
+
+‘I see you are still looking for a bird,‘ the nurse said.
+
+‘There is none. The purveyors took everything. The abbey took what remained.‘
+
+The nurse handed her a cup of hot posset. ‘And Sir Guy? Has he found anything?‘
+
+Beatrice shook her head. ‘He said he searched everywhere. There was nothing.‘
+
+The nurse was silent for a long moment. Then she spoke, her voice flat.
+
+‘I have seen men like him before, child. They take what they want and they leave the bones.‘
+
+Beatrice set down the cup. Her hands were trembling.
+
+‘I am not a fool,‘ she said.
+
+‘I did not say you were.‘ The nurse’s voice was soft. ‘I said I have seen men like him before. And I have seen women like you too — young, capable, alone. The men like him seek them out. They know a good thing when they see it.‘
+
+Beatrice stood up. ‘I do not want to hear this.‘
+
+‘I know you do not.‘
+
+*Beatrice walked out without looking back. She was not a fool. She was not.*
+---
+
 ### Warning 4: The Priest
+
+*** TODO MAKE THIS THE FINAL WARNING
+
+Make it like this: Beatrice is meant by the king's purveyor (Not merely messenger) at the Village crossroads. He requires as to the owed purveyance. She pushes back and says that the week is not up, and that she expects to have a bird. (She was glad that Goosie had stayed at the hall)
+Probably the purveyor says that he understood she was having difficulties. She sighed and admited that such was the case.
+At that point the old priest from Saint Peters (the village church, by the crossroads) joined them with a greeting to both 'my lady, good sir'.
+
+I couldn't help overhearing your conversation. It is good to see such diligence in service of the King. I did hear that the king . 
+
+
+
+
 
 Beatrice attended Mass at St. Peter’s. The priest was old, his voice thin, but his eyes were sharp.
 
@@ -1548,6 +1591,8 @@ Beatrice stiffened. ‘He was kind. He brought news of my father.‘
 
 ### A Moment of Doubt
 
+*** TODO MAKE THIS THE LAST WARNING
+
 Beatrice was walking back from the village when she saw Sir Guy at the crossroads. He was speaking to a tenant farmer — a man she knew, a good man. The farmer’s face was uneasy, almost frightened.
 
 Sir Guy noticed her and smiled, waving. The farmer hurried away.
@@ -1572,35 +1617,6 @@ She wanted to ask more. But he was already changing the subject, praising her ga
 
 *Beatrice did not say anything. She walked back to the hall, her thoughts churning. The farmer was always uneasy. It did not mean anything.*
 
----
-
-### Warning 5: The Nurse Again
-
-Beatrice went back to the river-bend farm, exhausted from her search. The nurse was there, as always.
-
-‘I see you are still looking for a bird,‘ the nurse said.
-
-‘There is none. The purveyors took everything. The abbey took what remained.‘
-
-The nurse handed her a cup of hot posset. ‘And Sir Guy? Has he found anything?‘
-
-Beatrice shook her head. ‘He said he searched everywhere. There was nothing.‘
-
-The nurse was silent for a long moment. Then she spoke, her voice flat.
-
-‘I have seen men like him before, child. They take what they want and they leave the bones.‘
-
-Beatrice set down the cup. Her hands were trembling.
-
-‘I am not a fool,‘ she said.
-
-‘I did not say you were.‘ The nurse’s voice was soft. ‘I said I have seen men like him before. And I have seen women like you too — young, capable, alone. The men like him seek them out. They know a good thing when they see it.‘
-
-Beatrice stood up. ‘I do not want to hear this.‘
-
-‘I know you do not.‘
-
-*Beatrice walked out without looking back. She was not a fool. She was not.*
 
 ---
 
@@ -7287,12 +7303,16 @@ When she looks at him and sees his pale, trapped face, she recognises something:
 | 1112 | A very good, fruitful year in both wood and field, but many people died of disease. | Henry I |
 | 1112 | Siege of Gisors (French border). Fixed garrison defence funded by English cash scutages and continental taxes. Knights could be excused by paying scutage. | Henry I |
 | Mar 1113 | Treaty of Gisors; Matilda FitzRoy betrothed to Conan. | Henry I |
-| Jan 1114 | Empress Matilda marries Emperor Henry V in Worms (7 Jan). | Henry I |
-| May 1114 | A huge comet appears at the end of May. | Henry I |
-| June 1114 | Massive campaign into Wales (First Welsh Campaign). Grand royal demonstration of power; knights ordered to march in person to intimidate the Welsh. Mandatory service – all knights attend; scutage forbidden. | Henry I |
-| Early Aug 1114 | Welsh campaign concludes with the submission of local princes. | Henry I |
-| Mid-Aug 1114 | Royal Court at Rockingham Castle - The Goose Vow. | Henry I |
-| Late Aug 1114 | Court moves to Westminster; Henry crosses to Normandy. | Henry I |
+| **Jan 1114** | Empress Matilda marries Emperor Henry V in Worms (7 Jan). | Henry I |
+| **May 1114** | A huge comet appears at the end of May. | Henry I |
+| **June 1114** | Massive campaign into Wales (First Welsh Campaign). Grand royal demonstration of power; knights ordered to march in person to intimidate the Welsh. Mandatory service – all knights attend; scutage forbidden. | Henry I |
+| **Early Aug 1114** | Welsh campaign concludes with the submission of local princes. Henry marches his army east out of Shrewsbury, passing through **Tamworth** where he gives **verbal assent** to Robert Marmion’s confirmations. The royal scribes take notes but do not draft the final charter – the summer paperwork backlog is immense. | Henry I |
+| **Mid-Aug 1114** | Royal Court at **Rockingham Castle** – The Goose Vow. Henry stays for a full week. Meanwhile, the heavy Curia Regis (baggage train, chancery scribes, and regional lords like Robert de Beaumont and Ranulf le Meschin) **remains in the Midlands** to clear the administrative backlog; they do not travel south with the King. | Henry I |
+| **Late Aug 1114** | Court moves to **Westminster**; Henry stays for a week to establish Queen Matilda’s regency. He then **splits from the main court** with only a light cavalry escort, riding south toward Westbourne. The stationary chancery and most witnesses stay behind in Staffordshire – they will not reach the coast until much later. | Henry I |
+| **13 Sept 1114** | **Chancery action at Tamworth** – the formal land confirmations for Robert Marmion are finally executed, sealed, and **dated “at Tamworth”**. Signed by Robert de Beaumont, Ranulf le Meschin, Roger de Clinton, William Warelwast, and Geoffrey Ridel. **Crucially, Henry is not physically present** – he is already days south of the Midlands. The parchment is post‑dated to the *council’s location*, not the King’s, to reflect where the final administrative decision was made. | Henry I |
+| **15–17 Sept 1114** | Henry arrives at the royal estate at **Westbourne** (Sussex) and signs several pre‑departure naval acts. **Only William Warelwast and Geoffrey Ridel** appear on *both* the 13 Sept (Tamworth) and 15 Sept (Westbourne) charters – they are the King’s personal legal couriers who either galloped 150 miles in two days to join him at Westbourne (unlikely) or signed much earlier at Tamworth. The other witnesses (Beaumont, Chester, Clinton) are conspicuously absent from the Westbourne documents, confirming they did not make that southern journey. | Henry I |
+| **17–21 Sept 1114** | At **Portsmouth / The Solent** (Hampshire): Henry spends his final English days at the docks, waiting for favourable winds and supervising fleet boarding. | Henry I |
+| **21 Sept 1114** | The Crossing: Henry officially sets sail across the English Channel. Queen Matilda (his wife) takes over as Regent of England, a role she holds for ten months while the King campaigns against Louis VI of France. | Henry I |
 | 1117 | Severe storms and "fiery lights" (likely Aurora Borealis) seen in the northern sky. | Henry I |
 | May 1118 | Queen Matilda dies at Westminster (1 May). | Henry I |
 | Nov 1120 | White Ship Disaster (25 Nov); Heir William Adelin drowns. | Henry I |
