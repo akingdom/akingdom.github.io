@@ -297,7 +297,7 @@ I'm open to freelance, consulting, and collaboration opportunities – remote or
 
 ## Footnotes
 
-<sub>*Conduct*: This project is governed by [The Kingdom Code](CODE_OF_CONDUCT) — our community Code of Conduct for truth, accountability, and restoration.</sub>
+- <sub>*Conduct*: This project is governed by [The Kingdom Code](CODE_OF_CONDUCT) — our community Code of Conduct for truth, accountability, and restoration.</sub>
 - <sub>*Feedback*: Issues, discussion and initial contact requests can be raised via [*GitHub Issues*](https://github.com/akingdom/akingdom.github.io/issues).</sub>
 - <sub>*Licensing*: This website repository contains content under different licenses. See [`LICENSE.txt`](./LICENSE.txt) for details.</sub>
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20"> My GitHub user icon: Quantum Computing with an artistic twist.</sub>
