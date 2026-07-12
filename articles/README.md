@@ -87,7 +87,7 @@ done
 
 | Filename | Year | Summary |
 | :--- | :---: | :--- |
-| **[The Kingdom Code](/CODE_OF_CONDUCT)** | 2026 | Our community Code of Conduct for truth, accountability, and restoration. |
+| **[The Kingdom Code](/CODE_OF_CONDUCT.html)** | 2026 | Our community Code of Conduct for truth, accountability, and restoration. |
 | **[AI Governance Policy Accountability First](AI_Governance_Policy_Accountability_First)** | 2026 | Proposes an accountability‑first framework for AI governance and policy‑making. |
 | **[Architecture of Authority – First Principles Analysis of Governance](Architecture_of_Authority-First‑Principles_Analysis_of_Governance)** | 2026 | A first‑principles analysis of governance structures and the architecture of authority. |
 | **[Aspirational Leadership](aspirational_leadership)** | 2025 | Discusses aspirational leadership styles and their impact. |
