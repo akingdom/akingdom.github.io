@@ -57,7 +57,7 @@ AUTHOR:      Andrew Kingdom
 </script>
 <!-- QR Code end -->
 
-## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/ak_2024_747_sm_rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me]
+## <img alt="Illustration of Andrew" src="https://akingdom.github.io/images/ak_2024_747_sm_rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io) · [Contact Me](SECURITY)
 
 <!-- Search Box -->
 <style>
