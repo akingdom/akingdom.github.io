@@ -204,6 +204,7 @@ These are hard lines. Do not cross them.
 - For serious matters, we will seek multiple sources and weigh the evidence carefully.
 - The person accused will be told the allegations and given a fair chance to respond, provide evidence, and call witnesses.
 - We will not take action based on an accusation alone. We need real evidence.
+- Specific processes (including who investigates, timelines, and appeal panel selection) are to be be documented separately and made available to all members.
 
 ### 5.3 Protection for good-faith reporters
 
@@ -293,9 +294,11 @@ This Code is not a random list. It is built on principles that have been tested 
 
 ### 8.5 Goodwill is the atmosphere we cultivate
 
-- We define goodwill practically: assume positive intent until proven otherwise; defend others when they are not present; offer help before it is demanded; give feedback that builds up rather than tears down.
+- We define goodwill practically: assume positive intent until proven otherwise as a starting posture. 
+- This is not a demand that you tolerate repeated harm; once evidence contradicts good faith, the posture changes. Goodwill also means defending others when they are not present, offering help before it is demanded, and giving feedback that builds up rather than tears down.
 - This is not a vague ideal. It is a set of specific behaviours listed in Sections 3.7 and 3.8, and we expect it from everyone.
 - A community without goodwill is a machine. A community with goodwill is a place where people can truly flourish.
+
 
 ### 8.6 We respect cultures without abandoning standards
 
