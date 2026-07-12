@@ -1,9 +1,8 @@
-----------
-title: Kingdom's Code of Conduct — A Code of Conduct for Honest, Responsible, and Restorative Community
-----------
 # Kingdom's Code of Conduct
 
 *A Code of Conduct for Honest, Responsible, and Restorative Community*
+
+*(Kingdom is the author's surname)*
 
 **By Andrew Kingdom | Version 1.0 | 2026-07-12 | Public Draft**
 
