@@ -1,14 +1,15 @@
-# Kingdom Code of Conduct
+----------
+title: Kingdom's Code of Conduct — A Code of Conduct for Honest, Responsible, and Restorative Community
+----------
+# Kingdom's Code of Conduct
 
-*A Code of Conduct for Truth, Accountability, and Restoration*
+*A Code of Conduct for Honest, Responsible, and Restorative Community*
 
 **By Andrew Kingdom | Version 1.0 | 2026-07-12 | Public Draft**
 
----
+**Document ID:** KCoC-1.0-2026
 
-## License
-
-This document is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+**License:** This document is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 
 **Intent:** This Code is offered freely for use, inspiration, and adaptation in principle. However, I do not permit alterations to this specific document or its text while representing it as my work. If you wish to modify it, please write your own Code of Conduct from scratch, crediting this work as a source. If you believe there is a significant problem with this Code, please contact me directly rather than creating a derivative version.
 
@@ -361,3 +362,17 @@ This appendix is **not** part of the operative Code. It exists to provide confid
 ## Version History
 
 - **v1.0 (2026-07-12)** – Initial release. Grounded in objective truth, evidentiary standards, universal dignity, restorative justice, and the distinction between inherent dignity and earned standing.
+
+---
+
+## Title Clarification
+
+Kingdom in the title is the author's surname; the title might as easily have been Smith's Code of Conduct. I wanted to differentiate if from other Code of Conducts, since this is a distinct and unique work.
+
+## Suggested Citation
+
+When referencing this document, please use the following format:
+
+> Kingdom, A. (2026). *Kingdom's Code of Conduct: A Code of Conduct for Honest, Responsible, and Restorative Community* (KCoC-1.0-2026). Available at: https://akingdom.github.io/CODE_OF_CONDUCT.html
+
+For in-text citations: (Kingdom, 2026, KCoC-1.0-2026)
