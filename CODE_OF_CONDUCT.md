@@ -1,8 +1,8 @@
 # Kingdom Code of Conduct
 
-**By Andrew Kingdom | Version 1.0 | 2026-07-12 | Public Draft**
+*A Code of Conduct for Truth, Accountability, and Restoration*
 
-*Define community standards, expected behavior, and procedures for addressing issues to foster a healthy and constructive environment*
+**By Andrew Kingdom | Version 1.0 | 2026-07-12 | Public Draft**
 
 ---
 
