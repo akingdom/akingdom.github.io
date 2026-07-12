@@ -287,7 +287,7 @@ Technology should work for people, not the other way around. I approach every pr
 
 I'm open to freelance, consulting, and collaboration opportunities – remote or on‑site (Victoria, Australia). Here's how we create value together:
 
-1. **You send a clear description** of your challenge (via [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) – public, or we can take it private from there).
+1. **You send a clear description** of your challenge (via [GitHub Issues](https://github.com/akingdom/akingdom.github.io/issues) – public, or we can [take it private](SECURITY) from there).
 2. **I reply** and we have a no‑pressure chat.
 3. **We agree on scope** – a small paid call, a project, or just a one‑off answer.
 
@@ -308,4 +308,4 @@ I'm open to freelance, consulting, and collaboration opportunities – remote or
 <script src="js/random_quote.js"></script>
 <script src="js/3rd_party/lunr.js"></script>
 <script src="js/search.js"></script>
-<script src="js/tawk_to.js"></script>
+<!--script src="js/tawk_to.js"></script-->
