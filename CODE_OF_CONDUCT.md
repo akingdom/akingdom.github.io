@@ -4,9 +4,17 @@
 
 *(Kingdom is the author's surname)*
 
-**By Andrew Kingdom | Version 1.0 | 2026-07-12 | Public Draft**
+**By Andrew Kingdom** | Version 1.0 | 2026-07-12 | Public Draft
 
 **Document ID:** KCoC-1.0-2026
+
+---
+
+> **A Note on the Limits of This Code**
+>
+> This document governs *observable behavior* to maintain order and fairness. It is a practical tool, not a final judgment on a person's character, worth, or inner state. Human evidence is fallible, and procedures cannot resolve the deeper matters of conscience or personal integrity. We hold this Code lightly; it serves us, but it does not define us.
+
+---
 
 **License:** This document is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 
