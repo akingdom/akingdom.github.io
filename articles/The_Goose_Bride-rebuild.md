@@ -8010,3 +8010,87 @@ In general the author has taken some liberties with modern English grammar to gi
 > But a Norman court is no place for a Saxon girl with a goose. And the king’s vow is only the beginning.
 
 ***
+
+
+# TODO
+-------
+
+## THE GOOSE BRIDE — REVISION TO-DO LIST
+
+### 1. Character & Arc Development
+
+- **[IN PROGRESS] Sir Guy de Montfort – Show the Grievance**
+    - *Status*: You have a "full revision ... planned out completely, and in-progress."
+    - *Nuanced Dimension Added*: Ensure his grievance (his father's unrewarded death) is woven into the action, not just exposition. A single scene showing his perspective—even a brief memory or a moment of hesitation before he commits the crime—would add moral complexity and prevent him from being purely cartoonish. The moment in the hearing where he says, *"My father died for this soil"* is good; build the emotional weight behind that statement.
+
+- **[IN PROGRESS] Beatrice's Trauma – Sustain the Subjective Experience**
+    - *Status*: You noted "Beatrice trauma, yes."
+    - *Nuanced Dimension Added*: The current draft covers the immediate aftermath (the first night of shadows). Extend this. Show the trauma recurring in later, *ordinary* moments (e.g., a sudden noise in the Westminster corridors, a servant's rough grip on her arm, the smell of damp straw in the stables). It shouldn't just be the night after; it should echo through Part Seven & Eight.
+
+- **[TO DO] The Flemish Characters – Explicit Consequence**
+    - *Status*: You explained your intent (Beatrice makes mistakes with people she doesn't see).
+    - *Nuanced Dimension Added*: **Do not keep this vague.** Explicitly connect Beatrice's curt dismissal of Sabina (the linen-maid) to Sabina's later silence during Sir Guy's plot. When Sir Guy is plotting in the stables and Sabina overhears him but does nothing, let the reader know *why* she stays silent: she remembers Beatrice's sharp tone on her first day. Later, have Beatrice seek Sabina out to apologise properly, closing that loop. This turns a minor incident into a powerful moral lesson about the cost of small cruelties.
+
+- **[IN PROGRESS] Goosie – Barometer, Not Plot-Device**
+    - *Status*: You noted "Goosie, yes, agree."
+    - *Nuanced Dimension Added*: She is best when she is a **barometer of character** (settling against Godfrey's leg before Beatrice trusts him) and **emotional anchor** (warm weight on the bed). She is weakest when used as a get-out-of-jail-free card (the "ghost" chaos in the solar is fun, but it's pure plot). In the revision, ensure every Goosie scene serves the character dynamics first, and the plot second.
+
+- **[TO DO] Romance – One Moment of Physical Tenderness (Optional)**
+    - *Status*: You explained your intentional restraint (historical realism, arranged marriage exploration).
+    - *Nuanced Dimension Added*: I do not suggest adding grand passion or anachronistic kissing. However, consider adding **one single moment of physical vulnerability**—such as Godfrey tucking a loose strand of hair behind Beatrice's ear, or resting his forehead against hers for just a moment during the "dark night before the cup" conversation. This gives a modern emotional anchor without violating historical authenticity.
+
+### 2. Plot & Structure
+
+- **[HIGH PRIORITY] Court Sections (Parts 6–9) – Apply Sensory Detail**
+    - *Status*: You are focusing revision on Parts 1–5; Parts 6–9 are lighter.
+    - *To Do*: Apply the same level of rich sensory detail to the Westminster sections as exists in Stanwey. What does the Queen's solar *smell* like? What is the *texture* of the grey wool gown against Beatrice's skin? What does she *hear* when she cannot sleep in her new chamber (distant river, servant's footsteps, rats in the walls)? Sensory grounding will make the court feel as real as the hall.
+
+- **[IN PROGRESS] Pacing in the Middle Section – Tighten**
+    - *Status*: You noted "massively revised for pacing, etc."
+    - *Nuanced Dimension Added*: The repeated social humiliation scenes (wine stain, goose in solar, half-sister whispers) are individually well-observed but collectively repetitive. In revision, focus on the **most consequential** incidents and cut the rest, or merge them. Every court scene should advance either the plot, the character's inner growth, or the thematic exploration of power.
+
+- **[TO DO] The White Ship – Show Beatrice's Grief**
+    - *Status*: You explained the thematic choice (happy life as response to tragedy).
+    - *Nuanced Dimension Added*: I agree with your choice, but *show* the grief. The epilogue currently mentions it briefly. Consider: a quiet letter from Beatrice to Godfrey after the news, or a memory scene where she stands in the herb garden remembering William Adelin stealing honey. This honours the historical tragedy and deepens Beatrice's resilience arc (doing the next thing in the face of loss).
+
+### 3. Craft & Prose
+
+- **[IN PROGRESS] Overwriting – Deflating**
+    - *Status*: You noted "overwriting, agree - in process of deflating such."
+    - *Nuanced Dimension Added*: Target two specific patterns:
+        1.  **Repeated metaphors**: The "stone in the shoe" metaphor is used twice; choose the best placement and cut the other.
+        2.  **Explaining the obvious**: Avoid sentences like *"The wine had stained her gown like a wound. She was ashamed."* The image does the work; the explanation undermines it. Trust the reader.
+
+### 4. Pedagogical & Appendix Features (Editions Management)
+
+- **[TO DO] Teacher Guide – Kidnapping Scene Note**
+    - *Status*: New suggestion.
+    - *To Do*: Add a brief note in the Teacher/Parent Guide regarding the kidnapping scene (Chapter 35) for younger readers. It is intense but not graphic. Guidance such as *"This scene contains a kidnapping and implied threat; read with sensitivity"* would be appropriate for educators.
+
+- **[TO DO] Student Questions – Add Cup Ritual Question**
+    - *Status*: New suggestion.
+    - *To Do*: Add a student question for Chapter 44: *"Why does Beatrice take the cup before Godfrey can offer it? What does this action say about her character and her agency in the marriage?"* This reinforces the novel's central theme of consent.
+
+- **[TO DO] Editions Differentiation – Shorten "Essential Terms"**
+    - *Status*: You noted two versions (plain story vs. extended notes/smart live glossary).
+    - *To Do*: For the **plain story edition**, shorten the historical appendices into a concise "Essential Terms" list (max 20 core words). For the **extended notes edition** (or digital/smart edition), keep the full, rich glossary and timeline as you have drafted. This honours both audiences—those who want immersion and those who want the deep dive.
+
+### 5. Thematic/Contextual Reinforcement
+
+- **[TO DO] Henry I – Lean into the "Modern Couple" Dynamic**
+    - *Status*: You explained Henry was coincidental but fits perfectly.
+    - *Nuanced Dimension Added*: Since you've noted that Henry and Matilda are a "fairly modern couple", consider subtly reinforcing their partnership in the background scenes. Brief glances, a hand on a shoulder, shared jokes about the court—showing their good marriage as a model for Beatrice and Godfrey's future.
+
+---
+
+### Summary of Priority Status
+
+| Status | Items |
+| :--- | :--- |
+| **Already In Progress (Add My Nuance)** | Sir Guy (grievance), Beatrice (trauma), Goosie (barometer), Overwriting (target patterns), Pacing (court sections) |
+| **New / Unaddressed (High Priority)** | Flemish characters (explicit consequence), Court sections (sensory detail), White Ship (grief scene) |
+| **New / Unaddressed (Medium Priority)** | Romance (one moment of tenderness), Teacher Guide (kidnapping note), Student Questions (cup ritual) |
+| **Editions Management** | Essential Terms list (short vs. extended) |
+
+---
+
