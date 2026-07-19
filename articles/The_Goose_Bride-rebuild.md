@@ -1142,89 +1142,123 @@ Why This Matters: Beatrice's grief is what makes her vulnerable to Sir Guy. He o
 
 ### The Fifth Week
 
-It was almost dusk on Monday when a child came running through the gate posts to the hall, bare feet slapping the hard earth. ‘Horsemen, my lady! Many horsemen on the Roman road! Many are heading for the castle, but some are turning this way!’
+It was almost dusk on Monday when a child came running through the gate posts to the hall, bare feet slapping the hard earth. 'Horsemen, my lady! Many horsemen on the Roman road! Many are heading for the castle, but some are turning this way!'
 
 Beatrice set down the herb bundles she had been tying and wiped her hands on her apron. Her heart was beating too fast. She had been waiting for this, for something to break the long silence at last. Surely they had news of her father. Why else would they come.
 
-‘How many men?’ she asked.
+'How many men?' she asked.
 
-‘Five and one, my lady. All in the King’s colours. They blew a horn three times.’ He was proud of knowing his numbers.
+'Five and one, my lady. All in the King's colours. They blew a horn three times.' He was proud of knowing his numbers.
 
 Beatrice walked to the gate and watched them come.
 
 Six. A royal party. A messenger, his escort, a knight, and other riders.
 
-She had not been to the gate in days. She had stopped hoping. And now this — riders in the King’s livery, a messenger, a knight, a chance of news.
+She had not been to the gate in days. She had stopped hoping. And now this — riders in the King's livery, a messenger, a knight, a chance of news.
 
-She felt a flush of shame — not for waiting, but for having stopped. She had made herself small, wrapped herself in the dull grey of giving up. And now the King’s riders were here, and she was not ready. She had not expected this at all.
+She felt a flush of shame — not for waiting, but for having stopped. She had made herself small, wrapped herself in the dull grey of giving up. And now the King's riders were here, and she was not ready. She had not expected this at all.
 
 However, the Lady of Stanwey would not show fear. She straightened her shoulders and stood tall, though she trembled inwardly.
 
+### The King's riders
+
+The riders came up the lane at a steady trot, six riders in the King's livery. At their head rode a young knight in a fine grey cloak, handsome and confident, his horse a handsome chestnut colour. Everything about him spoke of his expectation to be greeted with deference. Behind him rode five men-at-arms and grooms.
+
+Beatrice stood in the yard. She did not curtsy. She did not smile. She was the Lady of Stanwey, and her father was gone, and she would not show weakness.
+
+The lead rider reined in before her. He did not dismount.
+
+'This is Stanwey?' he asked.
+
+'It is.'
+
+He unrolled a parchment, his voice formal, carrying across the yard.
+
+'By command of Henry, King of the English, the holder of this holding shall render for the King's table: two feathered arrows and a fowl, to be delivered within the week. This is the King's will.'
+
+Beatrice met his eyes. She did not ask about the fowl. She did not protest. She simply acknowledged the demand.
+
+'I understand. We will provide as the King requires.'
+
+He studied her a moment. 'You are the lady of this holding?'
+
+'I am Beatrice of Stanwey. My father is Harold Red-Wolf. He is away with the King's host in Wales.'
+
+'I see.'
+
+He looked to assess her. A young woman alone, running an estate. 
+
+Beatrice glanced at the soldiers, their dusty clothes, their tired horses. They had ridden far.
+
+'You will be thirsty after your journey,' she said. 'I will bring you something to drink.'
+
+She turned and walked towards the hall.
+
 ---
 
-### The King’s riders
+### It is curious
 
-The riders came up the lane at a steady trot, six riders in the King’s livery. The lead rider was a messenger carrying a parchment sealed with royal wax. Behind him rode a knight in a fine grey cloak, his horse a handsome chestnut colour. Two men-at-arms flanked them, and two grooms brought up the rear, leading pack mules loaded with supplies. None of them had her father’s broad build or familiar seat in the saddle.
+She returned with a pitcher and cups. She poured for the soldiers first with practiced efficiency and they drank gratefully. Then she turned to the knight. For a moment they stood there. Her hand on the cup. His reaching for it. The silence stretched.
 
-The lead rider reined in and unrolled the parchment. His voice was loud, formal, carrying across the yard.
+'You are holding my drink hostage?' he said, amused.
 
-’By command of Henry, King of the English, the holder of this holding shall render for the King’s table: two feathered arrows and a fowl, to be delivered within the week. The King hunts in Rockingham Forest and expects his table to be well supplied. This is the King’s will.’
+Beatrice started. 'Oh, I beg your pardon.'
 
-Beatrice’s stomach turned. Her hand went to Goosie before she had even thought, gathering the warm white feathers against her chest. She would have to pay a neighbour for a bird, since Stanwey Hall had none suitable.
+She frowned, not at him, but at herself. She had not meant to do that. She released the cup slightly, then held it again.
 
-‘I understand,‘ said the young Lady of Stanwey, her voice holding steady. ‘The holding shall supply my Lord the King as you say.’
+'It is curious though,' she said. 'I thought the King's business was with the Welsh, not with the hunt.'
 
-Beatrice watched the messenger direct his horse around. *The King hunts in Rockingham.*
+He laughed, a short, wry sound. 
 
-‘Sir,’ she called. ’Since the King comes here, does that mean that our men are also returning? Is the royal host standing down or remaining?’
+'You are indeed right. The King has not yet arrived in person, but as the war is ended, he doubtless desires a respite with his queen.'
 
-The messenger nodded, ‘The Welsh sued for peace and the war is ended.’
+Beatrice blinked. 'The war is ended?'
 
-He turned to ride on, but Beatrice called out again. ‘Any tidings of my father, Harold, called Red-Wolf. Have you word of him? Is he well?’
+The words tumbled out of her mouth unintended, cup gripped tightly in her hand. She looked down at it, then back up at him.
 
-The messenger paused, frowning. ‘I do not know, my lady, since we were over ten thousand in number. However, I expect that men from the Midlands will not be far behind our Lord the King.’
+'I suppose he will be home soon,' she murmured, half to herself.
 
-Her facial expression fell as she let the men go.
+Then she looked up, meeting his eyes directly.
 
----
+'Sir, have you any word of my father? He went with the levies to Wales. I have not heard word of him.'
 
-### Tidings of my father
+He was not surprised by the question, one he had heard often. But her quiet challenge... that was different. She was not pleading. She was not desperate. She was simply waiting.
 
-Beatrice blinked away tears of disappointment. She had waited so long.
+He decided to play with her a little.
 
-‘I may have word of your father.’ 
+'I heard a rumour that he took a blow at the ford.'
 
-The voice came from behind her. She turned to see a knight dismounting. He was young and handsome, his clothes travel-stained, and his smile warm.
+He watched her face, waiting for the flinch, the fear, the plea.
 
-‘I believe I saw him at the muster,’ he said. ‘I heard he took a blow at the ford, nothing serious.’
+'Nothing serious. The man was walking about after.'
 
-Beatrice gasped and felt as though a blow had struck her too. ‘He was wounded?’
+Beatrice's face flooded with relief, while biting her lip. She released the cup without a word.
 
-‘Merely a blow, or so I heard.’ The knight’s smile tightened slightly. ‘The man was walking about when I saw him.’
+He took it and as he drank, he watched her.
 
-Her relief was so sudden that it left her knees dangerously weak. For many weeks, she had imagined the worst, waking from terrifying dreams of his death. Now, the sheer reality of his survival pierced her, sharp and dizzying.
+'‘I must confess that I find it rather charming,‘ he said. ’ A woman who works and does not expect to be kept.'
 
-She reached out instinctively to steady herself, her hand nearly catching the sleeve of his fine grey cloak before she stopped herself.
+He tilted his head, as if admiring a curiosity.
 
-‘And you are —’
+'That said, it must be tiresome, I imagine, managing, providing, tending all this. Most women of the royal court are not so burdened, but comfortable. It is a different life altogether, one of leisure, of appreciation.'
 
-‘Sir Guy de Montfort.’ He bowed, low and smooth. ‘At your service, my lady.’
+He said it lightly, as if he were being kind, as if he were sympathising with her, offering her a glimpse of a better world. His smile was warm. His voice was gentle.
 
-‘I am Beatrice. Daughter of Harold Red-Wolf.’ Tears pricked the backs of her eyes, completely melting her hard-won composure. ‘And I thank you—God bless you for it, sir. You have no true idea what this news means to me. I felt entirely in the dark.’
+A sudden flush crept up Beatrice's neck, and she studied her feet while waiting patiently for him to finish.
 
-Sir Guy’s smile broadened, his eyes locking onto her flushed face. ‘I am delighted to hear it. I think your father‘s face lights up when he speaks of you. He is surely proud of his clever daughter. And he worries. That is why I delayed.’
+He noticed. His smile faltered. He leaned down slightly from his saddle, his tone softening. 'What is it?'
 
-She felt her cheeks flush. He had waited for her. For a moment she was unsure what to say. ‘That is very kind. But I should not keep you,’ she said, suddenly noticing the messenger and his escort turning onto the Roman road at the end of the lane. ‘You all ride to Rockingham, I assume?’
+Beatrice seemed distressed, but spoke calmly, as though explaining something to a child. She forced her chin up, her gaze cutting through his easy confidence with a sudden, rigid stillness.
 
-‘We do. But I will pass by again on my return.’ He mounted his horse, but paused, looking down at her. ‘Sooner if I have more news.’
+'I am not those women, I am the Lady of Stanwey.'
 
-‘That is most kind.’
+She said it as if it were the simplest truth in the world.
 
-‘It is my honour.’ His eyes lingered on her for a moment too long. Then he turned and rode after the others.
+He blinked as a flicker of confusion crossed his face. 
 
-Beatrice stood at the gate, watching him go. She felt lighter than she had in weeks.
+His knuckles tightened on the leather reigns. He was not used to being dismissed, and yet he could not stop watching as she collected the remaining cups from the soldiers. 
 
-*Goosie waddled to her side and hissed softly at all the retreating soldiers.*
+He sat a little higher in his saddle, his gaze fixed on the door of the hall long after she had stepped through it, lost in thought.
 
 ---
 
@@ -8012,85 +8046,796 @@ In general the author has taken some liberties with modern English grammar to gi
 ***
 
 
-# TODO
--------
-
-## THE GOOSE BRIDE — REVISION TO-DO LIST
-
-### 1. Character & Arc Development
-
-- **[IN PROGRESS] Sir Guy de Montfort – Show the Grievance**
-    - *Status*: You have a "full revision ... planned out completely, and in-progress."
-    - *Nuanced Dimension Added*: Ensure his grievance (his father's unrewarded death) is woven into the action, not just exposition. A single scene showing his perspective—even a brief memory or a moment of hesitation before he commits the crime—would add moral complexity and prevent him from being purely cartoonish. The moment in the hearing where he says, *"My father died for this soil"* is good; build the emotional weight behind that statement.
-
-- **[IN PROGRESS] Beatrice's Trauma – Sustain the Subjective Experience**
-    - *Status*: You noted "Beatrice trauma, yes."
-    - *Nuanced Dimension Added*: The current draft covers the immediate aftermath (the first night of shadows). Extend this. Show the trauma recurring in later, *ordinary* moments (e.g., a sudden noise in the Westminster corridors, a servant's rough grip on her arm, the smell of damp straw in the stables). It shouldn't just be the night after; it should echo through Part Seven & Eight.
-
-- **[TO DO] The Flemish Characters – Explicit Consequence**
-    - *Status*: You explained your intent (Beatrice makes mistakes with people she doesn't see).
-    - *Nuanced Dimension Added*: **Do not keep this vague.** Explicitly connect Beatrice's curt dismissal of Sabina (the linen-maid) to Sabina's later silence during Sir Guy's plot. When Sir Guy is plotting in the stables and Sabina overhears him but does nothing, let the reader know *why* she stays silent: she remembers Beatrice's sharp tone on her first day. Later, have Beatrice seek Sabina out to apologise properly, closing that loop. This turns a minor incident into a powerful moral lesson about the cost of small cruelties.
-
-- **[IN PROGRESS] Goosie – Barometer, Not Plot-Device**
-    - *Status*: You noted "Goosie, yes, agree."
-    - *Nuanced Dimension Added*: She is best when she is a **barometer of character** (settling against Godfrey's leg before Beatrice trusts him) and **emotional anchor** (warm weight on the bed). She is weakest when used as a get-out-of-jail-free card (the "ghost" chaos in the solar is fun, but it's pure plot). In the revision, ensure every Goosie scene serves the character dynamics first, and the plot second.
-
-- **[TO DO] Romance – One Moment of Physical Tenderness (Optional)**
-    - *Status*: You explained your intentional restraint (historical realism, arranged marriage exploration).
-    - *Nuanced Dimension Added*: I do not suggest adding grand passion or anachronistic kissing. However, consider adding **one single moment of physical vulnerability**—such as Godfrey tucking a loose strand of hair behind Beatrice's ear, or resting his forehead against hers for just a moment during the "dark night before the cup" conversation. This gives a modern emotional anchor without violating historical authenticity.
-
-### 2. Plot & Structure
-
-- **[HIGH PRIORITY] Court Sections (Parts 6–9) – Apply Sensory Detail**
-    - *Status*: You are focusing revision on Parts 1–5; Parts 6–9 are lighter.
-    - *To Do*: Apply the same level of rich sensory detail to the Westminster sections as exists in Stanwey. What does the Queen's solar *smell* like? What is the *texture* of the grey wool gown against Beatrice's skin? What does she *hear* when she cannot sleep in her new chamber (distant river, servant's footsteps, rats in the walls)? Sensory grounding will make the court feel as real as the hall.
-
-- **[IN PROGRESS] Pacing in the Middle Section – Tighten**
-    - *Status*: You noted "massively revised for pacing, etc."
-    - *Nuanced Dimension Added*: The repeated social humiliation scenes (wine stain, goose in solar, half-sister whispers) are individually well-observed but collectively repetitive. In revision, focus on the **most consequential** incidents and cut the rest, or merge them. Every court scene should advance either the plot, the character's inner growth, or the thematic exploration of power.
-
-- **[TO DO] The White Ship – Show Beatrice's Grief**
-    - *Status*: You explained the thematic choice (happy life as response to tragedy).
-    - *Nuanced Dimension Added*: I agree with your choice, but *show* the grief. The epilogue currently mentions it briefly. Consider: a quiet letter from Beatrice to Godfrey after the news, or a memory scene where she stands in the herb garden remembering William Adelin stealing honey. This honours the historical tragedy and deepens Beatrice's resilience arc (doing the next thing in the face of loss).
-
-### 3. Craft & Prose
-
-- **[IN PROGRESS] Overwriting – Deflating**
-    - *Status*: You noted "overwriting, agree - in process of deflating such."
-    - *Nuanced Dimension Added*: Target two specific patterns:
-        1.  **Repeated metaphors**: The "stone in the shoe" metaphor is used twice; choose the best placement and cut the other.
-        2.  **Explaining the obvious**: Avoid sentences like *"The wine had stained her gown like a wound. She was ashamed."* The image does the work; the explanation undermines it. Trust the reader.
-
-### 4. Pedagogical & Appendix Features (Editions Management)
-
-- **[TO DO] Teacher Guide – Kidnapping Scene Note**
-    - *Status*: New suggestion.
-    - *To Do*: Add a brief note in the Teacher/Parent Guide regarding the kidnapping scene (Chapter 35) for younger readers. It is intense but not graphic. Guidance such as *"This scene contains a kidnapping and implied threat; read with sensitivity"* would be appropriate for educators.
-
-- **[TO DO] Student Questions – Add Cup Ritual Question**
-    - *Status*: New suggestion.
-    - *To Do*: Add a student question for Chapter 44: *"Why does Beatrice take the cup before Godfrey can offer it? What does this action say about her character and her agency in the marriage?"* This reinforces the novel's central theme of consent.
-
-- **[TO DO] Editions Differentiation – Shorten "Essential Terms"**
-    - *Status*: You noted two versions (plain story vs. extended notes/smart live glossary).
-    - *To Do*: For the **plain story edition**, shorten the historical appendices into a concise "Essential Terms" list (max 20 core words). For the **extended notes edition** (or digital/smart edition), keep the full, rich glossary and timeline as you have drafted. This honours both audiences—those who want immersion and those who want the deep dive.
-
-### 5. Thematic/Contextual Reinforcement
-
-- **[TO DO] Henry I – Lean into the "Modern Couple" Dynamic**
-    - *Status*: You explained Henry was coincidental but fits perfectly.
-    - *Nuanced Dimension Added*: Since you've noted that Henry and Matilda are a "fairly modern couple", consider subtly reinforcing their partnership in the background scenes. Brief glances, a hand on a shoulder, shared jokes about the court—showing their good marriage as a model for Beatrice and Godfrey's future.
+You are right. Let me **reconstruct the complete TODO list with full context**—including the prepared text for insertion and the reasoning behind each item. This is the working document.
 
 ---
 
-### Summary of Priority Status
+# THE GOOSE BRIDE — COMPLETE REVISION TODO LIST (FULL CONTEXT)
 
-| Status | Items |
-| :--- | :--- |
-| **Already In Progress (Add My Nuance)** | Sir Guy (grievance), Beatrice (trauma), Goosie (barometer), Overwriting (target patterns), Pacing (court sections) |
-| **New / Unaddressed (High Priority)** | Flemish characters (explicit consequence), Court sections (sensory detail), White Ship (grief scene) |
-| **New / Unaddressed (Medium Priority)** | Romance (one moment of tenderness), Teacher Guide (kidnapping note), Student Questions (cup ritual) |
-| **Editions Management** | Essential Terms list (short vs. extended) |
+---
+
+## OVERVIEW: WHAT HAS CHANGED
+
+### Sir Guy's New Direction
+
+| Element | Old Model | New Model |
+|:---|:---|:---|
+| **His Drive** | Historical grievance — he believes he is owed | Opportunity — he wants what he can take |
+| **His Root** | His father died unrewarded — he is fighting for his family | He refuses to be like his father — but ironically, he is |
+| **His Self-Image** | Victim of an unjust system | Man who gets what he wants |
+| **His Failure** | Trapped by narrative — cannot let go | Trapped by pride — cannot accept rejection |
+| **Key Irony** | He could have accepted resolution — but chose not to | He could have walked away — but chose not to |
+
+### No Prior Relationship
+
+- Beatrice and Sir Guy **never knew each other** before "The Fifth Week"
+- No childhood memories
+- No Nurse's personal warning
+- No Harold's specific concern
+- They meet as **strangers**
+
+---
+
+## CRITICAL PRIORITY — COMPLETED SCENES (INSERTED)
+
+---
+
+### 1. The Fifth Week (First Meeting)
+
+**Status:** ✅ COMPLETE — Inserted into Chapter 5
+
+**What It Establishes:**
+
+| Element | How |
+|:---|:---|
+| Sir Guy's Charm | He is handsome, confident, and used to being welcomed |
+| His Expectation | He expects deference — Beatrice's lack of curtsy surprises him |
+| His Testing | He lies about the blow at the ford to see her reaction |
+| His "Rescue" Offer | He offers a glimpse of a "better world" — leisure, appreciation |
+| Her Defiance | "I am not those women, I am the Lady of Stanwey" |
+| His Confusion | He does not understand why she does not want what he offers |
+| His Obsession Begins | He cannot stop thinking about her — she is a puzzle |
+
+**Prepared Text:**
+
+> *The riders came up the lane at a steady trot, six riders in the King's livery. At their head rode a young knight in a fine grey cloak, handsome and confident, his horse a handsome chestnut colour. Everything about him spoke of his expectation to be greeted with deference.*
+>
+> *Beatrice stood in the yard. She did not curtsy. She did not smile. She was the Lady of Stanwey, and her father was gone, and she would not show weakness.*
+>
+> *...*
+>
+> *"I must confess that I find it rather charming," he said. "A woman who works and does not expect to be kept."*
+>
+> *He tilted his head, as if admiring a curiosity.*
+>
+> *"That said, it must be tiresome, I imagine, managing, providing, tending all this. Most women of the royal court are not so burdened, but comfortable. It is a different life altogether, one of leisure, of appreciation."*
+>
+> *Beatrice met his eyes. She did not smile. She did not soften.*
+>
+> *"I am not those women," she said. "I am the Lady of Stanwey."*
+>
+> *He blinked. He had not expected to be dismissed. He had not expected to be seen.*
+>
+> *He sat a little higher in his saddle, watching the door of the hall long after she had stepped through it. He told himself he was thinking about the water, the ride, the King's business. But he was not. He was thinking about her.*
+
+**Why This Works:** Establishes Sir Guy as charming opportunist (Henry Crawford model) and Beatrice as someone who cannot be won by charm alone.
+
+---
+
+### 2. Well Scene — Soldiers Talking
+
+**Status:** ✅ COMPLETE — Inserted into journey to Rockingham (Chapter 6)
+
+**What It Establishes:**
+
+| Element | How |
+|:---|:---|
+| Sir Guy's Scheme | He bought every bird in the valley, using the King's name as cover |
+| The Betrayal | He lied to Beatrice — "He told me he could not find a bird" |
+| The Shattering | Beatrice realises she was being trapped |
+| Her Self-Knowledge | "She is not a fool because she was wrong about him. She is a fool because she chose to be wrong." |
+
+**Prepared Text:**
+
+> *She sees a well up ahead. Soldiers are there — three of them, resting. She does not want to stop near soldiers. She keeps walking.*
+>
+> *Behind her, their voices carry.*
+>
+> SOLDIER 2: *"You two need to toughen up."*
+>
+> SOLDIER 3: *"I'm tough enough to round up birds for Sir Guy."*
+>
+> *They laugh. Bitter. Tired.*
+>
+> SOLDIER 1: *"He had us telling the villagers it was for the King."*
+>
+> SOLDIER 2: *"The King doesn't know a thing about it."*
+>
+> SOLDIER 3: *"Doesn't matter. He's got the silver."*
+>
+> SOLDIER 1: *"Every bird in the valley."*
+>
+> SOLDIER 2: *"And he's not done yet."*
+>
+> *She keeps walking. She does not look back.*
+>
+> *She walks for a long time. She does not stop.*
+>
+> *He lied. He used the King's name. He is buying everything.*
+>
+> *She sees it now.*
+
+**Why This Works:** Beatrice overhears the truth incidentally — she is not spying, she is simply passing. The soldiers are just talking. The information is fragmented. Her realisation is earned.
+
+---
+
+### 3. Beatrice's Shattering — The Internal Shift
+
+**Status:** ✅ COMPLETE — Inserted after Well Scene (Chapter 6)
+
+**Prepared Text:**
+
+> *She walks for a long time. She does not stop.*
+>
+> *She cannot hear herself think. Her breath is too loud.*
+>
+> *She stops. She presses her hand against a tree. She does not know if she is going to be sick.*
+>
+> *He lied. He used the King's name. He had soldiers rounding up birds. He told them to say it was for the King.*
+>
+> *He is buying everything. Every bird in the valley.*
+>
+> *She is not a fool because she was wrong about him. She is a fool because she chose to be wrong.*
+>
+> *She sees it now. She sees it all.*
+>
+> *She does not know what she will do. But she knows what she will not do.*
+>
+> *She will not be grateful. She will not beg. She will not let him own her.*
+
+**Why This Works:** Her realisation is not about him — it is about **herself**. She was not deceived; she chose to be deceived. This is the Austenian self-knowledge moment.
+
+---
+
+### 4. Approaching the Castle — Threshold Confrontation
+
+**Status:** ✅ COMPLETE — Inserted at Rockingham entrance (Chapter 6)
+
+**What It Establishes:**
+
+| Element | How |
+|:---|:---|
+| Sir Guy's Confidence | He is still smiling. He does not know she knows. |
+| His "Gift" | He offers a caged goose — "I thought you might need one." |
+| Her Knowledge | "I know what you paid for it. I know you bought every bird in the valley." |
+| Her Rejection | "Your goose has a price I am not willing to pay." |
+| The "Popinjay" Line | "I prefer men who work for their supper. Not some fine popinjay who lives off the sweat of others." |
+| The Trip | He grabs her. She pulls away. She stumbles. Goosie escapes. |
+
+**Prepared Text:**
+
+> *Rockingham Castle looms ahead. Beatrice approaches the entrance. She sees him. He is standing by the doorway. He has a cage beside him — a grey goose inside, head low, feathers ruffled.*
+>
+> *He is smiling. He does not know she knows.*
+>
+> SIR GUY: *"Beatrice. I hoped to meet you. I found a goose for you. For the King's table. I thought you might need one."*
+>
+> *She stops. She looks at him. She looks at the bird in the cage.*
+>
+> BEATRICE: *"I won't be caged."*
+>
+> *He opens his mouth. Closes it. His face shifts — from surprise, to calculation, to something else.*
+>
+> *She ignores him and steps past — towards the door.*
+>
+> *He moves to block her path.*
+>
+> SIR GUY: *"Beatrice. Wait. If you stay — if you let me help you — I can protect you. I can protect Stanwey."*
+>
+> BEATRICE: *"You bought every bird in the valley to force me to come to you. You lied to me. You manipulated me. You tried to trap me. And now you are standing here, telling me you can protect me?"*
+>
+> *She steps closer to him.*
+>
+> BEATRICE: *"From what? From you?"*
+>
+> *She turns away from him — towards the door.*
+>
+> BEATRICE: *"I prefer men who work for their supper. Not some fine popinjay who lives off the sweat of others."*
+>
+> *She reaches for the door.*
+>
+> *He lunges forward — not to strike her, but to grab her arm, to pull her back, to stop her.*
+>
+> *She pulls away. She yanks her arm free. She stumbles backward.*
+>
+> *Her foot catches the edge of the basket. The basket swings. The lid flies open.*
+>
+> *Goosie explodes out.*
+
+**Why This Works:** Sir Guy's contradictions reveal his panic — he is not coherent because his plans are collapsing. Beatrice is done with him — her flatness is the final rejection.
+
+---
+
+### 5. King's Hall Plea
+
+**Status:** ✅ COMPLETE — Existing Chapter 10
+
+**Prepared Text (Existing):**
+
+> *Goosie darted across the hall like a feathered arrow. The bird leapt onto the king's table.*
+>
+> *Henry blinked at the goose, and every face showed what it feared most...*
+>
+> *In that breath, the king laughed heartily: a great, genuine sound that startled even him.*
+>
+> *"Well! At last a lively hunt!"*
+>
+> *He lunged and caught the goose just as it snapped at the clerk's rear end.*
+>
+> *At the sound of Goosie's distressed squawking, Beatrice burst into the middle of the crowded hall, long hair flying and uncovered.*
+>
+> *"Please don't hurt Goosie!"*
+>
+> *The King blinked.*
+>
+> *"Your goose?"*
+
+**Why This Works:** The chaos is not staged — it is the consequence of Beatrice's stumble. She enters the hall already wounded (physically and emotionally). The King's laughter is ambiguous before it becomes comedic.
+
+---
+
+### 6. Cart Scene (Return Journey)
+
+**Status:** ✅ DRAFT COMPLETE — Inserted on return from Rockingham (Chapter 13)
+
+**What It Establishes:**
+
+| Element | How |
+|:---|:---|
+| The Vow | Beatrice overhears the family discussing the King's vow |
+| Her Exhaustion | She is already shattered — too tired to be surprised |
+| The Fragmented Information | The family knows pieces, not the whole story |
+| Her Shaky Laugh | She laughs — but it is wrong, too loud, a sign of shock |
+
+**Prepared Text:**
+
+> *Beatrice has been walking for hours. She is exhausted. Her feet are blistered. The basket is heavy.*
+>
+> *She hears the creak of wheels behind her — a cart approaching. She steps aside to let it pass.*
+>
+> *The cart slows. The carter looks down at her — a weather-beaten man, his wife beside him, two young children in the back.*
+>
+> CARTER: *"Far to go?"*
+>
+> BEATRICE: *"Stanwey."*
+>
+> CARTER: *"We turn off before then. But we'll take you as far as the lane."*
+>
+> *She climbs up. The cart lurches forward.*
+>
+> *The family talks among themselves — low, tired, ordinary.*
+>
+> WIFE: *"...and the King's son?"*
+>
+> CARTER: *"They say he's to marry the next maid through the door."*
+>
+> WIFE: *"That's what they said at the gate. The baker's boy told me."*
+>
+> CARTER: *"Heard it from a clerk."*
+>
+> *Beatrice is not listening. She is watching the road.*
+>
+> *But the words register — slowly, like stones settling in water.*
+>
+> *"...the next maid through the door..."*
+>
+> *She was the next maid through the door.*
+>
+> *She sits very still. She does not speak. She does not move.*
+>
+> *The family continues talking — low, tired, ordinary.*
+>
+> WIFE: *"The girl got to take her bird home. Walked right out of the hall with it under her arm."*
+>
+> CARTER: *"That's what they said."*
+>
+> WIFE: *"Imagine that — a girl keeping her bird."*
+>
+> *Beatrice hears herself laugh. It is too loud — shaky, wrong.*
+>
+> BEATRICE: *"A girl keeping her bird. Imagine such a thing."*
+>
+> *The wife looks at her — a sharp, appraising glance. But she says nothing.*
+>
+> *Beatrice is silent for the rest of the journey.*
+
+**Why This Works:** The family is not delivering a lesson — they are just talking. Beatrice overhears incidentally. Her laugh is not comedic; it is a sign of shock.
+
+---
+
+## CRITICAL PRIORITY — REMAINING (TO DO)
+
+---
+
+### 7. Sir Guy's Courtship Attempts
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| His Persistence | He returns to Stanwey, offering help, advice, attention |
+| His "Help" | He offers to find a bird — but he is secretly buying them all |
+| His Charm | He is warm, attentive, and persuasive — he knows how to make women feel seen |
+| Her Resistance | She is polite but not warm. She does not trust him. She does not want his help. |
+| His Growing Frustration | She does not respond as he expects — she is not grateful, not flattered, not softening |
+| His Miscalculation | He does not understand her. He believes she is playing hard to get — but she is not playing. |
+
+**Where to Insert:** Between "The Fifth Week" (first meeting) and the Well Scene (soldiers).
+
+**Form:** Brief montage of 2-3 scenes — Sir Guy visits, offers help, is politely refused. Each time, he is more confused. Each time, she is more certain.
+
+**Key Dialogue:**
+
+SIR GUY: *"I could help you with the accounts. It must be difficult, managing alone."*
+
+BEATRICE: *"I manage. Thank you."*
+
+SIR GUY: *"I could find you a bird. For the King's table. I have connections."*
+
+BEATRICE: *"I will find one myself."*
+
+SIR GUY: *"You do not need to do everything alone."*
+
+BEATRICE: *"I am not alone. I have my father."*
+
+SIR GUY: *"Your father is old."*
+
+BEATRICE: *"My father is still my father."*
+
+---
+
+### 8. Sir Guy's Bird Purchase — Revealed
+
+**Status:** 🔲 TO DO
+
+**Note:** The Well Scene already reveals this to Beatrice. What is needed is a **brief scene earlier** showing Sir Guy's planning — not his POV, but evidence of his scheme.
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| His Scheme | He buys the birds, using the King's name as cover |
+| His Method | He sends soldiers to round up birds, telling villagers it is for the King |
+| His Intention | He wants Beatrice to fail — so she will come to him desperate and grateful |
+| His Self-Justification | He tells himself he is "helping" her |
+
+**Where to Insert:** After Beatrice refuses his help, before she leaves for Rockingham.
+
+**Form:** Brief scene where Beatrice witnesses something — a soldier with a cage, a villager mentioning the knight who bought all the birds. She does not yet understand. Later, the Well Scene will complete the picture.
+
+**Key Dialogue (Villager to Beatrice):**
+
+VILLAGER: *"I hope you have a bird for the King, my lady. The purveyors took everything. Some knight bought the rest — said it was for the King's table, but I don't believe him."*
+
+BEATRICE: *"What knight?"*
+
+VILLAGER: *"The one who's been hanging around. Sir Guy, they call him. He's buying everything in sight."*
+
+---
+
+### 9. Sir Guy's Grievance — Justification, Not Cause
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| He uses his father's death as justification | He says: "My father died for this soil. He was a fool." |
+| He refuses to be like his father | "I will not make the same mistake." |
+| Irony | He is exactly like his father — trapped by pride, unable to let go |
+
+**Where to Insert:** The courtroom/hearing scene (Chapter 31) — before the kidnapping, when he is trying to block the marriage.
+
+**Form:** Brief moment where Sir Guy's mask slips. He nearly says something vulnerable — then chooses cruelty.
+
+**Key Dialogue:**
+
+SIR GUY: *"My father died for this soil. He fought for honour — and died for nothing. I will not make the same mistake. I will not die for honour. I will take what I am owed."*
+
+He says this to Roger, or to himself, or to a trusted ally. Beatrice does not hear it — the reader does.
+
+---
+
+### 10. Godfrey's Active Moments — From Shadow to Actor
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| The Jephthah Question | Godfrey says: "They did not want me. Why do they need me now?" |
+| His Statement of Intent | He says to Alard: "I am riding to Stanwey. I do not wait for the King's leave." |
+| His Growth | He moves from passive to active — he states his intention, he does not ask permission |
+
+**Where to Insert:**
+
+- **The Jephthah Question:** After Henry's vow, before the King's visit. Godfrey says this to his sister Matilda.
+- **His Statement of Intent:** After Beatrice leaves for Stanwey (Harold's collapse), before the kidnapping.
+
+**Key Dialogue (Godfrey to Matilda):**
+
+MATILDA: *"Father has given you a wife."*
+
+GODFREY: *"He has given me a task."*
+
+MATILDA: *"Is that all you see?"*
+
+GODFREY: *"I see that I was not wanted — until I was needed."*
+
+MATILDA: *"And now?"*
+
+GODFREY: *"Now I will do what I must. Not because he commands it. Because I choose it."*
+
+**Key Dialogue (Godfrey to Alard):**
+
+ALARD: *"My lord, shall I send word to the King?"*
+
+GODFREY: *"I am riding to Stanwey. I do not wait for the King's leave."*
+
+---
+
+### 11. Beatrice's Trauma — Recurring Subjective Experience
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| The trauma echoes | It appears in ordinary moments — a sudden noise, a rough grip, the smell of damp straw, a man's voice too close |
+| It shapes her behaviour | She flinches. She hesitates. She feels the old fear return |
+| It does not go away | It fades, but never fully disappears |
+
+**Where to Insert:** Parts Seven and Eight (court sections, after the kidnapping).
+
+**Form:** Brief moments scattered through the narrative.
+
+**Key Moment 1 (Westminster corridor):**
+
+A servant grabs her arm roughly — not cruelly, just to steady her. She flinches. The servant apologises. Beatrice says it is nothing. But she stands still for a moment, her hand pressed to her chest.
+
+**Key Moment 2 (The smell of damp straw):**
+
+She passes the stables. The smell of damp straw hits her. She stops. She remembers the chapel. She walks on quickly.
+
+**Key Moment 3 (A man's voice too close):**
+
+A courtier speaks too close to her ear. She steps back. He does not notice. She is shaking.
+
+---
+
+### 12. Harold's Observation — General Warning
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| Harold is wary of Sir Guy | He has not met him, but he has heard of him |
+| He warns Beatrice generally | He says: "Be careful of men who smile too easily." |
+| He does not know Sir Guy specifically | His warning is about opportunists in general, not about Sir Guy personally |
+
+**Where to Insert:** After Sir Guy's first visit (The Fifth Week), before Beatrice leaves for Rockingham.
+
+**Key Dialogue:**
+
+HAROLD: *"That knight — the one who rode in with the King's men."*
+
+BEATRICE: *"Sir Guy?"*
+
+HAROLD: *"I do not trust him."*
+
+BEATRICE: *"You do not know him."*
+
+HAROLD: *"I do not need to know him. I have seen men like him before. They smile while they measure what they can take."*
+
+BEATRICE: *"You are afraid of losing me."*
+
+HAROLD: *"I am afraid of you being lost."*
+
+---
+
+### 13. The Nurse's Role — General Warning
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| She warns Beatrice about "men like him" | She has seen his type before |
+| She does not know him personally | Her warning is general, not specific |
+| Her fear is for Beatrice | She is afraid Beatrice will be trapped |
+
+**Where to Insert:** After Sir Guy's first visit (The Fifth Week), before Beatrice leaves for Rockingham.
+
+**Key Dialogue:**
+
+NURSE: *"That knight — the one who's been hanging around."*
+
+BEATRICE: *"Sir Guy?"*
+
+NURSE: *"I have seen men like him before. They smile while they measure your worth. They count your land, your livestock, your father's years."*
+
+BEATRICE: *"You are old and bitter."*
+
+NURSE: *"I am old and I have seen. That is different."*
+
+---
+
+## MEDIUM PRIORITY — STRUCTURAL REFINEMENTS
+
+---
+
+### 14. Replace Cup Ritual with Present-Tense Vows
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| Historical accuracy | Present-tense verbal consent (*verba de praesenti*) — "I take him" / "I take her" |
+| Beatrice's agency | She speaks first — before Godfrey can speak |
+| Legal validity | The marriage is binding in canon law |
+
+**Where to Insert:** Chapter 44 — replacing the cup ritual.
+
+**Form:** Private ceremony in the Queen's solar before witnesses (Matilda, Harold, Lady Margaret).
+
+**Key Dialogue:**
+
+QUEEN MATILDA: *"Beatrice, do you take this man as your husband?"*
+
+BEATRICE: *"I take him."*
+
+QUEEN MATILDA: *"Godfrey, do you take this woman as your wife?"*
+
+GODFREY: *"I take her."*
+
+QUEEN MATILDA: *"Then I declare you husband and wife."*
+
+---
+
+### 15. Harold's Safety Net — Era-Realistic Blessing
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| Harold's love | He blesses her marriage — but he does not offer a modern safety net |
+| Era realism | A woman who left her husband would bring shame on her family |
+
+**Where to Insert:** Chapter 42 — Harold's blessing.
+
+**Revision:**
+
+**Current Line:** *"If he is ever cruel, you may return to Stanwey — I will not turn you away."*
+
+**Revised to:** *"I have done what I can. The rest is between you and God."*
+
+Or simply let Harold's silence and his hand on her head speak for itself.
+
+---
+
+### 16. Beatrice's "Love" Confession — "I Choose You"
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| Era realism | Love grows from choice — "I love you" is too modern, too direct |
+| Psychological honesty | She chooses him before she loves him |
+
+**Where to Insert:** Chapter 43 — The night before the wedding.
+
+**Revision:**
+
+**Current Line:** *"You're the man I love."*
+
+**Revised to:** *"You're the man I choose."*
+
+**Key Dialogue:**
+
+BEATRICE: *"I do not know if I love you. But I know that I choose you. I choose you — and I will keep choosing you."*
+
+GODFREY: *"That is enough. That is more than enough."*
+
+---
+
+### 17. The Flemish Characters — Explicit Consequence
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| Beatrice's curtness | She is curt with Sabina on her first day at court — she does not learn her name |
+| Sabina's silence | Sabina overhears Sir Guy's plot — but stays silent because Beatrice was cruel to her |
+| Beatrice's apology | Later, Beatrice seeks Sabina out to apologise. The loop closes. |
+
+**Where to Insert:**
+
+- **Sabina Scene 1:** Chapter 22 (Beatrice's first day at court) — she is curt with the linen-maid.
+- **Sabina Scene 2:** Chapter 34 (before the kidnapping) — Sabina overhears Sir Guy's plot but stays silent.
+- **Sabina Scene 3:** After the rescue — Beatrice seeks Sabina out to apologise.
+
+**Key Dialogue (Scene 1):**
+
+SABINA: *"My lady, can I help you?"*
+
+BEATRICE: *"I cannot understand you. Just point."*
+
+SABINA: *(Points. Beatrice walks away. Sabina's face falls.)*
+
+**Key Dialogue (Scene 2):**
+
+*Sabina is in the stables. She hears Sir Guy's voice. She freezes. She listens.*
+
+SIR GUY: *"The goose girl. She is alone. Her father is old. She will be easy to take."*
+
+*Sabina remembers Beatrice's sharp tone. She remembers the cold dismissal. She stays silent.*
+
+**Key Dialogue (Scene 3):**
+
+BEATRICE: *"I was cruel to you. I did not learn your name. You had no reason to help me — and you did not."*
+
+SABINA: *"I did not help you."*
+
+BEATRICE: *"I know. That is why I am here. To apologise."*
+
+SABINA: *(Long silence.)* *"I forgive you."*
+
+---
+
+### 18. White Ship — Show Beatrice's Grief
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| The news | Beatrice receives the news of William and Matilda's deaths |
+| Her grief | She speaks to Goosie, to Godfrey — the grief is spoken, not written |
+| Her resilience | She does what she has always done: the next thing |
+
+**Where to Insert:** Epilogue — after the White Ship.
+
+**Key Dialogue (Beatrice to Goosie):**
+
+*Beatrice receives the news. She is alone. She speaks to Goosie: "William stole honey from the kitchen. Matilda laughed at my baking. They are gone."*
+
+**Key Dialogue (Beatrice to Godfrey):**
+
+*She speaks to Godfrey later: "I do not know how to be brave today."*
+
+*He says: "Neither do I. But we will be brave together."*
+
+---
+
+### 19. Jephthah Insights — Godfrey and the Community
+
+**Status:** 🔲 TO DO
+
+**What It Must Establish:**
+
+| Element | How |
+|:---|:---|
+| Godfrey as Jephthah | He is the outcast who becomes leader — he asks the Jephthah Question |
+| The Community as Elders | The court uses people for its own ends — Beatrice and Godfrey are pawns |
+| The Daughter's Inversion | Beatrice asks: "I would know if I have a choice." This is the inversion of Jephthah's daughter's acceptance. |
+| The Legacy | Beatrice is remembered — not as a victim, but as a woman who chose |
+
+**Where to Insert:**
+
+- **The Jephthah Question:** After Henry's vow, before the King's visit — Godfrey to Matilda.
+- **The Community as Elders:** Throughout the court sections — reinforce the instrumental nature of the court.
+- **The Legacy:** Epilogue — a reflection on how Beatrice is remembered.
+
+**Key Dialogue (The Jephthah Question):**
+
+*See #10 above (Godfrey to Matilda).*
+
+**Key Reflection (The Legacy):**
+
+*"The villagers told the story of the goose girl — not as a victim, but as a woman who chose. She was not a fool. She was a woman who made a choice, and she lived with it."*
+
+---
+
+## LOW PRIORITY — EDITIONS & PEDAGOGY
+
+---
+
+### 20. Teacher Guide — Kidnapping Scene Note
+
+**Status:** 🔲 TO DO
+
+**Add parenthetical:** *"No graphic violence is depicted, but the threat is real."*
+
+---
+
+### 21. Student Questions — Vow Question (Not Cup)
+
+**Status:** 🔲 TO DO
+
+**Add question:** *"Why does Beatrice speak her consent ('I take him') before Godfrey can speak his? What does this verbal action say about her agency?"*
+
+---
+
+### 22. Editions Differentiation — Glossary
+
+**Status:** 🔲 TO DO
+
+- **Plain Edition:** Shorten glossary to 15 core terms.
+- **Extended Edition:** Keep full glossary and timeline.
+
+---
+
+## SUMMARY — COMPLETE STATUS
+
+| Priority | Item | Status |
+|:---|:---|:---|
+| **Critical** | The Fifth Week (First Meeting) | ✅ COMPLETE |
+| **Critical** | Well Scene (Soldiers) | ✅ COMPLETE |
+| **Critical** | Beatrice's Shattering | ✅ COMPLETE |
+| **Critical** | Threshold Confrontation | ✅ COMPLETE |
+| **Critical** | King's Hall Plea | ✅ COMPLETE |
+| **Critical** | Cart Scene (Return) | ✅ DRAFT COMPLETE |
+| **Critical** | Sir Guy's Courtship Attempts | 🔲 TO DO |
+| **Critical** | Sir Guy's Bird Purchase — Revealed | 🔲 TO DO |
+| **Critical** | Sir Guy's Grievance — Justification | 🔲 TO DO |
+| **Critical** | Godfrey's Active Moments | 🔲 TO DO |
+| **Critical** | Beatrice's Trauma (Recurring) | 🔲 TO DO |
+| **Critical** | Harold's Observation — General Warning | 🔲 TO DO |
+| **Critical** | Nurse's Role — General Warning | 🔲 TO DO |
+| **Medium** | Replace Cup Ritual | 🔲 TO DO |
+| **Medium** | Harold's Safety Net | 🔲 TO DO |
+| **Medium** | Beatrice's "Love" Confession | 🔲 TO DO |
+| **Medium** | Flemish Characters (Consequence) | 🔲 TO DO |
+| **Medium** | White Ship (Grief) | 🔲 TO DO |
+| **Medium** | Jephthah Insights | 🔲 TO DO |
+| **Low** | Teacher Guide — Kidnapping Note | 🔲 TO DO |
+| **Low** | Student Questions — Vow Question | 🔲 TO DO |
+| **Low** | Editions Differentiation — Glossary | 🔲 TO DO |
+
+---
+
+## FINAL NOTE
+
+This is the **complete working document**. It contains:
+1. All completed scenes with their prepared text
+2. All remaining tasks with their required dialogue and insertion points
+3. All reasoning behind each change
+
+The critical remaining work is:
+1. **Sir Guy's Courtship Attempts** (showing his persistence and her resistance)
+2. **Sir Guy's Bird Purchase** (showing the scheme before Beatrice learns of it)
+3. **Sir Guy's Grievance** (his justification scene)
+4. **Godfrey's Active Moments** (the Jephthah Question, his statement of intent)
+5. **Beatrice's Trauma** (recurring moments in Parts Seven & Eight)
+6. **Harold's General Warning** (he does not know Sir Guy specifically)
+7. **The Nurse's General Warning** (she does not know Sir Guy personally)
 
 ---
 
