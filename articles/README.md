@@ -103,6 +103,7 @@ done
 
 | Filename | Year | Summary |
 | :--- | :---: | :--- |
+
 | **[AI Is Arts Next Tool Not Grave](AI-is-Arts-Next-Tool-Not-Grave)** | 2025 | Discusses AI as the next creative tool for the arts, rather than a threat. |
 | **[AI Nomenclature](ai_nomenclature)** | 2024 | Discusses terminology and naming conventions within the AI field. |
 | **[AI Safety vs Impediment](ai_safety_vs_Impediment)** | 2025 | Looks at the balance between AI safety measures and potential obstacles to progress. |
@@ -113,6 +114,7 @@ done
 | **[Limits of Simplified AI Architecture](limits_of_simplified_AI_architecture)** | 2025 | Discusses the limitations of overly simplified AI architectures. |
 | **[Optimizing Communication with AI](optimizing_communication_with_ai)** | 2025 | Explores ways to improve human‑AI communication effectiveness. |
 | **[Programming Advice AK](Programming-Advice-AK)** | 2025 | Personal programming tips and experience‑based advice. |
+| **[Project Licensing & Platform Classification Guide](opensrc-licensing-tool)** | 2026 | A tool to evaluate open-source license compatibility on any platform. |
 | **[Structuring Class-Based Single-File Apps](structuring-class-based-single-file-apps)** | 2026 | A guide to structuring class‑based single‑file applications. |
 | **[Unified Local Orchestration Architecture](Unified_Local_Orchestration_Architecture)** | 2026 | Proposes a unified architecture for local orchestration of services. |
 
