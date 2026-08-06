@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GarageBand Piano Roll Viewer – with Performance Analysis</title>
+    <style>
+        :root {
+            --bg: #1a1a1d;
+            --surface: #232327;
+            --surface2: #2a2a2f;
+            --border: #3a3a42;
+            --text: #c8c8d0;
+            --text-secondary: #909098;
+            --accent: #5b9bd5;
+            --accent-bright: #7ab8f5;
+            --note-normal: #4a90d9;
+            --note-late: #e67e22;
+            --note-early: #f1c40f;
+            --note-stumble: #e74c3c;
+            --note-false-start: #9b59b6;
+            --note-correction: #e84393;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', Helvetica, Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+        .header {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 8px 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-shrink: 0;
+            z-index: 10;
+            flex-wrap: wrap;
+        }
+        .header .logo { font-weight: 700; font-size: 15px; color: #fff; }
+        .header .logo span { color: var(--accent); }
+        .header .badge {
+            font-size: 10px;
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            padding: 4px 10px;
+            border-radius: 12px;
+            color: var(--text-secondary);
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+        }
+        .stats { display: flex; gap: 14px; font-size: 12px; color: var(--text-secondary); margin-left: auto; }
+        .stats .stat-val { color: #fff; font-weight: 600; }
+
+        .main-container { display: flex; flex-direction: column; flex: 1; min-height: 0; position: relative; }
+        .input-panel {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 10px 20px;
+            display: flex;
+            gap: 12px;
+            align-items: stretch;
+            flex-shrink: 0;
+            flex-wrap: wrap;
+        }
+        .input-panel textarea {
+            flex: 1; min-width: 300px; min-height: 80px; max-height: 140px;
+            background: var(--bg); border: 1px solid var(--border); border-radius: 8px;
+            color: var(--text); padding: 10px 14px; font-family: 'SF Mono', 'Menlo', monospace;
+            font-size: 12px; line-height: 1.5; resize: vertical;
+        }
+        .input-panel textarea:focus { outline: none; border-color: var(--accent); }
+        .btn-row { display: flex; flex-direction: column; gap: 6px; flex-shrink: 0; }
+        .btn {
+            padding: 8px 16px; border-radius: 7px; border: 1px solid var(--border);
+            cursor: pointer; font-size: 12px; font-weight: 600; font-family: inherit;
+            transition: all 0.15s; white-space: nowrap;
+        }
+        .btn-primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+        .btn-primary:hover { background: var(--accent-bright); }
+        .btn-secondary { background: var(--surface2); color: var(--text); }
+        .btn-secondary:hover { background: #35353d; }
+        .btn-small { padding: 5px 10px; font-size: 11px; }
+        .zoom-group { display: flex; align-items: center; gap: 4px; flex-shrink: 0; }
+        .btn-icon {
+            width: 30px; height: 30px; padding: 0; font-size: 14px;
+            background: var(--surface2); border: 1px solid var(--border); color: var(--text);
+            cursor: pointer; border-radius: 6px;
+        }
+        .btn-icon:hover { background: #35353d; }
+        .zoom-label { font-size: 11px; color: var(--text-secondary); min-width: 40px; text-align: center; }
+
+        .analysis-bar {
+            display: flex; align-items: center; gap: 10px; padding: 6px 20px;
+            background: var(--surface); border-bottom: 1px solid var(--border);
+            font-size: 12px; color: var(--text-secondary); flex-wrap: wrap;
+        }
+        .analysis-bar label { display: flex; align-items: center; gap: 5px; cursor: pointer; }
+        .analysis-legend { display: flex; gap: 12px; flex-wrap: wrap; margin-left: auto; }
+        .legend-item { display: flex; align-items: center; gap: 4px; }
+        .legend-color { width: 12px; height: 12px; border-radius: 2px; }
+
+        .piano-roll-wrapper { flex: 1; display: flex; min-height: 0; position: relative; background: var(--bg); }
+        .piano-keys-container {
+            width: 72px; flex-shrink: 0; overflow: hidden; position: relative; z-index: 5;
+            background: var(--surface); border-right: 2px solid var(--border);
+        }
+        .piano-keys-canvas { display: block; position: absolute; top: 0; left: 0; }
+        .grid-scroll-container {
+            flex: 1; overflow: auto; position: relative; scroll-behavior: auto; cursor: default;
+        }
+        .grid-scroll-container::-webkit-scrollbar { width: 10px; height: 10px; }
+        .grid-scroll-container::-webkit-scrollbar-track { background: var(--scrollbar-track); }
+        .grid-scroll-container::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 5px; }
+        .grid-canvas { display: block; cursor: crosshair; }
+        .ruler-canvas { display: block; position: sticky; top: 0; z-index: 4; background: var(--ruler-bg); border-bottom: 1px solid var(--border); }
+
+        .tooltip {
+            position: fixed; pointer-events: none; background: #1e1e24; border: 1px solid var(--border);
+            border-radius: 8px; padding: 8px 12px; font-size: 11px; color: #ddd; z-index: 100;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5); display: none; line-height: 1.5; white-space: nowrap;
+        }
+        .tooltip .note-name { font-weight: 700; font-size: 14px; color: #fff; }
+        .tooltip .detail { color: var(--text-secondary); }
+        .tooltip .detail span { color: #ccc; }
+
+        .empty-state {
+            position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
+            text-align: center; color: var(--text-secondary); pointer-events: none; z-index: 2;
+        }
+        .empty-state .icon { font-size: 48px; margin-bottom: 12px; opacity: 0.5; }
+        .empty-state .msg { font-size: 14px; line-height: 1.6; }
+        .empty-state .msg code { background: var(--surface2); padding: 2px 7px; border-radius: 4px; font-size: 11px; color: #aaa; }
+
+        @media (max-width: 700px) {
+            .input-panel { flex-direction: column; }
+            .btn-row { flex-direction: row; }
+            .piano-keys-container { width: 52px; }
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <div class="logo">🎹 <span>Piano Roll</span> Viewer</div>
+    <div class="badge">GarageBand / Logic Pro</div>
+    <div class="stats" id="statsBar">
+        <span>Notes: <span class="stat-val" id="statNotes">—</span></span>
+        <span>PPQ: <span class="stat-val" id="statPPQ">—</span></span>
+        <span>Range: <span class="stat-val" id="statRange">—</span></span>
+        <span>Bars: <span class="stat-val" id="statBars">—</span></span>
+    </div>
+</div>
+
+<div class="main-container">
+    <div class="input-panel">
+        <textarea id="pasteInput" placeholder="Paste GarageBand / Logic Pro MIDI clipboard data here... (Notes from the Piano Roll)"></textarea>
+        <div class="btn-row">
+            <button class="btn btn-primary" id="btnParse">📋 Parse &amp; Display</button>
+            <button class="btn btn-secondary btn-small" id="btnClear">Clear</button>
+            <button class="btn btn-secondary btn-small" id="btnLoadSample">Load Sample</button>
+        </div>
+        <div class="zoom-group">
+            <button class="btn-icon" id="btnZoomOut" title="Zoom Out">−</button>
+            <span class="zoom-label" id="zoomLabel">100%</span>
+            <button class="btn-icon" id="btnZoomIn" title="Zoom In">+</button>
+            <button class="btn-icon" id="btnZoomFit" title="Fit Width" style="font-size:12px;">⊲⊳</button>
+        </div>
+    </div>
+
+    <div class="analysis-bar">
+        <label>
+            <input type="checkbox" id="toggleAnalysis" checked> Show performance analysis
+        </label>
+        <button class="btn btn-small btn-secondary" id="btnReanalyze">Re‑analyze</button>
+        <div class="analysis-legend" id="analysisLegend">
+            <span class="legend-item"><span class="legend-color" style="background:var(--note-normal)"></span> Normal</span>
+            <span class="legend-item"><span class="legend-color" style="background:var(--note-late)"></span> Late</span>
+            <span class="legend-item"><span class="legend-color" style="background:var(--note-early)"></span> Early</span>
+            <span class="legend-item"><span class="legend-color" style="background:var(--note-stumble)"></span> Stumble</span>
+            <span class="legend-item"><span class="legend-color" style="background:var(--note-false-start)"></span> False start</span>
+            <span class="legend-item"><span class="legend-color" style="background:var(--note-correction)"></span> Correction</span>
+        </div>
+    </div>
+
+    <div class="piano-roll-wrapper" id="pianoRollWrapper">
+        <div class="piano-keys-container" id="pianoKeysContainer">
+            <canvas class="piano-keys-canvas" id="pianoKeysCanvas"></canvas>
+        </div>
+        <div class="grid-scroll-container" id="gridScrollContainer">
+            <canvas class="ruler-canvas" id="rulerCanvas"></canvas>
+            <canvas class="grid-canvas" id="gridCanvas"></canvas>
+        </div>
+        <div class="empty-state" id="emptyState">
+            <div class="icon">🎼</div>
+            <div class="msg">Paste your GarageBand MIDI data above<br>and click <code>Parse &amp; Display</code></div>
+        </div>
+    </div>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script src="GarageBand_Piano_Roll_Data_Viewer_Sample_Data.js"></script>
+<script>
+(function() {
+    const pasteInput = document.getElementById('pasteInput');
+    const btnParse = document.getElementById('btnParse');
+    const btnClear = document.getElementById('btnClear');
+    const btnLoadSample = document.getElementById('btnLoadSample');
+    const btnZoomOut = document.getElementById('btnZoomOut');
+    const btnZoomIn = document.getElementById('btnZoomIn');
+    const btnZoomFit = document.getElementById('btnZoomFit');
+    const zoomLabel = document.getElementById('zoomLabel');
+    const gridScrollContainer = document.getElementById('gridScrollContainer');
+    const gridCanvas = document.getElementById('gridCanvas');
+    const rulerCanvas = document.getElementById('rulerCanvas');
+    const pianoKeysContainer = document.getElementById('pianoKeysContainer');
+    const pianoKeysCanvas = document.getElementById('pianoKeysCanvas');
+    const tooltip = document.getElementById('tooltip');
+    const emptyState = document.getElementById('emptyState');
+    const pianoRollWrapper = document.getElementById('pianoRollWrapper');
+    const toggleAnalysis = document.getElementById('toggleAnalysis');
+    const btnReanalyze = document.getElementById('btnReanalyze');
+
+    const statNotes = document.getElementById('statNotes');
+    const statPPQ = document.getElementById('statPPQ');
+    const statRange = document.getElementById('statRange');
+    const statBars = document.getElementById('statBars');
+
+    const BEATS_PER_BAR = 4;
+    const DIVISIONS_PER_BEAT = 4;
+    const NOTE_HEIGHT = 20;
+    const PIANO_KEY_WIDTH = 70;
+    const RULER_HEIGHT = 28;
+    const DEFAULT_PPQ = 240;
+    const CHORD_TOLERANCE_TICKS = 8;
+
+    let parsedNotes = [];
+    let detectedPPQ = DEFAULT_PPQ;
+    let minMIDI = 48, maxMIDI = 72, totalRawTicksMax = 0;
+    let pixelsPerTick = 0.05;
+    let zoomLevel = 1.0;
+    const ZOOM_MIN = 0.008, ZOOM_MAX = 0.6, ZOOM_STEP = 1.25;
+
+    // Performance analysis state
+    let performanceFlags = new Map(); // key: note index -> flag object
+    let analysisEnabled = true;
+
+    const noteBaseMap = { 'C':0, 'D':2, 'E':4, 'F':5, 'G':7, 'A':9, 'B':11 };
+    function parseNoteName(str) {
+        const m = str.trim().match(/^([A-G])([♯♭#b]?)(-?\d+)$/);
+        if (!m) return null;
+        let semitone = noteBaseMap[m[1]];
+        if (m[2] === '♯' || m[2] === '#') semitone += 1;
+        if (m[2] === '♭' || m[2] === 'b') semitone -= 1;
+        return (parseInt(m[3],10)+1)*12 + semitone;
+    }
+    function midiToNoteName(midi) {
+        const names = ['C','C♯','D','D♯','E','F','F♯','G','G♯','A','A♯','B'];
+        return names[midi%12] + (Math.floor(midi/12)-1);
+    }
+    function isWhiteKey(midi) { return [0,2,4,5,7,9,11].includes(midi%12); }
+
+    function parseClipboardData(text) {
+        const lines = text.split(/\r?\n/);
+        const notes = [], allTicks = [];
+        const lineRegex = /^\s*(\d+)\s*\.\s*(\d+)\s*\.\s*(\d+)\s*\.\s*(\d+)\s+(\S+)\s+(\d+)\s+([A-G][♯♭#b]?\d)\s+(\d+)\s+(\d+)\s*\.\s*(\d+)\s*\.\s*(\d+)\s*\.\s*(\d+)\s*$/;
+        for (const line of lines) {
+            const trimmed = line.trim();
+            if (!trimmed) continue;
+            const match = trimmed.match(lineRegex);
+            if (!match) continue;
+            const posBar=+match[1], posBeat=+match[2], posDiv=+match[3], posTick=+match[4];
+            const eventType=match[5], channel=+match[6], pitchStr=match[7], velocity=+match[8];
+            const durBar=+match[9], durBeat=+match[10], durDiv=+match[11], durTick=+match[12];
+            if (!eventType.includes('Note') && !eventType.includes('EvE')) continue;
+            const midiNote = parseNoteName(pitchStr);
+            if (midiNote === null) continue;
+            allTicks.push(posTick, durTick);
+            notes.push({ posBar, posBeat, posDiv, posTick, eventType, channel, pitchStr, midiNote, velocity, durBar, durBeat, durDiv, durTick });
+        }
+        return { notes, allTicks };
+    }
+
+    function detectPPQ(allTicks, noteCount) {
+        if (noteCount < 10 || allTicks.length===0) return DEFAULT_PPQ;
+        if (allTicks.every(t=>t===0)) return DEFAULT_PPQ;
+        const maxTick = Math.max(...allTicks);
+        return maxTick >= 240 ? 960 : DEFAULT_PPQ;
+    }
+
+    function rawTicksFromComponents(bar, beat, div, tick, ppq) {
+        const ppqPerBar = BEATS_PER_BAR * DIVISIONS_PER_BEAT * ppq;
+        const ppqPerBeat = DIVISIONS_PER_BEAT * ppq;
+        return ppqPerBar * (bar-1) + ppqPerBeat * (beat-1) + ppq * (div-1) + tick;
+    }
+
+    function processParsedData(rawNotes, allTicks) {
+        const ppq = detectPPQ(allTicks, rawNotes.length);
+        detectedPPQ = ppq;
+        const ppqPerBar = BEATS_PER_BAR * DIVISIONS_PER_BEAT * ppq;
+        const ppqPerBeat = DIVISIONS_PER_BEAT * ppq;
+        const processed = rawNotes.map(n => {
+            const startTick = rawTicksFromComponents(n.posBar, n.posBeat, n.posDiv, n.posTick, ppq);
+            // Duration is just an additive count, not absolute position
+            const durationTicks = n.durBar * ppqPerBar + n.durBeat * ppqPerBeat + n.durDiv * ppq + n.durTick;
+            return { ...n, startTick, durationTicks, endTick: startTick + durationTicks };
+        });
+        let minM=127, maxM=0, maxTickVal=0;
+        processed.forEach(n => {
+            if (n.midiNote<minM) minM=n.midiNote;
+            if (n.midiNote>maxM) maxM=n.midiNote;
+            if (n.endTick>maxTickVal) maxTickVal=n.endTick;
+        });
+        if (!processed.length) { minM=48; maxM=72; maxTickVal=3840; }
+        minM = Math.max(0, minM-4);
+        maxM = Math.min(127, maxM+4);
+        maxTickVal = Math.max(maxTickVal, 3840);
+        return { notes: processed, ppq, minMIDI: minM, maxMIDI: maxM, totalRawTicksMax: maxTickVal };
+    }
+
+    // ─── Performance analysis ─────────────────
+    function analyzePerformance() {
+        performanceFlags.clear();
+        if (!parsedNotes.length || !analysisEnabled) return;
+
+        const ppq = detectedPPQ;
+        // 1. Group simultaneous onsets into events
+        const sorted = [...parsedNotes].sort((a,b)=>a.startTick-b.startTick);
+        const events = []; // { startTick, pitches:Set, maxEndTick, noteIndices:[] }
+        for (const note of sorted) {
+            if (!events.length || note.startTick - events[events.length-1].startTick > CHORD_TOLERANCE_TICKS) {
+                events.push({ startTick: note.startTick, pitches: new Set([note.midiNote]), maxEndTick: note.endTick, noteIndices: [parsedNotes.indexOf(note)] });
+            } else {
+                const last = events[events.length-1];
+                last.pitches.add(note.midiNote);
+                if (note.endTick > last.maxEndTick) last.maxEndTick = note.endTick;
+                last.noteIndices.push(parsedNotes.indexOf(note));
+            }
+        }
+
+        if (events.length < 3) return;
+
+        // 2. Compute IOIs between events
+        const ioi = [];
+        for (let i=0; i<events.length-1; i++) {
+            ioi.push(events[i+1].startTick - events[i].startTick);
+        }
+
+        // 3. Local reference IOI (median over window of 5)
+        const windowHalf = 5;
+        const refIOI = [];
+        for (let i=0; i<events.length; i++) {
+            const start = Math.max(0, i-windowHalf);
+            const end = Math.min(ioi.length, i+windowHalf+1);
+            const slice = ioi.slice(start, end).filter(v=>v>0);
+            if (!slice.length) { refIOI.push(ppq); continue; }
+            slice.sort((a,b)=>a-b);
+            const median = slice[Math.floor(slice.length/2)];
+            refIOI.push(median || ppq);
+        }
+
+        // 4. Flag late/early
+        for (let i=0; i<events.length-1; i++) {
+            const expected = events[i].startTick + refIOI[i];
+            const actual = events[i+1].startTick;
+            const deviation = actual - expected;
+            const threshold = Math.max(refIOI[i] * 0.25, ppq/4);
+            if (deviation > threshold) {
+                for (const idx of events[i].noteIndices) performanceFlags.set(idx, { type: 'late' });
+            } else if (deviation < -threshold) {
+                for (const idx of events[i].noteIndices) performanceFlags.set(idx, { type: 'early' });
+            }
+        }
+
+        // 5. Stumble detection (≥3 events with very short, irregular IOIs)
+        for (let i=0; i<events.length-2; i++) {
+            const trio = [ioi[i], ioi[i+1], ioi[i+2]];
+            const localRef = Math.max(refIOI[i], refIOI[i+1], refIOI[i+2]);
+            if (localRef === 0) continue;
+            if (trio.every(v => v < 0.5 * localRef)) {
+                const mean = trio.reduce((a,b)=>a+b,0)/3;
+                const variance = trio.reduce((s,v)=>s+(v-mean)**2,0)/3;
+                const cv = Math.sqrt(variance) / mean;
+                if (cv > 0.3) { // irregular enough
+                    for (let j=i; j<=i+2; j++) {
+                        for (const idx of events[j].noteIndices) performanceFlags.set(idx, { type: 'stumble' });
+                    }
+                }
+            }
+        }
+
+        // 6. False starts and corrections
+        for (let i=0; i<events.length-1; i++) {
+            const gap = events[i+1].startTick - events[i].maxEndTick;
+            const localRef = refIOI[i];
+            if (gap > 1.8 * localRef) { // large rest
+                const pitchesA = Array.from(events[i].pitches).sort();
+                const pitchesB = Array.from(events[i+1].pitches).sort();
+                const same = pitchesA.length === pitchesB.length && pitchesA.every((p,j)=>p===pitchesB[j]);
+                const nearby = !same && pitchesA.some(p=>pitchesB.some(q=>Math.abs(p-q)<=2));
+                if (same) {
+                    for (const idx of events[i].noteIndices) performanceFlags.set(idx, { type: 'false_start' });
+                } else if (nearby) {
+                    for (const idx of events[i].noteIndices) performanceFlags.set(idx, { type: 'correction' });
+                }
+            }
+        }
+    }
+
+    // ─── Rendering ────────────────────────────
+    function getGridDimensions() {
+        const noteRange = maxMIDI - minMIDI + 1;
+        const gridHeight = noteRange * NOTE_HEIGHT;
+        const gridWidth = Math.ceil(totalRawTicksMax * pixelsPerTick) + 200;
+        return { gridWidth: Math.max(gridWidth,800), gridHeight: Math.max(gridHeight,300), noteRange, minMIDI, maxMIDI };
+    }
+    function midiToY(midi) { return (maxMIDI - midi) * NOTE_HEIGHT; }
+    function tickToX(tick) { return tick * pixelsPerTick; }
+
+    function drawRuler(ctx, width, height) {
+        const dpr = window.devicePixelRatio||1;
+        ctx.save(); ctx.setTransform(1,0,0,1,0,0); ctx.clearRect(0,0,width,height); ctx.scale(dpr,dpr);
+        const lw = width/dpr, lh = height/dpr;
+        ctx.fillStyle = '#1e1e22'; ctx.fillRect(0,0,lw,lh);
+        ctx.font = '10px -apple-system, sans-serif'; ctx.textAlign='center';
+        const barTick = BEATS_PER_BAR * DIVISIONS_PER_BEAT * detectedPPQ;
+        const beatTick = DIVISIONS_PER_BEAT * detectedPPQ;
+        const maxBar = Math.ceil(totalRawTicksMax/barTick)+2;
+        for (let bar=0; bar<=maxBar; bar++) {
+            const x = tickToX(bar*barTick);
+            if (x>lw+200) break;
+            ctx.strokeStyle='#777'; ctx.lineWidth=1;
+            ctx.beginPath(); ctx.moveTo(x,lh-12); ctx.lineTo(x,lh); ctx.stroke();
+            ctx.fillStyle='#ccc'; ctx.fillText(bar+1,x,lh-14);
+            for (let b=1; b<BEATS_PER_BAR; b++) {
+                const bx = tickToX(bar*barTick + b*beatTick);
+                if (bx>lw+200) break;
+                ctx.strokeStyle='#444'; ctx.lineWidth=0.5;
+                ctx.beginPath(); ctx.moveTo(bx,lh-6); ctx.lineTo(bx,lh); ctx.stroke();
+            }
+        }
+        ctx.restore();
+    }
+
+    function drawGrid(ctx, width, height, dims) {
+        const dpr = window.devicePixelRatio||1;
+        ctx.save(); ctx.setTransform(1,0,0,1,0,0); ctx.clearRect(0,0,width,height); ctx.scale(dpr,dpr);
+        const lw = width/dpr, lh = height/dpr;
+        // background
+        ctx.fillStyle='#1a1a1d'; ctx.fillRect(0,0,lw,lh);
+        // horizontal lines
+        for (let midi=dims.minMIDI; midi<=dims.maxMIDI; midi++) {
+            const y = midiToY(midi);
+            ctx.strokeStyle = midi%12===0 ? '#3a3a45' : '#27272d';
+            ctx.lineWidth = midi%12===0 ? 0.8 : 0.4;
+            ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(lw,y); ctx.stroke();
+        }
+        // vertical grid
+        const barTick = BEATS_PER_BAR*DIVISIONS_PER_BEAT*detectedPPQ;
+        const beatTick = DIVISIONS_PER_BEAT*detectedPPQ;
+        const divTick = detectedPPQ;
+        const maxBar = Math.ceil(totalRawTicksMax/barTick)+2;
+        for (let bar=0; bar<=maxBar; bar++) {
+            const bx = tickToX(bar*barTick);
+            if (bx>lw+100) break;
+            ctx.strokeStyle='#4a4a58'; ctx.lineWidth=0.7;
+            ctx.beginPath(); ctx.moveTo(bx,0); ctx.lineTo(bx,lh); ctx.stroke();
+            for (let b=0; b<BEATS_PER_BAR; b++) {
+                for (let d=1; d<DIVISIONS_PER_BEAT; d++) {
+                    const dx = tickToX(bar*barTick + b*beatTick + d*divTick);
+                    if (dx>lw+100) break;
+                    ctx.strokeStyle='#24242a'; ctx.lineWidth=0.3;
+                    ctx.setLineDash([2,6]);
+                    ctx.beginPath(); ctx.moveTo(dx,0); ctx.lineTo(dx,lh); ctx.stroke();
+                    ctx.setLineDash([]);
+                }
+            }
+        }
+        // notes
+        for (const note of parsedNotes) {
+            const x = tickToX(note.startTick);
+            const w = Math.max(tickToX(note.durationTicks), 2.5);
+            const y = midiToY(note.midiNote);
+            const h = NOTE_HEIGHT;
+            if (x+w < -50 || x > lw+50) continue;
+            const flag = analysisEnabled ? performanceFlags.get(parsedNotes.indexOf(note)) : null;
+            const colorMap = {
+                late: '#e67e22', early: '#f1c40f', stumble: '#e74c3c',
+                false_start: '#9b59b6', correction: '#e84393'
+            };
+            let baseColor = '#4a90d9';
+            if (flag && colorMap[flag.type]) baseColor = colorMap[flag.type];
+            const velNorm = Math.max(0,Math.min(1,note.velocity/127));
+            const r=parseInt(baseColor.substr(1,2),16), g=parseInt(baseColor.substr(3,2),16), b=parseInt(baseColor.substr(5,2),16);
+            const alpha = 0.7 + velNorm*0.3;
+            const gradient = ctx.createLinearGradient(x, y, x, y+h);
+            gradient.addColorStop(0, `rgba(${r},${g},${b},${alpha})`);
+            gradient.addColorStop(1, `rgba(${r-30},${g-30},${b-30},${alpha})`);
+            ctx.fillStyle = gradient;
+            const radius = Math.min(4, h/3);
+            ctx.beginPath();
+            ctx.moveTo(x+radius, y); ctx.lineTo(x+w-radius, y);
+            ctx.quadraticCurveTo(x+w, y, x+w, y+radius);
+            ctx.lineTo(x+w, y+h-radius);
+            ctx.quadraticCurveTo(x+w, y+h, x+w-radius, y+h);
+            ctx.lineTo(x+radius, y+h);
+            ctx.quadraticCurveTo(x, y+h, x, y+h-radius);
+            ctx.lineTo(x, y+radius);
+            ctx.quadraticCurveTo(x, y, x+radius, y);
+            ctx.closePath();
+            ctx.fill();
+            ctx.strokeStyle = 'rgba(255,255,255,0.15)'; ctx.lineWidth=0.6; ctx.stroke();
+            if (flag && (flag.type==='false_start'||flag.type==='correction')) {
+                ctx.fillStyle = flag.type==='false_start' ? '#9b59b6' : '#e84393';
+                ctx.font = 'bold 10px sans-serif';
+                ctx.fillText(flag.type==='false_start'?'⏮':'🔄', x+2, y+NOTE_HEIGHT-2);
+            }
+        }
+        ctx.restore();
+    }
+
+    function drawPianoKeys(ctx, width, height, dims) {
+        const dpr = window.devicePixelRatio||1;
+        ctx.save(); ctx.setTransform(1,0,0,1,0,0); ctx.clearRect(0,0,width,height); ctx.scale(dpr,dpr);
+        const lw = width/dpr, lh = height/dpr;
+        ctx.fillStyle = '#1e1e24'; ctx.fillRect(0,0,lw,lh);
+        for (let midi=dims.minMIDI; midi<=dims.maxMIDI; midi++) {
+            const y = midiToY(midi);
+            if (isWhiteKey(midi)) {
+                ctx.fillStyle='#e8e8e8'; ctx.fillRect(0,y,lw,NOTE_HEIGHT);
+                ctx.strokeStyle='#ccc'; ctx.lineWidth=0.4; ctx.strokeRect(0,y,lw,NOTE_HEIGHT);
+            }
+        }
+        const bkH = NOTE_HEIGHT*0.6, bkW = lw*0.58;
+        for (let midi=dims.minMIDI; midi<=dims.maxMIDI; midi++) {
+            if (!isWhiteKey(midi)) {
+                const y = midiToY(midi);
+                const by = y + NOTE_HEIGHT/2 - bkH/2;
+                ctx.fillStyle='#1a1a1e'; ctx.fillRect(0,by,bkW,bkH);
+                ctx.strokeStyle='#000'; ctx.lineWidth=0.5; ctx.strokeRect(0,by,bkW,bkH);
+            }
+        }
+        ctx.restore();
+    }
+
+    function renderAll() {
+        const dims = getGridDimensions();
+        const dpr = window.devicePixelRatio||1;
+        const gridPhysW = Math.ceil(dims.gridWidth*dpr), gridPhysH = Math.ceil(dims.gridHeight*dpr);
+        gridCanvas.width = gridPhysW; gridCanvas.height = gridPhysH;
+        gridCanvas.style.width = dims.gridWidth+'px'; gridCanvas.style.height = dims.gridHeight+'px';
+        const gridCtx = gridCanvas.getContext('2d');
+        drawGrid(gridCtx, gridPhysW, gridPhysH, dims);
+
+        const rulerPhysW = gridPhysW, rulerPhysH = Math.ceil(RULER_HEIGHT*dpr);
+        rulerCanvas.width = rulerPhysW; rulerCanvas.height = rulerPhysH;
+        rulerCanvas.style.width = dims.gridWidth+'px'; rulerCanvas.style.height = RULER_HEIGHT+'px';
+        drawRuler(rulerCanvas.getContext('2d'), rulerPhysW, rulerPhysH);
+
+        const pianoPhysW = Math.ceil(PIANO_KEY_WIDTH*dpr), pianoPhysH = gridPhysH;
+        pianoKeysCanvas.width = pianoPhysW; pianoKeysCanvas.height = pianoPhysH;
+        pianoKeysCanvas.style.width = PIANO_KEY_WIDTH+'px'; pianoKeysCanvas.style.height = dims.gridHeight+'px';
+        drawPianoKeys(pianoKeysCanvas.getContext('2d'), pianoPhysW, pianoPhysH, dims);
+
+        pianoKeysContainer.style.height = gridScrollContainer.clientHeight+'px';
+        updateStats();
+        emptyState.style.display = parsedNotes.length ? 'none' : 'block';
+        updateZoomLabel();
+    }
+
+    function updateStats() {
+        if (!parsedNotes.length) {
+            statNotes.textContent='—'; statPPQ.textContent='—'; statRange.textContent='—'; statBars.textContent='—';
+            return;
+        }
+        statNotes.textContent = parsedNotes.length;
+        statPPQ.textContent = detectedPPQ;
+        statRange.textContent = midiToNoteName(minMIDI)+' – '+midiToNoteName(maxMIDI);
+        const maxBar = Math.ceil(totalRawTicksMax/(BEATS_PER_BAR*DIVISIONS_PER_BEAT*detectedPPQ));
+        statBars.textContent = '1 – '+maxBar;
+    }
+
+    function updateZoomLabel() {
+        zoomLabel.textContent = Math.round(pixelsPerTick/0.05*100)+'%';
+    }
+
+    function parseAndRender(text) {
+        const { notes, allTicks } = parseClipboardData(text);
+        if (!notes.length) {
+            parsedNotes=[]; minMIDI=48; maxMIDI=72; totalRawTicksMax=3840; detectedPPQ=DEFAULT_PPQ;
+            performanceFlags.clear();
+            renderAll();
+            emptyState.style.display='block';
+            return;
+        }
+        const processed = processParsedData(notes, allTicks);
+        parsedNotes = processed.notes;
+        detectedPPQ = processed.ppq;
+        minMIDI = processed.minMIDI; maxMIDI = processed.maxMIDI;
+        totalRawTicksMax = processed.totalRawTicksMax;
+
+        fitZoomToWidth();
+        analyzePerformance();
+        renderAll();
+        gridScrollContainer.scrollLeft=0; gridScrollContainer.scrollTop=0;
+    }
+
+    function fitZoomToWidth() {
+        if (!parsedNotes.length) { pixelsPerTick=0.05; zoomLevel=1.0; return; }
+        const cw = gridScrollContainer.clientWidth-20;
+        pixelsPerTick = Math.max(ZOOM_MIN, Math.min(ZOOM_MAX, cw/Math.max(totalRawTicksMax,3840)));
+        zoomLevel = pixelsPerTick/0.05;
+    }
+
+    // Event wiring
+    btnParse.addEventListener('click', ()=>parseAndRender(pasteInput.value.trim()));
+    btnClear.addEventListener('click', ()=>{
+        pasteInput.value=''; parsedNotes=[]; performanceFlags.clear();
+        minMIDI=48; maxMIDI=72; totalRawTicksMax=3840; detectedPPQ=DEFAULT_PPQ;
+        pixelsPerTick=0.05; zoomLevel=1.0;
+        renderAll(); emptyState.style.display='block';
+    });
+    btnLoadSample.addEventListener('click', async ()=>{
+        const sampleData = window.GarageBand_Piano_Roll_Data_Viewer_Sample_Data;
+        pasteInput.value = sampleData;
+        parseAndRender(sampleData);
+    });
+    btnZoomIn.addEventListener('click', ()=>{ pixelsPerTick=Math.min(ZOOM_MAX, pixelsPerTick*ZOOM_STEP); zoomLevel=pixelsPerTick/0.05; renderAll(); });
+    btnZoomOut.addEventListener('click', ()=>{ pixelsPerTick=Math.max(ZOOM_MIN, pixelsPerTick/ZOOM_STEP); zoomLevel=pixelsPerTick/0.05; renderAll(); });
+    btnZoomFit.addEventListener('click', ()=>{ fitZoomToWidth(); renderAll(); });
+    toggleAnalysis.addEventListener('change', ()=>{
+        analysisEnabled = toggleAnalysis.checked;
+        if (parsedNotes.length) { analyzePerformance(); renderAll(); }
+    });
+    btnReanalyze.addEventListener('click', ()=>{ if(parsedNotes.length){ analyzePerformance(); renderAll(); } });
+    pasteInput.addEventListener('keydown', e=>{ if((e.ctrlKey||e.metaKey)&&e.key==='Enter'){ e.preventDefault(); btnParse.click(); } });
+    gridScrollContainer.addEventListener('scroll', ()=> pianoKeysContainer.scrollTop = gridScrollContainer.scrollTop);
+    window.addEventListener('resize', ()=>{ if(parsedNotes.length) renderAll(); });
+    new ResizeObserver(()=> pianoKeysContainer.style.height = pianoRollWrapper.clientHeight+'px').observe(pianoRollWrapper);
+
+    // Tooltip
+    gridCanvas.addEventListener('mousemove', e=>{
+        if (!parsedNotes.length) { tooltip.style.display='none'; return; }
+        const rect = gridCanvas.getBoundingClientRect();
+        const mx = e.clientX - rect.left + gridScrollContainer.scrollLeft;
+        const my = e.clientY - rect.top + gridScrollContainer.scrollTop;
+        const dims = getGridDimensions();
+        let found = null;
+        for (const note of parsedNotes) {
+            const nx = tickToX(note.startTick), nw = Math.max(tickToX(note.durationTicks),3);
+            const ny = midiToY(note.midiNote), nh = NOTE_HEIGHT;
+            if (mx>=nx && mx<=nx+nw && my>=ny && my<=ny+nh) { found=note; break; }
+        }
+        if (found) {
+            const posTotal = found.startTick;
+            const tpb = BEATS_PER_BAR*DIVISIONS_PER_BEAT*detectedPPQ;
+            const tpb2 = DIVISIONS_PER_BEAT*detectedPPQ;
+            const bar = Math.floor(posTotal/tpb)+1;
+            const rem1 = posTotal%tpb;
+            const beat = Math.floor(rem1/tpb2)+1;
+            const rem2 = rem1%tpb2;
+            const div = Math.floor(rem2/detectedPPQ)+1;
+            const tick = rem2%detectedPPQ;
+            const dur = found.durationTicks;
+            const durBar = Math.floor(dur/tpb);
+            const durBeat = Math.floor((dur%tpb)/tpb2);
+            const durDiv = Math.floor((dur%tpb2)/detectedPPQ);
+            const durTick = dur%detectedPPQ;
+            const flag = analysisEnabled ? performanceFlags.get(parsedNotes.indexOf(found)) : null;
+            tooltip.innerHTML = `<div class="note-name">${found.pitchStr}</div>
+                <div class="detail">Pos: <span>${bar}. ${beat}. ${div}. ${tick}</span></div>
+                <div class="detail">Dur: <span>${durBar}. ${durBeat}. ${durDiv}. ${durTick}</span></div>
+                <div class="detail">Vel: <span>${found.velocity}</span></div>
+                ${flag ? `<div class="detail" style="color:${flag.type==='late'?'#e67e22':flag.type==='early'?'#f1c40f':flag.type==='stumble'?'#e74c3c':flag.type==='false_start'?'#9b59b6':'#e84393'}">Flag: ${flag.type.replace('_',' ')}</div>`:''}`;
+            tooltip.style.display='block';
+            tooltip.style.left = (e.clientX+18)+'px';
+            tooltip.style.top = (e.clientY-10)+'px';
+        } else tooltip.style.display='none';
+    });
+    gridCanvas.addEventListener('mouseleave', ()=>tooltip.style.display='none');
+
+    // initial
+    parsedNotes=[]; minMIDI=48; maxMIDI=72; totalRawTicksMax=3840; detectedPPQ=DEFAULT_PPQ;
+    pixelsPerTick=0.05; zoomLevel=1.0;
+    renderAll();
+})();
+</script>
+</body>
+</html>
