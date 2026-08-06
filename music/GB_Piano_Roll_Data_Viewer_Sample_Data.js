@@ -1,4 +1,4 @@
-window.GarageBand_Piano_Roll_Data_Viewer_Sample_Data = 
+window.GB_Piano_Roll_Data_Viewer_Sample_Data = 
 `1. 3. 1. 137 \tNote#EvE\t \t1\t \tG3\t \t  98\t        0. 0. 1.     2 
 1. 4. 2. 239 \tNote#EvE\t \t1\t \tF3\t \t  98\t        0. 0. 1.   24 
 2. 3. 1. 134 \tNote#EvE\t \t1\t \tB3\t \t  98\t        0. 0. 1.   35 
