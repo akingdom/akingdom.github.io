@@ -157,7 +157,7 @@
             .tracks-sidebar { width: 180px; }
             .piano-keys-container { width: 52px; }
         }
-        
+
         /* Reference panel toggle button */
         .btn-ref-toggle {
             padding: 4px 12px;
@@ -173,7 +173,7 @@
         .btn-ref-toggle:hover {
             background: #35353d;
         }
-        
+
         /* Collapsible reference panel */
         .reference-panel {
             background: var(--surface);
@@ -265,7 +265,7 @@
     <div style="display:flex; align-items:center; padding: 4px 20px; background: var(--surface); border-bottom: 1px solid var(--border);">
         <button class="btn-ref-toggle" id="btnToggleRef">📖 Show Format Reference</button>
     </div>
-    
+
     <!-- Collapsible reference content -->
     <div class="reference-panel" id="refPanel">
         <h4>Copying Event Data from the Editors Workspace</h4>
@@ -277,17 +277,17 @@
             <li>Copy to clipboard: <strong>Edit > Copy</strong> (or <code>Command–C</code>).</li>
             <li>Paste into a text document or this tool.</li>
         </ol>
-    
+
         <h4>Parameter Mapping Example</h4>
         <pre>        Position::::::: Status::::: Ch: Num:::: Val:::::::: Length/Info:::::
             1. 1. 1.     1   Note#EvE      1     G4        74           0. 0. 3.     0</pre>
-    
+
         <h4>Raw Event Data Example</h4>
-        <pre>        1. 1. 1.     1   Note#EvE      1     G4        74           0. 0. 3.     0 
-            1. 2. 1.     1   Note#EvE      1     C4        57           0. 0. 0. 228 
-            1. 2. 3.     1   Note#EvE      1     E4        68           0. 0. 3. 132 
+        <pre>        1. 1. 1.     1   Note#EvE      1     G4        74           0. 0. 3.     0
+            1. 2. 1.     1   Note#EvE      1     C4        57           0. 0. 0. 228
+            1. 2. 3.     1   Note#EvE      1     E4        68           0. 0. 3. 132
             1. 3. 3.     1   Note#EvE      1     E4        68           0. 0. 1. 132</pre>
-    
+
         <h4>Event List Column Specifications</h4>
         <table>
             <tr><th>Column</th><th>Parameter</th><th>Format</th><th>Description</th><th>Value Range</th></tr>
@@ -339,8 +339,8 @@
 
     <div class="analysis-bar">
         <button class="btn-icon" id="toggleTracksBtn" title="Toggle Tracks Panel">≡</button>
-        <button class="btn btn-small btn-secondary" id="btnReanalyze">Re‑analyze all</button>
         <button class="btn btn-small btn-secondary" id="btnExportMIDI" title="Export enabled tracks as MIDI file">🎵 Export MIDI</button>
+        <button class="btn btn-small btn-secondary" id="btnReanalyze">Re‑analyze all</button>
         <label>
             <input type="checkbox" id="toggleAnalysis" checked> Show analysis
         </label>
@@ -433,7 +433,7 @@
     const NATIVE_PPQ = 960;   // Apple's native resolution for GarageBand/Logic Pro
     const CHORD_TOLERANCE_TICKS = 8;
     const EXPORT_PPQ = 480;   // standard MIDI export resolution
-    
+
     let pixelsPerTick = 0.05;
     let zoomLevel = 1.0;
     const ZOOM_MIN = 0.008, ZOOM_MAX = 0.6, ZOOM_STEP = 1.25;
@@ -524,7 +524,7 @@
             alert('No enabled tracks with notes to export.');
             return;
         }
-    
+
         const trackChunks = [];
         // Tempo track – 120 BPM, 4/4 time
         const tempoBPM = 120;
@@ -538,12 +538,12 @@
         const timeSigEvent = [0x00, 0xFF, 0x58, 0x04, 4, 2, 24, 8]; // 4/4
         const endOfTrack = [0x00, 0xFF, 0x2F, 0x00];
         trackChunks.push({ data: [...tempoEvent, ...timeSigEvent, ...endOfTrack] });
-    
+
         // Use Apple’s true internal resolution of 960 PPQ
         const NATIVE_PPQ = 960;
         const EXPORT_PPQ = 480;   // standard MIDI file resolution
         const scale = EXPORT_PPQ / NATIVE_PPQ;   // 0.5
-    
+
         // Position conversion (1‑based components) at 960 PPQ
         const posToTicks = (bar, beat, div, tick) => {
             return NATIVE_PPQ * 4 * (bar - 1)       // bars
@@ -551,7 +551,7 @@
                  + 240 * (div - 1)                  // divisions (each div = 240 ticks)
                  + tick;                            // tick within division
         };
-    
+
         // Duration conversion (simple additive count) at 960 PPQ
         const durToTicks = (bar, beat, div, tick) => {
             return bar * (NATIVE_PPQ * 4)           // bars
@@ -559,10 +559,10 @@
                  + div * 240                        // divisions
                  + tick;                            // ticks
         };
-    
+
         for (const track of enabled) {
             const channel = 0;   // MIDI channel 1
-    
+
             const events = [];
             for (const note of track.notes) {
                 // Calculate absolute start and duration at 960 PPQ
@@ -572,17 +572,17 @@
                 const start480 = Math.round(start960 * scale);
                 const dur480   = Math.max(1, Math.round(dur960 * scale));   // ensure non‑zero
                 const end480   = start480 + dur480;
-    
+
                 events.push({ tick: start480, type: 'on',  note: note.midiNote, velocity: note.velocity });
                 events.push({ tick: end480,   type: 'off', note: note.midiNote, velocity: 0 });
             }
-    
+
             // Sort by tick; note‑off before note‑on at same tick
             events.sort((a, b) => {
                 if (a.tick !== b.tick) return a.tick - b.tick;
                 return a.type === 'off' ? -1 : 1;
             });
-    
+
             let previousTick = 0;
             const trackBytes = [];
             for (const ev of events) {
@@ -591,12 +591,12 @@
                 trackBytes.push(...encodeVLQ(delta));
                 trackBytes.push(ev.type === 'on' ? (0x90 | channel) : (0x80 | channel), ev.note, ev.velocity);
             }
-    
+
             // End of track
             trackBytes.push(0x00, 0xFF, 0x2F, 0x00);
             trackChunks.push({ data: trackBytes });
         }
-    
+
         const midiBytes = buildMIDIFile(EXPORT_PPQ, trackChunks);
         downloadBlob(midiBytes, 'export.mid', 'audio/midi');
     }
@@ -941,31 +941,31 @@
         const state = computeCombinedState();
         const dims = getGridDimensions(state);
         const dpr = window.devicePixelRatio || 1;
-    
+
         // Ensure canvas pixel dimensions match logical size
         gridCanvas.width = Math.ceil(dims.gridWidth * dpr);
         gridCanvas.height = Math.ceil(dims.gridHeight * dpr);
         gridCanvas.style.width = dims.gridWidth + 'px';
         gridCanvas.style.height = dims.gridHeight + 'px';
-    
+
         // Same for ruler
         rulerCanvas.width = Math.ceil(dims.gridWidth * dpr);
         rulerCanvas.height = Math.ceil(RULER_HEIGHT * dpr);
         rulerCanvas.style.width = dims.gridWidth + 'px';
         rulerCanvas.style.height = RULER_HEIGHT + 'px';
-    
+
         // Piano keys height
         pianoKeysCanvas.width = Math.ceil(PIANO_KEY_WIDTH * dpr);
         pianoKeysCanvas.height = Math.ceil(dims.gridHeight * dpr);
         pianoKeysCanvas.style.width = PIANO_KEY_WIDTH + 'px';
         pianoKeysCanvas.style.height = dims.gridHeight + 'px';
         pianoKeysCanvas.style.top    = RULER_HEIGHT + 'px';
-    
+
         // Draw
         drawGrid(gridCanvas.getContext('2d'), gridCanvas.width, gridCanvas.height, state, dims);
         drawRuler(rulerCanvas.getContext('2d'), rulerCanvas.width, rulerCanvas.height, dims.ppq, state.totalRawTicksMax);
         drawPianoKeys(pianoKeysCanvas.getContext('2d'), pianoKeysCanvas.width, pianoKeysCanvas.height, dims);
-    
+
         // Sync scroll heights
         pianoKeysContainer.style.height = gridScrollContainer.clientHeight + 'px';
         updateStats(state, dims);
