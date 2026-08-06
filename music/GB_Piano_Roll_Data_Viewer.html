@@ -121,7 +121,7 @@
         }
         .track-del:hover { color: #e74c3c; background: rgba(255,255,255,0.05); }
 
-        .piano-roll-wrapper { flex: 1; display: flex; min-height: 0; position: relative; background: var(--bg); }
+        .piano-roll-wrapper { flex: 1; display: flex; min-height: 0; position: relative; background: var(--bg);     min-width: 0; }
         .piano-keys-container {
             width: 72px; flex-shrink: 0; overflow: hidden; position: relative; z-index: 5;
             background: var(--surface); border-right: 2px solid var(--border);
@@ -780,24 +780,35 @@
     function renderAll() {
         const state = computeCombinedState();
         const dims = getGridDimensions(state);
-        const dpr = window.devicePixelRatio||1;
-        const gridPhysW = Math.ceil(dims.gridWidth*dpr), gridPhysH = Math.ceil(dims.gridHeight*dpr);
-        gridCanvas.width = gridPhysW; gridCanvas.height = gridPhysH;
-        gridCanvas.style.width = dims.gridWidth+'px'; gridCanvas.style.height = dims.gridHeight+'px';
-        drawGrid(gridCanvas.getContext('2d'), gridPhysW, gridPhysH, state, dims);
-
-        const rulerPhysW = gridPhysW, rulerPhysH = Math.ceil(RULER_HEIGHT*dpr);
-        rulerCanvas.width = rulerPhysW; rulerCanvas.height = rulerPhysH;
-        rulerCanvas.style.width = dims.gridWidth+'px'; rulerCanvas.style.height = RULER_HEIGHT+'px';
-        drawRuler(rulerCanvas.getContext('2d'), rulerPhysW, rulerPhysH, dims.ppq, state.totalRawTicksMax);
-
-        const pianoPhysW = Math.ceil(PIANO_KEY_WIDTH*dpr), pianoPhysH = gridPhysH;
-        pianoKeysCanvas.width = pianoPhysW; pianoKeysCanvas.height = pianoPhysH;
-        pianoKeysCanvas.style.width = PIANO_KEY_WIDTH+'px'; pianoKeysCanvas.style.height = dims.gridHeight+'px';
-        drawPianoKeys(pianoKeysCanvas.getContext('2d'), pianoPhysW, pianoPhysH, dims);
-
-        pianoKeysContainer.style.height = gridScrollContainer.clientHeight+'px';
-        updateStats(state, dims);   // <-- pass dims
+        const dpr = window.devicePixelRatio || 1;
+    
+        // Ensure canvas pixel dimensions match logical size
+        gridCanvas.width = Math.ceil(dims.gridWidth * dpr);
+        gridCanvas.height = Math.ceil(dims.gridHeight * dpr);
+        gridCanvas.style.width = dims.gridWidth + 'px';
+        gridCanvas.style.height = dims.gridHeight + 'px';
+    
+        // Same for ruler
+        rulerCanvas.width = Math.ceil(dims.gridWidth * dpr);
+        rulerCanvas.height = Math.ceil(RULER_HEIGHT * dpr);
+        rulerCanvas.style.width = dims.gridWidth + 'px';
+        rulerCanvas.style.height = RULER_HEIGHT + 'px';
+    
+        // Piano keys height
+        pianoKeysCanvas.width = Math.ceil(PIANO_KEY_WIDTH * dpr);
+        pianoKeysCanvas.height = Math.ceil(dims.gridHeight * dpr);
+        pianoKeysCanvas.style.width = PIANO_KEY_WIDTH + 'px';
+        pianoKeysCanvas.style.height = dims.gridHeight + 'px';
+        pianoKeysCanvas.style.top    = RULER_HEIGHT + 'px';
+    
+        // Draw
+        drawGrid(gridCanvas.getContext('2d'), gridCanvas.width, gridCanvas.height, state, dims);
+        drawRuler(rulerCanvas.getContext('2d'), rulerCanvas.width, rulerCanvas.height, dims.ppq, state.totalRawTicksMax);
+        drawPianoKeys(pianoKeysCanvas.getContext('2d'), pianoKeysCanvas.width, pianoKeysCanvas.height, dims);
+    
+        // Sync scroll heights
+        pianoKeysContainer.style.height = gridScrollContainer.clientHeight + 'px';
+        updateStats(state, dims);
         emptyState.style.display = state.notes.length ? 'none' : 'block';
         updateZoomLabel();
     }
