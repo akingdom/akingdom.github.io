@@ -9,6 +9,8 @@
 **Project Type:** Educational / Cultural Folk Song
 **Target Release:** Schools, Radio, Streaming Platforms, Tourism Promotion
 **Duration (Full):** ≈ 6:30 | **(Radio Edit):** ≈ 3:00 | **(School Edit):** ≈ 3:30
+**Author:** Andrew Kingdom ©2026
+
 
 ---
 
