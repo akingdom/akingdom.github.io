@@ -371,6 +371,10 @@
         }
         .search-item { padding: 10px 12px; border-bottom: 1px solid var(--border); cursor: pointer; font-size: 0.9rem; }
         .search-item:hover { background: var(--hover); }
+        .search-item-selected {
+            background: var(--primary);
+            color: #fff;
+        }
         .search-nav-buttons {
             display: flex;
             justify-content: space-between;
@@ -1138,6 +1142,7 @@ const navigateTo = (code, ch, v) => dropdownManager.navigateTo(code, ch, v);
 const changeChapter = (c, v) => dropdownManager.setChapter(c, v);
 const stepChapter = (dir) => dropdownManager.stepChapter(dir);
 
+const SEARCHPAGE_MAXITEMS = 100;
 // ==================== SEARCH MANAGER (Stage 7) ====================
 /**
  * SearchManager – Handles search input, results display, and navigation.
@@ -1183,8 +1188,19 @@ class SearchManager {
         const refMatch = q.match(/^([1-3]?\s?[a-z]+)\s?(\d+)?:?(\d+)?/);
         if (refMatch) {
             const bQ = refMatch[1].replace(/\s/g, '');
-            const tB = Object.keys(this.state.activeCollection).find(k => k.toLowerCase().includes(bQ) || this.state.activeCollection[k].name.toLowerCase().replace(/\s/g,'').includes(bQ));
-            if (tB) this.state.searchResults.push({ code: tB, ch: refMatch[2] || 1, v: refMatch[3] || null, text: `Jump to Reference`, isJump: true });
+            const tB = Object.keys(this.state.activeCollection).find(k =>
+                k.toLowerCase().includes(bQ) ||
+                this.state.activeCollection[k].name.toLowerCase().replace(/\s/g, '').includes(bQ)
+            );
+            if (tB) {
+                this.state.searchResults.push({
+                    code: tB,
+                    ch: refMatch[2] || 1,
+                    v: refMatch[3] || null,
+                    text: `Jump to Reference`,
+                    isJump: true
+                });
+            }
         }
 
         // Full-text search across books
@@ -1193,44 +1209,112 @@ class SearchManager {
             for (const ch in lib) {
                 for (const v in lib[ch]) {
                     const txt = lib[ch][v].replace(/<span class="strong-pill">.*?<\/span>/g, '').replace(/<[^>]*>/g, '').toLowerCase();
-                    if (txt.includes(q)) this.state.searchResults.push({ code, ch, v, text: txt });
+                    if (txt.includes(q)) {
+                        this.state.searchResults.push({ code, ch, v, text: txt });
+                    }
                 }
             }
         }
+
+        // Set initial selection to the first result
+        this.state.currentSearchIndex = this.state.searchResults.length > 0 ? 0 : -1;
+        this.state.searchPage = 0;
         this.renderSearchResults();
     }
 
     renderSearchResults() {
+        const step = SEARCHPAGE_MAXITEMS;
         const resDiv = document.getElementById('search-results');
-        const start = this.state.searchPage * 100, end = start + 100;
+        const start = this.state.searchPage * step;
+        const end = start + step;
         const pageItems = this.state.searchResults.slice(start, end);
-
+    
+        // Build navigation controls with page‑step buttons
         let html = '<div class="search-nav-buttons">';
-        html += `<button onclick="navigateSearchResult(-1)" ${this.state.currentSearchIndex <= 0 ? 'disabled' : ''}>◀</button>`;
-        html += `<span style="font-size:0.8rem;">${this.state.currentSearchIndex+1}/${this.state.searchResults.length}</span>`;
-        html += `<button onclick="navigateSearchResult(1)" ${this.state.currentSearchIndex >= this.state.searchResults.length-1 ? 'disabled' : ''}>▶</button>`;
+        // Previous button: step back by 100
+        html += `<button class="search-nav-button" onclick="searchManager.navigateSearchResult(-${step})" ${this.state.currentSearchIndex <= 0 ? 'disabled' : ''}>◀</button>`;
+        // Display current position (1-indexed)
+        html += `<span style="font-size:0.8rem;">${this.state.currentSearchIndex + 1}/${this.state.searchResults.length}</span>`;
+        // Next button: step forward by 100
+        html += `<button class="search-nav-button" onclick="searchManager.navigateSearchResult(${step})" ${this.state.currentSearchIndex >= this.state.searchResults.length - 1 ? 'disabled' : ''}>▶</button>`;
         html += '</div>';
-
+    
+        // Render each result item – highlight the one matching currentSearchIndex
         html += pageItems.map((m, idx) => {
-            const ref = `${this.state.activeCollection[m.code].name} ${m.ch}${m.v?':'+m.v:''}`;
-            return `<div class="search-item" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v || 'null'}); document.getElementById('search-results').style.display='none';" data-index="${start+idx}"><strong>${ref}</strong> - ${m.text.substring(0, 90)}...</div>`;
+            const globalIdx = start + idx;
+            const isSelected = (globalIdx === this.state.currentSearchIndex);
+            const ref = `${this.state.activeCollection[m.code].name} ${m.ch}${m.v ? ':' + m.v : ''}`;
+            const selectedClass = isSelected ? ' search-item-selected' : '';
+            return `<div class="search-item${selectedClass}" onclick="navigateTo('${m.code}', ${m.ch}, ${m.v || 'null'}); document.getElementById('search-results').style.display='none';" data-index="${globalIdx}"><strong>${ref}</strong> - ${m.text.substring(0, 90)}...</div>`;
         }).join('');
 
+        // "Next 100 →" link if there are more items beyond current page
         if (this.state.searchResults.length > end) {
             html += `<div class="search-item" onclick="searchManager.state.searchPage++; searchManager.renderSearchResults();">Next 100 →</div>`;
         }
+
         resDiv.innerHTML = html;
+        // Show dropdown if there are results
         resDiv.style.display = this.state.searchResults.length ? 'block' : 'none';
     }
 
-    navigateSearchResult(dir) {
-        const newIdx = this.state.currentSearchIndex + dir;
-        if (newIdx >= 0 && newIdx < this.state.searchResults.length) {
-            this.state.currentSearchIndex = newIdx;
-            const res = this.state.searchResults[newIdx];
-            this.navigateTo(res.code, res.ch, res.v);
-            this.renderSearchResults();
+    navigateSearchResult(delta) {
+        const total = this.state.searchResults.length;
+        if (total === 0) return;
+    
+        let current = this.state.currentSearchIndex;
+        // If nothing selected, moving forward selects the first result
+        if (current === -1) {
+            if (delta > 0) {
+                this.state.currentSearchIndex = 0;
+                this.state.searchPage = 0;
+                this.renderSearchResults();
+                this._refocusSearch();
+            }
+            return;
         }
+    
+        let newIdx;
+    
+        if (delta > 0) {
+            // Forward: simple addition + clamp to last index
+            newIdx = Math.min(current + delta, total - 1);
+        } else {
+            // Backward
+            const lastIdx = total - 1;
+            const pageSize = SEARCHPAGE_MAXITEMS;
+            const lastPageStart = Math.floor(lastIdx / pageSize) * pageSize;
+    
+            if (current === lastIdx && current % pageSize !== 0) {
+                // On the last item, but not on a page boundary → jump to start of last page
+                newIdx = lastPageStart;
+            } else {
+                // Otherwise, go to the start of the previous page
+                const currentPage = Math.floor(current / pageSize);
+                if (currentPage === 0) {
+                    newIdx = 0;
+                } else {
+                    newIdx = (currentPage - 1) * pageSize;
+                }
+            }
+        }
+    
+        // Clamp to valid range (safety)
+        newIdx = Math.max(0, Math.min(total - 1, newIdx));
+    
+        if (newIdx !== current) {
+            this.state.currentSearchIndex = newIdx;
+            this.state.searchPage = Math.floor(newIdx / SEARCHPAGE_MAXITEMS);
+            this.renderSearchResults();
+            this._refocusSearch();
+        }
+    }
+    
+    _refocusSearch() {
+        const box = document.getElementById('search-box');
+        if (box) box.focus();
+        document.getElementById('search-results').style.display = 'block';
+        document.getElementById('search-clear').style.display = 'block';
     }
 
     clearSearch() {
@@ -1633,17 +1717,26 @@ class App {
             }
             document.getElementById('search-clear').style.display = searchBox.value ? 'block' : 'none';
         });
-        searchBox.addEventListener('blur', () => {
+        searchBox.addEventListener('blur', (e) => {
+            // Use a timeout to let click events process
             setTimeout(() => {
+                const related = e.relatedTarget;
+                const res = document.getElementById('search-results');
+                // If focus moved to an element inside the results, keep open
+                if (related && res.contains(related)) {
+                    return;
+                }
+                // If focus moved to something else or null, close
                 if (document.activeElement !== searchBox) {
-                    document.getElementById('search-results').style.display = 'none';
+                    res.style.display = 'none';
                 }
             }, 100);
         });
         document.addEventListener('click', (e) => {
             const res = document.getElementById('search-results');
             const box = document.getElementById('search-box');
-            if (!box.contains(e.target) && !res.contains(e.target)) {
+            const sb = e.target.classList?.contains('search-nav-button') || false;
+            if (!sb && !box.contains(e.target) && !res.contains(e.target)) {
                 res.style.display = 'none';
             }
         });
