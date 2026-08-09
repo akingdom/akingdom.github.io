@@ -1217,7 +1217,7 @@ class SearchManager {
         }).join('');
 
         if (this.state.searchResults.length > end) {
-            html += `<div class="search-item" onclick="this.state.searchPage++; this.renderSearchResults();">Next 100 →</div>`;
+            html += `<div class="search-item" onclick="searchManager.state.searchPage++; searchManager.renderSearchResults();">Next 100 →</div>`;
         }
         resDiv.innerHTML = html;
         resDiv.style.display = this.state.searchResults.length ? 'block' : 'none';
@@ -1250,7 +1250,7 @@ class SearchManager {
     }
 }
 
-const searchManager = new SearchManager(state, navigateTo); // navigateTo is the global delegate
+window.searchManager = new SearchManager(state, navigateTo); // navigateTo is the global delegate
 
 // Override global search functions with delegates
 const handleSearch = (e) => searchManager.handleSearch(e);
