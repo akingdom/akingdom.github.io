@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>YouTube Deleted Video Finder | Uncover Hidden Titles</title>
+    <meta name="description" content="Tired of seeing [Deleted Video] in your playlists? Paste any unavailable YouTube URL to reveal the missing video title, channel, and author.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Unavailable Video Finder & Recovery Suite</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 650px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f4f6f9;
+            color: #333;
+        }
+        h2 { color: #d32f2f; margin-top: 0; }
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            margin-bottom: 25px;
+        }
+        .marketing-box {
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            color: #f8fafc;
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(15, 23, 42, 0.2);
+        }
+        .marketing-box h3 {
+            color: #f43f5e;
+            margin-top: 0;
+            font-size: 1.4rem;
+        }
+        .marketing-box ul {
+            padding-left: 20px;
+            margin: 15px 0 0 0;
+        }
+        .marketing-box li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        .highlight {
+            color: #f43f5e;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 14px;
+            margin: 10px 0 20px 0;
+            border: 2px solid #e2e8f0;
+            border-radius: 6px;
+            box-sizing: border-box;
+            font-size: 16px;
+            transition: border-color 0.2s;
+        }
+        input[type="text"]:focus {
+            border-color: #d32f2f;
+            outline: none;
+        }
+        button {
+            background-color: #d32f2f;
+            color: white;
+            border: none;
+            padding: 14px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            width: 100%;
+            transition: background-color 0.2s;
+        }
+        button:hover { background-color: #b71c1c; }
+        .results {
+            margin-top: 25px;
+            display: none;
+            border-top: 2px solid #edf2f7;
+            padding-top: 20px;
+        }
+        .id-box {
+            background: #f1f5f9;
+            padding: 12px;
+            font-family: monospace;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            font-size: 18px;
+            text-align: center;
+            border: 1px dashed #cbd5e1;
+            color: #0f172a;
+        }
+        .links-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .search-link {
+            display: block;
+            padding: 14px;
+            background: #2563eb;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            text-align: center;
+            font-weight: 600;
+            transition: background-color 0.2s;
+        }
+        .search-link:hover { background: #1d4ed8; }
+        .search-link.archive { background: #475569; }
+        .search-link.archive:hover { background: #334155; }
+    </style>
+</head>
+<body>
+
+<!-- Persuasive Marketing Panel -->
+<div class="marketing-box">
+    <h3>Stop Letting YouTube Erase Your Memories</h3>
+    <p>We have all experienced it: you open a carefully curated playlist, only to find a hollow grey box labeled <em>[Deleted video]</em> or <em>[Private video]</em>. YouTube stripped the title, the channel name, and the author. They left you with total digital amnesia.</p>
+    <p><strong>Why you absolutely need this tool:</strong></p>
+    <ul>
+        <li><span class="highlight">Reclaim Your Media History:</span> Don't let corporate automated cleanups dictate what you remember. Turn frustrating blank spaces back into tangible titles.</li>
+        <li><span class="highlight">Find Alternative Uploads:</span> Once you uncover the original author and song/video title, you can instantly find re-uploads, backups on Vimeo, DailyMotion, or Spotify.</li>
+        <li><span class="highlight">Uncover Hidden Metadata:</span> This tool works like a digital forensic kit. It bypasses YouTube's erasure by isolating the unique digital footprint (Video ID) that search engine crawlers and web archives have already indexed.</li>
+    </ul>
+</div>
+
+<!-- Core Tool Card -->
+<div class="card">
+    <h2>YouTube Video Details Finder</h2>
+    <p>Paste the link of the unavailable playlist video below to track down its digital footprint:</p>
+    
+    <input type="text" id="ytUrl" placeholder="https://youtube.com..." autofocus>
+    <button onclick="analyzeUrl()">Extract & Find Info</button>
+
+    <div id="resultsBox" class="results">
+        <p><strong>Extracted Video ID:</strong></p>
+        <div id="videoIdDisplay" class="id-box"></div>
+        
+        <p>Click these links to check if search indexes or archives saved the video title, author, or channel name before it was removed:</p>
+        <div class="links-list">
+            <a id="waybackLink" class="search-link archive" target="_blank" rel="noopener">Look up on Wayback Machine Archive</a>
+            <a id="googleLink" class="search-link" target="_blank" rel="noopener">Search Video ID on Google</a>
+            <a id="duckLink" class="search-link" target="_blank" rel="noopener">Search Video ID on DuckDuckGo</a>
+        </div>
+    </div>
+</div>
+
+<script>
+function extractVideoId(url) {
+    // Regex matches common YouTube formats and isolates the exact 11-character video ID
+    const regExp = /^.*(?:(?:youtu\.be\/|v\/|vi\/|u\/\w\/|embed\/|shorts\/)|(?:(?:watch)?\?v(?:i)?=|\&v(?:i)?=))([^#\&\?]*).*/;
+    const match = url.match(regExp);
+    return (match && match[1].length === 11) ? match[1] : null;
+}
+
+function analyzeUrl() {
+    const urlInput = document.getElementById('ytUrl').value.trim();
+    const videoId = extractVideoId(urlInput);
+    const resultsBox = document.getElementById('resultsBox');
+    const idDisplay = document.getElementById('videoIdDisplay');
+
+    if (!videoId) {
+        alert('Could not find a valid 11-character YouTube Video ID. Please check your URL link format and try again.');
+        resultsBox.style.display = 'none';
+        return;
+    }
+
+    // Display the ID
+    idDisplay.textContent = videoId;
+
+    // Generate dynamic tool links
+    const cleanUrl = `https://youtube.com${videoId}`;
+    document.getElementById('waybackLink').href = `https://archive.org{cleanUrl}`;
+    document.getElementById('googleLink').href = `https://google.com{videoId}%22`;
+    document.getElementById('duckLink').href = `https://duckduckgo.com{videoId}%22`;
+
+    // Show the results area
+    resultsBox.style.display = 'block';
+}
+</script>
+
+</body>
+</html>
