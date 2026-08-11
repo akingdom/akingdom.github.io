@@ -151,6 +151,16 @@ I've spent years working alongside business owners to turn technology into a com
 
 > *Notes from my work:* I regularly consult with business owners on practical success – whether that's deciphering a complex tender, planning a new software rollout, or simply helping someone understand what their IT person is saying. I've worked at the small/SME level and have deep insight into how large corporations operate (from a human, not a bureaucratic, angle).
 
+<!--
+## Buy Me a Coffee
+
+<p align="center">
+  <a href="https://buymeacoffee.com">
+    <img src="https://shields.io" alt="Buy Me a Coffee">
+  </a>
+</p>
+-->
+
 ## Featured Projects
 
 <table><tr>
