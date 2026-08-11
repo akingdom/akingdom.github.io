@@ -311,4 +311,4 @@ I'm open to freelance, consulting, and collaboration opportunities – remote or
 <script src="js/3rd_party/lunr.js"></script>
 <script src="js/search.js"></script>
 <!--script src="js/tawk_to.js"></script-->
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="akingdom1" data-description="Buy me a tea or a coffee!" data-message="" data-color="#FFDD00" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" data-emoji="" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="akingdom1" data-description="Buy me a tea or a coffee!" data-message="Buy me a tea or a coffee!" data-color="#FFDD00" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" data-emoji="" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
