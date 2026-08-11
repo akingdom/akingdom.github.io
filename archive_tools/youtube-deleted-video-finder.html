@@ -172,10 +172,10 @@ function analyzeUrl() {
     idDisplay.textContent = videoId;
 
     // Generate dynamic tool links
-    const cleanUrl = `https://youtube.com${videoId}`;
-    document.getElementById('waybackLink').href = `https://archive.org{cleanUrl}`;
-    document.getElementById('googleLink').href = `https://google.com{videoId}%22`;
-    document.getElementById('duckLink').href = `https://duckduckgo.com{videoId}%22`;
+    const cleanUrl = `https://www.youtube.com/watch?v=${videoId}`;
+    document.getElementById('waybackLink').href = `https://web.archive.org/web/*/${cleanUrl}`;
+    document.getElementById('googleLink').href = `https://google.com/search?q=%22${videoId}%22`;
+    document.getElementById('duckLink').href = `https://duckduckgo.com/?q=%22${videoId}%22`;
 
     // Show the results area
     resultsBox.style.display = 'block';
