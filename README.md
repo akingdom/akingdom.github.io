@@ -151,15 +151,6 @@ I've spent years working alongside business owners to turn technology into a com
 
 > *Notes from my work:* I regularly consult with business owners on practical success – whether that's deciphering a complex tender, planning a new software rollout, or simply helping someone understand what their IT person is saying. I've worked at the small/SME level and have deep insight into how large corporations operate (from a human, not a bureaucratic, angle).
 
-<!--
-## Buy Me a Coffee
-
-<p align="center">
-  <a href="https://buymeacoffee.com">
-    <img src="https://shields.io" alt="Buy Me a Coffee">
-  </a>
-</p>
--->
 
 ## Featured Projects
 
@@ -320,3 +311,4 @@ I'm open to freelance, consulting, and collaboration opportunities – remote or
 <script src="js/3rd_party/lunr.js"></script>
 <script src="js/search.js"></script>
 <!--script src="js/tawk_to.js"></script-->
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="akingdom1" data-description="Buy me a tea or a coffee!" data-message="" data-color="#FFDD00" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" data-emoji="" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
