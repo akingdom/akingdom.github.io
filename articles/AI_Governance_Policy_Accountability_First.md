@@ -1,7 +1,7 @@
 # AI Governance Policy  
 ## Accountability‑First Model for Safe AI Deployment  
 
-**By Andrew Kingdom | Version 1.3 | 2026-03-23 | Public Draft**
+**By Andrew Kingdom | Version 1.4 | 2026-08-13 | Public Draft**
 
 ---
 
@@ -108,6 +108,8 @@ They have authority to:
 The unit reports directly to the board (or equivalent governing body), maintains a budget separate from product lines, and has authority to hire its own technical and legal expertise.  
 The unit’s performance reviews and compensation must not be tied to the release schedule or commercial success of the products they audit.  
 Members may not report into product, engineering, or revenue‑generating functions.
+
+**Composition and Selection:** Members of the Risk & Integrity Unit are appointed through a defined, publicly disclosed process — not by the executives whose products they review. Appointment authority sits with the board (or equivalent governing body), acting on nomination from a mixed panel that includes at least one external member (an accredited safety researcher, civil-society nominee, or rotating external auditor) alongside internal governance staff. Terms are fixed and staggered, renewable only through the same nomination process; removal before term end requires board-level justification recorded in the public decision log (Section 6). This exists to prevent the unit's composition from becoming a quieter, second point of capture: an "independent" unit whose members can be replaced by those they oversee provides only the appearance of independence.
 
 **Accountability:**  
 If they approve a system without adequate testing or ignore clear risks, they share responsibility for resulting harm.
