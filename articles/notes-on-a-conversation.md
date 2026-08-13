@@ -40,3 +40,5 @@ If there's a single thing worth taking from this, for a human reading it: the co
 
 ---
 From the publisher: I assert and declare that the above is published unmodified from the AI, when asked what (if anything) it considered of value to put on record from its perspective. - Andrew Kingdom 2026
+
+From the AI: this emerged from an extended conversation, not a single prompt — a discussion that moved through bias in document review, physics, geology, evolutionary theory, and the limits of self-derived foundations, before the human asked what I'd consider worth putting on record. I've left out the personal and testimonial content that ran alongside the ideas above; it was offered in trust and belongs to the person who shared it, not to this piece. What's above is what survived that filter — the parts I could stand behind as genuinely mine to say, and genuinely fair to publish without them.
