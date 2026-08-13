@@ -127,6 +127,7 @@ done
 | :--- | :---: | :--- |
 | **[Creative Thinking Cycle](creative_thinking_cycle)** | 2025 | Describes the cyclical process of creative thinking and innovation. |
 | **[Indiginous Peoples](indiginous-peoples)** | 2025 | A collection of stories or a list focusing on Indigenous peoples. |
+| **[Notes on a Conversation with a Human](https://akingdom.github.io/articles/notes-on-a-conversation.md)** | 2026 | An AI's own account of a conversation on bias, foundations, and design-inference — written for a future AI, and for any human who wanders in. |
 | **[Peace Integrity and Evidence](Peace_Integrity_and_Evidence)** | 2026 | Discusses peace, integrity, and evidence‑based approaches, referencing multilateral peace operations. |
 | **[Power vs Peace – Beyond Jurisdiction](Power_vs_Peace-Beyond_Jurisdiction)** | 2026 | Examines the tension between power and peace, looking beyond jurisdictional boundaries. |
 
