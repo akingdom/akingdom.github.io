@@ -5,8 +5,8 @@
 
 ---
 
-**Version:** 1.0  
-**Date:** June 2026  
+**Version:** 1.1  
+**Date:** Aug 2026  
 **Status:** Living Document — Subject to Revision as the Technology and Global Context Evolve
 
 *This paper reflects the state of AI governance discussions as of mid-2026. The regulatory landscape is changing rapidly. Readers are encouraged to verify current developments and adapt the framework to their specific context.*
@@ -59,6 +59,18 @@ This conviction is expressed in diverse traditions:
 - **If you are an ordinary citizen**, you fear being rendered obsolete or exploited.
 
 Every one of these fears is legitimate. We address each of them directly.
+
+### A Note on Why We Begin Here
+
+Every foundation is asserted rather than derived at some point — a legal document that tried to justify its own first axiom from something more basic would only push the same problem back a step. We say this openly rather than concealing it. Our foundation — that every human being possesses inherent, non-negotiable worth — rests on three grounds, offered as reasoned justification rather than proof.
+
+**Convergence.** The traditions listed above arrive at this commitment independently, from starting premises that otherwise disagree about almost everything, including the nature of ultimate reality itself. Convergence across incompatible starting points is evidence the commitment answers to something real, whatever its ultimate ground.
+
+**Fitness for the task.** This document doesn't attempt to settle metaphysics. It builds a structure adoptable across radically different worldviews without requiring agreement on those worldviews first. The commitment to human worth is the shared floor beneath traditions that ground that worth differently — theologically, relationally, through natural law, through human rights language. We don't adjudicate between these groundings; we ask only that the practical commitment be shared.
+
+**Cost of the alternative.** Every documented case of societies abandoning this commitment ended in atrocity. Not a proof, but the kind of evidence legal and constitutional traditions have historically treated as sufficient for a foundational commitment.
+
+We note, for transparency: treating this axiom as justified primarily through convergence and practical necessity is itself a choice that brackets rather than resolves the deeper question of whether human worth requires a transcendent source to be real at all — a question other work addresses directly (see, for instance, companion analyses on evidentiary and systemic integrity). Readers who hold that human worth cannot be sustained without such a source should read this framework as compatible with, not a substitute for, that deeper grounding.
 
 ---
 
