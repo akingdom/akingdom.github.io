@@ -176,6 +176,7 @@ done
 | **[AK on Writing](AK_on_writing)** | 2024 | Thoughts on writing techniques, creative process, and practical advice. |
 | **[Microstory – The Unsafe Saddle](microstory-The_unsafe_saddle)** | 2025 | A micro‑fiction piece titled "The Unsafe Saddle". |
 | **[Microstorywriting](microstorywriting)** | 2025 | Tips and guidance on writing micro‑stories. |
+| **Beowulf - Less by Just as Much** | 2026 | Analysis of a passage from Beowulf, focusing on the comparison of terror between Grendel's mother and a weaponed man. |
 | **[Tale – Bread Salt Blood](tale-bread-salt-blood)** | 2025 | A story entitled "Bread, Salt and Blood". |
 | **[The Goose Bride](The_Goose_Bride)** | 2024 | The main narrative of the "Goose Bride" tale. |
 
