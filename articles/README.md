@@ -103,7 +103,6 @@ done
 
 | Filename | Year | Summary |
 | :--- | :---: | :--- |
-
 | **[AI Is Arts Next Tool Not Grave](AI-is-Arts-Next-Tool-Not-Grave)** | 2025 | Discusses AI as the next creative tool for the arts, rather than a threat. |
 | **[AI Nomenclature](ai_nomenclature)** | 2024 | Discusses terminology and naming conventions within the AI field. |
 | **[AI Safety vs Impediment](ai_safety_vs_Impediment)** | 2025 | Looks at the balance between AI safety measures and potential obstacles to progress. |
