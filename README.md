@@ -224,7 +224,8 @@ I've spent years working alongside business owners to turn technology into a com
 
 - **Creative Endeavors** — Reading, writing, UI, artwork, music.
   - [Music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ) · [GarageBand export tool](https://akingdom.github.io/music/GB_Piano_Roll_Data_Viewer) · [Art](art2/) · [Stereograph Tool](https://akingdom.github.io/design_tools/stereograph-swapLR+flipL.html) · [Cleopatra Visualisation](https://akingdom.github.io/articles/reconstructing_cleopatra_vii) · [Henry I Visualisation](https://akingdom.github.io/articles/reconstructing_henry_i_england) · [AI Art](https://akingdom.github.io/art2/)
-  - **Writing** — [On Writing](https://akingdom.github.io/articles/AK_on_writing) · [Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen) · [Micro Stories](https://akingdom.github.io/articles/microstorywriting) · [The Unsafe Saddle](https://akingdom.github.io/articles/microstory-The_unsafe_saddle) · [The Goose Bride](https://akingdom.github.io/articles/The_Goose_Bride)
+  - **Writing** — [On Writing](https://akingdom.github.io/articles/AK_on_writing) · [Jane Austen](https://akingdom.github.io/articles/AK_on_Jane_Austen) · [Micro Stories](https://akingdom.github.io/articles/microstorywriting) · [The Unsafe Saddle](https://akingdom.github.io/articles/microstory-The_unsafe_saddle) · [The Goose Bride](https://akingdom.github.io/articles/The_Goose_Bride) · [Beowulf - Less by Just as Much](https://github.com/akingdom/akingdom.github.io/blob/main/articles/Beowulf-less-by-just-as-much)
+
   - **Software** — [Talking Clock](https://akingdom.github.io/talking_clock) · [Match Blocks](https://akingdom.github.io/matchblox) · [Code](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
 The above includes various [articles](articles) I have written.
