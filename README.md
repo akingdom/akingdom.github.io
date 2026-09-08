@@ -282,6 +282,8 @@ Technology should work for people, not the other way around. I approach every pr
 
 > Creating on a computer is like cooking in a kitchen: fairly pointless if no one eats the food. — *Andrew Kingdom*
 
+> Trust God and be at rest in Him. That is real gain that lasts—not like the things you leave behind. And it is not about strict rules. - *Paul* (1 Timothy 6:6-7).
+
 </details>
 
 
