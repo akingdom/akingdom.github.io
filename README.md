@@ -284,6 +284,8 @@ Technology should work for people, not the other way around. I approach every pr
 
 > Trust God and be at rest in Him. That is real gain that lasts—not like the things you leave behind. And it is not about strict rules. - *Paul* (1 Timothy 6:6-7).
 
+> A programming language is only as strong as its loops. - *Stephen Howard*
+
 </details>
 
 
